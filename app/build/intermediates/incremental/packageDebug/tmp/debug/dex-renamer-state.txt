@@ -1,4 +1,0 @@
-#Fri Oct 18 08:25:08 PDT 2019
-base.0=/Users/kleptode/AndroidStudioProjects/SnuuzRepo/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex

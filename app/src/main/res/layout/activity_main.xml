@@ -1,37 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
+    <EditText
+        android:id="@+id/BedTimeText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="75dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="75dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="@string/set_bed_time"
+        android:textAlignment="center" />
+
     <TimePicker
-        android:id="@+id/alarmTimePicker"
+        android:id="@+id/BedTimePicker"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/BedTimeText"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="75dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="75dp"
         android:clipToPadding="false"
-        android:headerBackground="@color/colorPrimary" />
+        android:headerBackground="@color/colorPrimary"
+        android:timePickerMode="spinner" />
 
-
-    <ToggleButton
+    <EditText
+        android:id="@+id/AlarmTimeText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/alarm_on_off"
-        android:id="@+id/alarmToggle"
-        android:layout_centerHorizontal="true"
-        android:layout_below="@+id/alarmTimePicker"
-        android:onClick="onToggleClicked" />
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@+id/BedTimePicker"
+        android:layout_marginStart="75dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="75dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="@string/set_wake_up_time"
+        android:textAlignment="center" />
 
-    <TextView
-        android:id="@+id/alarmText"
+    <TimePicker
+        android:id="@+id/AlarmTimePicker"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/alarmToggle"
-        android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="20dp"
-        android:text=""
-        android:textAppearance="?android:attr/textAppearanceLarge" />
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@+id/AlarmTimeText"
+        android:layout_marginStart="75dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="85dp"
+        android:clipToPadding="false"
+        android:headerBackground="@color/colorPrimary"
+        android:timePickerMode="spinner" />
+
 
 </RelativeLayout>

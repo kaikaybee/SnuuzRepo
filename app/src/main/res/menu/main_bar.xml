@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_clock"
+        android:icon="@drawable/ic_access_alarm_black_24dp"
+        android:title="@string/action_clock"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/action_history"
+        android:icon="@drawable/ic_insert_chart_black_24dp"
+        android:title="@string/action_history"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/action_settings"
+        android:icon="@drawable/ic_settings_black_24dp"
+        android:title="@string/action_settings"
+        app:showAsAction="always"/>
+
+</menu>

@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
 
     <androidx.appcompat.widget.Toolbar
         android:id="@+id/main_toolbar"
@@ -11,6 +12,24 @@
         android:background="?attr/colorPrimary"
         android:elevation="4dp"
         android:theme="@style/BarTheme"
-        app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
-        />
-</RelativeLayout>
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="hello" />
+    <Button
+        android:id="@+id/startSetDialog"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Set Target Time"/>
+    <Button
+        android:id="@+id/cancel"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Cancel Alarm"/>
+    <TextView
+        android:id="@+id/alarmprompt"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+</LinearLayout>

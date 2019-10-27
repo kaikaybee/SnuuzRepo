@@ -3,4 +3,7 @@
     <string name="alarm_on_off">Alarm On/Off</string>
     <string name="set_bed_time">Set Bed Time</string>
     <string name="set_wake_up_time">Set Wake Up Time</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_clock">Alarm Clock</string>
+    <string name="action_history">History</string>
 </resources>

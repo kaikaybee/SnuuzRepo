@@ -4,4 +4,6 @@
     <string name="action_clock">Alarm Clock</string>
     <string name="action_history">History</string>
     <string name="string">1</string>
+    <string name="cancel_alarm">Cancel Alarm</string>
+    <string name="set_target_time">Set Target Time</string>
 </resources>

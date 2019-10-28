@@ -14,22 +14,18 @@
         android:theme="@style/BarTheme"
         app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
 
-    <TextView
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
-        android:text="hello" />
     <Button
         android:id="@+id/startSetDialog"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="Set Target Time"/>
+        android:text="@string/set_target_time"/>
     <Button
         android:id="@+id/cancel"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="Cancel Alarm"/>
+        android:text="@string/cancel_alarm"/>
     <TextView
-        android:id="@+id/alarmprompt"
+        android:id="@+id/alarm_prompt"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content" />
 </LinearLayout>

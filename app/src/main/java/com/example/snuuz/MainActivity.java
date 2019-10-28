@@ -7,24 +7,18 @@ import android.view.MenuInflater;
 import androidx.appcompat.widget.Toolbar;
 import android.os.Bundle;
 import java.util.Calendar;
-
-import android.app.AlarmManager;
-import android.app.PendingIntent;
 import android.app.TimePickerDialog;
 import android.app.TimePickerDialog.OnTimeSetListener;
-import android.content.Context;
-import android.content.Intent;
-import android.os.Bundle;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.TextView;
 import android.widget.TimePicker;
+import android.content.Intent;
 
 public class MainActivity extends AppCompatActivity {
 
-    TimePicker myTimePicker;
-    Button buttonstartSetDialog;
+    Button buttonStartSetDialog;
     Button buttonCancelAlarm;
     TextView textAlarmPrompt;
 
@@ -35,14 +29,15 @@ public class MainActivity extends AppCompatActivity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        //Sets custom Toolbar to replace built-in actionBar
         Toolbar myToolbar = findViewById(R.id.main_toolbar);
         setSupportActionBar(myToolbar);
 
-
-        textAlarmPrompt = (TextView) findViewById(R.id.alarmprompt);
-
-        buttonstartSetDialog = (Button) findViewById(R.id.startSetDialog);
-        buttonstartSetDialog.setOnClickListener(new OnClickListener() {
+        //Brian's code - please comment
+        textAlarmPrompt = findViewById(R.id.alarm_prompt);
+        buttonStartSetDialog = findViewById(R.id.startSetDialog);
+        buttonStartSetDialog.setOnClickListener(new OnClickListener() {
             @Override
             public void onClick(View v) {
                 textAlarmPrompt.setText("");
@@ -50,10 +45,7 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
-
-        buttonCancelAlarm = (Button)
-
-                findViewById(R.id.cancel);
+        buttonCancelAlarm = findViewById(R.id.cancel);
         buttonCancelAlarm.setOnClickListener(new OnClickListener() {
             @Override
             public void onClick(View arg0) {
@@ -62,6 +54,8 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
+
+    //Replaces overflow menu of Toolbar with custom buttons
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         MenuInflater inflater = getMenuInflater();
@@ -69,19 +63,17 @@ public class MainActivity extends AppCompatActivity {
         return true;
     }
 
+    //Upon a Toolbar button press, loads whichever activity it should
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         switch (item.getItemId()) {
-            case R.id.action_clock: {
-                //call clock
-                return true;
-            }
             case R.id.action_history: {
-                //call history
+                System.out.println("History");
                 return true;
             }
             case R.id.action_settings: {
-                //call settings
+                Intent settingsIntent = new Intent(MainActivity.this, SettingsActivity.class);
+                startActivity(settingsIntent);
                 return true;
             }
             default:
@@ -89,7 +81,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-
+    //Brian's code - please comment
     private void openTimePickerDialog(boolean is24r){
         Calendar calendar = Calendar.getInstance();
 
@@ -105,6 +97,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    //Brian's code - please comment
     OnTimeSetListener onTimeSetListener
             = new OnTimeSetListener(){
 

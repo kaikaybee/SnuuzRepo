@@ -9,12 +9,12 @@ import androidx.appcompat.widget.Toolbar;
 import androidx.appcompat.app.AppCompatActivity;
 
 
-public class SettingsActivity extends AppCompatActivity{
+public class HistoryActivity extends AppCompatActivity{
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_settings);
+        setContentView(R.layout.activity_history);
 
         //Sets custom Toolbar to replace built-in actionBar
         Toolbar mainToolbar = findViewById(R.id.main_toolbar);
@@ -33,20 +33,18 @@ public class SettingsActivity extends AppCompatActivity{
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         switch (item.getItemId()) {
+            case R.id.action_settings: {
+                Intent settingsIntent = new Intent(HistoryActivity.this, SettingsActivity.class);
+                startActivity(settingsIntent);
+                return true;
+            }
             case R.id.action_clock: {
-                Intent mainIntent = new Intent(SettingsActivity.this, MainActivity.class);
+                Intent mainIntent = new Intent(HistoryActivity.this, MainActivity.class);
                 startActivity(mainIntent);
                 return true;
             }
-            case R.id.action_history: {
-                Intent historyIntent = new Intent(SettingsActivity.this, HistoryActivity.class);
-                startActivity(historyIntent);
-                return true;
-            }
-
             default:
                 return super.onOptionsItemSelected(item);
         }
     }
 }
-

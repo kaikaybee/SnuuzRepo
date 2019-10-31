@@ -6,4 +6,8 @@
     <string name="string">1</string>
     <string name="cancel_alarm">Cancel Alarm</string>
     <string name="set_target_time">Set Target Time</string>
+    <string name="theme1">Color Theme 1</string>
+    <string name="light_switch">Light Switch</string>
+    <string name="color_theme">Color Theme</string>
+    <string name="settings_switch_2">Switch 2</string>
 </resources>

@@ -9,14 +9,30 @@
         android:layout_width="match_parent"
         android:layout_height="?attr/actionBarSize"
         android:background="?attr/colorPrimary"
-        android:elevation="4dp"
-        android:theme="@style/BarTheme"
+        android:theme="@style/Theme1"
         app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
 
-    <TextView
-        android:id="@+id/settings_text_view"
-        android:layout_width="fill_parent"
+    <Switch
+        android:id="@+id/light_switch"
+        android:layout_width="200dp"
         android:layout_height="wrap_content"
-        android:text="@string/action_settings"/>
+        android:layout_marginStart="100dp"
+        android:layout_marginTop="50dp"
+        android:text="@string/light_switch" />
+
+    <Switch
+        android:id="@+id/switch2"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="100dp"
+        android:layout_marginTop="50dp"
+        android:text="@string/settings_switch_2" />
+
+    <androidx.appcompat.widget.ActionMenuView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/theme_menu"
+        android:text="@string/color_theme"
+        />
 
 </LinearLayout>

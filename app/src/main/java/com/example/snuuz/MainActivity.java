@@ -3,8 +3,10 @@ package com.example.snuuz;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
-import java.util.Calendar;
 
+import java.io.*;
+import java.util.Calendar;
+import android.util.*;
 import android.app.AlarmManager;
 import android.app.PendingIntent;
 import android.app.TimePickerDialog;
@@ -17,13 +19,17 @@ import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.TextView;
 import android.widget.TimePicker;
+import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
+
 
     TimePicker myTimePicker;
     Button buttonstartSetDialog;
     Button buttonCancelAlarm;
     TextView textAlarmPrompt;
+
+
 
     TimePickerDialog timePickerDialog;
 
@@ -41,6 +47,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 textAlarmPrompt.setText("");
                 openTimePickerDialog(false);
+
 
             }});
 
@@ -69,6 +76,7 @@ public class MainActivity extends AppCompatActivity {
 
         timePickerDialog.show();
 
+
     }
 
     OnTimeSetListener onTimeSetListener
@@ -90,7 +98,30 @@ public class MainActivity extends AppCompatActivity {
                 calSet.add(Calendar.DATE, 1);
             }
 
-            //setAlarm(calSet);
+            setAlarm(calSet);
         }};
+    private void setAlarm(Calendar targetCal) {
+
+
+        textAlarmPrompt.setText(targetCal.getTime().toString());
+        try {
+
+            FileOutputStream fileout=openFileOutput("SleepData.txt", MODE_APPEND);
+            OutputStreamWriter outputWriter=new OutputStreamWriter(fileout);
+
+           outputWriter.write("SleepTime: "+Calendar.getInstance().getTime().toString()+"\n");
+
+
+            outputWriter.close();
+
+            //display file saved message
+            Toast.makeText(getBaseContext(), "File saved successfully!",
+                    Toast.LENGTH_SHORT).show();
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
+    }
 
 }

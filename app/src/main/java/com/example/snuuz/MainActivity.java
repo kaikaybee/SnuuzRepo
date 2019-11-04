@@ -1,26 +1,33 @@
 package com.example.snuuz;
 
 import androidx.appcompat.app.AppCompatActivity;
+
+import android.content.Intent;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.MenuInflater;
 import androidx.appcompat.widget.Toolbar;
 import android.os.Bundle;
+import android.view.View;
+import java.io.*;
 import java.util.Calendar;
 import android.app.TimePickerDialog;
 import android.app.TimePickerDialog.OnTimeSetListener;
-import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.TextView;
 import android.widget.TimePicker;
-import android.content.Intent;
+
+import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
     Button buttonStartSetDialog;
+
     Button buttonCancelAlarm;
     TextView textAlarmPrompt;
+
+
 
     TimePickerDialog timePickerDialog;
 
@@ -96,6 +103,7 @@ public class MainActivity extends AppCompatActivity {
 
         timePickerDialog.show();
 
+
     }
 
     //Brian's code - please comment
@@ -118,7 +126,35 @@ public class MainActivity extends AppCompatActivity {
                 calSet.add(Calendar.DATE, 1);
             }
 
-            //setAlarm(calSet);
+            setAlarm(calSet);
         }};
+    private void setAlarm(Calendar targetCal) {
+
+
+        textAlarmPrompt.setText(targetCal.getTime().toString());
+        try {
+
+            FileOutputStream fileout=openFileOutput("SleepData.txt", MODE_APPEND);
+            OutputStreamWriter outputWriter=new OutputStreamWriter(fileout);
+
+           outputWriter.write("SleepTime: "+Calendar.getInstance().getTime().toString()+"\n");
+
+
+            outputWriter.close();
+
+            //display file saved message
+            Toast.makeText(getBaseContext(), "File saved successfully!",
+                    Toast.LENGTH_SHORT).show();
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
+    }
+
+    public void launchDatabaseActivity(View view) {
+        Intent intent = new Intent(this, Database.class);
+        startActivity(intent);
+    }
 
 }

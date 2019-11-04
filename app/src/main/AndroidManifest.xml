@@ -11,6 +11,9 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
+        android:theme="@style/Theme1">
+        <activity android:name=".AlarmMainActivity"></activity>
+        <activity android:name=".Database"></activity>
         android:theme="@style/Theme1"
         tools:ignore="GoogleAppIndexingWarning">
         <activity android:name=".MainActivity">

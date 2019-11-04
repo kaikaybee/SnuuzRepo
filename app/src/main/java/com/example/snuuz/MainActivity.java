@@ -1,31 +1,31 @@
 package com.example.snuuz;
 
 import androidx.appcompat.app.AppCompatActivity;
-
+import android.view.Menu;
+import android.view.MenuItem;
+import android.view.MenuInflater;
+import androidx.appcompat.widget.Toolbar;
 import android.os.Bundle;
+
 
 import java.io.*;
 import java.util.Calendar;
-import android.util.*;
-import android.app.AlarmManager;
-import android.app.PendingIntent;
 import android.app.TimePickerDialog;
 import android.app.TimePickerDialog.OnTimeSetListener;
-import android.content.Context;
-import android.content.Intent;
-import android.os.Bundle;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.TextView;
 import android.widget.TimePicker;
+
 import android.widget.Toast;
+
+import android.content.Intent;
 
 public class MainActivity extends AppCompatActivity {
 
+    Button buttonStartSetDialog;
 
-    TimePicker myTimePicker;
-    Button buttonstartSetDialog;
     Button buttonCancelAlarm;
     TextView textAlarmPrompt;
 
@@ -38,31 +38,60 @@ public class MainActivity extends AppCompatActivity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        textAlarmPrompt = (TextView)findViewById(R.id.alarmprompt);
 
-        buttonstartSetDialog = (Button)findViewById(R.id.startSetDialog);
-        buttonstartSetDialog.setOnClickListener(new OnClickListener(){
+        //Sets custom Toolbar to replace built-in actionBar
+        Toolbar myToolbar = findViewById(R.id.main_toolbar);
+        setSupportActionBar(myToolbar);
 
+        //Brian's code - please comment
+        textAlarmPrompt = findViewById(R.id.alarm_prompt);
+        buttonStartSetDialog = findViewById(R.id.startSetDialog);
+        buttonStartSetDialog.setOnClickListener(new OnClickListener() {
             @Override
             public void onClick(View v) {
                 textAlarmPrompt.setText("");
                 openTimePickerDialog(false);
 
-
-            }});
-
-        buttonCancelAlarm = (Button)findViewById(R.id.cancel);
-        buttonCancelAlarm.setOnClickListener(new OnClickListener(){
-
+            }
+        });
+        buttonCancelAlarm = findViewById(R.id.cancel);
+        buttonCancelAlarm.setOnClickListener(new OnClickListener() {
             @Override
             public void onClick(View arg0) {
                 //cancelAlarm();
-            }});
+            }
+        });
+    }
 
 
+    //Replaces overflow menu of Toolbar with custom buttons
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        MenuInflater inflater = getMenuInflater();
+        inflater.inflate(R.menu.main_bar, menu);
+        return true;
+    }
 
+    //Upon a Toolbar button press, loads whichever activity it should
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        switch (item.getItemId()) {
+            case R.id.action_history: {
+                Intent historyIntent = new Intent(MainActivity.this, HistoryActivity.class);
+                startActivity(historyIntent);
+                return true;
+            }
+            case R.id.action_settings: {
+                Intent settingsIntent = new Intent(MainActivity.this, SettingsActivity.class);
+                startActivity(settingsIntent);
+                return true;
+            }
+            default:
+                return super.onOptionsItemSelected(item);
+        }
+    }
 
-}
+    //Brian's code - please comment
     private void openTimePickerDialog(boolean is24r){
         Calendar calendar = Calendar.getInstance();
 
@@ -79,6 +108,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    //Brian's code - please comment
     OnTimeSetListener onTimeSetListener
             = new OnTimeSetListener(){
 

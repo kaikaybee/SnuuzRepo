@@ -19,8 +19,14 @@ import android.widget.TextView;
 import android.widget.TimePicker;
 
 import android.widget.Toast;
-
+import android.widget.PopupWindow;
+import android.view.LayoutInflater;
+import android.view.MotionEvent;
+import android.view.Gravity;
+import android.widget.LinearLayout;
 import android.content.Intent;
+import android.app.AlarmManager;
+import android.app.PendingIntent;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -28,8 +34,10 @@ public class MainActivity extends AppCompatActivity {
 
     Button buttonCancelAlarm;
     TextView textAlarmPrompt;
+    Button PopupBtn;
 
-
+    AlarmManager alarm;
+    PendingIntent alarmIntent;
 
     TimePickerDialog timePickerDialog;
 
@@ -39,11 +47,43 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        alarm = (AlarmManager) getSystemService(ALARM_SERVICE);
         //Sets custom Toolbar to replace built-in actionBar
         Toolbar myToolbar = findViewById(R.id.main_toolbar);
         setSupportActionBar(myToolbar);
 
         //Brian's code - please comment
+        //Pop up window testing
+        PopupBtn = findViewById((R.id.popupBtn));
+        PopupBtn.setOnClickListener(new OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                // inflate the layout of the popup window
+                LayoutInflater inflater = (LayoutInflater)
+                        getSystemService(LAYOUT_INFLATER_SERVICE);
+                View popupView = inflater.inflate(R.layout.pop_up, null);
+
+                // create the popup window
+                int width = LinearLayout.LayoutParams.WRAP_CONTENT;
+                int height = LinearLayout.LayoutParams.WRAP_CONTENT;
+                boolean focusable = true; // lets taps outside the popup also dismiss it
+                final PopupWindow popupWindow = new PopupWindow(popupView, width, height, focusable);
+
+                // show the popup window
+                // which view you pass in doesn't matter, it is only used for the window tolken
+                popupWindow.showAtLocation(v, Gravity.CENTER, 0, 0);
+
+                // dismiss the popup window when touched
+                popupView.setOnTouchListener(new View.OnTouchListener() {
+                    @Override
+                    public boolean onTouch(View v, MotionEvent event) {
+                        popupWindow.dismiss();
+                        return true;
+                    }
+                });
+            }
+        });
+        //dialog for setting alarm
         textAlarmPrompt = findViewById(R.id.alarm_prompt);
         buttonStartSetDialog = findViewById(R.id.startSetDialog);
         buttonStartSetDialog.setOnClickListener(new OnClickListener() {
@@ -59,6 +99,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View arg0) {
                 //cancelAlarm();
+                alarm.cancel(alarmIntent);
             }
         });
     }
@@ -92,6 +133,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     //Brian's code - please comment
+    //Uses default time picker dialog to let user set alarm.
+    //Uses Calender to get current time and to set a new calender instance.
     private void openTimePickerDialog(boolean is24r){
         Calendar calendar = Calendar.getInstance();
 
@@ -109,6 +152,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     //Brian's code - please comment
+    //Takes inputted User alarm time and sets alarm
     OnTimeSetListener onTimeSetListener
             = new OnTimeSetListener(){
 
@@ -131,12 +175,16 @@ public class MainActivity extends AppCompatActivity {
             setAlarm(calSet);
         }};
     private void setAlarm(Calendar targetCal) {
-
+    //sets alarm by sending alarm data to a receiver with a pending intent.
+    //records time when the alarm was set by the user(not the time the alarm will go off)
 
         textAlarmPrompt.setText(targetCal.getTime().toString());
+        Intent AlarmIntent = new Intent(MainActivity.this, AlarmReceiver.class);
+        alarmIntent = PendingIntent.getBroadcast(MainActivity.this, 0, AlarmIntent, 0);
+        alarm.setExact(AlarmManager.RTC_WAKEUP, targetCal.getTimeInMillis(), alarmIntent);
         try {
 
-            FileOutputStream fileout=openFileOutput("SleepData.txt", MODE_APPEND);
+            FileOutputStream fileout = openFileOutput("SleepData.txt", MODE_APPEND);
             OutputStreamWriter outputWriter=new OutputStreamWriter(fileout);
 
            outputWriter.write("SleepTime: "+Calendar.getInstance().getTime().toString()+"\n");
@@ -144,7 +192,7 @@ public class MainActivity extends AppCompatActivity {
 
             outputWriter.close();
 
-            //display file saved message
+            //display file saved message for testing
             Toast.makeText(getBaseContext(), "File saved successfully!",
                     Toast.LENGTH_SHORT).show();
 
@@ -153,5 +201,6 @@ public class MainActivity extends AppCompatActivity {
         }
 
     }
+
 
 }

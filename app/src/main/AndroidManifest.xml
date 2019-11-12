@@ -24,6 +24,11 @@
         </activity>
         <activity android:name=".HistoryActivity" >
         </activity>
+        <activity android:name=".AlarmNotif" >
+        </activity>
+        <service android:name=".AlarmService"
+            android:enabled="true" />
+        <receiver android:name=".AlarmReceiver"/>
     </application>
 
 </manifest>

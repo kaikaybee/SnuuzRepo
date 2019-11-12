@@ -23,6 +23,11 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:text="@string/cancel_alarm"/>
+    <Button
+        android:id="@+id/popupBtn"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="popup"/>
     <TextView
         android:id="@+id/alarm_prompt"
         android:layout_width="fill_parent"

@@ -1,96 +1,90 @@
 package com.example.snuuz;
 
 import androidx.appcompat.app.AppCompatActivity;
-
-import android.os.Bundle;
-import java.util.Calendar;
+import androidx.fragment.app.DialogFragment;
 
 import android.app.AlarmManager;
 import android.app.PendingIntent;
 import android.app.TimePickerDialog;
-import android.app.TimePickerDialog.OnTimeSetListener;
 import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
-import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.TextView;
 import android.widget.TimePicker;
 
-public class MainActivity extends AppCompatActivity {
+import java.text.DateFormat;
+import java.util.Calendar;
 
-    TimePicker myTimePicker;
-    Button buttonstartSetDialog;
-    Button buttonCancelAlarm;
-    TextView textAlarmPrompt;
-
-    TimePickerDialog timePickerDialog;
-
+public class MainActivity extends AppCompatActivity implements TimePickerDialog.OnTimeSetListener {
+    private TextView mTextView; // This is the time display. I want other methods to be able to
+    // access it.
 
     @Override
-    public void onCreate(Bundle savedInstanceState) {
+    protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        textAlarmPrompt = (TextView)findViewById(R.id.alarmprompt);
 
-        buttonstartSetDialog = (Button)findViewById(R.id.startSetDialog);
-        buttonstartSetDialog.setOnClickListener(new OnClickListener(){
+        // Define text view
+        mTextView = findViewById(R.id.text_time);
 
+        // Define TimePicker button
+        Button buttonTimePicker = findViewById(R.id.button_timepicker);
+        buttonTimePicker.setOnClickListener(new View.OnClickListener() {
             @Override
-            public void onClick(View v) {
-                textAlarmPrompt.setText("");
-                openTimePickerDialog(false);
+            public void onClick(View view) {
+                DialogFragment timePicker = new TimePickerFragment();
+                timePicker.show(getSupportFragmentManager(), "time picker");
+            }
+        });
 
-            }});
-
-        buttonCancelAlarm = (Button)findViewById(R.id.cancel);
-        buttonCancelAlarm.setOnClickListener(new OnClickListener(){
-
+        // Define cancel button
+        Button buttonCancelAlarm = findViewById(R.id.button_cancel);
+        buttonCancelAlarm.setOnClickListener(new View.OnClickListener() {
             @Override
-            public void onClick(View arg0) {
-                //cancelAlarm();
-            }});
-
-
-
-
-}
-    private void openTimePickerDialog(boolean is24r){
-        Calendar calendar = Calendar.getInstance();
-
-        timePickerDialog = new TimePickerDialog(
-                MainActivity.this,
-                onTimeSetListener,
-                calendar.get(Calendar.HOUR_OF_DAY),
-                calendar.get(Calendar.MINUTE),
-                is24r);
-        timePickerDialog.setTitle("Set Alarm Time");
-
-        timePickerDialog.show();
-
+            public void onClick(View view) {
+                cancelAlarm();
+            }
+        });
     }
 
-    OnTimeSetListener onTimeSetListener
-            = new OnTimeSetListener(){
+    @Override
+    public void onTimeSet(TimePicker view, int hourOfDay, int minute) {
+        Calendar c = Calendar.getInstance();
+        c.set(Calendar.HOUR_OF_DAY, hourOfDay);
+        c.set(Calendar.MINUTE, minute);
+        c.set(Calendar.SECOND, 0);
 
-        @Override
-        public void onTimeSet(TimePicker view, int hourOfDay, int minute) {
+        updateTimeText(c);
+        startAlarm(c);
+    }
 
-            Calendar calNow = Calendar.getInstance();
-            Calendar calSet = (Calendar) calNow.clone();
+    private void updateTimeText(Calendar c) {
+        String timeText = "Alarm set for : ";
+        timeText += DateFormat.getTimeInstance(DateFormat.SHORT).format(c.getTime());
 
-            calSet.set(Calendar.HOUR_OF_DAY, hourOfDay);
-            calSet.set(Calendar.MINUTE, minute);
-            calSet.set(Calendar.SECOND, 0);
-            calSet.set(Calendar.MILLISECOND, 0);
+        mTextView.setText(timeText);
+    }
 
-            if(calSet.compareTo(calNow) <= 0){
-                //Today Set time passed, count to tomorrow
-                calSet.add(Calendar.DATE, 1);
-            }
+    private void startAlarm(Calendar c) {
+        AlarmManager alarmManager = (AlarmManager) getSystemService(Context.ALARM_SERVICE);
+        Intent intent = new Intent(this, AlertReceiver.class);
+        PendingIntent pendingIntent = PendingIntent.getBroadcast(this, 1, intent, 0);
 
-            //setAlarm(calSet);
-        }};
+        if (c.before(Calendar.getInstance())) {
+            c.add(Calendar.DATE, 1);
+        }
 
+        alarmManager.setExact(AlarmManager.RTC_WAKEUP, c.getTimeInMillis(), pendingIntent);
+    }
+
+    private void cancelAlarm() {
+        AlarmManager alarmManager = (AlarmManager) getSystemService(Context.ALARM_SERVICE);
+        Intent intent = new Intent(this, AlertReceiver.class);
+        PendingIntent pendingIntent = PendingIntent.getBroadcast(this, 1, intent, 0);
+
+        alarmManager.cancel(pendingIntent);
+        mTextView.setText("Alarm canceled");
+    }
 }

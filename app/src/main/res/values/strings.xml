@@ -1,4 +1,5 @@
 <resources>
-    <string name="app_name">Snuuz</string>
-    <string name="string">1</string>
+    <string name="app_name">scratch alarm</string>
+    <string name="action_open_button">open time picker</string>
+    <string name="action_cancel">cancel alarm</string>
 </resources>

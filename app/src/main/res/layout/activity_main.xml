@@ -13,11 +13,7 @@
         android:theme="@style/Theme1"
         app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
 
-    <Button
-        android:id="@+id/startSetDialog"
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/set_target_time"/>
+
     <Button
         android:id="@+id/cancel"
         android:layout_width="fill_parent"
@@ -27,6 +23,14 @@
         android:id="@+id/alarm_prompt"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/startSetDialog"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:onClick="insert"
+        android:text="@string/set_target_time" />
+
     <TextView
         android:id="@+id/text1"
         android:layout_width="fill_parent"
@@ -45,5 +49,14 @@
         app:layout_constraintHorizontal_bias="0.501"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+
+
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="time" />
 
 </LinearLayout>

@@ -14,7 +14,8 @@ public class Database extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_database);
+        // change layout to main activity
+        setContentView(R.layout.activity_main);
         db = new MyDB(this, "Sleep_Tracker", null, 1);
         date = findViewById(R.id.edit1);
         wake_up = findViewById(R.id.edit2);

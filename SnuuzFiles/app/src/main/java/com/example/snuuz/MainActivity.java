@@ -6,7 +6,13 @@ import android.view.MenuItem;
 import android.view.MenuInflater;
 import androidx.appcompat.widget.Toolbar;
 import android.os.Bundle;
+
+import java.io.FileOutputStream;
+import java.io.OutputStreamWriter;
+import java.text.SimpleDateFormat;
 import java.util.Calendar;
+import java.util.Date;
+
 import android.app.TimePickerDialog;
 import android.app.TimePickerDialog.OnTimeSetListener;
 import android.view.View;
@@ -15,6 +21,7 @@ import android.widget.Button;
 import android.widget.TextView;
 import android.widget.TimePicker;
 import android.content.Intent;
+import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -24,11 +31,20 @@ public class MainActivity extends AppCompatActivity {
 
     TimePickerDialog timePickerDialog;
 
+    MyDB db;
+    String date;
+    String wake_up;
+    String sleep;
+
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        //Creates database
+        db = new MyDB(this, "Sleep_Tracker", null, 1);
+
 
         //Sets custom Toolbar to replace built-in actionBar
         Toolbar myToolbar = findViewById(R.id.main_toolbar);
@@ -113,12 +129,75 @@ public class MainActivity extends AppCompatActivity {
             calSet.set(Calendar.SECOND, 0);
             calSet.set(Calendar.MILLISECOND, 0);
 
-            if(calSet.compareTo(calNow) <= 0){
-                //Today Set time passed, count to tomorrow
-                calSet.add(Calendar.DATE, 1);
-            }
+//            if(calSet.compareTo(calNow) <= 0){
+//                //Today Set time passed, count to tomorrow
+//                calSet.add(Calendar.DATE, 1);
+//            }
+
+            //Sets variables from time picker
+            SimpleDateFormat time_format = new SimpleDateFormat("HH:mm");
+            SimpleDateFormat date_format = new SimpleDateFormat("MM-dd-yyyy");
+            date = date_format.format((new Date()));
+            wake_up = calSet.get(calSet.HOUR_OF_DAY) + ":" + calSet.get(calSet.MINUTE);
+            sleep = time_format.format(calSet.getInstance().getTime());
+
+            setAlarm(calSet, wake_up);
+
 
             //setAlarm(calSet);
         }};
 
+    //Inserts information into database
+    private void setAlarm(Calendar targetCal, String wake_up) {
+
+        db.insert(date, wake_up, sleep);
+
+        textAlarmPrompt.setText(targetCal.getTime().toString());
+        try {
+
+
+            FileOutputStream fileout=openFileOutput("SleepData.txt", MODE_APPEND);
+            OutputStreamWriter outputWriter=new OutputStreamWriter(fileout);
+
+            outputWriter.write("SleepTime: "+wake_up+"\n");
+
+
+            outputWriter.close();
+
+            //display file saved message
+            Toast.makeText(getBaseContext(), "File saved successfully!",
+                    Toast.LENGTH_SHORT).show();
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
+    }
+
+    //Inserts item into database
+    public void insert(View view) {
+        String s1 = date;
+        String s2 = wake_up;
+        String s3 = sleep;
+        db.insert(s1, s2, s3);
+    }
+
+    //Deletes item from database
+    public void delete(View view) {
+        String s = date;
+        db.delete(s);
+    }
+
+    //Get all entries in database
+    public void view(View view) {
+        db.getAll();
+    }
+
+    // Update database
+    public void update(View view) {
+        String s1 = date;
+        String s2 = wake_up;
+        String s3 = sleep;
+        db.update(s1, s2, s3);
+    }
 }

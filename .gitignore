@@ -1,9 +1,10 @@
 SnuuzFiles/*.iml
 SnuuzFiles/.gradle
-/SnuuzFiles/local.properties
+SnuuzFiles/local.properties
 SnuuzFiles/.idea/caches
 SnuuzFiles/.idea/libraries
 SnuuzFiles/.idea/modules.xml
+SnuuzFiles/.idea/workspace.xml
 SnuuzFiles/.idea/navEditor.xml
 SnuuzFiles/.idea/assetWizardSettings.xml
 SnuuzFiles/.idea/.name

@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="trinidad_and_tobago">
+    <path d="M 636.9515 98.111 621.1261 84.7979 608.6085 79.9606 613.4864 75.2401 627.2762 66.3477 637.0138 54.5601 633.187 46.5992 642.5648 43.1901 656.5777 40.2826 662.413 37.0115 668.4503 35.901 676.3451 40.4845 679.9998 40.0403 689.4494 29.0157 694.8204 25.2197 698.5154 28.8946 699 41.2114 697.2837 56.4358 693.5685 67.1776 684.9669 65.8854 681.918 73.3361 677.5566 74.1639 672.6097 72.5082 667.7234 72.6293 659.3237 84.5827 636.9515 98.111 Z" id="TT.193" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>TT.</code_hasc>
+        <name>Eastern Tobago</name>
+        <admin>Trinidad and Tobago</admin>
+        <type_en>Region</type_en>
+        <region/>
+        <woe_id>56189856</woe_id>
+        <longitude>-60</longitude>
+        <woe_name/>
+        <fips>TD11</fips>
+        <woe_label/>
+        <latitude>11</latitude>
+        <iso_a2>TT</iso_a2>
+        <postal/>
+        <type>Region</type>
+        <id>TT.193</id>
+      </desc>
+    </path>
+    <path d="M 636.9515 98.111 619.9907 96.6572 589.9861 111.5586 581.1826 113.6181 567.8158 125.0061 559.4363 128.3377 555.923 120.4024 548.4724 124.0975 541.5669 122.9466 537.5084 118.0602 538.6593 110.5288 542.8591 108.4491 549.7444 107.3587 556.1653 104.8146 558.9719 98.3533 563.8987 91.9324 605.897 64.795 619.9907 52.3167 633.187 46.5992 637.0138 54.5601 627.2762 66.3477 613.4864 75.2401 608.6085 79.9606 621.1261 84.7979 636.9515 98.111 Z" id="TT.6597" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>TT.</code_hasc>
+        <name>Western Tobago</name>
+        <admin>Trinidad and Tobago</admin>
+        <type_en>Region</type_en>
+        <region/>
+        <woe_id>56189855</woe_id>
+        <longitude>-60</longitude>
+        <woe_name/>
+        <fips>TD11</fips>
+        <woe_label/>
+        <latitude>11</latitude>
+        <iso_a2>TT</iso_a2>
+        <postal/>
+        <type>Region</type>
+        <id>TT.6597</id>
+      </desc>
+    </path>
+    <path d="M 90.7916 351.8172 94.7289 356.4613 93.679 358.0968 90.3676 356.0978 87.561 356.4209 86.3495 357.8949 87.0764 359.5708 90.0243 361.5092 88.934 363.0639 82.0891 363.4072 83.7246 353.372 86.1072 351.2923 90.7916 351.8172 Z M 119.4433 359.0256 118.252 359.7929 112.235 357.9555 115.9704 349.475 119.8068 347.9405 123.3807 348.001 124.2489 349.9394 123.7239 355.5729 120.0491 357.4305 119.4433 359.0256 Z M 218.8417 323.2301 219.6879 333.59 216.8671 345.0781 208.0715 360.2845 196.6731 359.5152 189.3814 364.6365 175.2123 358.2583 164.5915 356.0373 139.2916 354.3412 136.1417 353.372 130.5689 344.9319 156.3534 327.3653 163.057 324.5991 183.3898 326.2952 206.2264 321.0252 218.6501 321.1868 218.8417 323.2301 Z" id="TT.DM" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>TT.DM</code_hasc>
+        <name>Diego Martin</name>
+        <admin>Trinidad and Tobago</admin>
+        <type_en>Region</type_en>
+        <region/>
+        <woe_id>56189828</woe_id>
+        <longitude>-61</longitude>
+        <woe_name/>
+        <fips>TD00</fips>
+        <woe_label/>
+        <latitude>10</latitude>
+        <iso_a2>TT</iso_a2>
+        <postal>DM</postal>
+        <type>Region</type>
+        <id>TT.DM</id>
+      </desc>
+    </path>
+    <path d="M 203.421 576.488 205.5713 579.7647 219.0981 591.5093 225.3038 595.3558 229.2143 603.4847 228.9964 612.0239 226.9834 621.1016 224.6627 625.8969 215.9312 637.3081 214.1361 642.7188 211.6752 661.1505 191.8501 657.8598 173.072 664.6038 152.7391 668.0363 145.7327 666.9662 130.5689 657.8598 121.3413 655.1542 111.1648 653.983 68.1771 653.9023 56.4055 655.2753 47.4001 659.5559 30.4796 670.8228 20.3233 674.6591 11.6611 674.7803 1 667.6325 5.846 660.9087 24.2 650.7524 45.7444 646.1084 54.1844 635.528 61.938 629.7129 70.2367 625.7149 110.8233 613.3368 118.4485 624.9994 128.8212 622.6915 139.3862 613.9215 148.8614 600.2537 149.4383 597.6124 144.6045 591.4074 144.4404 576.2256 150.7402 572.9546 158.2514 572.8334 183.8946 577.1948 203.421 576.488 Z" id="TT.SI" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>TT.SI</code_hasc>
+        <name>Siparia</name>
+        <admin>Trinidad and Tobago</admin>
+        <type_en>Region</type_en>
+        <region/>
+        <woe_id>56189835</woe_id>
+        <longitude>-61</longitude>
+        <woe_name/>
+        <fips>TD00</fips>
+        <woe_label/>
+        <latitude>10</latitude>
+        <iso_a2>TT</iso_a2>
+        <postal>SI</postal>
+        <type>Region</type>
+        <id>TT.SI</id>
+      </desc>
+    </path>
+    <path d="M 325.62 394.2618 321.2478 394.1592 316.6833 392.6976 315.1832 391.0307 318.5937 386.3637 318.9912 380.8247 320.299 378.1835 320.2093 371.1316 327.2355 377.7476 330.1075 388.1587 329.4665 393.0822 325.62 394.2618 Z" id="TT.TP" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>TT.TP</code_hasc>
+        <name>Arima</name>
+        <admin>Trinidad and Tobago</admin>
+        <type_en>City</type_en>
+        <region/>
+        <woe_id>2347116</woe_id>
+        <longitude>-61</longitude>
+        <woe_name/>
+        <fips>TD01</fips>
+        <woe_label/>
+        <latitude>10</latitude>
+        <iso_a2>TT</iso_a2>
+        <postal/>
+        <type>City</type>
+        <id>TT.TP</id>
+      </desc>
+    </path>
+    <path d="M 442.7699 465.5762 414.5506 462.6522 364.0207 469.1912 354.3788 466.4987 353.648 464.319 353.3531 460.0366 357.4432 448.8818 357.5458 441.0094 353.6993 437.009 352.1479 432.983 350.699 412.0582 348.6604 406.75 343.1727 402.1599 355.9559 396.1594 361.1486 389.1588 361.9564 385.5431 360.905 378.9528 355.302 370.6188 353.6865 362.4386 355.802 354.9251 355.5071 342.0009 350.7503 338.7186 342.9804 336.7697 343.9292 334.8208 357.9817 333.4361 362.4949 332.0514 373.4189 320.9735 383.8429 313.9473 383.4582 305.126 376.7021 296.7155 385.002 290.4956 413.9364 287.0429 422.8812 283.3075 487.2315 276.2001 507.8471 280.2384 486.7671 316.785 460.7201 348.6068 451.4926 346.9511 445.6169 356.4613 442.9516 371.302 443.4967 385.5572 453.1281 415.7233 455.1271 430.4227 440.7709 442.5982 441.0738 456.5304 442.7699 465.5762 Z" id="TT.SN" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>TT.SN</code_hasc>
+        <name>Sangre Grande</name>
+        <admin>Trinidad and Tobago</admin>
+        <type_en>Region</type_en>
+        <region/>
+        <woe_id>56189833</woe_id>
+        <longitude>-61</longitude>
+        <woe_name/>
+        <fips>TD00</fips>
+        <woe_label/>
+        <latitude>10</latitude>
+        <iso_a2>TT</iso_a2>
+        <postal>SN</postal>
+        <type>Region</type>
+        <id>TT.SN</id>
+      </desc>
+    </path>
+    <path d="M 442.7699 465.5762 447.8783 492.9356 453.7338 506.0197 462.6181 519.0231 481.0529 531.885 466.6968 547.1498 460.4576 572.8132 460.1951 601.8082 463.8296 627.0476 453.1685 624.7458 441.2151 628.3398 429.9281 635.205 412.3816 648.4102 401.1148 652.5696 373.6867 658.3452 366.585 581.4572 358.392 567.3021 353.7634 561.6606 349.5836 560.7888 347.7501 556.5833 344.5575 554.378 340.9803 543.2488 348.0962 533.0428 352.1094 519.5032 355.084 491.0905 357.3791 481.2435 364.0207 469.1912 414.5506 462.6522 442.7699 465.5762 Z" id="TT.MR" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>TT.MR</code_hasc>
+        <name>Rio Claro-Mayaro</name>
+        <admin>Trinidad and Tobago</admin>
+        <type_en>Region</type_en>
+        <region/>
+        <woe_id>56189832</woe_id>
+        <longitude>-61</longitude>
+        <woe_name/>
+        <fips>TD00</fips>
+        <woe_label/>
+        <latitude>10</latitude>
+        <iso_a2>TT</iso_a2>
+        <postal>MR</postal>
+        <type>Region</type>
+        <id>TT.MR</id>
+      </desc>
+    </path>
+    <path d="M 258.5117 414.6481 242.9976 415.2892 232.4745 428.6237 232.5158 418.6713 227.4881 400.4586 215.5953 385.5572 219.2499 382.5083 215.8631 380.2297 217.8929 369.8238 217.0851 367.6698 215.1362 363.9772 208.0715 360.2845 216.8671 345.0781 219.6879 333.59 218.8417 323.2301 218.6501 321.1868 220.8047 321.2069 227.0237 318.4003 233.3638 311.3939 235.9079 317.5119 239.603 317.5119 239.603 310.7275 242.6519 310.7275 242.9951 313.2313 246.3671 317.5119 242.6519 321.2069 246.771 320.2377 252.8284 314.4226 263.328 314.4226 279.9456 297.1992 286.8711 296.6339 292.1941 312.2035 296.2329 320.4094 295.6815 325.9483 292.5402 329.6666 289.54 330.5897 277.321 328.3587 270.4871 329.6666 257.2424 327.7946 252.9984 329.0511 250.2289 334.0003 249.1904 342.6164 252.7292 364.4131 252.5625 376.7731 258.5117 414.6481 Z" id="TT.SL" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>TT.SL</code_hasc>
+        <name>San Juan-Laventille</name>
+        <admin>Trinidad and Tobago</admin>
+        <type_en>Region</type_en>
+        <region/>
+        <woe_id>56189834</woe_id>
+        <longitude>-61</longitude>
+        <woe_name/>
+        <fips>TD00</fips>
+        <woe_label/>
+        <latitude>10</latitude>
+        <iso_a2>TT</iso_a2>
+        <postal>SL</postal>
+        <type>Region</type>
+        <id>TT.SL</id>
+      </desc>
+    </path>
+    <path d="M 340.9803 543.2488 344.5575 554.378 347.7501 556.5833 349.5836 560.7888 353.7634 561.6606 358.392 567.3021 366.585 581.4572 373.6867 658.3452 366.7489 659.0309 336.3001 654.1446 325.3765 655.0936 293.7768 661.252 273.7294 659.5123 276.8338 587.7654 272.9488 582.6368 267.4996 577.7133 242.7668 567.097 249.5366 541.8128 259.4733 540.7871 276.4363 533.7608 293.0659 530.6324 307.2723 530.3759 322.2607 533.4531 336.5696 539.1459 340.9803 543.2488 Z" id="TT.PT" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>TT.PT</code_hasc>
+        <name>Princes Town</name>
+        <admin>Trinidad and Tobago</admin>
+        <type_en>Region</type_en>
+        <region/>
+        <woe_id>56189831</woe_id>
+        <longitude>-61</longitude>
+        <woe_name/>
+        <fips>TD00</fips>
+        <woe_label/>
+        <latitude>10</latitude>
+        <iso_a2>TT</iso_a2>
+        <postal>PT</postal>
+        <type>Region</type>
+        <id>TT.PT</id>
+      </desc>
+    </path>
+    <path d="M 364.0207 469.1912 357.3791 481.2435 355.084 491.0905 352.1094 519.5032 348.0962 533.0428 340.9803 543.2488 336.5696 539.1459 322.2607 533.4531 307.2723 530.3759 293.0659 530.6324 276.4363 533.7608 259.4733 540.7871 249.5366 541.8128 236.3688 542.659 233.7694 541.9709 228.215 517.327 222.3392 511.5522 222.1373 508.8465 225.1862 507.7764 226.0343 506.3226 222.6623 492.7539 220.8047 489.3617 219.7143 482.2139 222.5411 472.4211 229.1236 457.0351 232.4427 436.3166 242.6642 437.8552 246.344 440.1631 251.0624 441.0606 254.8191 444.1378 260.8452 445.9841 273.5258 445.0866 276.9876 441.9838 280.9752 425.5721 278.757 415.0328 280.9239 411.135 288.1809 412.1351 294.4122 411.8017 300.5537 409.0579 307.5415 407.4937 328.9664 406.5962 343.1727 402.1599 348.6604 406.75 350.699 412.0582 352.1479 432.983 353.6993 437.009 357.5458 441.0094 357.4432 448.8818 353.3531 460.0366 353.648 464.319 354.3788 466.4987 364.0207 469.1912 Z" id="TT.CT" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>TT.CT</code_hasc>
+        <name>Couva-Tabaquite-Talparo</name>
+        <admin>Trinidad and Tobago</admin>
+        <type_en>Region</type_en>
+        <region/>
+        <woe_id>56189827</woe_id>
+        <longitude>-61</longitude>
+        <woe_name/>
+        <fips>TD00</fips>
+        <woe_label/>
+        <latitude>10</latitude>
+        <iso_a2>TT</iso_a2>
+        <postal>CT</postal>
+        <type>Region</type>
+        <id>TT.CT</id>
+      </desc>
+    </path>
+    <path d="M 273.7294 659.5123 254.686 657.8598 211.6752 661.1505 214.1361 642.7188 215.9312 637.3081 224.6627 625.8969 226.9834 621.1016 228.9964 612.0239 229.2143 603.4847 225.3038 595.3558 219.0981 591.5093 205.5713 579.7647 203.421 576.488 210.4666 576.2256 216.0799 574.0651 218.7377 571.9421 219.252 572.5846 242.7668 567.097 267.4996 577.7133 272.9488 582.6368 276.8338 587.7654 273.7294 659.5123 Z" id="TT.PD" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>TT.PD</code_hasc>
+        <name>Penal-Debe</name>
+        <admin>Trinidad and Tobago</admin>
+        <type_en>Region</type_en>
+        <region/>
+        <woe_id>56189829</woe_id>
+        <longitude>-61</longitude>
+        <woe_name/>
+        <fips>TD00</fips>
+        <woe_label/>
+        <latitude>10</latitude>
+        <iso_a2>TT</iso_a2>
+        <postal>PD</postal>
+        <type>Region</type>
+        <id>TT.PD</id>
+      </desc>
+    </path>
+    <path d="M 110.8233 613.3368 129.842 604.3321 144.6045 591.4074 149.4383 597.6124 148.8614 600.2537 139.3862 613.9215 128.8212 622.6915 118.4485 624.9994 110.8233 613.3368 Z" id="TT.PF" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>TT.PF</code_hasc>
+        <name>Point Fortin</name>
+        <admin>Trinidad and Tobago</admin>
+        <type_en>City</type_en>
+        <region/>
+        <woe_id>56189830</woe_id>
+        <longitude>-61</longitude>
+        <woe_name/>
+        <fips>TD00</fips>
+        <woe_label/>
+        <latitude>10</latitude>
+        <iso_a2>TT</iso_a2>
+        <postal>PF</postal>
+        <type>City</type>
+        <id>TT.PF</id>
+      </desc>
+    </path>
+    <path d="M 376.7021 296.7155 383.4582 305.126 383.8429 313.9473 373.4189 320.9735 362.4949 332.0514 357.9817 333.4361 343.9292 334.8208 342.9804 336.7697 350.7503 338.7186 355.5071 342.0009 355.802 354.9251 353.6865 362.4386 355.302 370.6188 360.905 378.9528 361.9564 385.5431 361.1486 389.1588 355.9559 396.1594 343.1727 402.1599 328.9664 406.5962 307.5415 407.4937 300.5537 409.0579 294.4122 411.8017 288.1809 412.1351 280.9239 411.135 278.757 415.0328 258.5117 414.6481 252.5625 376.7731 252.7292 364.4131 249.1904 342.6164 250.2289 334.0003 252.9984 329.0511 257.2424 327.7946 270.4871 329.6666 277.321 328.3587 289.54 330.5897 292.5402 329.6666 295.6815 325.9483 296.2329 320.4094 292.1941 312.2035 286.8711 296.6339 314.8971 299.6424 372.4832 299.8847 376.7021 296.7155 Z M 325.62 394.2618 329.4665 393.0822 330.1075 388.1587 327.2355 377.7476 320.2093 371.1316 320.299 378.1835 318.9912 380.8247 318.5937 386.3637 315.1832 391.0307 316.6833 392.6976 321.2478 394.1592 325.62 394.2618 Z" id="TT.188" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>TT.TP</code_hasc>
+        <name>Tunapuna/Piarco</name>
+        <admin>Trinidad and Tobago</admin>
+        <type_en>Region</type_en>
+        <region/>
+        <woe_id>56189836</woe_id>
+        <longitude>-61</longitude>
+        <woe_name/>
+        <fips>TD00</fips>
+        <woe_label/>
+        <latitude>10</latitude>
+        <iso_a2>TT</iso_a2>
+        <postal>TP</postal>
+        <type>Region</type>
+        <id>TT.188</id>
+      </desc>
+    </path>
+    <path d="M 242.7668 567.097 219.252 572.5846 218.7377 571.9421 228.6996 562.031 232.5158 555.6101 234.3936 545.696 233.7694 541.9709 236.3688 542.659 249.5366 541.8128 242.7668 567.097 Z" id="TT.SF" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>TT.SF</code_hasc>
+        <name>San Fernando</name>
+        <admin>Trinidad and Tobago</admin>
+        <type_en>City</type_en>
+        <region/>
+        <woe_id>20069924</woe_id>
+        <longitude>-61</longitude>
+        <woe_name>San Fernando</woe_name>
+        <fips>TD10</fips>
+        <woe_label/>
+        <latitude>10</latitude>
+        <iso_a2>TT</iso_a2>
+        <postal>SF</postal>
+        <type>City</type>
+        <id>TT.SF</id>
+      </desc>
+    </path>
+    <path d="M 278.757 415.0328 280.9752 425.5721 276.9876 441.9838 273.5258 445.0866 260.8452 445.9841 254.8191 444.1378 251.0624 441.0606 246.344 440.1631 242.6642 437.8552 232.4427 436.3166 232.4745 428.6237 242.9976 415.2892 258.5117 414.6481 278.757 415.0328 Z" id="TT.CH" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>TT.CH</code_hasc>
+        <name>Chaguanas</name>
+        <admin>Trinidad and Tobago</admin>
+        <type_en>City</type_en>
+        <region/>
+        <woe_id>56189826</woe_id>
+        <longitude>-61</longitude>
+        <woe_name/>
+        <fips>TD00</fips>
+        <woe_label/>
+        <latitude>10</latitude>
+        <iso_a2>TT</iso_a2>
+        <postal>CH</postal>
+        <type>City</type>
+        <id>TT.CH</id>
+      </desc>
+    </path>
+    <path d="M 208.0715 360.2845 215.1362 363.9772 217.0851 367.6698 217.8929 369.8238 215.8631 380.2297 199.4421 369.1819 189.3814 364.6365 196.6731 359.5152 208.0715 360.2845 Z" id="TT.PS" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>TT.PS</code_hasc>
+        <name>Port of Spain</name>
+        <admin>Trinidad and Tobago</admin>
+        <type_en>City</type_en>
+        <region/>
+        <woe_id>2347120</woe_id>
+        <longitude>-61</longitude>
+        <woe_name>Port of Spain</woe_name>
+        <fips>TD05</fips>
+        <woe_label/>
+        <latitude>10</latitude>
+        <iso_a2>TT</iso_a2>
+        <postal>PS</postal>
+        <type>City</type>
+        <id>TT.PS</id>
+      </desc>
+    </path>
+  </g>
+</svg>

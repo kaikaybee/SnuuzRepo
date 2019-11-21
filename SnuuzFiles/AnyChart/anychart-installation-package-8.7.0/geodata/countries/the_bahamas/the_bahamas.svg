@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="the_bahamas">
+    <path d="M 269.8596 259.9475 268.5145 259.1366 263.995 258.7998 262.5538 257.0998 263.5651 255.2294 267.787 252.8171 273.5303 251.422 282.5889 251.0608 285.9625 252.8635 289.3823 253.7114 288.3836 254.8778 278.9004 259.1068 276.7309 259.0083 273.8849 257.702 271.0359 260.3982 269.8596 259.9475 Z" id="BS.NW" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>BS.NW</code_hasc>
+        <name>New Providence</name>
+        <admin>The Bahamas</admin>
+        <type_en>Capital</type_en>
+        <region/>
+        <woe_id>2344777</woe_id>
+        <longitude>-77</longitude>
+        <woe_name>New Providence</woe_name>
+        <fips/>
+        <woe_label>New Providence, BS, The Bahamas</woe_label>
+        <latitude>25</latitude>
+        <iso_a2>BS</iso_a2>
+        <postal>NW</postal>
+        <type>First Schedule District</type>
+        <id>BS.NW</id>
+      </desc>
+    </path>
+    <path d="M 173.5482 105.8114 172.6907 106.3461 170.7698 107.2427 169.1876 108.3082 168.3222 106.7233 170.2362 104.2552 172.2906 104.3133 173.5482 105.8114 Z" id="BS.FP" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>BS.FP</code_hasc>
+        <name>City of Freeport</name>
+        <admin>The Bahamas</admin>
+        <type_en>District</type_en>
+        <region/>
+        <woe_id>2344779</woe_id>
+        <longitude>-78</longitude>
+        <woe_name>City of Freeport</woe_name>
+        <fips>BF25</fips>
+        <woe_label>City of Freeport, BS, The Bahamas</woe_label>
+        <latitude>26</latitude>
+        <iso_a2>BS</iso_a2>
+        <postal>FP</postal>
+        <type>Third Schedule District</type>
+        <id>BS.FP</id>
+      </desc>
+    </path>
+    <path d="M 185.474 82.928 185.3056 83.6824 184.0552 83.9213 183.3015 82.3544 184.3258 83.1255 185.1472 81.9593 185.474 82.928 Z M 185.0113 88.2271 190.2986 100.0669 178.7836 102.6397 176.0306 104.8765 173.5482 105.8114 172.2906 104.3133 170.2362 104.2552 168.3222 106.7233 169.1876 108.3082 168.3398 108.9814 165.6286 109.484 162.0143 109.0306 158.5122 107.6786 152.6368 103.0074 138.6036 87.9953 140.3248 88.2381 152.7065 96.9948 155.2359 100.6982 158.4169 100.2496 161.2384 101.5681 163.3544 101.6582 170.2326 97.9852 174.4677 91.8551 176.143 90.8055 175.9678 89.7533 173.8734 88.3688 170.2088 87.5938 173.3509 83.6427 174.7067 78.2909 177.8593 81.5366 179.3469 85.4619 185.0113 88.2271 Z" id="BS.WG" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>BS.WG</code_hasc>
+        <name>West Grand Bahama</name>
+        <admin>The Bahamas</admin>
+        <type_en>District</type_en>
+        <region/>
+        <woe_id>24551257</woe_id>
+        <longitude>-78</longitude>
+        <woe_name>West Grand Bahama</woe_name>
+        <fips>BF54</fips>
+        <woe_label>West Grand Bahama, BS, The Bahamas</woe_label>
+        <latitude>26</latitude>
+        <iso_a2>BS</iso_a2>
+        <postal>WG</postal>
+        <type>Second Schedule District</type>
+        <id>BS.WG</id>
+      </desc>
+    </path>
+    <path d="M 240.3043 101.2288 239.5019 103.3942 238.3461 104.2433 236.2391 100.375 239.4111 99.5433 239.7973 100.0215 238.7581 101.3147 241.1926 99.4104 240.3043 101.2288 Z M 190.2986 100.0669 185.0113 88.2271 188.2173 89.592 190.069 89.1555 201.5321 91.3574 202.7708 89.6042 204.6264 88.7282 209.0407 90.3975 212.2253 89.1706 216.4703 89.8745 222.1484 87.8721 229.5706 87.6986 230.9457 87.1526 233.2515 83.746 234.6585 83.1924 234.045 89.0465 235.5471 92.5687 235.5726 94.4598 234.7938 96.0315 233.1376 96.692 230.2175 94.6016 223.2864 94.567 205.7452 97.7967 200.8102 97.673 190.2986 100.0669 Z" id="BS.EG" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>BS.EG</code_hasc>
+        <name>East Grand Bahama</name>
+        <admin>The Bahamas</admin>
+        <type_en>District</type_en>
+        <region/>
+        <woe_id>24551245</woe_id>
+        <longitude>-78</longitude>
+        <woe_name>East Grand Bahama</woe_name>
+        <fips>BF41</fips>
+        <woe_label>East Grand Bahama, BS, The Bahamas</woe_label>
+        <latitude>26</latitude>
+        <iso_a2>BS</iso_a2>
+        <postal>EG</postal>
+        <type>Second Schedule District</type>
+        <id>BS.EG</id>
+      </desc>
+    </path>
+    <path d="M 199.072 38.2535 198.1858 37.2942 199.0216 36.9109 199.7125 37.3871 199.072 38.2535 Z" id="BS.GC" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>BS.GC</code_hasc>
+        <name>Grand Cay</name>
+        <admin>The Bahamas</admin>
+        <type_en>District</type_en>
+        <region/>
+        <woe_id>24551246</woe_id>
+        <longitude>-78</longitude>
+        <woe_name>Grand Cay</woe_name>
+        <fips>BF42</fips>
+        <woe_label>Grand Cay, BS, The Bahamas</woe_label>
+        <latitude>27</latitude>
+        <iso_a2>BS</iso_a2>
+        <postal>GC</postal>
+        <type>Third Schedule District</type>
+        <id>BS.GC</id>
+      </desc>
+    </path>
+    <path d="M 286.5137 90.898 282.2999 91.7671 280.9055 92.9085 277.7203 92.1141 277.1202 91.0796 277.6684 89.5453 276.2667 86.1763 272.3694 79.372 270.0149 76.4767 266.6264 74.5992 264.66 74.4991 261.4611 75.8782 254.2086 73.6715 249.1051 73.353 242.4478 70.2522 235.4442 70.6231 230.7538 71.598 235.1589 68.9468 239.178 68.3041 247.4529 68.6052 260.1916 71.1488 262.2527 69.5943 266.9148 71.8964 270.5956 74.7789 286.5137 90.898 Z" id="BS.NO" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>BS.NO</code_hasc>
+        <name>North Abaco</name>
+        <admin>The Bahamas</admin>
+        <type_en>District</type_en>
+        <region/>
+        <woe_id>24551249</woe_id>
+        <longitude>-77</longitude>
+        <woe_name>North Abaco</woe_name>
+        <fips>BF46</fips>
+        <woe_label>North Abaco, BS, The Bahamas</woe_label>
+        <latitude>26</latitude>
+        <iso_a2>BS</iso_a2>
+        <postal>NO</postal>
+        <type>Second Schedule District</type>
+        <id>BS.NO</id>
+      </desc>
+    </path>
+    <path d="M 288.4321 125.7665 289.272 125.8897 289.7672 127.5152 289.3025 130.6921 288.6864 126.7097 286.6138 126.797 288.4321 125.7665 Z M 289.1233 120.6359 291.1941 118.3299 291.8914 118.3141 289.1233 120.6359 Z M 294.1045 114.2089 293.6195 114.6939 293.7477 117.2835 292.895 117.7219 291.7719 117.3091 290.6326 114.5531 292.682 113.5944 294.1045 114.2089 Z M 277.0273 99.3549 277.8437 99.8518 277.8192 101.3318 277.0392 101.0041 277.0273 99.3549 Z M 312.1956 126.2175 294.4066 132.8432 294.1791 131.5677 292.6977 130.0578 295.5882 125.944 294.7364 123.7952 294.7231 116.8432 296.0267 116.8416 297.7597 115.3751 298.6982 111.1471 300.3418 110.2043 301.6856 106.9056 301.0753 105.4432 295.8918 103.5574 287.7069 102.205 286.1671 101.2021 284.1803 97.0736 284.4814 94.8165 282.7616 91.9362 282.2999 91.7671 286.5137 90.898 290.3982 92.886 293.3235 93.1345 291.3487 94.5477 288.461 94.3956 291.5062 99.2763 293.7842 100.7527 299.1814 101.853 301.5982 103.0974 310.0498 109.0245 311.4652 112.1356 311.4542 113.7318 309.9742 115.088 310.1598 121.0954 310.9557 122.1549 313.5182 123.2141 312.1956 126.2175 Z" id="BS.CO" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>BS.CO</code_hasc>
+        <name>Central Abaco</name>
+        <admin>The Bahamas</admin>
+        <type_en>District</type_en>
+        <region/>
+        <woe_id>24551242</woe_id>
+        <longitude>-77</longitude>
+        <woe_name>Central Abaco</woe_name>
+        <fips>BF37</fips>
+        <woe_label>Central Abaco, BS, The Bahamas</woe_label>
+        <latitude>26</latitude>
+        <iso_a2>BS</iso_a2>
+        <postal>CO</postal>
+        <type>Second Schedule District</type>
+        <id>BS.CO</id>
+      </desc>
+    </path>
+    <path d="M 267.8486 151.5205 266.972 152.6309 265.7759 150.9866 267.2863 149.8807 267.8486 151.5205 Z M 294.4066 132.8432 312.1956 126.2175 313.6267 130.1465 312.7224 131.3356 309.6733 132.571 310.3106 130.6879 307.4211 130.9866 304.6562 132.49 300.1721 136.8521 299.2922 139.2761 297.4559 154.1989 297.334 169.2464 294.0796 172.2721 291.7503 170.9969 289.7315 168.1621 287.7944 163.0098 286.3854 161.7013 279.8987 160.1564 278.1526 157.7294 281.2209 157.22 282.5582 156.2173 283.6019 153.7971 287.0855 152.8725 290.406 149.2163 294.8183 146.581 293.7243 142.8317 291.9717 140.8037 291.8455 139.7345 294.0439 136.8844 294.4066 132.8432 Z" id="BS.SO" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>BS.SO</code_hasc>
+        <name>South Abaco</name>
+        <admin>The Bahamas</admin>
+        <type_en>District</type_en>
+        <region/>
+        <woe_id>24551253</woe_id>
+        <longitude>-77</longitude>
+        <woe_name>South Abaco</woe_name>
+        <fips>BF50</fips>
+        <woe_label>South Abaco, BS, The Bahamas</woe_label>
+        <latitude>26</latitude>
+        <iso_a2>BS</iso_a2>
+        <postal>SO</postal>
+        <type>Second Schedule District</type>
+        <id>BS.SO</id>
+      </desc>
+    </path>
+    <path d="M 267.135 130.2219 263.9736 133.8949 264.5235 131.707 263.4848 129.0221 263.5017 127.0925 267.135 130.2219 Z" id="BS.MI" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>BS.MI</code_hasc>
+        <name>Moore's Island</name>
+        <admin>The Bahamas</admin>
+        <type_en>District</type_en>
+        <region/>
+        <woe_id>24551248</woe_id>
+        <longitude>-77</longitude>
+        <woe_name>Moore's Island</woe_name>
+        <fips>BF45</fips>
+        <woe_label>Moore's Island, BS, The Bahamas</woe_label>
+        <latitude>26</latitude>
+        <iso_a2>BS</iso_a2>
+        <postal>MI</postal>
+        <type>Third Schedule District</type>
+        <id>BS.MI</id>
+      </desc>
+    </path>
+    <path d="M 238.2263 216.7372 236.2269 218.2073 232.4152 218.0085 233.718 217.0897 236.6989 217.0978 238.7271 215.6364 238.2263 216.7372 Z M 240.7463 187.8585 240.8762 188.7522 239.7848 188.6204 238.6868 187.2766 234.9527 181.3403 235.5621 180.5551 237.5368 181.8061 240.7463 187.8585 Z" id="BS.BY" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>BS.BY</code_hasc>
+        <name>Berry Islands</name>
+        <admin>The Bahamas</admin>
+        <type_en>District</type_en>
+        <region/>
+        <woe_id>24551241</woe_id>
+        <longitude>-77</longitude>
+        <woe_name>Berry Islands</woe_name>
+        <fips>BF32</fips>
+        <woe_label>Berry Islands, BS, The Bahamas</woe_label>
+        <latitude>25</latitude>
+        <iso_a2>BS</iso_a2>
+        <postal>BY</postal>
+        <type>Third Schedule District</type>
+        <id>BS.BY</id>
+      </desc>
+    </path>
+    <path d="M 245.6336 294.6464 237.3526 293.0699 227.5659 293.8984 219.6446 295.7952 215.8172 297.7793 213.1873 302.5484 209.9605 307.0106 205.7625 310.5347 203.3699 310.9009 190.4354 303.7057 183.4941 296.4974 182.4277 294.2306 187.2753 292.1592 188.3571 289.9459 190.5689 291.0038 191.5515 290.4256 192.4496 288.7936 191.8243 287.6624 193.0457 285.9941 194.4884 286.0813 195.6736 287.4185 196.1447 289.485 195.0171 293.9657 192.2808 296.4968 192.849 298.3451 193.5006 298.7221 197.3104 296.8867 198.0626 296.1219 197.8871 293.9341 199.62 294.8182 199.3008 300.3979 200.7725 301.3478 201.6529 300.1242 201.5285 296.0433 204.1121 297.2918 204.5935 296.7892 204.5714 295.3719 202.2788 292.6893 202.342 289.9975 199.8962 287.1903 198.8265 283.3034 197.5141 283.7617 198.4472 284.6029 198.7477 286.1434 198.5993 289.909 196.5686 285.73 195.1948 284.312 196.3803 279.6923 201.2283 274.7747 200.9164 272.3348 204.1443 271.3476 206.5411 265.7926 207.3517 265.7193 205.9987 263.0184 207.44 259.6003 208.9963 257.8105 208.8636 255.0339 207.2322 247.4376 204.3404 239.5056 205.4327 237.3521 211.5304 238.7843 213.9172 241.8579 215.3986 242.2452 219.5147 240.0112 224.6047 243.1673 225.542 244.5526 224.1715 246.0633 223.9065 247.7951 224.5793 249.4273 226.0294 250.6231 224.3994 256.9077 224.9129 258.0026 227.8835 259.127 229.0251 260.6245 234.204 274.3102 238.0553 280.3412 239.5162 281.9803 242.1035 283.3814 246.1766 288.2018 245.6336 294.6464 Z" id="BS.NS" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>BS.NS</code_hasc>
+        <name>North Andros</name>
+        <admin>The Bahamas</admin>
+        <type_en>District</type_en>
+        <region/>
+        <woe_id>24551250</woe_id>
+        <longitude>-77</longitude>
+        <woe_name>North Andros</woe_name>
+        <fips>BF47</fips>
+        <woe_label>North Andros, BS, The Bahamas</woe_label>
+        <latitude>24</latitude>
+        <iso_a2>BS</iso_a2>
+        <postal>NS</postal>
+        <type>Second Schedule District</type>
+        <id>BS.NS</id>
+      </desc>
+    </path>
+    <path d="M 239.3963 333.0007 237.244 333.9201 235.6654 333.3945 234.7212 333.8687 233.1499 337.4636 231.0116 339.4176 226.3602 341.6276 224.7293 341.7978 224.1559 341.0553 223.8427 337.4374 226.8024 337.7568 227.2488 336.8313 236.0483 331.9339 239.751 332.0088 239.3963 333.0007 Z M 226.7821 333.134 227.299 334.449 222.3631 334.3441 220.0175 332.2029 227.7305 329.6792 228.6581 331.0468 227.3224 331.0669 226.7821 333.134 Z M 235.3866 324.7225 233.6834 325.4859 232.2184 324.6812 232.2539 323.3218 236.8566 322.586 235.3866 324.7225 Z M 250.442 322.5388 249.702 323.9366 247.0619 322.6697 244.5064 323.0968 240.9393 326.1149 239.776 325.8268 239.3768 324.8398 239.9145 323.8757 243.6289 321.7554 247.1575 320.6055 249.2314 321.1033 250.442 322.5388 Z M 219.9934 329.5781 218.2636 329.4522 216.9418 328.1632 214.5887 319.1622 209.768 316.6382 209.2279 313.7123 209.9605 307.0106 213.1873 302.5484 215.8172 297.7793 219.6446 295.7952 227.5659 293.8984 237.3526 293.0699 245.6336 294.6464 244.5097 297.8455 247.0852 304.4965 247.4496 307.9819 246.574 310.4922 244.4511 311.9987 239.6485 312.8571 236.9379 315.7308 234.191 316.0354 233.4646 316.871 234.4668 319.0503 230.0213 322.3243 225.2373 322.7408 220.5328 325.7334 220.0598 326.5177 220.5595 328.9162 219.9934 329.5781 Z" id="BS.CS" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>BS.CS</code_hasc>
+        <name>Central Andros</name>
+        <admin>The Bahamas</admin>
+        <type_en>District</type_en>
+        <region/>
+        <woe_id>24551243</woe_id>
+        <longitude>-77</longitude>
+        <woe_name>Central Andros</woe_name>
+        <fips>BF38</fips>
+        <woe_label>Central Andros, BS, The Bahamas</woe_label>
+        <latitude>24</latitude>
+        <iso_a2>BS</iso_a2>
+        <postal>CS</postal>
+        <type>Second Schedule District</type>
+        <id>BS.CS</id>
+      </desc>
+    </path>
+    <path d="M 244.2655 353.702 240.8158 356.3108 237.0478 359.0073 235.7304 358.5275 236.1428 354.8889 233.2034 352.2897 233.8158 350.8056 226.4696 347.2874 227.6736 345.8963 229.469 346.5195 229.3585 343.5079 234.5825 340.6545 235.9523 336.6502 240.2327 336.0585 243.6428 331.625 247.405 330.1383 248.453 328.8147 251.0052 327.46 253.1778 331.7217 254.874 332.8449 248.3237 338.5205 246.0853 339.7046 243.2939 340.1633 243.2808 340.829 244.8823 340.9929 245.5413 341.7399 245.1277 342.5623 243.1585 343.2979 246.2785 345.6657 247.726 345.0679 248.1946 346.1601 245.5646 353.0213 244.2655 353.702 Z" id="BS.MC" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>BS.MC</code_hasc>
+        <name>Mangrove Cay</name>
+        <admin>The Bahamas</admin>
+        <type_en>District</type_en>
+        <region/>
+        <woe_id>24551247</woe_id>
+        <longitude>-77</longitude>
+        <woe_name>Mangrove Cay</woe_name>
+        <fips>BF44</fips>
+        <woe_label>Mangrove Cay, BS, The Bahamas</woe_label>
+        <latitude>24</latitude>
+        <iso_a2>BS</iso_a2>
+        <postal>MC</postal>
+        <type>Third Schedule District</type>
+        <id>BS.MC</id>
+      </desc>
+    </path>
+    <path d="M 245.6824 389.2519 244.3597 388.8655 245.0768 388.6546 244.8388 387.7716 246.5538 388.1132 245.6824 389.2519 Z M 237.2565 380.5673 236.7386 381.1709 235.5205 380.593 235.8539 379.9818 237.2565 380.5673 Z M 296.5281 354.1056 296.0224 355.1363 294.4594 354.0414 296.1196 353.61 296.5281 354.1056 Z M 262.806 354.2029 262.1825 357.1036 263.7046 359.5457 263.6669 361.6468 261.1324 363.5986 257.3773 364.3122 257.0034 366.7962 262.1023 363.7845 263.913 364.166 264.6547 365.5791 264.0352 369.2982 264.4703 370.9664 262.8587 374.4472 261.6377 375.0471 259.4004 374.3007 261.7992 378.3871 260.4281 382.3734 256.9944 383.9957 250.6091 380.8691 252.135 382.791 251.209 384.9197 250.5334 384.9071 249.0667 382.7816 246.3894 382.0127 240.6163 382.0897 243.7406 380.7383 243.3156 379.0412 245.2557 379.1308 249.9891 380.8575 251.5187 377.8376 259.102 373.6615 259.1222 372.5508 257.5109 371.8957 247.5047 378.1228 248.113 378.7441 245.9481 378.4461 243.8237 375.2922 241.9995 374.5868 247.9985 372.5402 251.046 370.7888 251.5131 368.7077 250.1888 370.0787 248.4004 370.6184 238.9695 371.2256 237.7251 369.2311 236.5339 362.5757 236.4659 360.0829 237.0478 359.0073 240.8158 356.3108 244.2655 353.702 245.9395 354.208 247.4007 352.9525 250.3198 347.284 253.1626 343.7759 254.0777 337.0299 255.1714 335.6104 256.9571 335.9247 262.0389 345.1199 262.806 354.2029 Z" id="BS.SA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>BS.SA</code_hasc>
+        <name>South Andros</name>
+        <admin>The Bahamas</admin>
+        <type_en>District</type_en>
+        <region/>
+        <woe_id>24551254</woe_id>
+        <longitude>-77</longitude>
+        <woe_name>South Andros</woe_name>
+        <fips>BF51</fips>
+        <woe_label>South Andros, BS, The Bahamas</woe_label>
+        <latitude>23</latitude>
+        <iso_a2>BS</iso_a2>
+        <postal>SA</postal>
+        <type>Second Schedule District</type>
+        <id>BS.SA</id>
+      </desc>
+    </path>
+    <path d="M 373.1636 361.0078 372.5945 361.6117 371.2488 360.2041 366.1553 349.8774 365.8302 347.4251 368.0477 349.0223 373.1636 361.0078 Z M 359.5988 336.5023 360.3672 337.8893 357.6488 337.3474 353.8981 332.4242 353.0569 329.7371 354.4368 330.5541 356.7091 334.4872 359.5988 336.5023 Z M 332.7836 307.4692 332.2055 307.9309 331.2755 307.5099 330.7713 306.2284 331.036 304.4878 331.7376 304.12 332.6507 305.5431 332.7836 307.4692 Z" id="BS.BP" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>BS.BP</code_hasc>
+        <name>Black Point</name>
+        <admin>The Bahamas</admin>
+        <type_en>District</type_en>
+        <region/>
+        <woe_id>24551258</woe_id>
+        <longitude>-76</longitude>
+        <woe_name>Black Point</woe_name>
+        <fips>BF36</fips>
+        <woe_label/>
+        <latitude>24</latitude>
+        <iso_a2>BS</iso_a2>
+        <postal>BP</postal>
+        <type>Third Schedule District</type>
+        <id>BS.BP</id>
+      </desc>
+    </path>
+    <path d="M 443.4668 415.8842 444.908 418.1374 434.6074 415.0787 433.1429 412.712 440.0945 414.08 443.4668 415.8842 Z M 403.9005 391.0787 406.7901 393.9154 410.1359 394.3138 408.8869 395.6442 414.7857 401.9965 420.0446 404.8479 421.4503 407.9171 424.8521 410.3796 432.4596 413.382 431.1518 414.7624 425.0215 411.9352 420.4103 411.558 418.6928 410.6588 419.4583 408.6074 414.5022 404.9241 413.2147 405.8179 406.7062 399.9019 402.8813 398.6177 398.3878 398.9987 398.3927 398.3255 401.4982 397.3097 398.9559 391.9215 399.6832 390.8768 400.7999 391.1051 402.7327 390.229 403.9005 391.0787 Z" id="BS.EX" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>BS.EX</code_hasc>
+        <name>Exuma</name>
+        <admin>The Bahamas</admin>
+        <type_en>District</type_en>
+        <region/>
+        <woe_id>2344771</woe_id>
+        <longitude>-75</longitude>
+        <woe_name>Exuma</woe_name>
+        <fips>BF10</fips>
+        <woe_label>Exuma, BS, The Bahamas</woe_label>
+        <latitude>23</latitude>
+        <iso_a2>BS</iso_a2>
+        <postal>EX</postal>
+        <type>Second Schedule District</type>
+        <id>BS.EX</id>
+      </desc>
+    </path>
+    <path d="M 329.0495 207.6375 330.7975 207.8931 330.65 208.4316 325.162 210.0545 325.1028 209.2814 326.5169 208.3746 329.0495 207.6375 Z" id="BS.SW" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>BS.SW</code_hasc>
+        <name>Spanish Wells</name>
+        <admin>The Bahamas</admin>
+        <type_en>District</type_en>
+        <region/>
+        <woe_id>24551256</woe_id>
+        <longitude>-76</longitude>
+        <woe_name>Spanish Wells</woe_name>
+        <fips>BF53</fips>
+        <woe_label/>
+        <latitude>25</latitude>
+        <iso_a2>BS</iso_a2>
+        <postal>SW</postal>
+        <type>Third Schedule District</type>
+        <id>BS.SW</id>
+      </desc>
+    </path>
+    <path d="M 334.3287 205.7786 336.4917 206.4249 336.1344 206.9607 332.7755 206.6844 334.3287 205.7786 Z" id="BS.HI" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>BS.HI</code_hasc>
+        <name>Harbour Island</name>
+        <admin>The Bahamas</admin>
+        <type_en>District</type_en>
+        <region/>
+        <woe_id>2344776</woe_id>
+        <longitude>-76</longitude>
+        <woe_name>Harbour Island</woe_name>
+        <fips>BF22</fips>
+        <woe_label/>
+        <latitude>25</latitude>
+        <iso_a2>BS</iso_a2>
+        <postal>HI</postal>
+        <type>Third Schedule District</type>
+        <id>BS.HI</id>
+      </desc>
+    </path>
+    <path d="M 374.8552 231.0484 373.1797 232.4421 369.7226 228.7409 359.1848 225.7899 355.5164 223.8642 350.1728 218.6658 339.3292 216.1298 334.2324 218.3167 332.8848 218.0662 335.1509 215.7706 336.4536 211.9224 337.9499 204.6121 337.339 204.6041 340.4122 204.6119 342.8251 205.3483 341.3754 208.3692 341.5169 212.124 342.9447 210.2896 345.5127 214.1948 347.2355 214.6971 358.4917 223.5972 361.7563 225.4975 371.5238 227.1717 374.8552 231.0484 Z" id="BS.NE" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>BS.NE</code_hasc>
+        <name>North Eleuthera</name>
+        <admin>The Bahamas</admin>
+        <type_en>District</type_en>
+        <region/>
+        <woe_id>24551251</woe_id>
+        <longitude>-76</longitude>
+        <woe_name>North Eleuthera</woe_name>
+        <fips>BF48</fips>
+        <woe_label>North Eleuthera, BS, The Bahamas</woe_label>
+        <latitude>25</latitude>
+        <iso_a2>BS</iso_a2>
+        <postal>NE</postal>
+        <type>Third Schedule District</type>
+        <id>BS.NE</id>
+      </desc>
+    </path>
+    <path d="M 388.8749 262.525 387.4565 261.7778 388.895 260.1682 389.6366 254.5467 389.6253 252.4422 388.0583 247.8952 379.2577 241.5264 373.1797 232.4421 374.8552 231.0484 377.4911 234.787 382.8593 240.1406 392.2469 247.5258 392.713 249.4056 391.397 260.1893 391.0268 261.2164 388.8749 262.525 Z" id="BS.CE" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>BS.CE</code_hasc>
+        <name>Central Eleuthera</name>
+        <admin>The Bahamas</admin>
+        <type_en>District</type_en>
+        <region/>
+        <woe_id>24551244</woe_id>
+        <longitude>-76</longitude>
+        <woe_name>Central Eleuthera</woe_name>
+        <fips>BF39</fips>
+        <woe_label>Central Eleuthera, BS, The Bahamas</woe_label>
+        <latitude>25</latitude>
+        <iso_a2>BS</iso_a2>
+        <postal>CE</postal>
+        <type>Second Schedule District</type>
+        <id>BS.CE</id>
+      </desc>
+    </path>
+    <path d="M 388.8749 262.525 388.5446 264.4182 390.3805 270.342 389.498 277.0285 386.8675 281.768 386.8636 292.4622 387.9793 295.6542 385.0016 294.3099 381.311 284.7774 374.2574 280.9837 372.3835 278.7728 372.6265 277.8653 374.0908 277.7713 383.4917 279.093 386.687 274.6958 386.8866 271.0659 384.1474 274.0402 383.7336 270.3969 385.0745 264.2598 387.4565 261.7778 388.8749 262.525 Z" id="BS.SE" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>BS.SE</code_hasc>
+        <name>South Eleuthera</name>
+        <admin>The Bahamas</admin>
+        <type_en>District</type_en>
+        <region/>
+        <woe_id>24551255</woe_id>
+        <longitude>-76</longitude>
+        <woe_name>South Eleuthera</woe_name>
+        <fips>BF52</fips>
+        <woe_label>South Eleuthera, BS, The Bahamas</woe_label>
+        <latitude>24</latitude>
+        <iso_a2>BS</iso_a2>
+        <postal>SE</postal>
+        <type>Second Schedule District</type>
+        <id>BS.SE</id>
+      </desc>
+    </path>
+    <path d="M 464.0933 338.1807 466.2688 345.3382 462.172 343.9706 458.1901 343.9725 454.099 344.7902 451.0841 346.9527 448.8473 347.1615 446.4332 345.5421 445.4111 343.5186 450.6321 341.2688 453.3242 338.5205 455.0624 338.5738 455.8751 335.8994 455.495 332.6884 453.6337 331.1239 450.9984 330.5384 449.1412 329.0735 444.3495 321.1935 443.6484 318.4096 441.9268 315.8459 441.006 311.3778 439.4868 309.019 437.1609 307.6343 434.1887 307.3882 434.6243 305.1701 433.7325 301.535 424.4197 294.4016 424.7505 292.8564 426.6373 290.6383 428.736 290.4971 431.7356 293.2575 435.1526 294.7847 436.1361 295.9675 437.3343 304.1044 440.9759 308.0354 444.532 315.712 449.5695 323.0479 456.3836 327.7099 459.1452 333.1554 464.0933 338.1807 Z" id="BS.CI" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>BS.CI</code_hasc>
+        <name>Cat Island</name>
+        <admin>The Bahamas</admin>
+        <type_en>District</type_en>
+        <region/>
+        <woe_id>2344770</woe_id>
+        <longitude>-75</longitude>
+        <woe_name>Cat Island</woe_name>
+        <fips>BF06</fips>
+        <woe_label>Cat Island, BS, The Bahamas</woe_label>
+        <latitude>24</latitude>
+        <iso_a2>BS</iso_a2>
+        <postal>CI</postal>
+        <type>Second Schedule District</type>
+        <id>BS.CI</id>
+      </desc>
+    </path>
+    <path d="M 540.5778 357.3802 538.4611 363.4349 532.5087 364.1282 535.064 358.4577 535.0309 349.658 536.0191 348.224 540.878 345.3492 543.0629 348.266 544.3112 351.3146 543.6529 355.044 539.9747 361.4779 539.6981 360.3489 540.5778 357.3802 Z" id="BS.SS" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>BS.SS</code_hasc>
+        <name>San Salvador</name>
+        <admin>The Bahamas</admin>
+        <type_en>District</type_en>
+        <region/>
+        <woe_id>2344789</woe_id>
+        <longitude>-74</longitude>
+        <woe_name>San Salvador</woe_name>
+        <fips>BF35</fips>
+        <woe_label>San Salvador, BS, The Bahamas</woe_label>
+        <latitude>24</latitude>
+        <iso_a2>BS</iso_a2>
+        <postal>SS</postal>
+        <type>Third Schedule District</type>
+        <id>BS.SS</id>
+      </desc>
+    </path>
+    <path d="M 511.8082 390.7146 510.3127 392.6881 508.3934 392.6025 508.9598 393.9681 505.1462 393.2993 504.0525 391.8778 497.8087 393.2282 497.4683 390.9724 498.0803 389.718 499.4895 389.0362 506.14 387.1717 510.6821 387.715 512.7173 389.1785 511.8082 390.7146 Z M 482.4854 377.4701 481.8768 377.8182 481.3142 376.255 481.8904 374.833 482.6387 374.6894 482.4854 377.4701 Z" id="BS.RC" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>BS.RC</code_hasc>
+        <name>Rum Cay</name>
+        <admin>The Bahamas</admin>
+        <type_en>District</type_en>
+        <region/>
+        <woe_id>24551252</woe_id>
+        <longitude>-74</longitude>
+        <woe_name>Rum Cay</woe_name>
+        <fips>BF49</fips>
+        <woe_label>Rum Cay, BS, The Bahamas</woe_label>
+        <latitude>23</latitude>
+        <iso_a2>BS</iso_a2>
+        <postal>RC</postal>
+        <type>Third Schedule District</type>
+        <id>BS.RC</id>
+      </desc>
+    </path>
+    <path d="M 505.3588 460.0231 506.4616 461.0236 507.7107 466.5353 507.8413 470.3934 507.119 471.8726 505.4657 470.8286 504.7981 467.4838 503.5552 468.15 502.9593 465.5863 500.3513 460.9565 499.4032 456.9344 494.5178 450.9062 482.9609 448.2826 471.6083 441.1898 472.8717 438.5553 474.1542 437.7679 475.0634 439.1915 477.6251 440.4527 478.5571 441.812 475.4535 441.1953 477.0105 443.3127 479.1775 443.8279 482.851 446.5156 486.2789 446.6018 480.4817 439.7705 479.8054 438.1111 480.1523 435.455 482.241 430.3843 481.5714 425.3994 480.545 423.0505 479.1999 421.5748 477.9001 422.9277 478.058 420.6039 474.6223 417.6908 474.8064 415.5273 471.9027 414.0326 472.326 412.8312 470.4876 411.3657 469.8029 409.8019 469.2417 405.3733 467.3888 400.6618 466.5145 400.1993 464.2336 401.2603 464.8642 396.5215 464.3504 395.0979 462.4458 396.6123 464.2483 394.5448 463.1122 394.1816 460.5223 396.6077 462.1646 393.7387 462.46 390.5057 464.2541 391.8521 469.5603 400.6658 472.4257 403.3191 474.8173 407.4536 475.9136 414.1184 478.5901 417.5914 483.9599 428.0216 485.5147 441.1804 487.0545 444.138 489.6366 445.9418 497.4012 448.858 500.7461 451.4567 506.6588 458.0666 505.3588 460.0231 Z" id="BS.LI" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>BS.LI</code_hasc>
+        <name>Long Island</name>
+        <admin>The Bahamas</admin>
+        <type_en>District</type_en>
+        <region/>
+        <woe_id>2344773</woe_id>
+        <longitude>-74</longitude>
+        <woe_name>Long Island</woe_name>
+        <fips>BF15</fips>
+        <woe_label>Long Island, BS, The Bahamas</woe_label>
+        <latitude>23</latitude>
+        <iso_a2>BS</iso_a2>
+        <postal>LI</postal>
+        <type>Second Schedule District</type>
+        <id>BS.LI</id>
+      </desc>
+    </path>
+    <path d="M 426.3125 536.445 426.9787 538.3833 426.3147 539.1253 425.1727 539.1519 423.7766 536.2404 425.3076 536.7166 424.7255 534.4421 426.3125 536.445 Z M 424.1388 533.1411 423.4569 533.0055 423.6113 530.4581 424.1388 533.1411 Z M 422.8748 525.6386 422.8294 526.5078 422.2609 526.1323 422.2832 524.666 422.8748 525.6386 Z M 419.0043 521.5799 418.7405 522.1274 418.0445 521.2702 417.4729 518.1019 419.0043 521.5799 Z M 416.0599 510.8901 415.0503 510.2874 415.3214 509.0909 416.0599 510.8901 Z" id="BS.RI" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>BS.RI</code_hasc>
+        <name>Ragged Island</name>
+        <admin>The Bahamas</admin>
+        <type_en>District</type_en>
+        <region/>
+        <woe_id>2344775</woe_id>
+        <longitude>-75</longitude>
+        <woe_name>Ragged Island</woe_name>
+        <fips>BF18</fips>
+        <woe_label>Ragged Island, BS, The Bahamas</woe_label>
+        <latitude>22</latitude>
+        <iso_a2>BS</iso_a2>
+        <postal>RI</postal>
+        <type>Third Schedule District</type>
+        <id>BS.RI</id>
+      </desc>
+    </path>
+    <path d="M 551.5235 500.9598 548.7118 503.1231 549.5055 498.8929 555.3966 493.5542 557.9618 490.2446 557.5028 493.0114 551.5235 500.9598 Z M 566.1425 481.4038 567.9521 481.3938 568.5843 482.7967 570.3716 483.3995 575.568 484.0939 574.8797 482.7598 582.3781 485.3407 575.6137 491.5545 575.2505 490.539 574.2999 490.156 574.3719 488.5328 570.3254 489.5904 563.5678 487.8725 561.1205 485.465 560.6208 486.6215 558.4498 488.1387 557.9506 487.9248 558.4478 484.6689 551.6651 475.4207 552.3351 474.0795 555.4478 473.3842 559.1379 475.3859 562.9373 476.0397 565.5004 478.1096 566.1425 481.4038 Z M 600.2774 447.4287 607.1261 448.0447 612.237 447.4587 614.0213 447.9835 614.028 448.7169 605.9266 450.4194 602.0885 450.3714 600.2774 447.4287 Z" id="BS.CK" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>BS.CK</code_hasc>
+        <name>Crooked Island and Long Cay</name>
+        <admin>The Bahamas</admin>
+        <type_en>District</type_en>
+        <region/>
+        <woe_id>24551238</woe_id>
+        <longitude>-74</longitude>
+        <woe_name>Crooked Island</woe_name>
+        <fips>BF40</fips>
+        <woe_label>Crooked Island, BS, The Bahamas</woe_label>
+        <latitude>22</latitude>
+        <iso_a2>BS</iso_a2>
+        <postal>CK</postal>
+        <type>Third Schedule District</type>
+        <id>BS.CK</id>
+      </desc>
+    </path>
+    <path d="M 619.8386 499.1192 618.206 499.4295 618.851 496.7652 619.9584 495.9429 621.0798 496.6711 619.8386 499.1192 Z M 632.5298 497.9698 624.4932 496.1971 624.2656 495.6824 627.4552 495.2105 629.5392 495.7084 631.6268 496.6492 632.5298 497.9698 Z M 598.0311 485.2278 594.8851 490.0165 594.5074 488.2442 593.0548 487.4055 594.1451 490.022 595.1427 490.6397 596.1941 490.0066 596.8224 491.4443 597.716 498.7946 599.4183 502.8206 597.8505 503.2135 596.3376 508.8911 594.144 511.3718 590.6085 513.8498 587.6097 519.7731 582.8545 523.7558 573.2007 527.085 569.5371 532.0501 566.3899 535 561.7611 536.6465 558.8198 539.5014 559.2084 534.1629 563.7855 534.1602 567.3102 531.3291 566.401 529.3827 568.8357 527.9592 567.8794 527.6239 567.5234 526.6202 572.0433 524.231 574.6488 523.5747 576.8492 521.3216 576.3994 517.8345 582.8466 516.2951 584.1876 512.3435 585.2301 511.1905 592.4655 508.98 594.9654 506.6494 595.7976 503.4535 594.3908 499.4971 591.8581 497.6565 585.3575 497.5901 581.0685 494.8538 582.3153 492.6979 584.2933 491.4987 582.4012 488.8186 586.1541 490.0795 587.1223 488.1374 589.8761 487.4287 589.8708 486.6914 587.9947 485.3023 592.7085 485.3203 597.3966 483.9424 598.0311 485.2278 Z" id="BS.AK" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>BS.AK</code_hasc>
+        <name>Acklins</name>
+        <admin>The Bahamas</admin>
+        <type_en>District</type_en>
+        <region/>
+        <woe_id>2344778</woe_id>
+        <longitude>-74</longitude>
+        <woe_name>Acklins</woe_name>
+        <fips>BF24</fips>
+        <woe_label>Acklins, BS, The Bahamas</woe_label>
+        <latitude>22</latitude>
+        <iso_a2>BS</iso_a2>
+        <postal>AK</postal>
+        <type>Third Schedule District</type>
+        <id>BS.AK</id>
+      </desc>
+    </path>
+    <path d="M 662.9477 519.7209 660.4744 518.681 660.6717 517.7446 662.3366 516.4255 661.7597 515.2782 662.7229 513.0056 662.5572 511.0556 663.512 510.238 665.8912 512.7736 667.2908 512.9442 669.1589 511.5735 671.9425 512.1507 678.9726 516.134 681.154 516.1805 679.8725 514.0573 682.9459 515.5625 684.4755 515.9181 685.4598 515.3912 688.3353 517.0664 692.1158 517.3168 695.5635 520.2774 698.1638 520.5877 699 522.3874 698.5969 524.37 697.4347 525.999 696.012 526.6735 694.3741 526.1643 688.1745 520.7089 685.0816 519.5377 679.6434 520.238 676.7539 518.8698 668.9685 521.7255 666.4237 520.411 662.9477 519.7209 Z" id="BS.MG" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>BS.MG</code_hasc>
+        <name>Mayaguana</name>
+        <admin>The Bahamas</admin>
+        <type_en>District</type_en>
+        <region/>
+        <woe_id>2344774</woe_id>
+        <longitude>-73</longitude>
+        <woe_name>Mayaguana</woe_name>
+        <fips>BF16</fips>
+        <woe_label>Mayaguana, BS, The Bahamas</woe_label>
+        <latitude>22</latitude>
+        <iso_a2>BS</iso_a2>
+        <postal>MG</postal>
+        <type>Third Schedule District</type>
+        <id>BS.MG</id>
+      </desc>
+    </path>
+    <path d="M 674.0996 638.4409 668.3068 645.9314 665.4293 654.6072 656.6198 658.7653 652.6035 658.1924 648.1502 660.3156 648.7504 659.043 647.3724 657.9908 645.3824 657.7663 640.5971 660.5789 637.4072 660.4245 631.9436 661.7759 627.8398 660.1617 621.9144 659.6944 619.0922 660.6875 617.8461 663.0891 614.9568 660.8718 614.3497 655.8921 612.3855 652.5622 612.6848 651.8601 615.4387 651.5497 616.9796 650.543 617.7 646.5344 615.5832 644.1432 615.5774 643.1364 618.7677 644.6377 626.184 641.5684 626.8217 639.6386 628.8457 637.7953 629.6685 635.9564 631.7027 636.408 633.5266 635.3458 637.1673 635.2542 639.0419 634.0654 641.1404 631.2712 642.0974 633.7339 645.4617 637.9127 653.6861 640.814 657.7377 638.5023 662.349 637.2884 670.7506 623.3967 672.1239 621.4679 673.89 620.3518 675.8904 621.1523 676.6107 622.8748 674.0996 638.4409 Z M 672.8657 611.926 672.0076 612.0513 672.0599 609.7956 669.77 604.0123 674.5492 601.453 677.5074 598.4771 680.4992 601.2822 685.0538 604.0077 684.6916 605.9619 682.9755 607.1284 679.5385 607.5698 672.8657 611.926 Z" id="BS.IN" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>BS.IN</code_hasc>
+        <name>Inagua</name>
+        <admin>The Bahamas</admin>
+        <type_en>District</type_en>
+        <region/>
+        <woe_id>2344772</woe_id>
+        <longitude>-73</longitude>
+        <woe_name>Inagua</woe_name>
+        <fips>BF13</fips>
+        <woe_label>Inagua, BS, The Bahamas</woe_label>
+        <latitude>21</latitude>
+        <iso_a2>BS</iso_a2>
+        <postal>IN</postal>
+        <type>Third Schedule District</type>
+        <id>BS.IN</id>
+      </desc>
+    </path>
+    <path d="M 1.7698 379.4869 1.5702 379.9623 1.6048 379.2471 1 379.1677 1.9409 379.0828 1.7698 379.4869 Z M 13.8127 349.3156 13.7587 349.8649 13.1409 349.6807 13.8127 349.3156 Z M 108.2674 197.6035 108.3738 198.5957 107.6071 197.1721 108.2674 197.6035 Z M 113.5718 179.7853 113.4931 182.6765 113.318 182.2368 111.6064 182.8205 111.8268 179.9499 109.4105 182.6165 109.1646 183.9068 112.2962 186.1466 111.941 186.6576 108.484 186.1314 108.4903 184.2626 110.4893 180.3406 113.2501 178.7018 113.5718 179.7853 Z" id="BS.BI" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>BS.BI</code_hasc>
+        <name>Bimini</name>
+        <admin>The Bahamas</admin>
+        <type_en>District</type_en>
+        <region/>
+        <woe_id>2344769</woe_id>
+        <longitude>-79</longitude>
+        <woe_name>Bimini</woe_name>
+        <fips>BF05</fips>
+        <woe_label>Bimini, BS, The Bahamas</woe_label>
+        <latitude>25</latitude>
+        <iso_a2>BS</iso_a2>
+        <postal>BI</postal>
+        <type>Third Schedule District</type>
+        <id>BS.BI</id>
+      </desc>
+    </path>
+    <path d="M 318.5488 106.7594 318.743 108.6795 316.7467 112.0299 318.5488 106.7594 Z" id="BS.HT" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>BS.HT</code_hasc>
+        <name>Hope Town</name>
+        <admin>The Bahamas</admin>
+        <type_en>District</type_en>
+        <region/>
+        <woe_id>24551240</woe_id>
+        <longitude>-76</longitude>
+        <woe_name>Hope Town</woe_name>
+        <fips>BF43</fips>
+        <woe_label>Hope Town, BS, The Bahamas</woe_label>
+        <latitude>26</latitude>
+        <iso_a2>BS</iso_a2>
+        <postal>HT</postal>
+        <type>Third Schedule District</type>
+        <id>BS.HT</id>
+      </desc>
+    </path>
+  </g>
+</svg>

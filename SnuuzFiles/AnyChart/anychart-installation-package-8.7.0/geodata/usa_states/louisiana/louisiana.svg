@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="louisiana">
+    <path d="M 261.8185 77.3826 345.032 78.6246 327.6441 98.4964 318.9502 122.0943 305.2883 136.9982 282.9324 144.4502 280.4484 123.3363 261.8185 115.8843 261.8185 77.3826 Z" id="US.LA.067" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Morehouse Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>067</fips>
+        <incits>22067</incits>
+        <id>US.LA.067</id>
+        <population>27057</population>
+      </desc>
+    </path>
+    <path d="M 174.879 77.3826 261.8185 77.3826 261.8185 115.8843 233.2527 134.5142 215.8648 133.2722 215.8648 122.0943 174.879 110.9164 174.879 77.3826 Z" id="US.LA.111" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Union Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>111</fips>
+        <incits>22111</incits>
+        <id>US.LA.111</id>
+        <population>22344</population>
+      </desc>
+    </path>
+    <path d="M 30.8078 76.1406 70.5516 76.1406 79.2456 97.2544 80.4875 156.8701 89.1815 156.8701 81.7295 180.468 76.7616 179.226 40.7438 143.2082 34.5338 122.0943 30.8078 76.1406 Z" id="US.LA.015" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Bossier Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>015</fips>
+        <incits>22015</incits>
+        <id>US.LA.015</id>
+        <population>123823</population>
+      </desc>
+    </path>
+    <path d="M 30.8078 76.1406 34.5338 122.0943 40.7438 143.2082 76.7616 179.226 58.1317 179.226 37.0178 165.5641 13.4199 185.4359 1 185.4359 1 76.1406 30.8078 76.1406 Z" id="US.LA.017" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Caddo Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>017</fips>
+        <incits>22017</incits>
+        <id>US.LA.017</id>
+        <population>254887</population>
+      </desc>
+    </path>
+    <path d="M 106.5694 76.1406 174.879 77.3826 174.879 110.9164 161.2171 110.9164 155.0071 133.2722 115.2633 133.2722 107.8114 115.8843 106.5694 76.1406 Z" id="US.LA.027" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Claiborne Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>027</fips>
+        <incits>22027</incits>
+        <id>US.LA.027</id>
+        <population>16650</population>
+      </desc>
+    </path>
+    <path d="M 1 185.4359 13.4199 185.4359 37.0178 165.5641 58.1317 179.226 66.8256 196.6139 91.6655 220.2117 80.4875 231.3897 22.1139 231.3897 1 211.5178 1 185.4359 Z" id="US.LA.031" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>De Soto Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>031</fips>
+        <incits>22031</incits>
+        <id>US.LA.031</id>
+        <population>27083</population>
+      </desc>
+    </path>
+    <path d="M 70.5516 76.1406 106.5694 76.1406 107.8114 115.8843 115.2633 133.2722 118.9893 150.6601 89.1815 156.8701 80.4875 156.8701 79.2456 97.2544 70.5516 76.1406 Z" id="US.LA.119" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Webster Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>119</fips>
+        <incits>22119</incits>
+        <id>US.LA.119</id>
+        <population>40678</population>
+      </desc>
+    </path>
+    <path d="M 342.548 139.4822 343.79 134.5142 357.452 112.1584 368.6299 78.6246 382.2918 102.2224 382.2918 127.0623 393.4698 136.9982 342.548 139.4822 Z" id="US.LA.035" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>East Carroll Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>035</fips>
+        <incits>22035</incits>
+        <id>US.LA.035</id>
+        <population>7529</population>
+      </desc>
+    </path>
+    <path d="M 318.9502 122.0943 327.6441 98.4964 345.032 78.6246 368.6299 78.6246 357.452 112.1584 343.79 134.5142 323.9181 134.5142 318.9502 122.0943 Z" id="US.LA.123" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>West Carroll Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>123</fips>
+        <incits>22123</incits>
+        <id>US.LA.123</id>
+        <population>11465</population>
+      </desc>
+    </path>
+    <path d="M 521.395 449.9804 535.0569 454.9484 551.2028 448.7384 584.7367 454.9484 572.3167 466.1263 533.8149 482.2722 546.2349 492.2082 533.8149 488.4822 517.669 485.9982 521.395 449.9804 Z" id="US.LA.071" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Orleans Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>071</fips>
+        <incits>22071</incits>
+        <id>US.LA.071</id>
+        <population>378715</population>
+      </desc>
+    </path>
+    <path d="M 533.8149 488.4822 546.2349 492.2082 603.3665 525.742 682.8541 522.016 649.3203 556.7918 674.1601 574.1797 676.6441 591.5676 649.3203 617.6495 629.4484 610.1975 615.7865 623.8594 602.1246 622.6174 605.8505 596.5356 585.9786 580.3897 548.7189 586.5996 547.4769 569.2117 537.5409 548.0979 537.5409 530.71 526.363 509.5961 533.8149 488.4822 Z" id="US.LA.075" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Plaquemines Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>075</fips>
+        <incits>22075</incits>
+        <id>US.LA.075</id>
+        <population>23550</population>
+      </desc>
+    </path>
+    <path d="M 584.7367 454.9484 602.1246 453.7064 643.1103 447.4964 686.5801 457.4324 699 485.9982 682.8541 522.016 603.3665 525.742 546.2349 492.2082 533.8149 482.2722 572.3167 466.1263 584.7367 454.9484 Z" id="US.LA.087" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>St. Bernard Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>087</fips>
+        <incits>22087</incits>
+        <id>US.LA.087</id>
+        <population>43482</population>
+      </desc>
+    </path>
+    <path d="M 501.5231 381.6708 554.9288 387.8808 577.2847 415.2046 583.4947 441.2865 602.1246 453.7064 584.7367 454.9484 551.2028 448.7384 535.0569 454.9484 521.395 449.9804 502.7651 445.0125 501.5231 381.6708 Z" id="US.LA.103" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>St. Tammany Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>103</fips>
+        <incits>22103</incits>
+        <id>US.LA.103</id>
+        <population>242333</population>
+      </desc>
+    </path>
+    <path d="M 399.6797 432.5925 417.0676 430.1085 443.1495 452.4644 451.8434 446.2544 450.6014 453.7064 414.5836 459.9164 407.1317 466.1263 388.5018 467.3683 399.6797 432.5925 Z" id="US.LA.005" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ascension Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>005</fips>
+        <incits>22005</incits>
+        <id>US.LA.005</id>
+        <population>114393</population>
+      </desc>
+    </path>
+    <path d="M 373.5979 472.3363 388.5018 467.3683 407.1317 466.1263 418.3096 487.2402 402.1637 513.3221 392.2278 524.5 389.7438 514.5641 368.6299 478.5463 373.5979 472.3363 Z" id="US.LA.007" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Assumption Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>007</fips>
+        <incits>22007</incits>
+        <id>US.LA.007</id>
+        <population>23187</population>
+      </desc>
+    </path>
+    <path d="M 363.6619 389.1228 368.6299 381.6708 423.2776 380.4288 414.5836 389.1228 404.6477 397.8167 404.6477 416.4466 417.0676 430.1085 399.6797 432.5925 383.5338 432.5925 371.1139 427.6246 377.3238 407.7527 363.6619 389.1228 Z" id="US.LA.033" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>East Baton Rouge Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>033</fips>
+        <incits>22033</incits>
+        <id>US.LA.033</id>
+        <population>445227</population>
+      </desc>
+    </path>
+    <path d="M 379.8078 343.169 425.7616 343.169 423.2776 380.4288 368.6299 381.6708 363.6619 389.1228 361.1779 389.1228 379.8078 343.169 Z" id="US.LA.037" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>East Feliciana Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>037</fips>
+        <incits>22037</incits>
+        <id>US.LA.037</id>
+        <population>19728</population>
+      </desc>
+    </path>
+    <path d="M 310.2562 408.9947 338.8221 408.9947 361.1779 432.5925 383.5338 432.5925 399.6797 432.5925 388.5018 467.3683 373.5979 472.3363 353.726 467.3683 341.306 461.1584 337.5801 443.7705 320.1922 433.8345 310.2562 408.9947 Z" id="US.LA.047" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Iberville Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>047</fips>
+        <incits>22047</incits>
+        <id>US.LA.047</id>
+        <population>33367</population>
+      </desc>
+    </path>
+    <path d="M 402.1637 513.3221 418.3096 487.2402 448.1174 489.7242 464.2633 489.7242 490.3452 515.806 505.2491 515.806 516.427 544.3719 532.573 550.5819 535.0569 567.9698 522.637 595.2936 480.4093 607.7135 484.1352 559.2758 453.0854 528.226 433.2135 515.806 402.1637 513.3221 Z" id="US.LA.057" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lafourche Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>057</fips>
+        <incits>22057</incits>
+        <id>US.LA.057</id>
+        <population>97141</population>
+      </desc>
+    </path>
+    <path d="M 414.5836 389.1228 460.5374 389.1228 460.5374 411.4786 481.6512 437.5605 463.0214 448.7384 451.8434 446.2544 443.1495 452.4644 417.0676 430.1085 404.6477 416.4466 404.6477 397.8167 414.5836 389.1228 Z" id="US.LA.063" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Livingston Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>063</fips>
+        <incits>22063</incits>
+        <id>US.LA.063</id>
+        <population>134053</population>
+      </desc>
+    </path>
+    <path d="M 497.7972 445.0125 502.7651 445.0125 521.395 449.9804 517.669 485.9982 533.8149 488.4822 526.363 509.5961 537.5409 530.71 537.5409 548.0979 547.4769 569.2117 548.7189 586.5996 522.637 595.2936 535.0569 567.9698 532.573 550.5819 516.427 544.3719 505.2491 515.806 512.7011 499.6601 497.7972 478.5463 497.7972 445.0125 Z" id="US.LA.051" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jefferson Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>051</fips>
+        <incits>22051</incits>
+        <id>US.LA.051</id>
+        <population>434767</population>
+      </desc>
+    </path>
+    <path d="M 497.7972 445.0125 497.7972 478.5463 512.7011 499.6601 505.2491 515.806 490.3452 515.806 464.2633 489.7242 475.4413 471.0943 497.7972 445.0125 Z" id="US.LA.089" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>St. Charles Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>089</fips>
+        <incits>22089</incits>
+        <id>US.LA.089</id>
+        <population>52617</population>
+      </desc>
+    </path>
+    <path d="M 414.5836 389.1228 423.2776 380.4288 425.7616 343.169 460.5374 343.169 460.5374 389.1228 414.5836 389.1228 Z" id="US.LA.091" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>St. Helena Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>091</fips>
+        <incits>22091</incits>
+        <id>US.LA.091</id>
+        <population>10875</population>
+      </desc>
+    </path>
+    <path d="M 407.1317 466.1263 414.5836 459.9164 450.6014 453.7064 448.1174 489.7242 418.3096 487.2402 407.1317 466.1263 Z" id="US.LA.093" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>St. James Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>093</fips>
+        <incits>22093</incits>
+        <id>US.LA.093</id>
+        <population>21752</population>
+      </desc>
+    </path>
+    <path d="M 450.6014 453.7064 451.8434 446.2544 463.0214 448.7384 481.6512 437.5605 497.7972 445.0125 475.4413 471.0943 464.2633 489.7242 448.1174 489.7242 450.6014 453.7064 Z" id="US.LA.095" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>St. John the Baptist Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>095</fips>
+        <incits>22095</incits>
+        <id>US.LA.095</id>
+        <population>43761</population>
+      </desc>
+    </path>
+    <path d="M 460.5374 389.1228 460.5374 343.169 489.1032 343.169 501.5231 381.6708 502.7651 445.0125 497.7972 445.0125 481.6512 437.5605 460.5374 411.4786 460.5374 389.1228 Z" id="US.LA.105" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Tangipahoa Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>105</fips>
+        <incits>22105</incits>
+        <id>US.LA.105</id>
+        <population>125412</population>
+      </desc>
+    </path>
+    <path d="M 356.21 575.4217 374.8399 551.8238 368.6299 535.6779 392.2278 524.5 402.1637 513.3221 433.2135 515.806 453.0854 528.226 484.1352 559.2758 480.4093 607.7135 461.7794 602.7456 439.4235 607.7135 402.1637 603.9875 402.1637 591.5676 356.21 575.4217 Z" id="US.LA.109" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Terrebonne Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>109</fips>
+        <incits>22109</incits>
+        <id>US.LA.109</id>
+        <population>112749</population>
+      </desc>
+    </path>
+    <path d="M 489.1032 343.169 567.3488 343.169 554.9288 387.8808 501.5231 381.6708 489.1032 343.169 Z" id="US.LA.117" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Washington Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>117</fips>
+        <incits>22117</incits>
+        <id>US.LA.117</id>
+        <population>46419</population>
+      </desc>
+    </path>
+    <path d="M 338.8221 408.9947 358.694 387.8808 361.1779 389.1228 363.6619 389.1228 377.3238 407.7527 371.1139 427.6246 383.5338 432.5925 361.1779 432.5925 338.8221 408.9947 Z" id="US.LA.121" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>West Baton Rouge Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>121</fips>
+        <incits>22121</incits>
+        <id>US.LA.121</id>
+        <population>24573</population>
+      </desc>
+    </path>
+    <path d="M 315.2242 346.895 318.9502 343.169 379.8078 343.169 361.1779 389.1228 358.694 387.8808 352.484 375.4609 315.2242 361.7989 315.2242 346.895 Z M 304.0463 340.6851 307.7722 336.9591 316.4662 344.411 304.0463 340.6851 Z" id="US.LA.125" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>West Feliciana Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>125</fips>
+        <incits>22125</incits>
+        <id>US.LA.125</id>
+        <population>15444</population>
+      </desc>
+    </path>
+    <path d="M 233.2527 348.137 243.1886 348.137 240.7046 300.9413 259.3345 298.4573 269.2705 299.6993 292.8683 308.3932 312.7402 318.3292 307.7722 336.9591 304.0463 340.6851 295.3523 363.0409 243.1886 363.0409 233.2527 348.137 Z" id="US.LA.009" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Avoyelles Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>009</fips>
+        <incits>22009</incits>
+        <id>US.LA.009</id>
+        <population>41299</population>
+      </desc>
+    </path>
+    <path d="M 331.3701 243.8096 352.484 246.2936 335.0961 272.3754 333.8541 307.1512 320.1922 328.2651 318.9502 343.169 315.2242 346.895 316.4662 344.411 307.7722 336.9591 312.7402 318.3292 292.8683 308.3932 289.1423 295.9733 300.3203 274.8594 296.5943 259.9555 310.2562 247.5356 331.3701 243.8096 Z" id="US.LA.029" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Concordia Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>029</fips>
+        <incits>22029</incits>
+        <id>US.LA.029</id>
+        <population>20442</population>
+      </desc>
+    </path>
+    <path d="M 187.2989 410.2367 192.2669 397.8167 192.2669 356.831 220.8327 343.169 233.2527 348.137 243.1886 363.0409 248.1566 374.2189 243.1886 400.3007 215.8648 404.0267 205.9288 411.4786 187.2989 411.4786 187.2989 410.2367 Z" id="US.LA.039" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Evangeline Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>039</fips>
+        <incits>22039</incits>
+        <id>US.LA.039</id>
+        <population>33578</population>
+      </desc>
+    </path>
+    <path d="M 264.3025 540.6459 272.9964 520.774 271.7544 478.5463 275.4804 469.8523 276.7224 464.8843 294.1103 468.6103 306.5302 458.6744 323.9181 471.0943 353.726 467.3683 373.5979 472.3363 368.6299 478.5463 340.0641 481.0302 320.1922 482.2722 279.2064 518.29 307.7722 519.532 325.1601 540.6459 325.1601 559.2758 291.6263 559.2758 264.3025 540.6459 Z" id="US.LA.045" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Iberia Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>045</fips>
+        <incits>22045</incits>
+        <id>US.LA.045</id>
+        <population>73878</population>
+      </desc>
+    </path>
+    <path d="M 304.0463 340.6851 316.4662 344.411 315.2242 346.895 315.2242 361.7989 352.484 375.4609 358.694 387.8808 338.8221 408.9947 310.2562 408.9947 302.8043 408.9947 306.5302 382.9128 295.3523 363.0409 304.0463 340.6851 Z" id="US.LA.077" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pointe Coupee Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>077</fips>
+        <incits>22077</incits>
+        <id>US.LA.077</id>
+        <population>22499</population>
+      </desc>
+    </path>
+    <path d="M 205.9288 411.4786 215.8648 404.0267 243.1886 400.3007 248.1566 374.2189 243.1886 363.0409 295.3523 363.0409 306.5302 382.9128 302.8043 408.9947 271.7544 426.3826 251.8826 435.0765 238.2206 411.4786 205.9288 411.4786 Z" id="US.LA.097" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>St. Landry Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>097</fips>
+        <incits>22097</incits>
+        <id>US.LA.097</id>
+        <population>83454</population>
+      </desc>
+    </path>
+    <path d="M 271.7544 426.3826 302.8043 408.9947 310.2562 408.9947 320.1922 433.8345 337.5801 443.7705 341.306 461.1584 353.726 467.3683 323.9181 471.0943 306.5302 458.6744 294.1103 468.6103 276.7224 464.8843 271.7544 426.3826 Z M 340.0641 481.0302 368.6299 478.5463 389.7438 514.5641 356.21 505.8701 340.0641 481.0302 Z" id="US.LA.099" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>St. Martin Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>099</fips>
+        <incits>22099</incits>
+        <id>US.LA.099</id>
+        <population>52936</population>
+      </desc>
+    </path>
+    <path d="M 340.0641 481.0302 356.21 505.8701 389.7438 514.5641 392.2278 524.5 368.6299 535.6779 374.8399 551.8238 356.21 575.4217 325.1601 559.2758 325.1601 540.6459 307.7722 519.532 279.2064 518.29 320.1922 482.2722 340.0641 481.0302 Z" id="US.LA.101" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>St. Mary Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>101</fips>
+        <incits>22101</incits>
+        <id>US.LA.101</id>
+        <population>53543</population>
+      </desc>
+    </path>
+    <path d="M 233.2527 456.1904 251.8826 435.0765 271.7544 426.3826 276.7224 464.8843 275.4804 469.8523 233.2527 456.1904 Z" id="US.LA.055" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lafayette Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>055</fips>
+        <incits>22055</incits>
+        <id>US.LA.055</id>
+        <population>230845</population>
+      </desc>
+    </path>
+    <path d="M 187.2989 411.4786 205.9288 411.4786 238.2206 411.4786 251.8826 435.0765 233.2527 456.1904 214.6228 468.6103 188.5409 463.6423 187.2989 411.4786 Z" id="US.LA.001" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Acadia Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>001</fips>
+        <incits>22001</incits>
+        <id>US.LA.001</id>
+        <population>62204</population>
+      </desc>
+    </path>
+    <path d="M 141.3452 359.3149 162.4591 356.831 192.2669 356.831 192.2669 397.8167 187.2989 410.2367 168.669 417.6886 121.4733 418.9306 121.4733 395.3327 141.3452 396.5747 141.3452 359.3149 Z" id="US.LA.003" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Allen Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>003</fips>
+        <incits>22003</incits>
+        <id>US.LA.003</id>
+        <population>25537</population>
+      </desc>
+    </path>
+    <path d="M 64.3416 360.5569 141.3452 359.3149 141.3452 396.5747 121.4733 395.3327 121.4733 418.9306 121.4733 421.4146 40.7438 421.4146 41.9858 404.0267 55.6477 385.3968 64.3416 360.5569 Z" id="US.LA.011" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Beauregard Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>011</fips>
+        <incits>22011</incits>
+        <id>US.LA.011</id>
+        <population>36167</population>
+      </desc>
+    </path>
+    <path d="M 89.1815 156.8701 118.9893 150.6601 115.2633 133.2722 155.0071 133.2722 168.669 150.6601 168.669 179.226 162.4591 191.6459 146.3132 191.6459 114.0214 191.6459 110.2954 180.468 81.7295 180.468 89.1815 156.8701 Z" id="US.LA.013" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Bienville Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>013</fips>
+        <incits>22013</incits>
+        <id>US.LA.013</id>
+        <population>13981</population>
+      </desc>
+    </path>
+    <path d="M 40.7438 421.4146 121.4733 421.4146 135.1352 425.1406 138.8612 469.8523 45.7117 467.3683 40.7438 421.4146 Z" id="US.LA.019" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Calcasieu Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>019</fips>
+        <incits>22019</incits>
+        <id>US.LA.019</id>
+        <population>195296</population>
+      </desc>
+    </path>
+    <path d="M 229.5267 220.2117 229.5267 191.6459 229.5267 174.258 266.7865 174.258 284.1744 190.4039 285.4164 215.2438 270.5125 220.2117 229.5267 220.2117 Z" id="US.LA.021" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Caldwell Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>021</fips>
+        <incits>22021</incits>
+        <id>US.LA.021</id>
+        <population>9989</population>
+      </desc>
+    </path>
+    <path d="M 45.7117 467.3683 138.8612 469.8523 173.637 469.8523 189.7829 469.8523 189.7829 538.1619 122.7153 514.5641 74.2776 512.0801 37.0178 518.29 17.1459 499.6601 45.7117 467.3683 Z" id="US.LA.023" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cameron Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>023</fips>
+        <incits>22023</incits>
+        <id>US.LA.023</id>
+        <population>6744</population>
+      </desc>
+    </path>
+    <path d="M 269.2705 299.6993 270.5125 220.2117 285.4164 215.2438 306.5302 226.4217 326.4021 226.4217 331.3701 243.8096 310.2562 247.5356 296.5943 259.9555 300.3203 274.8594 289.1423 295.9733 292.8683 308.3932 269.2705 299.6993 Z" id="US.LA.025" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Catahoula Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>025</fips>
+        <incits>22025</incits>
+        <id>US.LA.025</id>
+        <population>10238</population>
+      </desc>
+    </path>
+    <path d="M 284.1744 190.4039 300.3203 179.226 301.5623 166.806 318.9502 158.1121 340.0641 156.8701 337.5801 184.194 335.0961 220.2117 326.4021 226.4217 306.5302 226.4217 285.4164 215.2438 284.1744 190.4039 Z" id="US.LA.041" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Franklin Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>041</fips>
+        <incits>22041</incits>
+        <id>US.LA.041</id>
+        <population>20571</population>
+      </desc>
+    </path>
+    <path d="M 143.8292 248.7776 188.5409 248.7776 188.5409 237.5996 223.3167 237.5996 222.0747 263.6815 244.4306 279.8274 187.2989 291.0053 176.121 274.8594 143.8292 248.7776 Z" id="US.LA.043" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Grant Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>043</fips>
+        <incits>22043</incits>
+        <id>US.LA.043</id>
+        <population>22030</population>
+      </desc>
+    </path>
+    <path d="M 162.4591 191.6459 168.669 179.226 168.669 150.6601 188.5409 145.6922 215.8648 145.6922 229.5267 174.258 229.5267 191.6459 162.4591 191.6459 Z" id="US.LA.049" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jackson Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>049</fips>
+        <incits>22049</incits>
+        <id>US.LA.049</id>
+        <population>16112</population>
+      </desc>
+    </path>
+    <path d="M 121.4733 421.4146 121.4733 418.9306 168.669 417.6886 187.2989 410.2367 187.2989 411.4786 188.5409 463.6423 173.637 469.8523 138.8612 469.8523 135.1352 425.1406 121.4733 421.4146 Z" id="US.LA.053" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jefferson Davis Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>053</fips>
+        <incits>22053</incits>
+        <id>US.LA.053</id>
+        <population>31301</population>
+      </desc>
+    </path>
+    <path d="M 223.3167 237.5996 229.5267 220.2117 270.5125 220.2117 269.2705 299.6993 259.3345 298.4573 244.4306 279.8274 222.0747 263.6815 223.3167 237.5996 Z" id="US.LA.059" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>La Salle Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>059</fips>
+        <incits>22059</incits>
+        <id>US.LA.059</id>
+        <population>14777</population>
+      </desc>
+    </path>
+    <path d="M 174.879 110.9164 215.8648 122.0943 215.8648 133.2722 215.8648 145.6922 188.5409 145.6922 168.669 150.6601 155.0071 133.2722 161.2171 110.9164 174.879 110.9164 Z" id="US.LA.061" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lincoln Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>061</fips>
+        <incits>22061</incits>
+        <id>US.LA.061</id>
+        <population>47414</population>
+      </desc>
+    </path>
+    <path d="M 340.0641 156.8701 342.548 139.4822 393.4698 136.9982 407.1317 154.3861 405.8897 171.774 386.0178 182.952 337.5801 184.194 340.0641 156.8701 Z" id="US.LA.065" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Madison Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>065</fips>
+        <incits>22065</incits>
+        <id>US.LA.065</id>
+        <population>11927</population>
+      </desc>
+    </path>
+    <path d="M 80.4875 231.3897 91.6655 220.2117 120.2313 204.0658 114.0214 191.6459 146.3132 191.6459 155.0071 217.7278 143.8292 248.7776 176.121 274.8594 141.3452 297.2153 107.8114 294.7313 107.8114 272.3754 94.1495 272.3754 94.1495 248.7776 80.4875 231.3897 Z" id="US.LA.069" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Natchitoches Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>069</fips>
+        <incits>22069</incits>
+        <id>US.LA.069</id>
+        <population>39138</population>
+      </desc>
+    </path>
+    <path d="M 215.8648 145.6922 215.8648 133.2722 233.2527 134.5142 261.8185 115.8843 280.4484 123.3363 282.9324 144.4502 266.7865 174.258 229.5267 174.258 215.8648 145.6922 Z" id="US.LA.073" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ouachita Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>073</fips>
+        <incits>22073</incits>
+        <id>US.LA.073</id>
+        <population>156220</population>
+      </desc>
+    </path>
+    <path d="M 141.3452 297.2153 176.121 274.8594 187.2989 291.0053 244.4306 279.8274 259.3345 298.4573 240.7046 300.9413 243.1886 348.137 233.2527 348.137 220.8327 343.169 192.2669 356.831 162.4591 356.831 161.2171 309.6352 141.3452 297.2153 Z" id="US.LA.079" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Rapides Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>079</fips>
+        <incits>22079</incits>
+        <id>US.LA.079</id>
+        <population>132723</population>
+      </desc>
+    </path>
+    <path d="M 58.1317 179.226 76.7616 179.226 81.7295 180.468 110.2954 180.468 114.0214 191.6459 120.2313 204.0658 91.6655 220.2117 66.8256 196.6139 58.1317 179.226 Z" id="US.LA.081" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Red River Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>081</fips>
+        <incits>22081</incits>
+        <id>US.LA.081</id>
+        <population>8894</population>
+      </desc>
+    </path>
+    <path d="M 266.7865 174.258 282.9324 144.4502 305.2883 136.9982 318.9502 122.0943 323.9181 134.5142 343.79 134.5142 342.548 139.4822 340.0641 156.8701 318.9502 158.1121 301.5623 166.806 300.3203 179.226 284.1744 190.4039 266.7865 174.258 Z" id="US.LA.083" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Richland Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>083</fips>
+        <incits>22083</incits>
+        <id>US.LA.083</id>
+        <population>20857</population>
+      </desc>
+    </path>
+    <path d="M 22.1139 231.3897 80.4875 231.3897 94.1495 248.7776 94.1495 272.3754 107.8114 272.3754 107.8114 294.7313 86.6975 294.7313 65.5836 318.3292 48.1957 302.1833 43.2278 277.3434 28.3238 263.6815 33.2918 251.2616 22.1139 231.3897 Z" id="US.LA.085" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Sabine Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>085</fips>
+        <incits>22085</incits>
+        <id>US.LA.085</id>
+        <population>24235</population>
+      </desc>
+    </path>
+    <path d="M 326.4021 226.4217 335.0961 220.2117 337.5801 184.194 386.0178 182.952 395.9537 194.1299 398.4377 195.3719 392.2278 210.2758 371.1139 227.6637 358.694 230.1477 352.484 246.2936 331.3701 243.8096 326.4021 226.4217 Z" id="US.LA.107" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Tensas Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>107</fips>
+        <incits>22107</incits>
+        <id>US.LA.107</id>
+        <population>4908</population>
+      </desc>
+    </path>
+    <path d="M 173.637 469.8523 188.5409 463.6423 214.6228 468.6103 233.2527 456.1904 275.4804 469.8523 271.7544 478.5463 272.9964 520.774 264.3025 540.6459 232.0107 543.1299 189.7829 538.1619 189.7829 469.8523 173.637 469.8523 Z" id="US.LA.113" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Vermilion Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>113</fips>
+        <incits>22113</incits>
+        <id>US.LA.113</id>
+        <population>59253</population>
+      </desc>
+    </path>
+    <path d="M 65.5836 318.3292 86.6975 294.7313 107.8114 294.7313 141.3452 297.2153 161.2171 309.6352 162.4591 356.831 141.3452 359.3149 64.3416 360.5569 65.5836 318.3292 Z" id="US.LA.115" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Vernon Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>115</fips>
+        <incits>22115</incits>
+        <id>US.LA.115</id>
+        <population>52606</population>
+      </desc>
+    </path>
+    <path d="M 146.3132 191.6459 162.4591 191.6459 229.5267 191.6459 229.5267 220.2117 223.3167 237.5996 188.5409 237.5996 188.5409 248.7776 143.8292 248.7776 155.0071 217.7278 146.3132 191.6459 Z" id="US.LA.127" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Winn Parish</name>
+        <stateAbbrev>LA</stateAbbrev>
+        <state>Louisiana</state>
+        <fips>127</fips>
+        <incits>22127</incits>
+        <id>US.LA.127</id>
+        <population>14813</population>
+      </desc>
+    </path>
+  </g>
+</svg>

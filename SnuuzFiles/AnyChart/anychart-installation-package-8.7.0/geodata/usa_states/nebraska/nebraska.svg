@@ -1,0 +1,1028 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="nebraska">
+    <path d="M 534.4714 302.6357 562.7238 302.6357 562.7238 330.0571 544.4429 330.0571 534.4714 330.0571 534.4714 302.6357 Z" id="US.NE.167" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Stanton County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>167</fips>
+        <incits>31167</incits>
+        <id>US.NE.167</id>
+        <population>6133</population>
+      </desc>
+    </path>
+    <path d="M 497.9095 302.6357 534.4714 302.6357 534.4714 330.0571 497.9095 330.8881 497.9095 316.7619 497.9095 302.6357 Z" id="US.NE.119" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Madison County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>119</fips>
+        <incits>31119</incits>
+        <id>US.NE.119</id>
+        <population>35278</population>
+      </desc>
+    </path>
+    <path d="M 497.9095 275.2143 525.331 275.2143 534.4714 281.8619 534.4714 302.6357 497.9095 302.6357 497.9095 275.2143 Z" id="US.NE.139" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pierce County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>139</fips>
+        <incits>31139</incits>
+        <id>US.NE.139</id>
+        <population>7150</population>
+      </desc>
+    </path>
+    <path d="M 534.4714 302.6357 534.4714 281.8619 562.7238 281.8619 562.7238 288.5095 578.5119 288.5095 578.5119 302.6357 562.7238 302.6357 534.4714 302.6357 Z" id="US.NE.179" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wayne County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>179</fips>
+        <incits>31179</incits>
+        <id>US.NE.179</id>
+        <population>9411</population>
+      </desc>
+    </path>
+    <path d="M 115.6714 389.8857 116.5024 372.4357 160.5429 372.4357 160.5429 389.8857 115.6714 389.8857 Z" id="US.NE.049" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Deuel County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>049</fips>
+        <incits>31049</incits>
+        <id>US.NE.049</id>
+        <population>1937</population>
+      </desc>
+    </path>
+    <path d="M 54.181 389.8857 55.0119 358.3095 55.8429 354.9857 114.0095 354.9857 116.5024 372.4357 115.6714 389.8857 54.181 389.8857 Z" id="US.NE.033" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cheyenne County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>033</fips>
+        <incits>31033</incits>
+        <id>US.NE.033</id>
+        <population>10091</population>
+      </desc>
+    </path>
+    <path d="M 160.5429 389.8857 225.3571 389.8857 225.3571 413.9833 217.0476 413.9833 160.5429 413.9833 160.5429 389.8857 Z" id="US.NE.135" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Perkins County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>135</fips>
+        <incits>31135</incits>
+        <id>US.NE.135</id>
+        <population>2921</population>
+      </desc>
+    </path>
+    <path d="M 1 358.3095 55.0119 358.3095 54.181 389.8857 1 389.8857 1 358.3095 Z" id="US.NE.105" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Kimball County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>105</fips>
+        <incits>31105</incits>
+        <id>US.NE.105</id>
+        <population>3702</population>
+      </desc>
+    </path>
+    <path d="M 160.5429 442.2357 217.8786 441.4048 218.7095 441.4048 218.7095 469.6571 160.5429 469.6571 160.5429 442.2357 Z" id="US.NE.057" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dundy County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>057</fips>
+        <incits>31057</incits>
+        <id>US.NE.057</id>
+        <population>1981</population>
+      </desc>
+    </path>
+    <path d="M 160.5429 442.2357 160.5429 413.9833 217.0476 413.9833 217.8786 441.4048 160.5429 442.2357 Z" id="US.NE.029" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Chase County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>029</fips>
+        <incits>31029</incits>
+        <id>US.NE.029</id>
+        <population>4000</population>
+      </desc>
+    </path>
+    <path d="M 571.8643 386.5619 571.8643 353.3238 597.6238 354.9857 605.9333 358.3095 617.5667 374.9286 618.3976 386.5619 606.7643 389.0548 606.7643 386.5619 571.8643 386.5619 Z" id="US.NE.155" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Saunders County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>155</fips>
+        <incits>31155</incits>
+        <id>US.NE.155</id>
+        <population>20929</population>
+      </desc>
+    </path>
+    <path d="M 386.5619 303.4667 423.9548 303.4667 423.9548 330.8881 387.3929 330.8881 386.5619 330.8881 386.5619 303.4667 Z" id="US.NE.071" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Garfield County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>071</fips>
+        <incits>31071</incits>
+        <id>US.NE.071</id>
+        <population>2035</population>
+      </desc>
+    </path>
+    <path d="M 1 334.2119 55.8429 334.2119 55.8429 354.9857 55.0119 358.3095 1 358.3095 1 334.2119 Z" id="US.NE.007" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Banner County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>007</fips>
+        <incits>31007</incits>
+        <id>US.NE.007</id>
+        <population>759</population>
+      </desc>
+    </path>
+    <path d="M 462.1786 441.4048 498.7405 442.2357 498.7405 441.4048 498.7405 469.6571 462.1786 469.6571 462.1786 441.4048 Z" id="US.NE.129" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Nuckolls County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>129</fips>
+        <incits>31129</incits>
+        <id>US.NE.129</id>
+        <population>4413</population>
+      </desc>
+    </path>
+    <path d="M 256.9333 302.6357 303.4667 303.4667 303.4667 330.8881 267.7357 330.8881 256.9333 330.8881 256.9333 302.6357 Z" id="US.NE.171" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Thomas County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>171</fips>
+        <incits>31171</incits>
+        <id>US.NE.171</id>
+        <population>699</population>
+      </desc>
+    </path>
+    <path d="M 350 303.4667 351.6619 303.4667 385.731 303.4667 386.5619 303.4667 386.5619 330.8881 350 330.8881 350 303.4667 Z" id="US.NE.115" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Loup County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>115</fips>
+        <incits>31115</incits>
+        <id>US.NE.115</id>
+        <population>576</population>
+      </desc>
+    </path>
+    <path d="M 498.7405 469.6571 498.7405 441.4048 534.4714 441.4048 534.4714 469.6571 498.7405 469.6571 Z" id="US.NE.169" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Thayer County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>169</fips>
+        <incits>31169</incits>
+        <id>US.NE.169</id>
+        <population>5189</population>
+      </desc>
+    </path>
+    <path d="M 212.0619 358.3095 212.8929 330.8881 256.9333 330.8881 267.7357 330.8881 267.7357 358.3095 222.8643 358.3095 212.0619 358.3095 Z" id="US.NE.117" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>McPherson County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>117</fips>
+        <incits>31117</incits>
+        <id>US.NE.117</id>
+        <population>526</population>
+      </desc>
+    </path>
+    <path d="M 387.3929 330.8881 423.9548 330.8881 424.7857 358.3095 388.2238 358.3095 387.3929 330.8881 Z" id="US.NE.175" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Valley County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>175</fips>
+        <incits>31175</incits>
+        <id>US.NE.175</id>
+        <population>4193</population>
+      </desc>
+    </path>
+    <path d="M 606.7643 469.6571 606.7643 448.8833 639.1714 448.8833 643.3262 448.8833 643.3262 469.6571 606.7643 469.6571 Z" id="US.NE.133" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pawnee County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>133</fips>
+        <incits>31133</incits>
+        <id>US.NE.133</id>
+        <population>2709</population>
+      </desc>
+    </path>
+    <path d="M 617.5667 374.9286 649.9738 374.9286 653.2976 385.731 639.1714 384.9 625.8762 389.8857 618.3976 386.5619 617.5667 374.9286 Z" id="US.NE.153" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Sarpy County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>153</fips>
+        <incits>31153</incits>
+        <id>US.NE.153</id>
+        <population>169331</population>
+      </desc>
+    </path>
+    <path d="M 534.4714 386.5619 534.4714 358.3095 543.6119 359.9714 556.9071 359.1405 571.8643 353.3238 571.8643 386.5619 571.0333 386.5619 534.4714 386.5619 Z" id="US.NE.023" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Butler County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>023</fips>
+        <incits>31023</incits>
+        <id>US.NE.023</id>
+        <population>8312</population>
+      </desc>
+    </path>
+    <path d="M 262.75 413.9833 306.7905 413.9833 325.9024 413.9833 325.9024 434.7571 317.5929 442.2357 309.2833 442.2357 264.4119 442.2357 262.75 442.2357 262.75 413.9833 Z" id="US.NE.063" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Frontier County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>063</fips>
+        <incits>31063</incits>
+        <id>US.NE.063</id>
+        <population>2709</population>
+      </desc>
+    </path>
+    <path d="M 158.05 230.3429 244.469 230.3429 308.4524 230.3429 308.4524 242.8071 310.9452 303.4667 303.4667 303.4667 256.9333 302.6357 211.231 302.6357 164.6976 302.6357 158.05 230.3429 Z" id="US.NE.031" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cherry County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>031</fips>
+        <incits>31031</incits>
+        <id>US.NE.031</id>
+        <population>5788</population>
+      </desc>
+    </path>
+    <path d="M 461.3476 358.3095 461.3476 351.6619 477.9667 351.6619 497.9095 347.5071 507.881 347.5071 507.881 358.3095 507.881 364.9571 462.1786 369.1119 461.3476 358.3095 Z" id="US.NE.125" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Nance County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>125</fips>
+        <incits>31125</incits>
+        <id>US.NE.125</id>
+        <population>3623</population>
+      </desc>
+    </path>
+    <path d="M 303.4667 303.4667 310.9452 303.4667 350 303.4667 350 330.8881 304.2976 330.8881 303.4667 330.8881 303.4667 303.4667 Z" id="US.NE.009" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Blaine County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>009</fips>
+        <incits>31009</incits>
+        <id>US.NE.009</id>
+        <population>482</population>
+      </desc>
+    </path>
+    <path d="M 45.0405 230.3429 101.5452 230.3429 103.2071 275.2143 56.6738 275.2143 50.0262 275.2143 45.0405 230.3429 Z" id="US.NE.045" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dawes County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>045</fips>
+        <incits>31045</incits>
+        <id>US.NE.045</id>
+        <population>9088</population>
+      </desc>
+    </path>
+    <path d="M 45.0405 230.3429 50.0262 275.2143 50.0262 289.3405 49.1952 302.6357 53.35 310.1143 1 310.1143 1 230.3429 45.0405 230.3429 Z" id="US.NE.165" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Sioux County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>165</fips>
+        <incits>31165</incits>
+        <id>US.NE.165</id>
+        <population>1313</population>
+      </desc>
+    </path>
+    <path d="M 534.4714 469.6571 534.4714 441.4048 571.0333 442.2357 571.0333 469.6571 534.4714 469.6571 Z" id="US.NE.095" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jefferson County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>095</fips>
+        <incits>31095</incits>
+        <id>US.NE.095</id>
+        <population>7560</population>
+      </desc>
+    </path>
+    <path d="M 605.9333 358.3095 617.5667 358.3095 649.1429 358.3095 649.9738 374.9286 617.5667 374.9286 605.9333 358.3095 Z" id="US.NE.055" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Douglas County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>055</fips>
+        <incits>31055</incits>
+        <id>US.NE.055</id>
+        <population>537256</population>
+      </desc>
+    </path>
+    <path d="M 426.4476 469.6571 426.4476 441.4048 462.1786 441.4048 462.1786 469.6571 426.4476 469.6571 Z" id="US.NE.181" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Webster County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>181</fips>
+        <incits>31181</incits>
+        <id>US.NE.181</id>
+        <population>3688</population>
+      </desc>
+    </path>
+    <path d="M 600.1167 330.8881 600.1167 308.4524 622.5524 305.9595 638.3405 325.9024 634.1857 335.8738 608.4262 335.0429 600.1167 330.8881 Z" id="US.NE.021" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Burt County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>021</fips>
+        <incits>31021</incits>
+        <id>US.NE.021</id>
+        <population>6574</population>
+      </desc>
+    </path>
+    <path d="M 1 310.1143 53.35 310.1143 56.6738 310.1143 55.8429 334.2119 1 334.2119 1 310.1143 Z" id="US.NE.157" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Scotts Bluff County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>157</fips>
+        <incits>31157</incits>
+        <id>US.NE.157</id>
+        <population>36848</population>
+      </desc>
+    </path>
+    <path d="M 389.8857 442.2357 426.4476 441.4048 426.4476 469.6571 389.8857 469.6571 389.8857 442.2357 Z" id="US.NE.061" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Franklin County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>061</fips>
+        <incits>31061</incits>
+        <id>US.NE.061</id>
+        <population>3085</population>
+      </desc>
+    </path>
+    <path d="M 264.4119 442.2357 309.2833 442.2357 309.2833 469.6571 264.4119 469.6571 264.4119 442.2357 Z" id="US.NE.145" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Red Willow County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>145</fips>
+        <incits>31145</incits>
+        <id>US.NE.145</id>
+        <population>11006</population>
+      </desc>
+    </path>
+    <path d="M 498.7405 413.9833 534.4714 413.9833 534.4714 441.4048 498.7405 441.4048 498.7405 442.2357 498.7405 413.9833 Z" id="US.NE.059" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Fillmore County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>059</fips>
+        <incits>31059</incits>
+        <id>US.NE.059</id>
+        <population>5698</population>
+      </desc>
+    </path>
+    <path d="M 325.9024 413.9833 353.3238 414.8143 353.3238 442.2357 317.5929 442.2357 325.9024 434.7571 325.9024 413.9833 Z" id="US.NE.073" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Gosper County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>073</fips>
+        <incits>31073</incits>
+        <id>US.NE.073</id>
+        <population>1972</population>
+      </desc>
+    </path>
+    <path d="M 461.3476 358.3095 462.1786 369.1119 507.881 364.9571 507.881 358.3095 516.1905 363.2952 497.9095 375.7595 482.9524 384.9 461.3476 399.8571 461.3476 386.5619 461.3476 358.3095 Z" id="US.NE.121" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Merrick County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>121</fips>
+        <incits>31121</incits>
+        <id>US.NE.121</id>
+        <population>7802</population>
+      </desc>
+    </path>
+    <path d="M 459.6857 239.4833 481.2905 249.4548 497.0786 241.1452 509.5429 242.8071 525.331 241.1452 525.331 275.2143 497.9095 275.2143 460.5167 275.2143 459.6857 249.4548 459.6857 239.4833 Z" id="US.NE.107" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Knox County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>107</fips>
+        <incits>31107</incits>
+        <id>US.NE.107</id>
+        <population>8565</population>
+      </desc>
+    </path>
+    <path d="M 462.1786 413.9833 498.7405 413.9833 498.7405 442.2357 462.1786 441.4048 462.1786 413.9833 Z" id="US.NE.035" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Clay County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>035</fips>
+        <incits>31035</incits>
+        <id>US.NE.035</id>
+        <population>6392</population>
+      </desc>
+    </path>
+    <path d="M 426.4476 414.8143 426.4476 413.9833 462.1786 413.9833 462.1786 441.4048 426.4476 441.4048 426.4476 414.8143 Z" id="US.NE.001" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Adams County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>001</fips>
+        <incits>31001</incits>
+        <id>US.NE.001</id>
+        <population>31610</population>
+      </desc>
+    </path>
+    <path d="M 643.3262 469.6571 643.3262 448.8833 679.8881 448.8833 692.3524 459.6857 699 469.6571 643.3262 469.6571 Z" id="US.NE.147" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Richardson County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>147</fips>
+        <incits>31147</incits>
+        <id>US.NE.147</id>
+        <population>8125</population>
+      </desc>
+    </path>
+    <path d="M 388.2238 386.5619 388.2238 358.3095 424.7857 358.3095 424.7857 386.5619 388.2238 386.5619 Z" id="US.NE.163" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Sherman County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>163</fips>
+        <incits>31163</incits>
+        <id>US.NE.163</id>
+        <population>3106</population>
+      </desc>
+    </path>
+    <path d="M 353.3238 414.8143 371.6048 416.4762 389.8857 417.3071 389.8857 442.2357 354.1548 442.2357 353.3238 442.2357 353.3238 414.8143 Z" id="US.NE.137" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Phelps County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>137</fips>
+        <incits>31137</incits>
+        <id>US.NE.137</id>
+        <population>9213</population>
+      </desc>
+    </path>
+    <path d="M 571.8643 330.0571 600.1167 330.8881 608.4262 335.0429 609.2571 350.831 617.5667 358.3095 605.9333 358.3095 597.6238 354.9857 571.8643 353.3238 571.8643 330.0571 Z" id="US.NE.053" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dodge County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>053</fips>
+        <incits>31053</incits>
+        <id>US.NE.053</id>
+        <population>36515</population>
+      </desc>
+    </path>
+    <path d="M 354.1548 442.2357 389.8857 442.2357 389.8857 469.6571 354.1548 469.6571 354.1548 442.2357 Z" id="US.NE.083" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Harlan County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>083</fips>
+        <incits>31083</incits>
+        <id>US.NE.083</id>
+        <population>3513</population>
+      </desc>
+    </path>
+    <path d="M 534.4714 413.9833 534.4714 386.5619 571.0333 386.5619 571.0333 413.9833 534.4714 413.9833 Z" id="US.NE.159" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Seward County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>159</fips>
+        <incits>31159</incits>
+        <id>US.NE.159</id>
+        <population>17089</population>
+      </desc>
+    </path>
+    <path d="M 460.5167 302.6357 460.5167 275.2143 497.9095 275.2143 497.9095 302.6357 497.9095 316.7619 460.5167 316.7619 460.5167 302.6357 Z" id="US.NE.003" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Antelope County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>003</fips>
+        <incits>31003</incits>
+        <id>US.NE.003</id>
+        <population>6456</population>
+      </desc>
+    </path>
+    <path d="M 497.9095 386.5619 534.4714 386.5619 534.4714 413.9833 498.7405 413.9833 497.9095 386.5619 Z" id="US.NE.185" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>York County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>185</fips>
+        <incits>31185</incits>
+        <id>US.NE.185</id>
+        <population>13883</population>
+      </desc>
+    </path>
+    <path d="M 308.4524 242.8071 317.5929 246.9619 350 251.9476 351.6619 303.4667 350 303.4667 310.9452 303.4667 308.4524 242.8071 Z" id="US.NE.017" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Brown County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>017</fips>
+        <incits>31017</incits>
+        <id>US.NE.017</id>
+        <population>2926</population>
+      </desc>
+    </path>
+    <path d="M 218.7095 441.4048 262.75 442.2357 264.4119 442.2357 264.4119 469.6571 218.7095 469.6571 218.7095 441.4048 Z" id="US.NE.087" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hitchcock County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>087</fips>
+        <incits>31087</incits>
+        <id>US.NE.087</id>
+        <population>2872</population>
+      </desc>
+    </path>
+    <path d="M 101.5452 230.3429 158.05 230.3429 164.6976 302.6357 159.7119 309.2833 110.6857 310.1143 109.0238 310.1143 105.7 302.6357 103.2071 275.2143 101.5452 230.3429 Z" id="US.NE.161" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Sheridan County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>161</fips>
+        <incits>31161</incits>
+        <id>US.NE.161</id>
+        <population>5251</population>
+      </desc>
+    </path>
+    <path d="M 308.4524 230.3429 384.069 230.3429 384.069 245.3 361.6333 252.7786 350 251.9476 317.5929 246.9619 308.4524 242.8071 308.4524 230.3429 Z" id="US.NE.103" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Keya Paha County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>103</fips>
+        <incits>31103</incits>
+        <id>US.NE.103</id>
+        <population>790</population>
+      </desc>
+    </path>
+    <path d="M 606.7643 389.0548 618.3976 386.5619 625.8762 389.8857 639.1714 384.9 653.2976 385.731 657.4524 392.3786 657.4524 407.3357 606.7643 407.3357 606.7643 389.0548 Z" id="US.NE.025" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cass County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>025</fips>
+        <incits>31025</incits>
+        <id>US.NE.025</id>
+        <population>25357</population>
+      </desc>
+    </path>
+    <path d="M 571.0333 469.6571 571.0333 442.2357 571.0333 428.1095 606.7643 428.1095 606.7643 448.8833 606.7643 469.6571 571.0333 469.6571 Z" id="US.NE.067" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Gage County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>067</fips>
+        <incits>31067</incits>
+        <id>US.NE.067</id>
+        <population>21864</population>
+      </desc>
+    </path>
+    <path d="M 606.7643 407.3357 657.4524 407.3357 653.2976 411.4905 667.4238 428.1095 638.3405 428.1095 606.7643 428.1095 606.7643 407.3357 Z" id="US.NE.131" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Otoe County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>131</fips>
+        <incits>31131</incits>
+        <id>US.NE.131</id>
+        <population>15752</population>
+      </desc>
+    </path>
+    <path d="M 166.3595 330.8881 211.231 330.8881 212.8929 330.8881 212.0619 358.3095 166.3595 358.3095 166.3595 330.8881 Z" id="US.NE.005" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Arthur County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>005</fips>
+        <incits>31005</incits>
+        <id>US.NE.005</id>
+        <population>458</population>
+      </desc>
+    </path>
+    <path d="M 593.469 267.7357 611.75 271.0595 615.9048 287.6786 585.9905 287.6786 585.9905 267.7357 593.469 267.7357 Z" id="US.NE.043" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dakota County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>043</fips>
+        <incits>31043</incits>
+        <id>US.NE.043</id>
+        <population>20947</population>
+      </desc>
+    </path>
+    <path d="M 160.5429 372.4357 166.3595 358.3095 212.0619 358.3095 222.8643 358.3095 225.3571 389.8857 160.5429 389.8857 160.5429 372.4357 Z" id="US.NE.101" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Keith County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>101</fips>
+        <incits>31101</incits>
+        <id>US.NE.101</id>
+        <population>8130</population>
+      </desc>
+    </path>
+    <path d="M 55.8429 354.9857 55.8429 334.2119 56.6738 310.1143 109.0238 310.1143 110.6857 310.1143 110.6857 323.4095 114.0095 330.8881 114.0095 354.9857 55.8429 354.9857 Z" id="US.NE.123" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Morrill County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>123</fips>
+        <incits>31123</incits>
+        <id>US.NE.123</id>
+        <population>4908</population>
+      </desc>
+    </path>
+    <path d="M 306.7905 385.731 370.7738 386.5619 371.6048 416.4762 353.3238 414.8143 325.9024 413.9833 306.7905 413.9833 306.7905 385.731 Z" id="US.NE.047" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dawson County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>047</fips>
+        <incits>31047</incits>
+        <id>US.NE.047</id>
+        <population>24207</population>
+      </desc>
+    </path>
+    <path d="M 50.0262 275.2143 56.6738 275.2143 103.2071 275.2143 105.7 302.6357 109.0238 310.1143 56.6738 310.1143 53.35 310.1143 49.1952 302.6357 50.0262 289.3405 50.0262 275.2143 Z" id="US.NE.013" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Box Butte County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>013</fips>
+        <incits>31013</incits>
+        <id>US.NE.013</id>
+        <population>11305</population>
+      </desc>
+    </path>
+    <path d="M 159.7119 309.2833 164.6976 302.6357 211.231 302.6357 211.231 330.8881 166.3595 330.8881 159.7119 330.8881 159.7119 309.2833 Z" id="US.NE.075" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Grant County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>075</fips>
+        <incits>31075</incits>
+        <id>US.NE.075</id>
+        <population>633</population>
+      </desc>
+    </path>
+    <path d="M 350 251.9476 361.6333 252.7786 384.069 245.3 385.731 303.4667 351.6619 303.4667 350 251.9476 Z" id="US.NE.149" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Rock County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>149</fips>
+        <incits>31149</incits>
+        <id>US.NE.149</id>
+        <population>1411</population>
+      </desc>
+    </path>
+    <path d="M 608.4262 335.0429 634.1857 335.8738 636.6786 347.5071 649.1429 358.3095 617.5667 358.3095 609.2571 350.831 608.4262 335.0429 Z" id="US.NE.177" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Washington County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>177</fips>
+        <incits>31177</incits>
+        <id>US.NE.177</id>
+        <population>20223</population>
+      </desc>
+    </path>
+    <path d="M 460.5167 330.8881 460.5167 316.7619 497.9095 316.7619 497.9095 330.8881 497.9095 347.5071 477.9667 351.6619 461.3476 351.6619 460.5167 330.8881 Z" id="US.NE.011" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Boone County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>011</fips>
+        <incits>31011</incits>
+        <id>US.NE.011</id>
+        <population>5388</population>
+      </desc>
+    </path>
+    <path d="M 571.0333 413.9833 571.0333 386.5619 571.8643 386.5619 606.7643 386.5619 606.7643 389.0548 606.7643 407.3357 606.7643 428.1095 571.0333 428.1095 571.0333 413.9833 Z" id="US.NE.109" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lancaster County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>109</fips>
+        <incits>31109</incits>
+        <id>US.NE.109</id>
+        <population>297036</population>
+      </desc>
+    </path>
+    <path d="M 534.4714 441.4048 534.4714 413.9833 571.0333 413.9833 571.0333 428.1095 571.0333 442.2357 534.4714 441.4048 Z" id="US.NE.151" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Saline County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>151</fips>
+        <incits>31151</incits>
+        <id>US.NE.151</id>
+        <population>14416</population>
+      </desc>
+    </path>
+    <path d="M 543.6119 359.9714 544.4429 330.0571 562.7238 330.0571 571.8643 330.0571 571.8643 353.3238 556.9071 359.1405 543.6119 359.9714 Z" id="US.NE.037" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Colfax County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>037</fips>
+        <incits>31037</incits>
+        <id>US.NE.037</id>
+        <population>10425</population>
+      </desc>
+    </path>
+    <path d="M 461.3476 399.8571 482.9524 384.9 497.9095 375.7595 497.9095 386.5619 498.7405 413.9833 462.1786 413.9833 461.3476 399.8571 Z" id="US.NE.081" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hamilton County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>081</fips>
+        <incits>31081</incits>
+        <id>US.NE.081</id>
+        <population>9112</population>
+      </desc>
+    </path>
+    <path d="M 384.069 245.3 408.9976 239.4833 437.25 247.7929 459.6857 249.4548 460.5167 275.2143 460.5167 302.6357 423.9548 303.4667 386.5619 303.4667 385.731 303.4667 384.069 245.3 Z" id="US.NE.089" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Holt County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>089</fips>
+        <incits>31089</incits>
+        <id>US.NE.089</id>
+        <population>10449</population>
+      </desc>
+    </path>
+    <path d="M 423.9548 303.4667 460.5167 302.6357 460.5167 316.7619 460.5167 330.8881 423.9548 330.8881 423.9548 303.4667 Z" id="US.NE.183" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wheeler County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>183</fips>
+        <incits>31183</incits>
+        <id>US.NE.183</id>
+        <population>759</population>
+      </desc>
+    </path>
+    <path d="M 562.7238 281.8619 562.7238 249.4548 575.1881 251.9476 593.469 267.7357 585.9905 267.7357 585.9905 287.6786 578.5119 288.5095 562.7238 288.5095 562.7238 281.8619 Z" id="US.NE.051" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dixon County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>051</fips>
+        <incits>31051</incits>
+        <id>US.NE.051</id>
+        <population>5851</population>
+      </desc>
+    </path>
+    <path d="M 267.7357 330.8881 303.4667 330.8881 304.2976 330.8881 304.2976 358.3095 267.7357 358.3095 267.7357 330.8881 Z" id="US.NE.113" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Logan County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>113</fips>
+        <incits>31113</incits>
+        <id>US.NE.113</id>
+        <population>763</population>
+      </desc>
+    </path>
+    <path d="M 217.0476 413.9833 225.3571 413.9833 262.75 413.9833 262.75 442.2357 218.7095 441.4048 217.8786 441.4048 217.0476 413.9833 Z" id="US.NE.085" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hayes County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>085</fips>
+        <incits>31085</incits>
+        <id>US.NE.085</id>
+        <population>976</population>
+      </desc>
+    </path>
+    <path d="M 370.7738 386.5619 388.2238 386.5619 424.7857 386.5619 426.4476 386.5619 426.4476 413.9833 426.4476 414.8143 412.3214 417.3071 389.8857 417.3071 371.6048 416.4762 370.7738 386.5619 Z" id="US.NE.019" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Buffalo County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>019</fips>
+        <incits>31019</incits>
+        <id>US.NE.019</id>
+        <population>47893</population>
+      </desc>
+    </path>
+    <path d="M 638.3405 428.1095 667.4238 428.1095 674.9024 444.7286 679.8881 448.8833 643.3262 448.8833 639.1714 448.8833 638.3405 428.1095 Z" id="US.NE.127" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Nemaha County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>127</fips>
+        <incits>31127</incits>
+        <id>US.NE.127</id>
+        <population>7157</population>
+      </desc>
+    </path>
+    <path d="M 309.2833 442.2357 317.5929 442.2357 353.3238 442.2357 354.1548 442.2357 354.1548 469.6571 309.2833 469.6571 309.2833 442.2357 Z" id="US.NE.065" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Furnas County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>065</fips>
+        <incits>31065</incits>
+        <id>US.NE.065</id>
+        <population>4865</population>
+      </desc>
+    </path>
+    <path d="M 384.069 230.3429 444.7286 230.3429 459.6857 239.4833 459.6857 249.4548 437.25 247.7929 408.9976 239.4833 384.069 245.3 384.069 230.3429 Z" id="US.NE.015" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Boyd County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>015</fips>
+        <incits>31015</incits>
+        <id>US.NE.015</id>
+        <population>2032</population>
+      </desc>
+    </path>
+    <path d="M 578.5119 288.5095 585.9905 287.6786 615.9048 287.6786 622.5524 305.9595 600.1167 308.4524 599.2857 302.6357 578.5119 302.6357 578.5119 288.5095 Z" id="US.NE.173" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Thurston County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>173</fips>
+        <incits>31173</incits>
+        <id>US.NE.173</id>
+        <population>6895</population>
+      </desc>
+    </path>
+    <path d="M 497.9095 330.8881 534.4714 330.0571 544.4429 330.0571 543.6119 359.9714 534.4714 358.3095 516.1905 363.2952 507.881 358.3095 507.881 347.5071 497.9095 347.5071 497.9095 330.8881 Z" id="US.NE.141" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Platte County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>141</fips>
+        <incits>31141</incits>
+        <id>US.NE.141</id>
+        <population>32505</population>
+      </desc>
+    </path>
+    <path d="M 389.8857 417.3071 412.3214 417.3071 426.4476 414.8143 426.4476 441.4048 389.8857 442.2357 389.8857 417.3071 Z" id="US.NE.099" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Kearney County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>099</fips>
+        <incits>31099</incits>
+        <id>US.NE.099</id>
+        <population>6548</population>
+      </desc>
+    </path>
+    <path d="M 423.9548 330.8881 460.5167 330.8881 461.3476 351.6619 461.3476 358.3095 424.7857 358.3095 423.9548 330.8881 Z" id="US.NE.077" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Greeley County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>077</fips>
+        <incits>31077</incits>
+        <id>US.NE.077</id>
+        <population>2494</population>
+      </desc>
+    </path>
+    <path d="M 525.331 275.2143 525.331 241.1452 545.2738 241.9762 562.7238 249.4548 562.7238 281.8619 534.4714 281.8619 525.331 275.2143 Z" id="US.NE.027" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cedar County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>027</fips>
+        <incits>31027</incits>
+        <id>US.NE.027</id>
+        <population>8711</population>
+      </desc>
+    </path>
+    <path d="M 606.7643 428.1095 638.3405 428.1095 639.1714 448.8833 606.7643 448.8833 606.7643 428.1095 Z" id="US.NE.097" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Johnson County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>097</fips>
+        <incits>31097</incits>
+        <id>US.NE.097</id>
+        <population>5144</population>
+      </desc>
+    </path>
+    <path d="M 222.8643 358.3095 267.7357 358.3095 304.2976 358.3095 306.7905 385.731 306.7905 413.9833 262.75 413.9833 225.3571 413.9833 225.3571 389.8857 222.8643 358.3095 Z" id="US.NE.111" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lincoln County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>111</fips>
+        <incits>31111</incits>
+        <id>US.NE.111</id>
+        <population>36051</population>
+      </desc>
+    </path>
+    <path d="M 211.231 302.6357 256.9333 302.6357 256.9333 330.8881 212.8929 330.8881 211.231 330.8881 211.231 302.6357 Z" id="US.NE.091" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hooker County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>091</fips>
+        <incits>31091</incits>
+        <id>US.NE.091</id>
+        <population>738</population>
+      </desc>
+    </path>
+    <path d="M 497.9095 375.7595 516.1905 363.2952 534.4714 358.3095 534.4714 386.5619 497.9095 386.5619 497.9095 375.7595 Z" id="US.NE.143" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Polk County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>143</fips>
+        <incits>31143</incits>
+        <id>US.NE.143</id>
+        <population>5275</population>
+      </desc>
+    </path>
+    <path d="M 426.4476 386.5619 461.3476 386.5619 461.3476 399.8571 462.1786 413.9833 426.4476 413.9833 426.4476 386.5619 Z" id="US.NE.079" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hall County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>079</fips>
+        <incits>31079</incits>
+        <id>US.NE.079</id>
+        <population>60720</population>
+      </desc>
+    </path>
+    <path d="M 424.7857 386.5619 424.7857 358.3095 461.3476 358.3095 461.3476 386.5619 426.4476 386.5619 424.7857 386.5619 Z" id="US.NE.093" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Howard County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>093</fips>
+        <incits>31093</incits>
+        <id>US.NE.093</id>
+        <population>6355</population>
+      </desc>
+    </path>
+    <path d="M 110.6857 310.1143 159.7119 309.2833 159.7119 330.8881 166.3595 330.8881 166.3595 358.3095 160.5429 372.4357 116.5024 372.4357 114.0095 354.9857 114.0095 330.8881 110.6857 323.4095 110.6857 310.1143 Z" id="US.NE.069" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Garden County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>069</fips>
+        <incits>31069</incits>
+        <id>US.NE.069</id>
+        <population>1902</population>
+      </desc>
+    </path>
+    <path d="M 562.7238 330.0571 562.7238 302.6357 578.5119 302.6357 599.2857 302.6357 600.1167 308.4524 600.1167 330.8881 571.8643 330.0571 562.7238 330.0571 Z" id="US.NE.039" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cuming County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>039</fips>
+        <incits>31039</incits>
+        <id>US.NE.039</id>
+        <population>8996</population>
+      </desc>
+    </path>
+    <path d="M 304.2976 330.8881 350 330.8881 386.5619 330.8881 387.3929 330.8881 388.2238 358.3095 388.2238 386.5619 370.7738 386.5619 306.7905 385.731 304.2976 358.3095 304.2976 330.8881 Z" id="US.NE.041" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Custer County</name>
+        <stateAbbrev>NE</stateAbbrev>
+        <state>Nebraska</state>
+        <fips>041</fips>
+        <incits>31041</incits>
+        <id>US.NE.041</id>
+        <population>10792</population>
+      </desc>
+    </path>
+  </g>
+</svg>

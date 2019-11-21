@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="washington">
+    <path d="M 671.4763 422.112 687.9905 424.3139 699 448.5347 699 462.847 649.4574 462.847 654.9621 451.8375 654.9621 428.7177 671.4763 422.112 Z" id="US.WA.003" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Asotin County</name>
+        <stateAbbrev>WA</stateAbbrev>
+        <state>Washington</state>
+        <fips>003</fips>
+        <incits>53003</incits>
+        <id>US.WA.003</id>
+        <population>22110</population>
+      </desc>
+    </path>
+    <path d="M 616.429 406.6987 626.3375 401.194 658.265 405.5978 671.4763 422.112 654.9621 428.7177 654.9621 451.8375 649.4574 462.847 638.4479 462.847 638.4479 432.0205 627.4385 421.011 616.429 421.011 616.429 406.6987 Z" id="US.WA.023" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Garfield County</name>
+        <stateAbbrev>WA</stateAbbrev>
+        <state>Washington</state>
+        <fips>023</fips>
+        <incits>53023</incits>
+        <id>US.WA.023</id>
+        <population>2256</population>
+      </desc>
+    </path>
+    <path d="M 585.6025 396.7902 599.9148 394.5883 607.6215 381.377 607.6215 351.6514 619.7319 351.6514 687.9905 351.6514 687.9905 424.3139 671.4763 422.112 658.265 405.5978 626.3375 401.194 616.429 406.6987 588.9054 413.3044 584.5016 410.0016 585.6025 396.7902 Z" id="US.WA.075" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Whitman County</name>
+        <stateAbbrev>WA</stateAbbrev>
+        <state>Washington</state>
+        <fips>075</fips>
+        <incits>53075</incits>
+        <id>US.WA.075</id>
+        <population>46570</population>
+      </desc>
+    </path>
+    <path d="M 583.4006 410.0016 584.5016 410.0016 588.9054 413.3044 616.429 406.6987 616.429 421.011 627.4385 421.011 638.4479 432.0205 638.4479 462.847 604.3186 461.7461 604.3186 444.1309 593.3091 444.1309 582.2997 436.4243 583.4006 410.0016 Z" id="US.WA.013" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Columbia County</name>
+        <stateAbbrev>WA</stateAbbrev>
+        <state>Washington</state>
+        <fips>013</fips>
+        <incits>53013</incits>
+        <id>US.WA.013</id>
+        <population>4032</population>
+      </desc>
+    </path>
+    <path d="M 475.5079 402.295 483.2145 396.7902 585.6025 396.7902 584.5016 410.0016 583.4006 410.0016 563.5836 410.0016 549.2713 417.7082 548.1703 425.4148 534.959 436.4243 512.9401 445.2319 497.5268 440.8281 492.0221 416.6073 475.5079 402.295 Z" id="US.WA.021" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Franklin County</name>
+        <stateAbbrev>WA</stateAbbrev>
+        <state>Washington</state>
+        <fips>021</fips>
+        <incits>53021</incits>
+        <id>US.WA.021</id>
+        <population>86638</population>
+      </desc>
+    </path>
+    <path d="M 583.4006 410.0016 582.2997 436.4243 593.3091 444.1309 604.3186 444.1309 604.3186 461.7461 516.2429 462.847 520.6467 455.1404 512.9401 445.2319 534.959 436.4243 548.1703 425.4148 549.2713 417.7082 563.5836 410.0016 583.4006 410.0016 Z" id="US.WA.071" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Walla Walla County</name>
+        <stateAbbrev>WA</stateAbbrev>
+        <state>Washington</state>
+        <fips>071</fips>
+        <incits>53071</incits>
+        <id>US.WA.071</id>
+        <population>59530</population>
+      </desc>
+    </path>
+    <path d="M 619.7319 351.6514 619.7319 301.0079 629.6404 298.806 645.0536 303.2098 643.9527 282.2918 653.8612 282.2918 687.9905 282.2918 687.9905 351.6514 619.7319 351.6514 Z" id="US.WA.063" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Spokane County</name>
+        <stateAbbrev>WA</stateAbbrev>
+        <state>Washington</state>
+        <fips>063</fips>
+        <incits>53063</incits>
+        <id>US.WA.063</id>
+        <population>479398</population>
+      </desc>
+    </path>
+    <path d="M 653.8612 197.5189 689.0915 197.5189 687.9905 282.2918 653.8612 282.2918 647.2555 274.5852 648.3565 228.3454 642.8517 211.8312 653.8612 197.5189 Z" id="US.WA.051" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pend Oreille County</name>
+        <stateAbbrev>WA</stateAbbrev>
+        <state>Washington</state>
+        <fips>051</fips>
+        <incits>53051</incits>
+        <id>US.WA.051</id>
+        <population>12896</population>
+      </desc>
+    </path>
+    <path d="M 586.7035 197.5189 653.8612 197.5189 642.8517 211.8312 648.3565 228.3454 647.2555 274.5852 653.8612 282.2918 643.9527 282.2918 645.0536 303.2098 629.6404 298.806 619.7319 301.0079 596.612 303.2098 582.2997 291.0994 573.4921 295.5032 569.0883 283.3927 581.1987 282.2918 592.2082 262.4748 585.6025 244.8596 594.4101 228.3454 585.6025 209.6293 586.7035 197.5189 Z" id="US.WA.065" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Stevens County</name>
+        <stateAbbrev>WA</stateAbbrev>
+        <state>Washington</state>
+        <fips>065</fips>
+        <incits>53065</incits>
+        <id>US.WA.065</id>
+        <population>43430</population>
+      </desc>
+    </path>
+    <path d="M 438.0757 406.6987 475.5079 402.295 492.0221 416.6073 497.5268 440.8281 512.9401 445.2319 520.6467 455.1404 516.2429 462.847 504.1325 468.3517 461.1956 470.5536 439.1767 477.1593 439.1767 458.4432 438.0757 406.6987 Z" id="US.WA.005" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Benton County</name>
+        <stateAbbrev>WA</stateAbbrev>
+        <state>Washington</state>
+        <fips>005</fips>
+        <incits>53005</incits>
+        <id>US.WA.005</id>
+        <population>184486</population>
+      </desc>
+    </path>
+    <path d="M 292.7508 458.4432 375.3218 458.4432 439.1767 458.4432 439.1767 477.1593 408.3502 485.9669 383.0284 489.2697 370.918 484.8659 344.4953 492.5726 331.2839 493.6735 292.7508 485.9669 286.1451 481.5631 285.0442 458.4432 292.7508 458.4432 Z" id="US.WA.039" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Klickitat County</name>
+        <stateAbbrev>WA</stateAbbrev>
+        <state>Washington</state>
+        <fips>039</fips>
+        <incits>53039</incits>
+        <id>US.WA.039</id>
+        <population>20866</population>
+      </desc>
+    </path>
+    <path d="M 530.5552 197.5189 586.7035 197.5189 585.6025 209.6293 594.4101 228.3454 585.6025 244.8596 592.2082 262.4748 581.1987 282.2918 569.0883 283.3927 573.4921 295.5032 556.9779 296.6041 539.3628 294.4022 528.3533 289.9984 530.5552 197.5189 Z" id="US.WA.019" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ferry County</name>
+        <stateAbbrev>WA</stateAbbrev>
+        <state>Washington</state>
+        <fips>019</fips>
+        <incits>53019</incits>
+        <id>US.WA.019</id>
+        <population>7646</population>
+      </desc>
+    </path>
+    <path d="M 517.3438 350.5505 518.4448 291.0994 528.3533 289.9984 539.3628 294.4022 556.9779 296.6041 573.4921 295.5032 582.2997 291.0994 596.612 303.2098 619.7319 301.0079 619.7319 351.6514 607.6215 351.6514 517.3438 350.5505 Z" id="US.WA.043" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lincoln County</name>
+        <stateAbbrev>WA</stateAbbrev>
+        <state>Washington</state>
+        <fips>043</fips>
+        <incits>53043</incits>
+        <id>US.WA.043</id>
+        <population>10301</population>
+      </desc>
+    </path>
+    <path d="M 352.2019 197.5189 427.0662 197.5189 530.5552 197.5189 528.3533 289.9984 518.4448 291.0994 517.3438 288.8975 519.5457 284.4937 504.1325 272.3833 485.4164 281.1909 455.6909 277.888 436.9748 281.1909 439.1767 289.9984 420.4606 284.4937 395.1388 271.2823 392.9369 264.6767 376.4227 258.071 365.4132 239.3549 361.0095 228.3454 367.6151 225.0426 363.2114 210.7303 352.2019 197.5189 Z" id="US.WA.047" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Okanogan County</name>
+        <stateAbbrev>WA</stateAbbrev>
+        <state>Washington</state>
+        <fips>047</fips>
+        <incits>53047</incits>
+        <id>US.WA.047</id>
+        <population>41193</population>
+      </desc>
+    </path>
+    <path d="M 427.0662 354.9543 427.0662 346.1467 438.0757 335.1372 468.9022 335.1372 468.9022 327.4306 485.4164 319.724 496.4259 303.2098 496.4259 295.5032 517.3438 288.8975 518.4448 291.0994 517.3438 350.5505 517.3438 382.4779 483.2145 381.377 483.2145 396.7902 475.5079 402.295 438.0757 406.6987 430.3691 396.7902 433.6719 390.1845 423.7634 368.1656 427.0662 354.9543 Z" id="US.WA.025" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Grant County</name>
+        <stateAbbrev>WA</stateAbbrev>
+        <state>Washington</state>
+        <fips>025</fips>
+        <incits>53025</incits>
+        <id>US.WA.025</id>
+        <population>91878</population>
+      </desc>
+    </path>
+    <path d="M 517.3438 350.5505 607.6215 351.6514 607.6215 381.377 599.9148 394.5883 585.6025 396.7902 483.2145 396.7902 483.2145 381.377 517.3438 382.4779 517.3438 350.5505 Z" id="US.WA.001" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Adams County</name>
+        <stateAbbrev>WA</stateAbbrev>
+        <state>Washington</state>
+        <fips>001</fips>
+        <incits>53001</incits>
+        <id>US.WA.001</id>
+        <population>19067</population>
+      </desc>
+    </path>
+    <path d="M 292.7508 458.4432 292.7508 427.6167 304.8612 406.6987 299.3565 393.4874 298.2555 381.377 299.3565 381.377 305.9621 367.0647 305.9621 365.9637 326.8801 372.5694 337.8896 382.4779 370.918 381.377 372.0189 389.0836 383.0284 396.7902 430.3691 396.7902 438.0757 406.6987 439.1767 458.4432 375.3218 458.4432 292.7508 458.4432 Z" id="US.WA.077" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Yakima County</name>
+        <stateAbbrev>WA</stateAbbrev>
+        <state>Washington</state>
+        <fips>077</fips>
+        <incits>53077</incits>
+        <id>US.WA.077</id>
+        <population>247044</population>
+      </desc>
+    </path>
+    <path d="M 229.9968 457.3423 229.9968 428.7177 292.7508 427.6167 292.7508 458.4432 285.0442 458.4432 286.1451 481.5631 292.7508 485.9669 267.429 488.1688 242.1073 499.1782 228.8959 502.4811 229.9968 457.3423 Z" id="US.WA.059" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Skamania County</name>
+        <stateAbbrev>WA</stateAbbrev>
+        <state>Washington</state>
+        <fips>059</fips>
+        <incits>53059</incits>
+        <id>US.WA.059</id>
+        <population>11274</population>
+      </desc>
+    </path>
+    <path d="M 181.5552 474.9574 185.959 469.4527 209.0789 463.9479 220.0883 466.1498 229.9968 457.3423 228.8959 502.4811 191.4637 495.8754 183.7571 492.5726 181.5552 474.9574 Z" id="US.WA.011" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Clark County</name>
+        <stateAbbrev>WA</stateAbbrev>
+        <state>Washington</state>
+        <fips>011</fips>
+        <incits>53011</incits>
+        <id>US.WA.011</id>
+        <population>443817</population>
+      </desc>
+    </path>
+    <path d="M 143.0221 428.7177 229.9968 428.7177 229.9968 457.3423 220.0883 466.1498 209.0789 463.9479 185.959 469.4527 181.5552 474.9574 171.6467 455.1404 152.9306 446.3328 144.123 447.4338 143.0221 428.7177 Z" id="US.WA.015" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cowlitz County</name>
+        <stateAbbrev>WA</stateAbbrev>
+        <state>Washington</state>
+        <fips>015</fips>
+        <incits>53015</incits>
+        <id>US.WA.015</id>
+        <population>101860</population>
+      </desc>
+    </path>
+    <path d="M 129.8107 392.3864 148.5268 392.3864 148.5268 394.5883 234.4006 394.5883 266.3281 397.8912 271.8328 393.4874 299.3565 393.4874 304.8612 406.6987 292.7508 427.6167 229.9968 428.7177 143.0221 428.7177 130.9117 428.7177 129.8107 392.3864 Z" id="US.WA.041" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lewis County</name>
+        <stateAbbrev>WA</stateAbbrev>
+        <state>Washington</state>
+        <fips>041</fips>
+        <incits>53041</incits>
+        <id>US.WA.041</id>
+        <population>75081</population>
+      </desc>
+    </path>
+    <path d="M 329.082 321.9259 345.5962 336.2382 392.9369 351.6514 419.3596 350.5505 427.0662 354.9543 423.7634 368.1656 433.6719 390.1845 430.3691 396.7902 383.0284 396.7902 372.0189 389.0836 370.918 381.377 337.8896 382.4779 326.8801 372.5694 305.9621 365.9637 312.5678 357.1562 298.2555 342.8438 305.9621 334.0363 329.082 321.9259 Z" id="US.WA.037" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Kittitas County</name>
+        <stateAbbrev>WA</stateAbbrev>
+        <state>Washington</state>
+        <fips>037</fips>
+        <incits>53037</incits>
+        <id>US.WA.037</id>
+        <population>41765</population>
+      </desc>
+    </path>
+    <path d="M 203.5741 338.4401 212.3817 325.2287 212.3817 305.4117 329.082 305.4117 329.082 321.9259 305.9621 334.0363 298.2555 342.8438 312.5678 357.1562 305.9621 365.9637 305.9621 367.0647 269.6309 358.2571 255.3186 361.5599 238.8044 351.6514 221.1893 351.6514 203.5741 338.4401 Z" id="US.WA.033" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>King County</name>
+        <stateAbbrev>WA</stateAbbrev>
+        <state>Washington</state>
+        <fips>033</fips>
+        <incits>53033</incits>
+        <id>US.WA.033</id>
+        <population>2044449</population>
+      </desc>
+    </path>
+    <path d="M 180.4543 338.4401 203.5741 338.4401 221.1893 351.6514 238.8044 351.6514 255.3186 361.5599 269.6309 358.2571 305.9621 367.0647 299.3565 381.377 298.2555 381.377 299.3565 393.4874 271.8328 393.4874 266.3281 397.8912 234.4006 394.5883 211.2808 386.8817 195.8675 374.7713 191.4637 370.3675 179.3533 357.1562 176.0505 351.6514 180.4543 338.4401 Z" id="US.WA.053" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pierce County</name>
+        <stateAbbrev>WA</stateAbbrev>
+        <state>Washington</state>
+        <fips>053</fips>
+        <incits>53053</incits>
+        <id>US.WA.053</id>
+        <population>819743</population>
+      </desc>
+    </path>
+    <path d="M 97.8833 438.6262 98.9842 428.7177 130.9117 428.7177 143.0221 428.7177 144.123 447.4338 129.8107 449.6356 121.0032 438.6262 97.8833 438.6262 Z" id="US.WA.069" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wahkiakum County</name>
+        <stateAbbrev>WA</stateAbbrev>
+        <state>Washington</state>
+        <fips>069</fips>
+        <incits>53069</incits>
+        <id>US.WA.069</id>
+        <population>4042</population>
+      </desc>
+    </path>
+    <path d="M 60.4511 392.3864 129.8107 392.3864 130.9117 428.7177 98.9842 428.7177 97.8833 438.6262 85.7729 441.929 61.5521 439.7271 63.7539 427.6167 63.7539 398.9921 60.4511 392.3864 Z" id="US.WA.049" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pacific County</name>
+        <stateAbbrev>WA</stateAbbrev>
+        <state>Washington</state>
+        <fips>049</fips>
+        <incits>53049</incits>
+        <id>US.WA.049</id>
+        <population>20498</population>
+      </desc>
+    </path>
+    <path d="M 37.3312 327.4306 70.3596 328.5315 118.8013 328.5315 119.9022 367.0647 145.224 367.0647 148.5268 373.6703 148.5268 392.3864 129.8107 392.3864 60.4511 392.3864 53.8454 380.276 48.3407 350.5505 34.0284 336.2382 37.3312 327.4306 Z" id="US.WA.027" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Grays Harbor County</name>
+        <stateAbbrev>WA</stateAbbrev>
+        <state>Washington</state>
+        <fips>027</fips>
+        <incits>53027</incits>
+        <id>US.WA.027</id>
+        <population>71078</population>
+      </desc>
+    </path>
+    <path d="M 145.224 367.0647 179.3533 357.1562 191.4637 370.3675 195.8675 374.7713 211.2808 386.8817 234.4006 394.5883 148.5268 394.5883 148.5268 392.3864 148.5268 373.6703 145.224 367.0647 Z" id="US.WA.067" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Thurston County</name>
+        <stateAbbrev>WA</stateAbbrev>
+        <state>Washington</state>
+        <fips>067</fips>
+        <incits>53067</incits>
+        <id>US.WA.067</id>
+        <population>262388</population>
+      </desc>
+    </path>
+    <path d="M 338.9905 260.2729 335.6877 242.6577 353.3028 237.153 365.4132 239.3549 376.4227 258.071 392.9369 264.6767 395.1388 271.2823 420.4606 284.4937 439.1767 289.9984 428.1672 305.4117 410.5521 307.6136 399.5426 334.0363 416.0568 341.7429 419.3596 350.5505 392.9369 351.6514 345.5962 336.2382 329.082 321.9259 329.082 305.4117 323.5773 294.4022 326.8801 282.2918 344.4953 275.6861 338.9905 260.2729 Z" id="US.WA.007" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Chelan County</name>
+        <stateAbbrev>WA</stateAbbrev>
+        <state>Washington</state>
+        <fips>007</fips>
+        <incits>53007</incits>
+        <id>US.WA.007</id>
+        <population>73967</population>
+      </desc>
+    </path>
+    <path d="M 439.1767 289.9984 436.9748 281.1909 455.6909 277.888 485.4164 281.1909 504.1325 272.3833 519.5457 284.4937 517.3438 288.8975 496.4259 295.5032 496.4259 303.2098 485.4164 319.724 468.9022 327.4306 468.9022 335.1372 438.0757 335.1372 427.0662 346.1467 427.0662 354.9543 419.3596 350.5505 416.0568 341.7429 399.5426 334.0363 410.5521 307.6136 428.1672 305.4117 439.1767 289.9984 Z" id="US.WA.017" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Douglas County</name>
+        <stateAbbrev>WA</stateAbbrev>
+        <state>Washington</state>
+        <fips>017</fips>
+        <incits>53017</incits>
+        <id>US.WA.017</id>
+        <population>39471</population>
+      </desc>
+    </path>
+    <path d="M 118.8013 328.5315 118.8013 320.8249 167.2429 320.8249 180.4543 328.5315 180.4543 338.4401 176.0505 351.6514 179.3533 357.1562 145.224 367.0647 119.9022 367.0647 118.8013 328.5315 Z" id="US.WA.045" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Mason County</name>
+        <stateAbbrev>WA</stateAbbrev>
+        <state>Washington</state>
+        <fips>045</fips>
+        <incits>53045</incits>
+        <id>US.WA.045</id>
+        <population>60497</population>
+      </desc>
+    </path>
+    <path d="M 167.2429 320.8249 183.7571 313.1183 188.1609 303.2098 198.0694 296.6041 196.9685 288.8975 207.9779 293.3013 212.3817 302.1088 212.3817 305.4117 212.3817 325.2287 203.5741 338.4401 180.4543 338.4401 180.4543 328.5315 167.2429 320.8249 Z" id="US.WA.035" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Kitsap County</name>
+        <stateAbbrev>WA</stateAbbrev>
+        <state>Washington</state>
+        <fips>035</fips>
+        <incits>53035</incits>
+        <id>US.WA.035</id>
+        <population>253968</population>
+      </desc>
+    </path>
+    <path d="M 13.1104 296.6041 106.6909 296.6041 167.2429 297.705 167.2429 280.0899 163.9401 260.2729 192.5647 274.5852 196.9685 288.8975 198.0694 296.6041 188.1609 303.2098 183.7571 313.1183 167.2429 320.8249 118.8013 320.8249 118.8013 328.5315 70.3596 328.5315 37.3312 327.4306 28.5237 308.7145 13.1104 296.6041 Z" id="US.WA.031" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jefferson County</name>
+        <stateAbbrev>WA</stateAbbrev>
+        <state>Washington</state>
+        <fips>031</fips>
+        <incits>53031</incits>
+        <id>US.WA.031</id>
+        <population>30076</population>
+      </desc>
+    </path>
+    <path d="M 352.2019 197.5189 363.2114 210.7303 367.6151 225.0426 361.0095 228.3454 347.7981 229.4464 189.2618 229.4464 181.5552 219.5379 161.7382 212.9322 134.2145 197.5189 271.8328 197.5189 352.2019 197.5189 Z" id="US.WA.073" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Whatcom County</name>
+        <stateAbbrev>WA</stateAbbrev>
+        <state>Washington</state>
+        <fips>073</fips>
+        <incits>53073</incits>
+        <id>US.WA.073</id>
+        <population>206353</population>
+      </desc>
+    </path>
+    <path d="M 189.2618 229.4464 347.7981 229.4464 361.0095 228.3454 365.4132 239.3549 353.3028 237.153 335.6877 242.6577 338.9905 260.2729 213.4826 260.2729 199.1703 249.2634 185.959 250.3644 183.7571 231.6483 189.2618 229.4464 Z" id="US.WA.057" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Skagit County</name>
+        <stateAbbrev>WA</stateAbbrev>
+        <state>Washington</state>
+        <fips>057</fips>
+        <incits>53057</incits>
+        <id>US.WA.057</id>
+        <population>118837</population>
+      </desc>
+    </path>
+    <path d="M 212.3817 305.4117 212.3817 302.1088 221.1893 292.2003 217.8864 264.6767 213.4826 260.2729 338.9905 260.2729 344.4953 275.6861 326.8801 282.2918 323.5773 294.4022 329.082 305.4117 212.3817 305.4117 Z" id="US.WA.061" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Snohomish County</name>
+        <stateAbbrev>WA</stateAbbrev>
+        <state>Washington</state>
+        <fips>061</fips>
+        <incits>53061</incits>
+        <id>US.WA.061</id>
+        <population>745913</population>
+      </desc>
+    </path>
+    <path d="M 140.8202 261.3738 163.9401 260.2729 167.2429 280.0899 167.2429 297.705 106.6909 296.6041 13.1104 296.6041 5.4038 287.7965 7.6057 276.7871 1 270.1814 9.8076 258.071 3.2019 251.4653 10.9085 242.6577 73.6625 260.2729 115.4984 265.7776 140.8202 261.3738 Z" id="US.WA.009" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Clallam County</name>
+        <stateAbbrev>WA</stateAbbrev>
+        <state>Washington</state>
+        <fips>009</fips>
+        <incits>53009</incits>
+        <id>US.WA.009</id>
+        <population>72312</population>
+      </desc>
+    </path>
+    <path d="M 161.7382 212.9322 181.5552 219.5379 189.2618 229.4464 183.7571 231.6483 185.959 250.3644 163.9401 260.2729 140.8202 261.3738 152.9306 248.1625 144.123 237.153 139.7192 225.0426 161.7382 218.4369 161.7382 212.9322 Z" id="US.WA.055" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>San Juan County</name>
+        <stateAbbrev>WA</stateAbbrev>
+        <state>Washington</state>
+        <fips>055</fips>
+        <incits>53055</incits>
+        <id>US.WA.055</id>
+        <population>15875</population>
+      </desc>
+    </path>
+    <path d="M 163.9401 260.2729 185.959 250.3644 199.1703 249.2634 213.4826 260.2729 217.8864 264.6767 221.1893 292.2003 212.3817 302.1088 207.9779 293.3013 196.9685 288.8975 192.5647 274.5852 163.9401 260.2729 Z" id="US.WA.029" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Island County</name>
+        <stateAbbrev>WA</stateAbbrev>
+        <state>Washington</state>
+        <fips>029</fips>
+        <incits>53029</incits>
+        <id>US.WA.029</id>
+        <population>78801</population>
+      </desc>
+    </path>
+  </g>
+</svg>

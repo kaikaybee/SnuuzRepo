@@ -1,0 +1,973 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="ohio">
+    <path d="M 75.3432 475.2821 115.2682 476.6588 137.2959 478.0355 133.1657 528.9744 91.8639 527.5976 76.7199 523.4675 76.7199 517.9606 80.8501 482.1657 75.3432 475.2821 Z" id="US.OH.165" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Warren County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>165</fips>
+        <incits>39165</incits>
+        <id>US.OH.165</id>
+        <population>219169</population>
+      </desc>
+    </path>
+    <path d="M 91.8639 527.5976 133.1657 528.9744 134.5424 530.3511 124.9053 607.4477 100.1243 601.9408 95.9941 588.1736 82.2268 567.5227 84.9803 542.7416 91.8639 527.5976 Z" id="US.OH.025" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Clermont County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>025</fips>
+        <incits>39025</incits>
+        <id>US.OH.025</id>
+        <population>200218</population>
+      </desc>
+    </path>
+    <path d="M 133.1657 528.9744 137.2959 478.0355 188.2347 482.1657 203.3787 482.1657 200.6252 509.7002 168.9606 528.9744 155.1933 530.3511 134.5424 530.3511 133.1657 528.9744 Z" id="US.OH.027" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Clinton County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>027</fips>
+        <incits>39027</incits>
+        <id>US.OH.027</id>
+        <population>41945</population>
+      </desc>
+    </path>
+    <path d="M 115.2682 476.6588 119.3984 435.357 124.9053 432.6036 162.0769 436.7337 190.9882 444.9941 190.9882 454.6312 188.2347 482.1657 137.2959 478.0355 115.2682 476.6588 Z" id="US.OH.057" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Greene County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>057</fips>
+        <incits>39057</incits>
+        <id>US.OH.057</id>
+        <population>163204</population>
+      </desc>
+    </path>
+    <path d="M 54.6923 421.5897 64.3294 421.5897 107.0079 421.5897 126.2821 428.4734 124.9053 432.6036 119.3984 435.357 115.2682 476.6588 75.3432 475.2821 56.069 475.2821 54.6923 421.5897 Z" id="US.OH.113" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Montgomery County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>113</fips>
+        <incits>39113</incits>
+        <id>US.OH.113</id>
+        <population>535846</population>
+      </desc>
+    </path>
+    <path d="M 1 522.0907 2.3767 479.4122 56.069 478.0355 56.069 475.2821 75.3432 475.2821 80.8501 482.1657 76.7199 517.9606 76.7199 523.4675 31.288 520.714 1 522.0907 Z" id="US.OH.017" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Butler County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>017</fips>
+        <incits>39017</incits>
+        <id>US.OH.017</id>
+        <population>371272</population>
+      </desc>
+    </path>
+    <path d="M 1 522.0907 31.288 520.714 76.7199 523.4675 91.8639 527.5976 84.9803 542.7416 82.2268 567.5227 62.9527 555.1321 31.288 557.8856 12.0138 546.8718 1 553.7554 1 522.0907 Z" id="US.OH.061" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hamilton County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>061</fips>
+        <incits>39061</incits>
+        <id>US.OH.061</id>
+        <population>804520</population>
+      </desc>
+    </path>
+    <path d="M 124.9053 607.4477 134.5424 530.3511 155.1933 530.3511 155.1933 567.5227 186.858 567.5227 181.3511 629.4753 155.1933 608.8245 124.9053 607.4477 Z" id="US.OH.015" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Brown County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>015</fips>
+        <incits>39015</incits>
+        <id>US.OH.015</id>
+        <population>44264</population>
+      </desc>
+    </path>
+    <path d="M 262.5779 391.3018 269.4615 385.7949 335.5444 388.5483 331.4142 418.8363 324.5306 442.2406 257.071 439.4872 255.6943 400.9389 262.5779 391.3018 Z" id="US.OH.049" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Franklin County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>049</fips>
+        <incits>39049</incits>
+        <id>US.OH.049</id>
+        <population>1212263</population>
+      </desc>
+    </path>
+    <path d="M 190.9882 454.6312 190.9882 444.9941 200.6252 446.3708 213.0158 406.4458 214.3925 389.925 262.5779 391.3018 255.6943 400.9389 257.071 439.4872 255.6943 457.3846 190.9882 454.6312 Z" id="US.OH.097" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Madison County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>097</fips>
+        <incits>39097</incits>
+        <id>US.OH.097</id>
+        <population>43277</population>
+      </desc>
+    </path>
+    <path d="M 207.5089 372.0276 211.6391 326.5957 228.1598 326.5957 255.6943 326.5957 255.6943 336.2327 255.6943 369.2742 268.0848 369.2742 269.4615 385.7949 262.5779 391.3018 214.3925 389.925 215.7692 372.0276 207.5089 372.0276 Z" id="US.OH.159" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Union County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>159</fips>
+        <incits>39159</incits>
+        <id>US.OH.159</id>
+        <population>53306</population>
+      </desc>
+    </path>
+    <path d="M 255.6943 336.2327 292.8659 337.6095 308.0099 350 338.2978 351.3767 336.9211 363.7673 335.5444 388.5483 269.4615 385.7949 268.0848 369.2742 255.6943 369.2742 255.6943 336.2327 Z" id="US.OH.041" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Delaware County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>041</fips>
+        <incits>39041</incits>
+        <id>US.OH.041</id>
+        <population>184979</population>
+      </desc>
+    </path>
+    <path d="M 331.4142 418.8363 335.5444 388.5483 336.9211 363.7673 380.9763 369.2742 426.4083 369.2742 427.785 381.6647 426.4083 416.0828 420.9014 422.9665 383.7298 420.213 331.4142 418.8363 Z" id="US.OH.089" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Licking County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>089</fips>
+        <incits>39089</incits>
+        <id>US.OH.089</id>
+        <population>168375</population>
+      </desc>
+    </path>
+    <path d="M 324.5306 442.2406 331.4142 418.8363 383.7298 420.213 383.7298 421.5897 394.7436 435.357 397.497 464.2682 379.5996 462.8915 378.2229 472.5286 339.6746 480.789 321.7771 479.4122 324.5306 442.2406 Z" id="US.OH.045" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Fairfield County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>045</fips>
+        <incits>39045</incits>
+        <id>US.OH.045</id>
+        <population>148867</population>
+      </desc>
+    </path>
+    <path d="M 252.9408 487.6726 255.6943 457.3846 257.071 439.4872 324.5306 442.2406 321.7771 479.4122 339.6746 480.789 338.2978 494.5562 310.7633 493.1795 309.3866 493.1795 283.2288 487.6726 277.7219 487.6726 252.9408 487.6726 Z" id="US.OH.129" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pickaway County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>129</fips>
+        <incits>39129</incits>
+        <id>US.OH.129</id>
+        <population>56304</population>
+      </desc>
+    </path>
+    <path d="M 124.9053 432.6036 126.2821 428.4734 127.6588 402.3156 213.0158 406.4458 200.6252 446.3708 190.9882 444.9941 162.0769 436.7337 124.9053 432.6036 Z" id="US.OH.023" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Clark County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>023</fips>
+        <incits>39023</incits>
+        <id>US.OH.023</id>
+        <population>136167</population>
+      </desc>
+    </path>
+    <path d="M 127.6588 402.3156 130.4122 378.9112 131.789 363.7673 207.5089 372.0276 215.7692 372.0276 214.3925 389.925 213.0158 406.4458 127.6588 402.3156 Z" id="US.OH.021" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Champaign County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>021</fips>
+        <incits>39021</incits>
+        <id>US.OH.021</id>
+        <population>39455</population>
+      </desc>
+    </path>
+    <path d="M 131.789 363.7673 133.1657 354.1302 133.1657 351.3767 133.1657 330.7258 153.8166 321.0888 211.6391 326.5957 207.5089 372.0276 131.789 363.7673 Z" id="US.OH.091" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Logan County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>091</fips>
+        <incits>39091</incits>
+        <id>US.OH.091</id>
+        <population>45481</population>
+      </desc>
+    </path>
+    <path d="M 228.1598 297.6844 277.7219 294.931 319.0237 293.5542 303.8797 304.568 302.503 329.3491 292.8659 337.6095 255.6943 336.2327 255.6943 326.5957 228.1598 326.5957 228.1598 297.6844 Z" id="US.OH.101" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Marion County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>101</fips>
+        <incits>39101</incits>
+        <id>US.OH.101</id>
+        <population>65905</population>
+      </desc>
+    </path>
+    <path d="M 292.8659 337.6095 302.503 329.3491 303.8797 304.568 319.0237 293.5542 341.0513 293.5542 356.1953 293.5542 357.572 319.712 353.4418 352.7535 338.2978 351.3767 308.0099 350 292.8659 337.6095 Z" id="US.OH.117" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Morrow County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>117</fips>
+        <incits>39117</incits>
+        <id>US.OH.117</id>
+        <population>35033</population>
+      </desc>
+    </path>
+    <path d="M 336.9211 363.7673 338.2978 351.3767 353.4418 352.7535 357.572 319.712 404.3807 318.3353 422.2781 316.9586 429.1617 334.856 426.4083 369.2742 380.9763 369.2742 336.9211 363.7673 Z" id="US.OH.083" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Knox County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>083</fips>
+        <incits>39083</incits>
+        <id>US.OH.083</id>
+        <population>60810</population>
+      </desc>
+    </path>
+    <path d="M 426.4083 369.2742 429.1617 334.856 506.2584 336.2327 504.8817 348.6233 521.4024 348.6233 520.0256 373.4043 504.8817 384.4181 444.3057 381.6647 442.929 381.6647 427.785 381.6647 426.4083 369.2742 Z" id="US.OH.031" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Coshocton County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>031</fips>
+        <incits>39031</incits>
+        <id>US.OH.031</id>
+        <population>36760</population>
+      </desc>
+    </path>
+    <path d="M 420.9014 422.9665 426.4083 416.0828 427.785 381.6647 442.929 381.6647 444.3057 381.6647 504.8817 384.4181 502.1282 420.213 507.6351 433.9803 507.6351 447.7475 445.6824 446.3708 430.5385 438.1105 420.9014 422.9665 Z" id="US.OH.119" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Muskingum County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>119</fips>
+        <incits>39119</incits>
+        <id>US.OH.119</id>
+        <population>85231</population>
+      </desc>
+    </path>
+    <path d="M 383.7298 420.213 420.9014 422.9665 430.5385 438.1105 445.6824 446.3708 455.3195 453.2544 451.1893 482.1657 433.2919 480.789 397.497 473.9053 397.497 464.2682 394.7436 435.357 383.7298 421.5897 383.7298 420.213 Z" id="US.OH.127" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Perry County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>127</fips>
+        <incits>39127</incits>
+        <id>US.OH.127</id>
+        <population>35997</population>
+      </desc>
+    </path>
+    <path d="M 336.9211 511.0769 338.2978 494.5562 339.6746 480.789 378.2229 472.5286 379.5996 462.8915 397.497 464.2682 397.497 473.9053 433.2919 480.789 431.9152 495.9329 412.641 494.5562 411.2643 508.3235 336.9211 511.0769 Z" id="US.OH.073" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hocking County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>073</fips>
+        <incits>39073</incits>
+        <id>US.OH.073</id>
+        <population>28665</population>
+      </desc>
+    </path>
+    <path d="M 236.4201 509.7002 252.9408 487.6726 277.7219 487.6726 283.2288 487.6726 309.3866 493.1795 310.7633 493.1795 338.2978 494.5562 336.9211 511.0769 334.1677 537.2347 331.4142 544.1183 239.1736 538.6114 236.4201 509.7002 Z" id="US.OH.141" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ross County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>141</fips>
+        <incits>39141</incits>
+        <id>US.OH.141</id>
+        <population>77910</population>
+      </desc>
+    </path>
+    <path d="M 188.2347 482.1657 190.9882 454.6312 255.6943 457.3846 252.9408 487.6726 236.4201 509.7002 200.6252 509.7002 203.3787 482.1657 188.2347 482.1657 Z" id="US.OH.047" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Fayette County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>047</fips>
+        <incits>39047</incits>
+        <id>US.OH.047</id>
+        <population>28800</population>
+      </desc>
+    </path>
+    <path d="M 155.1933 530.3511 168.9606 528.9744 200.6252 509.7002 236.4201 509.7002 239.1736 538.6114 233.6667 562.0158 186.858 567.5227 155.1933 567.5227 155.1933 530.3511 Z" id="US.OH.071" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Highland County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>071</fips>
+        <incits>39071</incits>
+        <id>US.OH.071</id>
+        <population>43299</population>
+      </desc>
+    </path>
+    <path d="M 415.3945 125.5937 480.1006 96.6824 464.9566 111.8264 463.5799 188.9231 478.7239 188.9231 478.7239 201.3136 463.5799 201.3136 463.5799 213.7041 447.0592 213.7041 430.5385 224.7179 430.5385 235.7318 404.3807 235.7318 403.0039 199.9369 400.2505 139.3609 415.3945 125.5937 Z" id="US.OH.093" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lorain County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>093</fips>
+        <incits>39093</incits>
+        <id>US.OH.093</id>
+        <population>302827</population>
+      </desc>
+    </path>
+    <path d="M 303.8797 172.4024 345.1815 166.8955 358.9487 158.6351 331.4142 150.3748 339.6746 132.4773 347.9349 136.6075 394.7436 136.6075 415.3945 125.5937 400.2505 139.3609 403.0039 199.9369 321.7771 199.9369 321.7771 176.5325 303.8797 172.4024 Z" id="US.OH.043" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Erie County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>043</fips>
+        <incits>39043</incits>
+        <id>US.OH.043</id>
+        <population>76048</population>
+      </desc>
+    </path>
+    <path d="M 543.43 67.7712 580.6016 49.8738 620.5266 44.3669 620.5266 129.7239 604.0059 131.1006 604.0059 142.1144 573.7179 142.1144 572.3412 154.5049 557.1972 154.5049 542.0533 154.5049 543.43 67.7712 Z" id="US.OH.085" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lake County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>085</fips>
+        <incits>39085</incits>
+        <id>US.OH.085</id>
+        <population>229857</population>
+      </desc>
+    </path>
+    <path d="M 229.5365 146.2446 269.4615 144.8679 285.9822 106.3195 339.6746 132.4773 331.4142 150.3748 358.9487 158.6351 345.1815 166.8955 303.8797 172.4024 241.927 172.4024 229.5365 165.5187 229.5365 146.2446 Z" id="US.OH.123" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ottawa County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>123</fips>
+        <incits>39123</incits>
+        <id>US.OH.123</id>
+        <population>41153</population>
+      </desc>
+    </path>
+    <path d="M 480.1006 96.6824 543.43 67.7712 542.0533 154.5049 557.1972 154.5049 557.1972 190.2998 524.1558 188.9231 528.286 201.3136 510.3886 201.3136 478.7239 201.3136 478.7239 188.9231 463.5799 188.9231 464.9566 111.8264 480.1006 96.6824 Z" id="US.OH.035" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cuyahoga County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>035</fips>
+        <incits>39035</incits>
+        <id>US.OH.035</id>
+        <population>1263154</population>
+      </desc>
+    </path>
+    <path d="M 620.5266 44.3669 699 31.9763 699 165.5187 620.5266 165.5187 620.5266 129.7239 620.5266 44.3669 Z" id="US.OH.007" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ashtabula County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>007</fips>
+        <incits>39007</incits>
+        <id>US.OH.007</id>
+        <population>99811</population>
+      </desc>
+    </path>
+    <path d="M 152.4398 179.286 152.4398 166.8955 153.8166 129.7239 229.5365 126.9704 277.7219 91.1755 285.9822 106.3195 269.4615 144.8679 229.5365 146.2446 204.7554 146.2446 182.7278 158.6351 179.9744 166.8955 152.4398 179.286 Z" id="US.OH.095" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lucas County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>095</fips>
+        <incits>39095</incits>
+        <id>US.OH.095</id>
+        <population>436393</population>
+      </desc>
+    </path>
+    <path d="M 404.3807 235.7318 430.5385 235.7318 437.4221 248.1223 438.7988 300.4379 422.2781 300.4379 422.2781 316.9586 404.3807 318.3353 403.0039 290.8008 390.6134 274.2801 387.86 248.1223 387.86 235.7318 404.3807 235.7318 Z" id="US.OH.005" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ashland County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>005</fips>
+        <incits>39005</incits>
+        <id>US.OH.005</id>
+        <population>53043</population>
+      </desc>
+    </path>
+    <path d="M 565.4576 373.4043 576.4714 359.6371 577.8481 338.9862 630.1637 340.3629 642.5542 340.3629 639.8008 383.0414 584.7318 381.6647 565.4576 373.4043 Z" id="US.OH.067" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Harrison County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>067</fips>
+        <incits>39067</incits>
+        <id>US.OH.067</id>
+        <population>15622</population>
+      </desc>
+    </path>
+    <path d="M 569.5878 303.1913 581.9783 290.8008 606.7594 290.8008 634.2939 290.8008 634.2939 304.568 643.931 311.4517 634.2939 318.3353 630.1637 340.3629 577.8481 338.9862 577.8481 316.9586 569.5878 303.1913 Z" id="US.OH.019" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Carroll County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>019</fips>
+        <incits>39019</incits>
+        <id>US.OH.019</id>
+        <population>28275</population>
+      </desc>
+    </path>
+    <path d="M 438.7988 300.4379 515.8955 300.4379 515.8955 305.9448 511.7653 336.2327 506.2584 336.2327 429.1617 334.856 422.2781 316.9586 422.2781 300.4379 438.7988 300.4379 Z" id="US.OH.075" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Holmes County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>075</fips>
+        <incits>39075</incits>
+        <id>US.OH.075</id>
+        <population>43593</population>
+      </desc>
+    </path>
+    <path d="M 60.1992 297.6844 69.8363 297.6844 97.3708 297.6844 116.645 304.568 153.8166 304.568 153.8166 321.0888 133.1657 330.7258 79.4734 330.7258 79.4734 347.2465 62.9527 351.3767 60.1992 350 60.1992 297.6844 Z" id="US.OH.011" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Auglaize County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>011</fips>
+        <incits>39011</incits>
+        <id>US.OH.011</id>
+        <population>45920</population>
+      </desc>
+    </path>
+    <path d="M 153.8166 219.211 228.1598 219.211 228.1598 248.1223 222.6529 248.1223 213.0158 275.6568 153.8166 275.6568 153.8166 259.1361 153.8166 219.211 Z" id="US.OH.063" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hancock County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>063</fips>
+        <incits>39063</incits>
+        <id>US.OH.063</id>
+        <population>75773</population>
+      </desc>
+    </path>
+    <path d="M 606.7594 290.8008 606.7594 261.8895 699 263.2663 699 304.568 674.2189 314.2051 643.931 311.4517 634.2939 304.568 634.2939 290.8008 606.7594 290.8008 Z" id="US.OH.029" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Columbiana County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>029</fips>
+        <incits>39029</incits>
+        <id>US.OH.029</id>
+        <population>105893</population>
+      </desc>
+    </path>
+    <path d="M 321.7771 199.9369 403.0039 199.9369 404.3807 235.7318 387.86 235.7318 387.86 248.1223 341.0513 246.7456 324.5306 246.7456 321.7771 205.4438 321.7771 199.9369 Z" id="US.OH.077" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Huron County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>077</fips>
+        <incits>39077</incits>
+        <id>US.OH.077</id>
+        <population>58889</population>
+      </desc>
+    </path>
+    <path d="M 181.3511 629.4753 186.858 567.5227 233.6667 562.0158 252.9408 568.8994 252.9408 633.6055 211.6391 619.8383 181.3511 629.4753 Z" id="US.OH.001" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Adams County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>001</fips>
+        <incits>39001</incits>
+        <id>US.OH.001</id>
+        <population>28105</population>
+      </desc>
+    </path>
+    <path d="M 557.1972 154.5049 572.3412 154.5049 573.7179 142.1144 604.0059 142.1144 604.0059 131.1006 620.5266 129.7239 620.5266 165.5187 620.5266 190.2998 557.1972 190.2998 557.1972 154.5049 Z" id="US.OH.055" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Geauga County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>055</fips>
+        <incits>39055</incits>
+        <id>US.OH.055</id>
+        <population>93972</population>
+      </desc>
+    </path>
+    <path d="M 78.0966 166.8955 152.4398 166.8955 152.4398 179.286 153.8166 219.211 97.3708 219.211 97.3708 176.5325 78.0966 176.5325 78.0966 166.8955 Z" id="US.OH.069" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Henry County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>069</fips>
+        <incits>39069</incits>
+        <id>US.OH.069</id>
+        <population>28092</population>
+      </desc>
+    </path>
+    <path d="M 2.3767 421.5897 3.7535 351.3767 62.9527 351.3767 64.3294 376.1578 64.3294 421.5897 54.6923 421.5897 2.3767 421.5897 Z" id="US.OH.037" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Darke County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>037</fips>
+        <incits>39037</incits>
+        <id>US.OH.037</id>
+        <population>52376</population>
+      </desc>
+    </path>
+    <path d="M 2.3767 421.5897 54.6923 421.5897 56.069 475.2821 56.069 478.0355 2.3767 479.4122 2.3767 421.5897 Z" id="US.OH.135" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Preble County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>135</fips>
+        <incits>39135</incits>
+        <id>US.OH.135</id>
+        <population>41732</population>
+      </desc>
+    </path>
+    <path d="M 78.0966 268.7732 116.645 268.7732 116.645 261.8895 153.8166 259.1361 153.8166 275.6568 153.8166 304.568 116.645 304.568 97.3708 297.6844 69.8363 297.6844 69.8363 275.6568 78.0966 268.7732 Z" id="US.OH.003" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Allen County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>003</fips>
+        <incits>39003</incits>
+        <id>US.OH.003</id>
+        <population>105298</population>
+      </desc>
+    </path>
+    <path d="M 630.1637 340.3629 634.2939 318.3353 643.931 311.4517 674.2189 314.2051 686.6095 330.7258 685.2327 356.8836 668.712 383.0414 639.8008 383.0414 642.5542 340.3629 630.1637 340.3629 Z" id="US.OH.081" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jefferson County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>081</fips>
+        <incits>39081</incits>
+        <id>US.OH.081</id>
+        <population>67964</population>
+      </desc>
+    </path>
+    <path d="M 277.7219 246.7456 324.5306 246.7456 341.0513 246.7456 341.0513 293.5542 319.0237 293.5542 277.7219 294.931 277.7219 246.7456 Z" id="US.OH.033" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Crawford County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>033</fips>
+        <incits>39033</incits>
+        <id>US.OH.033</id>
+        <population>42808</population>
+      </desc>
+    </path>
+    <path d="M 69.8363 132.4773 153.8166 129.7239 152.4398 166.8955 78.0966 166.8955 72.5897 162.7653 69.8363 132.4773 Z" id="US.OH.051" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Fulton County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>051</fips>
+        <incits>39051</incits>
+        <id>US.OH.051</id>
+        <population>42488</population>
+      </desc>
+    </path>
+    <path d="M 581.9783 429.8501 583.355 416.0828 584.7318 381.6647 639.8008 383.0414 668.712 383.0414 660.4517 422.9665 649.4379 432.6036 581.9783 429.8501 Z" id="US.OH.013" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Belmont County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>013</fips>
+        <incits>39013</incits>
+        <id>US.OH.013</id>
+        <population>69571</population>
+      </desc>
+    </path>
+    <path d="M 3.7535 176.5325 78.0966 176.5325 97.3708 176.5325 97.3708 219.211 78.0966 219.211 60.1992 205.4438 3.7535 205.4438 3.7535 176.5325 Z" id="US.OH.039" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Defiance County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>039</fips>
+        <incits>39039</incits>
+        <id>US.OH.039</id>
+        <population>38532</population>
+      </desc>
+    </path>
+    <path d="M 327.284 579.9132 331.4142 544.1183 334.1677 537.2347 371.3393 541.3649 389.2367 548.2485 387.86 564.7692 385.1065 596.4339 365.8323 596.4339 353.4418 595.0572 335.5444 595.0572 327.284 579.9132 Z" id="US.OH.079" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jackson County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>079</fips>
+        <incits>39079</incits>
+        <id>US.OH.079</id>
+        <population>32783</population>
+      </desc>
+    </path>
+    <path d="M 153.8166 304.568 153.8166 275.6568 213.0158 275.6568 215.7692 294.931 228.1598 297.6844 228.1598 326.5957 211.6391 326.5957 153.8166 321.0888 153.8166 304.568 Z" id="US.OH.065" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hardin County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>065</fips>
+        <incits>39065</incits>
+        <id>US.OH.065</id>
+        <population>31641</population>
+      </desc>
+    </path>
+    <path d="M 365.8323 596.4339 385.1065 596.4339 387.86 564.7692 405.7574 566.146 442.929 570.2761 442.929 577.1598 434.6686 597.8107 422.2781 606.071 429.1617 618.4615 426.4083 636.359 412.641 639.1124 400.2505 637.7357 401.6272 623.9684 382.3531 622.5917 379.5996 607.4477 365.8323 596.4339 Z" id="US.OH.053" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Gallia County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>053</fips>
+        <incits>39053</incits>
+        <id>US.OH.053</id>
+        <population>30621</population>
+      </desc>
+    </path>
+    <path d="M 411.2643 508.3235 412.641 494.5562 431.9152 495.9329 433.2919 480.789 451.1893 482.1657 449.8126 495.9329 484.2308 497.3097 482.854 519.3373 503.5049 535.858 497.998 541.3649 415.3945 537.2347 411.2643 508.3235 Z" id="US.OH.009" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Athens County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>009</fips>
+        <incits>39009</incits>
+        <id>US.OH.009</id>
+        <population>64681</population>
+      </desc>
+    </path>
+    <path d="M 504.8817 384.4181 520.0256 373.4043 565.4576 373.4043 584.7318 381.6647 583.355 416.0828 558.574 416.0828 546.1834 425.7199 526.9093 425.7199 507.6351 433.9803 502.1282 420.213 504.8817 384.4181 Z" id="US.OH.059" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Guernsey County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>059</fips>
+        <incits>39059</incits>
+        <id>US.OH.059</id>
+        <population>39636</population>
+      </desc>
+    </path>
+    <path d="M 325.9073 640.4892 338.2978 636.359 350.6884 611.5779 353.4418 595.0572 365.8323 596.4339 379.5996 607.4477 382.3531 622.5917 401.6272 623.9684 400.2505 637.7357 412.641 639.1124 407.1341 658.3866 371.3393 668.0237 341.0513 643.2426 325.9073 640.4892 Z" id="US.OH.087" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lawrence County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>087</fips>
+        <incits>39087</incits>
+        <id>US.OH.087</id>
+        <population>61917</population>
+      </desc>
+    </path>
+    <path d="M 69.8363 132.4773 72.5897 162.7653 78.0966 166.8955 78.0966 176.5325 3.7535 176.5325 3.7535 133.854 69.8363 132.4773 Z" id="US.OH.171" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Williams County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>171</fips>
+        <incits>39171</incits>
+        <id>US.OH.171</id>
+        <population>37500</population>
+      </desc>
+    </path>
+    <path d="M 557.1972 190.2998 620.5266 190.2998 620.5266 224.7179 620.5266 248.1223 606.7594 248.1223 557.1972 248.1223 557.1972 190.2998 Z" id="US.OH.133" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Portage County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>133</fips>
+        <incits>39133</incits>
+        <id>US.OH.133</id>
+        <population>163862</population>
+      </desc>
+    </path>
+    <path d="M 484.2308 497.3097 506.2584 493.1795 504.8817 476.6588 525.5325 475.2821 575.0947 472.5286 615.0197 483.5424 584.7318 508.3235 557.1972 513.8304 546.1834 504.1933 503.5049 535.858 482.854 519.3373 484.2308 497.3097 Z" id="US.OH.167" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Washington County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>167</fips>
+        <incits>39167</incits>
+        <id>US.OH.167</id>
+        <population>61310</population>
+      </desc>
+    </path>
+    <path d="M 3.7535 290.8008 60.1992 290.8008 60.1992 297.6844 60.1992 350 62.9527 351.3767 3.7535 351.3767 3.7535 290.8008 Z" id="US.OH.107" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Mercer County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>107</fips>
+        <incits>39107</incits>
+        <id>US.OH.107</id>
+        <population>40784</population>
+      </desc>
+    </path>
+    <path d="M 252.9408 568.8994 262.5779 577.1598 327.284 579.9132 335.5444 595.0572 353.4418 595.0572 350.6884 611.5779 338.2978 636.359 325.9073 640.4892 313.5168 610.2012 291.4892 615.7081 270.8383 632.2288 252.9408 633.6055 252.9408 568.8994 Z" id="US.OH.145" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Scioto County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>145</fips>
+        <incits>39145</incits>
+        <id>US.OH.145</id>
+        <population>78153</population>
+      </desc>
+    </path>
+    <path d="M 133.1657 330.7258 133.1657 351.3767 133.1657 354.1302 131.789 363.7673 130.4122 378.9112 64.3294 376.1578 62.9527 351.3767 79.4734 347.2465 79.4734 330.7258 133.1657 330.7258 Z" id="US.OH.149" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Shelby County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>149</fips>
+        <incits>39149</incits>
+        <id>US.OH.149</id>
+        <population>49192</population>
+      </desc>
+    </path>
+    <path d="M 581.9783 429.8501 649.4379 432.6036 642.5542 449.1243 641.1775 469.7751 615.0197 483.5424 575.0947 472.5286 569.5878 456.0079 569.5878 429.8501 581.9783 429.8501 Z" id="US.OH.111" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Monroe County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>111</fips>
+        <incits>39111</incits>
+        <id>US.OH.111</id>
+        <population>14585</population>
+      </desc>
+    </path>
+    <path d="M 430.5385 235.7318 430.5385 224.7179 447.0592 213.7041 463.5799 213.7041 463.5799 201.3136 478.7239 201.3136 510.3886 201.3136 509.0118 248.1223 437.4221 248.1223 430.5385 235.7318 Z" id="US.OH.103" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Medina County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>103</fips>
+        <incits>39103</incits>
+        <id>US.OH.103</id>
+        <population>174915</population>
+      </desc>
+    </path>
+    <path d="M 3.7535 248.1223 69.8363 248.1223 69.8363 261.8895 78.0966 268.7732 69.8363 275.6568 69.8363 297.6844 60.1992 297.6844 60.1992 290.8008 3.7535 290.8008 3.7535 248.1223 Z" id="US.OH.161" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Van Wert County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>161</fips>
+        <incits>39161</incits>
+        <id>US.OH.161</id>
+        <population>28459</population>
+      </desc>
+    </path>
+    <path d="M 213.0158 275.6568 222.6529 248.1223 228.1598 248.1223 277.7219 246.7456 277.7219 294.931 228.1598 297.6844 215.7692 294.931 213.0158 275.6568 Z" id="US.OH.175" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wyandot County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>175</fips>
+        <incits>39175</incits>
+        <id>US.OH.175</id>
+        <population>22447</population>
+      </desc>
+    </path>
+    <path d="M 228.1598 219.211 228.1598 205.4438 321.7771 205.4438 324.5306 246.7456 277.7219 246.7456 228.1598 248.1223 228.1598 219.211 Z" id="US.OH.147" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Seneca County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>147</fips>
+        <incits>39147</incits>
+        <id>US.OH.147</id>
+        <population>55914</population>
+      </desc>
+    </path>
+    <path d="M 515.8955 300.4379 515.8955 260.5128 553.0671 261.8895 557.1972 248.1223 606.7594 248.1223 606.7594 261.8895 606.7594 290.8008 581.9783 290.8008 569.5878 303.1913 515.8955 305.9448 515.8955 300.4379 Z" id="US.OH.151" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Stark County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>151</fips>
+        <incits>39151</incits>
+        <id>US.OH.151</id>
+        <population>375432</population>
+      </desc>
+    </path>
+    <path d="M 620.5266 165.5187 699 165.5187 699 224.7179 620.5266 224.7179 620.5266 190.2998 620.5266 165.5187 Z" id="US.OH.155" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Trumbull County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>155</fips>
+        <incits>39155</incits>
+        <id>US.OH.155</id>
+        <population>206442</population>
+      </desc>
+    </path>
+    <path d="M 507.6351 447.7475 507.6351 433.9803 526.9093 425.7199 546.1834 425.7199 558.574 416.0828 583.355 416.0828 581.9783 429.8501 569.5878 429.8501 569.5878 456.0079 575.0947 472.5286 525.5325 475.2821 507.6351 447.7475 Z" id="US.OH.121" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Noble County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>121</fips>
+        <incits>39121</incits>
+        <id>US.OH.121</id>
+        <population>14628</population>
+      </desc>
+    </path>
+    <path d="M 69.8363 248.1223 78.0966 248.1223 78.0966 219.211 97.3708 219.211 153.8166 219.211 153.8166 259.1361 116.645 261.8895 116.645 268.7732 78.0966 268.7732 69.8363 261.8895 69.8363 248.1223 Z" id="US.OH.137" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Putnam County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>137</fips>
+        <incits>39137</incits>
+        <id>US.OH.137</id>
+        <population>34088</population>
+      </desc>
+    </path>
+    <path d="M 445.6824 446.3708 507.6351 447.7475 525.5325 475.2821 504.8817 476.6588 506.2584 493.1795 484.2308 497.3097 449.8126 495.9329 451.1893 482.1657 455.3195 453.2544 445.6824 446.3708 Z" id="US.OH.115" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Morgan County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>115</fips>
+        <incits>39115</incits>
+        <id>US.OH.115</id>
+        <population>14904</population>
+      </desc>
+    </path>
+    <path d="M 228.1598 205.4438 229.5365 165.5187 241.927 172.4024 303.8797 172.4024 321.7771 176.5325 321.7771 199.9369 321.7771 205.4438 228.1598 205.4438 Z" id="US.OH.143" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Sandusky County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>143</fips>
+        <incits>39143</incits>
+        <id>US.OH.143</id>
+        <population>60098</population>
+      </desc>
+    </path>
+    <path d="M 437.4221 248.1223 509.0118 248.1223 515.8955 260.5128 515.8955 300.4379 438.7988 300.4379 437.4221 248.1223 Z" id="US.OH.169" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wayne County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>169</fips>
+        <incits>39169</incits>
+        <id>US.OH.169</id>
+        <population>115071</population>
+      </desc>
+    </path>
+    <path d="M 506.2584 336.2327 511.7653 336.2327 515.8955 305.9448 569.5878 303.1913 577.8481 316.9586 577.8481 338.9862 576.4714 359.6371 565.4576 373.4043 520.0256 373.4043 521.4024 348.6233 504.8817 348.6233 506.2584 336.2327 Z" id="US.OH.157" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Tuscarawas County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>157</fips>
+        <incits>39157</incits>
+        <id>US.OH.157</id>
+        <population>92672</population>
+      </desc>
+    </path>
+    <path d="M 64.3294 376.1578 130.4122 378.9112 127.6588 402.3156 126.2821 428.4734 107.0079 421.5897 64.3294 421.5897 64.3294 376.1578 Z" id="US.OH.109" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Miami County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>109</fips>
+        <incits>39109</incits>
+        <id>US.OH.109</id>
+        <population>103439</population>
+      </desc>
+    </path>
+    <path d="M 233.6667 562.0158 239.1736 538.6114 331.4142 544.1183 327.284 579.9132 262.5779 577.1598 252.9408 568.8994 233.6667 562.0158 Z" id="US.OH.131" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pike County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>131</fips>
+        <incits>39131</incits>
+        <id>US.OH.131</id>
+        <population>28367</population>
+      </desc>
+    </path>
+    <path d="M 334.1677 537.2347 336.9211 511.0769 411.2643 508.3235 415.3945 537.2347 408.5108 537.2347 405.7574 566.146 387.86 564.7692 389.2367 548.2485 371.3393 541.3649 334.1677 537.2347 Z" id="US.OH.163" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Vinton County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>163</fips>
+        <incits>39163</incits>
+        <id>US.OH.163</id>
+        <population>13276</population>
+      </desc>
+    </path>
+    <path d="M 341.0513 293.5542 341.0513 246.7456 387.86 248.1223 390.6134 274.2801 403.0039 290.8008 404.3807 318.3353 357.572 319.712 356.1953 293.5542 341.0513 293.5542 Z" id="US.OH.139" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Richland County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>139</fips>
+        <incits>39139</incits>
+        <id>US.OH.139</id>
+        <population>121773</population>
+      </desc>
+    </path>
+    <path d="M 509.0118 248.1223 510.3886 201.3136 528.286 201.3136 524.1558 188.9231 557.1972 190.2998 557.1972 248.1223 553.0671 261.8895 515.8955 260.5128 509.0118 248.1223 Z" id="US.OH.153" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Summit County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>153</fips>
+        <incits>39153</incits>
+        <id>US.OH.153</id>
+        <population>541824</population>
+      </desc>
+    </path>
+    <path d="M 405.7574 566.146 408.5108 537.2347 415.3945 537.2347 497.998 541.3649 496.6213 568.8994 482.854 586.7968 458.073 566.146 442.929 577.1598 442.929 570.2761 405.7574 566.146 Z" id="US.OH.105" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Meigs County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>105</fips>
+        <incits>39105</incits>
+        <id>US.OH.105</id>
+        <population>23496</population>
+      </desc>
+    </path>
+    <path d="M 606.7594 248.1223 620.5266 248.1223 620.5266 224.7179 699 224.7179 699 263.2663 606.7594 261.8895 606.7594 248.1223 Z" id="US.OH.099" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Mahoning County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>099</fips>
+        <incits>39099</incits>
+        <id>US.OH.099</id>
+        <population>233869</population>
+      </desc>
+    </path>
+    <path d="M 152.4398 179.286 179.9744 166.8955 182.7278 158.6351 204.7554 146.2446 229.5365 146.2446 229.5365 165.5187 228.1598 205.4438 228.1598 219.211 153.8166 219.211 152.4398 179.286 Z" id="US.OH.173" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wood County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>173</fips>
+        <incits>39173</incits>
+        <id>US.OH.173</id>
+        <population>129264</population>
+      </desc>
+    </path>
+    <path d="M 3.7535 205.4438 60.1992 205.4438 78.0966 219.211 78.0966 248.1223 69.8363 248.1223 3.7535 248.1223 3.7535 205.4438 Z" id="US.OH.125" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Paulding County</name>
+        <stateAbbrev>OH</stateAbbrev>
+        <state>Ohio</state>
+        <fips>125</fips>
+        <incits>39125</incits>
+        <id>US.OH.125</id>
+        <population>19254</population>
+      </desc>
+    </path>
+  </g>
+</svg>

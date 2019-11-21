@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="shaanxi">
+    <path d="M 420.295 688.1092 435.1461 672.2681 431.1858 662.3674 450.9872 654.4468 458.9078 691.0794 454.9475 699 427.2255 699 420.295 688.1092 Z" id="CN.shaanxi.2134760" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>镇坪县 (Zhenping)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.2134760</id>
+        <name>Zhenping County</name>
+      </desc>
+    </path>
+    <path d="M 539.1035 165.3518 553.9546 166.3418 561.8752 179.2128 549.9943 190.1035 539.1035 165.3518 Z" id="CN.shaanxi.2241199" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>吴堡县 (Wubu)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.2241199</id>
+        <name>Wubu County</name>
+      </desc>
+    </path>
+    <path d="M 177.7277 538.6085 181.6879 554.4496 168.817 573.261 158.9163 567.3206 132.1844 571.2809 113.373 558.4099 111.3929 550.4894 132.1844 530.6879 151.9858 536.6284 175.7475 529.6979 177.7277 538.6085 Z" id="CN.shaanxi.2967643" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>略阳县 (Lueyang)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.2967643</id>
+        <name>Lueyang County</name>
+      </desc>
+    </path>
+    <path d="M 230.2014 552.4695 229.2113 538.6085 242.0823 526.7277 254.9532 530.6879 257.9234 571.2809 268.8142 582.1716 252.973 593.0624 252.973 607.9135 243.0723 603.9532 238.122 587.122 241.0922 576.2312 230.2014 552.4695 Z" id="CN.shaanxi.2967706" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>城固县 (Chenggu)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.2967706</id>
+        <name>Chenggu County</name>
+      </desc>
+    </path>
+    <path d="M 284.6553 522.7674 286.6355 520.7872 318.3177 521.7773 318.3177 556.4298 317.3277 563.3603 306.4369 549.4993 289.6057 543.5589 284.6553 522.7674 Z" id="CN.shaanxi.2967707" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>佛坪县 (Foping)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.2967707</id>
+        <name>Foping County</name>
+      </desc>
+    </path>
+    <path d="M 213.3702 558.4099 230.2014 552.4695 241.0922 576.2312 219.3106 575.2411 213.3702 558.4099 Z" id="CN.shaanxi.2967708" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>汉台区 (Hantai)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.2967708</id>
+        <name>Hantai District</name>
+      </desc>
+    </path>
+    <path d="M 229.2113 506.9262 251.983 522.7674 242.0823 526.7277 229.2113 538.6085 230.2014 552.4695 213.3702 558.4099 204.4596 537.6184 192.5787 528.7078 205.4496 524.7475 211.3901 507.9163 229.2113 506.9262 Z" id="CN.shaanxi.2967709" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>留坝县 (Liuba)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.2967709</id>
+        <name>Liuba County</name>
+      </desc>
+    </path>
+    <path d="M 168.817 573.261 181.6879 554.4496 177.7277 538.6085 187.6284 533.6582 192.5787 528.7078 204.4596 537.6184 213.3702 558.4099 219.3106 575.2411 201.4894 581.1816 200.4993 593.0624 181.6879 595.0426 168.817 573.261 Z" id="CN.shaanxi.2967710" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>勉县 (Mian)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.2967710</id>
+        <name>Mian County</name>
+      </desc>
+    </path>
+    <path d="M 181.6879 595.0426 200.4993 593.0624 201.4894 581.1816 219.3106 575.2411 241.0922 576.2312 238.122 587.122 243.0723 603.9532 252.973 607.9135 257.9234 625.7348 247.0326 636.6255 236.1418 631.6752 226.2411 609.8936 198.5191 609.8936 182.678 614.844 181.6879 595.0426 Z" id="CN.shaanxi.2967711" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>南郑县 (Nanzheng)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.2967711</id>
+        <name>Nanzheng County</name>
+      </desc>
+    </path>
+    <path d="M 132.1844 571.2809 158.9163 567.3206 168.817 573.261 181.6879 595.0426 182.678 614.844 174.7574 618.8043 150.9957 612.8638 136.1447 599.9929 120.3035 600.983 102.4823 611.8738 99.5121 596.0326 128.2241 584.1518 132.1844 571.2809 Z" id="CN.shaanxi.2967712" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>宁强县 (Ningqiang)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.2967712</id>
+        <name>Ningqiang County</name>
+      </desc>
+    </path>
+    <path d="M 252.973 607.9135 252.973 593.0624 268.8142 582.1716 288.6156 578.2113 317.3277 563.3603 326.2383 585.1418 320.2979 597.0227 330.1986 605.9333 334.1589 612.8638 324.2582 616.8241 288.6156 601.973 262.8738 626.7248 257.9234 625.7348 252.973 607.9135 Z" id="CN.shaanxi.2967713" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>西乡县 (Xixiang)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.2967713</id>
+        <name>Xixiang County</name>
+      </desc>
+    </path>
+    <path d="M 242.0823 526.7277 251.983 522.7674 259.9035 527.7177 284.6553 522.7674 289.6057 543.5589 306.4369 549.4993 317.3277 563.3603 288.6156 578.2113 268.8142 582.1716 257.9234 571.2809 254.9532 530.6879 242.0823 526.7277 Z" id="CN.shaanxi.2967714" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>洋县 (Yang)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.2967714</id>
+        <name>Yang County</name>
+      </desc>
+    </path>
+    <path d="M 262.8738 626.7248 288.6156 601.973 324.2582 616.8241 334.1589 612.8638 337.1291 615.834 336.139 632.6652 323.2681 640.5858 327.2284 652.4667 300.4965 655.4369 284.6553 638.6057 270.7943 640.5858 262.8738 626.7248 Z" id="CN.shaanxi.2967715" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>镇巴县 (Zhenba)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.2967715</id>
+        <name>Zhenba County</name>
+      </desc>
+    </path>
+    <path d="M 503.461 526.7277 514.3518 504.9461 538.1135 501.9759 545.044 506.9262 563.8553 518.8071 552.9645 535.6383 537.1234 540.5887 534.1532 553.4596 524.2525 552.4695 503.461 526.7277 Z" id="CN.shaanxi.2971122" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>丹凤县 (Danfeng)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.2971122</id>
+        <name>Danfeng County</name>
+      </desc>
+    </path>
+    <path d="M 492.5702 463.3631 506.4312 457.4227 529.2028 459.4028 531.183 474.2539 551.9745 499.9957 545.044 506.9262 538.1135 501.9759 514.3518 504.9461 495.5404 499.0057 484.6496 482.1745 474.7489 481.1844 469.7986 476.234 492.5702 463.3631 Z" id="CN.shaanxi.2971123" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>洛南县 (Luonan)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.2971123</id>
+        <name>Luonan County</name>
+      </desc>
+    </path>
+    <path d="M 534.1532 553.4596 537.1234 540.5887 552.9645 535.6383 563.8553 518.8071 579.6965 532.6681 578.7064 562.3702 555.9348 573.261 535.1433 567.3206 534.1532 553.4596 Z" id="CN.shaanxi.2971124" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>商南县 (Shangnan)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.2971124</id>
+        <name>Shangnan County</name>
+      </desc>
+    </path>
+    <path d="M 447.027 509.8965 453.9574 490.095 474.7489 481.1844 484.6496 482.1745 495.5404 499.0057 514.3518 504.9461 503.461 526.7277 470.7887 522.7674 455.9376 525.7376 447.027 509.8965 Z" id="CN.shaanxi.2971125" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>商州区 (Shangzhou)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.2971125</id>
+        <name>Shangzhou District</name>
+      </desc>
+    </path>
+    <path d="M 451.9773 546.5291 455.9376 525.7376 470.7887 522.7674 503.461 526.7277 524.2525 552.4695 534.1532 553.4596 535.1433 567.3206 510.3915 570.2908 456.9277 560.3901 451.9773 546.5291 Z" id="CN.shaanxi.2971126" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>山阳县 (Shanyang)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.2971126</id>
+        <name>Shanyang County</name>
+      </desc>
+    </path>
+    <path d="M 387.6227 512.8667 407.4241 502.966 423.2652 506.9262 447.027 509.8965 455.9376 525.7376 451.9773 546.5291 424.2553 535.6383 411.3844 535.6383 393.5631 524.7475 387.6227 512.8667 Z" id="CN.shaanxi.2971127" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>柞水县 (Zhashui)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.2971127</id>
+        <name>Zhashui County</name>
+      </desc>
+    </path>
+    <path d="M 393.5631 524.7475 411.3844 535.6383 424.2553 535.6383 451.9773 546.5291 456.9277 560.3901 441.0865 571.2809 407.4241 566.3305 399.5035 571.2809 374.7518 560.3901 365.8411 544.5489 393.5631 524.7475 Z" id="CN.shaanxi.2971128" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>镇安县 (Zhen'an)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.2971128</id>
+        <name>Zhen'an County</name>
+      </desc>
+    </path>
+    <path d="M 475.739 595.0426 504.4511 602.9631 506.4312 621.7745 492.5702 625.7348 466.8284 619.7943 460.8879 602.9631 475.739 595.0426 Z" id="CN.shaanxi.2996857" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>白河县 (Xunyang)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.2996857</id>
+        <name>Baihe County</name>
+      </desc>
+    </path>
+    <path d="M 361.8809 604.9433 369.8014 571.2809 374.7518 560.3901 399.5035 571.2809 403.4638 583.1617 421.2851 599.9929 423.2652 610.8837 437.1262 622.7645 413.3645 620.7844 401.4837 640.5858 392.573 628.705 369.8014 626.7248 361.8809 604.9433 Z" id="CN.shaanxi.2996858" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>汉滨区 (Hanbin)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.2996858</id>
+        <name>Hanbin District</name>
+      </desc>
+    </path>
+    <path d="M 330.1986 605.9333 343.0695 598.0128 356.9305 574.2511 369.8014 571.2809 361.8809 604.9433 337.1291 615.834 334.1589 612.8638 330.1986 605.9333 Z" id="CN.shaanxi.2996859" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>汉阴县 (Hanyin)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.2996859</id>
+        <name>Hanyin County</name>
+      </desc>
+    </path>
+    <path d="M 369.8014 626.7248 392.573 628.705 401.4837 640.5858 410.3943 643.556 410.3943 680.1887 370.7915 662.3674 374.7518 649.4965 369.8014 626.7248 Z" id="CN.shaanxi.2996860" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>岚皋县 (Langao)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.2996860</id>
+        <name>Langao County</name>
+      </desc>
+    </path>
+    <path d="M 318.3177 521.7773 346.0397 514.8468 375.7418 510.8865 387.6227 512.8667 393.5631 524.7475 365.8411 544.5489 374.7518 560.3901 369.8014 571.2809 356.9305 574.2511 351.9801 567.3206 318.3177 556.4298 318.3177 521.7773 Z" id="CN.shaanxi.2996861" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>宁陕县 (Chengkou)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.2996861</id>
+        <name>Ningshan County</name>
+      </desc>
+    </path>
+    <path d="M 437.1262 622.7645 452.9674 631.6752 450.9872 654.4468 431.1858 662.3674 435.1461 672.2681 420.295 688.1092 410.3943 680.1887 410.3943 643.556 401.4837 640.5858 413.3645 620.7844 437.1262 622.7645 Z" id="CN.shaanxi.2996862" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>平利县 (Pingli)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.2996862</id>
+        <name>Pingli County</name>
+      </desc>
+    </path>
+    <path d="M 318.3177 556.4298 351.9801 567.3206 356.9305 574.2511 343.0695 598.0128 330.1986 605.9333 320.2979 597.0227 326.2383 585.1418 317.3277 563.3603 318.3177 556.4298 Z" id="CN.shaanxi.2996863" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>石泉县 (Shiquan)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.2996863</id>
+        <name>Shiquan County</name>
+      </desc>
+    </path>
+    <path d="M 399.5035 571.2809 407.4241 566.3305 441.0865 571.2809 472.7688 579.2014 475.739 595.0426 460.8879 602.9631 466.8284 619.7943 452.9674 631.6752 437.1262 622.7645 423.2652 610.8837 421.2851 599.9929 403.4638 583.1617 399.5035 571.2809 Z" id="CN.shaanxi.2996864" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>旬阳县 (Xunyang)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.2996864</id>
+        <name>Xunyang County</name>
+      </desc>
+    </path>
+    <path d="M 337.1291 615.834 361.8809 604.9433 369.8014 626.7248 374.7518 649.4965 370.7915 662.3674 355.9404 650.4865 327.2284 652.4667 323.2681 640.5858 336.139 632.6652 337.1291 615.834 Z" id="CN.shaanxi.2996865" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>紫阳县 (Ziyang)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.2996865</id>
+        <name>Ziyang County</name>
+      </desc>
+    </path>
+    <path d="M 341.0894 173.2723 346.0397 193.0738 333.1688 200.0043 332.1787 213.8652 303.4667 220.7957 290.5957 211.8851 283.6652 226.7362 284.6553 244.5574 251.983 236.6369 253.9631 217.8255 247.0326 200.0043 250.0028 186.1433 268.8142 161.3915 284.6553 151.4908 310.3972 158.4213 315.3475 170.3021 341.0894 173.2723 Z" id="CN.shaanxi.3016342" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>定边县 (Dingbian)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3016342</id>
+        <name>Dingbian County</name>
+      </desc>
+    </path>
+    <path d="M 524.2525 22.7816 538.1135 16.8411 547.0241 28.722 569.7957 6.9404 582.6667 1 588.6071 18.8213 600.4879 25.7518 592.5674 45.5532 578.7064 53.4738 572.766 77.2355 564.8454 61.3943 527.2227 30.7021 524.2525 22.7816 Z" id="CN.shaanxi.3016343" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>府谷县 (Fugu)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3016343</id>
+        <name>Fugu County</name>
+      </desc>
+    </path>
+    <path d="M 398.5135 147.5305 407.4241 138.6199 432.1759 134.6596 437.1262 124.7589 462.8681 119.8085 480.6894 143.5702 495.5404 148.5206 476.7291 159.4113 446.0369 185.1532 432.1759 197.034 426.2355 179.2128 407.4241 170.3021 410.3943 151.4908 398.5135 147.5305 Z" id="CN.shaanxi.3016344" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hengshan County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>zh:横山县</wikipedia>
+        <localname>横山县 (Hengshan)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3016344</id>
+      </desc>
+    </path>
+    <path d="M 527.2227 104.9574 538.1135 122.7787 536.1333 137.6298 553.9546 166.3418 539.1035 165.3518 535.1433 162.3816 502.4709 132.6794 495.5404 114.8582 527.2227 104.9574 Z" id="CN.shaanxi.3016345" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>佳县 (Jia)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3016345</id>
+        <name>Jia County</name>
+      </desc>
+    </path>
+    <path d="M 341.0894 173.2723 384.6525 167.3319 384.6525 145.5504 398.5135 147.5305 410.3943 151.4908 407.4241 170.3021 426.2355 179.2128 432.1759 197.034 421.2851 200.9943 405.444 201.9844 392.573 213.8652 357.9206 228.7163 362.8709 213.8652 346.0397 193.0738 341.0894 173.2723 Z" id="CN.shaanxi.3016346" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>靖边县 (Jingbian)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3016346</id>
+        <name>Jingbian County</name>
+      </desc>
+    </path>
+    <path d="M 495.5404 148.5206 502.4709 132.6794 535.1433 162.3816 527.2227 167.3319 501.4809 167.3319 476.7291 159.4113 495.5404 148.5206 Z" id="CN.shaanxi.3016347" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>米脂县 (Mizhi)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3016347</id>
+        <name>Mizhi County</name>
+      </desc>
+    </path>
+    <path d="M 493.5603 205.9447 503.461 195.0539 515.3418 192.0837 527.2227 202.9745 549.0043 204.9546 529.2028 232.6766 492.5702 220.7957 493.5603 205.9447 Z" id="CN.shaanxi.3016348" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>清涧县 (Qingjian)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3016348</id>
+        <name>Qingjian County</name>
+      </desc>
+    </path>
+    <path d="M 462.8681 55.4539 466.8284 45.5532 492.5702 31.6922 524.2525 22.7816 527.2227 30.7021 564.8454 61.3943 572.766 77.2355 560.8851 100.0071 538.1135 122.7787 527.2227 104.9574 521.2823 96.0468 485.6397 87.1362 478.7092 70.305 462.8681 55.4539 Z" id="CN.shaanxi.3016349" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>神木县 (Shenmu)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3016349</id>
+        <name>Shenmu County</name>
+      </desc>
+    </path>
+    <path d="M 501.4809 167.3319 527.2227 167.3319 535.1433 162.3816 539.1035 165.3518 549.9943 190.1035 549.0043 204.9546 527.2227 202.9745 515.3418 192.0837 503.461 195.0539 501.4809 167.3319 Z" id="CN.shaanxi.3016350" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>绥德县 (Suide)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3016350</id>
+        <name>Suide County</name>
+      </desc>
+    </path>
+    <path d="M 462.8681 55.4539 478.7092 70.305 485.6397 87.1362 521.2823 96.0468 527.2227 104.9574 495.5404 114.8582 502.4709 132.6794 495.5404 148.5206 480.6894 143.5702 462.8681 119.8085 437.1262 124.7589 432.1759 134.6596 407.4241 138.6199 396.5333 123.7688 400.4936 109.9078 416.3348 91.0965 438.1163 77.2355 440.0965 68.3248 462.8681 55.4539 Z" id="CN.shaanxi.3016351" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>榆阳区 (Yuyang)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3016351</id>
+        <name>Yuyang District</name>
+      </desc>
+    </path>
+    <path d="M 446.0369 185.1532 476.7291 159.4113 501.4809 167.3319 503.461 195.0539 493.5603 205.9447 446.0369 185.1532 Z" id="CN.shaanxi.3016352" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>子洲县 (Zizhou)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3016352</id>
+        <name>Zizhou County</name>
+      </desc>
+    </path>
+    <path d="M 421.2851 200.9943 440.0965 226.7362 439.1064 247.5277 427.2255 256.4383 424.2553 271.2894 393.5631 262.3787 407.4241 233.6667 392.573 213.8652 405.444 201.9844 421.2851 200.9943 Z" id="CN.shaanxi.3019988" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ansai County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Ansai County</wikipedia>
+        <localname>安塞县 (Ansai)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3019988</id>
+      </desc>
+    </path>
+    <path d="M 424.2553 271.2894 427.2255 256.4383 439.1064 247.5277 440.0965 226.7362 456.9277 228.7163 462.8681 240.5972 484.6496 249.5078 466.8284 263.3688 469.7986 275.2496 499.5007 283.1702 499.5007 292.0809 465.8383 301.9816 453.9574 298.0213 448.017 284.1603 424.2553 271.2894 Z" id="CN.shaanxi.3019989" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>宝塔区 (Baota)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3019989</id>
+        <name>Baota District</name>
+      </desc>
+    </path>
+    <path d="M 370.7915 282.1801 381.6823 286.1404 398.5135 290.1007 417.3248 307.922 437.1262 307.922 453.9574 298.0213 465.8383 301.9816 464.8482 311.8823 452.9674 313.8624 430.1957 337.6241 360.8908 340.5943 358.9106 327.7234 371.7816 322.773 376.7319 305.9418 370.7915 282.1801 Z" id="CN.shaanxi.3019990" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>富县 (Fu)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3019990</id>
+        <name>Fu County</name>
+      </desc>
+    </path>
+    <path d="M 393.5631 262.3787 424.2553 271.2894 448.017 284.1603 453.9574 298.0213 437.1262 307.922 417.3248 307.922 398.5135 290.1007 381.6823 286.1404 393.5631 262.3787 Z" id="CN.shaanxi.3019991" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>甘泉县 (Ganquan)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3019991</id>
+        <name>Ganquan County</name>
+      </desc>
+    </path>
+    <path d="M 360.8908 340.5943 430.1957 337.6241 442.0766 361.3858 417.3248 355.4454 405.444 359.4057 395.5433 375.2468 390.5929 376.2369 368.8113 358.4156 360.8908 340.5943 Z" id="CN.shaanxi.3019992" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>黄陵县 (Huangling)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3019992</id>
+        <name>Huangling County</name>
+      </desc>
+    </path>
+    <path d="M 470.7887 318.8128 493.5603 315.8426 505.4411 326.7333 512.3716 343.5645 515.3418 358.4156 502.4709 368.3163 493.5603 370.2965 466.8284 370.2965 460.8879 336.634 470.7887 318.8128 Z" id="CN.shaanxi.3019993" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>黄龙县 (Huanglong)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3019993</id>
+        <name>Huanglong County</name>
+      </desc>
+    </path>
+    <path d="M 430.1957 337.6241 452.9674 313.8624 464.8482 311.8823 470.7887 318.8128 460.8879 336.634 466.8284 370.2965 446.0369 375.2468 442.0766 361.3858 430.1957 337.6241 Z" id="CN.shaanxi.3019994" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>洛川县 (Luochuan)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3019994</id>
+        <name>Luochuan County</name>
+      </desc>
+    </path>
+    <path d="M 346.0397 193.0738 362.8709 213.8652 357.9206 228.7163 333.1688 262.3787 309.4071 260.3986 304.4567 250.4979 284.6553 244.5574 283.6652 226.7362 290.5957 211.8851 303.4667 220.7957 332.1787 213.8652 333.1688 200.0043 346.0397 193.0738 Z" id="CN.shaanxi.3019995" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>吴起县 (Wuqi)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3019995</id>
+        <name>Wuqi County</name>
+      </desc>
+    </path>
+    <path d="M 484.6496 249.5078 512.3716 253.4681 530.1929 261.3887 536.1333 267.3291 533.1631 292.0809 499.5007 283.1702 469.7986 275.2496 466.8284 263.3688 484.6496 249.5078 Z" id="CN.shaanxi.3019996" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>延长县 (Yanchang)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3019996</id>
+        <name>Yanchang County</name>
+      </desc>
+    </path>
+    <path d="M 456.9277 228.7163 483.6596 226.7362 492.5702 220.7957 529.2028 232.6766 530.1929 261.3887 512.3716 253.4681 484.6496 249.5078 462.8681 240.5972 456.9277 228.7163 Z" id="CN.shaanxi.3019997" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>延川县 (Yanchuan)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3019997</id>
+        <name>Yanchuan County</name>
+      </desc>
+    </path>
+    <path d="M 465.8383 301.9816 499.5007 292.0809 499.5007 283.1702 533.1631 292.0809 531.183 305.9418 540.0936 332.6738 512.3716 343.5645 505.4411 326.7333 493.5603 315.8426 470.7887 318.8128 464.8482 311.8823 465.8383 301.9816 Z" id="CN.shaanxi.3019998" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>宜川县 (Yichuan)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3019998</id>
+        <name>Yichuan County</name>
+      </desc>
+    </path>
+    <path d="M 333.1688 262.3787 357.9206 228.7163 392.573 213.8652 407.4241 233.6667 393.5631 262.3787 381.6823 286.1404 370.7915 282.1801 350 278.2199 333.1688 262.3787 Z" id="CN.shaanxi.3019999" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Zhidan County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Zhidan County</wikipedia>
+        <localname>志丹县 (Zhidan)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3019999</id>
+      </desc>
+    </path>
+    <path d="M 421.2851 200.9943 432.1759 197.034 446.0369 185.1532 493.5603 205.9447 492.5702 220.7957 483.6596 226.7362 456.9277 228.7163 440.0965 226.7362 421.2851 200.9943 Z" id="CN.shaanxi.3020000" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>子长县 (Zichang)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3020000</id>
+        <name>Zichang County</name>
+      </desc>
+    </path>
+    <path d="M 427.2255 384.1574 446.0369 375.2468 466.8284 370.2965 470.7887 392.078 442.0766 393.0681 427.2255 384.1574 Z" id="CN.shaanxi.3028610" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>白水县 (Baishui)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3028610</id>
+        <name>Baishui County</name>
+      </desc>
+    </path>
+    <path d="M 466.8284 370.2965 493.5603 370.2965 491.5801 401.9787 500.4908 405.939 484.6496 412.8695 470.7887 392.078 466.8284 370.2965 Z" id="CN.shaanxi.3028611" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>澄城县 (Chengcheng)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3028611</id>
+        <name>Chengcheng County</name>
+      </desc>
+    </path>
+    <path d="M 470.7887 425.7404 484.6496 412.8695 500.4908 405.939 516.3319 409.8993 514.3518 438.6113 506.4312 439.6014 482.6695 443.5617 465.8383 444.5518 470.7887 425.7404 Z" id="CN.shaanxi.3028612" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>大荔县 (Dali)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3028612</id>
+        <name>Dali County</name>
+      </desc>
+    </path>
+    <path d="M 411.3844 410.8894 414.3546 407.9191 428.2156 397.0284 440.0965 401.9787 433.166 416.8298 439.1064 427.7206 439.1064 429.7007 419.305 433.661 400.4936 422.7702 411.3844 410.8894 Z" id="CN.shaanxi.3028613" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>富平县 (Fuping)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3028613</id>
+        <name>Fuping County</name>
+      </desc>
+    </path>
+    <path d="M 502.4709 368.3163 515.3418 358.4156 512.3716 343.5645 540.0936 332.6738 546.034 352.4752 530.1929 379.2071 502.4709 368.3163 Z" id="CN.shaanxi.3028614" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hancheng City</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Hancheng</wikipedia>
+        <localname>韩城市 (Hancheng)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3028614</id>
+      </desc>
+    </path>
+    <path d="M 493.5603 370.2965 502.4709 368.3163 530.1929 379.2071 516.3319 409.8993 500.4908 405.939 491.5801 401.9787 493.5603 370.2965 Z" id="CN.shaanxi.3028615" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>合阳县 (Heyang)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3028615</id>
+        <name>Heyang County</name>
+      </desc>
+    </path>
+    <path d="M 465.8383 444.5518 482.6695 443.5617 492.5702 463.3631 469.7986 476.234 463.8582 474.2539 455.9376 458.4128 465.8383 444.5518 Z" id="CN.shaanxi.3028616" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>华县 (Hua)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3028616</id>
+        <name>Hua County</name>
+      </desc>
+    </path>
+    <path d="M 506.4312 439.6014 506.4312 457.4227 492.5702 463.3631 482.6695 443.5617 506.4312 439.6014 Z" id="CN.shaanxi.3028617" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Huayin City</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Huayin</wikipedia>
+        <localname>华阴市 (Huayin)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3028617</id>
+      </desc>
+    </path>
+    <path d="M 440.0965 437.6213 439.1064 429.7007 439.1064 427.7206 470.7887 425.7404 465.8383 444.5518 455.9376 458.4128 463.8582 474.2539 443.0667 467.3234 440.0965 437.6213 Z" id="CN.shaanxi.3028618" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>临渭区 (Linwei)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3028618</id>
+        <name>Linwei District</name>
+      </desc>
+    </path>
+    <path d="M 440.0965 401.9787 442.0766 393.0681 470.7887 392.078 484.6496 412.8695 470.7887 425.7404 439.1064 427.7206 433.166 416.8298 440.0965 401.9787 Z" id="CN.shaanxi.3028619" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>蒲城县 (Pucheng)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3028619</id>
+        <name>Pucheng County</name>
+      </desc>
+    </path>
+    <path d="M 506.4312 457.4227 506.4312 439.6014 514.3518 438.6113 524.2525 442.5716 529.2028 459.4028 506.4312 457.4227 Z" id="CN.shaanxi.3028620" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>潼关县 (Tongguan)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3028620</id>
+        <name>Tongguan County</name>
+      </desc>
+    </path>
+    <path d="M 282.6752 482.1745 291.5858 468.3135 313.3674 475.244 315.3475 476.234 307.427 495.0454 294.556 498.0156 282.6752 482.1745 Z" id="CN.shaanxi.3048835" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>眉县 (Mei)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3048835</id>
+        <name>Mei County</name>
+      </desc>
+    </path>
+    <path d="M 177.7277 437.6213 202.4794 442.5716 220.3007 432.6709 243.0723 446.5319 247.0326 457.4227 273.7645 465.3433 271.7844 481.1844 250.0028 480.1943 250.9929 465.3433 228.2213 450.4922 218.3206 454.4525 215.3504 470.2936 198.5191 471.2837 189.6085 455.4426 162.8766 444.5518 177.7277 437.6213 Z" id="CN.shaanxi.3048908" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>陈仓区 (Long)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3048908</id>
+        <name>Chencang District</name>
+      </desc>
+    </path>
+    <path d="M 198.5191 471.2837 215.3504 470.2936 232.1816 485.1447 229.2113 506.9262 211.3901 507.9163 205.4496 524.7475 192.5787 528.7078 187.6284 533.6582 172.7773 506.9262 179.7078 487.1248 198.5191 471.2837 Z" id="CN.shaanxi.3048909" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>凤县 (Feng)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3048909</id>
+        <name>Feng County</name>
+      </desc>
+    </path>
+    <path d="M 243.0723 446.5319 253.9631 430.6908 273.7645 429.7007 281.6851 442.5716 273.7645 465.3433 247.0326 457.4227 243.0723 446.5319 Z" id="CN.shaanxi.3048910" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>凤翔县 (Fengxiang)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3048910</id>
+        <name>Fengxiang County</name>
+      </desc>
+    </path>
+    <path d="M 296.5362 446.5319 313.3674 441.5816 314.3574 453.4624 315.3475 457.4227 318.3177 467.3234 313.3674 475.244 291.5858 468.3135 302.4766 460.3929 296.5362 446.5319 Z" id="CN.shaanxi.3048911" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>扶风县 (Fufeng)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3048911</id>
+        <name>Fufeng County</name>
+      </desc>
+    </path>
+    <path d="M 250.9929 465.3433 230.2014 463.3631 218.3206 454.4525 228.2213 450.4922 250.9929 465.3433 Z" id="CN.shaanxi.3048912" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>金台区 (Jintai)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3048912</id>
+        <name>Jintai District</name>
+      </desc>
+    </path>
+    <path d="M 253.9631 430.6908 256.9333 414.8496 296.5362 409.8993 308.417 419.8 316.3376 435.6411 317.3277 441.5816 313.3674 441.5816 296.5362 446.5319 281.6851 442.5716 273.7645 429.7007 253.9631 430.6908 Z" id="CN.shaanxi.3048913" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>麟游县 (Linyou)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3048913</id>
+        <name>Linyou County</name>
+      </desc>
+    </path>
+    <path d="M 238.122 412.8695 220.3007 432.6709 202.4794 442.5716 177.7277 437.6213 186.6383 425.7404 178.7177 408.9092 185.6482 399.0085 216.3404 399.0085 238.122 412.8695 Z" id="CN.shaanxi.3048914" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>陇县 (Long)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3048914</id>
+        <name>Long County</name>
+      </desc>
+    </path>
+    <path d="M 220.3007 432.6709 238.122 412.8695 256.9333 414.8496 253.9631 430.6908 243.0723 446.5319 220.3007 432.6709 Z" id="CN.shaanxi.3048915" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Qianyang County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Qianyang County</wikipedia>
+        <localname>千阳县 (Qianyang)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3048915</id>
+      </desc>
+    </path>
+    <path d="M 271.7844 481.1844 273.7645 465.3433 281.6851 442.5716 296.5362 446.5319 302.4766 460.3929 291.5858 468.3135 282.6752 482.1745 271.7844 481.1844 Z" id="CN.shaanxi.3048916" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>岐山县 (Qishan)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3048916</id>
+        <name>Qishan County</name>
+      </desc>
+    </path>
+    <path d="M 229.2113 506.9262 232.1816 485.1447 250.0028 480.1943 271.7844 481.1844 282.6752 482.1745 294.556 498.0156 286.6355 520.7872 284.6553 522.7674 259.9035 527.7177 251.983 522.7674 229.2113 506.9262 Z" id="CN.shaanxi.3048917" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>太白县 (Taibai)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3048917</id>
+        <name>Taibai County</name>
+      </desc>
+    </path>
+    <path d="M 218.3206 454.4525 230.2014 463.3631 250.9929 465.3433 250.0028 480.1943 232.1816 485.1447 215.3504 470.2936 218.3206 454.4525 Z" id="CN.shaanxi.3048918" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>渭滨区 (Weibin)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3048918</id>
+        <name>Weibin District</name>
+      </desc>
+    </path>
+    <path d="M 301.4865 406.9291 309.4071 385.1475 324.2582 382.1773 334.1589 391.0879 329.2085 402.9688 345.0496 411.8794 342.0794 418.8099 331.1887 410.8894 308.417 419.8 296.5362 409.8993 301.4865 406.9291 Z" id="CN.shaanxi.3221006" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Bin County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Bin County, Shaanxi</wikipedia>
+        <localname>彬县 (Bin)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3221006</id>
+      </desc>
+    </path>
+    <path d="M 309.4071 385.1475 301.4865 406.9291 282.6752 385.1475 309.4071 385.1475 Z" id="CN.shaanxi.3221007" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Changwu County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Changwu County</wikipedia>
+        <localname>长武县 (Changwu)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3221007</id>
+      </desc>
+    </path>
+    <path d="M 342.0794 418.8099 345.0496 411.8794 365.8411 403.9589 386.6326 424.7504 383.6624 430.6908 358.9106 430.6908 345.0496 421.7801 342.0794 418.8099 Z" id="CN.shaanxi.3221008" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Chunhua County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Chunhua County</wikipedia>
+        <localname>淳化县 (Chunhua)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3221008</id>
+      </desc>
+    </path>
+    <path d="M 358.9106 430.6908 383.6624 430.6908 398.5135 446.5319 399.5035 457.4227 375.7418 453.4624 358.9106 430.6908 Z" id="CN.shaanxi.3221009" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jingyang County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Jingyang County</wikipedia>
+        <localname>泾阳县 (Jingyang)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3221009</id>
+      </desc>
+    </path>
+    <path d="M 345.0496 421.7801 358.9106 430.6908 375.7418 453.4624 373.7617 455.4426 363.861 457.4227 346.0397 465.3433 349.0099 454.4525 340.0993 430.6908 345.0496 421.7801 Z" id="CN.shaanxi.3221010" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Liquan County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Liquan County</wikipedia>
+        <localname>礼泉县 (Liquan)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3221010</id>
+      </desc>
+    </path>
+    <path d="M 314.3574 453.4624 317.3277 441.5816 316.3376 435.6411 340.0993 430.6908 349.0099 454.4525 346.0397 465.3433 343.0695 466.3333 315.3475 457.4227 314.3574 453.4624 Z" id="CN.shaanxi.3221011" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Qian County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Qian County</wikipedia>
+        <localname>乾县 (Qian)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3221011</id>
+      </desc>
+    </path>
+    <path d="M 363.861 457.4227 373.7617 455.4426 385.6426 463.3631 383.6624 469.3035 373.7617 475.244 368.8113 473.2638 363.861 457.4227 Z" id="CN.shaanxi.3221012" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Qindu District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Qindu District</wikipedia>
+        <localname>秦都区 (Qindu)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3221012</id>
+      </desc>
+    </path>
+    <path d="M 386.6326 424.7504 400.4936 422.7702 419.305 433.661 416.3348 439.6014 414.3546 444.5518 398.5135 446.5319 383.6624 430.6908 386.6326 424.7504 Z" id="CN.shaanxi.3221013" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Sanyuan County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Sanyuan County</wikipedia>
+        <localname>三原县 (Sanyuan)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3221013</id>
+      </desc>
+    </path>
+    <path d="M 375.7418 453.4624 399.5035 457.4227 399.5035 458.4128 385.6426 463.3631 373.7617 455.4426 375.7418 453.4624 Z" id="CN.shaanxi.3221014" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Weicheng District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Weicheng District, Xianyang</wikipedia>
+        <localname>渭城区 (Weicheng)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3221014</id>
+      </desc>
+    </path>
+    <path d="M 315.3475 457.4227 343.0695 466.3333 340.0993 477.2241 323.2681 476.234 318.3177 467.3234 315.3475 457.4227 Z" id="CN.shaanxi.3221015" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wugong County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Wugong County</wikipedia>
+        <localname>武功县 (Wugong)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3221015</id>
+      </desc>
+    </path>
+    <path d="M 343.0695 466.3333 346.0397 465.3433 363.861 457.4227 368.8113 473.2638 358.9106 476.234 340.0993 477.2241 343.0695 466.3333 Z" id="CN.shaanxi.3221016" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Xingping City</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Xingping</wikipedia>
+        <localname>兴平市 (Xingping)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3221016</id>
+      </desc>
+    </path>
+    <path d="M 324.2582 382.1773 335.1489 384.1574 365.8411 379.2071 368.8113 358.4156 390.5929 376.2369 389.6028 379.2071 373.7617 388.1177 365.8411 403.9589 345.0496 411.8794 329.2085 402.9688 334.1589 391.0879 324.2582 382.1773 Z" id="CN.shaanxi.3221017" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Xunyi County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Xunyi County</wikipedia>
+        <localname>旬邑县 (Xunyi)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3221017</id>
+      </desc>
+    </path>
+    <path d="M 318.3177 467.3234 323.2681 476.234 315.3475 476.234 313.3674 475.244 318.3177 467.3234 Z" id="CN.shaanxi.3221018" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Yangling District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Yangling District</wikipedia>
+        <localname>杨陵区 (Yangling)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3221018</id>
+      </desc>
+    </path>
+    <path d="M 308.417 419.8 331.1887 410.8894 342.0794 418.8099 345.0496 421.7801 340.0993 430.6908 316.3376 435.6411 308.417 419.8 Z M 313.3674 441.5816 317.3277 441.5816 314.3574 453.4624 313.3674 441.5816 Z" id="CN.shaanxi.3221019" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Yongshou County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Yongshou County</wikipedia>
+        <localname>永寿县 (Yongshou)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3221019</id>
+      </desc>
+    </path>
+    <path d="M 402.4738 470.2936 404.4539 457.4227 416.3348 456.4326 426.2355 467.3234 416.3348 480.1943 407.4241 479.2043 405.444 474.2539 402.4738 470.2936 Z" id="CN.shaanxi.3226087" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Baqiao District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Baqiao District</wikipedia>
+        <localname>灞桥区 (Baqiao)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3226087</id>
+      </desc>
+    </path>
+    <path d="M 394.5532 475.244 397.5234 473.2638 403.4638 474.2539 394.5532 475.244 Z" id="CN.shaanxi.3226088" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Beilin District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Beilin District, Xi'an</wikipedia>
+        <localname>碑林区 (Beilin)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3226088</id>
+      </desc>
+    </path>
+    <path d="M 373.7617 475.244 383.6624 469.3035 385.6426 474.2539 407.4241 479.2043 416.3348 480.1943 423.2652 506.9262 407.4241 502.966 387.6227 512.8667 375.7418 510.8865 382.6723 501.9759 373.7617 475.244 Z" id="CN.shaanxi.3226089" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Chang'an District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Chang'an District, Xi'an</wikipedia>
+        <localname>长安区 (Chang'an)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3226089</id>
+      </desc>
+    </path>
+    <path d="M 398.5135 446.5319 414.3546 444.5518 416.3348 456.4326 404.4539 457.4227 399.5035 458.4128 399.5035 457.4227 398.5135 446.5319 Z" id="CN.shaanxi.3226090" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Gaoling County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>zh:高陵区</wikipedia>
+        <localname>高陵县 (Gaoling)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3226090</id>
+      </desc>
+    </path>
+    <path d="M 346.0397 514.8468 358.9106 476.234 368.8113 473.2638 373.7617 475.244 382.6723 501.9759 375.7418 510.8865 346.0397 514.8468 Z" id="CN.shaanxi.3226091" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hu County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Hu County</wikipedia>
+        <localname>户县 (Hu)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3226091</id>
+      </desc>
+    </path>
+    <path d="M 416.3348 480.1943 426.2355 467.3234 443.0667 467.3234 463.8582 474.2539 469.7986 476.234 474.7489 481.1844 453.9574 490.095 447.027 509.8965 423.2652 506.9262 416.3348 480.1943 Z" id="CN.shaanxi.3226092" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lantian County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Lantian County</wikipedia>
+        <localname>蓝田县 (Lantian)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3226092</id>
+      </desc>
+    </path>
+    <path d="M 397.5234 470.2936 397.5234 473.2638 394.5532 475.244 389.6028 473.2638 397.5234 470.2936 Z" id="CN.shaanxi.3226093" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lianhu District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Lianhu District</wikipedia>
+        <localname>莲湖区 (Lianhu)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3226093</id>
+      </desc>
+    </path>
+    <path d="M 416.3348 456.4326 414.3546 444.5518 416.3348 439.6014 440.0965 437.6213 443.0667 467.3234 426.2355 467.3234 416.3348 456.4326 Z" id="CN.shaanxi.3226094" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lintong District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Lintong District</wikipedia>
+        <localname>临潼区 (Chang'an)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3226094</id>
+      </desc>
+    </path>
+    <path d="M 383.6624 469.3035 385.6426 463.3631 399.5035 458.4128 404.4539 457.4227 402.4738 470.2936 397.5234 470.2936 389.6028 473.2638 385.6426 474.2539 383.6624 469.3035 Z" id="CN.shaanxi.3226095" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Weiyang District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Weiyang District, Xi'an</wikipedia>
+        <localname>未央区 (Weiyang)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3226095</id>
+      </desc>
+    </path>
+    <path d="M 397.5234 473.2638 397.5234 470.2936 402.4738 470.2936 405.444 474.2539 403.4638 474.2539 397.5234 473.2638 Z" id="CN.shaanxi.3226096" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Xincheng District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Xincheng District, Xi'an</wikipedia>
+        <localname>新城区 (Xincheng)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3226096</id>
+      </desc>
+    </path>
+    <path d="M 416.3348 439.6014 419.305 433.661 439.1064 429.7007 440.0965 437.6213 416.3348 439.6014 Z" id="CN.shaanxi.3226097" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Yanliang District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Yanliang District</wikipedia>
+        <localname>阎良区 (Yanliang)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3226097</id>
+      </desc>
+    </path>
+    <path d="M 385.6426 474.2539 389.6028 473.2638 394.5532 475.244 403.4638 474.2539 405.444 474.2539 407.4241 479.2043 385.6426 474.2539 Z" id="CN.shaanxi.3226098" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Yanta District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Yanta District</wikipedia>
+        <localname>雁塔区 (Yanta)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3226098</id>
+      </desc>
+    </path>
+    <path d="M 294.556 498.0156 307.427 495.0454 315.3475 476.234 323.2681 476.234 340.0993 477.2241 358.9106 476.234 346.0397 514.8468 318.3177 521.7773 286.6355 520.7872 294.556 498.0156 Z" id="CN.shaanxi.3226099" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Zhouzhi County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Zhouzhi County</wikipedia>
+        <localname>周至县 (Zhouzhi)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3226099</id>
+      </desc>
+    </path>
+    <path d="M 398.5135 391.0879 414.3546 407.9191 411.3844 410.8894 398.5135 391.0879 Z" id="CN.shaanxi.3226167" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wangyi District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Wangyi District</wikipedia>
+        <localname>王益区 (Wangyi)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3226167</id>
+      </desc>
+    </path>
+    <path d="M 365.8411 403.9589 373.7617 388.1177 389.6028 379.2071 398.5135 391.0879 411.3844 410.8894 400.4936 422.7702 386.6326 424.7504 365.8411 403.9589 Z" id="CN.shaanxi.3226168" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Yaozhou District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Yaozhou District</wikipedia>
+        <localname>耀州区 (Yaozhou)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3226168</id>
+      </desc>
+    </path>
+    <path d="M 395.5433 375.2468 405.444 359.4057 417.3248 355.4454 442.0766 361.3858 446.0369 375.2468 427.2255 384.1574 411.3844 396.0383 395.5433 375.2468 Z" id="CN.shaanxi.3226169" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Yijun County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Yijun County</wikipedia>
+        <localname>宜君县 (Yijun)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3226169</id>
+      </desc>
+    </path>
+    <path d="M 389.6028 379.2071 390.5929 376.2369 395.5433 375.2468 411.3844 396.0383 427.2255 384.1574 442.0766 393.0681 440.0965 401.9787 428.2156 397.0284 414.3546 407.9191 398.5135 391.0879 389.6028 379.2071 Z" id="CN.shaanxi.3226170" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Yintai District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Yintai District</wikipedia>
+        <localname>印台区 (Yintai)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shaanxi.3226170</id>
+      </desc>
+    </path>
+  </g>
+</svg>

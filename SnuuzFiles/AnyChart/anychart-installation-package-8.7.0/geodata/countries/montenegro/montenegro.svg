@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="montenegro">
+    <path d="M 260.8414 513.6403 268.5867 527.3752 293.5197 536.626 312.9253 556.7049 309.3264 563.7589 312.2521 570.435 338.6369 594.7766 316.1735 601.6683 291.0987 595.8332 301.4141 622.7478 298.674 632.9882 267.9653 628.914 267.5512 619.624 250.5878 603.3334 248.3338 597.3539 251.2515 591.4906 240.7947 578.8949 229.16 578.8936 217.6333 560.6776 226.8606 550.5249 225.4582 545.1148 210.6048 526.8473 203.9036 511.5492 234.8272 519.7947 236.3063 511.0155 241.9864 504.327 260.8414 513.6403 Z" id="ME.BA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>ME.BA</code_hasc>
+        <name>Bar</name>
+        <admin>Montenegro</admin>
+        <type_en>Municipality</type_en>
+        <region/>
+        <woe_id>29389244</woe_id>
+        <longitude>19</longitude>
+        <woe_name>Bar</woe_name>
+        <fips>AL49</fips>
+        <woe_label>Bar, ME, Montenegro</woe_label>
+        <latitude>42</latitude>
+        <iso_a2>ME</iso_a2>
+        <postal>BA</postal>
+        <type>Opština</type>
+        <id>ME.BA</id>
+      </desc>
+    </path>
+    <path d="M 267.9653 628.914 298.674 632.9882 301.4141 622.7478 291.0987 595.8332 316.1735 601.6683 338.6369 594.7766 340.0324 599.662 332.0826 626.9409 338.0195 643.9882 336.2744 650.8682 330.293 654.1041 329.6569 670.6542 335.3897 683.9758 335.1572 699 318.663 681.3853 276.1417 662.678 273.3738 649.8935 266.668 643.0519 267.9653 628.914 Z" id="ME.UL" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>ME.UL</code_hasc>
+        <name>Ulcinj</name>
+        <admin>Montenegro</admin>
+        <type_en>Municipality</type_en>
+        <region/>
+        <woe_id>29389241</woe_id>
+        <longitude>19</longitude>
+        <woe_name>Ulcinj</woe_name>
+        <fips>AL49</fips>
+        <woe_label>Ulcinj, ME, Montenegro</woe_label>
+        <latitude>42</latitude>
+        <iso_a2>ME</iso_a2>
+        <postal>UL</postal>
+        <type>Opština</type>
+        <id>ME.UL</id>
+      </desc>
+    </path>
+    <path d="M 203.9036 511.5492 210.6048 526.8473 225.4582 545.1148 226.8606 550.5249 217.6333 560.6776 200.2969 544.2645 192.5917 518.5685 182.912 515.8207 175.8855 520.9545 171.8387 515.2551 162.8764 521.2391 162.3986 494.9414 165.1761 489.2007 166.3229 486.8438 192.7172 495.9468 201.5342 504.1409 203.9036 511.5492 Z" id="ME.BU" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>ME.BU</code_hasc>
+        <name>Budva</name>
+        <admin>Montenegro</admin>
+        <type_en>Municipality</type_en>
+        <region/>
+        <woe_id>29389243</woe_id>
+        <longitude>18</longitude>
+        <woe_name>Budva</woe_name>
+        <fips>MJ00</fips>
+        <woe_label>Budva, ME, Montenegro</woe_label>
+        <latitude>42</latitude>
+        <iso_a2>ME</iso_a2>
+        <postal>BU</postal>
+        <type>Opština</type>
+        <id>ME.BU</id>
+      </desc>
+    </path>
+    <path d="M 211.5304 381.1657 211.54 388.4848 231.6999 406.8402 225.0123 428.2344 216.0843 428.7631 217.0816 432.9768 239.4492 450.6979 271.5305 484.9021 268.9494 499.3218 260.8414 513.6403 241.9864 504.327 236.3063 511.0155 234.8272 519.7947 203.9036 511.5492 201.5342 504.1409 192.7172 495.9468 166.3229 486.8438 165.1761 489.2007 156.321 459.7766 159.969 438.7735 156.7864 426.0767 138.1742 411.9992 124.1044 375.1391 135.0019 370.2628 137.248 356.8616 149.0381 339.3693 169.8833 349.3102 188.8549 351.612 204.9868 365.699 211.5304 381.1657 Z" id="ME.CE" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>ME.CE</code_hasc>
+        <name>Cetinje</name>
+        <admin>Montenegro</admin>
+        <type_en>Municipality</type_en>
+        <region/>
+        <woe_id>29389242</woe_id>
+        <longitude>18</longitude>
+        <woe_name>Cetinje</woe_name>
+        <fips>MJ00</fips>
+        <woe_label>Cetinje, ME, Montenegro</woe_label>
+        <latitude>42</latitude>
+        <iso_a2>ME</iso_a2>
+        <postal>CE</postal>
+        <type>Opština</type>
+        <id>ME.CE</id>
+      </desc>
+    </path>
+    <path d="M 551.0823 328.2551 548.7708 317.549 551.6465 297.8193 574.2889 242.4451 602.465 249.2623 636.6231 270.3549 641.5601 276.9556 638.8632 303.0033 600.1925 312.8086 597.2617 328.9697 589.6184 337.4204 557.3785 324.3978 551.0823 328.2551 Z" id="ME.RO" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>ME.RO</code_hasc>
+        <name>Rožaje</name>
+        <admin>Montenegro</admin>
+        <type_en>Municipality</type_en>
+        <region/>
+        <woe_id>29389229</woe_id>
+        <longitude>20</longitude>
+        <woe_name>Rožaje</woe_name>
+        <fips>AL47</fips>
+        <woe_label>RoÅ¾aje, ME, Montenegro</woe_label>
+        <latitude>42</latitude>
+        <iso_a2>ME</iso_a2>
+        <postal>RO</postal>
+        <type>Opština</type>
+        <id>ME.RO</id>
+      </desc>
+    </path>
+    <path d="M 456.6833 398.8096 479.963 383.3904 491.2291 368.9029 506.4831 358.3218 545.1854 351.3726 565.1953 373.854 556.4266 394.2842 556.6407 412.0016 552.9138 417.3568 545.1584 412.7538 527.4981 431.8319 504.9514 433.3429 482.8814 447.8814 472.5103 448.6064 457.5322 438.0213 452.4816 425.234 452.0143 412.4403 456.6833 398.8096 Z" id="ME.PV" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>ME.PV</code_hasc>
+        <name>Plav</name>
+        <admin>Montenegro</admin>
+        <type_en>Municipality</type_en>
+        <region/>
+        <woe_id>29389239</woe_id>
+        <longitude>19</longitude>
+        <woe_name>Plav</woe_name>
+        <fips>AL49</fips>
+        <woe_label>Plav, ME, Montenegro</woe_label>
+        <latitude>42</latitude>
+        <iso_a2>ME</iso_a2>
+        <postal>PV</postal>
+        <type>Opština</type>
+        <id>ME.PV</id>
+      </desc>
+    </path>
+    <path d="M 124.8936 474.7993 124.9054 474.836 124.4557 474.8038 122.5916 483.1056 110.2047 481.2569 97.7989 471.4489 100.1624 468.4756 92.6728 462.8142 92.0613 453.9748 95.9598 452.6836 120.6886 461.6703 122.9679 468.7842 124.8936 474.7993 Z M 85.7045 393.1404 95.5276 407.5794 111.6192 418.9024 117.8449 429.7711 123.6229 448.0616 109.9622 450.2751 77.8159 445.1385 83.3155 452.5513 80.4446 464.3636 85.4634 468.0522 75.5105 461.211 74.7395 450.4936 63.4884 440.9808 58.4399 421.9208 59.3237 402.0526 66.0049 397.9355 76.0056 400.2709 74.6497 389.9387 80.8612 386.5665 85.7045 393.1404 Z" id="ME.HN" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>ME.HN</code_hasc>
+        <name>Herceg Novi</name>
+        <admin>Montenegro</admin>
+        <type_en>Municipality</type_en>
+        <region/>
+        <woe_id>29389246</woe_id>
+        <longitude>18</longitude>
+        <woe_name>Herceg Novi</woe_name>
+        <fips>HR03</fips>
+        <woe_label>Herceg Novi, ME, Montenegro</woe_label>
+        <latitude>42</latitude>
+        <iso_a2>ME</iso_a2>
+        <postal>HN</postal>
+        <type>Opština</type>
+        <id>ME.HN</id>
+      </desc>
+    </path>
+    <path d="M 165.1761 489.2007 162.3986 494.9414 162.8764 521.2391 159.7294 523.0269 145.2164 506.1727 134.7999 487.0123 141.4318 479.1959 148.059 458.3799 140.7332 443.8728 133.7119 438.0556 134.2939 435.5462 123.6229 448.0616 123.6197 448.0515 117.8449 429.7711 111.6192 418.9024 95.5276 407.5794 80.8612 386.5665 84.0825 384.8167 90.6872 378.718 92.1169 375.4232 124.1044 375.1391 138.1742 411.9992 156.7864 426.0767 159.969 438.7735 156.321 459.7766 165.1761 489.2007 Z" id="ME.KT" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>ME.KT</code_hasc>
+        <name>Kotor</name>
+        <admin>Montenegro</admin>
+        <type_en>Municipality</type_en>
+        <region/>
+        <woe_id>29389240</woe_id>
+        <longitude>18</longitude>
+        <woe_name>Kotor</woe_name>
+        <fips>HR03</fips>
+        <woe_label>Kotor, ME, Montenegro</woe_label>
+        <latitude>42</latitude>
+        <iso_a2>ME</iso_a2>
+        <postal>KT</postal>
+        <type>Opština</type>
+        <id>ME.KT</id>
+      </desc>
+    </path>
+    <path d="M 506.4831 358.3218 491.2291 368.9029 479.963 383.3904 456.6833 398.8096 449.5344 375.251 442.6717 371.5625 430.0467 379.6549 421.1915 367.0139 432.3998 351.999 432.7251 341.3161 431.2997 318.8569 422.5185 310.339 427.015 302.6288 436.6333 301.5093 466.6542 318.4615 497.2679 327.8359 491.6312 333.3372 491.5369 340.3124 506.4831 358.3218 Z" id="ME.AN" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>ME.AN</code_hasc>
+        <name>Andrijevica</name>
+        <admin>Montenegro</admin>
+        <type_en>Municipality</type_en>
+        <region/>
+        <woe_id>29389233</woe_id>
+        <longitude>19</longitude>
+        <woe_name>Andrijevica</woe_name>
+        <fips>MJ00</fips>
+        <woe_label>Andrijevica, ME, Montenegro</woe_label>
+        <latitude>42</latitude>
+        <iso_a2>ME</iso_a2>
+        <postal>AN</postal>
+        <type>Opština</type>
+        <id>ME.AN</id>
+      </desc>
+    </path>
+    <path d="M 574.2889 242.4451 551.6465 297.8193 548.7708 317.549 551.0823 328.2551 542.1787 336.6311 545.1854 351.3726 506.4831 358.3218 491.5369 340.3124 491.6312 333.3372 497.2679 327.8359 466.6542 318.4615 436.6333 301.5093 437.9791 278.4044 444.1149 267.8859 484.545 251.5354 503.2656 255.3829 543.4517 237.2935 552.4774 222.8457 574.2889 242.4451 Z" id="ME.BE" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>ME.BE</code_hasc>
+        <name>Berane</name>
+        <admin>Montenegro</admin>
+        <type_en>Municipality</type_en>
+        <region/>
+        <woe_id>29389228</woe_id>
+        <longitude>19</longitude>
+        <woe_name>Berane</woe_name>
+        <fips>MJ00</fips>
+        <woe_label>Berane, ME, Montenegro</woe_label>
+        <latitude>42</latitude>
+        <iso_a2>ME</iso_a2>
+        <postal>BE</postal>
+        <type>Opština</type>
+        <id>ME.BE</id>
+      </desc>
+    </path>
+    <path d="M 552.4774 222.8457 543.4517 237.2935 503.2656 255.3829 484.545 251.5354 444.1149 267.8859 432.0639 254.2301 433.8572 238.4592 429.5533 230.13 421.5445 223.9556 373.0075 208.3504 377.2803 188.9688 385.5753 184.0283 394.4199 170.6005 400.8048 139.4154 421.7176 160.5243 441.4464 165.5714 450.195 162.0596 464.1597 185.6088 477.2543 193.5075 497.4266 193.6172 508.0536 184.3637 514.6742 184.184 523.69 198.8022 552.4774 222.8457 Z" id="ME.BP" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>ME.BP</code_hasc>
+        <name>Bijelo Polje</name>
+        <admin>Montenegro</admin>
+        <type_en>Municipality</type_en>
+        <region/>
+        <woe_id>29389227</woe_id>
+        <longitude>19</longitude>
+        <woe_name>Bijelo Polje</woe_name>
+        <fips>MJ00</fips>
+        <woe_label>Bijelo Polje, ME, Montenegro</woe_label>
+        <latitude>43</latitude>
+        <iso_a2>ME</iso_a2>
+        <postal>BP</postal>
+        <type>Opština</type>
+        <id>ME.BP</id>
+      </desc>
+    </path>
+    <path d="M 322.2304 360.3699 309.4551 374.2783 306.5695 392.6716 296.99 403.3316 289.6489 437.4524 241.814 435.3632 225.0123 428.2344 231.6999 406.8402 211.54 388.4848 211.5304 381.1657 225.0318 380.6641 235.5856 354.217 246.5034 347.6832 253.3051 345.8029 285.1272 352.1624 295.908 346.9627 295.6349 325.9049 305.8774 329.4183 310.4813 351.7953 322.2304 360.3699 Z" id="ME.DA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>ME.DA</code_hasc>
+        <name>Danilovgrad</name>
+        <admin>Montenegro</admin>
+        <type_en>Municipality</type_en>
+        <region/>
+        <woe_id>29389236</woe_id>
+        <longitude>19</longitude>
+        <woe_name>Danilovgrad</woe_name>
+        <fips>MJ00</fips>
+        <woe_label>Danilovgrad, ME, Montenegro</woe_label>
+        <latitude>42</latitude>
+        <iso_a2>ME</iso_a2>
+        <postal>DA</postal>
+        <type>Opština</type>
+        <id>ME.DA</id>
+      </desc>
+    </path>
+    <path d="M 437.9791 278.4044 436.6333 301.5093 427.015 302.6288 422.5185 310.339 431.2997 318.8569 432.7251 341.3161 432.3998 351.999 421.1915 367.0139 408.0726 355.0807 404.8636 337.6156 393.5387 336.1809 382.4542 340.6201 381.3108 348.627 366.3794 361.93 341.5881 366.8918 322.2304 360.3699 310.4813 351.7953 305.8774 329.4183 295.6349 325.9049 294.3875 312.5365 298.7203 293.0609 295.8457 285.0986 293.4768 273.2756 302.0937 264.0618 336.7546 268.724 345.8595 255.1045 368.7431 270.0018 407.7279 269.7572 437.9791 278.4044 Z" id="ME.KL" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>ME.KL</code_hasc>
+        <name>Kolašin</name>
+        <admin>Montenegro</admin>
+        <type_en>Municipality</type_en>
+        <region/>
+        <woe_id>29389235</woe_id>
+        <longitude>19</longitude>
+        <woe_name>Kolašin</woe_name>
+        <fips>MJ00</fips>
+        <woe_label>KolaÅ¡in, ME, Montenegro</woe_label>
+        <latitude>42</latitude>
+        <iso_a2>ME</iso_a2>
+        <postal>KL</postal>
+        <type>Opština</type>
+        <id>ME.KL</id>
+      </desc>
+    </path>
+    <path d="M 373.0075 208.3504 421.5445 223.9556 429.5533 230.13 433.8572 238.4592 432.0639 254.2301 444.1149 267.8859 437.9791 278.4044 407.7279 269.7572 368.7431 270.0018 345.8595 255.1045 336.8071 247.0799 334.0676 232.0404 335.3147 223.3263 339.6603 219.223 358.4338 209.9133 373.0075 208.3504 Z" id="ME.MK" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>ME.MK</code_hasc>
+        <name>Mojkovac</name>
+        <admin>Montenegro</admin>
+        <type_en>Municipality</type_en>
+        <region/>
+        <woe_id>29389232</woe_id>
+        <longitude>19</longitude>
+        <woe_name>Mojkovac</woe_name>
+        <fips>MJ00</fips>
+        <woe_label>Mojkovac, ME, Montenegro</woe_label>
+        <latitude>42</latitude>
+        <iso_a2>ME</iso_a2>
+        <postal>MK</postal>
+        <type>Opština</type>
+        <id>ME.MK</id>
+      </desc>
+    </path>
+    <path d="M 227.0125 252.9708 260.1731 274.684 276.8868 282.1852 295.8457 285.0986 298.7203 293.0609 294.3875 312.5365 295.6349 325.9049 295.908 346.9627 285.1272 352.1624 253.3051 345.8029 246.5034 347.6832 235.5856 354.217 225.0318 380.6641 211.5304 381.1657 204.9868 365.699 188.8549 351.612 169.8833 349.3102 149.0381 339.3693 137.248 356.8616 135.0019 370.2628 124.1044 375.1391 92.1169 375.4232 94.7866 358.4023 91.9847 347.0742 71.0284 316.172 64.7195 296.3195 64.6551 289.1762 73.958 277.9229 63.0953 239.9561 69.3768 224.0498 78.7589 215.6103 95.7053 212.3142 125.7812 214.6742 121.6162 171.713 156.2322 184.7566 178.7081 232.8801 188.6662 243.0876 227.0125 252.9708 Z" id="ME.NK" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>ME.NK</code_hasc>
+        <name>Nikšic</name>
+        <admin>Montenegro</admin>
+        <type_en>Municipality</type_en>
+        <region/>
+        <woe_id>29389238</woe_id>
+        <longitude>18</longitude>
+        <woe_name>Nikšic</woe_name>
+        <fips>MJ00</fips>
+        <woe_label>NikÅ¡iÄ‡, ME, Montenegro</woe_label>
+        <latitude>42</latitude>
+        <iso_a2>ME</iso_a2>
+        <postal>NK</postal>
+        <type>Opština</type>
+        <id>ME.NK</id>
+      </desc>
+    </path>
+    <path d="M 233.7844 114.1183 234.0653 158.7969 242.9209 180.3815 242.6175 187.3222 228.3359 187.0452 220.1505 196.2449 213.7659 212.944 215.2274 224.4046 229.1945 234.1421 230.1198 250.7966 227.0125 252.9708 188.6662 243.0876 178.7081 232.8801 156.2322 184.7566 121.6162 171.713 129.523 149.1033 142.9665 131.2927 135.8405 127.519 140.5843 120.9562 179.6065 93.8631 187.5675 91.5567 184.0678 84.3893 207.5144 80.6728 214.7351 82.9328 224.6758 91.7922 225.1013 100.9999 233.7844 114.1183 Z" id="ME.PU" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>ME.PU</code_hasc>
+        <name>Plužine</name>
+        <admin>Montenegro</admin>
+        <type_en>Municipality</type_en>
+        <region/>
+        <woe_id>29389230</woe_id>
+        <longitude>18</longitude>
+        <woe_name>Plužine</woe_name>
+        <fips>MJ00</fips>
+        <woe_label>PluÅ¾ine, ME, Montenegro</woe_label>
+        <latitude>43</latitude>
+        <iso_a2>ME</iso_a2>
+        <postal>PU</postal>
+        <type>Opština</type>
+        <id>ME.PU</id>
+      </desc>
+    </path>
+    <path d="M 400.8048 139.4154 394.4199 170.6005 385.5753 184.0283 377.2803 188.9688 373.0075 208.3504 358.4338 209.9133 331.9786 178.4728 292.4043 149.6053 279.0425 143.8817 257.8126 145.2046 250.7865 137.6802 243.9255 104.2896 258.1676 99.5797 241.2679 57.2395 229.1798 41.7144 222.5565 43.2599 224.2403 35.1434 220.4094 28.8322 210.8948 23.7994 212.6718 17.012 232.9085 1.5144 239.7113 1 250.6751 16.3991 255.6648 18.2878 267.9775 16.0267 276.1848 6.7513 297.8153 8.5243 291.5901 17.9031 291.5477 29.6973 296.1921 40.6178 349.4461 70.5756 378.9199 108.464 390.3374 130.2724 400.8048 139.4154 Z" id="ME.PL" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>ME.PL</code_hasc>
+        <name>Pljevlja</name>
+        <admin>Montenegro</admin>
+        <type_en>Municipality</type_en>
+        <region/>
+        <woe_id>29389226</woe_id>
+        <longitude>19</longitude>
+        <woe_name>Pljevlja</woe_name>
+        <fips>MJ00</fips>
+        <woe_label>Pljevlja, ME, Montenegro</woe_label>
+        <latitude>43</latitude>
+        <iso_a2>ME</iso_a2>
+        <postal>PL</postal>
+        <type>Opština</type>
+        <id>ME.PL</id>
+      </desc>
+    </path>
+    <path d="M 421.1915 367.0139 430.0467 379.6549 413.6545 399.8134 408.1603 421.0561 396.2302 430.8111 386.2994 451.3902 355.1085 485.2678 349.6119 504.9515 312.9253 556.7049 293.5197 536.626 268.5867 527.3752 260.8414 513.6403 268.9494 499.3218 271.5305 484.9021 239.4492 450.6979 217.0816 432.9768 216.0843 428.7631 225.0123 428.2344 241.814 435.3632 289.6489 437.4524 296.99 403.3316 306.5695 392.6716 309.4551 374.2783 322.2304 360.3699 341.5881 366.8918 366.3794 361.93 381.3108 348.627 382.4542 340.6201 393.5387 336.1809 404.8636 337.6156 408.0726 355.0807 421.1915 367.0139 Z" id="ME.PG" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>ME.PG</code_hasc>
+        <name>Podgorica</name>
+        <admin>Montenegro</admin>
+        <type_en>Municipality</type_en>
+        <region/>
+        <woe_id>29389237</woe_id>
+        <longitude>19</longitude>
+        <woe_name>Podgorica</woe_name>
+        <fips>MJ00</fips>
+        <woe_label>Podgorica, ME, Montenegro</woe_label>
+        <latitude>42</latitude>
+        <iso_a2>ME</iso_a2>
+        <postal>PG</postal>
+        <type>Opština</type>
+        <id>ME.PG</id>
+      </desc>
+    </path>
+    <path d="M 134.7999 487.0123 135.6486 480.389 124.9054 474.836 124.8936 474.7993 122.9679 468.7842 120.6886 461.6703 124.164 462.9341 132.8673 467.9008 137.273 472.5478 139.4403 461.0793 132.9613 445.4 133.7119 438.0556 140.7332 443.8728 148.059 458.3799 141.4318 479.1959 134.7999 487.0123 Z" id="ME.TI" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>ME.TI</code_hasc>
+        <name>Tivat</name>
+        <admin>Montenegro</admin>
+        <type_en>Municipality</type_en>
+        <region/>
+        <woe_id>29389245</woe_id>
+        <longitude>18</longitude>
+        <woe_name>Tivat</woe_name>
+        <fips>MJ00</fips>
+        <woe_label>Tivat, ME, Montenegro</woe_label>
+        <latitude>42</latitude>
+        <iso_a2>ME</iso_a2>
+        <postal>TI</postal>
+        <type>Opština</type>
+        <id>ME.TI</id>
+      </desc>
+    </path>
+    <path d="M 242.6175 187.3222 254.8848 196.7303 271.4076 195.7482 282.2886 210.1281 298.3676 207.644 310.432 221.4738 334.0676 232.0404 336.8071 247.0799 345.8595 255.1045 336.7546 268.724 302.0937 264.0618 293.4768 273.2756 295.8457 285.0986 276.8868 282.1852 260.1731 274.684 227.0125 252.9708 230.1198 250.7966 229.1945 234.1421 215.2274 224.4046 213.7659 212.944 220.1505 196.2449 228.3359 187.0452 242.6175 187.3222 Z" id="ME.SA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>ME.SA</code_hasc>
+        <name>Šavnik</name>
+        <admin>Montenegro</admin>
+        <type_en>Municipality</type_en>
+        <region/>
+        <woe_id>29389234</woe_id>
+        <longitude>19</longitude>
+        <woe_name>Šavnik</woe_name>
+        <fips>MJ00</fips>
+        <woe_label>Å avnik, ME, Montenegro</woe_label>
+        <latitude>42</latitude>
+        <iso_a2>ME</iso_a2>
+        <postal>SA</postal>
+        <type>Opština</type>
+        <id>ME.SA</id>
+      </desc>
+    </path>
+    <path d="M 358.4338 209.9133 339.6603 219.223 335.3147 223.3263 334.0676 232.0404 310.432 221.4738 298.3676 207.644 282.2886 210.1281 271.4076 195.7482 254.8848 196.7303 242.6175 187.3222 242.9209 180.3815 234.0653 158.7969 233.7844 114.1183 237.8197 113.4216 243.9255 104.2896 250.7865 137.6802 257.8126 145.2046 279.0425 143.8817 292.4043 149.6053 331.9786 178.4728 358.4338 209.9133 Z" id="ME.ZA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>ME.ZA</code_hasc>
+        <name>Žabljak</name>
+        <admin>Montenegro</admin>
+        <type_en>Municipality</type_en>
+        <region/>
+        <woe_id>29389231</woe_id>
+        <longitude>19</longitude>
+        <woe_name>Žabljak</woe_name>
+        <fips>MJ00</fips>
+        <woe_label>Å½abljak, ME, Montenegro</woe_label>
+        <latitude>43</latitude>
+        <iso_a2>ME</iso_a2>
+        <postal>ZA</postal>
+        <type>Opština</type>
+        <id>ME.ZA</id>
+      </desc>
+    </path>
+  </g>
+</svg>

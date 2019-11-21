@@ -1,0 +1,1105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="north_carolina">
+    <path d="M 627.7486 242.1333 667.9924 242.1333 671.9509 257.3072 674.5898 265.8837 666.673 267.8629 670.6314 280.3979 664.6938 283.0369 659.4159 278.4187 660.7353 272.4811 656.1172 263.9045 650.1796 257.9669 642.9225 257.3072 639.6238 252.0293 627.7486 242.1333 Z" id="US.NC.053" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Currituck County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>053</fips>
+        <incits>37053</incits>
+        <id>US.NC.053</id>
+        <population>24396</population>
+      </desc>
+    </path>
+    <path d="M 648.2004 311.4055 649.5198 310.086 651.4991 292.9329 656.1172 285.6758 664.6938 283.0369 670.6314 280.3979 666.673 267.8629 674.5898 265.8837 677.8885 273.1408 696.3611 304.8081 699 316.6834 697.0208 332.517 693.0624 347.6909 672.6106 352.3091 660.0756 310.7457 648.2004 311.4055 Z" id="US.NC.055" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dare County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>055</fips>
+        <incits>37055</incits>
+        <id>US.NC.055</id>
+        <population>35019</population>
+      </desc>
+    </path>
+    <path d="M 602.0189 308.1068 620.4915 308.7665 631.0473 309.4263 628.4083 315.3639 635.0057 316.6834 638.3043 308.7665 648.2004 311.4055 660.0756 310.7457 672.6106 352.3091 659.4159 357.587 651.4991 362.8648 651.4991 358.9064 646.8809 353.6285 630.3875 346.3715 624.4499 343.7325 617.1928 337.7949 611.2552 335.8157 605.9773 327.8989 605.9773 322.621 611.9149 322.621 615.2136 319.982 607.9565 316.0236 602.0189 308.1068 Z" id="US.NC.095" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hyde County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>095</fips>
+        <incits>37095</incits>
+        <id>US.NC.095</id>
+        <population>5721</population>
+      </desc>
+    </path>
+    <path d="M 557.1569 265.8837 564.414 248.0709 566.3932 244.7722 561.1153 242.1333 580.2476 242.793 578.2684 248.0709 578.9282 254.0085 592.1229 257.3072 597.4008 261.9253 596.741 265.8837 576.2892 266.5435 557.1569 265.8837 Z" id="US.NC.091" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hertford County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>091</fips>
+        <incits>37091</incits>
+        <id>US.NC.091</id>
+        <population>24431</population>
+      </desc>
+    </path>
+    <path d="M 607.9565 257.3072 616.5331 255.328 622.4707 263.9045 627.0888 266.5435 639.6238 280.3979 623.7902 283.6966 621.1512 283.0369 620.4915 279.0784 607.2968 276.4395 605.9773 266.5435 607.9565 257.3072 Z" id="US.NC.143" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Perquimans County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>143</fips>
+        <incits>37143</incits>
+        <id>US.NC.143</id>
+        <population>13601</population>
+      </desc>
+    </path>
+    <path d="M 609.9357 242.1333 627.7486 242.1333 639.6238 252.0293 642.9225 257.3072 650.1796 257.9669 656.1172 263.9045 660.7353 272.4811 659.4159 278.4187 650.8393 277.0992 649.5198 272.4811 641.603 263.9045 636.3251 262.5851 633.6862 255.9877 617.8526 248.7306 613.8941 245.4319 609.9357 242.1333 Z" id="US.NC.029" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Camden County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>029</fips>
+        <incits>37029</incits>
+        <id>US.NC.029</id>
+        <population>10187</population>
+      </desc>
+    </path>
+    <path d="M 580.2476 242.793 609.9357 242.1333 613.8941 245.4319 616.5331 255.328 607.9565 257.3072 597.4008 261.9253 592.1229 257.3072 578.9282 254.0085 578.2684 248.0709 580.2476 242.793 Z" id="US.NC.073" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Gates County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>073</fips>
+        <incits>37073</incits>
+        <id>US.NC.073</id>
+        <population>11650</population>
+      </desc>
+    </path>
+    <path d="M 613.8941 245.4319 617.8526 248.7306 633.6862 255.9877 636.3251 262.5851 641.603 263.9045 649.5198 272.4811 650.8393 277.0992 639.6238 280.3979 627.0888 266.5435 622.4707 263.9045 616.5331 255.328 613.8941 245.4319 Z" id="US.NC.139" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pasquotank County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>139</fips>
+        <incits>37139</incits>
+        <id>US.NC.139</id>
+        <population>39981</population>
+      </desc>
+    </path>
+    <path d="M 547.9206 279.0784 554.518 277.759 550.5595 271.8214 551.2193 268.5227 557.1569 265.8837 576.2892 266.5435 596.741 265.8837 594.7618 273.8006 596.741 280.3979 604.6578 286.9953 598.0605 288.9745 592.7826 295.5718 582.8866 299.5302 580.2476 292.9329 573.6503 296.2316 570.3516 289.6342 559.1361 290.294 558.4764 285.6758 547.9206 279.0784 Z" id="US.NC.015" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Bertie County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>015</fips>
+        <incits>37015</incits>
+        <id>US.NC.015</id>
+        <population>20344</population>
+      </desc>
+    </path>
+    <path d="M 596.741 265.8837 597.4008 261.9253 607.9565 257.3072 605.9773 266.5435 607.2968 276.4395 620.4915 279.0784 621.1512 283.0369 611.2552 286.9953 604.6578 286.9953 596.741 280.3979 594.7618 273.8006 596.741 265.8837 Z" id="US.NC.041" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Chowan County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>041</fips>
+        <incits>37041</incits>
+        <id>US.NC.041</id>
+        <population>14726</population>
+      </desc>
+    </path>
+    <path d="M 375.0699 297.551 375.0699 292.9329 375.7297 265.8837 375.7297 265.224 397.5009 265.8837 396.8412 291.6134 397.5009 294.9121 398.8204 297.551 375.0699 297.551 Z" id="US.NC.001" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Alamance County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>001</fips>
+        <incits>37001</incits>
+        <id>US.NC.001</id>
+        <population>154378</population>
+      </desc>
+    </path>
+    <path d="M 235.206 285.0161 239.8242 283.0369 258.2968 281.7174 260.276 288.3147 257.6371 296.2316 252.3592 302.8289 249.7202 298.8705 235.206 300.8497 233.8866 290.9537 235.206 285.0161 Z" id="US.NC.003" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Alexander County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>003</fips>
+        <incits>37003</incits>
+        <id>US.NC.003</id>
+        <population>36930</population>
+      </desc>
+    </path>
+    <path d="M 233.2268 240.1541 268.8526 240.8138 262.9149 250.0501 263.5747 253.3488 258.9565 255.328 253.6786 250.7098 242.4631 255.9877 233.2268 240.1541 Z" id="US.NC.005" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Alleghany County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>005</fips>
+        <incits>37005</incits>
+        <id>US.NC.005</id>
+        <population>10939</population>
+      </desc>
+    </path>
+    <path d="M 314.3743 378.0388 317.0132 347.6909 320.3119 350.9896 326.9093 349.6701 332.8469 351.6493 339.4442 356.9272 346.0416 355.6078 350.6597 370.1219 344.7221 378.6985 314.3743 378.0388 Z" id="US.NC.007" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Anson County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>007</fips>
+        <incits>37007</incits>
+        <id>US.NC.007</id>
+        <population>26161</population>
+      </desc>
+    </path>
+    <path d="M 233.2268 240.1541 242.4631 255.9877 235.8658 255.328 223.3308 266.5435 210.7958 257.3072 203.5388 254.6682 206.1777 248.7306 205.518 242.793 208.1569 238.8346 233.2268 240.1541 Z" id="US.NC.009" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ashe County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>009</fips>
+        <incits>37009</incits>
+        <id>US.NC.009</id>
+        <population>27151</population>
+      </desc>
+    </path>
+    <path d="M 176.4896 277.0992 179.7883 275.7798 189.0246 262.5851 189.6843 268.5227 195.6219 271.8214 197.6011 276.4395 202.879 279.7382 197.6011 287.655 189.6843 285.0161 187.0454 288.3147 184.4064 292.2732 179.7883 289.6342 176.4896 277.0992 Z" id="US.NC.011" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Avery County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>011</fips>
+        <incits>37011</incits>
+        <id>US.NC.011</id>
+        <population>17713</population>
+      </desc>
+    </path>
+    <path d="M 560.4556 306.1276 574.9698 312.0652 586.1853 308.1068 602.0189 308.1068 607.9565 316.0236 615.2136 319.982 611.9149 322.621 605.9773 322.621 605.9773 327.8989 611.2552 335.8157 603.9981 337.7949 602.6786 345.052 586.1853 346.3715 582.2268 343.7325 576.949 339.7741 559.1361 330.5378 559.7958 322.621 565.7335 318.0028 560.4556 313.3847 560.4556 306.1276 Z" id="US.NC.013" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Beaufort County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>013</fips>
+        <incits>37013</incits>
+        <id>US.NC.013</id>
+        <population>47464</population>
+      </desc>
+    </path>
+    <path d="M 424.5501 376.0595 431.1474 374.7401 455.5577 374.7401 456.2174 374.0803 470.0718 389.2543 475.3497 398.4905 475.3497 401.7892 481.9471 405.0879 475.3497 410.3658 469.4121 413.0047 460.8355 412.345 443.0227 404.4282 430.4877 405.7476 427.8488 403.7684 428.5085 397.8308 432.4669 388.5945 424.5501 376.0595 Z" id="US.NC.017" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Bladen County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>017</fips>
+        <incits>37017</incits>
+        <id>US.NC.017</id>
+        <population>34843</population>
+      </desc>
+    </path>
+    <path d="M 482.6068 413.6645 493.1626 415.6437 499.1002 423.5605 501.0794 436.7552 499.7599 444.0123 503.7183 458.5265 498.4405 461.1654 490.5236 453.2486 475.3497 451.9291 456.2174 455.8875 445.0019 445.9915 445.6616 440.7136 451.5992 437.4149 452.9187 430.8176 456.8771 428.1786 462.8147 430.8176 466.1134 425.5397 475.3497 424.88 482.6068 413.6645 Z" id="US.NC.019" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Brunswick County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>019</fips>
+        <incits>37019</incits>
+        <id>US.NC.019</id>
+        <population>115301</population>
+      </desc>
+    </path>
+    <path d="M 113.155 310.086 119.7524 309.4263 142.8431 300.19 151.4197 298.8705 161.3157 308.1068 159.9962 309.4263 162.6352 319.3223 169.2325 321.9612 164.6144 321.9612 161.9754 326.5794 156.6975 323.9405 145.482 328.5586 132.9471 328.5586 124.3705 329.8781 119.7524 326.5794 122.3913 318.6626 113.155 310.086 Z" id="US.NC.021" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Buncombe County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>021</fips>
+        <incits>37021</incits>
+        <id>US.NC.021</id>
+        <population>247912</population>
+      </desc>
+    </path>
+    <path d="M 187.0454 288.3147 189.6843 285.0161 197.6011 287.655 205.518 294.9121 214.0945 298.8705 217.3932 302.1692 225.9698 302.1692 231.2476 304.1484 219.3724 318.6626 206.1777 318.0028 204.8582 316.0236 196.2817 318.0028 192.983 306.7873 183.087 300.19 189.6843 294.2524 187.0454 288.3147 Z" id="US.NC.023" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Burke County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>023</fips>
+        <incits>37023</incits>
+        <id>US.NC.023</id>
+        <population>89842</population>
+      </desc>
+    </path>
+    <path d="M 277.4291 323.9405 281.3875 323.9405 316.3535 323.9405 299.2004 349.0104 295.9017 347.0312 286.6654 342.413 280.0681 329.8781 277.4291 323.9405 Z" id="US.NC.025" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cabarrus County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>025</fips>
+        <incits>37025</incits>
+        <id>US.NC.025</id>
+        <population>187226</population>
+      </desc>
+    </path>
+    <path d="M 197.6011 276.4395 218.0529 275.7798 228.6087 279.0784 235.206 285.0161 233.8866 290.9537 235.206 300.8497 231.2476 304.1484 225.9698 302.1692 217.3932 302.1692 214.0945 298.8705 205.518 294.9121 197.6011 287.655 202.879 279.7382 197.6011 276.4395 Z" id="US.NC.027" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Caldwell County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>027</fips>
+        <incits>37027</incits>
+        <id>US.NC.027</id>
+        <population>81990</population>
+      </desc>
+    </path>
+    <path d="M 567.0529 378.6985 576.949 378.0388 582.8866 375.3998 592.7826 375.3998 598.0605 373.4206 600.6994 368.1427 596.0813 364.844 630.3875 346.3715 646.8809 353.6285 651.4991 358.9064 651.4991 362.8648 650.1796 362.8648 632.3667 376.0595 622.4707 385.2958 613.2344 398.4905 606.6371 398.4905 603.9981 393.2127 598.0605 391.2335 588.1645 391.2335 573.6503 393.2127 564.414 395.8516 565.7335 389.2543 563.7543 381.9972 561.1153 380.018 567.0529 378.6985 Z" id="US.NC.031" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Carteret County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>031</fips>
+        <incits>37031</incits>
+        <id>US.NC.031</id>
+        <population>68434</population>
+      </desc>
+    </path>
+    <path d="M 375.7297 265.224 377.0491 242.793 406.0775 242.793 405.4178 265.8837 397.5009 265.8837 375.7297 265.224 Z" id="US.NC.033" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Caswell County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>033</fips>
+        <incits>37033</incits>
+        <id>US.NC.033</id>
+        <population>23190</population>
+      </desc>
+    </path>
+    <path d="M 219.3724 318.6626 231.2476 304.1484 235.206 300.8497 249.7202 298.8705 252.3592 302.8289 255.6578 307.4471 261.5955 308.7665 264.8941 313.3847 264.2344 320.6418 219.3724 318.6626 Z" id="US.NC.035" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Catawba County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>035</fips>
+        <incits>37035</incits>
+        <id>US.NC.035</id>
+        <population>154810</population>
+      </desc>
+    </path>
+    <path d="M 373.7505 322.621 375.0699 297.551 398.8204 297.551 397.5009 294.9121 415.9735 295.5718 424.5501 295.5718 417.9527 315.3639 423.8904 317.3431 419.2722 322.621 411.3554 315.3639 407.397 314.0444 395.5217 321.9612 390.2439 322.621 373.7505 322.621 Z" id="US.NC.037" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Chatham County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>037</fips>
+        <incits>37037</incits>
+        <id>US.NC.037</id>
+        <population>66817</population>
+      </desc>
+    </path>
+    <path d="M 24.0907 340.4338 28.7089 346.3715 38.6049 343.0728 49.8204 343.7325 46.5217 350.9896 36.6257 353.6285 25.4102 364.1843 1 364.1843 3.6389 345.7117 18.8129 343.7325 24.0907 340.4338 Z" id="US.NC.039" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cherokee County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>039</fips>
+        <incits>37039</incits>
+        <id>US.NC.039</id>
+        <population>27218</population>
+      </desc>
+    </path>
+    <path d="M 25.4102 364.1843 36.6257 353.6285 46.5217 350.9896 53.1191 350.9896 66.3138 363.5246 55.758 364.1843 25.4102 364.1843 Z" id="US.NC.043" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Clay County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>043</fips>
+        <incits>37043</incits>
+        <id>US.NC.043</id>
+        <population>10584</population>
+      </desc>
+    </path>
+    <path d="M 200.8998 349.0104 206.1777 335.156 206.1777 318.0028 219.3724 318.6626 225.31 330.5378 233.2268 337.1352 235.8658 343.0728 235.206 350.3299 200.8998 349.0104 Z" id="US.NC.045" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cleveland County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>045</fips>
+        <incits>37045</incits>
+        <id>US.NC.045</id>
+        <population>97047</population>
+      </desc>
+    </path>
+    <path d="M 411.3554 418.2826 421.2514 405.7476 427.8488 403.7684 430.4877 405.7476 443.0227 404.4282 460.8355 412.345 469.4121 413.0047 475.3497 410.3658 482.6068 413.6645 475.3497 424.88 466.1134 425.5397 462.8147 430.8176 456.8771 428.1786 452.9187 430.8176 451.5992 437.4149 445.6616 440.7136 445.0019 445.9915 411.3554 418.2826 Z" id="US.NC.047" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Columbus County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>047</fips>
+        <incits>37047</incits>
+        <id>US.NC.047</id>
+        <population>57246</population>
+      </desc>
+    </path>
+    <path d="M 536.7051 345.7117 538.6843 339.7741 543.3025 336.4754 559.1361 330.5378 576.949 339.7741 582.2268 343.7325 576.949 347.6909 578.9282 354.948 576.2892 360.2259 582.2268 364.844 590.8034 367.483 596.0813 364.844 600.6994 368.1427 598.0605 373.4206 592.7826 375.3998 582.8866 375.3998 576.949 378.0388 567.0529 378.6985 565.0737 376.7193 565.7335 361.5454 562.4348 358.9064 536.7051 345.7117 Z" id="US.NC.049" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Craven County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>049</fips>
+        <incits>37049</incits>
+        <id>US.NC.049</id>
+        <population>104489</population>
+      </desc>
+    </path>
+    <path d="M 409.3762 349.6701 410.0359 348.3507 426.5293 345.052 433.1267 342.413 446.9811 344.3922 446.3214 352.3091 443.0227 356.2675 445.0019 363.5246 456.2174 374.0803 455.5577 374.7401 431.1474 374.7401 424.5501 376.0595 421.2514 370.1219 414.6541 366.8233 410.0359 360.2259 408.7164 354.2883 409.3762 349.6701 Z" id="US.NC.051" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cumberland County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>051</fips>
+        <incits>37051</incits>
+        <id>US.NC.051</id>
+        <population>325871</population>
+      </desc>
+    </path>
+    <path d="M 307.7769 286.9953 311.7353 285.0161 322.2911 285.0161 322.2911 283.0369 335.4858 284.3563 335.4858 290.9537 334.1664 323.9405 324.9301 323.9405 322.9509 318.0028 313.0548 310.086 303.1588 304.8081 301.8393 298.2108 309.7561 290.294 307.7769 286.9953 Z" id="US.NC.057" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Davidson County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>057</fips>
+        <incits>37057</incits>
+        <id>US.NC.057</id>
+        <population>163420</population>
+      </desc>
+    </path>
+    <path d="M 284.0265 296.8913 284.6862 281.0577 299.8601 281.0577 303.1588 280.3979 307.7769 286.9953 309.7561 290.294 301.8393 298.2108 303.1588 304.8081 293.9225 298.8705 284.0265 296.8913 Z" id="US.NC.059" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Davie County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>059</fips>
+        <incits>37059</incits>
+        <id>US.NC.059</id>
+        <population>41554</population>
+      </desc>
+    </path>
+    <path d="M 482.6068 348.3507 491.8431 348.3507 504.3781 350.3299 508.3365 349.6701 513.6144 351.6493 516.913 362.8648 520.8715 365.5038 522.8507 369.4622 520.8715 385.2958 486.5652 385.2958 479.9679 383.3166 483.9263 370.7817 482.6068 348.3507 Z" id="US.NC.061" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Duplin County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>061</fips>
+        <incits>37061</incits>
+        <id>US.NC.061</id>
+        <population>60084</population>
+      </desc>
+    </path>
+    <path d="M 415.9735 295.5718 421.2514 266.5435 433.1267 266.5435 432.4669 278.4187 437.0851 279.7382 441.0435 284.3563 436.4253 291.6134 430.4877 295.5718 424.5501 295.5718 415.9735 295.5718 Z" id="US.NC.063" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Durham County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>063</fips>
+        <incits>37063</incits>
+        <id>US.NC.063</id>
+        <population>288133</population>
+      </desc>
+    </path>
+    <path d="M 424.5501 295.5718 430.4877 295.5718 436.4253 291.6134 441.0435 284.3563 437.0851 279.7382 441.7032 279.0784 452.9187 283.0369 462.155 286.3355 474.0302 295.5718 475.3497 299.5302 458.8563 308.1068 440.3837 322.621 423.8904 317.3431 417.9527 315.3639 424.5501 295.5718 Z" id="US.NC.183" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wake County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>183</fips>
+        <incits>37183</incits>
+        <id>US.NC.183</id>
+        <population>974289</population>
+      </desc>
+    </path>
+    <path d="M 508.9962 295.5718 512.9546 284.3563 518.8922 273.1408 532.087 278.4187 532.7467 282.3771 541.983 284.3563 547.2609 292.2732 546.6011 299.5302 543.3025 298.2108 521.5312 310.7457 517.5728 306.1276 514.9338 298.8705 508.9962 295.5718 Z" id="US.NC.065" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Edgecombe County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>065</fips>
+        <incits>37065</incits>
+        <id>US.NC.065</id>
+        <population>55574</population>
+      </desc>
+    </path>
+    <path d="M 303.1588 265.8837 303.1588 264.5643 336.1456 265.224 335.4858 284.3563 322.2911 283.0369 322.2911 285.0161 311.7353 285.0161 307.7769 286.9953 303.1588 280.3979 299.8601 281.0577 298.5406 277.759 304.4783 274.4603 303.1588 265.8837 Z" id="US.NC.067" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Forsyth County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>067</fips>
+        <incits>37067</incits>
+        <id>US.NC.067</id>
+        <population>361220</population>
+      </desc>
+    </path>
+    <path d="M 452.9187 283.0369 452.9187 278.4187 456.2174 271.1616 463.4745 271.8214 465.4537 266.5435 471.3913 263.9045 485.2457 265.8837 494.482 269.1824 483.9263 285.0161 475.3497 299.5302 474.0302 295.5718 462.155 286.3355 452.9187 283.0369 Z" id="US.NC.069" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Franklin County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>069</fips>
+        <incits>37069</incits>
+        <id>US.NC.069</id>
+        <population>62260</population>
+      </desc>
+    </path>
+    <path d="M 225.31 330.5378 264.2344 331.8573 265.5539 335.8157 259.6163 340.4338 260.276 350.9896 258.2968 351.6493 235.206 350.3299 235.8658 343.0728 233.2268 337.1352 225.31 330.5378 Z" id="US.NC.071" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Gaston County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>071</fips>
+        <incits>37071</incits>
+        <id>US.NC.071</id>
+        <population>209420</population>
+      </desc>
+    </path>
+    <path d="M 29.3686 327.2391 41.9036 327.8989 59.0567 331.1975 51.1399 341.7533 49.8204 343.7325 38.6049 343.0728 28.7089 346.3715 24.0907 340.4338 24.7505 331.8573 29.3686 327.2391 Z" id="US.NC.075" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Graham County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>075</fips>
+        <incits>37075</incits>
+        <id>US.NC.075</id>
+        <population>8736</population>
+      </desc>
+    </path>
+    <path d="M 433.1267 266.5435 433.1267 242.793 460.1758 242.793 455.5577 249.3904 455.5577 270.5019 456.2174 271.1616 452.9187 278.4187 452.9187 283.0369 441.7032 279.0784 437.0851 279.7382 432.4669 278.4187 433.1267 266.5435 Z" id="US.NC.077" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Granville County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>077</fips>
+        <incits>37077</incits>
+        <id>US.NC.077</id>
+        <population>58275</population>
+      </desc>
+    </path>
+    <path d="M 509.656 318.6626 518.8922 312.0652 526.1493 318.6626 534.0662 323.9405 536.7051 329.8781 524.1701 335.8157 518.8922 333.1767 510.9754 334.4962 508.9962 329.2183 509.656 318.6626 Z" id="US.NC.079" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Greene County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>079</fips>
+        <incits>37079</incits>
+        <id>US.NC.079</id>
+        <population>21232</population>
+      </desc>
+    </path>
+    <path d="M 335.4858 290.9537 335.4858 284.3563 336.1456 265.224 375.7297 265.8837 375.0699 292.9329 335.4858 290.9537 Z" id="US.NC.081" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Guilford County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>081</fips>
+        <incits>37081</incits>
+        <id>US.NC.081</id>
+        <population>506610</population>
+      </desc>
+    </path>
+    <path d="M 494.482 269.1824 499.7599 261.9253 503.0586 244.7722 514.9338 247.4112 523.5104 247.4112 530.1078 252.689 528.1285 257.3072 530.7675 261.2656 539.344 259.9461 543.3025 268.5227 550.5595 271.8214 554.518 277.759 547.9206 279.0784 541.983 284.3563 532.7467 282.3771 532.087 278.4187 518.8922 273.1408 504.3781 273.8006 494.482 269.1824 Z" id="US.NC.083" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Halifax County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>083</fips>
+        <incits>37083</incits>
+        <id>US.NC.083</id>
+        <population>53453</population>
+      </desc>
+    </path>
+    <path d="M 402.7788 339.1144 419.2722 322.621 423.8904 317.3431 440.3837 322.621 443.6824 324.6002 453.5784 338.4546 446.9811 344.3922 433.1267 342.413 426.5293 345.052 410.0359 348.3507 400.1399 342.413 402.7788 339.1144 Z" id="US.NC.085" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Harnett County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>085</fips>
+        <incits>37085</incits>
+        <id>US.NC.085</id>
+        <population>124987</population>
+      </desc>
+    </path>
+    <path d="M 107.2174 301.5095 113.155 310.086 122.3913 318.6626 119.7524 326.5794 124.3705 329.8781 117.7732 337.7949 110.5161 340.4338 99.9603 329.8781 90.724 322.621 90.0643 310.7457 84.1267 308.7665 92.0435 303.4887 97.9811 301.5095 107.2174 301.5095 Z" id="US.NC.087" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Haywood County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>087</fips>
+        <incits>37087</incits>
+        <id>US.NC.087</id>
+        <population>59183</population>
+      </desc>
+    </path>
+    <path d="M 124.3705 329.8781 132.9471 328.5586 145.482 328.5586 156.6975 323.9405 161.9754 326.5794 161.9754 332.517 155.3781 341.0936 154.7183 348.3507 144.8223 349.6701 137.5652 351.6493 134.9263 341.0936 124.3705 329.8781 Z" id="US.NC.089" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Henderson County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>089</fips>
+        <incits>37089</incits>
+        <id>US.NC.089</id>
+        <population>109540</population>
+      </desc>
+    </path>
+    <path d="M 381.0076 360.2259 390.2439 350.9896 397.5009 347.0312 407.397 350.3299 409.3762 349.6701 408.7164 354.2883 410.0359 360.2259 414.6541 366.8233 402.7788 376.0595 390.2439 376.0595 388.9244 367.483 381.0076 360.2259 Z" id="US.NC.093" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hoke County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>093</fips>
+        <incits>37093</incits>
+        <id>US.NC.093</id>
+        <population>51322</population>
+      </desc>
+    </path>
+    <path d="M 252.3592 302.8289 257.6371 296.2316 260.276 288.3147 258.2968 281.7174 270.172 280.3979 284.6862 281.0577 284.0265 296.8913 278.7486 310.7457 281.3875 323.9405 277.4291 323.9405 268.1928 323.2807 264.8941 325.2599 264.2344 320.6418 264.8941 313.3847 261.5955 308.7665 255.6578 307.4471 252.3592 302.8289 Z" id="US.NC.097" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Iredell County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>097</fips>
+        <incits>37097</incits>
+        <id>US.NC.097</id>
+        <population>164517</population>
+      </desc>
+    </path>
+    <path d="M 90.724 322.621 99.9603 329.8781 110.5161 340.4338 109.8563 345.052 105.2382 348.3507 105.8979 352.3091 100.62 357.587 103.9187 360.8856 96.0019 363.5246 92.7032 356.9272 82.8072 345.052 78.189 337.1352 76.8696 326.5794 86.1059 321.9612 90.724 322.621 Z" id="US.NC.099" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jackson County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>099</fips>
+        <incits>37099</incits>
+        <id>US.NC.099</id>
+        <population>40919</population>
+      </desc>
+    </path>
+    <path d="M 440.3837 322.621 458.8563 308.1068 475.3497 299.5302 480.6276 306.1276 485.2457 316.0236 490.5236 317.3431 483.2665 330.5378 482.6068 335.8157 472.7108 339.1144 472.051 341.0936 463.4745 343.0728 456.8771 342.413 453.5784 338.4546 443.6824 324.6002 440.3837 322.621 Z" id="US.NC.101" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Johnston County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>101</fips>
+        <incits>37101</incits>
+        <id>US.NC.101</id>
+        <population>177967</population>
+      </desc>
+    </path>
+    <path d="M 516.913 362.8648 526.8091 357.587 534.0662 350.3299 536.7051 345.7117 562.4348 358.9064 565.7335 361.5454 565.0737 376.7193 567.0529 378.6985 561.1153 380.018 553.1985 368.8025 543.9622 370.1219 534.7259 365.5038 523.5104 364.844 520.8715 365.5038 516.913 362.8648 Z" id="US.NC.103" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jones County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>103</fips>
+        <incits>37103</incits>
+        <id>US.NC.103</id>
+        <population>10215</population>
+      </desc>
+    </path>
+    <path d="M 390.2439 322.621 395.5217 321.9612 407.397 314.0444 411.3554 315.3639 419.2722 322.621 402.7788 339.1144 397.5009 336.4754 388.9244 325.9197 390.2439 322.621 Z" id="US.NC.105" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lee County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>105</fips>
+        <incits>37105</incits>
+        <id>US.NC.105</id>
+        <population>60266</population>
+      </desc>
+    </path>
+    <path d="M 508.3365 349.6701 509.656 336.4754 510.9754 334.4962 518.8922 333.1767 524.1701 335.8157 536.7051 329.8781 543.3025 336.4754 538.6843 339.7741 536.7051 345.7117 534.0662 350.3299 526.8091 357.587 516.913 362.8648 513.6144 351.6493 508.3365 349.6701 Z" id="US.NC.107" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lenoir County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>107</fips>
+        <incits>37107</incits>
+        <id>US.NC.107</id>
+        <population>58914</population>
+      </desc>
+    </path>
+    <path d="M 219.3724 318.6626 264.2344 320.6418 264.8941 325.2599 264.2344 331.8573 225.31 330.5378 219.3724 318.6626 Z" id="US.NC.109" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lincoln County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>109</fips>
+        <incits>37109</incits>
+        <id>US.NC.109</id>
+        <population>79740</population>
+      </desc>
+    </path>
+    <path d="M 46.5217 350.9896 49.8204 343.7325 51.1399 341.7533 68.293 339.7741 78.189 337.1352 82.8072 345.052 92.7032 356.9272 96.0019 363.5246 66.3138 363.5246 53.1191 350.9896 46.5217 350.9896 Z" id="US.NC.113" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Macon County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>113</fips>
+        <incits>37113</incits>
+        <id>US.NC.113</id>
+        <population>33857</population>
+      </desc>
+    </path>
+    <path d="M 107.2174 301.5095 111.8355 294.9121 112.4953 289.6342 117.7732 290.294 121.0718 286.3355 132.9471 279.7382 136.2457 283.0369 134.9263 287.655 143.5028 286.9953 144.1626 291.6134 148.121 292.9329 151.4197 298.8705 142.8431 300.19 119.7524 309.4263 113.155 310.086 107.2174 301.5095 Z" id="US.NC.115" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Madison County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>115</fips>
+        <incits>37115</incits>
+        <id>US.NC.115</id>
+        <population>21022</population>
+      </desc>
+    </path>
+    <path d="M 541.983 284.3563 547.9206 279.0784 558.4764 285.6758 559.1361 290.294 570.3516 289.6342 573.6503 296.2316 580.2476 292.9329 582.8866 299.5302 592.7826 295.5718 586.1853 308.1068 574.9698 312.0652 560.4556 306.1276 553.8582 301.5095 546.6011 299.5302 547.2609 292.2732 541.983 284.3563 Z" id="US.NC.117" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Martin County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>117</fips>
+        <incits>37117</incits>
+        <id>US.NC.117</id>
+        <population>23699</population>
+      </desc>
+    </path>
+    <path d="M 161.3157 308.1068 165.9338 306.7873 172.5312 298.8705 184.4064 293.5926 184.4064 292.2732 187.0454 288.3147 189.6843 294.2524 183.087 300.19 192.983 306.7873 196.2817 318.0028 194.3025 321.3015 185.0662 321.9612 169.2325 321.9612 162.6352 319.3223 159.9962 309.4263 161.3157 308.1068 Z" id="US.NC.111" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>McDowell County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>111</fips>
+        <incits>37111</incits>
+        <id>US.NC.111</id>
+        <population>44961</population>
+      </desc>
+    </path>
+    <path d="M 258.2968 351.6493 260.276 350.9896 259.6163 340.4338 265.5539 335.8157 264.2344 331.8573 264.8941 325.2599 268.1928 323.2807 277.4291 323.9405 280.0681 329.8781 286.6654 342.413 295.9017 347.0312 279.4083 360.2259 273.4707 362.8648 266.2136 354.948 257.6371 359.5662 258.2968 351.6493 Z" id="US.NC.119" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Mecklenburg County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>119</fips>
+        <incits>37119</incits>
+        <id>US.NC.119</id>
+        <population>990977</population>
+      </desc>
+    </path>
+    <path d="M 150.1002 279.0784 154.7183 275.7798 171.2117 273.1408 176.4896 277.0992 179.7883 289.6342 184.4064 292.2732 184.4064 293.5926 172.5312 298.8705 171.2117 290.294 163.9546 285.0161 150.1002 279.0784 Z" id="US.NC.121" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Mitchell County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>121</fips>
+        <incits>37121</incits>
+        <id>US.NC.121</id>
+        <population>15328</population>
+      </desc>
+    </path>
+    <path d="M 324.9301 323.9405 334.1664 323.9405 357.9168 323.2807 361.8752 340.4338 365.8336 348.3507 369.1323 350.3299 350.6597 349.0104 347.3611 350.9896 332.8469 351.6493 331.5274 344.3922 334.1664 335.156 330.2079 327.2391 324.9301 323.9405 Z" id="US.NC.123" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Montgomery County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>123</fips>
+        <incits>37123</incits>
+        <id>US.NC.123</id>
+        <population>27571</population>
+      </desc>
+    </path>
+    <path d="M 357.9168 323.2807 373.7505 322.621 390.2439 322.621 388.9244 325.9197 397.5009 336.4754 402.7788 339.1144 400.1399 342.413 410.0359 348.3507 409.3762 349.6701 407.397 350.3299 397.5009 347.0312 390.2439 350.9896 381.0076 360.2259 372.431 358.2467 369.1323 350.3299 365.8336 348.3507 361.8752 340.4338 357.9168 323.2807 Z" id="US.NC.125" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Moore County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>125</fips>
+        <incits>37125</incits>
+        <id>US.NC.125</id>
+        <population>91587</population>
+      </desc>
+    </path>
+    <path d="M 475.3497 299.5302 483.9263 285.0161 494.482 269.1824 504.3781 273.8006 518.8922 273.1408 512.9546 284.3563 508.9962 295.5718 480.6276 306.1276 475.3497 299.5302 Z" id="US.NC.127" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Nash County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>127</fips>
+        <incits>37127</incits>
+        <id>US.NC.127</id>
+        <population>95093</population>
+      </desc>
+    </path>
+    <path d="M 493.1626 415.6437 498.4405 412.345 510.3157 413.6645 520.8715 421.5813 512.2949 431.4773 503.7183 452.5888 503.7183 458.5265 499.7599 444.0123 501.0794 436.7552 499.1002 423.5605 493.1626 415.6437 Z" id="US.NC.129" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>New Hanover County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>129</fips>
+        <incits>37129</incits>
+        <id>US.NC.129</id>
+        <population>213267</population>
+      </desc>
+    </path>
+    <path d="M 503.0586 242.1333 561.1153 242.1333 566.3932 244.7722 564.414 248.0709 557.1569 265.8837 551.2193 268.5227 550.5595 271.8214 543.3025 268.5227 539.344 259.9461 530.7675 261.2656 528.1285 257.3072 530.1078 252.689 523.5104 247.4112 514.9338 247.4112 503.0586 244.7722 503.0586 242.1333 Z" id="US.NC.131" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Northampton County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>131</fips>
+        <incits>37131</incits>
+        <id>US.NC.131</id>
+        <population>20839</population>
+      </desc>
+    </path>
+    <path d="M 520.8715 385.2958 522.8507 369.4622 520.8715 365.5038 523.5104 364.844 534.7259 365.5038 543.9622 370.1219 553.1985 368.8025 561.1153 380.018 563.7543 381.9972 565.7335 389.2543 564.414 395.8516 550.5595 403.1087 536.0454 410.3658 528.7883 403.7684 520.8715 385.2958 Z" id="US.NC.133" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Onslow County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>133</fips>
+        <incits>37133</incits>
+        <id>US.NC.133</id>
+        <population>185220</population>
+      </desc>
+    </path>
+    <path d="M 397.5009 265.8837 405.4178 265.8837 421.2514 266.5435 415.9735 295.5718 397.5009 294.9121 396.8412 291.6134 397.5009 265.8837 Z" id="US.NC.135" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Orange County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>135</fips>
+        <incits>37135</incits>
+        <id>US.NC.135</id>
+        <population>140352</population>
+      </desc>
+    </path>
+    <path d="M 582.2268 343.7325 586.1853 346.3715 602.6786 345.052 603.9981 337.7949 611.2552 335.8157 617.1928 337.7949 624.4499 343.7325 630.3875 346.3715 596.0813 364.844 590.8034 367.483 582.2268 364.844 576.2892 360.2259 578.9282 354.948 576.949 347.6909 582.2268 343.7325 Z" id="US.NC.137" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pamlico County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>137</fips>
+        <incits>37137</incits>
+        <id>US.NC.137</id>
+        <population>12953</population>
+      </desc>
+    </path>
+    <path d="M 475.3497 398.4905 486.5652 385.2958 520.8715 385.2958 528.7883 403.7684 536.0454 410.3658 520.8715 421.5813 510.3157 413.6645 498.4405 412.345 493.1626 415.6437 482.6068 413.6645 475.3497 410.3658 481.9471 405.0879 475.3497 401.7892 475.3497 398.4905 Z" id="US.NC.141" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pender County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>141</fips>
+        <incits>37141</incits>
+        <id>US.NC.141</id>
+        <population>55334</population>
+      </desc>
+    </path>
+    <path d="M 405.4178 265.8837 406.0775 242.793 433.1267 242.793 433.1267 266.5435 421.2514 266.5435 405.4178 265.8837 Z" id="US.NC.145" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Person County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>145</fips>
+        <incits>37145</incits>
+        <id>US.NC.145</id>
+        <population>39276</population>
+      </desc>
+    </path>
+    <path d="M 518.8922 312.0652 521.5312 310.7457 543.3025 298.2108 546.6011 299.5302 553.8582 301.5095 560.4556 306.1276 560.4556 313.3847 565.7335 318.0028 559.7958 322.621 559.1361 330.5378 543.3025 336.4754 536.7051 329.8781 534.0662 323.9405 526.1493 318.6626 518.8922 312.0652 Z" id="US.NC.147" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pitt County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>147</fips>
+        <incits>37147</incits>
+        <id>US.NC.147</id>
+        <population>174263</population>
+      </desc>
+    </path>
+    <path d="M 161.9754 332.517 172.5312 332.517 185.0662 343.7325 185.0662 348.3507 161.3157 347.6909 154.7183 348.3507 155.3781 341.0936 161.9754 332.517 Z" id="US.NC.149" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Polk County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>149</fips>
+        <incits>37149</incits>
+        <id>US.NC.149</id>
+        <population>20411</population>
+      </desc>
+    </path>
+    <path d="M 334.1664 323.9405 335.4858 290.9537 375.0699 292.9329 375.0699 297.551 373.7505 322.621 357.9168 323.2807 334.1664 323.9405 Z" id="US.NC.151" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Randolph County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>151</fips>
+        <incits>37151</incits>
+        <id>US.NC.151</id>
+        <population>142577</population>
+      </desc>
+    </path>
+    <path d="M 332.8469 351.6493 347.3611 350.9896 350.6597 349.0104 369.1323 350.3299 372.431 358.2467 381.0076 360.2259 372.431 364.1843 373.0907 370.7817 363.8544 378.6985 344.7221 378.6985 350.6597 370.1219 346.0416 355.6078 339.4442 356.9272 332.8469 351.6493 Z" id="US.NC.153" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Richmond County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>153</fips>
+        <incits>37153</incits>
+        <id>US.NC.153</id>
+        <population>46405</population>
+      </desc>
+    </path>
+    <path d="M 381.0076 392.5529 390.9036 381.3374 390.2439 376.0595 402.7788 376.0595 414.6541 366.8233 421.2514 370.1219 424.5501 376.0595 432.4669 388.5945 428.5085 397.8308 427.8488 403.7684 421.2514 405.7476 411.3554 418.2826 381.0076 392.5529 Z" id="US.NC.155" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Robeson County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>155</fips>
+        <incits>37155</incits>
+        <id>US.NC.155</id>
+        <population>134841</population>
+      </desc>
+    </path>
+    <path d="M 336.1456 265.224 336.8053 242.793 377.0491 242.793 375.7297 265.224 375.7297 265.8837 336.1456 265.224 Z" id="US.NC.157" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Rockingham County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>157</fips>
+        <incits>37157</incits>
+        <id>US.NC.157</id>
+        <population>91878</population>
+      </desc>
+    </path>
+    <path d="M 284.0265 296.8913 293.9225 298.8705 303.1588 304.8081 313.0548 310.086 322.9509 318.0028 324.9301 323.9405 316.3535 323.9405 281.3875 323.9405 278.7486 310.7457 284.0265 296.8913 Z" id="US.NC.159" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Rowan County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>159</fips>
+        <incits>37159</incits>
+        <id>US.NC.159</id>
+        <population>138323</population>
+      </desc>
+    </path>
+    <path d="M 161.9754 326.5794 164.6144 321.9612 169.2325 321.9612 185.0662 321.9612 194.3025 321.3015 196.2817 318.0028 204.8582 316.0236 206.1777 318.0028 206.1777 335.156 200.8998 349.0104 185.0662 348.3507 185.0662 343.7325 172.5312 332.517 161.9754 332.517 161.9754 326.5794 Z" id="US.NC.161" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Rutherford County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>161</fips>
+        <incits>37161</incits>
+        <id>US.NC.161</id>
+        <population>66956</population>
+      </desc>
+    </path>
+    <path d="M 446.9811 344.3922 453.5784 338.4546 456.8771 342.413 463.4745 343.0728 472.051 341.0936 476.0095 346.3715 482.6068 348.3507 483.9263 370.7817 479.9679 383.3166 486.5652 385.2958 475.3497 398.4905 470.0718 389.2543 456.2174 374.0803 445.0019 363.5246 443.0227 356.2675 446.3214 352.3091 446.9811 344.3922 Z" id="US.NC.163" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Sampson County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>163</fips>
+        <incits>37163</incits>
+        <id>US.NC.163</id>
+        <population>64150</population>
+      </desc>
+    </path>
+    <path d="M 363.8544 378.6985 373.0907 370.7817 372.431 364.1843 381.0076 360.2259 388.9244 367.483 390.2439 376.0595 390.9036 381.3374 381.0076 392.5529 363.8544 378.6985 Z" id="US.NC.165" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Scotland County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>165</fips>
+        <incits>37165</incits>
+        <id>US.NC.165</id>
+        <population>36025</population>
+      </desc>
+    </path>
+    <path d="M 316.3535 323.9405 324.9301 323.9405 330.2079 327.2391 334.1664 335.156 331.5274 344.3922 332.8469 351.6493 326.9093 349.6701 320.3119 350.9896 317.0132 347.6909 307.7769 350.3299 299.2004 349.0104 316.3535 323.9405 Z" id="US.NC.167" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Stanly County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>167</fips>
+        <incits>37167</incits>
+        <id>US.NC.167</id>
+        <population>60635</population>
+      </desc>
+    </path>
+    <path d="M 303.1588 264.5643 304.4783 242.1333 336.8053 242.793 336.1456 265.224 303.1588 264.5643 Z" id="US.NC.169" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Stokes County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>169</fips>
+        <incits>37169</incits>
+        <id>US.NC.169</id>
+        <population>46588</population>
+      </desc>
+    </path>
+    <path d="M 268.8526 240.8138 304.4783 242.1333 303.1588 264.5643 303.1588 265.8837 295.242 263.2448 287.9849 264.5643 278.7486 263.9045 270.172 266.5435 270.8318 259.2864 263.5747 253.3488 262.9149 250.0501 268.8526 240.8138 Z" id="US.NC.171" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Surry County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>171</fips>
+        <incits>37171</incits>
+        <id>US.NC.171</id>
+        <population>73050</population>
+      </desc>
+    </path>
+    <path d="M 29.3686 327.2391 43.8828 319.3223 65.6541 319.3223 69.6125 315.3639 80.1682 312.0652 84.1267 308.7665 90.0643 310.7457 90.724 322.621 86.1059 321.9612 76.8696 326.5794 78.189 337.1352 68.293 339.7741 51.1399 341.7533 59.0567 331.1975 41.9036 327.8989 29.3686 327.2391 Z" id="US.NC.173" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Swain County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>173</fips>
+        <incits>37173</incits>
+        <id>US.NC.173</id>
+        <population>14058</population>
+      </desc>
+    </path>
+    <path d="M 110.5161 340.4338 117.7732 337.7949 124.3705 329.8781 134.9263 341.0936 137.5652 351.6493 132.2873 352.9688 123.7108 358.2467 121.0718 356.2675 103.9187 360.8856 100.62 357.587 105.8979 352.3091 105.2382 348.3507 109.8563 345.052 110.5161 340.4338 Z" id="US.NC.175" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Transylvania County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>175</fips>
+        <incits>37175</incits>
+        <id>US.NC.175</id>
+        <population>32903</population>
+      </desc>
+    </path>
+    <path d="M 623.7902 283.6966 639.6238 280.3979 650.8393 277.0992 659.4159 278.4187 664.6938 283.0369 656.1172 285.6758 651.4991 292.9329 649.5198 310.086 648.2004 311.4055 638.3043 308.7665 635.0057 316.6834 628.4083 315.3639 631.0473 309.4263 620.4915 308.7665 620.4915 302.1692 624.4499 295.5718 622.4707 292.2732 623.7902 283.6966 Z" id="US.NC.177" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Tyrrell County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>177</fips>
+        <incits>37177</incits>
+        <id>US.NC.177</id>
+        <population>4109</population>
+      </desc>
+    </path>
+    <path d="M 273.4707 362.8648 279.4083 360.2259 295.9017 347.0312 299.2004 349.0104 307.7769 350.3299 317.0132 347.6909 314.3743 378.0388 276.7694 377.379 278.0888 368.1427 273.4707 362.8648 Z" id="US.NC.179" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Union County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>179</fips>
+        <incits>37179</incits>
+        <id>US.NC.179</id>
+        <population>212756</population>
+      </desc>
+    </path>
+    <path d="M 460.1758 242.793 470.0718 242.793 473.3705 261.2656 471.3913 263.9045 465.4537 266.5435 463.4745 271.8214 456.2174 271.1616 455.5577 270.5019 455.5577 249.3904 460.1758 242.793 Z" id="US.NC.181" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Vance County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>181</fips>
+        <incits>37181</incits>
+        <id>US.NC.181</id>
+        <population>44808</population>
+      </desc>
+    </path>
+    <path d="M 470.0718 242.793 503.0586 242.1333 503.0586 244.7722 499.7599 261.9253 494.482 269.1824 485.2457 265.8837 471.3913 263.9045 473.3705 261.2656 470.0718 242.793 Z" id="US.NC.185" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Warren County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>185</fips>
+        <incits>37185</incits>
+        <id>US.NC.185</id>
+        <population>20575</population>
+      </desc>
+    </path>
+    <path d="M 586.1853 308.1068 592.7826 295.5718 598.0605 288.9745 604.6578 286.9953 611.2552 286.9953 621.1512 283.0369 623.7902 283.6966 622.4707 292.2732 624.4499 295.5718 620.4915 302.1692 620.4915 308.7665 602.0189 308.1068 586.1853 308.1068 Z" id="US.NC.187" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Washington County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>187</fips>
+        <incits>37187</incits>
+        <id>US.NC.187</id>
+        <population>12722</population>
+      </desc>
+    </path>
+    <path d="M 189.0246 262.5851 193.6427 258.6267 203.5388 254.6682 210.7958 257.3072 223.3308 266.5435 225.31 269.8422 218.0529 275.7798 197.6011 276.4395 195.6219 271.8214 189.6843 268.5227 189.0246 262.5851 Z" id="US.NC.189" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Watauga County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>189</fips>
+        <incits>37189</incits>
+        <id>US.NC.189</id>
+        <population>52372</population>
+      </desc>
+    </path>
+    <path d="M 472.051 341.0936 472.7108 339.1144 482.6068 335.8157 483.2665 330.5378 490.5236 317.3431 509.656 318.6626 508.9962 329.2183 510.9754 334.4962 509.656 336.4754 508.3365 349.6701 504.3781 350.3299 491.8431 348.3507 482.6068 348.3507 476.0095 346.3715 472.051 341.0936 Z" id="US.NC.191" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wayne County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>191</fips>
+        <incits>37191</incits>
+        <id>US.NC.191</id>
+        <population>124583</population>
+      </desc>
+    </path>
+    <path d="M 218.0529 275.7798 225.31 269.8422 223.3308 266.5435 235.8658 255.328 242.4631 255.9877 253.6786 250.7098 258.9565 255.328 263.5747 253.3488 270.8318 259.2864 270.172 266.5435 270.172 280.3979 258.2968 281.7174 239.8242 283.0369 235.206 285.0161 228.6087 279.0784 218.0529 275.7798 Z" id="US.NC.193" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wilkes County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>193</fips>
+        <incits>37193</incits>
+        <id>US.NC.193</id>
+        <population>69023</population>
+      </desc>
+    </path>
+    <path d="M 480.6276 306.1276 508.9962 295.5718 514.9338 298.8705 517.5728 306.1276 521.5312 310.7457 518.8922 312.0652 509.656 318.6626 490.5236 317.3431 485.2457 316.0236 480.6276 306.1276 Z" id="US.NC.195" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wilson County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>195</fips>
+        <incits>37195</incits>
+        <id>US.NC.195</id>
+        <population>81667</population>
+      </desc>
+    </path>
+    <path d="M 270.172 280.3979 270.172 266.5435 278.7486 263.9045 287.9849 264.5643 295.242 263.2448 303.1588 265.8837 304.4783 274.4603 298.5406 277.759 299.8601 281.0577 284.6862 281.0577 270.172 280.3979 Z" id="US.NC.197" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Yadkin County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>197</fips>
+        <incits>37197</incits>
+        <id>US.NC.197</id>
+        <population>38038</population>
+      </desc>
+    </path>
+    <path d="M 143.5028 286.9953 150.1002 279.0784 163.9546 285.0161 171.2117 290.294 172.5312 298.8705 165.9338 306.7873 161.3157 308.1068 151.4197 298.8705 148.121 292.9329 144.1626 291.6134 143.5028 286.9953 Z" id="US.NC.199" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Yancey County</name>
+        <stateAbbrev>NC</stateAbbrev>
+        <state>North Carolina</state>
+        <fips>199</fips>
+        <incits>37199</incits>
+        <id>US.NC.199</id>
+        <population>17566</population>
+      </desc>
+    </path>
+  </g>
+</svg>

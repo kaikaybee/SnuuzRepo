@@ -1,0 +1,1754 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="georgia">
+    <path d="M 584.5132 377.0829 585.7443 374.6208 606.672 362.3104 620.2134 367.2346 634.9859 380.776 633.7549 386.9312 639.9101 396.7795 644.8342 399.2416 646.0653 406.6279 642.3721 415.2451 634.9859 414.0141 607.903 433.7108 604.2099 428.7866 604.2099 417.7072 600.5168 412.7831 598.0547 405.3968 584.5132 388.1623 586.9753 383.2381 584.5132 377.0829 Z" id="US.GA.103" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Effingham County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>103</fips>
+        <incits>13103</incits>
+        <id>US.GA.103</id>
+        <population>54456</population>
+      </desc>
+    </path>
+    <path d="M 552.5062 316.7619 585.7443 297.0653 591.8995 303.2205 590.6684 313.0688 598.0547 325.3792 601.7478 326.6102 604.2099 337.6896 601.7478 346.3069 606.672 353.6931 606.672 362.3104 585.7443 374.6208 584.5132 377.0829 564.8166 368.4656 543.8889 353.6931 541.4268 353.6931 537.7337 350 552.5062 316.7619 Z" id="US.GA.251" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Screven County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>251</fips>
+        <incits>13251</incits>
+        <id>US.GA.251</id>
+        <population>14240</population>
+      </desc>
+    </path>
+    <path d="M 473.7196 327.8413 479.8748 313.0688 477.4127 294.6032 486.03 269.9824 481.1058 265.0582 488.4921 262.5961 489.7231 262.5961 494.6473 261.3651 505.7266 271.2134 510.6508 268.7513 522.9612 271.2134 535.2716 266.2892 540.1958 268.7513 550.0441 273.6755 553.7372 281.0617 569.7407 290.9101 574.6649 289.679 585.7443 297.0653 552.5062 316.7619 540.1958 310.6067 525.4233 314.2998 508.1887 315.5309 502.0335 320.455 498.3404 330.3034 488.4921 331.5344 473.7196 327.8413 Z" id="US.GA.033" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Burke County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>033</fips>
+        <incits>13033</incits>
+        <id>US.GA.033</id>
+        <population>22923</population>
+      </desc>
+    </path>
+    <path d="M 500.8025 590.0529 508.1887 590.0529 510.6508 580.2046 529.1164 585.1287 532.8095 586.3598 531.5785 594.9771 535.2716 597.4392 532.8095 615.9048 526.6543 615.9048 521.7302 623.291 514.3439 626.9841 511.8818 638.0635 518.037 654.067 516.806 666.3774 510.6508 683.612 494.6473 683.612 488.4921 673.7637 490.9541 665.1464 484.7989 657.7601 488.4921 652.836 498.3404 622.06 493.4162 622.06 458.9471 620.8289 460.1781 588.8219 500.8025 590.0529 Z" id="US.GA.049" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Charlton County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>049</fips>
+        <incits>13049</incits>
+        <id>US.GA.049</id>
+        <population>13255</population>
+      </desc>
+    </path>
+    <path d="M 607.903 433.7108 634.9859 414.0141 642.3721 415.2451 646.0653 421.4004 646.0653 431.2487 653.4515 434.9418 662.0688 432.4797 674.3792 442.328 699 442.328 692.8448 452.1764 684.2275 460.7937 663.2998 484.1834 655.9136 490.3386 641.1411 489.1076 637.448 474.3351 643.6032 468.1799 632.5238 459.5626 625.1376 460.7937 617.7513 446.0212 610.3651 441.097 607.903 433.7108 Z" id="US.GA.051" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Chatham County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>051</fips>
+        <incits>13051</incits>
+        <id>US.GA.051</id>
+        <population>278434</population>
+      </desc>
+    </path>
+    <path d="M 552.5062 566.6631 564.8166 574.0494 582.0511 577.7425 598.0547 586.3598 601.7478 592.515 618.9824 592.515 614.0582 601.1323 612.8272 607.2875 605.4409 624.522 612.8272 633.1393 586.9753 633.1393 575.8959 631.9083 547.582 622.06 536.5026 619.5979 532.8095 615.9048 535.2716 597.4392 531.5785 594.9771 532.8095 586.3598 529.1164 585.1287 531.5785 577.7425 542.6578 577.7425 545.1199 571.5873 552.5062 566.6631 Z" id="US.GA.039" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Camden County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>039</fips>
+        <incits>13039</incits>
+        <id>US.GA.039</id>
+        <population>51476</population>
+      </desc>
+    </path>
+    <path d="M 468.7954 258.903 477.4127 252.7478 515.575 225.6649 521.7302 234.2822 530.3474 236.7443 531.5785 256.4409 540.1958 258.903 540.1958 268.7513 535.2716 266.2892 522.9612 271.2134 510.6508 268.7513 505.7266 271.2134 494.6473 261.3651 489.7231 262.5961 488.4921 262.5961 481.1058 265.0582 468.7954 258.903 Z" id="US.GA.245" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Richmond County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>245</fips>
+        <incits>13245</incits>
+        <id>US.GA.245</id>
+        <population>202003</population>
+      </desc>
+    </path>
+    <path d="M 429.4021 539.5802 429.4021 523.5767 433.0952 523.5767 447.8677 523.5767 450.3298 530.963 458.9471 530.963 463.8713 539.5802 463.8713 548.1975 474.9506 559.2769 478.6437 559.2769 478.6437 564.2011 489.7231 566.6631 489.7231 578.9735 500.8025 590.0529 460.1781 588.8219 458.9471 620.8289 493.4162 622.06 498.3404 622.06 488.4921 652.836 458.9471 651.6049 457.716 646.6808 456.485 617.1358 449.0988 615.9048 449.0988 596.2081 434.3263 588.8219 423.2469 565.4321 418.3228 559.2769 418.3228 551.8907 429.4021 551.8907 429.4021 539.5802 Z" id="US.GA.299" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ware County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>299</fips>
+        <incits>13299</incits>
+        <id>US.GA.299</id>
+        <population>35709</population>
+      </desc>
+    </path>
+    <path d="M 457.716 209.6614 468.7954 204.7372 488.4921 204.7372 490.9541 213.3545 498.3404 218.2787 504.4956 218.2787 515.575 225.6649 477.4127 252.7478 463.8713 236.7443 456.485 224.4339 460.1781 219.5097 457.716 209.6614 Z" id="US.GA.073" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Columbia County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>073</fips>
+        <incits>13073</incits>
+        <id>US.GA.073</id>
+        <population>135416</population>
+      </desc>
+    </path>
+    <path d="M 426.94 161.6508 438.0194 166.575 445.4056 169.037 457.716 178.8854 474.9506 188.7337 483.5679 196.1199 488.4921 204.7372 468.7954 204.7372 457.716 209.6614 450.3298 210.8924 436.7884 189.9647 426.94 161.6508 Z" id="US.GA.181" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lincoln County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>181</fips>
+        <incits>13181</incits>
+        <id>US.GA.181</id>
+        <population>7751</population>
+      </desc>
+    </path>
+    <path d="M 364.157 128.4127 372.7743 125.9506 377.6984 129.6437 387.5467 124.7196 408.4744 118.5644 410.9365 121.0265 415.8607 138.261 422.0159 141.9541 426.94 149.3404 433.0952 155.4956 438.0194 166.575 426.94 161.6508 407.2434 164.1129 394.933 161.6508 378.9295 154.2646 371.5432 145.6473 365.388 138.261 360.4638 135.7989 364.157 128.4127 Z" id="US.GA.105" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Elbert County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>105</fips>
+        <incits>13105</incits>
+        <id>US.GA.105</id>
+        <population>19599</population>
+      </desc>
+    </path>
+    <path d="M 359.2328 121.0265 361.6949 100.0988 367.8501 89.0194 375.2363 91.4815 388.7778 90.2504 396.164 95.1746 399.8571 107.485 408.4744 118.5644 387.5467 124.7196 377.6984 129.6437 372.7743 125.9506 364.157 128.4127 359.2328 121.0265 Z" id="US.GA.147" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hart County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>147</fips>
+        <incits>13147</incits>
+        <id>US.GA.147</id>
+        <population>25446</population>
+      </desc>
+    </path>
+    <path d="M 318.6085 93.9436 322.3016 92.7125 349.3845 91.4815 360.4638 82.8642 367.8501 89.0194 361.6949 100.0988 359.2328 121.0265 350.6155 125.9506 334.612 123.4885 324.7637 128.4127 327.2257 122.2575 318.6085 113.6402 321.0705 98.8677 318.6085 93.9436 Z" id="US.GA.119" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Franklin County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>119</fips>
+        <incits>13119</incits>
+        <id>US.GA.119</id>
+        <population>22009</population>
+      </desc>
+    </path>
+    <path d="M 309.9912 90.2504 323.5326 63.1675 327.2257 60.7055 341.9982 71.7848 351.8466 73.0159 360.4638 82.8642 349.3845 91.4815 322.3016 92.7125 318.6085 93.9436 309.9912 90.2504 Z" id="US.GA.257" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Stephens County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>257</fips>
+        <incits>13257</incits>
+        <id>US.GA.257</id>
+        <population>25683</population>
+      </desc>
+    </path>
+    <path d="M 277.9841 44.7019 281.6772 42.2399 289.0635 41.0088 296.4497 52.0882 306.2981 55.7813 312.4533 53.3192 324.7637 57.0123 327.2257 60.7055 323.5326 63.1675 309.9912 90.2504 298.9118 89.0194 286.6014 97.6367 279.2152 87.7884 286.6014 81.6332 284.1393 76.709 282.9083 64.3986 285.3704 50.8571 277.9841 44.7019 Z" id="US.GA.137" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Habersham County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>137</fips>
+        <incits>13137</incits>
+        <id>US.GA.137</id>
+        <population>43300</population>
+      </desc>
+    </path>
+    <path d="M 296.4497 17.619 360.4638 16.388 356.7707 23.7743 328.4568 47.164 324.7637 57.0123 312.4533 53.3192 306.2981 55.7813 296.4497 52.0882 289.0635 41.0088 281.6772 42.2399 281.6772 34.8536 289.0635 25.0053 296.4497 23.7743 296.4497 17.619 Z" id="US.GA.241" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Rabun County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>241</fips>
+        <incits>13241</incits>
+        <id>US.GA.241</id>
+        <population>16235</population>
+      </desc>
+    </path>
+    <path d="M 241.0529 17.619 286.6014 17.619 296.4497 17.619 296.4497 23.7743 289.0635 25.0053 281.6772 34.8536 281.6772 42.2399 277.9841 44.7019 263.2116 45.933 259.5185 31.1605 243.515 26.2363 241.0529 17.619 Z" id="US.GA.281" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Towns County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>281</fips>
+        <incits>13281</incits>
+        <id>US.GA.281</id>
+        <population>10771</population>
+      </desc>
+    </path>
+    <path d="M 212.739 17.619 241.0529 17.619 243.515 26.2363 259.5185 31.1605 263.2116 45.933 257.0564 47.164 252.1323 55.7813 241.0529 53.3192 233.6667 57.0123 226.2804 68.0917 213.97 64.3986 209.0459 66.8607 216.4321 55.7813 218.8942 44.7019 211.5079 43.4709 210.2769 38.5467 216.4321 32.3915 205.3527 22.5432 212.739 17.619 Z" id="US.GA.291" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Union County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>291</fips>
+        <incits>13291</incits>
+        <id>US.GA.291</id>
+        <population>21566</population>
+      </desc>
+    </path>
+    <path d="M 142.5697 17.619 212.739 17.619 205.3527 22.5432 216.4321 32.3915 210.2769 38.5467 211.5079 43.4709 218.8942 44.7019 216.4321 55.7813 209.0459 66.8607 205.3527 73.0159 202.8907 71.7848 195.5044 61.9365 195.5044 55.7813 186.8871 43.4709 170.8836 37.3157 142.5697 37.3157 142.5697 17.619 Z" id="US.GA.111" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Fannin County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>111</fips>
+        <incits>13111</incits>
+        <id>US.GA.111</id>
+        <population>23760</population>
+      </desc>
+    </path>
+    <path d="M 35.4691 18.8501 25.6208 33.6226 23.1587 50.8571 17.0035 63.1675 10.8483 70.5538 1 18.8501 35.4691 18.8501 Z" id="US.GA.083" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dade County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>083</fips>
+        <incits>13083</incits>
+        <id>US.GA.083</id>
+        <population>16507</population>
+      </desc>
+    </path>
+    <path d="M 115.4868 17.619 142.5697 17.619 142.5697 37.3157 147.4938 42.2399 140.1076 48.3951 137.6455 55.7813 137.6455 75.478 129.0282 70.5538 106.8695 73.0159 100.7143 69.3228 99.4832 57.0123 106.8695 58.2434 105.6384 48.3951 110.5626 37.3157 110.5626 27.4674 115.4868 17.619 Z" id="US.GA.213" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Murray County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>213</fips>
+        <incits>13213</incits>
+        <id>US.GA.213</id>
+        <population>39267</population>
+      </desc>
+    </path>
+    <path d="M 67.4762 49.6261 68.7072 44.7019 78.5556 42.2399 84.7108 34.8536 90.866 17.619 115.4868 17.619 110.5626 27.4674 110.5626 37.3157 105.6384 48.3951 106.8695 58.2434 99.4832 57.0123 100.7143 69.3228 98.2522 71.7848 81.0176 70.5538 81.0176 57.0123 63.7831 57.0123 67.4762 49.6261 Z" id="US.GA.313" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Whitfield County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>313</fips>
+        <incits>13313</incits>
+        <id>US.GA.313</id>
+        <population>102945</population>
+      </desc>
+    </path>
+    <path d="M 50.2416 18.8501 90.866 17.619 84.7108 34.8536 78.5556 42.2399 68.7072 44.7019 67.4762 49.6261 58.8589 48.3951 58.8589 37.3157 50.2416 37.3157 50.2416 18.8501 Z" id="US.GA.047" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Catoosa County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>047</fips>
+        <incits>13047</incits>
+        <id>US.GA.047</id>
+        <population>65311</population>
+      </desc>
+    </path>
+    <path d="M 10.8483 70.5538 17.0035 63.1675 23.1587 50.8571 25.6208 33.6226 35.4691 18.8501 50.2416 18.8501 50.2416 37.3157 58.8589 37.3157 58.8589 48.3951 67.4762 49.6261 63.7831 57.0123 81.0176 57.0123 81.0176 70.5538 77.3245 75.478 72.4004 75.478 12.0794 75.478 10.8483 70.5538 Z" id="US.GA.295" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Walker County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>295</fips>
+        <incits>13295</incits>
+        <id>US.GA.295</id>
+        <population>68198</population>
+      </desc>
+    </path>
+    <path d="M 181.963 210.8924 181.963 165.3439 191.8113 166.575 194.2734 171.4991 209.0459 181.3474 227.5115 196.1199 223.8183 199.8131 215.2011 215.8166 205.3527 210.8924 191.8113 210.8924 181.963 210.8924 Z" id="US.GA.089" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>DeKalb County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>089</fips>
+        <incits>13089</incits>
+        <id>US.GA.089</id>
+        <population>713340</population>
+      </desc>
+    </path>
+    <path d="M 191.8113 166.575 195.5044 160.4198 217.6631 153.0335 215.2011 150.5714 222.5873 135.7989 250.9012 145.6473 258.2875 141.9541 250.9012 159.1887 260.7496 170.2681 234.8977 191.1958 227.5115 196.1199 209.0459 181.3474 194.2734 171.4991 191.8113 166.575 Z" id="US.GA.135" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Gwinnett County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>135</fips>
+        <incits>13135</incits>
+        <id>US.GA.135</id>
+        <population>859304</population>
+      </desc>
+    </path>
+    <path d="M 457.716 452.1764 473.7196 457.1005 478.6437 455.8695 486.03 459.5626 495.8783 460.7937 510.6508 471.873 500.8025 480.4903 500.8025 523.5767 495.8783 523.5767 487.261 514.9594 484.7989 511.2663 468.7954 502.649 460.1781 498.9559 444.1746 489.1076 444.1746 470.642 457.716 470.642 457.716 452.1764 Z" id="US.GA.001" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Appling County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>001</fips>
+        <incits>13001</incits>
+        <id>US.GA.001</id>
+        <population>18440</population>
+      </desc>
+    </path>
+    <path d="M 355.5397 530.963 381.3915 530.963 397.3951 533.425 402.3192 538.3492 429.4021 539.5802 429.4021 551.8907 418.3228 551.8907 418.3228 559.2769 423.2469 565.4321 380.1605 565.4321 369.0811 565.4321 370.3122 551.8907 365.388 542.0423 361.6949 540.8113 355.5397 530.963 Z" id="US.GA.003" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Atkinson County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>003</fips>
+        <incits>13003</incits>
+        <id>US.GA.003</id>
+        <population>8290</population>
+      </desc>
+    </path>
+    <path d="M 429.4021 494.0317 444.1746 494.0317 444.1746 489.1076 460.1781 498.9559 468.7954 502.649 484.7989 511.2663 487.261 514.9594 482.3369 517.4215 470.0265 529.7319 458.9471 530.963 450.3298 530.963 447.8677 523.5767 433.0952 523.5767 433.0952 511.2663 429.4021 511.2663 429.4021 494.0317 Z" id="US.GA.005" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Bacon County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>005</fips>
+        <incits>13005</incits>
+        <id>US.GA.005</id>
+        <population>11216</population>
+      </desc>
+    </path>
+    <path d="M 109.3316 230.5891 115.4868 220.7407 124.1041 213.3545 136.4145 209.6614 137.6455 205.9683 148.7249 197.351 165.9594 182.5785 167.1905 172.7302 177.0388 165.3439 172.1146 149.3404 172.1146 144.4162 179.5009 141.9541 180.7319 134.5679 194.2734 133.3369 194.2734 144.4162 201.6596 145.6473 211.5079 151.8025 217.6631 153.0335 195.5044 160.4198 191.8113 166.575 181.963 165.3439 181.963 210.8924 165.9594 210.8924 165.9594 224.4339 146.2628 229.358 143.8007 231.8201 142.5697 230.5891 109.3316 230.5891 Z" id="US.GA.121" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Fulton County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>121</fips>
+        <incits>13121</incits>
+        <id>US.GA.121</id>
+        <population>984293</population>
+      </desc>
+    </path>
+    <path d="M 165.9594 224.4339 165.9594 210.8924 181.963 210.8924 191.8113 210.8924 195.5044 217.0476 190.5802 226.8959 189.3492 241.6684 180.7319 241.6684 180.7319 252.7478 175.8078 252.7478 177.0388 236.7443 165.9594 224.4339 Z" id="US.GA.063" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Clayton County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>063</fips>
+        <incits>13063</incits>
+        <id>US.GA.063</id>
+        <population>264220</population>
+      </desc>
+    </path>
+    <path d="M 125.3351 148.1093 136.4145 149.3404 172.1146 149.3404 177.0388 165.3439 167.1905 172.7302 165.9594 182.5785 148.7249 197.351 142.5697 187.5026 127.7972 187.5026 127.7972 167.806 125.3351 167.806 125.3351 148.1093 Z" id="US.GA.067" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cobb County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>067</fips>
+        <incits>13067</incits>
+        <id>US.GA.067</id>
+        <population>717190</population>
+      </desc>
+    </path>
+    <path d="M 180.7319 252.7478 180.7319 241.6684 189.3492 241.6684 190.5802 226.8959 195.5044 217.0476 191.8113 210.8924 205.3527 210.8924 212.739 223.2028 225.0494 228.127 228.7425 233.0511 238.5908 234.2822 242.284 239.2063 221.3563 260.134 217.6631 261.3651 210.2769 255.2099 196.7354 252.7478 180.7319 252.7478 Z" id="US.GA.151" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Henry County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>151</fips>
+        <incits>13151</incits>
+        <id>US.GA.151</id>
+        <population>211128</population>
+      </desc>
+    </path>
+    <path d="M 205.3527 210.8924 215.2011 215.8166 223.8183 199.8131 227.5115 196.1199 234.8977 191.1958 243.515 197.351 242.284 209.6614 225.0494 228.127 212.739 223.2028 205.3527 210.8924 Z" id="US.GA.247" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Rockdale County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>247</fips>
+        <incits>13247</incits>
+        <id>US.GA.247</id>
+        <population>86919</population>
+      </desc>
+    </path>
+    <path d="M 225.0494 228.127 242.284 209.6614 243.515 197.351 277.9841 218.2787 277.9841 228.127 277.9841 233.0511 257.0564 241.6684 250.9012 250.2857 242.284 239.2063 238.5908 234.2822 228.7425 233.0511 225.0494 228.127 Z" id="US.GA.217" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Newton County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>217</fips>
+        <incits>13217</incits>
+        <id>US.GA.217</id>
+        <population>102446</population>
+      </desc>
+    </path>
+    <path d="M 234.8977 191.1958 260.7496 170.2681 271.8289 173.9612 282.9083 173.9612 302.6049 186.2716 277.9841 218.2787 243.515 197.351 234.8977 191.1958 Z" id="US.GA.297" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Walton County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>297</fips>
+        <incits>13297</incits>
+        <id>US.GA.297</id>
+        <population>85754</population>
+      </desc>
+    </path>
+    <path d="M 277.9841 218.2787 302.6049 186.2716 317.3774 203.5062 325.9947 217.0476 334.612 225.6649 335.843 234.2822 298.9118 241.6684 277.9841 228.127 277.9841 218.2787 Z" id="US.GA.211" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Morgan County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>211</fips>
+        <incits>13211</incits>
+        <id>US.GA.211</id>
+        <population>17781</population>
+      </desc>
+    </path>
+    <path d="M 286.6014 97.6367 298.9118 89.0194 309.9912 90.2504 318.6085 93.9436 321.0705 98.8677 318.6085 113.6402 327.2257 122.2575 324.7637 128.4127 317.3774 132.1058 306.2981 122.2575 295.2187 123.4885 286.6014 117.3333 279.2152 107.485 286.6014 97.6367 Z" id="US.GA.011" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Banks County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>011</fips>
+        <incits>13011</incits>
+        <id>US.GA.011</id>
+        <population>18415</population>
+      </desc>
+    </path>
+    <path d="M 258.2875 141.9541 265.6737 150.5714 273.06 153.0335 281.6772 151.8025 293.9877 155.4956 298.9118 165.3439 282.9083 173.9612 271.8289 173.9612 260.7496 170.2681 250.9012 159.1887 258.2875 141.9541 Z" id="US.GA.013" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Barrow County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>013</fips>
+        <incits>13013</incits>
+        <id>US.GA.013</id>
+        <population>71453</population>
+      </desc>
+    </path>
+    <path d="M 140.1076 554.3527 140.1076 528.5009 161.0353 529.7319 169.6526 528.5009 211.5079 528.5009 204.1217 534.6561 202.8907 539.5802 186.8871 544.5044 178.2698 556.8148 158.5732 574.0494 158.5732 580.2046 153.649 580.2046 154.8801 554.3527 140.1076 554.3527 Z" id="US.GA.007" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Baker County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>007</fips>
+        <incits>13007</incits>
+        <id>US.GA.007</id>
+        <population>3341</population>
+      </desc>
+    </path>
+    <path d="M 81.0176 146.8783 81.0176 129.6437 84.7108 129.6437 84.7108 109.9471 87.1728 103.7919 95.7901 102.5608 126.5661 102.5608 137.6455 100.0988 136.4145 149.3404 125.3351 148.1093 99.4832 148.1093 81.0176 146.8783 Z" id="US.GA.015" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Bartow County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>015</fips>
+        <incits>13015</incits>
+        <id>US.GA.015</id>
+        <population>101273</population>
+      </desc>
+    </path>
+    <path d="M 313.6843 277.3686 328.4568 279.8307 335.843 277.3686 361.6949 282.2928 358.0018 292.1411 367.8501 292.1411 365.388 299.5273 369.0811 305.6825 365.388 311.8377 354.3086 301.9894 324.7637 314.2998 313.6843 277.3686 Z" id="US.GA.009" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Baldwin County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>009</fips>
+        <incits>13009</incits>
+        <id>US.GA.009</id>
+        <population>46039</population>
+      </desc>
+    </path>
+    <path d="M 258.2875 141.9541 286.6014 117.3333 295.2187 123.4885 306.2981 122.2575 317.3774 132.1058 323.5326 135.7989 324.7637 143.1852 319.8395 153.0335 323.5326 154.2646 298.9118 165.3439 293.9877 155.4956 281.6772 151.8025 273.06 153.0335 265.6737 150.5714 258.2875 141.9541 Z" id="US.GA.157" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jackson County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>157</fips>
+        <incits>13157</incits>
+        <id>US.GA.157</id>
+        <population>61044</population>
+      </desc>
+    </path>
+    <path d="M 282.9083 173.9612 298.9118 165.3439 302.6049 170.2681 316.1464 171.4991 335.843 181.3474 332.1499 186.2716 335.843 193.6578 333.381 198.582 317.3774 203.5062 302.6049 186.2716 282.9083 173.9612 Z" id="US.GA.219" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Oconee County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>219</fips>
+        <incits>13219</incits>
+        <id>US.GA.219</id>
+        <population>34035</population>
+      </desc>
+    </path>
+    <path d="M 298.9118 165.3439 323.5326 154.2646 338.3051 160.4198 335.843 167.806 340.7672 173.9612 335.843 181.3474 316.1464 171.4991 302.6049 170.2681 298.9118 165.3439 Z" id="US.GA.059" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Clarke County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>059</fips>
+        <incits>13059</incits>
+        <id>US.GA.059</id>
+        <population>121265</population>
+      </desc>
+    </path>
+    <path d="M 137.6455 81.6332 178.2698 81.6332 181.963 79.1711 185.6561 92.7125 194.2734 92.7125 194.2734 105.0229 147.4938 105.0229 147.4938 101.3298 137.6455 100.0988 137.6455 81.6332 Z" id="US.GA.227" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pickens County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>227</fips>
+        <incits>13227</incits>
+        <id>US.GA.227</id>
+        <population>29584</population>
+      </desc>
+    </path>
+    <path d="M 136.4145 149.3404 137.6455 100.0988 147.4938 101.3298 147.4938 105.0229 194.2734 105.0229 194.2734 112.4092 194.2734 133.3369 180.7319 134.5679 179.5009 141.9541 172.1146 144.4162 172.1146 149.3404 136.4145 149.3404 Z" id="US.GA.057" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cherokee County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>057</fips>
+        <incits>13057</incits>
+        <id>US.GA.057</id>
+        <population>225106</population>
+      </desc>
+    </path>
+    <path d="M 77.3245 75.478 81.0176 70.5538 98.2522 71.7848 100.7143 69.3228 106.8695 73.0159 129.0282 70.5538 137.6455 75.478 137.6455 81.6332 137.6455 100.0988 126.5661 102.5608 95.7901 102.5608 87.1728 103.7919 74.8624 102.5608 74.8624 82.8642 77.3245 75.478 Z" id="US.GA.129" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Gordon County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>129</fips>
+        <incits>13129</incits>
+        <id>US.GA.129</id>
+        <population>55757</population>
+      </desc>
+    </path>
+    <path d="M 194.2734 133.3369 194.2734 112.4092 237.3598 112.4092 238.5908 125.9506 233.6667 130.8748 222.5873 135.7989 215.2011 150.5714 217.6631 153.0335 211.5079 151.8025 201.6596 145.6473 194.2734 144.4162 194.2734 133.3369 Z" id="US.GA.117" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Forsyth County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>117</fips>
+        <incits>13117</incits>
+        <id>US.GA.117</id>
+        <population>195405</population>
+      </desc>
+    </path>
+    <path d="M 306.2981 469.4109 350.6155 469.4109 371.5432 479.2593 376.4674 479.2593 375.2363 494.0317 350.6155 494.0317 350.6155 497.7249 337.0741 497.7249 328.4568 494.0317 328.4568 482.9524 309.9912 482.9524 306.2981 469.4109 Z" id="US.GA.017" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ben Hill County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>017</fips>
+        <incits>13017</incits>
+        <id>US.GA.017</id>
+        <population>17515</population>
+      </desc>
+    </path>
+    <path d="M 202.8907 71.7848 205.3527 73.0159 204.1217 82.8642 216.4321 92.7125 234.8977 100.0988 237.3598 112.4092 194.2734 112.4092 194.2734 105.0229 194.2734 92.7125 185.6561 92.7125 181.963 79.1711 184.425 76.709 195.5044 77.94 202.8907 71.7848 Z" id="US.GA.085" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dawson County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>085</fips>
+        <incits>13085</incits>
+        <id>US.GA.085</id>
+        <population>22686</population>
+      </desc>
+    </path>
+    <path d="M 222.5873 135.7989 233.6667 130.8748 238.5908 125.9506 237.3598 112.4092 234.8977 100.0988 254.5944 87.7884 279.2152 87.7884 286.6014 97.6367 279.2152 107.485 286.6014 117.3333 258.2875 141.9541 250.9012 145.6473 222.5873 135.7989 Z" id="US.GA.139" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hall County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>139</fips>
+        <incits>13139</incits>
+        <id>US.GA.139</id>
+        <population>187745</population>
+      </desc>
+    </path>
+    <path d="M 301.3739 326.6102 317.3774 317.9929 343.2293 363.5414 303.836 382.0071 305.067 377.0829 297.6808 372.1587 295.2187 353.6931 290.2945 352.4621 287.8325 347.5379 292.7566 341.3827 302.6049 332.7654 301.3739 326.6102 Z" id="US.GA.289" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Twiggs County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>289</fips>
+        <incits>13289</incits>
+        <id>US.GA.289</id>
+        <population>8481</population>
+      </desc>
+    </path>
+    <path d="M 317.3774 317.9929 324.7637 314.2998 354.3086 301.9894 365.388 311.8377 371.5432 324.1481 377.6984 325.3792 382.6226 338.9206 381.3915 346.3069 343.2293 363.5414 317.3774 317.9929 Z" id="US.GA.319" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wilkinson County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>319</fips>
+        <incits>13319</incits>
+        <id>US.GA.319</id>
+        <population>9432</population>
+      </desc>
+    </path>
+    <path d="M 303.836 382.0071 343.2293 363.5414 355.5397 386.9312 350.6155 382.0071 332.1499 398.0106 334.612 400.4727 325.9947 409.0899 303.836 389.3933 303.836 382.0071 Z" id="US.GA.023" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Bleckley County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>023</fips>
+        <incits>13023</incits>
+        <id>US.GA.023</id>
+        <population>12771</population>
+      </desc>
+    </path>
+    <path d="M 268.1358 640.5256 269.3668 586.3598 292.7566 586.3598 292.7566 580.2046 296.4497 583.8977 307.5291 586.3598 313.6843 598.6702 314.9153 607.2875 322.3016 608.5185 325.9947 612.2116 312.4533 618.3668 306.2981 625.7531 312.4533 635.6014 324.7637 642.9877 268.1358 640.5256 Z" id="US.GA.027" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Brooks County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>027</fips>
+        <incits>13027</incits>
+        <id>US.GA.027</id>
+        <population>15516</population>
+      </desc>
+    </path>
+    <path d="M 313.6843 540.8113 322.3016 533.425 322.3016 524.8078 327.2257 522.3457 354.3086 523.5767 355.5397 530.963 361.6949 540.8113 365.388 542.0423 370.3122 551.8907 369.0811 565.4321 370.3122 570.3563 351.8466 570.3563 351.8466 582.6667 346.9224 587.5908 333.381 587.5908 335.843 582.6667 329.6878 577.7425 332.1499 569.1252 327.2257 564.2011 327.2257 556.8148 319.8395 554.3527 312.4533 548.1975 313.6843 540.8113 Z" id="US.GA.019" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Berrien County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>019</fips>
+        <incits>13019</incits>
+        <id>US.GA.019</id>
+        <population>19048</population>
+      </desc>
+    </path>
+    <path d="M 215.2011 580.2046 231.2046 580.2046 231.2046 585.1287 269.3668 586.3598 268.1358 640.5256 220.1252 638.0635 221.3563 603.5944 215.2011 594.9771 215.2011 580.2046 Z" id="US.GA.275" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Thomas County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>275</fips>
+        <incits>13275</incits>
+        <id>US.GA.275</id>
+        <population>44869</population>
+      </desc>
+    </path>
+    <path d="M 343.2293 363.5414 381.3915 346.3069 394.933 345.0758 406.0123 348.769 404.7813 352.4621 423.2469 359.8483 422.0159 372.1587 425.709 373.3898 428.1711 377.0829 418.3228 385.7002 413.3986 399.2416 415.8607 402.9347 396.164 420.1693 392.4709 418.9383 376.4674 426.3245 355.5397 386.9312 343.2293 363.5414 Z" id="US.GA.175" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Laurens County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>175</fips>
+        <incits>13175</incits>
+        <id>US.GA.175</id>
+        <population>47999</population>
+      </desc>
+    </path>
+    <path d="M 232.4356 543.2734 281.6772 543.2734 301.3739 544.5044 302.6049 561.739 297.6808 565.4321 292.7566 580.2046 292.7566 586.3598 269.3668 586.3598 231.2046 585.1287 231.2046 580.2046 232.4356 543.2734 Z" id="US.GA.071" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Colquitt County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>071</fips>
+        <incits>13071</incits>
+        <id>US.GA.071</id>
+        <population>46275</population>
+      </desc>
+    </path>
+    <path d="M 213.97 325.3792 247.2081 325.3792 258.2875 341.3827 273.06 347.5379 265.6737 347.5379 231.2046 370.9277 221.3563 362.3104 216.4321 350 202.8907 348.769 213.97 325.3792 Z" id="US.GA.079" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Crawford County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>079</fips>
+        <incits>13079</incits>
+        <id>US.GA.079</id>
+        <population>12504</population>
+      </desc>
+    </path>
+    <path d="M 213.97 313.0688 225.0494 311.8377 226.2804 274.9065 249.6702 274.9065 257.0564 277.3686 258.2875 284.7549 271.8289 300.7584 273.06 310.6067 247.2081 325.3792 213.97 325.3792 213.97 313.0688 Z" id="US.GA.207" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Monroe County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>207</fips>
+        <incits>13207</incits>
+        <id>US.GA.207</id>
+        <population>26984</population>
+      </desc>
+    </path>
+    <path d="M 369.0811 565.4321 380.1605 565.4321 380.1605 609.7496 371.5432 612.2116 372.7743 604.8254 369.0811 598.6702 349.3845 598.6702 346.9224 587.5908 351.8466 582.6667 351.8466 570.3563 370.3122 570.3563 369.0811 565.4321 Z" id="US.GA.173" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lanier County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>173</fips>
+        <incits>13173</incits>
+        <id>US.GA.173</id>
+        <population>10408</population>
+      </desc>
+    </path>
+    <path d="M 247.2081 325.3792 273.06 310.6067 280.4462 320.455 289.0635 320.455 301.3739 326.6102 302.6049 332.7654 292.7566 341.3827 287.8325 347.5379 290.2945 352.4621 274.291 347.5379 273.06 347.5379 258.2875 341.3827 247.2081 325.3792 Z" id="US.GA.021" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Bibb County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>021</fips>
+        <incits>13021</incits>
+        <id>US.GA.021</id>
+        <population>154721</population>
+      </desc>
+    </path>
+    <path d="M 167.1905 502.649 189.3492 501.418 225.0494 501.418 228.7425 497.7249 232.4356 501.418 232.4356 527.2698 211.5079 528.5009 169.6526 528.5009 172.1146 526.0388 165.9594 507.5732 167.1905 502.649 Z" id="US.GA.095" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dougherty County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>095</fips>
+        <incits>13095</incits>
+        <id>US.GA.095</id>
+        <population>92969</population>
+      </desc>
+    </path>
+    <path d="M 557.4303 544.5044 573.4339 526.0388 579.5891 533.425 600.5168 545.7354 610.3651 545.7354 620.2134 549.4286 636.2169 549.4286 636.2169 555.5838 630.0617 566.6631 620.2134 569.1252 620.2134 580.2046 614.0582 582.6667 614.0582 588.8219 618.9824 592.515 601.7478 592.515 598.0547 586.3598 582.0511 577.7425 564.8166 574.0494 552.5062 566.6631 552.5062 562.97 557.4303 544.5044 Z" id="US.GA.127" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Glynn County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>127</fips>
+        <incits>13127</incits>
+        <id>US.GA.127</id>
+        <population>81508</population>
+      </desc>
+    </path>
+    <path d="M 250.9012 250.2857 257.0564 241.6684 277.9841 233.0511 277.9841 228.127 298.9118 241.6684 297.6808 278.5996 258.2875 284.7549 257.0564 277.3686 258.2875 268.7513 250.9012 250.2857 Z" id="US.GA.159" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jasper County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>159</fips>
+        <incits>13159</incits>
+        <id>US.GA.159</id>
+        <population>13601</population>
+      </desc>
+    </path>
+    <path d="M 114.2557 502.649 137.6455 501.418 147.4938 500.1869 153.649 502.649 167.1905 502.649 165.9594 507.5732 172.1146 526.0388 169.6526 528.5009 161.0353 529.7319 140.1076 528.5009 117.9489 528.5009 114.2557 519.8836 114.2557 502.649 Z" id="US.GA.037" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Calhoun County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>037</fips>
+        <incits>13037</incits>
+        <id>US.GA.037</id>
+        <population>6523</population>
+      </desc>
+    </path>
+    <path d="M 551.2751 425.0935 600.5168 412.7831 604.2099 417.7072 604.2099 428.7866 607.903 433.7108 610.3651 441.097 617.7513 446.0212 625.1376 460.7937 632.5238 459.5626 643.6032 468.1799 637.448 474.3351 641.1411 489.1076 626.3686 482.9524 622.6755 476.7972 612.8272 473.1041 605.4409 459.5626 590.6684 453.4074 582.0511 453.4074 569.7407 438.6349 559.8924 434.9418 551.2751 425.0935 Z" id="US.GA.029" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Bryan County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>029</fips>
+        <incits>13029</incits>
+        <id>US.GA.029</id>
+        <population>33157</population>
+      </desc>
+    </path>
+    <path d="M 159.8042 266.2892 169.6526 266.2892 175.8078 258.903 175.8078 252.7478 180.7319 252.7478 196.7354 252.7478 210.2769 255.2099 217.6631 261.3651 213.97 274.9065 213.97 278.5996 196.7354 276.1376 178.2698 276.1376 167.1905 273.6755 159.8042 277.3686 159.8042 272.4444 159.8042 266.2892 Z" id="US.GA.255" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Spalding County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>255</fips>
+        <incits>13255</incits>
+        <id>US.GA.255</id>
+        <population>63829</population>
+      </desc>
+    </path>
+    <path d="M 81.0176 517.4215 83.4797 521.1146 97.0212 518.6526 114.2557 519.8836 117.9489 528.5009 140.1076 528.5009 140.1076 554.3527 131.4903 555.5838 99.4832 554.3527 99.4832 581.4356 83.4797 580.2046 83.4797 575.2804 73.6314 567.8942 71.1693 553.1217 74.8624 549.4286 74.8624 538.3492 78.5556 529.7319 77.3245 523.5767 81.0176 517.4215 Z" id="US.GA.099" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Early County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>099</fips>
+        <incits>13099</incits>
+        <id>US.GA.099</id>
+        <population>10542</population>
+      </desc>
+    </path>
+    <path d="M 510.6508 471.873 524.1922 478.0282 531.5785 482.9524 532.8095 486.6455 545.1199 497.7249 562.3545 507.5732 567.2787 513.7284 573.4339 526.0388 557.4303 544.5044 547.582 539.5802 530.3474 542.0423 513.1129 537.1182 511.8818 526.0388 500.8025 523.5767 500.8025 480.4903 510.6508 471.873 Z" id="US.GA.305" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wayne County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>305</fips>
+        <incits>13305</incits>
+        <id>US.GA.305</id>
+        <population>30077</population>
+      </desc>
+    </path>
+    <path d="M 193.0423 305.6825 195.5044 298.2963 196.7354 276.1376 213.97 278.5996 213.97 274.9065 226.2804 274.9065 225.0494 311.8377 213.97 313.0688 213.97 305.6825 193.0423 305.6825 Z" id="US.GA.171" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lamar County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>171</fips>
+        <incits>13171</incits>
+        <id>US.GA.171</id>
+        <population>17959</population>
+      </desc>
+    </path>
+    <path d="M 67.4762 479.2593 94.5591 479.2593 93.328 489.1076 95.7901 502.649 114.2557 502.649 114.2557 519.8836 97.0212 518.6526 83.4797 521.1146 81.0176 517.4215 79.7866 502.649 69.9383 491.5697 67.4762 479.2593 Z" id="US.GA.061" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Clay County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>061</fips>
+        <incits>13061</incits>
+        <id>US.GA.061</id>
+        <population>3045</population>
+      </desc>
+    </path>
+    <path d="M 515.575 369.6966 519.2681 359.8483 541.4268 353.6931 543.8889 353.6931 564.8166 368.4656 584.5132 377.0829 586.9753 383.2381 584.5132 388.1623 598.0547 405.3968 600.5168 412.7831 551.2751 425.0935 546.351 414.0141 535.2716 407.8589 524.1922 409.0899 531.5785 388.1623 522.9612 379.545 522.9612 373.3898 515.575 369.6966 Z" id="US.GA.031" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Bulloch County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>031</fips>
+        <incits>13031</incits>
+        <id>US.GA.031</id>
+        <population>71214</population>
+      </desc>
+    </path>
+    <path d="M 515.575 407.8589 524.1922 409.0899 535.2716 407.8589 546.351 414.0141 551.2751 425.0935 559.8924 434.9418 553.7372 441.097 535.2716 439.866 521.7302 436.1728 515.575 407.8589 Z" id="US.GA.109" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Evans County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>109</fips>
+        <incits>13109</incits>
+        <id>US.GA.109</id>
+        <population>10833</population>
+      </desc>
+    </path>
+    <path d="M 217.6631 261.3651 221.3563 260.134 242.284 239.2063 250.9012 250.2857 258.2875 268.7513 257.0564 277.3686 249.6702 274.9065 226.2804 274.9065 213.97 274.9065 217.6631 261.3651 Z" id="US.GA.035" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Butts County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>035</fips>
+        <incits>13035</incits>
+        <id>US.GA.035</id>
+        <population>23361</population>
+      </desc>
+    </path>
+    <path d="M 478.6437 559.2769 492.1852 561.739 505.7266 551.8907 519.2681 549.4286 513.1129 537.1182 530.3474 542.0423 547.582 539.5802 557.4303 544.5044 552.5062 562.97 552.5062 566.6631 545.1199 571.5873 542.6578 577.7425 531.5785 577.7425 529.1164 585.1287 510.6508 580.2046 508.1887 590.0529 500.8025 590.0529 489.7231 578.9735 489.7231 566.6631 478.6437 564.2011 478.6437 559.2769 Z" id="US.GA.025" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Brantley County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>025</fips>
+        <incits>13025</incits>
+        <id>US.GA.025</id>
+        <population>18292</population>
+      </desc>
+    </path>
+    <path d="M 94.5591 479.2593 100.7143 479.2593 101.9453 458.3316 137.6455 458.3316 145.0317 458.3316 145.0317 480.4903 149.9559 481.7213 154.8801 494.0317 153.649 502.649 147.4938 500.1869 137.6455 501.418 114.2557 502.649 95.7901 502.649 93.328 489.1076 94.5591 479.2593 Z" id="US.GA.243" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Randolph County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>243</fips>
+        <incits>13243</incits>
+        <id>US.GA.243</id>
+        <population>7197</population>
+      </desc>
+    </path>
+    <path d="M 159.8042 277.3686 167.1905 273.6755 178.2698 276.1376 196.7354 276.1376 195.5044 298.2963 193.0423 305.6825 161.0353 304.4515 156.1111 308.1446 154.8801 301.9894 156.1111 289.679 159.8042 277.3686 Z" id="US.GA.231" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pike County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>231</fips>
+        <incits>13231</incits>
+        <id>US.GA.231</id>
+        <population>17796</population>
+      </desc>
+    </path>
+    <path d="M 108.1005 276.1376 109.3316 271.2134 159.8042 272.4444 159.8042 277.3686 156.1111 289.679 154.8801 301.9894 156.1111 308.1446 158.5732 320.455 149.9559 326.6102 131.4903 326.6102 121.642 322.9171 108.1005 321.6861 108.1005 276.1376 Z" id="US.GA.199" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Meriwether County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>199</fips>
+        <incits>13199</incits>
+        <id>US.GA.199</id>
+        <population>21232</population>
+      </desc>
+    </path>
+    <path d="M 156.1111 308.1446 161.0353 304.4515 193.0423 305.6825 213.97 305.6825 213.97 313.0688 213.97 325.3792 202.8907 348.769 200.4286 343.8448 190.5802 340.1517 177.0388 335.2275 170.8836 326.6102 165.9594 327.8413 158.5732 320.455 156.1111 308.1446 Z" id="US.GA.293" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Upson County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>293</fips>
+        <incits>13293</incits>
+        <id>US.GA.293</id>
+        <population>26566</population>
+      </desc>
+    </path>
+    <path d="M 297.6808 278.5996 298.9118 241.6684 335.843 234.2822 338.3051 240.4374 351.8466 252.7478 354.3086 258.903 343.2293 263.8272 335.843 277.3686 328.4568 279.8307 313.6843 277.3686 297.6808 278.5996 Z" id="US.GA.237" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Putnam County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>237</fips>
+        <incits>13237</incits>
+        <id>US.GA.237</id>
+        <population>21371</population>
+      </desc>
+    </path>
+    <path d="M 99.4832 148.1093 125.3351 148.1093 125.3351 167.806 127.7972 167.806 127.7972 187.5026 127.7972 191.1958 101.9453 191.1958 82.2487 187.5026 81.0176 172.7302 81.0176 166.575 90.866 166.575 99.4832 148.1093 Z" id="US.GA.223" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Paulding County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>223</fips>
+        <incits>13223</incits>
+        <id>US.GA.223</id>
+        <population>146950</population>
+      </desc>
+    </path>
+    <path d="M 317.3774 203.5062 333.381 198.582 335.843 193.6578 358.0018 203.5062 369.0811 201.0441 376.4674 203.5062 382.6226 209.6614 375.2363 214.5855 374.0053 220.7407 377.6984 229.358 374.0053 236.7443 351.8466 252.7478 338.3051 240.4374 335.843 234.2822 334.612 225.6649 325.9947 217.0476 317.3774 203.5062 Z" id="US.GA.133" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Greene County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>133</fips>
+        <incits>13133</incits>
+        <id>US.GA.133</id>
+        <population>16321</population>
+      </desc>
+    </path>
+    <path d="M 258.2875 284.7549 297.6808 278.5996 313.6843 277.3686 324.7637 314.2998 317.3774 317.9929 301.3739 326.6102 289.0635 320.455 280.4462 320.455 273.06 310.6067 271.8289 300.7584 258.2875 284.7549 Z" id="US.GA.169" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jones County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>169</fips>
+        <incits>13169</incits>
+        <id>US.GA.169</id>
+        <population>28569</population>
+      </desc>
+    </path>
+    <path d="M 26.8519 148.1093 50.2416 149.3404 50.2416 145.6473 81.0176 146.8783 99.4832 148.1093 90.866 166.575 81.0176 166.575 81.0176 172.7302 57.6279 173.9612 33.0071 175.1922 26.8519 148.1093 Z" id="US.GA.233" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Polk County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>233</fips>
+        <incits>13233</incits>
+        <id>US.GA.233</id>
+        <population>41183</population>
+      </desc>
+    </path>
+    <path d="M 335.843 181.3474 340.7672 173.9612 335.843 167.806 338.3051 160.4198 348.1534 157.9577 356.7707 153.0335 369.0811 157.9577 378.9295 154.2646 394.933 161.6508 407.2434 164.1129 393.7019 171.4991 377.6984 191.1958 382.6226 198.582 376.4674 203.5062 369.0811 201.0441 358.0018 203.5062 335.843 193.6578 332.1499 186.2716 335.843 181.3474 Z" id="US.GA.221" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Oglethorpe County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>221</fips>
+        <incits>13221</incits>
+        <id>US.GA.221</id>
+        <population>14548</population>
+      </desc>
+    </path>
+    <path d="M 376.4674 203.5062 382.6226 198.582 391.2399 212.1235 402.3192 209.6614 412.1675 215.8166 422.0159 217.0476 410.9365 230.5891 401.0882 231.8201 397.3951 240.4374 377.6984 239.2063 374.0053 236.7443 377.6984 229.358 374.0053 220.7407 375.2363 214.5855 382.6226 209.6614 376.4674 203.5062 Z" id="US.GA.265" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Taliaferro County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>265</fips>
+        <incits>13265</incits>
+        <id>US.GA.265</id>
+        <population>1703</population>
+      </desc>
+    </path>
+    <path d="M 33.0071 175.1922 57.6279 173.9612 81.0176 172.7302 82.2487 187.5026 81.0176 201.0441 67.4762 203.5062 46.5485 209.6614 39.1623 209.6614 33.0071 175.1922 Z" id="US.GA.143" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Haralson County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>143</fips>
+        <incits>13143</incits>
+        <id>US.GA.143</id>
+        <population>28495</population>
+      </desc>
+    </path>
+    <path d="M 39.1623 209.6614 46.5485 209.6614 67.4762 203.5062 81.0176 201.0441 82.2487 187.5026 101.9453 191.1958 101.9453 221.9718 115.4868 220.7407 109.3316 230.5891 99.4832 239.2063 85.9418 242.8995 45.3175 241.6684 39.1623 209.6614 Z" id="US.GA.045" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Carroll County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>045</fips>
+        <incits>13045</incits>
+        <id>US.GA.045</id>
+        <population>112355</population>
+      </desc>
+    </path>
+    <path d="M 380.1605 609.7496 380.1605 565.4321 423.2469 565.4321 434.3263 588.8219 449.0988 596.2081 449.0988 615.9048 456.485 617.1358 457.716 646.6808 458.9471 651.6049 435.5573 650.3739 435.5573 635.6014 429.4021 631.9083 408.4744 629.4462 399.8571 622.06 397.3951 614.6737 380.1605 609.7496 Z" id="US.GA.065" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Clinch County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>065</fips>
+        <incits>13065</incits>
+        <id>US.GA.065</id>
+        <population>6795</population>
+      </desc>
+    </path>
+    <path d="M 143.8007 231.8201 146.2628 229.358 165.9594 224.4339 177.0388 236.7443 175.8078 252.7478 175.8078 258.903 169.6526 266.2892 159.8042 266.2892 157.3422 257.672 143.8007 247.8236 141.3386 235.5132 143.8007 231.8201 Z" id="US.GA.113" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Fayette County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>113</fips>
+        <incits>13113</incits>
+        <id>US.GA.113</id>
+        <population>108365</population>
+      </desc>
+    </path>
+    <path d="M 12.0794 75.478 72.4004 75.478 62.552 97.6367 40.3933 107.485 31.776 118.5644 21.9277 118.5644 12.0794 75.478 Z" id="US.GA.055" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Chattooga County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>055</fips>
+        <incits>13055</incits>
+        <id>US.GA.055</id>
+        <population>25138</population>
+      </desc>
+    </path>
+    <path d="M 140.1076 370.9277 159.8042 369.6966 168.4215 367.2346 168.4215 373.3898 177.0388 386.9312 175.8078 405.3968 169.6526 414.0141 169.6526 423.8624 169.6526 428.7866 156.1111 428.7866 151.1869 420.1693 145.0317 420.1693 142.5697 414.0141 138.8765 414.0141 137.6455 414.0141 137.6455 375.8519 140.1076 370.9277 Z" id="US.GA.197" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Marion County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>197</fips>
+        <incits>13197</incits>
+        <id>US.GA.197</id>
+        <population>8640</population>
+      </desc>
+    </path>
+    <path d="M 515.575 369.6966 522.9612 373.3898 522.9612 379.545 531.5785 388.1623 524.1922 409.0899 515.575 407.8589 486.03 401.7037 482.3369 396.7795 492.1852 385.7002 498.3404 372.1587 506.9577 367.2346 515.575 369.6966 Z" id="US.GA.043" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Candler County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>043</fips>
+        <incits>13043</incits>
+        <id>US.GA.043</id>
+        <population>10937</population>
+      </desc>
+    </path>
+    <path d="M 99.4832 414.0141 137.6455 414.0141 138.8765 414.0141 140.1076 415.2451 138.8765 443.5591 137.6455 458.3316 101.9453 458.3316 78.5556 448.4832 81.0176 434.9418 78.5556 428.7866 87.1728 421.4004 99.4832 414.0141 Z" id="US.GA.259" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Stewart County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>259</fips>
+        <incits>13259</incits>
+        <id>US.GA.259</id>
+        <population>5868</population>
+      </desc>
+    </path>
+    <path d="M 85.9418 242.8995 99.4832 239.2063 109.3316 230.5891 142.5697 230.5891 143.8007 231.8201 141.3386 235.5132 143.8007 247.8236 157.3422 257.672 159.8042 266.2892 159.8042 272.4444 109.3316 271.2134 108.1005 276.1376 108.1005 271.2134 97.0212 271.2134 85.9418 242.8995 Z" id="US.GA.077" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Coweta County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>077</fips>
+        <incits>13077</incits>
+        <id>US.GA.077</id>
+        <population>133180</population>
+      </desc>
+    </path>
+    <path d="M 92.097 393.0864 106.8695 388.1623 117.9489 388.1623 122.873 384.4691 127.7972 374.6208 131.4903 373.3898 140.1076 370.9277 137.6455 375.8519 137.6455 414.0141 99.4832 414.0141 101.9453 410.321 97.0212 404.1658 87.1728 401.7037 92.097 393.0864 Z" id="US.GA.053" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Chattahoochee County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>053</fips>
+        <incits>13053</incits>
+        <id>US.GA.053</id>
+        <population>12842</population>
+      </desc>
+    </path>
+    <path d="M 101.9453 191.1958 127.7972 191.1958 127.7972 187.5026 142.5697 187.5026 148.7249 197.351 137.6455 205.9683 136.4145 209.6614 124.1041 213.3545 115.4868 220.7407 101.9453 221.9718 101.9453 191.1958 Z" id="US.GA.097" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Douglas County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>097</fips>
+        <incits>13097</incits>
+        <id>US.GA.097</id>
+        <population>136379</population>
+      </desc>
+    </path>
+    <path d="M 140.1076 554.3527 154.8801 554.3527 153.649 580.2046 126.5661 581.4356 99.4832 581.4356 99.4832 554.3527 131.4903 555.5838 140.1076 554.3527 Z" id="US.GA.201" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Miller County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>201</fips>
+        <incits>13201</incits>
+        <id>US.GA.201</id>
+        <population>5932</population>
+      </desc>
+    </path>
+    <path d="M 83.4797 580.2046 99.4832 581.4356 126.5661 581.4356 124.1041 585.1287 122.873 607.2875 121.642 614.6737 115.4868 622.06 108.1005 625.7531 106.8695 633.1393 100.7143 626.9841 97.0212 617.1358 95.7901 607.2875 87.1728 593.746 88.4039 588.8219 83.4797 580.2046 Z" id="US.GA.253" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Seminole County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>253</fips>
+        <incits>13253</incits>
+        <id>US.GA.253</id>
+        <population>8945</population>
+      </desc>
+    </path>
+    <path d="M 237.3598 443.5591 287.8325 443.5591 287.8325 468.1799 287.8325 475.5661 259.5185 475.5661 252.1323 470.642 241.0529 469.4109 243.515 460.7937 237.3598 443.5591 Z" id="US.GA.081" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Crisp County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>081</fips>
+        <incits>13081</incits>
+        <id>US.GA.081</id>
+        <population>23336</population>
+      </desc>
+    </path>
+    <path d="M 183.194 465.7178 183.194 459.5626 243.515 460.7937 241.0529 469.4109 229.9735 476.7972 233.6667 481.7213 227.5115 489.1076 228.7425 497.7249 225.0494 501.418 189.3492 501.418 189.3492 482.9524 194.2734 471.873 183.194 465.7178 Z" id="US.GA.177" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lee County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>177</fips>
+        <incits>13177</incits>
+        <id>US.GA.177</id>
+        <population>29071</population>
+      </desc>
+    </path>
+    <path d="M 303.836 506.3422 305.067 491.5697 309.9912 482.9524 328.4568 482.9524 328.4568 494.0317 337.0741 497.7249 350.6155 497.7249 350.6155 494.0317 375.2363 494.0317 366.619 503.8801 366.619 510.0353 358.0018 523.5767 354.3086 523.5767 327.2257 522.3457 321.0705 522.3457 317.3774 513.7284 307.5291 511.2663 303.836 506.3422 Z" id="US.GA.155" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Irwin County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>155</fips>
+        <incits>13155</incits>
+        <id>US.GA.155</id>
+        <population>9427</population>
+      </desc>
+    </path>
+    <path d="M 287.8325 443.5591 287.8325 430.0176 312.4533 431.2487 322.3016 428.7866 327.2257 432.4797 335.843 452.1764 345.6914 462.0247 350.6155 469.4109 306.2981 469.4109 287.8325 468.1799 287.8325 443.5591 Z" id="US.GA.315" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wilcox County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>315</fips>
+        <incits>13315</incits>
+        <id>US.GA.315</id>
+        <population>8960</population>
+      </desc>
+    </path>
+    <path d="M 425.709 373.3898 438.0194 370.9277 434.3263 364.7725 452.7919 354.9242 447.8677 348.769 456.485 337.6896 466.3333 330.3034 473.7196 327.8413 488.4921 331.5344 498.3404 330.3034 506.9577 352.4621 519.2681 359.8483 515.575 369.6966 506.9577 367.2346 498.3404 372.1587 492.1852 385.7002 482.3369 396.7795 486.03 401.7037 478.6437 405.3968 468.7954 405.3968 460.1781 396.7795 463.8713 384.4691 447.8677 375.8519 425.709 373.3898 Z" id="US.GA.107" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Emanuel County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>107</fips>
+        <incits>13107</incits>
+        <id>US.GA.107</id>
+        <population>22867</population>
+      </desc>
+    </path>
+    <path d="M 345.6914 462.0247 386.3157 427.5556 391.2399 436.1728 414.6296 446.0212 426.94 459.5626 420.7848 459.5626 410.9365 468.1799 398.6261 474.3351 394.933 479.2593 376.4674 479.2593 371.5432 479.2593 350.6155 469.4109 345.6914 462.0247 Z" id="US.GA.271" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Telfair County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>271</fips>
+        <incits>13271</incits>
+        <id>US.GA.271</id>
+        <population>16591</population>
+      </desc>
+    </path>
+    <path d="M 325.9947 409.0899 334.612 400.4727 332.1499 398.0106 350.6155 382.0071 355.5397 386.9312 376.4674 426.3245 392.4709 418.9383 386.3157 427.5556 345.6914 462.0247 335.843 452.1764 327.2257 432.4797 333.381 421.4004 322.3016 411.552 325.9947 409.0899 Z" id="US.GA.091" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dodge County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>091</fips>
+        <incits>13091</incits>
+        <id>US.GA.091</id>
+        <population>21221</population>
+      </desc>
+    </path>
+    <path d="M 195.5044 394.3175 202.8907 389.3933 215.2011 373.3898 228.7425 374.6208 242.284 374.6208 253.3633 380.776 255.8254 384.4691 253.3633 405.3968 237.3598 411.552 227.5115 422.6314 218.8942 420.1693 212.739 415.2451 205.3527 415.2451 200.4286 414.0141 200.4286 405.3968 195.5044 405.3968 195.5044 394.3175 Z" id="US.GA.193" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Macon County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>193</fips>
+        <incits>13193</incits>
+        <id>US.GA.193</id>
+        <population>14009</population>
+      </desc>
+    </path>
+    <path d="M 286.6014 406.6279 300.1429 389.3933 303.836 389.3933 325.9947 409.0899 322.3016 411.552 333.381 421.4004 327.2257 432.4797 322.3016 428.7866 312.4533 431.2487 287.8325 430.0176 286.6014 406.6279 Z" id="US.GA.235" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pulaski County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>235</fips>
+        <incits>13235</incits>
+        <id>US.GA.235</id>
+        <population>11542</population>
+      </desc>
+    </path>
+    <path d="M 301.3739 544.5044 313.6843 540.8113 312.4533 548.1975 319.8395 554.3527 327.2257 556.8148 327.2257 564.2011 332.1499 569.1252 329.6878 577.7425 335.843 582.6667 333.381 587.5908 307.5291 586.3598 296.4497 583.8977 292.7566 580.2046 297.6808 565.4321 302.6049 561.739 301.3739 544.5044 Z" id="US.GA.075" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cook County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>075</fips>
+        <incits>13075</incits>
+        <id>US.GA.075</id>
+        <population>17066</population>
+      </desc>
+    </path>
+    <path d="M 552.5062 316.7619 537.7337 350 541.4268 353.6931 519.2681 359.8483 506.9577 352.4621 498.3404 330.3034 502.0335 320.455 508.1887 315.5309 525.4233 314.2998 540.1958 310.6067 552.5062 316.7619 Z" id="US.GA.165" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jenkins County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>165</fips>
+        <incits>13165</incits>
+        <id>US.GA.165</id>
+        <population>9269</population>
+      </desc>
+    </path>
+    <path d="M 177.0388 635.6014 178.2698 580.2046 215.2011 580.2046 215.2011 594.9771 221.3563 603.5944 220.1252 638.0635 177.0388 635.6014 Z" id="US.GA.131" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Grady County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>131</fips>
+        <incits>13131</incits>
+        <id>US.GA.131</id>
+        <population>25278</population>
+      </desc>
+    </path>
+    <path d="M 259.5185 475.5661 287.8325 475.5661 287.8325 468.1799 306.2981 469.4109 309.9912 482.9524 305.067 491.5697 303.836 506.3422 281.6772 505.1111 281.6772 510.0353 271.8289 501.418 260.7496 501.418 259.5185 475.5661 Z" id="US.GA.287" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Turner County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>287</fips>
+        <incits>13287</incits>
+        <id>US.GA.287</id>
+        <population>8134</population>
+      </desc>
+    </path>
+    <path d="M 371.5432 612.2116 380.1605 609.7496 397.3951 614.6737 399.8571 622.06 408.4744 629.4462 429.4021 631.9083 435.5573 635.6014 435.5573 650.3739 355.5397 645.4497 358.0018 619.5979 362.9259 612.2116 371.5432 612.2116 Z" id="US.GA.101" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Echols County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>101</fips>
+        <incits>13101</incits>
+        <id>US.GA.101</id>
+        <population>4057</population>
+      </desc>
+    </path>
+    <path d="M 158.5732 580.2046 158.5732 574.0494 178.2698 556.8148 186.8871 544.5044 202.8907 539.5802 204.1217 534.6561 211.5079 528.5009 232.4356 527.2698 232.4356 543.2734 231.2046 580.2046 215.2011 580.2046 178.2698 580.2046 174.5767 580.2046 172.1146 580.2046 158.5732 580.2046 Z" id="US.GA.205" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Mitchell County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>205</fips>
+        <incits>13205</incits>
+        <id>US.GA.205</id>
+        <population>23045</population>
+      </desc>
+    </path>
+    <path d="M 168.4215 452.1764 169.6526 428.7866 169.6526 423.8624 205.3527 425.0935 205.3527 415.2451 212.739 415.2451 218.8942 420.1693 227.5115 422.6314 237.3598 443.5591 243.515 460.7937 183.194 459.5626 183.194 465.7178 168.4215 452.1764 Z" id="US.GA.261" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Sumter County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>261</fips>
+        <incits>13261</incits>
+        <id>US.GA.261</id>
+        <population>31364</population>
+      </desc>
+    </path>
+    <path d="M 307.5291 586.3598 333.381 587.5908 346.9224 587.5908 349.3845 598.6702 369.0811 598.6702 372.7743 604.8254 371.5432 612.2116 362.9259 612.2116 358.0018 619.5979 355.5397 645.4497 324.7637 642.9877 312.4533 635.6014 306.2981 625.7531 312.4533 618.3668 325.9947 612.2116 322.3016 608.5185 314.9153 607.2875 313.6843 598.6702 307.5291 586.3598 Z" id="US.GA.185" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lowndes County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>185</fips>
+        <incits>13185</incits>
+        <id>US.GA.185</id>
+        <population>112916</population>
+      </desc>
+    </path>
+    <path d="M 126.5661 581.4356 153.649 580.2046 158.5732 580.2046 172.1146 580.2046 174.5767 580.2046 178.2698 580.2046 177.0388 635.6014 106.8695 633.1393 108.1005 625.7531 115.4868 622.06 121.642 614.6737 122.873 607.2875 124.1041 585.1287 126.5661 581.4356 Z" id="US.GA.087" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Decatur County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>087</fips>
+        <incits>13087</incits>
+        <id>US.GA.087</id>
+        <population>27359</population>
+      </desc>
+    </path>
+    <path d="M 354.3086 523.5767 358.0018 523.5767 366.619 510.0353 366.619 503.8801 375.2363 494.0317 376.4674 479.2593 394.933 479.2593 398.6261 474.3351 398.6261 495.2628 429.4021 494.0317 429.4021 511.2663 433.0952 511.2663 433.0952 523.5767 429.4021 523.5767 429.4021 539.5802 402.3192 538.3492 397.3951 533.425 381.3915 530.963 355.5397 530.963 354.3086 523.5767 Z" id="US.GA.069" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Coffee County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>069</fips>
+        <incits>13069</incits>
+        <id>US.GA.069</id>
+        <population>43220</population>
+      </desc>
+    </path>
+    <path d="M 398.6261 474.3351 410.9365 468.1799 420.7848 459.5626 426.94 459.5626 441.7125 453.4074 450.3298 452.1764 457.716 452.1764 457.716 470.642 444.1746 470.642 444.1746 489.1076 444.1746 494.0317 429.4021 494.0317 398.6261 495.2628 398.6261 474.3351 Z" id="US.GA.161" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jeff Davis County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>161</fips>
+        <incits>13161</incits>
+        <id>US.GA.161</id>
+        <population>15004</population>
+      </desc>
+    </path>
+    <path d="M 241.0529 469.4109 252.1323 470.642 259.5185 475.5661 260.7496 501.418 271.8289 501.418 281.6772 510.0353 281.6772 543.2734 232.4356 543.2734 232.4356 527.2698 232.4356 501.418 228.7425 497.7249 227.5115 489.1076 233.6667 481.7213 229.9735 476.7972 241.0529 469.4109 Z" id="US.GA.321" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Worth County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>321</fips>
+        <incits>13321</incits>
+        <id>US.GA.321</id>
+        <population>21291</population>
+      </desc>
+    </path>
+    <path d="M 21.9277 118.5644 31.776 118.5644 40.3933 107.485 62.552 97.6367 72.4004 75.478 77.3245 75.478 74.8624 82.8642 74.8624 102.5608 87.1728 103.7919 84.7108 109.9471 84.7108 129.6437 81.0176 129.6437 81.0176 146.8783 50.2416 145.6473 50.2416 149.3404 26.8519 148.1093 21.9277 118.5644 Z" id="US.GA.115" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Floyd County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>115</fips>
+        <incits>13115</incits>
+        <id>US.GA.115</id>
+        <population>95821</population>
+      </desc>
+    </path>
+    <path d="M 281.6772 510.0353 281.6772 505.1111 303.836 506.3422 307.5291 511.2663 317.3774 513.7284 321.0705 522.3457 327.2257 522.3457 322.3016 524.8078 322.3016 533.425 313.6843 540.8113 301.3739 544.5044 281.6772 543.2734 281.6772 510.0353 Z" id="US.GA.277" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Tift County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>277</fips>
+        <incits>13277</incits>
+        <id>US.GA.277</id>
+        <population>40286</population>
+      </desc>
+    </path>
+    <path d="M 227.5115 422.6314 237.3598 411.552 253.3633 405.3968 286.6014 406.6279 287.8325 430.0176 287.8325 443.5591 237.3598 443.5591 227.5115 422.6314 Z" id="US.GA.093" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dooly County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>093</fips>
+        <incits>13093</incits>
+        <id>US.GA.093</id>
+        <population>14304</population>
+      </desc>
+    </path>
+    <path d="M 545.1199 446.0212 548.8131 450.9453 554.9683 450.9453 552.5062 465.7178 570.9718 481.7213 591.8995 490.3386 582.0511 508.8042 567.2787 513.7284 562.3545 507.5732 545.1199 497.7249 532.8095 486.6455 531.5785 482.9524 524.1922 478.0282 536.5026 459.5626 535.2716 454.6384 545.1199 446.0212 Z" id="US.GA.183" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Long County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>183</fips>
+        <incits>13183</incits>
+        <id>US.GA.183</id>
+        <population>16624</population>
+      </desc>
+    </path>
+    <path d="M 381.3915 346.3069 382.6226 338.9206 403.5503 331.5344 408.4744 336.4586 422.0159 332.7654 424.478 333.9965 444.1746 329.0723 456.485 337.6896 447.8677 348.769 452.7919 354.9242 434.3263 364.7725 438.0194 370.9277 425.709 373.3898 422.0159 372.1587 423.2469 359.8483 404.7813 352.4621 406.0123 348.769 394.933 345.0758 381.3915 346.3069 Z" id="US.GA.167" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Johnson County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>167</fips>
+        <incits>13167</incits>
+        <id>US.GA.167</id>
+        <population>9767</population>
+      </desc>
+    </path>
+    <path d="M 61.321 322.9171 108.1005 321.6861 121.642 322.9171 131.4903 326.6102 132.7213 327.8413 131.4903 363.5414 100.7143 363.5414 100.7143 359.8483 76.0935 359.8483 72.4004 348.769 68.7072 335.2275 63.7831 330.3034 61.321 322.9171 Z" id="US.GA.145" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Harris County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>145</fips>
+        <incits>13145</incits>
+        <id>US.GA.145</id>
+        <population>32663</population>
+      </desc>
+    </path>
+    <path d="M 142.5697 37.3157 170.8836 37.3157 186.8871 43.4709 195.5044 55.7813 195.5044 61.9365 202.8907 71.7848 195.5044 77.94 184.425 76.709 181.963 79.1711 178.2698 81.6332 137.6455 81.6332 137.6455 75.478 137.6455 55.7813 140.1076 48.3951 147.4938 42.2399 142.5697 37.3157 Z" id="US.GA.123" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Gilmer County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>123</fips>
+        <incits>13123</incits>
+        <id>US.GA.123</id>
+        <population>28579</population>
+      </desc>
+    </path>
+    <path d="M 424.478 285.9859 436.7884 285.9859 435.5573 278.5996 457.716 263.8272 463.8713 258.903 468.7954 258.903 481.1058 265.0582 486.03 269.9824 477.4127 294.6032 479.8748 313.0688 473.7196 327.8413 466.3333 330.3034 456.485 337.6896 444.1746 329.0723 445.4056 315.5309 441.7125 311.8377 440.4815 300.7584 433.0952 299.5273 424.478 285.9859 Z" id="US.GA.163" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jefferson County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>163</fips>
+        <incits>13163</incits>
+        <id>US.GA.163</id>
+        <population>16320</population>
+      </desc>
+    </path>
+    <path d="M 351.8466 252.7478 374.0053 236.7443 377.6984 239.2063 397.3951 240.4374 401.0882 242.8995 407.2434 265.0582 410.9365 267.5203 412.1675 269.9824 396.164 276.1376 391.2399 283.5238 374.0053 292.1411 367.8501 292.1411 358.0018 292.1411 361.6949 282.2928 335.843 277.3686 343.2293 263.8272 354.3086 258.903 351.8466 252.7478 Z" id="US.GA.141" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hancock County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>141</fips>
+        <incits>13141</incits>
+        <id>US.GA.141</id>
+        <population>8879</population>
+      </desc>
+    </path>
+    <path d="M 205.3527 73.0159 209.0459 66.8607 213.97 64.3986 226.2804 68.0917 233.6667 57.0123 241.0529 53.3192 252.1323 55.7813 249.6702 61.9365 250.9012 80.4021 254.5944 87.7884 234.8977 100.0988 216.4321 92.7125 204.1217 82.8642 205.3527 73.0159 Z" id="US.GA.187" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lumpkin County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>187</fips>
+        <incits>13187</incits>
+        <id>US.GA.187</id>
+        <population>30918</population>
+      </desc>
+    </path>
+    <path d="M 545.1199 446.0212 553.7372 441.097 559.8924 434.9418 569.7407 438.6349 582.0511 453.4074 590.6684 453.4074 605.4409 459.5626 612.8272 473.1041 622.6755 476.7972 626.3686 482.9524 641.1411 489.1076 655.9136 490.3386 649.7584 516.1905 637.448 513.7284 636.2169 505.1111 625.1376 497.7249 611.5961 497.7249 600.5168 498.9559 591.8995 490.3386 570.9718 481.7213 552.5062 465.7178 554.9683 450.9453 548.8131 450.9453 545.1199 446.0212 Z" id="US.GA.179" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Liberty County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>179</fips>
+        <incits>13179</incits>
+        <id>US.GA.179</id>
+        <population>64135</population>
+      </desc>
+    </path>
+    <path d="M 45.3175 241.6684 85.9418 242.8995 97.0212 271.2134 74.8624 278.5996 53.9347 284.7549 45.3175 241.6684 Z" id="US.GA.149" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Heard County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>149</fips>
+        <incits>13149</incits>
+        <id>US.GA.149</id>
+        <population>11558</population>
+      </desc>
+    </path>
+    <path d="M 410.9365 267.5203 422.0159 263.8272 426.94 260.134 439.2504 256.4409 457.716 263.8272 435.5573 278.5996 436.7884 285.9859 424.478 285.9859 413.3986 278.5996 412.1675 269.9824 410.9365 267.5203 Z" id="US.GA.125" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Glascock County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>125</fips>
+        <incits>13125</incits>
+        <id>US.GA.125</id>
+        <population>3102</population>
+      </desc>
+    </path>
+    <path d="M 458.9471 530.963 470.0265 529.7319 482.3369 517.4215 487.261 514.9594 495.8783 523.5767 500.8025 523.5767 511.8818 526.0388 513.1129 537.1182 519.2681 549.4286 505.7266 551.8907 492.1852 561.739 478.6437 559.2769 474.9506 559.2769 463.8713 548.1975 463.8713 539.5802 458.9471 530.963 Z" id="US.GA.229" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pierce County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>229</fips>
+        <incits>13229</incits>
+        <id>US.GA.229</id>
+        <population>18938</population>
+      </desc>
+    </path>
+    <path d="M 567.2787 513.7284 582.0511 508.8042 591.8995 490.3386 600.5168 498.9559 611.5961 497.7249 625.1376 497.7249 636.2169 505.1111 637.448 513.7284 649.7584 516.1905 636.2169 533.425 638.679 537.1182 636.2169 549.4286 620.2134 549.4286 610.3651 545.7354 600.5168 545.7354 579.5891 533.425 573.4339 526.0388 567.2787 513.7284 Z" id="US.GA.191" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>McIntosh County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>191</fips>
+        <incits>13191</incits>
+        <id>US.GA.191</id>
+        <population>14007</population>
+      </desc>
+    </path>
+    <path d="M 177.0388 386.9312 185.6561 394.3175 195.5044 394.3175 195.5044 405.3968 200.4286 405.3968 200.4286 414.0141 205.3527 415.2451 205.3527 425.0935 169.6526 423.8624 169.6526 414.0141 175.8078 405.3968 177.0388 386.9312 Z" id="US.GA.249" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Schley County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>249</fips>
+        <incits>13249</incits>
+        <id>US.GA.249</id>
+        <population>5089</population>
+      </desc>
+    </path>
+    <path d="M 76.0935 359.8483 100.7143 359.8483 100.7143 363.5414 131.4903 363.5414 136.4145 366.0035 131.4903 373.3898 127.7972 374.6208 122.873 384.4691 117.9489 388.1623 106.8695 388.1623 92.097 393.0864 92.097 384.4691 88.4039 373.3898 76.0935 359.8483 Z" id="US.GA.215" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Muscogee County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>215</fips>
+        <incits>13215</incits>
+        <id>US.GA.215</id>
+        <population>202824</population>
+      </desc>
+    </path>
+    <path d="M 425.709 215.8166 435.5573 210.8924 450.3298 210.8924 457.716 209.6614 460.1781 219.5097 456.485 224.4339 463.8713 236.7443 477.4127 252.7478 468.7954 258.903 463.8713 258.903 454.0229 255.2099 447.8677 255.2099 441.7125 250.2857 435.5573 239.2063 425.709 215.8166 Z" id="US.GA.189" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>McDuffie County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>189</fips>
+        <incits>13189</incits>
+        <id>US.GA.189</id>
+        <population>21565</population>
+      </desc>
+    </path>
+    <path d="M 486.03 401.7037 515.575 407.8589 521.7302 436.1728 535.2716 439.866 553.7372 441.097 545.1199 446.0212 535.2716 454.6384 536.5026 459.5626 524.1922 478.0282 510.6508 471.873 495.8783 460.7937 486.03 459.5626 493.4162 421.4004 488.4921 415.2451 486.03 401.7037 Z" id="US.GA.267" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Tattnall County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>267</fips>
+        <incits>13267</incits>
+        <id>US.GA.267</id>
+        <population>25526</population>
+      </desc>
+    </path>
+    <path d="M 78.5556 448.4832 101.9453 458.3316 100.7143 479.2593 94.5591 479.2593 67.4762 479.2593 67.4762 468.1799 78.5556 452.1764 78.5556 448.4832 Z" id="US.GA.239" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Quitman County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>239</fips>
+        <incits>13239</incits>
+        <id>US.GA.239</id>
+        <population>2367</population>
+      </desc>
+    </path>
+    <path d="M 131.4903 326.6102 149.9559 326.6102 158.5732 320.455 165.9594 327.8413 170.8836 326.6102 177.0388 335.2275 190.5802 340.1517 183.194 343.8448 177.0388 357.3862 168.4215 367.2346 159.8042 369.6966 140.1076 370.9277 131.4903 373.3898 136.4145 366.0035 131.4903 363.5414 132.7213 327.8413 131.4903 326.6102 Z" id="US.GA.263" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Talbot County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>263</fips>
+        <incits>13263</incits>
+        <id>US.GA.263</id>
+        <population>6456</population>
+      </desc>
+    </path>
+    <path d="M 460.1781 396.7795 456.485 405.3968 456.485 416.4762 450.3298 452.1764 441.7125 453.4074 433.0952 444.7901 430.6332 426.3245 425.709 405.3968 425.709 402.9347 460.1781 396.7795 Z" id="US.GA.209" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Montgomery County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>209</fips>
+        <incits>13209</incits>
+        <id>US.GA.209</id>
+        <population>9021</population>
+      </desc>
+    </path>
+    <path d="M 317.3774 132.1058 324.7637 128.4127 334.612 123.4885 350.6155 125.9506 359.2328 121.0265 364.157 128.4127 360.4638 135.7989 365.388 138.261 371.5432 145.6473 378.9295 154.2646 369.0811 157.9577 356.7707 153.0335 348.1534 157.9577 338.3051 160.4198 323.5326 154.2646 319.8395 153.0335 324.7637 143.1852 323.5326 135.7989 317.3774 132.1058 Z" id="US.GA.195" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Madison County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>195</fips>
+        <incits>13195</incits>
+        <id>US.GA.195</id>
+        <population>28057</population>
+      </desc>
+    </path>
+    <path d="M 365.388 311.8377 369.0811 305.6825 365.388 299.5273 367.8501 292.1411 374.0053 292.1411 391.2399 283.5238 396.164 276.1376 412.1675 269.9824 413.3986 278.5996 424.478 285.9859 433.0952 299.5273 440.4815 300.7584 441.7125 311.8377 445.4056 315.5309 444.1746 329.0723 424.478 333.9965 422.0159 332.7654 408.4744 336.4586 403.5503 331.5344 382.6226 338.9206 377.6984 325.3792 371.5432 324.1481 365.388 311.8377 Z" id="US.GA.303" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Washington County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>303</fips>
+        <incits>13303</incits>
+        <id>US.GA.303</id>
+        <population>20676</population>
+      </desc>
+    </path>
+    <path d="M 425.709 373.3898 447.8677 375.8519 463.8713 384.4691 460.1781 396.7795 425.709 402.9347 425.709 405.3968 415.8607 402.9347 413.3986 399.2416 418.3228 385.7002 428.1711 377.0829 425.709 373.3898 Z" id="US.GA.283" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Treutlen County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>283</fips>
+        <incits>13283</incits>
+        <id>US.GA.283</id>
+        <population>6712</population>
+      </desc>
+    </path>
+    <path d="M 168.4215 367.2346 177.0388 357.3862 183.194 343.8448 190.5802 340.1517 200.4286 343.8448 202.8907 348.769 216.4321 350 221.3563 362.3104 231.2046 370.9277 228.7425 374.6208 215.2011 373.3898 202.8907 389.3933 195.5044 394.3175 185.6561 394.3175 177.0388 386.9312 168.4215 373.3898 168.4215 367.2346 Z" id="US.GA.269" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Taylor County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>269</fips>
+        <incits>13269</incits>
+        <id>US.GA.269</id>
+        <population>8464</population>
+      </desc>
+    </path>
+    <path d="M 386.3157 427.5556 392.4709 418.9383 396.164 420.1693 415.8607 402.9347 425.709 405.3968 430.6332 426.3245 433.0952 444.7901 441.7125 453.4074 426.94 459.5626 414.6296 446.0212 391.2399 436.1728 386.3157 427.5556 Z" id="US.GA.309" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wheeler County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>309</fips>
+        <incits>13309</incits>
+        <id>US.GA.309</id>
+        <population>7909</population>
+      </desc>
+    </path>
+    <path d="M 422.0159 217.0476 425.709 215.8166 435.5573 239.2063 441.7125 250.2857 447.8677 255.2099 454.0229 255.2099 463.8713 258.903 457.716 263.8272 439.2504 256.4409 426.94 260.134 422.0159 263.8272 410.9365 267.5203 407.2434 265.0582 401.0882 242.8995 397.3951 240.4374 401.0882 231.8201 410.9365 230.5891 422.0159 217.0476 Z" id="US.GA.301" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Warren County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>301</fips>
+        <incits>13301</incits>
+        <id>US.GA.301</id>
+        <population>5558</population>
+      </desc>
+    </path>
+    <path d="M 460.1781 396.7795 468.7954 405.3968 478.6437 405.3968 486.03 401.7037 488.4921 415.2451 493.4162 421.4004 486.03 459.5626 478.6437 455.8695 473.7196 457.1005 457.716 452.1764 450.3298 452.1764 456.485 416.4762 456.485 405.3968 460.1781 396.7795 Z" id="US.GA.279" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Toombs County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>279</fips>
+        <incits>13279</incits>
+        <id>US.GA.279</id>
+        <population>27273</population>
+      </desc>
+    </path>
+    <path d="M 407.2434 164.1129 426.94 161.6508 436.7884 189.9647 450.3298 210.8924 435.5573 210.8924 425.709 215.8166 422.0159 217.0476 412.1675 215.8166 402.3192 209.6614 391.2399 212.1235 382.6226 198.582 377.6984 191.1958 393.7019 171.4991 407.2434 164.1129 Z" id="US.GA.317" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wilkes County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>317</fips>
+        <incits>13317</incits>
+        <id>US.GA.317</id>
+        <population>10010</population>
+      </desc>
+    </path>
+    <path d="M 137.6455 458.3316 138.8765 443.5591 140.1076 415.2451 138.8765 414.0141 142.5697 414.0141 145.0317 420.1693 151.1869 420.1693 156.1111 428.7866 169.6526 428.7866 168.4215 452.1764 167.1905 459.5626 145.0317 458.3316 137.6455 458.3316 Z" id="US.GA.307" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Webster County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>307</fips>
+        <incits>13307</incits>
+        <id>US.GA.307</id>
+        <population>2719</population>
+      </desc>
+    </path>
+    <path d="M 53.9347 284.7549 74.8624 278.5996 97.0212 271.2134 108.1005 271.2134 108.1005 276.1376 108.1005 321.6861 61.321 322.9171 53.9347 284.7549 Z" id="US.GA.285" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Troup County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>285</fips>
+        <incits>13285</incits>
+        <id>US.GA.285</id>
+        <population>69053</population>
+      </desc>
+    </path>
+    <path d="M 145.0317 458.3316 167.1905 459.5626 168.4215 452.1764 183.194 465.7178 194.2734 471.873 189.3492 482.9524 189.3492 501.418 167.1905 502.649 153.649 502.649 154.8801 494.0317 149.9559 481.7213 145.0317 480.4903 145.0317 458.3316 Z" id="US.GA.273" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Terrell County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>273</fips>
+        <incits>13273</incits>
+        <id>US.GA.273</id>
+        <population>9022</population>
+      </desc>
+    </path>
+    <path d="M 252.1323 55.7813 257.0564 47.164 263.2116 45.933 277.9841 44.7019 285.3704 50.8571 282.9083 64.3986 284.1393 76.709 286.6014 81.6332 279.2152 87.7884 254.5944 87.7884 250.9012 80.4021 249.6702 61.9365 252.1323 55.7813 Z" id="US.GA.311" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>White County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>311</fips>
+        <incits>13311</incits>
+        <id>US.GA.311</id>
+        <population>27797</population>
+      </desc>
+    </path>
+    <path d="M 253.3633 380.776 268.1358 374.6208 271.8289 370.9277 271.8289 356.1552 274.291 347.5379 290.2945 352.4621 295.2187 353.6931 297.6808 372.1587 305.067 377.0829 303.836 382.0071 303.836 389.3933 300.1429 389.3933 286.6014 406.6279 253.3633 405.3968 255.8254 384.4691 253.3633 380.776 Z" id="US.GA.153" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Houston County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>153</fips>
+        <incits>13153</incits>
+        <id>US.GA.153</id>
+        <population>147658</population>
+      </desc>
+    </path>
+    <path d="M 228.7425 374.6208 231.2046 370.9277 265.6737 347.5379 273.06 347.5379 274.291 347.5379 271.8289 356.1552 271.8289 370.9277 268.1358 374.6208 253.3633 380.776 242.284 374.6208 228.7425 374.6208 Z" id="US.GA.225" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Peach County</name>
+        <stateAbbrev>GA</stateAbbrev>
+        <state>Georgia</state>
+        <fips>225</fips>
+        <incits>13225</incits>
+        <id>US.GA.225</id>
+        <population>27014</population>
+      </desc>
+    </path>
+  </g>
+</svg>

@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="tibet">
+    <path d="M 73.1378 401.0976 74.8077 391.0785 80.4852 391.4124 85.8287 382.3952 93.844 376.3837 118.2239 383.3971 118.8919 385.401 135.9244 391.4124 143.6057 396.422 142.2699 404.1033 131.9167 401.7656 126.9072 409.4469 121.8976 405.4392 109.8746 401.4316 103.1952 403.4354 101.8593 409.4469 94.178 415.7923 89.8364 408.111 73.1378 401.0976 Z" id="CN.tibet.1997907" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Burang County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Burang</wikipedia>
+        <localname>རྩ་མདའ་རྫོང་ / 普兰县 / Burang</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.1997907</id>
+      </desc>
+    </path>
+    <path d="M 212.0699 360.3531 217.7474 363.3589 227.4325 359.6852 236.7837 362.6909 243.7971 370.3722 262.8335 376.3837 263.5014 382.3952 261.1636 383.7311 252.1464 380.0574 249.1407 384.0651 251.1445 389.4086 250.8105 389.7426 253.1483 397.4239 249.8086 415.7923 240.1234 422.4718 229.4364 426.4794 213.7397 416.1263 214.7416 410.4488 209.7321 403.7694 207.0603 393.0823 215.7435 385.067 204.0545 366.6986 212.0699 360.3531 Z" id="CN.tibet.1997908" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Coqên County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Coqên</wikipedia>
+        <localname>མཚོ་ཆེན་རྫོང / 措勤县 / Coqen</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.1997908</id>
+      </desc>
+    </path>
+    <path d="M 28.7196 316.6029 33.7292 320.9445 49.7598 325.2861 55.7713 318.2727 62.7847 318.9407 66.1244 324.6182 70.466 332.2995 82.489 334.9713 89.1684 349.666 87.1646 354.6756 79.1493 359.0172 83.4909 369.7043 93.844 376.3837 85.8287 382.3952 71.8019 378.3876 66.1244 379.0555 60.7809 366.3646 52.4316 357.6813 52.7656 351.0019 48.4239 342.9866 31.7254 328.6258 28.7196 316.6029 Z" id="CN.tibet.1997909" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Gar County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Gar County</wikipedia>
+        <localname>སྒར་རྫོང་ / 噶尔县 / Gar</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.1997909</id>
+      </desc>
+    </path>
+    <path d="M 122.2316 236.7837 123.9014 232.7761 133.5866 228.7684 137.9282 223.7589 154.9608 225.4287 160.3043 234.4459 177.0029 236.4498 201.0488 233.778 205.0565 229.4364 232.1081 221.4211 244.1311 225.7627 246.8029 222.423 259.4938 218.7493 266.8411 228.7684 264.8373 242.7952 255.4861 264.5033 262.4995 267.8431 261.4976 274.5225 266.1732 285.2096 262.8335 291.2211 267.5091 300.5722 258.8258 318.2727 259.4938 321.6124 232.4421 331.9656 225.0947 345.3244 228.4344 350.334 227.4325 359.6852 217.7474 363.3589 212.0699 360.3531 194.7033 359.6852 188.6919 362.6909 171.9933 362.6909 160.9722 359.6852 154.6268 366.3646 146.2775 365.0287 146.2775 356.3455 150.2852 352.0038 159.9703 349.666 156.6306 335.3053 158.9684 326.288 150.9531 310.9254 150.6191 297.9005 134.9225 290.8871 131.5828 282.5378 122.2316 268.511 134.2545 259.1598 137.2603 248.1388 134.9225 241.1254 122.2316 236.7837 Z" id="CN.tibet.1997910" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Gêrzê County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Gêrzê</wikipedia>
+        <localname>སྒེར་རྩེ་རྫོང་ / 改则县 / Gerze</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.1997910</id>
+      </desc>
+    </path>
+    <path d="M 66.1244 324.6182 74.1397 321.2785 88.5005 321.6124 92.1742 324.2842 111.8785 319.2746 105.199 312.5952 106.5349 307.5856 123.9014 304.5799 131.9167 299.5703 134.9225 290.8871 150.6191 297.9005 150.9531 310.9254 158.9684 326.288 156.6306 335.3053 159.9703 349.666 150.2852 352.0038 146.2775 356.3455 146.2775 365.0287 154.6268 366.3646 152.623 377.0517 153.9589 384.733 161.9742 392.4144 157.9665 399.4278 148.2813 389.4086 143.6057 396.422 135.9244 391.4124 118.8919 385.401 118.2239 383.3971 93.844 376.3837 83.4909 369.7043 79.1493 359.0172 87.1646 354.6756 89.1684 349.666 82.489 334.9713 70.466 332.2995 66.1244 324.6182 Z" id="CN.tibet.1997911" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Gê'gyai County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Gê'gyai</wikipedia>
+        <localname>དགེ་རྒྱས་རྫོང་ / 革吉县 / Gê'gyai</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.1997911</id>
+      </desc>
+    </path>
+    <path d="M 122.2316 236.7837 134.9225 241.1254 137.2603 248.1388 134.2545 259.1598 122.2316 268.511 131.5828 282.5378 134.9225 290.8871 131.9167 299.5703 123.9014 304.5799 106.5349 307.5856 105.199 312.5952 111.8785 319.2746 92.1742 324.2842 88.5005 321.6124 74.1397 321.2785 66.1244 324.6182 62.7847 318.9407 55.7713 318.2727 49.7598 325.2861 33.7292 320.9445 28.7196 316.6029 26.3818 309.2555 15.6947 300.9062 12.689 281.5359 18.7005 276.1923 21.7062 267.8431 48.7579 265.1713 56.4392 246.1349 62.1167 243.7971 64.7885 235.7818 72.8038 232.4421 89.5024 237.1177 102.8612 235.7818 107.8708 239.7895 122.2316 236.7837 Z" id="CN.tibet.1997912" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Rutog County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Rutog</wikipedia>
+        <localname>རུ་ཐོག་རྫོང་ / 日土县 / Rutoq</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.1997912</id>
+      </desc>
+    </path>
+    <path d="M 31.7254 328.6258 48.4239 342.9866 52.7656 351.0019 52.4316 357.6813 60.7809 366.3646 66.1244 379.0555 71.8019 378.3876 85.8287 382.3952 80.4852 391.4124 74.8077 391.0785 73.1378 401.0976 62.1167 396.422 63.4526 392.0804 50.0938 383.3971 41.4105 384.733 32.0593 378.0536 23.71 367.0325 13.6909 372.0421 16.0287 362.023 11.3531 356.6794 13.6909 350 4.3397 339.6469 1 330.6297 12.0211 326.288 15.0268 334.3033 20.3703 337.6431 31.7254 328.6258 Z" id="CN.tibet.1997913" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Zanda County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Zanda</wikipedia>
+        <localname>རྩ་མདའ་རྫོང་ / 札达县 / Zanda</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.1997913</id>
+      </desc>
+    </path>
+    <path d="M 531.6804 399.7617 547.0431 397.7579 549.7148 395.4201 560.7359 397.4239 571.7569 395.4201 583.7799 397.4239 591.7952 407.777 601.1464 408.7789 606.8239 405.7732 615.5072 408.7789 615.5072 415.1244 610.1636 423.4737 615.8411 431.155 613.1694 436.4986 607.8258 436.8325 596.8048 431.489 585.4498 428.1493 570.0871 418.4641 560.0679 412.7866 538.0258 408.445 535.0201 411.1167 527.0048 405.7732 531.6804 399.7617 Z" id="CN.tibet.2734498" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Bomê County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Bomê</wikipedia>
+        <localname>སྤོ་མེས་རྫོང་ / 波密县 / Bomê</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2734498</id>
+      </desc>
+    </path>
+    <path d="M 479.9148 408.7789 489.6 395.7541 497.2813 402.4335 502.2909 399.4278 511.6421 406.4411 527.0048 405.7732 535.0201 411.1167 538.3598 415.7923 533.3502 420.134 522.6632 419.466 508.3024 425.8115 513.9799 435.1627 506.9665 431.155 497.9493 434.8287 496.2794 433.4928 488.9321 425.8115 478.245 427.8153 476.5751 431.489 472.5675 422.1378 467.5579 418.4641 477.911 412.7866 479.9148 408.7789 Z" id="CN.tibet.2734499" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Gongbo'gyamda County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Gongbo'gyamda</wikipedia>
+        <localname>ཀོང་པོ་རྒྱ་མདའ་རྫོང / 工布江达县 / Gongbo'gyamda</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2734499</id>
+      </desc>
+    </path>
+    <path d="M 497.9493 434.8287 506.9665 431.155 513.9799 435.1627 530.3445 432.8249 539.6957 437.8344 549.3809 434.1608 555.0584 423.8077 567.4153 424.1416 556.7282 438.1684 551.3847 440.1722 539.3617 444.8478 538.0258 449.8574 516.6517 461.2124 511.6421 460.8785 512.978 450.5254 503.2928 446.1837 497.9493 434.8287 Z" id="CN.tibet.2734500" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Mainling County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Mainling</wikipedia>
+        <localname>སྨན་གླིང་རྫོང་ / 米林县 / Mainling</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2734500</id>
+      </desc>
+    </path>
+    <path d="M 551.3847 440.1722 556.7282 438.1684 567.4153 424.1416 570.0871 418.4641 585.4498 428.1493 596.8048 431.489 595.8029 437.1665 584.1139 442.844 565.0775 446.8517 551.3847 440.1722 Z" id="CN.tibet.2734501" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Mêdog County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Mêdog</wikipedia>
+        <localname>མེ་ཏོག་རྫོང་ / 墨脱县 / Mêdog</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2734501</id>
+      </desc>
+    </path>
+    <path d="M 473.2354 456.2029 475.2392 454.867 481.9187 456.5368 485.9263 447.8536 496.2794 438.8364 496.2794 433.4928 497.9493 434.8287 503.2928 446.1837 512.978 450.5254 511.6421 460.8785 508.9703 460.8785 504.2947 457.8727 495.9455 459.2086 473.2354 456.2029 Z" id="CN.tibet.2734502" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Nang County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Nang</wikipedia>
+        <localname>སྣང་རྫོང་ / 朗县 / Nang</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2734502</id>
+      </desc>
+    </path>
+    <path d="M 535.0201 411.1167 538.0258 408.445 560.0679 412.7866 570.0871 418.4641 567.4153 424.1416 555.0584 423.8077 549.3809 434.1608 539.6957 437.8344 530.3445 432.8249 513.9799 435.1627 508.3024 425.8115 522.6632 419.466 533.3502 420.134 538.3598 415.7923 535.0201 411.1167 Z" id="CN.tibet.2734503" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Bayi District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Bayi District</wikipedia>
+        <localname>བྲག་ཡིབ་གྲོང་ཆུས་ / 巴宜区 / Bayi</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2734503</id>
+      </desc>
+    </path>
+    <path d="M 596.8048 431.489 607.8258 436.8325 613.1694 436.4986 618.1789 444.5139 627.1962 443.512 626.8622 431.823 630.5359 431.823 645.8986 440.5062 660.9273 445.5158 664.601 451.5273 676.29 457.2048 679.6297 466.556 684.3053 468.8938 685.3072 475.9072 674.6201 479.9148 665.9368 478.5789 650.2402 465.5541 644.5627 466.89 638.8852 476.5751 632.5397 471.8995 626.8622 472.5675 623.1885 467.2239 614.8392 462.8823 611.1656 451.8612 595.8029 437.1665 596.8048 431.489 Z" id="CN.tibet.2734504" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Zayü County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Zayü</wikipedia>
+        <localname>རྫ་ཡུལ་རྫོང་ / 察隅县 / Zayü</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2734504</id>
+      </desc>
+    </path>
+    <path d="M 617.511 358.6833 619.1809 348.3301 636.8813 346.3263 640.889 339.3129 641.5569 353.3397 643.8947 358.3493 653.5799 366.3646 652.244 371.7081 659.9254 376.3837 656.5856 380.0574 644.8967 377.3856 634.8775 391.0785 625.1923 388.4067 619.8488 383.3971 622.8545 377.0517 622.1866 367.3665 617.511 358.6833 Z" id="CN.tibet.2734864" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Karub District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Karub (Stadtbezirk)</wikipedia>
+        <localname>མཁར་རོ་ཆུས།་་ / 卡若区 / Karub</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2734864</id>
+      </desc>
+    </path>
+    <path d="M 552.0526 330.9636 568.4172 337.977 575.4306 348.6641 575.7646 355.3435 588.1215 359.6852 588.7895 365.3627 604.1522 379.7234 594.467 382.3952 583.112 376.3837 575.4306 379.0555 569.4191 377.0517 560.0679 372.71 552.7206 363.6928 549.7148 355.0096 548.3789 343.6545 552.0526 330.9636 Z" id="CN.tibet.2734865" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dêngqên County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Dêngqên</wikipedia>
+        <localname>སྟེང་ཆེན་རྫོང་ / 丁青县 / Dêngqên</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2734865</id>
+      </desc>
+    </path>
+    <path d="M 613.1694 383.7311 619.8488 383.3971 625.1923 388.4067 634.8775 391.0785 642.5589 401.4316 638.5512 405.1053 639.8871 419.1321 630.5359 431.823 626.8622 431.823 627.1962 443.512 618.1789 444.5139 613.1694 436.4986 615.8411 431.155 610.1636 423.4737 615.5072 415.1244 615.5072 408.7789 606.8239 405.7732 604.1522 396.756 613.1694 383.7311 Z" id="CN.tibet.2734909" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Baxoi County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Baxoi</wikipedia>
+        <localname>དཔའ་ཤོད་རྫོང་ / 八宿县 / Baxoi</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2734909</id>
+      </desc>
+    </path>
+    <path d="M 656.5856 380.0574 659.9254 376.3837 666.2708 374.3799 675.622 381.7273 687.311 381.3933 691.9866 392.7483 694.3244 406.1072 680.9656 406.1072 677.9598 409.4469 671.9483 395.7541 662.5971 388.0727 656.5856 380.0574 Z" id="CN.tibet.2734910" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Gonjo County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Gonjo</wikipedia>
+        <localname>གོ་འཇོ་རྫོང་ / 贡觉县 / Gonjo</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2734910</id>
+      </desc>
+    </path>
+    <path d="M 687.311 381.3933 675.622 381.7273 666.2708 374.3799 659.9254 376.3837 652.244 371.7081 653.5799 366.3646 643.8947 358.3493 641.5569 353.3397 640.889 339.3129 640.555 331.9656 653.2459 330.9636 668.6086 337.3091 675.956 348.3301 679.9636 360.3531 691.3187 370.0383 682.3014 375.7158 687.311 381.3933 Z" id="CN.tibet.2734911" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jomda County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Jomda County</wikipedia>
+        <localname>འཇོ་མདའ་རྫོང་ / 江达县 / Jomda</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2734911</id>
+      </desc>
+    </path>
+    <path d="M 569.4191 377.0517 575.4306 379.0555 583.112 376.3837 594.467 382.3952 604.1522 379.7234 613.1694 383.7311 604.1522 396.756 606.8239 405.7732 601.1464 408.7789 591.7952 407.777 583.7799 397.4239 571.7569 395.4201 569.0852 390.4105 572.0909 382.3952 569.4191 377.0517 Z" id="CN.tibet.2734912" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lhorong County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Lhorong</wikipedia>
+        <localname>ལྷོ་རོང་རྫོང་ / 洛隆县 / Lhorong</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2734912</id>
+      </desc>
+    </path>
+    <path d="M 661.2612 412.1187 673.9522 413.1206 677.9598 409.4469 680.9656 406.1072 694.3244 406.1072 696.9962 419.8 694.6584 427.8153 699 441.8421 689.3148 455.8689 681.6335 460.5445 678.2938 446.1837 671.9483 439.5043 666.9388 439.1703 661.2612 425.8115 669.6105 428.4833 661.2612 412.1187 Z" id="CN.tibet.2734913" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Markam County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Markam</wikipedia>
+        <localname>སྨར་ཁམས་རྫོང་ / 芒康县 / Markam</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2734913</id>
+      </desc>
+    </path>
+    <path d="M 588.1215 359.6852 596.1368 358.0153 600.4785 352.3378 617.511 358.6833 622.1866 367.3665 622.8545 377.0517 619.8488 383.3971 613.1694 383.7311 604.1522 379.7234 588.7895 365.3627 588.1215 359.6852 Z" id="CN.tibet.2734914" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Riwoqê County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Riwoqê</wikipedia>
+        <localname>རི་བོ་ཆེ་རྫོང་ / 类乌齐县 / Riwoqê</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2734914</id>
+      </desc>
+    </path>
+    <path d="M 656.5856 380.0574 662.5971 388.0727 671.9483 395.7541 677.9598 409.4469 673.9522 413.1206 661.2612 412.1187 646.9005 407.4431 642.5589 401.4316 634.8775 391.0785 644.8967 377.3856 656.5856 380.0574 Z" id="CN.tibet.2734915" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Zhag'yab County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Zhag'yab</wikipedia>
+        <localname>བྲག་གཡབ་རྫོང་ / 察雅县 / Zhag'yab</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2734915</id>
+      </desc>
+    </path>
+    <path d="M 642.5589 401.4316 646.9005 407.4431 661.2612 412.1187 669.6105 428.4833 661.2612 425.8115 666.9388 439.1703 671.9483 439.5043 678.2938 446.1837 681.6335 460.5445 684.3053 468.8938 679.6297 466.556 676.29 457.2048 664.601 451.5273 660.9273 445.5158 645.8986 440.5062 630.5359 431.823 639.8871 419.1321 638.5512 405.1053 642.5589 401.4316 Z" id="CN.tibet.2734916" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Zogang County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Zogang</wikipedia>
+        <localname>མཛོ་སྒང་རྫོང་ / 左贡县 / Zogang</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2734916</id>
+      </desc>
+    </path>
+    <path d="M 429.4852 466.556 436.8325 460.8785 435.4967 451.1933 437.8344 451.8612 449.8574 454.867 457.2048 458.5407 455.8689 469.5617 447.1856 468.2258 440.5062 476.2411 430.1531 476.5751 429.4852 466.556 Z" id="CN.tibet.2743966" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Comai County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Comai</wikipedia>
+        <localname>མཚོ་སམད་རྫོང / 措美县 / Comai</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2743966</id>
+      </desc>
+    </path>
+    <path d="M 439.1703 482.5866 440.5062 476.2411 447.1856 468.2258 455.8689 469.5617 461.5464 475.9072 466.222 473.2354 476.5751 472.9014 481.5847 480.2488 483.9225 484.2565 474.5713 490.6019 468.2258 487.5962 458.2067 492.2718 447.1856 491.6038 446.5177 487.2622 439.1703 482.5866 Z" id="CN.tibet.2743967" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cona County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Cona (Shannan)</wikipedia>
+        <localname>མཚོ་སྣ་རྫོང་ / 错那县 / Cona</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2743967</id>
+      </desc>
+    </path>
+    <path d="M 408.445 441.5081 427.4813 435.1627 431.489 432.8249 433.1589 432.4909 430.8211 449.8574 423.8077 447.1856 416.7943 450.8593 408.445 441.5081 Z" id="CN.tibet.2743968" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Gonggar County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Gonggar</wikipedia>
+        <localname>འཕྱོངས་རྒྱས་རྫོང / 贡嘎县 / Gonggar</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2743968</id>
+      </desc>
+    </path>
+    <path d="M 472.5675 442.1761 476.5751 431.489 478.245 427.8153 488.9321 425.8115 496.2794 433.4928 496.2794 438.8364 485.9263 447.8536 481.9187 456.5368 475.2392 454.867 470.5636 445.5158 472.5675 442.1761 Z" id="CN.tibet.2743969" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Gyaca County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Gyaca</wikipedia>
+        <localname>རྒྱ་ཚ་རྫོང་ / 加查县 / Gyaca</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2743969</id>
+      </desc>
+    </path>
+    <path d="M 429.4852 466.556 430.1531 476.5751 440.5062 476.2411 439.1703 482.5866 430.4871 483.9225 415.1244 480.9167 411.4507 482.9206 402.4335 478.5789 404.1033 469.2278 413.4545 469.5617 422.4718 465.2201 429.4852 466.556 Z" id="CN.tibet.2743970" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lhozhag County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Lhozhag</wikipedia>
+        <localname>ལྷོ་བྲག་རྫོང་ / 洛扎县 / Lhozhag</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2743970</id>
+      </desc>
+    </path>
+    <path d="M 457.2048 458.5407 459.2086 457.2048 462.8823 461.8804 473.2354 456.2029 495.9455 459.2086 504.2947 457.8727 508.9703 460.8785 499.2852 466.89 497.9493 471.2316 481.5847 480.2488 476.5751 472.9014 466.222 473.2354 461.5464 475.9072 455.8689 469.5617 457.2048 458.5407 Z" id="CN.tibet.2743971" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lhünzê County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Lhünzê</wikipedia>
+        <localname>ལྷུན་རྩེ་རྫོང་ / 隆子县 / Lhünzê</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2743971</id>
+      </desc>
+    </path>
+    <path d="M 395.0861 461.2124 398.0919 450.8593 403.4354 439.5043 404.1033 439.8383 408.445 441.5081 416.7943 450.8593 423.8077 447.1856 430.8211 449.8574 435.4967 451.1933 436.8325 460.8785 429.4852 466.556 422.4718 465.2201 413.4545 469.5617 404.1033 469.2278 402.4335 478.5789 398.0919 477.577 394.7522 470.2297 395.0861 461.2124 Z" id="CN.tibet.2743972" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Nagarzê County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Nagarzê</wikipedia>
+        <localname>སྣ་དཀར་རྩེ་རྫོང་ / 浪卡子县 / Nagarzê</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2743972</id>
+      </desc>
+    </path>
+    <path d="M 446.8517 432.1569 459.5426 431.155 453.8651 442.844 459.2086 449.8574 459.2086 457.2048 457.2048 458.5407 449.8574 454.867 451.1933 448.8555 445.1818 443.8459 446.8517 432.1569 Z" id="CN.tibet.2743973" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Nêdong County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Nêdong</wikipedia>
+        <localname>སྣེ་གདོང་རྫོང་ / 乃东县 / Nêdong</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2743973</id>
+      </desc>
+    </path>
+    <path d="M 445.1818 443.8459 451.1933 448.8555 449.8574 454.867 437.8344 451.8612 445.1818 443.8459 Z" id="CN.tibet.2743974" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Qonggyai County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Qonggyai</wikipedia>
+        <localname>འཕྱོངས་རྒྱས་རྫོང / 琼结县 / Qonggyai</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2743974</id>
+      </desc>
+    </path>
+    <path d="M 459.2086 457.2048 459.2086 449.8574 464.2182 441.1742 472.5675 442.1761 470.5636 445.5158 475.2392 454.867 473.2354 456.2029 462.8823 461.8804 459.2086 457.2048 Z" id="CN.tibet.2743975" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Qusum County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Qusum</wikipedia>
+        <localname>ཆུ་གསུམ་རྫོང་ / 曲松县 / Qusum</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2743975</id>
+      </desc>
+    </path>
+    <path d="M 459.5426 431.155 472.2335 428.8172 472.5675 422.1378 476.5751 431.489 472.5675 442.1761 464.2182 441.1742 459.2086 449.8574 453.8651 442.844 459.5426 431.155 Z" id="CN.tibet.2743976" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Sangri County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Sangri (Shannan)</wikipedia>
+        <localname>ཟངས་རི་རྫོང་ / 桑日县 / Sangri</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2743976</id>
+      </desc>
+    </path>
+    <path d="M 433.1589 432.4909 435.1627 432.1569 445.5158 430.4871 446.8517 432.1569 445.1818 443.8459 437.8344 451.8612 435.4967 451.1933 430.8211 449.8574 433.1589 432.4909 Z" id="CN.tibet.2743977" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Zhanang County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Zhanang</wikipedia>
+        <localname>གྲ་ནང་རྫོང་ / 扎囊县 / Zhanang</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2743977</id>
+      </desc>
+    </path>
+    <path d="M 351.0019 428.1493 359.3512 423.8077 355.6775 415.7923 356.3455 409.4469 372.0421 407.777 385.7349 411.4507 388.4067 417.1282 388.0727 425.1435 383.7311 433.1589 380.7254 438.1684 365.6967 437.1665 355.3435 432.8249 351.0019 428.1493 Z" id="CN.tibet.2744619" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Namling County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Namling</wikipedia>
+        <localname>རྣམ་གླིང་རྫོང་ / 南木林县 / Namling</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2744619</id>
+      </desc>
+    </path>
+    <path d="M 240.1234 422.4718 249.8086 415.7923 253.1483 397.4239 250.8105 389.7426 256.822 391.0785 261.1636 383.7311 263.5014 382.3952 267.5091 384.0651 271.8507 397.4239 278.5301 401.7656 286.2115 397.09 281.8699 388.4067 294.8947 385.067 296.2306 396.422 306.5837 397.7579 307.9196 401.7656 296.5646 405.1053 299.5703 416.1263 293.5589 422.1378 298.9024 428.1493 304.9139 427.4813 309.5895 420.134 317.6048 423.8077 318.6067 430.1531 306.5837 447.8536 296.8986 450.8593 293.2249 445.8498 275.5244 447.5196 269.8469 445.1818 268.511 437.1665 256.822 436.4986 246.1349 429.8191 240.1234 422.4718 Z" id="CN.tibet.2744620" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ngamring County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Ngamring</wikipedia>
+        <localname>ངམ་རིང་རྫོང་ / 昂仁县 / Ngamring</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2744620</id>
+      </desc>
+    </path>
+    <path d="M 380.7254 438.1684 383.7311 433.1589 390.0766 438.5024 403.4354 439.5043 398.0919 450.8593 394.0842 447.5196 386.0689 449.8574 380.0574 442.51 380.7254 438.1684 Z" id="CN.tibet.2744621" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Rinbung County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Rinbung</wikipedia>
+        <localname>རིན་སྤུངས་རྫོང་ / 仁布县 / Rinbung</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2744621</id>
+      </desc>
+    </path>
+    <path d="M 307.9196 401.7656 315.9349 405.1053 323.2823 403.4354 331.2976 408.7789 356.3455 409.4469 355.6775 415.7923 359.3512 423.8077 351.0019 428.1493 348.6641 433.1589 339.9809 438.5024 335.6392 438.8364 318.6067 430.1531 317.6048 423.8077 309.5895 420.134 304.9139 427.4813 298.9024 428.1493 293.5589 422.1378 299.5703 416.1263 296.5646 405.1053 307.9196 401.7656 Z" id="CN.tibet.2744622" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Xaitongmoin County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Xaitongmoin</wikipedia>
+        <localname>བཞད་མཐོང་སྨོན་རྫོང / 谢通门县 / Xaitongmoin</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2744622</id>
+      </desc>
+    </path>
+    <path d="M 351.3359 470.5636 358.0153 458.2067 355.0096 451.1933 362.023 448.8555 359.6852 441.1742 371.7081 443.178 366.3646 461.2124 362.6909 467.5579 359.3512 473.2354 356.3455 473.9033 351.3359 470.5636 Z" id="CN.tibet.2744876" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Bainang County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Bainang</wikipedia>
+        <localname>པ་སྣམ་རྫོང་ / 白朗县 / Bainang</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2744876</id>
+      </desc>
+    </path>
+    <path d="M 315.267 466.222 319.9426 467.2239 332.9675 459.2086 336.9751 461.8804 336.9751 473.5694 329.9617 484.9244 318.6067 485.2584 310.2574 488.2641 300.5722 488.9321 309.5895 480.2488 306.5837 472.9014 315.267 466.222 Z" id="CN.tibet.2744877" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dinggyê County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Dinggyê</wikipedia>
+        <localname>གདིང་སྐྱེས་རྫོང་ / 定结县 / Dinggyê</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2744877</id>
+      </desc>
+    </path>
+    <path d="M 329.9617 484.9244 336.9751 473.5694 336.9751 461.8804 348.9981 459.8766 353.3397 464.8861 351.3359 470.5636 356.3455 473.9033 352.6718 483.5885 345.9923 479.9148 329.9617 484.9244 Z" id="CN.tibet.2744878" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Gamba County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Gamba (Kreis)</wikipedia>
+        <localname>གམ་པ་རྫོང་ / 岗巴县 / Gamba</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2744878</id>
+      </desc>
+    </path>
+    <path d="M 362.6909 467.5579 366.3646 461.2124 371.7081 443.178 380.0574 442.51 386.0689 449.8574 394.0842 447.5196 398.0919 450.8593 395.0861 461.2124 391.0785 457.5388 380.3914 455.5349 370.0383 459.5426 362.6909 467.5579 Z" id="CN.tibet.2744879" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>རྒྱལ་རྩེ་རྫོང་ / 江孜县 / Gyantse</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2744879</id>
+        <name>Gyantse County</name>
+      </desc>
+    </path>
+    <path d="M 205.0565 458.2067 219.4172 443.178 228.4344 439.1703 259.8278 444.1799 262.4995 448.5215 254.8182 453.8651 243.4632 453.8651 239.1215 462.2144 246.4689 470.8976 232.1081 473.9033 227.0986 471.8995 229.7703 464.5522 213.0718 462.2144 205.0565 458.2067 Z" id="CN.tibet.2744880" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Gyirong County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Gyirong</wikipedia>
+        <localname>སྐྱིད་གྲོང་རྫོང་ / 吉隆县 / Gyirong</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2744880</id>
+      </desc>
+    </path>
+    <path d="M 362.6909 467.5579 370.0383 459.5426 380.3914 455.5349 391.0785 457.5388 395.0861 461.2124 394.7522 470.2297 398.0919 477.577 387.0708 475.9072 375.3818 480.5828 359.3512 473.2354 362.6909 467.5579 Z" id="CN.tibet.2744881" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>ཁང་དམར་རྫོང་ / 康马县 / Kangmar</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2744881</id>
+        <name>Kangmar County</name>
+      </desc>
+    </path>
+    <path d="M 296.8986 450.8593 306.5837 447.8536 318.6067 430.1531 335.6392 438.8364 335.9732 444.8478 330.6297 451.1933 321.6124 448.5215 312.9292 457.5388 303.912 450.8593 296.8986 450.8593 Z" id="CN.tibet.2744882" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lhatse</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Lhazê</wikipedia>
+        <localname>ལྷ་རྩེ་རྫོང་ / 拉孜县 / Lhatse</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2744882</id>
+      </desc>
+    </path>
+    <path d="M 262.4995 448.5215 269.8469 445.1818 275.5244 447.5196 277.8622 450.1914 275.1904 460.5445 267.8431 462.8823 264.5033 480.5828 257.156 486.5943 246.4689 470.8976 239.1215 462.2144 243.4632 453.8651 254.8182 453.8651 262.4995 448.5215 Z" id="CN.tibet.2744883" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Nyalam County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Nyalam</wikipedia>
+        <localname>གཉའ་ལམ་རྫོང་ / 聂拉木县 / Nyalam</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2744883</id>
+      </desc>
+    </path>
+    <path d="M 312.9292 457.5388 321.6124 448.5215 330.6297 451.1933 335.9732 444.8478 335.6392 438.8364 339.9809 438.5024 345.3244 449.8574 355.0096 451.1933 358.0153 458.2067 351.3359 470.5636 353.3397 464.8861 348.9981 459.8766 336.9751 461.8804 332.9675 459.2086 319.9426 467.2239 315.267 466.222 312.9292 457.5388 Z" id="CN.tibet.2744884" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Sa'gya County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Sa'gya</wikipedia>
+        <localname>ས་སྐྱ་རྫོང་ / 萨迦县 / Sa'gya</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2744884</id>
+      </desc>
+    </path>
+    <path d="M 196.0392 441.8421 204.3885 433.8268 202.7187 429.1512 210.066 425.4775 213.7397 416.1263 229.4364 426.4794 240.1234 422.4718 246.1349 429.8191 256.822 436.4986 268.511 437.1665 269.8469 445.1818 262.4995 448.5215 259.8278 444.1799 228.4344 439.1703 219.4172 443.178 205.0565 458.2067 197.3751 453.5311 196.0392 441.8421 Z" id="CN.tibet.2744885" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Saga County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Saga (Xigazê)</wikipedia>
+        <localname>ས་དགའ་རྫོང་ / 萨嘎县 / Saga</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2744885</id>
+      </desc>
+    </path>
+    <path d="M 339.9809 438.5024 348.6641 433.1589 351.0019 428.1493 355.3435 432.8249 365.6967 437.1665 380.7254 438.1684 380.0574 442.51 371.7081 443.178 359.6852 441.1742 362.023 448.8555 355.0096 451.1933 345.3244 449.8574 339.9809 438.5024 Z" id="CN.tibet.2744886" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Samzhubzê District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>zh:桑珠孜区</wikipedia>
+        <localname>བསམ་འགྲུབ་རྩེ་ཆུས། 桑珠孜区 Samzhubzê</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2744886</id>
+      </desc>
+    </path>
+    <path d="M 264.5033 480.5828 267.8431 462.8823 275.1904 460.5445 277.8622 450.1914 275.5244 447.5196 293.2249 445.8498 296.8986 450.8593 303.912 450.8593 312.9292 457.5388 315.267 466.222 306.5837 472.9014 309.5895 480.2488 300.5722 488.9321 279.5321 480.2488 271.8507 486.9282 264.5033 480.5828 Z" id="CN.tibet.2744887" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Tingri County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Tingri</wikipedia>
+        <localname>དིང་རི་རྫོང་ / 定日县 / Tingri</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2744887</id>
+      </desc>
+    </path>
+    <path d="M 352.6718 483.5885 356.3455 473.9033 359.3512 473.2354 375.3818 480.5828 362.3569 496.6134 351.0019 501.9569 354.3416 488.5981 352.6718 483.5885 Z" id="CN.tibet.2744888" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Yadong County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Yadong</wikipedia>
+        <localname>གྲོ་མོ་རྫོང / 亚东县 / Yadong</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2744888</id>
+      </desc>
+    </path>
+    <path d="M 126.9072 409.4469 131.9167 401.7656 142.2699 404.1033 143.6057 396.422 148.2813 389.4086 157.9665 399.4278 161.9742 392.4144 153.9589 384.733 152.623 377.0517 154.6268 366.3646 160.9722 359.6852 171.9933 362.6909 188.6919 362.6909 194.7033 359.6852 212.0699 360.3531 204.0545 366.6986 215.7435 385.067 207.0603 393.0823 209.7321 403.7694 214.7416 410.4488 213.7397 416.1263 210.066 425.4775 202.7187 429.1512 204.3885 433.8268 196.0392 441.8421 186.3541 438.8364 177.3368 444.5139 163.31 429.4852 148.2813 425.4775 140.266 417.1282 127.9091 413.7885 126.9072 409.4469 Z" id="CN.tibet.2744889" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Zhongba County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Zhongba</wikipedia>
+        <localname>འབྲོང་པ་རྫོང་ / 仲巴县 / Zhongba</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2744889</id>
+      </desc>
+    </path>
+    <path d="M 368.0344 206.3923 374.0459 213.4057 384.0651 218.7493 381.3933 233.778 375.0478 235.4478 377.0517 250.1426 385.7349 251.1445 385.7349 275.8584 383.0632 284.2077 389.7426 288.2153 392.0804 296.2306 405.4392 306.2498 415.4584 310.5914 434.4947 310.2574 445.1818 313.9311 457.8727 321.2785 477.911 324.2842 470.5636 333.9694 468.5598 343.3206 454.533 342.9866 453.5311 346.6603 459.8766 353.6737 457.8727 359.6852 445.5158 357.6813 430.4871 367.0325 425.1435 367.3665 424.8096 362.023 418.1301 352.6718 412.4526 348.9981 411.7847 340.9828 404.1033 341.3167 401.4316 327.9579 389.7426 317.2708 393.4163 307.2517 389.0746 295.5627 380.0574 293.8928 373.378 287.5474 370.0383 276.8603 361.689 274.8565 356.6794 268.845 353.3397 260.1617 348.3301 256.822 354.0077 246.8029 352.3378 236.7837 365.3627 230.7722 369.7043 216.4115 365.0287 210.4 368.0344 206.3923 Z" id="CN.tibet.2745047" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Amdo County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Amdo (Kreis)</wikipedia>
+        <localname>ཨ་མདོ་རྫོང་ / 安多县 / Amdo</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2745047</id>
+      </desc>
+    </path>
+    <path d="M 508.9703 331.9656 517.3196 329.2938 521.6612 332.9675 531.3464 334.3033 548.045 327.29 552.0526 330.9636 548.3789 343.6545 549.7148 355.0096 544.0373 357.0134 528.6746 354.0077 516.3177 348.9981 509.9722 351.6699 500.955 350.6679 494.6096 345.9923 505.6306 340.6488 508.9703 331.9656 Z" id="CN.tibet.2745048" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Baqên County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Baqên</wikipedia>
+        <localname>སྦྲ་ཆེན་རྫོང་ / 巴青县 / Baqên</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2745048</id>
+      </desc>
+    </path>
+    <path d="M 494.6096 345.9923 500.955 350.6679 509.9722 351.6699 520.6593 363.0249 536.69 372.71 533.6842 379.0555 538.3598 385.401 531.6804 387.7388 514.9818 385.067 499.2852 378.0536 492.6057 372.71 491.6038 359.0172 485.2584 353.3397 477.577 353.3397 484.9244 345.3244 494.6096 345.9923 Z" id="CN.tibet.2745049" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Biru County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Biru</wikipedia>
+        <localname>འབྲི་རུ་རྫོང་ / 比如县 / Biru</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2745049</id>
+      </desc>
+    </path>
+    <path d="M 455.8689 398.7598 467.8919 396.756 468.5598 385.7349 486.2603 378.0536 492.6057 372.71 499.2852 378.0536 514.9818 385.067 515.6498 390.0766 531.6804 399.7617 527.0048 405.7732 511.6421 406.4411 502.2909 399.4278 497.2813 402.4335 489.6 395.7541 479.9148 408.7789 456.5368 407.777 452.8632 401.7656 455.8689 398.7598 Z" id="CN.tibet.2745050" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lhari County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Lhari</wikipedia>
+        <localname>ལྷ་རི་རྫོང་ / 嘉黎县 / Lhari</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2745050</id>
+      </desc>
+    </path>
+    <path d="M 425.1435 367.3665 430.4871 367.0325 445.5158 357.6813 457.8727 359.6852 474.9053 357.6813 477.577 353.3397 485.2584 353.3397 491.6038 359.0172 492.6057 372.71 486.2603 378.0536 468.5598 385.7349 467.8919 396.756 455.8689 398.7598 450.5254 391.7464 439.8383 392.4144 434.8287 381.0593 425.1435 367.3665 Z" id="CN.tibet.2745051" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Nagqu County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Nagqu (Kreis)</wikipedia>
+        <localname>ནག་ཆུ་རྫོང་ / 那曲县 / Nagqu</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2745051</id>
+      </desc>
+    </path>
+    <path d="M 477.911 324.2842 482.2526 322.9483 494.9435 327.6239 500.955 326.622 508.9703 331.9656 505.6306 340.6488 494.6096 345.9923 484.9244 345.3244 477.577 353.3397 474.9053 357.6813 457.8727 359.6852 459.8766 353.6737 453.5311 346.6603 454.533 342.9866 468.5598 343.3206 470.5636 333.9694 477.911 324.2842 Z" id="CN.tibet.2745052" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Nyainrong County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Nyainrong</wikipedia>
+        <localname>གཉན་རོང་རྫོང་ / 聂荣县 / Nyainrong</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2745052</id>
+      </desc>
+    </path>
+    <path d="M 266.8411 228.7684 279.1981 231.1062 283.5397 240.4574 292.223 245.801 289.8852 257.156 296.8986 263.5014 292.5569 277.1943 299.5703 308.5876 295.8967 314.599 297.9005 326.956 305.2478 338.645 303.578 351.0019 309.2555 359.0172 320.6105 361.0211 323.2823 370.3722 327.9579 376.0498 325.6201 385.7349 317.2708 395.0861 323.2823 403.4354 315.9349 405.1053 307.9196 401.7656 306.5837 397.7579 296.2306 396.422 294.8947 385.067 281.8699 388.4067 286.2115 397.09 278.5301 401.7656 271.8507 397.4239 267.5091 384.0651 263.5014 382.3952 262.8335 376.3837 243.7971 370.3722 236.7837 362.6909 227.4325 359.6852 228.4344 350.334 225.0947 345.3244 232.4421 331.9656 259.4938 321.6124 258.8258 318.2727 267.5091 300.5722 262.8335 291.2211 266.1732 285.2096 261.4976 274.5225 262.4995 267.8431 255.4861 264.5033 264.8373 242.7952 266.8411 228.7684 Z M 261.1636 383.7311 256.822 391.0785 250.8105 389.7426 251.1445 389.4086 249.1407 384.0651 252.1464 380.0574 261.1636 383.7311 Z" id="CN.tibet.2745053" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Nyima County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Nyima</wikipedia>
+        <localname>ཉི་མ་རྫོང་ / 尼玛县 / Nyima</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2745053</id>
+      </desc>
+    </path>
+    <path d="M 509.9722 351.6699 516.3177 348.9981 528.6746 354.0077 544.0373 357.0134 549.7148 355.0096 552.7206 363.6928 560.0679 372.71 558.0641 377.3856 542.7014 370.7062 536.69 372.71 520.6593 363.0249 509.9722 351.6699 Z" id="CN.tibet.2745054" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Sog County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Sog (Nagqu)</wikipedia>
+        <localname>སོག་རྫོང་ / 索县 / Sog</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2745054</id>
+      </desc>
+    </path>
+    <path d="M 320.6105 361.0211 330.9636 352.3378 339.9809 350 350.6679 356.6794 357.0134 355.0096 357.3474 342.3187 363.0249 340.3148 370.0383 346.3263 368.3684 350.6679 358.6833 349.3321 359.3512 359.3512 367.7005 362.023 370.0383 370.7062 366.3646 378.0536 371.7081 381.3933 377.7196 378.7215 384.733 388.0727 372.0421 407.777 356.3455 409.4469 331.2976 408.7789 323.2823 403.4354 317.2708 395.0861 325.6201 385.7349 327.9579 376.0498 323.2823 370.3722 320.6105 361.0211 Z" id="CN.tibet.2745055" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Xainza County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Xainza</wikipedia>
+        <localname>ཤན་རྩ་རྫོང་ / 申扎县 / Xainza</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2745055</id>
+      </desc>
+    </path>
+    <path d="M 426.1455 423.8077 432.4909 424.4756 435.1627 432.1569 433.1589 432.4909 431.489 432.8249 426.1455 423.8077 Z" id="CN.tibet.2745212" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Chengguan District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Chengguan (Lhasa)</wikipedia>
+        <localname>ཁྲིན་ཀོན་ཆུས་ / 城关区 / Chengguan</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2745212</id>
+      </desc>
+    </path>
+    <path d="M 432.4909 424.4756 440.5062 423.8077 444.1799 416.4603 448.5215 418.7981 445.5158 430.4871 435.1627 432.1569 432.4909 424.4756 Z" id="CN.tibet.2745213" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dagzê County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Dagzê</wikipedia>
+        <localname>སྟག་རྩེ་རྫོང་ / 达孜县 / Dagzê</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2745213</id>
+      </desc>
+    </path>
+    <path d="M 394.0842 417.7962 400.4297 406.7751 413.7885 400.4297 411.7847 397.4239 417.4622 382.0612 428.4833 386.4029 434.8287 381.0593 439.8383 392.4144 450.5254 391.7464 455.8689 398.7598 452.8632 401.7656 439.5043 401.4316 430.1531 405.4392 425.4775 412.1187 414.1225 412.1187 407.777 424.8096 408.445 430.8211 407.1091 432.4909 394.0842 417.7962 Z" id="CN.tibet.2745214" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Damxung County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Damxung</wikipedia>
+        <localname>འདམ་གཞུང་རྫོང / 当雄县 / Damxung</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2745214</id>
+      </desc>
+    </path>
+    <path d="M 425.4775 412.1187 420.134 416.1263 420.8019 423.4737 426.1455 423.8077 431.489 432.8249 427.4813 435.1627 422.4718 429.8191 408.445 430.8211 407.777 424.8096 414.1225 412.1187 425.4775 412.1187 Z" id="CN.tibet.2745215" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Doilungdêqên District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Doilungdêqên</wikipedia>
+        <localname>སྟོད་ལུང་བདེ་ཆེན་རྫོང་ / 堆龙德庆区 / Doilungdêqên</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2745215</id>
+      </desc>
+    </path>
+    <path d="M 425.4775 412.1187 430.1531 405.4392 439.5043 401.4316 452.8632 401.7656 456.5368 407.777 447.1856 411.7847 444.1799 416.4603 440.5062 423.8077 432.4909 424.4756 426.1455 423.8077 420.8019 423.4737 420.134 416.1263 425.4775 412.1187 Z" id="CN.tibet.2745216" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lhünzhub County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Lhünzhub</wikipedia>
+        <localname>ལྷུན་གྲུབ་རྫོང / 林周县 / Lhünzhub</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2745216</id>
+      </desc>
+    </path>
+    <path d="M 444.1799 416.4603 447.1856 411.7847 456.5368 407.777 479.9148 408.7789 477.911 412.7866 467.5579 418.4641 472.5675 422.1378 472.2335 428.8172 459.5426 431.155 446.8517 432.1569 445.5158 430.4871 448.5215 418.7981 444.1799 416.4603 Z" id="CN.tibet.2745217" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Maizhokunggar County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Maizhokunggar</wikipedia>
+        <localname>མལ་གྲོ་གུང་དཀར་རྫོང་ / 墨竹工卡县 / Maizhokunggar</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2745217</id>
+      </desc>
+    </path>
+    <path d="M 388.4067 417.1282 394.0842 417.7962 407.1091 432.4909 404.1033 439.8383 403.4354 439.5043 390.0766 438.5024 383.7311 433.1589 388.0727 425.1435 388.4067 417.1282 Z" id="CN.tibet.2745218" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Nyêmo County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Nyêmo</wikipedia>
+        <localname>སྙེ་མོ་རྫོང་ / 尼木县 / Nyêmo</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2745218</id>
+      </desc>
+    </path>
+    <path d="M 404.1033 439.8383 407.1091 432.4909 408.445 430.8211 422.4718 429.8191 427.4813 435.1627 408.445 441.5081 404.1033 439.8383 Z" id="CN.tibet.2745219" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Qüxü County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Qüxü</wikipedia>
+        <localname>ཆུ་ཤུར་རྫོང་ / 曲水县 / Qüxü</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2745219</id>
+      </desc>
+    </path>
+    <path d="M 514.9818 385.067 531.6804 387.7388 538.3598 385.401 533.6842 379.0555 536.69 372.71 542.7014 370.7062 558.0641 377.3856 560.0679 372.71 569.4191 377.0517 572.0909 382.3952 569.0852 390.4105 571.7569 395.4201 560.7359 397.4239 549.7148 395.4201 547.0431 397.7579 531.6804 399.7617 515.6498 390.0766 514.9818 385.067 Z" id="CN.tibet.2745361" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Banbar County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Banbar</wikipedia>
+        <localname>དཔལ་འབར་རྫོང / 边坝县 / Banbar</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2745361</id>
+      </desc>
+    </path>
+    <path d="M 370.0383 346.3263 382.7292 350.334 396.088 350.334 402.0995 347.9962 404.1033 341.3167 411.7847 340.9828 412.4526 348.9981 418.1301 352.6718 424.8096 362.023 425.1435 367.3665 434.8287 381.0593 428.4833 386.4029 417.4622 382.0612 411.7847 397.4239 413.7885 400.4297 400.4297 406.7751 394.0842 417.7962 388.4067 417.1282 385.7349 411.4507 372.0421 407.777 384.733 388.0727 377.7196 378.7215 371.7081 381.3933 366.3646 378.0536 370.0383 370.7062 367.7005 362.023 359.3512 359.3512 358.6833 349.3321 368.3684 350.6679 370.0383 346.3263 Z" id="CN.tibet.2747064" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Baingoin County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Baingoin</wikipedia>
+        <localname>དཔལ་མགོན་རྫོང་ / 班戈县 / Baingoin</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2747064</id>
+      </desc>
+    </path>
+    <path d="M 259.4938 218.7493 263.5014 209.7321 270.1809 207.0603 295.8967 204.0545 302.91 200.0469 309.9234 202.3847 340.3148 198.0431 350.6679 204.3885 356.0115 202.0507 368.0344 206.3923 365.0287 210.4 369.7043 216.4115 365.3627 230.7722 352.3378 236.7837 354.0077 246.8029 348.3301 256.822 353.3397 260.1617 356.6794 268.845 361.689 274.8565 370.0383 276.8603 373.378 287.5474 380.0574 293.8928 389.0746 295.5627 393.4163 307.2517 389.7426 317.2708 401.4316 327.9579 404.1033 341.3167 402.0995 347.9962 396.088 350.334 382.7292 350.334 370.0383 346.3263 363.0249 340.3148 357.3474 342.3187 357.0134 355.0096 350.6679 356.6794 339.9809 350 330.9636 352.3378 320.6105 361.0211 309.2555 359.0172 303.578 351.0019 305.2478 338.645 297.9005 326.956 295.8967 314.599 299.5703 308.5876 292.5569 277.1943 296.8986 263.5014 289.8852 257.156 292.223 245.801 283.5397 240.4574 279.1981 231.1062 266.8411 228.7684 259.4938 218.7493 Z" id="CN.tibet.2747065" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Shuanghu County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Shuanghu</wikipedia>
+        <localname>མཚོ་གཉིས་དོན་གཅོད་ཁྲུའུ་ / 双湖县 / Shuanghu</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tibet.2747065</id>
+      </desc>
+    </path>
+  </g>
+</svg>

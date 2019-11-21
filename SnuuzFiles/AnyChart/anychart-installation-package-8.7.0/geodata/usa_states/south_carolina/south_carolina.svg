@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="south_carolina">
+    <path d="M 65.2257 140.9635 84.6146 139.7517 117.3333 147.0226 124.6042 174.8941 73.7083 203.9774 65.2257 187.0122 65.2257 140.9635 Z" id="US.SC.077" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pickens County</name>
+        <stateAbbrev>SC</stateAbbrev>
+        <state>South Carolina</state>
+        <fips>077</fips>
+        <incits>45077</incits>
+        <id>US.SC.077</id>
+        <population>119829</population>
+      </desc>
+    </path>
+    <path d="M 84.6146 139.7517 124.6042 123.9983 164.5938 120.3628 163.3819 170.0469 174.2882 180.9531 150.0521 224.5781 129.4514 203.9774 124.6042 174.8941 117.3333 147.0226 84.6146 139.7517 Z" id="US.SC.045" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Greenville County</name>
+        <stateAbbrev>SC</stateAbbrev>
+        <state>South Carolina</state>
+        <fips>045</fips>
+        <incits>45045</incits>
+        <id>US.SC.045</id>
+        <population>474266</population>
+      </desc>
+    </path>
+    <path d="M 164.5938 120.3628 214.2778 122.7865 237.3021 161.5642 227.6076 172.4705 216.7014 207.6128 193.6771 197.9184 174.2882 180.9531 163.3819 170.0469 164.5938 120.3628 Z" id="US.SC.083" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Spartanburg County</name>
+        <stateAbbrev>SC</stateAbbrev>
+        <state>South Carolina</state>
+        <fips>083</fips>
+        <incits>45083</incits>
+        <id>US.SC.083</id>
+        <population>290969</population>
+      </desc>
+    </path>
+    <path d="M 150.0521 224.5781 174.2882 180.9531 193.6771 197.9184 216.7014 207.6128 246.9965 217.3073 203.3715 264.5677 171.8646 246.3906 159.7465 234.2726 150.0521 224.5781 Z" id="US.SC.059" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Laurens County</name>
+        <stateAbbrev>SC</stateAbbrev>
+        <state>South Carolina</state>
+        <fips>059</fips>
+        <incits>45059</incits>
+        <id>US.SC.059</id>
+        <population>66229</population>
+      </desc>
+    </path>
+    <path d="M 51.8958 224.5781 73.7083 203.9774 124.6042 174.8941 129.4514 203.9774 150.0521 224.5781 88.25 264.5677 67.6493 224.5781 51.8958 224.5781 Z" id="US.SC.007" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Anderson County</name>
+        <stateAbbrev>SC</stateAbbrev>
+        <state>South Carolina</state>
+        <fips>007</fips>
+        <incits>45007</incits>
+        <id>US.SC.007</id>
+        <population>190641</population>
+      </desc>
+    </path>
+    <path d="M 65.2257 140.9635 65.2257 187.0122 73.7083 203.9774 51.8958 224.5781 26.4479 206.401 1 195.4948 8.2708 174.8941 34.9306 149.4462 65.2257 140.9635 Z" id="US.SC.073" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Oconee County</name>
+        <stateAbbrev>SC</stateAbbrev>
+        <state>South Carolina</state>
+        <fips>073</fips>
+        <incits>45073</incits>
+        <id>US.SC.073</id>
+        <population>75045</population>
+      </desc>
+    </path>
+    <path d="M 251.8438 425.7378 262.75 417.2552 288.1979 424.526 312.434 422.1024 329.3993 435.4323 307.5868 447.5503 302.7396 463.3038 282.1389 476.6337 267.5972 448.7622 270.0208 439.0677 251.8438 425.7378 Z" id="US.SC.005" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Allendale County</name>
+        <stateAbbrev>SC</stateAbbrev>
+        <state>South Carolina</state>
+        <fips>005</fips>
+        <incits>45005</incits>
+        <id>US.SC.005</id>
+        <population>9839</population>
+      </desc>
+    </path>
+    <path d="M 308.7986 376.0538 350 395.4427 370.6007 413.6198 329.3993 435.4323 312.434 422.1024 308.7986 417.2552 308.7986 376.0538 Z" id="US.SC.009" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Bamberg County</name>
+        <stateAbbrev>SC</stateAbbrev>
+        <state>South Carolina</state>
+        <fips>009</fips>
+        <incits>45009</incits>
+        <id>US.SC.009</id>
+        <population>15430</population>
+      </desc>
+    </path>
+    <path d="M 359.6944 488.7517 366.9653 482.6927 386.3542 486.3281 433.6146 527.5295 421.4965 544.4948 377.8715 573.5781 357.2708 573.5781 342.7292 557.8247 343.941 540.8594 364.5417 529.9531 365.7535 498.4462 359.6944 488.7517 Z" id="US.SC.013" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Beaufort County</name>
+        <stateAbbrev>SC</stateAbbrev>
+        <state>South Carolina</state>
+        <fips>013</fips>
+        <incits>45013</incits>
+        <id>US.SC.013</id>
+        <population>171838</population>
+      </desc>
+    </path>
+    <path d="M 433.6146 402.7135 449.3681 395.4427 454.2153 374.842 471.1806 367.5712 491.7813 367.5712 534.1944 395.4427 566.9132 408.7726 539.0417 422.1024 507.5347 458.4566 496.6285 462.092 480.875 442.7031 463.9097 435.4323 439.6736 417.2552 433.6146 402.7135 Z" id="US.SC.015" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Berkeley County</name>
+        <stateAbbrev>SC</stateAbbrev>
+        <state>South Carolina</state>
+        <fips>015</fips>
+        <incits>45015</incits>
+        <id>US.SC.015</id>
+        <population>194020</population>
+      </desc>
+    </path>
+    <path d="M 428.7674 460.8802 459.0625 460.8802 474.816 449.974 463.9097 435.4323 480.875 442.7031 496.6285 462.092 507.5347 458.4566 539.0417 422.1024 566.9132 408.7726 594.7847 425.7378 582.6667 441.4913 518.441 477.8455 486.934 499.658 453.0035 510.5642 438.4618 514.1997 421.4965 477.8455 428.7674 460.8802 Z" id="US.SC.019" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Charleston County</name>
+        <stateAbbrev>SC</stateAbbrev>
+        <state>South Carolina</state>
+        <fips>019</fips>
+        <incits>45019</incits>
+        <id>US.SC.019</id>
+        <population>372803</population>
+      </desc>
+    </path>
+    <path d="M 329.3993 435.4323 370.6007 413.6198 396.0486 430.5851 428.7674 431.7969 428.7674 460.8802 421.4965 477.8455 438.4618 514.1997 453.0035 510.5642 433.6146 527.5295 386.3542 486.3281 366.9653 482.6927 329.3993 435.4323 Z" id="US.SC.029" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Colleton County</name>
+        <stateAbbrev>SC</stateAbbrev>
+        <state>South Carolina</state>
+        <fips>029</fips>
+        <incits>45029</incits>
+        <id>US.SC.029</id>
+        <population>37788</population>
+      </desc>
+    </path>
+    <path d="M 370.6007 413.6198 413.0139 391.8073 433.6146 402.7135 439.6736 417.2552 463.9097 435.4323 474.816 449.974 459.0625 460.8802 428.7674 460.8802 428.7674 431.7969 396.0486 430.5851 370.6007 413.6198 Z" id="US.SC.035" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dorchester County</name>
+        <stateAbbrev>SC</stateAbbrev>
+        <state>South Carolina</state>
+        <fips>035</fips>
+        <incits>45035</incits>
+        <id>US.SC.035</id>
+        <population>145397</population>
+      </desc>
+    </path>
+    <path d="M 282.1389 476.6337 302.7396 463.3038 307.5868 447.5503 329.3993 435.4323 366.9653 482.6927 359.6944 488.7517 339.0938 475.4219 300.316 504.5052 285.7743 499.658 282.1389 476.6337 Z" id="US.SC.049" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hampton County</name>
+        <stateAbbrev>SC</stateAbbrev>
+        <state>South Carolina</state>
+        <fips>049</fips>
+        <incits>45049</incits>
+        <id>US.SC.049</id>
+        <population>20408</population>
+      </desc>
+    </path>
+    <path d="M 300.316 504.5052 339.0938 475.4219 359.6944 488.7517 365.7535 498.4462 364.5417 529.9531 343.941 540.8594 342.7292 557.8247 357.2708 573.5781 377.8715 573.5781 353.6354 579.6372 324.5521 568.7309 323.3403 544.4948 300.316 504.5052 Z" id="US.SC.053" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jasper County</name>
+        <stateAbbrev>SC</stateAbbrev>
+        <state>South Carolina</state>
+        <fips>053</fips>
+        <incits>45053</incits>
+        <id>US.SC.053</id>
+        <population>26629</population>
+      </desc>
+    </path>
+    <path d="M 286.9861 368.783 313.6458 344.5469 335.4583 337.276 346.3646 349.3941 369.3889 351.8177 391.2014 371.2066 414.2257 359.0885 434.8264 377.2656 454.2153 374.842 449.3681 395.4427 433.6146 402.7135 413.0139 391.8073 370.6007 413.6198 350 395.4427 308.7986 376.0538 286.9861 368.783 Z" id="US.SC.075" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Orangeburg County</name>
+        <stateAbbrev>SC</stateAbbrev>
+        <state>South Carolina</state>
+        <fips>075</fips>
+        <incits>45075</incits>
+        <id>US.SC.075</id>
+        <population>90942</population>
+      </desc>
+    </path>
+    <path d="M 88.25 264.5677 150.0521 224.5781 159.7465 234.2726 147.6285 245.1788 160.9583 266.9913 148.8403 285.1684 118.5451 283.9566 110.0625 292.4392 88.25 264.5677 Z" id="US.SC.001" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Abbeville County</name>
+        <stateAbbrev>SC</stateAbbrev>
+        <state>South Carolina</state>
+        <fips>001</fips>
+        <incits>45001</incits>
+        <id>US.SC.001</id>
+        <population>25007</population>
+      </desc>
+    </path>
+    <path d="M 193.6771 362.724 246.9965 321.5226 257.9028 313.0399 280.9271 333.6406 313.6458 344.5469 286.9861 368.783 231.2431 411.1962 208.2188 391.8073 207.0069 372.4184 193.6771 362.724 Z" id="US.SC.003" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Aiken County</name>
+        <stateAbbrev>SC</stateAbbrev>
+        <state>South Carolina</state>
+        <fips>003</fips>
+        <incits>45003</incits>
+        <id>US.SC.003</id>
+        <population>164176</population>
+      </desc>
+    </path>
+    <path d="M 231.2431 411.1962 286.9861 368.783 308.7986 376.0538 308.7986 417.2552 312.434 422.1024 288.1979 424.526 262.75 417.2552 251.8438 425.7378 231.2431 411.1962 Z" id="US.SC.011" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Barnwell County</name>
+        <stateAbbrev>SC</stateAbbrev>
+        <state>South Carolina</state>
+        <fips>011</fips>
+        <incits>45011</incits>
+        <id>US.SC.011</id>
+        <population>22119</population>
+      </desc>
+    </path>
+    <path d="M 339.0938 311.8281 371.8125 327.5816 396.0486 331.217 409.3785 345.7587 414.2257 359.0885 391.2014 371.2066 369.3889 351.8177 346.3646 349.3941 335.4583 337.276 339.0938 311.8281 Z" id="US.SC.017" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Calhoun County</name>
+        <stateAbbrev>SC</stateAbbrev>
+        <state>South Carolina</state>
+        <fips>017</fips>
+        <incits>45017</incits>
+        <id>US.SC.017</id>
+        <population>15055</population>
+      </desc>
+    </path>
+    <path d="M 214.2778 122.7865 288.1979 125.2101 270.0208 144.599 274.8681 172.4705 271.2326 170.0469 237.3021 161.5642 214.2778 122.7865 Z" id="US.SC.021" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cherokee County</name>
+        <stateAbbrev>SC</stateAbbrev>
+        <state>South Carolina</state>
+        <fips>021</fips>
+        <incits>45021</incits>
+        <id>US.SC.021</id>
+        <population>55885</population>
+      </desc>
+    </path>
+    <path d="M 271.2326 174.8941 356.059 174.8941 362.1181 193.0712 358.4826 216.0955 279.7153 211.2483 271.2326 174.8941 Z" id="US.SC.023" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Chester County</name>
+        <stateAbbrev>SC</stateAbbrev>
+        <state>South Carolina</state>
+        <fips>023</fips>
+        <incits>45023</incits>
+        <id>US.SC.023</id>
+        <population>32578</population>
+      </desc>
+    </path>
+    <path d="M 404.5313 176.1059 496.6285 177.3177 514.8056 206.401 511.1701 217.3073 480.875 223.3663 444.5208 240.3316 426.3438 205.1892 404.5313 176.1059 Z" id="US.SC.025" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Chesterfield County</name>
+        <stateAbbrev>SC</stateAbbrev>
+        <state>South Carolina</state>
+        <fips>025</fips>
+        <incits>45025</incits>
+        <id>US.SC.025</id>
+        <population>46197</population>
+      </desc>
+    </path>
+    <path d="M 409.3785 345.7587 428.7674 328.7934 449.3681 322.7344 490.5694 302.1337 505.1111 311.8281 486.934 328.7934 488.1458 337.276 471.1806 367.5712 454.2153 374.842 434.8264 377.2656 414.2257 359.0885 409.3785 345.7587 Z" id="US.SC.027" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Clarendon County</name>
+        <stateAbbrev>SC</stateAbbrev>
+        <state>South Carolina</state>
+        <fips>027</fips>
+        <incits>45027</incits>
+        <id>US.SC.027</id>
+        <population>34355</population>
+      </desc>
+    </path>
+    <path d="M 444.5208 240.3316 480.875 223.3663 511.1701 217.3073 535.4063 248.8142 514.8056 257.2969 476.0278 281.533 461.4861 248.8142 444.5208 240.3316 Z" id="US.SC.031" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Darlington County</name>
+        <stateAbbrev>SC</stateAbbrev>
+        <state>South Carolina</state>
+        <fips>031</fips>
+        <incits>45031</incits>
+        <id>US.SC.031</id>
+        <population>67935</population>
+      </desc>
+    </path>
+    <path d="M 540.2535 251.2378 566.9132 203.9774 621.4444 251.2378 612.9618 257.2969 579.0313 251.2378 551.1597 258.5087 540.2535 251.2378 Z" id="US.SC.033" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dillon County</name>
+        <stateAbbrev>SC</stateAbbrev>
+        <state>South Carolina</state>
+        <fips>033</fips>
+        <incits>45033</incits>
+        <id>US.SC.033</id>
+        <population>31229</population>
+      </desc>
+    </path>
+    <path d="M 188.8299 300.9219 193.6771 300.9219 210.6424 298.4983 220.3368 314.2517 246.9965 321.5226 193.6771 362.724 179.1354 353.0295 169.441 334.8524 188.8299 300.9219 Z" id="US.SC.037" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Edgefield County</name>
+        <stateAbbrev>SC</stateAbbrev>
+        <state>South Carolina</state>
+        <fips>037</fips>
+        <incits>45037</incits>
+        <id>US.SC.037</id>
+        <population>26436</population>
+      </desc>
+    </path>
+    <path d="M 279.7153 211.2483 358.4826 216.0955 358.4826 228.2135 374.2361 240.3316 366.9653 256.0851 314.8576 268.2031 295.4688 259.7205 279.7153 222.1545 279.7153 211.2483 Z" id="US.SC.039" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Fairfield County</name>
+        <stateAbbrev>SC</stateAbbrev>
+        <state>South Carolina</state>
+        <fips>039</fips>
+        <incits>45039</incits>
+        <id>US.SC.039</id>
+        <population>23109</population>
+      </desc>
+    </path>
+    <path d="M 476.0278 281.533 514.8056 257.2969 535.4063 248.8142 540.2535 251.2378 551.1597 258.5087 557.2188 296.0747 585.0903 323.9462 559.6424 327.5816 516.0174 317.8872 505.1111 311.8281 490.5694 302.1337 486.934 287.592 476.0278 281.533 Z" id="US.SC.041" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Florence County</name>
+        <stateAbbrev>SC</stateAbbrev>
+        <state>South Carolina</state>
+        <fips>041</fips>
+        <incits>45041</incits>
+        <id>US.SC.041</id>
+        <population>138326</population>
+      </desc>
+    </path>
+    <path d="M 586.3021 326.3698 604.4792 337.276 617.809 356.6649 634.7743 356.6649 614.1736 382.1128 609.3264 417.2552 594.7847 425.7378 566.9132 408.7726 534.1944 395.4427 546.3125 376.0538 568.125 356.6649 572.9722 339.6997 586.3021 326.3698 Z" id="US.SC.043" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Georgetown County</name>
+        <stateAbbrev>SC</stateAbbrev>
+        <state>South Carolina</state>
+        <fips>043</fips>
+        <incits>45043</incits>
+        <id>US.SC.043</id>
+        <population>60440</population>
+      </desc>
+    </path>
+    <path d="M 159.7465 234.2726 171.8646 246.3906 203.3715 264.5677 214.2778 275.474 193.6771 300.9219 188.8299 300.9219 151.2639 298.4983 148.8403 285.1684 160.9583 266.9913 147.6285 245.1788 159.7465 234.2726 Z" id="US.SC.047" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Greenwood County</name>
+        <stateAbbrev>SC</stateAbbrev>
+        <state>South Carolina</state>
+        <fips>047</fips>
+        <incits>45047</incits>
+        <id>US.SC.047</id>
+        <population>69723</population>
+      </desc>
+    </path>
+    <path d="M 612.9618 257.2969 621.4444 251.2378 699 316.6753 671.1285 326.3698 634.7743 356.6649 617.809 356.6649 604.4792 337.276 583.8785 299.7101 612.9618 257.2969 Z" id="US.SC.051" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Horry County</name>
+        <stateAbbrev>SC</stateAbbrev>
+        <state>South Carolina</state>
+        <fips>051</fips>
+        <incits>45051</incits>
+        <id>US.SC.051</id>
+        <population>289650</population>
+      </desc>
+    </path>
+    <path d="M 358.4826 228.2135 379.0833 216.0955 391.2014 224.5781 426.3438 205.1892 444.5208 240.3316 423.9201 253.6615 416.6493 269.4149 397.2604 280.3212 382.7188 285.1684 359.6944 268.2031 366.9653 256.0851 374.2361 240.3316 358.4826 228.2135 Z" id="US.SC.055" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Kershaw County</name>
+        <stateAbbrev>SC</stateAbbrev>
+        <state>South Carolina</state>
+        <fips>055</fips>
+        <incits>45055</incits>
+        <id>US.SC.055</id>
+        <population>62516</population>
+      </desc>
+    </path>
+    <path d="M 356.059 138.5399 373.0243 157.9288 370.6007 174.8941 404.5313 176.1059 426.3438 205.1892 391.2014 224.5781 379.0833 216.0955 358.4826 228.2135 358.4826 216.0955 362.1181 193.0712 356.059 174.8941 360.9063 161.5642 356.059 138.5399 Z" id="US.SC.057" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lancaster County</name>
+        <stateAbbrev>SC</stateAbbrev>
+        <state>South Carolina</state>
+        <fips>057</fips>
+        <incits>45057</incits>
+        <id>US.SC.057</id>
+        <population>80458</population>
+      </desc>
+    </path>
+    <path d="M 416.6493 269.4149 423.9201 253.6615 444.5208 240.3316 461.4861 248.8142 476.0278 281.533 486.934 287.592 460.2743 300.9219 439.6736 282.7448 416.6493 269.4149 Z" id="US.SC.061" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lee County</name>
+        <stateAbbrev>SC</stateAbbrev>
+        <state>South Carolina</state>
+        <fips>061</fips>
+        <incits>45061</incits>
+        <id>US.SC.061</id>
+        <population>18347</population>
+      </desc>
+    </path>
+    <path d="M 257.9028 313.0399 273.6563 282.7448 291.8333 265.7795 300.316 280.3212 333.0347 293.651 339.0938 311.8281 335.4583 337.276 313.6458 344.5469 280.9271 333.6406 257.9028 313.0399 Z" id="US.SC.063" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lexington County</name>
+        <stateAbbrev>SC</stateAbbrev>
+        <state>South Carolina</state>
+        <fips>063</fips>
+        <incits>45063</incits>
+        <id>US.SC.063</id>
+        <population>273752</population>
+      </desc>
+    </path>
+    <path d="M 551.1597 258.5087 579.0313 251.2378 612.9618 257.2969 583.8785 299.7101 604.4792 337.276 586.3021 326.3698 585.0903 323.9462 557.2188 296.0747 551.1597 258.5087 Z" id="US.SC.067" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Marion County</name>
+        <stateAbbrev>SC</stateAbbrev>
+        <state>South Carolina</state>
+        <fips>067</fips>
+        <incits>45067</incits>
+        <id>US.SC.067</id>
+        <population>32072</population>
+      </desc>
+    </path>
+    <path d="M 496.6285 177.3177 534.1944 177.3177 566.9132 203.9774 540.2535 251.2378 535.4063 248.8142 511.1701 217.3073 514.8056 206.401 496.6285 177.3177 Z" id="US.SC.069" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Marlboro County</name>
+        <stateAbbrev>SC</stateAbbrev>
+        <state>South Carolina</state>
+        <fips>069</fips>
+        <incits>45069</incits>
+        <id>US.SC.069</id>
+        <population>28003</population>
+      </desc>
+    </path>
+    <path d="M 110.0625 292.4392 118.5451 283.9566 148.8403 285.1684 151.2639 298.4983 188.8299 300.9219 169.441 334.8524 179.1354 353.0295 167.0174 348.1823 151.2639 322.7344 113.6979 300.9219 110.0625 292.4392 Z" id="US.SC.065" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>McCormick County</name>
+        <stateAbbrev>SC</stateAbbrev>
+        <state>South Carolina</state>
+        <fips>065</fips>
+        <incits>45065</incits>
+        <id>US.SC.065</id>
+        <population>9947</population>
+      </desc>
+    </path>
+    <path d="M 203.3715 264.5677 246.9965 217.3073 260.3264 224.5781 279.7153 222.1545 295.4688 259.7205 291.8333 265.7795 273.6563 282.7448 234.8785 266.9913 214.2778 275.474 203.3715 264.5677 Z" id="US.SC.071" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Newberry County</name>
+        <stateAbbrev>SC</stateAbbrev>
+        <state>South Carolina</state>
+        <fips>071</fips>
+        <incits>45071</incits>
+        <id>US.SC.071</id>
+        <population>37521</population>
+      </desc>
+    </path>
+    <path d="M 295.4688 259.7205 314.8576 268.2031 366.9653 256.0851 359.6944 268.2031 382.7188 285.1684 397.2604 280.3212 396.0486 331.217 371.8125 327.5816 339.0938 311.8281 333.0347 293.651 300.316 280.3212 291.8333 265.7795 295.4688 259.7205 Z" id="US.SC.079" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Richland County</name>
+        <stateAbbrev>SC</stateAbbrev>
+        <state>South Carolina</state>
+        <fips>079</fips>
+        <incits>45079</incits>
+        <id>US.SC.079</id>
+        <population>399256</population>
+      </desc>
+    </path>
+    <path d="M 193.6771 300.9219 214.2778 275.474 234.8785 266.9913 273.6563 282.7448 257.9028 313.0399 246.9965 321.5226 220.3368 314.2517 210.6424 298.4983 193.6771 300.9219 Z" id="US.SC.081" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Saluda County</name>
+        <stateAbbrev>SC</stateAbbrev>
+        <state>South Carolina</state>
+        <fips>081</fips>
+        <incits>45081</incits>
+        <id>US.SC.081</id>
+        <population>20091</population>
+      </desc>
+    </path>
+    <path d="M 397.2604 280.3212 416.6493 269.4149 439.6736 282.7448 460.2743 300.9219 486.934 287.592 490.5694 302.1337 449.3681 322.7344 428.7674 328.7934 409.3785 345.7587 396.0486 331.217 397.2604 280.3212 Z" id="US.SC.085" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Sumter County</name>
+        <stateAbbrev>SC</stateAbbrev>
+        <state>South Carolina</state>
+        <fips>085</fips>
+        <incits>45085</incits>
+        <id>US.SC.085</id>
+        <population>108123</population>
+      </desc>
+    </path>
+    <path d="M 216.7014 207.6128 227.6076 172.4705 237.3021 161.5642 271.2326 170.0469 274.8681 172.4705 273.6563 173.6823 272.4444 174.8941 271.2326 174.8941 279.7153 211.2483 279.7153 222.1545 260.3264 224.5781 246.9965 217.3073 216.7014 207.6128 Z" id="US.SC.087" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Union County</name>
+        <stateAbbrev>SC</stateAbbrev>
+        <state>South Carolina</state>
+        <fips>087</fips>
+        <incits>45087</incits>
+        <id>US.SC.087</id>
+        <population>28030</population>
+      </desc>
+    </path>
+    <path d="M 471.1806 367.5712 488.1458 337.276 486.934 328.7934 505.1111 311.8281 516.0174 317.8872 559.6424 327.5816 585.0903 323.9462 586.3021 326.3698 572.9722 339.6997 568.125 356.6649 546.3125 376.0538 534.1944 395.4427 491.7813 367.5712 471.1806 367.5712 Z" id="US.SC.089" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Williamsburg County</name>
+        <stateAbbrev>SC</stateAbbrev>
+        <state>South Carolina</state>
+        <fips>089</fips>
+        <incits>45089</incits>
+        <id>US.SC.089</id>
+        <population>33067</population>
+      </desc>
+    </path>
+    <path d="M 288.1979 125.2101 330.6111 127.6337 356.059 138.5399 360.9063 161.5642 356.059 174.8941 271.2326 174.8941 272.4444 174.8941 273.6563 173.6823 274.8681 172.4705 270.0208 144.599 288.1979 125.2101 Z" id="US.SC.091" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>York County</name>
+        <stateAbbrev>SC</stateAbbrev>
+        <state>South Carolina</state>
+        <fips>091</fips>
+        <incits>45091</incits>
+        <id>US.SC.091</id>
+        <population>239363</population>
+      </desc>
+    </path>
+  </g>
+</svg>

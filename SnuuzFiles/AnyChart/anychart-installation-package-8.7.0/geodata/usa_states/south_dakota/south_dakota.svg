@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="south_dakota">
+    <path d="M 415.7951 415.3183 437.7268 415.3183 436.7732 419.1325 441.541 421.0396 449.1694 421.0396 457.7514 431.5287 466.3333 438.2036 473.9617 439.1571 476.8224 441.0642 476.8224 445.832 486.3579 448.6926 493.9863 454.4139 505.429 456.321 510.1967 461.0888 473.9617 461.0888 415.7951 461.0888 415.7951 415.3183 Z" id="US.SD.053" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Gregory County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>053</fips>
+        <incits>46053</incits>
+        <id>US.SD.053</id>
+        <population>4242</population>
+      </desc>
+    </path>
+    <path d="M 115.4262 398.1544 172.6393 398.1544 176.4536 397.2008 176.4536 417.2254 179.3142 417.2254 179.3142 425.8074 179.3142 449.6462 181.2213 449.6462 182.1749 461.0888 144.9863 461.0888 98.2623 461.0888 98.2623 417.2254 98.2623 405.7828 103.9836 404.8292 105.8907 399.1079 112.5656 400.0615 115.4262 398.1544 Z" id="US.SD.29203" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Oglala Lakota County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>203</fips>
+        <incits>46102</incits>
+        <id>US.SD.29203</id>
+        <population>14118</population>
+      </desc>
+    </path>
+    <path d="M 179.3142 425.8074 260.3661 425.8074 260.3661 461.0888 224.1311 461.0888 182.1749 461.0888 181.2213 449.6462 179.3142 449.6462 179.3142 425.8074 Z" id="US.SD.007" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Bennett County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>007</fips>
+        <incits>46007</incits>
+        <id>US.SD.007</id>
+        <population>3452</population>
+      </desc>
+    </path>
+    <path d="M 350.9536 396.2473 360.4891 397.2008 365.2568 398.1544 371.9317 396.2473 383.3743 399.1079 399.5847 393.3866 407.2131 393.3866 407.2131 415.3183 415.7951 415.3183 415.7951 461.0888 354.7678 461.0888 352.8607 449.6462 352.8607 425.8074 351.9071 417.2254 350.9536 396.2473 Z" id="US.SD.123" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Tripp County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>123</fips>
+        <incits>46123</incits>
+        <id>US.SD.123</id>
+        <population>5498</population>
+      </desc>
+    </path>
+    <path d="M 549.2923 445.832 589.3415 445.832 589.3415 474.4385 576.9454 475.3921 570.2705 473.485 560.735 482.0669 553.1066 483.0205 541.6639 476.3456 545.4781 472.5314 547.3852 463.9495 545.4781 460.1352 546.4317 454.4139 549.2923 445.832 Z" id="US.SD.009" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Bon Homme County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>009</fips>
+        <incits>46009</incits>
+        <id>US.SD.009</id>
+        <population>7046</population>
+      </desc>
+    </path>
+    <path d="M 260.3661 425.8074 352.8607 425.8074 352.8607 449.6462 354.7678 461.0888 310.9044 461.0888 260.3661 461.0888 260.3661 425.8074 Z" id="US.SD.121" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Todd County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>121</fips>
+        <incits>46121</incits>
+        <id>US.SD.121</id>
+        <population>9982</population>
+      </desc>
+    </path>
+    <path d="M 589.3415 445.832 611.2732 445.832 633.2049 445.832 633.2049 453.4604 633.2049 480.1598 629.3907 479.2063 626.5301 474.4385 603.6448 473.485 597.9235 475.3921 589.3415 474.4385 589.3415 445.832 Z" id="US.SD.135" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Yankton County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>135</fips>
+        <incits>46135</incits>
+        <id>US.SD.135</id>
+        <population>22696</population>
+      </desc>
+    </path>
+    <path d="M 665.6257 453.4604 698.0464 453.4604 692.3251 456.321 693.2787 464.903 690.418 470.6243 684.6967 480.1598 680.8825 483.0205 681.8361 487.7883 690.418 492.556 695.1858 502.0915 696.1393 508.7664 690.418 504.9522 682.7896 505.9057 680.8825 502.0915 674.2077 496.3702 675.1612 492.556 666.5792 491.6025 665.6257 488.7418 665.6257 453.4604 Z" id="US.SD.127" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Union County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>127</fips>
+        <incits>46127</incits>
+        <id>US.SD.127</id>
+        <population>14829</population>
+      </desc>
+    </path>
+    <path d="M 437.7268 415.3183 483.4973 415.3183 491.1257 415.3183 491.1257 426.7609 493.9863 426.7609 546.4317 442.9713 549.2923 445.832 546.4317 454.4139 545.4781 460.1352 547.3852 463.9495 545.4781 472.5314 541.6639 476.3456 513.0574 465.8566 510.1967 461.0888 505.429 456.321 493.9863 454.4139 486.3579 448.6926 476.8224 445.832 476.8224 441.0642 473.9617 439.1571 466.3333 438.2036 457.7514 431.5287 449.1694 421.0396 441.541 421.0396 436.7732 419.1325 437.7268 415.3183 Z" id="US.SD.023" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Charles Mix County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>023</fips>
+        <incits>46023</incits>
+        <id>US.SD.023</id>
+        <population>9241</population>
+      </desc>
+    </path>
+    <path d="M 633.2049 453.4604 654.1831 453.4604 665.6257 453.4604 665.6257 488.7418 659.9044 485.8811 653.2295 486.8347 651.3224 483.974 640.8333 482.0669 636.0656 482.0669 633.2049 480.1598 633.2049 453.4604 Z" id="US.SD.027" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Clay County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>027</fips>
+        <incits>46027</incits>
+        <id>US.SD.027</id>
+        <population>13935</population>
+      </desc>
+    </path>
+    <path d="M 1 417.2254 78.2377 417.2254 96.3552 417.2254 98.2623 417.2254 98.2623 461.0888 51.5383 461.0888 1 461.0888 1 417.2254 Z" id="US.SD.047" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Fall River County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>047</fips>
+        <incits>46047</incits>
+        <id>US.SD.047</id>
+        <population>6839</population>
+      </desc>
+    </path>
+    <path d="M 482.5437 375.2691 525.4536 375.2691 526.4071 382.8975 526.4071 415.3183 491.1257 415.3183 483.4973 415.3183 482.5437 383.8511 482.5437 375.2691 Z" id="US.SD.003" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Aurora County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>003</fips>
+        <incits>46003</incits>
+        <id>US.SD.003</id>
+        <population>2720</population>
+      </desc>
+    </path>
+    <path d="M 491.1257 311.3811 531.1749 311.3811 557.8743 311.3811 569.3169 311.3811 569.3169 319.9631 569.3169 351.4303 525.4536 351.4303 492.0792 351.4303 492.0792 329.4986 491.1257 311.3811 Z" id="US.SD.005" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Beadle County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>005</fips>
+        <incits>46005</incits>
+        <id>US.SD.005</id>
+        <population>18080</population>
+      </desc>
+    </path>
+    <path d="M 636.0656 351.4303 636.0656 319.9631 657.9973 319.9631 698.0464 319.9631 698.0464 351.4303 657.9973 351.4303 636.0656 351.4303 Z" id="US.SD.011" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Brookings County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>011</fips>
+        <incits>46011</incits>
+        <id>US.SD.011</id>
+        <population>32968</population>
+      </desc>
+    </path>
+    <path d="M 489.2186 223.6544 489.2186 192.1872 557.8743 192.1872 557.8743 223.6544 557.8743 256.0751 504.4754 256.0751 490.1721 255.1216 489.2186 223.6544 Z" id="US.SD.013" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Brown County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>013</fips>
+        <incits>46013</incits>
+        <id>US.SD.013</id>
+        <population>37907</population>
+      </desc>
+    </path>
+    <path d="M 432.0055 375.2691 471.1011 375.2691 482.5437 375.2691 482.5437 383.8511 483.4973 415.3183 437.7268 415.3183 438.6803 412.4577 433.9126 408.6434 432.959 403.8757 429.1448 401.015 422.4699 401.015 427.2377 397.2008 426.2842 391.4795 436.7732 382.8975 432.0055 379.0833 432.0055 375.2691 Z" id="US.SD.015" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Brule County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>015</fips>
+        <incits>46015</incits>
+        <id>US.SD.015</id>
+        <population>5366</population>
+      </desc>
+    </path>
+    <path d="M 411.9809 351.4303 436.7732 351.4303 471.1011 351.4303 471.1011 375.2691 432.0055 375.2691 432.0055 371.4549 425.3306 365.7336 417.7022 363.8265 414.8415 361.9194 414.8415 355.2445 411.9809 351.4303 Z" id="US.SD.017" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Buffalo County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>017</fips>
+        <incits>46017</incits>
+        <id>US.SD.017</id>
+        <population>2024</population>
+      </desc>
+    </path>
+    <path d="M 2.9071 257.9822 67.7486 257.9822 102.0765 257.9822 102.0765 274.1926 102.0765 306.6134 101.123 314.2418 45.8169 314.2418 22.9317 314.2418 10.5355 317.1025 1 317.1025 1 278.0068 2.9071 278.0068 2.9071 257.9822 Z" id="US.SD.019" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Butte County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>019</fips>
+        <incits>46019</incits>
+        <id>US.SD.019</id>
+        <population>10330</population>
+      </desc>
+    </path>
+    <path d="M 326.1612 191.2336 398.6311 191.2336 398.6311 223.6544 333.7896 223.6544 333.7896 218.8866 341.418 217.9331 345.2322 213.1653 342.3716 211.2582 339.5109 204.5833 340.4645 199.8156 333.7896 196.9549 326.1612 191.2336 Z" id="US.SD.021" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Campbell County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>021</fips>
+        <incits>46021</incits>
+        <id>US.SD.021</id>
+        <population>1334</population>
+      </desc>
+    </path>
+    <path d="M 557.8743 263.7036 602.6913 263.7036 602.6913 296.1243 602.6913 319.9631 569.3169 319.9631 569.3169 311.3811 557.8743 311.3811 557.8743 287.5423 557.8743 263.7036 Z" id="US.SD.025" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Clark County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>025</fips>
+        <incits>46025</incits>
+        <id>US.SD.025</id>
+        <population>3610</population>
+      </desc>
+    </path>
+    <path d="M 602.6913 263.7036 626.5301 263.7036 657.9973 263.7036 657.9973 279.9139 657.9973 296.1243 602.6913 296.1243 602.6913 263.7036 Z" id="US.SD.029" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Codington County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>029</fips>
+        <incits>46029</incits>
+        <id>US.SD.029</id>
+        <population>27853</population>
+      </desc>
+    </path>
+    <path d="M 189.8033 191.2336 242.2486 191.2336 326.1612 191.2336 333.7896 196.9549 340.4645 199.8156 339.5109 204.5833 342.3716 211.2582 345.2322 213.1653 341.418 217.9331 333.7896 218.8866 333.7896 223.6544 328.0683 227.4686 329.9754 230.3292 337.6038 231.2828 341.418 234.1434 300.4153 235.097 238.4344 235.097 189.8033 235.097 189.8033 191.2336 Z" id="US.SD.031" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Corson County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>031</fips>
+        <incits>46031</incits>
+        <id>US.SD.031</id>
+        <population>4215</population>
+      </desc>
+    </path>
+    <path d="M 1 382.8975 44.8634 382.8975 99.2158 382.8975 126.8689 382.8975 124.9617 388.6189 115.4262 398.1544 112.5656 400.0615 105.8907 399.1079 103.9836 404.8292 98.2623 405.7828 98.2623 417.2254 96.3552 417.2254 78.2377 417.2254 1 417.2254 1 382.8975 Z" id="US.SD.033" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Custer County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>033</fips>
+        <incits>46033</incits>
+        <id>US.SD.033</id>
+        <population>8468</population>
+      </desc>
+    </path>
+    <path d="M 526.4071 382.8975 558.8279 382.8975 559.7814 415.3183 545.4781 415.3183 526.4071 415.3183 526.4071 382.8975 Z" id="US.SD.035" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Davison County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>035</fips>
+        <incits>46035</incits>
+        <id>US.SD.035</id>
+        <population>19823</population>
+      </desc>
+    </path>
+    <path d="M 557.8743 256.0751 557.8743 223.6544 613.1803 223.6544 614.1339 226.515 626.5301 226.515 626.5301 250.3538 626.5301 263.7036 602.6913 263.7036 557.8743 263.7036 557.8743 256.0751 Z" id="US.SD.037" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Day County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>037</fips>
+        <incits>46037</incits>
+        <id>US.SD.037</id>
+        <population>5596</population>
+      </desc>
+    </path>
+    <path d="M 657.9973 319.9631 657.9973 296.1243 657.9973 279.9139 698.0464 279.9139 698.0464 319.9631 657.9973 319.9631 Z" id="US.SD.039" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Deuel County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>039</fips>
+        <incits>46039</incits>
+        <id>US.SD.039</id>
+        <population>4320</population>
+      </desc>
+    </path>
+    <path d="M 238.4344 235.097 300.4153 235.097 341.418 234.1434 347.1393 242.7254 344.2787 249.4003 349.0464 255.1216 347.1393 263.7036 342.3716 269.4249 343.3251 272.2855 333.7896 278.9604 335.6967 287.5423 336.6503 290.403 324.2541 299.9385 317.5792 298.985 310.9044 293.2637 306.1366 296.1243 307.0902 298.985 303.276 299.9385 297.5546 298.0314 290.8798 298.0314 282.2978 301.8456 276.5765 302.7992 268.9481 301.8456 268.9481 278.0068 235.5738 278.9604 236.5273 274.1926 236.5273 242.7254 238.4344 235.097 Z" id="US.SD.041" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dewey County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>041</fips>
+        <incits>46041</incits>
+        <id>US.SD.041</id>
+        <population>5586</population>
+      </desc>
+    </path>
+    <path d="M 491.1257 415.3183 526.4071 415.3183 545.4781 415.3183 546.4317 442.9713 493.9863 426.7609 491.1257 426.7609 491.1257 415.3183 Z" id="US.SD.043" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Douglas County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>043</fips>
+        <incits>46043</incits>
+        <id>US.SD.043</id>
+        <population>3023</population>
+      </desc>
+    </path>
+    <path d="M 399.5847 223.6544 489.2186 223.6544 490.1721 255.1216 411.9809 255.1216 399.5847 255.1216 399.5847 223.6544 Z" id="US.SD.045" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Edmunds County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>045</fips>
+        <incits>46045</incits>
+        <id>US.SD.045</id>
+        <population>4041</population>
+      </desc>
+    </path>
+    <path d="M 411.9809 255.1216 490.1721 255.1216 490.1721 287.5423 435.8197 287.5423 411.9809 287.5423 411.9809 255.1216 Z" id="US.SD.049" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Faulk County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>049</fips>
+        <incits>46049</incits>
+        <id>US.SD.049</id>
+        <population>2386</population>
+      </desc>
+    </path>
+    <path d="M 626.5301 250.3538 646.5546 250.3538 648.4617 247.4932 696.1393 247.4932 698.0464 250.3538 698.0464 279.9139 657.9973 279.9139 657.9973 263.7036 626.5301 263.7036 626.5301 250.3538 Z" id="US.SD.051" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Grant County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>051</fips>
+        <incits>46051</incits>
+        <id>US.SD.051</id>
+        <population>7281</population>
+      </desc>
+    </path>
+    <path d="M 189.8033 322.8238 200.2923 319.9631 209.8279 319.9631 215.5492 316.1489 232.7131 317.1025 235.5738 316.1489 240.3415 311.3811 247.9699 309.474 251.7842 307.5669 263.2268 305.6598 268.9481 301.8456 267.041 306.6134 267.041 338.0806 266.0874 354.291 276.5765 354.291 276.5765 369.5478 274.6694 370.5014 222.224 370.5014 188.8497 370.5014 188.8497 338.0806 189.8033 322.8238 Z" id="US.SD.055" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Haakon County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>055</fips>
+        <incits>46055</incits>
+        <id>US.SD.055</id>
+        <population>1894</population>
+      </desc>
+    </path>
+    <path d="M 602.6913 319.9631 602.6913 296.1243 657.9973 296.1243 657.9973 319.9631 636.0656 319.9631 602.6913 319.9631 Z" id="US.SD.057" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hamlin County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>057</fips>
+        <incits>46057</incits>
+        <id>US.SD.057</id>
+        <population>5961</population>
+      </desc>
+    </path>
+    <path d="M 435.8197 287.5423 490.1721 287.5423 491.1257 287.5423 491.1257 311.3811 492.0792 329.4986 492.0792 351.4303 471.1011 351.4303 436.7732 351.4303 436.7732 319.0096 435.8197 319.0096 435.8197 287.5423 Z" id="US.SD.059" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hand County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>059</fips>
+        <incits>46059</incits>
+        <id>US.SD.059</id>
+        <population>3391</population>
+      </desc>
+    </path>
+    <path d="M 558.8279 382.8975 570.2705 382.8975 592.2022 383.8511 592.2022 415.3183 559.7814 415.3183 558.8279 382.8975 Z" id="US.SD.061" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hanson County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>061</fips>
+        <incits>46061</incits>
+        <id>US.SD.061</id>
+        <population>3405</population>
+      </desc>
+    </path>
+    <path d="M 103.0301 191.2336 103.0301 211.2582 102.0765 211.2582 102.0765 257.9822 67.7486 257.9822 2.9071 257.9822 1.9536 209.3511 1.9536 191.2336 46.7705 191.2336 103.0301 191.2336 Z" id="US.SD.063" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Harding County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>063</fips>
+        <incits>46063</incits>
+        <id>US.SD.063</id>
+        <population>1262</population>
+      </desc>
+    </path>
+    <path d="M 325.2077 319.0096 370.0246 319.0096 402.4454 319.0096 403.3989 319.0096 403.3989 349.5232 401.4918 354.291 406.2596 354.291 410.0738 359.0587 405.306 360.0123 392.9098 357.1516 383.3743 357.1516 378.6066 351.4303 382.4208 347.6161 364.3033 340.9413 341.418 338.0806 338.5574 336.1735 336.6503 328.5451 333.7896 327.5915 322.347 328.5451 319.4863 324.7309 325.2077 321.8702 325.2077 319.0096 Z" id="US.SD.065" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hughes County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>065</fips>
+        <incits>46065</incits>
+        <id>US.SD.065</id>
+        <population>17508</population>
+      </desc>
+    </path>
+    <path d="M 545.4781 415.3183 559.7814 415.3183 592.2022 415.3183 611.2732 415.3183 611.2732 445.832 589.3415 445.832 549.2923 445.832 546.4317 442.9713 545.4781 415.3183 Z" id="US.SD.067" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hutchinson County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>067</fips>
+        <incits>46067</incits>
+        <id>US.SD.067</id>
+        <population>7145</population>
+      </desc>
+    </path>
+    <path d="M 402.4454 319.0096 402.4454 287.5423 411.9809 287.5423 435.8197 287.5423 435.8197 319.0096 436.7732 319.0096 436.7732 351.4303 411.9809 351.4303 403.3989 349.5232 403.3989 319.0096 402.4454 319.0096 Z" id="US.SD.069" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hyde County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>069</fips>
+        <incits>46069</incits>
+        <id>US.SD.069</id>
+        <population>1391</population>
+      </desc>
+    </path>
+    <path d="M 176.4536 397.2008 185.0355 398.1544 186.9426 396.2473 187.8962 370.5014 188.8497 370.5014 222.224 370.5014 274.6694 370.5014 274.6694 383.8511 261.3197 387.6653 259.4126 389.5724 260.3661 425.8074 179.3142 425.8074 179.3142 417.2254 176.4536 417.2254 176.4536 397.2008 Z" id="US.SD.071" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jackson County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>071</fips>
+        <incits>46071</incits>
+        <id>US.SD.071</id>
+        <population>3216</population>
+      </desc>
+    </path>
+    <path d="M 471.1011 351.4303 492.0792 351.4303 525.4536 351.4303 525.4536 375.2691 482.5437 375.2691 471.1011 375.2691 471.1011 351.4303 Z" id="US.SD.073" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jerauld County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>073</fips>
+        <incits>46073</incits>
+        <id>US.SD.073</id>
+        <population>2066</population>
+      </desc>
+    </path>
+    <path d="M 274.6694 383.8511 274.6694 370.5014 276.5765 369.5478 276.5765 354.291 338.5574 354.291 338.5574 357.1516 339.5109 369.5478 339.5109 371.4549 339.5109 375.2691 339.5109 383.8511 341.418 383.8511 341.418 395.2937 338.5574 393.3866 330.929 395.2937 319.4863 390.526 310.9044 395.2937 300.4153 394.3402 298.5082 390.526 285.1585 385.7582 281.3443 383.8511 274.6694 383.8511 Z" id="US.SD.075" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jones County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>075</fips>
+        <incits>46075</incits>
+        <id>US.SD.075</id>
+        <population>1001</population>
+      </desc>
+    </path>
+    <path d="M 569.3169 319.9631 602.6913 319.9631 636.0656 319.9631 636.0656 351.4303 614.1339 351.4303 569.3169 351.4303 569.3169 319.9631 Z" id="US.SD.077" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Kingsbury County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>077</fips>
+        <incits>46077</incits>
+        <id>US.SD.077</id>
+        <population>5065</population>
+      </desc>
+    </path>
+    <path d="M 614.1339 351.4303 636.0656 351.4303 657.9973 351.4303 657.9973 383.8511 636.0656 383.8511 614.1339 383.8511 614.1339 351.4303 Z" id="US.SD.079" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lake County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>079</fips>
+        <incits>46079</incits>
+        <id>US.SD.079</id>
+        <population>12055</population>
+      </desc>
+    </path>
+    <path d="M 1 317.1025 10.5355 317.1025 22.9317 314.2418 45.8169 314.2418 44.8634 345.709 56.306 345.709 56.306 357.1516 1 356.1981 1 317.1025 Z" id="US.SD.081" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lawrence County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>081</fips>
+        <incits>46081</incits>
+        <id>US.SD.081</id>
+        <population>24910</population>
+      </desc>
+    </path>
+    <path d="M 654.1831 415.3183 684.6967 415.3183 684.6967 421.0396 691.3716 424.8538 690.418 430.5751 686.6038 433.4358 686.6038 439.1571 696.1393 441.0642 697.0929 447.7391 699 449.6462 698.0464 453.4604 665.6257 453.4604 654.1831 453.4604 654.1831 415.3183 Z" id="US.SD.083" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lincoln County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>083</fips>
+        <incits>46083</incits>
+        <id>US.SD.083</id>
+        <population>49858</population>
+      </desc>
+    </path>
+    <path d="M 338.5574 354.291 338.5574 351.4303 378.6066 351.4303 383.3743 357.1516 392.9098 357.1516 405.306 360.0123 410.0738 359.0587 406.2596 354.291 401.4918 354.291 403.3989 349.5232 411.9809 351.4303 414.8415 355.2445 414.8415 361.9194 417.7022 363.8265 425.3306 365.7336 432.0055 371.4549 432.0055 375.2691 432.0055 379.0833 436.7732 382.8975 426.2842 391.4795 427.2377 397.2008 422.4699 401.015 429.1448 401.015 432.959 403.8757 433.9126 408.6434 438.6803 412.4577 437.7268 415.3183 415.7951 415.3183 407.2131 415.3183 407.2131 393.3866 399.5847 393.3866 383.3743 399.1079 371.9317 396.2473 365.2568 398.1544 360.4891 397.2008 350.9536 396.2473 341.418 395.2937 341.418 383.8511 339.5109 383.8511 339.5109 375.2691 339.5109 371.4549 339.5109 369.5478 338.5574 357.1516 338.5574 354.291 Z" id="US.SD.085" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lyman County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>085</fips>
+        <incits>46085</incits>
+        <id>US.SD.085</id>
+        <population>3892</population>
+      </desc>
+    </path>
+    <path d="M 557.8743 223.6544 557.8743 192.1872 626.5301 192.1872 626.5301 226.515 614.1339 226.515 613.1803 223.6544 557.8743 223.6544 Z" id="US.SD.091" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Marshall County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>091</fips>
+        <incits>46091</incits>
+        <id>US.SD.091</id>
+        <population>4763</population>
+      </desc>
+    </path>
+    <path d="M 592.2022 383.8511 614.1339 383.8511 636.0656 383.8511 636.0656 415.3183 611.2732 415.3183 592.2022 415.3183 592.2022 383.8511 Z" id="US.SD.087" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>McCook County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>087</fips>
+        <incits>46087</incits>
+        <id>US.SD.087</id>
+        <population>5654</population>
+      </desc>
+    </path>
+    <path d="M 398.6311 191.2336 489.2186 192.1872 489.2186 223.6544 399.5847 223.6544 398.6311 223.6544 398.6311 191.2336 Z" id="US.SD.089" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>McPherson County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>089</fips>
+        <incits>46089</incits>
+        <id>US.SD.089</id>
+        <population>2457</population>
+      </desc>
+    </path>
+    <path d="M 45.8169 314.2418 101.123 314.2418 102.0765 306.6134 102.0765 274.1926 189.8033 274.1926 189.8033 322.8238 184.082 324.7309 180.2678 328.5451 173.5929 330.4522 168.8251 327.5915 161.1967 330.4522 156.429 342.8484 155.4754 350.4768 152.6148 353.3374 154.5219 357.1516 127.8224 357.1516 56.306 357.1516 56.306 345.709 44.8634 345.709 45.8169 314.2418 Z" id="US.SD.093" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Meade County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>093</fips>
+        <incits>46093</incits>
+        <id>US.SD.093</id>
+        <population>27202</population>
+      </desc>
+    </path>
+    <path d="M 274.6694 383.8511 281.3443 383.8511 285.1585 385.7582 298.5082 390.526 300.4153 394.3402 310.9044 395.2937 319.4863 390.526 330.929 395.2937 338.5574 393.3866 341.418 395.2937 350.9536 396.2473 351.9071 417.2254 352.8607 425.8074 260.3661 425.8074 259.4126 389.5724 261.3197 387.6653 274.6694 383.8511 Z" id="US.SD.095" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Mellette County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>095</fips>
+        <incits>46095</incits>
+        <id>US.SD.095</id>
+        <population>2081</population>
+      </desc>
+    </path>
+    <path d="M 569.3169 351.4303 614.1339 351.4303 614.1339 383.8511 592.2022 383.8511 570.2705 382.8975 569.3169 351.4303 Z" id="US.SD.097" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Miner County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>097</fips>
+        <incits>46097</incits>
+        <id>US.SD.097</id>
+        <population>2333</population>
+      </desc>
+    </path>
+    <path d="M 636.0656 415.3183 636.0656 383.8511 657.9973 383.8511 698.0464 382.8975 698.0464 415.3183 684.6967 415.3183 654.1831 415.3183 636.0656 415.3183 Z" id="US.SD.099" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Minnehaha County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>099</fips>
+        <incits>46099</incits>
+        <id>US.SD.099</id>
+        <population>179640</population>
+      </desc>
+    </path>
+    <path d="M 657.9973 383.8511 657.9973 351.4303 698.0464 351.4303 698.0464 382.8975 657.9973 383.8511 Z" id="US.SD.101" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Moody County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>101</fips>
+        <incits>46101</incits>
+        <id>US.SD.101</id>
+        <population>6404</population>
+      </desc>
+    </path>
+    <path d="M 1 382.8975 1 356.1981 56.306 357.1516 127.8224 357.1516 154.5219 357.1516 152.6148 353.3374 155.4754 350.4768 156.429 342.8484 161.1967 330.4522 168.8251 327.5915 173.5929 330.4522 180.2678 328.5451 184.082 324.7309 189.8033 322.8238 188.8497 338.0806 188.8497 370.5014 187.8962 370.5014 186.9426 396.2473 185.0355 398.1544 176.4536 397.2008 172.6393 398.1544 115.4262 398.1544 124.9617 388.6189 126.8689 382.8975 99.2158 382.8975 44.8634 382.8975 1 382.8975 Z" id="US.SD.103" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pennington County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>103</fips>
+        <incits>46103</incits>
+        <id>US.SD.103</id>
+        <population>105761</population>
+      </desc>
+    </path>
+    <path d="M 103.0301 191.2336 189.8033 191.2336 189.8033 235.097 189.8033 274.1926 102.0765 274.1926 102.0765 257.9822 102.0765 211.2582 103.0301 211.2582 103.0301 191.2336 Z" id="US.SD.105" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Perkins County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>105</fips>
+        <incits>46105</incits>
+        <id>US.SD.105</id>
+        <population>3037</population>
+      </desc>
+    </path>
+    <path d="M 349.0464 255.1216 399.5847 255.1216 411.9809 255.1216 411.9809 287.5423 402.4454 287.5423 335.6967 287.5423 333.7896 278.9604 343.3251 272.2855 342.3716 269.4249 347.1393 263.7036 349.0464 255.1216 Z" id="US.SD.107" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Potter County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>107</fips>
+        <incits>46107</incits>
+        <id>US.SD.107</id>
+        <population>2394</population>
+      </desc>
+    </path>
+    <path d="M 626.5301 192.1872 687.5574 192.1872 686.6038 202.6762 678.0219 211.2582 661.8115 218.8866 660.8579 222.7008 669.4399 230.3292 672.3005 236.0505 677.0683 239.8648 682.7896 240.8183 694.2322 245.5861 696.1393 247.4932 648.4617 247.4932 646.5546 250.3538 626.5301 250.3538 626.5301 226.515 626.5301 192.1872 Z" id="US.SD.109" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Roberts County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>109</fips>
+        <incits>46109</incits>
+        <id>US.SD.109</id>
+        <population>10251</population>
+      </desc>
+    </path>
+    <path d="M 525.4536 351.4303 569.3169 351.4303 570.2705 382.8975 558.8279 382.8975 526.4071 382.8975 525.4536 375.2691 525.4536 351.4303 Z" id="US.SD.111" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Sanborn County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>111</fips>
+        <incits>46111</incits>
+        <id>US.SD.111</id>
+        <population>2324</population>
+      </desc>
+    </path>
+    <path d="M 490.1721 255.1216 504.4754 256.0751 557.8743 256.0751 557.8743 263.7036 557.8743 287.5423 557.8743 311.3811 531.1749 311.3811 491.1257 311.3811 491.1257 287.5423 490.1721 287.5423 490.1721 255.1216 Z" id="US.SD.115" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Spink County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>115</fips>
+        <incits>46115</incits>
+        <id>US.SD.115</id>
+        <population>6610</population>
+      </desc>
+    </path>
+    <path d="M 268.9481 301.8456 276.5765 302.7992 282.2978 301.8456 290.8798 298.0314 297.5546 298.0314 303.276 299.9385 307.0902 298.985 314.7186 301.8456 316.6257 306.6134 313.765 314.2418 317.5792 319.0096 325.2077 319.0096 325.2077 321.8702 319.4863 324.7309 322.347 328.5451 333.7896 327.5915 336.6503 328.5451 338.5574 336.1735 341.418 338.0806 364.3033 340.9413 382.4208 347.6161 378.6066 351.4303 338.5574 351.4303 338.5574 354.291 276.5765 354.291 266.0874 354.291 267.041 338.0806 267.041 306.6134 268.9481 301.8456 Z" id="US.SD.117" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Stanley County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>117</fips>
+        <incits>46117</incits>
+        <id>US.SD.117</id>
+        <population>2981</population>
+      </desc>
+    </path>
+    <path d="M 335.6967 287.5423 402.4454 287.5423 402.4454 319.0096 370.0246 319.0096 325.2077 319.0096 317.5792 319.0096 313.765 314.2418 316.6257 306.6134 314.7186 301.8456 307.0902 298.985 306.1366 296.1243 310.9044 293.2637 317.5792 298.985 324.2541 299.9385 336.6503 290.403 335.6967 287.5423 Z" id="US.SD.119" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Sully County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>119</fips>
+        <incits>46119</incits>
+        <id>US.SD.119</id>
+        <population>1437</population>
+      </desc>
+    </path>
+    <path d="M 611.2732 415.3183 636.0656 415.3183 654.1831 415.3183 654.1831 453.4604 633.2049 453.4604 633.2049 445.832 611.2732 445.832 611.2732 415.3183 Z" id="US.SD.125" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Turner County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>125</fips>
+        <incits>46125</incits>
+        <id>US.SD.125</id>
+        <population>8361</population>
+      </desc>
+    </path>
+    <path d="M 333.7896 223.6544 398.6311 223.6544 399.5847 223.6544 399.5847 255.1216 349.0464 255.1216 344.2787 249.4003 347.1393 242.7254 341.418 234.1434 337.6038 231.2828 329.9754 230.3292 328.0683 227.4686 333.7896 223.6544 Z" id="US.SD.129" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Walworth County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>129</fips>
+        <incits>46129</incits>
+        <id>US.SD.129</id>
+        <population>5524</population>
+      </desc>
+    </path>
+    <path d="M 189.8033 274.1926 189.8033 235.097 238.4344 235.097 236.5273 242.7254 236.5273 274.1926 235.5738 278.9604 268.9481 278.0068 268.9481 301.8456 263.2268 305.6598 251.7842 307.5669 247.9699 309.474 240.3415 311.3811 235.5738 316.1489 232.7131 317.1025 215.5492 316.1489 209.8279 319.9631 200.2923 319.9631 189.8033 322.8238 189.8033 274.1926 Z" id="US.SD.137" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ziebach County</name>
+        <stateAbbrev>SD</stateAbbrev>
+        <state>South Dakota</state>
+        <fips>137</fips>
+        <incits>46137</incits>
+        <id>US.SD.137</id>
+        <population>2834</population>
+      </desc>
+    </path>
+  </g>
+</svg>

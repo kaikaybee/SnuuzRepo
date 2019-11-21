@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="bermuda">
+    <path d="M 298.4238 431.4333 268.8504 434.3906 270.9003 414.4191 298.4033 411.5739 298.4238 431.4333 Z" id="BM.HC" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>BM.HC</code_hasc>
+        <name>City of Hamilton</name>
+        <admin>Bermuda</admin>
+        <type_en/>
+        <region/>
+        <woe_id>20069918</woe_id>
+        <longitude>-64</longitude>
+        <woe_name>Hamilton</woe_name>
+        <fips/>
+        <woe_label/>
+        <latitude>32</latitude>
+        <iso_a2>BM</iso_a2>
+        <postal/>
+        <type/>
+        <id>BM.HC</id>
+      </desc>
+    </path>
+    <path d="M 613.0101 199.4536 601.2132 181.1028 627.4285 166.6844 637.9146 186.3459 613.0101 199.4536 Z" id="BM.SG" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>BM.SG</code_hasc>
+        <name>City of Saint George</name>
+        <admin>Bermuda</admin>
+        <type_en/>
+        <region/>
+        <woe_id>20069917</woe_id>
+        <longitude>-64</longitude>
+        <woe_name>Saint George</woe_name>
+        <fips/>
+        <woe_label>Saint George, BM, Bermuda</woe_label>
+        <latitude>32</latitude>
+        <iso_a2>BM</iso_a2>
+        <postal/>
+        <type/>
+        <id>BM.SG</id>
+      </desc>
+    </path>
+    <path d="M 434.5749 397.5139 426.7871 402.4924 384.9644 423.9399 367.5499 444.2694 349.5463 414.4191 314.2488 429.8508 310.9704 393.7942 364.5892 371.7509 395.6881 363.8868 404.6179 355.3886 434.5749 397.5139 Z" id="BM.DE" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>BM.DE</code_hasc>
+        <name>Devonshire</name>
+        <admin>Bermuda</admin>
+        <type_en/>
+        <region/>
+        <woe_id>2344751</woe_id>
+        <longitude>-64</longitude>
+        <woe_name>Devonshire</woe_name>
+        <fips/>
+        <woe_label/>
+        <latitude>32</latitude>
+        <iso_a2>BM</iso_a2>
+        <postal/>
+        <type/>
+        <id>BM.DE</id>
+      </desc>
+    </path>
+    <path d="M 427.7447 333.3792 440.2293 336.7841 454.1918 336.1636 429.5029 354.1239 420.6934 340.0898 427.7447 333.3792 Z M 529.8911 298.1955 550.3203 326.5695 524.3037 341.7459 504.922 317.4898 529.8911 298.1955 Z M 529.8911 298.1955 507.1919 278.9012 473.5019 290.2083 449.3089 305.0053 443.9213 322.6655 430.0146 319.7597 423.654 306.9384 439.0943 275.4963 481.1649 250.0161 521.9463 252.7971 531.026 277.7662 560.535 286.8459 529.8911 298.1955 Z" id="BM.HA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>BM.HA</code_hasc>
+        <name>Hamilton</name>
+        <admin>Bermuda</admin>
+        <type_en/>
+        <region/>
+        <woe_id>-99</woe_id>
+        <longitude>-64</longitude>
+        <woe_name/>
+        <fips/>
+        <woe_label/>
+        <latitude>32</latitude>
+        <iso_a2>BM</iso_a2>
+        <postal/>
+        <type/>
+        <id>BM.HA</id>
+      </desc>
+    </path>
+    <path d="M 220.0472 455.9548 230.2618 443.4703 252.961 452.55 245.0163 459.3597 220.0472 455.9548 Z M 287.0593 505.4481 261.329 465.0034 308.7065 440.2639 314.2488 429.8508 349.5463 414.4191 367.5499 444.2694 358.5122 454.8199 301.7642 499.0833 287.0593 505.4481 Z" id="BM.PA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>BM.PA</code_hasc>
+        <name>Paget</name>
+        <admin>Bermuda</admin>
+        <type_en/>
+        <region/>
+        <woe_id>2344754</woe_id>
+        <longitude>-64</longitude>
+        <woe_name>Paget</woe_name>
+        <fips/>
+        <woe_label>Paget, BM, Bermuda</woe_label>
+        <latitude>32</latitude>
+        <iso_a2>BM</iso_a2>
+        <postal/>
+        <type/>
+        <id>BM.PA</id>
+      </desc>
+    </path>
+    <path d="M 310.9704 393.7942 314.2488 429.8508 298.4238 431.4333 298.4033 411.5739 270.9003 414.4191 268.8504 434.3906 237.0715 423.041 211.9159 392.1361 221.0913 381.6499 310.9704 393.7942 Z" id="BM.PE" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>BM.PE</code_hasc>
+        <name>Pembroke</name>
+        <admin>Bermuda</admin>
+        <type_en/>
+        <region/>
+        <woe_id>2344753</woe_id>
+        <longitude>-64</longitude>
+        <woe_name>Pembroke</woe_name>
+        <fips/>
+        <woe_label>Pembroke, BM, Bermuda</woe_label>
+        <latitude>32</latitude>
+        <iso_a2>BM</iso_a2>
+        <postal/>
+        <type/>
+        <id>BM.PE</id>
+      </desc>
+    </path>
+    <path d="M 550.3203 326.5695 529.8911 298.1955 560.535 286.8459 610.4732 302.7353 550.3203 326.5695 Z M 521.9463 252.7971 481.1649 250.0161 507.1919 215.3435 553.685 188.4936 615.6445 144.1687 699 203.9939 676.3008 230.0979 675.1659 256.202 661.5463 247.1223 641.1171 231.2329 601.9266 223.0155 588.9089 235.7727 570.7496 216.4784 521.9463 252.7971 Z M 601.2132 181.1028 613.0101 199.4536 637.9146 186.3459 627.4285 166.6844 601.2132 181.1028 Z" id="BM.SC" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>BM.SC</code_hasc>
+        <name>Saint George's</name>
+        <admin>Bermuda</admin>
+        <type_en/>
+        <region/>
+        <woe_id>2344755</woe_id>
+        <longitude>-64</longitude>
+        <woe_name>Saint George's</woe_name>
+        <fips/>
+        <woe_label>Saint George's, BM, Bermuda</woe_label>
+        <latitude>32</latitude>
+        <iso_a2>BM</iso_a2>
+        <postal/>
+        <type/>
+        <id>BM.SC</id>
+      </desc>
+    </path>
+    <path d="M 64.5577 394.667 82.7171 410.5565 56.613 429.8508 48.402 462.9823 41.8585 472.9792 56.613 483.1939 109.9561 488.8687 109.9561 497.9483 67.9505 494.5413 18.0835 503.548 10.0797 486.5987 1 454.8199 28.4088 465.5389 24.4765 444.5667 34.5161 416.4326 19.1593 387.8573 40.7236 394.667 50.9382 377.6426 64.5577 394.667 Z M 90.5374 388.9089 77.0731 394.2708 106.623 358.7632 127.1174 342.201 137.007 326.4728 149.399 316.7022 152.8544 318.6087 147.135 337.1965 127.1174 353.163 126.7599 371.036 111.6275 373.1807 99.9505 379.615 90.5374 388.9089 Z" id="BM.SA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>BM.SA</code_hasc>
+        <name>Sandys</name>
+        <admin>Bermuda</admin>
+        <type_en/>
+        <region/>
+        <woe_id>2344756</woe_id>
+        <longitude>-64</longitude>
+        <woe_name>Sandys</woe_name>
+        <fips/>
+        <woe_label>Sandys, BM, Bermuda</woe_label>
+        <latitude>32</latitude>
+        <iso_a2>BM</iso_a2>
+        <postal/>
+        <type/>
+        <id>BM.SA</id>
+      </desc>
+    </path>
+    <path d="M 434.5749 397.5139 404.6179 355.3886 420.6934 340.0898 429.5029 354.1239 454.1918 336.1636 491.3024 334.5142 504.922 317.4898 524.3037 341.7459 495.8423 358.3483 434.5749 397.5139 Z" id="BM.SM" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>BM.SM</code_hasc>
+        <name>Smith's</name>
+        <admin>Bermuda</admin>
+        <type_en/>
+        <region/>
+        <woe_id>2344757</woe_id>
+        <longitude>-64</longitude>
+        <woe_name>Smith's</woe_name>
+        <fips/>
+        <woe_label>Smith's, BM, Bermuda</woe_label>
+        <latitude>32</latitude>
+        <iso_a2>BM</iso_a2>
+        <postal/>
+        <type/>
+        <id>BM.SM</id>
+      </desc>
+    </path>
+    <path d="M 156.4894 521.7825 192.2544 515.348 208.4456 537.6659 153.0846 555.8313 108.8211 554.6963 74.7724 553.5613 29.374 527.4573 18.0835 503.548 67.9505 494.5413 64.5577 513.8378 83.852 536.537 115.6309 536.537 156.4894 521.7825 Z" id="BM.SO" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>BM.SO</code_hasc>
+        <name>Southampton</name>
+        <admin>Bermuda</admin>
+        <type_en/>
+        <region/>
+        <woe_id>2344758</woe_id>
+        <longitude>-64</longitude>
+        <woe_name>Southampton</woe_name>
+        <fips/>
+        <woe_label>Southampton, BM, Bermuda</woe_label>
+        <latitude>32</latitude>
+        <iso_a2>BM</iso_a2>
+        <postal/>
+        <type/>
+        <id>BM.SO</id>
+      </desc>
+    </path>
+    <path d="M 287.0593 505.4481 225.722 531.9971 208.4456 537.6659 192.2544 515.348 156.4894 521.7825 167.839 501.3532 195.078 499.0833 243.8813 474.1142 261.329 465.0034 287.0593 505.4481 Z M 230.2618 443.4703 220.0472 455.9548 192.8081 459.3597 165.5691 457.0898 157.6244 441.2004 166.7041 435.5256 191.6732 441.2004 207.5626 436.6605 217.7772 433.2557 230.2618 443.4703 Z" id="BM.WA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>BM.WA</code_hasc>
+        <name>Warwick</name>
+        <admin>Bermuda</admin>
+        <type_en/>
+        <region/>
+        <woe_id>2344759</woe_id>
+        <longitude>-64</longitude>
+        <woe_name>Warwick</woe_name>
+        <fips/>
+        <woe_label>Warwick, BM, Bermuda</woe_label>
+        <latitude>32</latitude>
+        <iso_a2>BM</iso_a2>
+        <postal/>
+        <type/>
+        <id>BM.WA</id>
+      </desc>
+    </path>
+  </g>
+</svg>

@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="chongqing">
+    <path d="M 568.8112 128.0517 521.7551 137.4629 488.8157 140.6 463.7191 135.8944 427.6427 98.2494 444.8966 68.4472 469.9933 63.7416 510.7753 88.8382 534.3034 93.5438 568.8112 128.0517 Z" id="CN.chongqing.2089846" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>城口县 (Chengkou)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.chongqing.2089846</id>
+        <name>Chengkou County</name>
+      </desc>
+    </path>
+    <path d="M 98.2494 320.982 99.818 363.3326 93.5438 380.5865 70.0157 400.9775 62.173 394.7034 65.3101 369.6067 44.9191 358.627 73.1528 313.1393 98.2494 320.982 Z" id="CN.chongqing.2194821" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>潼南县</localname>
+        <boundary>administrative</boundary>
+        <id>CN.chongqing.2194821</id>
+        <name>Tongnan</name>
+      </desc>
+    </path>
+    <path d="M 531.1663 283.3371 543.7146 222.164 535.8719 178.2449 575.0854 181.382 584.4966 195.4989 609.5933 195.4989 634.6899 204.9101 609.5933 244.1236 623.7101 264.5146 595.4764 284.9056 571.9483 283.3371 549.9888 297.4539 531.1663 283.3371 Z" id="CN.chongqing.2692014" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>奉节县 (Fengjie)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.chongqing.2692014</id>
+        <name>Fengjie</name>
+      </desc>
+    </path>
+    <path d="M 463.7191 135.8944 488.8157 140.6 521.7551 137.4629 501.364 148.4427 495.0899 168.8337 473.1303 197.0674 465.2876 217.4584 444.8966 231.5753 410.3888 256.6719 385.2921 244.1236 379.018 234.7124 419.8 157.8539 463.7191 135.8944 Z" id="CN.chongqing.2692015" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>开县 (Kai)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.chongqing.2692015</id>
+        <name>Kai</name>
+      </desc>
+    </path>
+    <path d="M 302.1596 300.591 317.8449 281.7685 305.2966 267.6517 317.8449 253.5348 368.0382 258.2404 391.5663 291.1798 361.764 295.8854 338.236 313.1393 302.1596 300.591 Z" id="CN.chongqing.2692016" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>梁平县 (Liangping)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.chongqing.2692016</id>
+        <name>Liangping</name>
+      </desc>
+    </path>
+    <path d="M 368.0382 258.2404 385.2921 244.1236 410.3888 256.6719 444.8966 231.5753 474.6989 240.9865 498.227 275.4944 515.4809 292.7483 446.4652 303.7281 418.2315 314.7079 391.5663 291.1798 368.0382 258.2404 Z" id="CN.chongqing.2692017" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wanzhou</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>zh:万州区</wikipedia>
+        <localname>万州区 (Wanzhou)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.chongqing.2692017</id>
+      </desc>
+    </path>
+    <path d="M 609.5933 195.4989 664.4921 162.5596 691.1573 175.1079 699 209.6157 683.3146 259.809 656.6494 247.2607 623.7101 264.5146 609.5933 244.1236 634.6899 204.9101 609.5933 195.4989 Z" id="CN.chongqing.2692018" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>巫山县</localname>
+        <boundary>administrative</boundary>
+        <id>CN.chongqing.2692018</id>
+        <name>Wushan</name>
+      </desc>
+    </path>
+    <path d="M 521.7551 137.4629 568.8112 128.0517 626.8472 129.6202 664.4921 162.5596 609.5933 195.4989 584.4966 195.4989 575.0854 181.382 535.8719 178.2449 495.0899 168.8337 501.364 148.4427 521.7551 137.4629 Z" id="CN.chongqing.2692019" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>巫溪县 (Wuxi)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.chongqing.2692019</id>
+        <name>Wuxi</name>
+      </desc>
+    </path>
+    <path d="M 444.8966 231.5753 465.2876 217.4584 473.1303 197.0674 495.0899 168.8337 535.8719 178.2449 543.7146 222.164 531.1663 283.3371 515.4809 292.7483 498.227 275.4944 474.6989 240.9865 444.8966 231.5753 Z" id="CN.chongqing.2692020" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>云阳县 (Yunyang)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.chongqing.2692020</id>
+        <name>Yunyang</name>
+      </desc>
+    </path>
+    <path d="M 338.236 313.1393 361.764 295.8854 391.5663 291.1798 418.2315 314.7079 388.4292 364.9011 330.3933 344.5101 338.236 313.1393 Z" id="CN.chongqing.2692021" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>忠县 (Zhong)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.chongqing.2692021</id>
+        <name>Zhong</name>
+      </desc>
+    </path>
+    <path d="M 361.764 510.7753 386.8607 479.4045 383.7236 465.2876 394.7034 427.6427 408.8202 422.9371 443.3281 399.409 459.0135 415.0944 469.9933 448.0337 466.8562 495.0899 430.7798 515.4809 415.0944 506.0697 361.764 510.7753 Z" id="CN.chongqing.2693031" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>彭水苗族土家族自治县 (Pengshu)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.chongqing.2693031</id>
+        <name>Pengshui (Miao and Tujia) Autonomous County</name>
+      </desc>
+    </path>
+    <path d="M 459.0135 415.0944 509.2067 426.0742 517.0494 469.9933 506.0697 499.7955 473.1303 504.5011 466.8562 495.0899 469.9933 448.0337 459.0135 415.0944 Z" id="CN.chongqing.2693032" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>黔江区 (Qianjiang)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.chongqing.2693032</id>
+        <name>Qianjiang District</name>
+      </desc>
+    </path>
+    <path d="M 388.4292 364.9011 418.2315 314.7079 446.4652 303.7281 444.8966 320.982 466.8562 341.373 460.582 391.5663 443.3281 399.409 408.8202 422.9371 388.4292 364.9011 Z" id="CN.chongqing.2693033" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>石柱土家族自治县 (Shizhu)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.chongqing.2693033</id>
+        <name>Shizhu (Tujia) Autonomous County</name>
+      </desc>
+    </path>
+    <path d="M 562.5371 532.7348 571.9483 551.5573 556.2629 567.2427 556.2629 590.7708 543.7146 620.573 528.0292 636.2584 495.0899 614.2989 490.3843 587.6337 521.7551 571.9483 549.9888 539.009 562.5371 532.7348 Z" id="CN.chongqing.2693034" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>秀山土家族苗族自治县 (Xiushan)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.chongqing.2693034</id>
+        <name>Xiushan (Miao and Tujia) Autonomous County</name>
+      </desc>
+    </path>
+    <path d="M 430.7798 515.4809 466.8562 495.0899 473.1303 504.5011 506.0697 499.7955 517.0494 469.9933 545.2831 465.2876 545.2831 485.6787 571.9483 507.6382 562.5371 532.7348 549.9888 539.009 521.7551 571.9483 490.3843 587.6337 449.6022 568.8112 430.7798 515.4809 Z" id="CN.chongqing.2693035" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>酉阳土家族苗族自治县 (Youyang)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.chongqing.2693035</id>
+        <name>Youyang Miao and Tujia Autonomous County</name>
+      </desc>
+    </path>
+    <path d="M 277.0629 341.373 302.1596 300.591 338.236 313.1393 330.3933 344.5101 310.0022 372.7438 308.4337 374.3124 281.7685 363.3326 277.0629 341.373 Z" id="CN.chongqing.2693275" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>垫江县 (Dianjiang)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.chongqing.2693275</id>
+        <name>Dianjiang County</name>
+      </desc>
+    </path>
+    <path d="M 310.0022 372.7438 330.3933 344.5101 388.4292 364.9011 408.8202 422.9371 394.7034 427.6427 364.9011 422.9371 342.9416 427.6427 327.2562 380.5865 310.0022 372.7438 Z" id="CN.chongqing.2693276" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>丰都县 (Fengdu)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.chongqing.2693276</id>
+        <name>Fengdu County</name>
+      </desc>
+    </path>
+    <path d="M 236.2809 444.8966 245.6921 413.5258 286.4742 396.2719 308.4337 374.3124 310.0022 372.7438 327.2562 380.5865 342.9416 427.6427 320.982 454.3079 291.1798 443.3281 278.6315 462.1506 236.2809 444.8966 Z" id="CN.chongqing.2693277" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Fuling District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Fuling District</wikipedia>
+        <localname>涪陵区 (Fuling)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.chongqing.2693277</id>
+      </desc>
+    </path>
+    <path d="M 228.4382 496.6584 236.2809 444.8966 278.6315 462.1506 297.4539 468.4247 302.1596 488.8157 299.0225 537.4404 253.5348 531.1663 228.4382 496.6584 Z" id="CN.chongqing.2693278" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>南川区 (Nanchuan)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.chongqing.2693278</id>
+        <name>Nanchuan District</name>
+      </desc>
+    </path>
+    <path d="M 342.9416 427.6427 364.9011 422.9371 394.7034 427.6427 383.7236 465.2876 386.8607 479.4045 361.764 510.7753 360.1955 495.0899 302.1596 488.8157 297.4539 468.4247 278.6315 462.1506 291.1798 443.3281 320.982 454.3079 342.9416 427.6427 Z" id="CN.chongqing.2693279" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>武隆县 (Wulong)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.chongqing.2693279</id>
+        <name>Wulong County</name>
+      </desc>
+    </path>
+    <path d="M 167.2652 429.2112 230.0067 421.3685 219.027 432.3483 186.0876 433.9169 171.9708 437.0539 167.2652 429.2112 Z" id="CN.chongqing.2693314" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>江北区 (Jiangbei)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.chongqing.2693314</id>
+        <name>Jiangbei District</name>
+      </desc>
+    </path>
+    <path d="M 178.2449 440.191 186.0876 433.9169 219.027 432.3483 204.9101 448.0337 179.8135 448.0337 178.2449 440.191 Z" id="CN.chongqing.2693315" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>南岸区 (Nan'an)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.chongqing.2693315</id>
+        <name>Nan'an District</name>
+      </desc>
+    </path>
+    <path d="M 164.1281 465.2876 176.6764 448.0337 179.8135 448.0337 204.9101 448.0337 219.027 432.3483 230.0067 421.3685 239.418 407.2517 245.6921 413.5258 236.2809 444.8966 228.4382 496.6584 201.773 488.8157 184.5191 498.227 164.1281 465.2876 Z" id="CN.chongqing.2693394" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>巴南区 (Banan)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.chongqing.2693394</id>
+        <name>Banan District</name>
+      </desc>
+    </path>
+    <path d="M 146.8742 410.3888 146.8742 389.9978 168.8337 391.5663 195.4989 361.764 197.0674 391.5663 167.2652 421.3685 146.8742 410.3888 Z" id="CN.chongqing.2693395" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>北碚区 (Beibei)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.chongqing.2693395</id>
+        <name>Beibei District</name>
+      </desc>
+    </path>
+    <path d="M 113.9348 438.6225 124.9146 408.8202 140.6 396.2719 146.8742 389.9978 146.8742 410.3888 137.4629 440.191 139.0315 452.7393 121.7775 474.6989 107.6607 469.9933 113.9348 438.6225 Z" id="CN.chongqing.2693396" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>璧山区 (Bishan)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.chongqing.2693396</id>
+        <name>Bishan District</name>
+      </desc>
+    </path>
+    <path d="M 223.7326 368.0382 255.1034 364.9011 277.0629 341.373 281.7685 363.3326 308.4337 374.3124 286.4742 396.2719 245.6921 413.5258 239.418 407.2517 240.9865 383.7236 223.7326 368.0382 Z" id="CN.chongqing.2693397" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>长寿区 (Changshou)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.chongqing.2693397</id>
+        <name>Changshou District</name>
+      </desc>
+    </path>
+    <path d="M 27.6652 419.8 46.4876 397.8404 62.173 394.7034 70.0157 400.9775 106.0921 411.9573 85.7011 435.4854 65.3101 460.582 27.6652 419.8 Z" id="CN.chongqing.2693398" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>大足区 (Dazu)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.chongqing.2693398</id>
+        <name>Dazu District</name>
+      </desc>
+    </path>
+    <path d="M 98.2494 320.982 126.4831 331.9618 137.4629 346.0787 168.8337 330.3933 192.3618 335.0989 198.636 355.4899 195.4989 361.764 168.8337 391.5663 146.8742 389.9978 140.6 396.2719 135.8944 385.2921 99.818 363.3326 98.2494 320.982 Z" id="CN.chongqing.2693399" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>合川区 (Hechuan)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.chongqing.2693399</id>
+        <name>Hechuan District</name>
+      </desc>
+    </path>
+    <path d="M 107.6607 469.9933 121.7775 474.6989 139.0315 452.7393 159.4225 466.8562 164.1281 465.2876 184.5191 498.227 157.8539 512.3438 165.6966 539.009 176.6764 562.5371 150.0112 567.2427 139.0315 537.4404 96.6809 521.7551 77.8584 524.8921 107.6607 469.9933 Z" id="CN.chongqing.2693400" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>江津区 (Jiangjin)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.chongqing.2693400</id>
+        <name>Jiangjin District</name>
+      </desc>
+    </path>
+    <path d="M 184.5191 498.227 201.773 488.8157 228.4382 496.6584 253.5348 531.1663 219.027 551.5573 225.3011 568.8112 204.9101 581.3596 165.6966 539.009 157.8539 512.3438 184.5191 498.227 Z" id="CN.chongqing.2693401" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>綦江区 (Qijiang)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.chongqing.2693401</id>
+        <name>Qijiang District</name>
+      </desc>
+    </path>
+    <path d="M 27.6652 419.8 65.3101 460.582 57.4674 476.2674 33.9393 477.836 1 437.0539 27.6652 419.8 Z" id="CN.chongqing.2693402" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>荣昌县 (Rongchang)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.chongqing.2693402</id>
+        <name>Rongchang County</name>
+      </desc>
+    </path>
+    <path d="M 70.0157 400.9775 93.5438 380.5865 99.818 363.3326 135.8944 385.2921 140.6 396.2719 124.9146 408.8202 113.9348 438.6225 85.7011 435.4854 106.0921 411.9573 70.0157 400.9775 Z" id="CN.chongqing.2693403" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Tongliang District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Tongliang District</wikipedia>
+        <localname>铜梁区 (Tongliang)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.chongqing.2693403</id>
+      </desc>
+    </path>
+    <path d="M 65.3101 460.582 85.7011 435.4854 113.9348 438.6225 107.6607 469.9933 77.8584 524.8921 57.4674 476.2674 65.3101 460.582 Z" id="CN.chongqing.2693404" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>永川区 (Yongchuan)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.chongqing.2693404</id>
+        <name>Yongchuan District</name>
+      </desc>
+    </path>
+    <path d="M 167.2652 421.3685 197.0674 391.5663 195.4989 361.764 198.636 355.4899 223.7326 368.0382 240.9865 383.7236 239.418 407.2517 230.0067 421.3685 167.2652 429.2112 167.2652 421.3685 Z" id="CN.chongqing.2693405" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>渝北区 (Yubei)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.chongqing.2693405</id>
+        <name>Yubei District</name>
+      </desc>
+    </path>
+    <path d="M 146.8742 410.3888 167.2652 421.3685 167.2652 429.2112 171.9708 437.0539 170.4022 437.0539 137.4629 440.191 146.8742 410.3888 Z" id="CN.chongqing.4738519" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Shapingba District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Shapingba District</wikipedia>
+        <localname>沙坪坝区 (Shapingba)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.chongqing.4738519</id>
+      </desc>
+    </path>
+    <path d="M 176.6764 448.0337 164.1281 465.2876 159.4225 466.8562 176.6764 448.0337 Z" id="CN.chongqing.4738522" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dadukou District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Dadukou District</wikipedia>
+        <localname>大渡口区 (Dadukou)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.chongqing.4738522</id>
+      </desc>
+    </path>
+    <path d="M 137.4629 440.191 170.4022 437.0539 178.2449 440.191 179.8135 448.0337 176.6764 448.0337 159.4225 466.8562 139.0315 452.7393 137.4629 440.191 Z" id="CN.chongqing.4738524" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jiulongpo District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Jiulongpo District</wikipedia>
+        <localname>九龙坡区 (Jiulongpo)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.chongqing.4738524</id>
+      </desc>
+    </path>
+    <path d="M 171.9708 437.0539 186.0876 433.9169 178.2449 440.191 170.4022 437.0539 171.9708 437.0539 Z" id="CN.chongqing.4738525" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Yuzhong District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Yuzhong District</wikipedia>
+        <localname>渝中区 (Yuzhong)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.chongqing.4738525</id>
+      </desc>
+    </path>
+  </g>
+</svg>

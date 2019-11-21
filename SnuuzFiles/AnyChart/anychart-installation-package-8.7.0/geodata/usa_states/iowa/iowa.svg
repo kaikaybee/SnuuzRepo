@@ -1,0 +1,1094 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="iowa">
+    <path d="M 592.7373 274.4701 618.7821 274.4701 618.7821 271.3448 637.5343 274.4701 645.8687 284.8881 644.8269 292.1806 663.5791 302.5985 642.7433 302.5985 642.7433 311.9746 617.7403 311.9746 593.7791 311.9746 592.7373 274.4701 Z" id="US.IA.061" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dubuque County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>061</fips>
+        <incits>19061</incits>
+        <id>US.IA.061</id>
+        <population>95697</population>
+      </desc>
+    </path>
+    <path d="M 14.5433 283.8463 83.3015 283.8463 95.803 283.8463 95.803 293.2224 104.1373 293.2224 104.1373 321.3507 29.1284 321.3507 33.2955 319.2672 23.9194 307.8075 24.9612 291.1388 15.5851 288.0134 14.5433 283.8463 Z" id="US.IA.193" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Woodbury County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>193</fips>
+        <incits>19193</incits>
+        <id>US.IA.193</id>
+        <population>102130</population>
+      </desc>
+    </path>
+    <path d="M 53.0896 358.8552 103.0955 358.8552 115.597 358.8552 115.597 386.9836 121.8478 386.9836 122.8896 397.4015 68.7164 397.4015 58.2985 394.2761 55.1731 376.5657 60.3821 365.106 53.0896 358.8552 Z" id="US.IA.085" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Harrison County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>085</fips>
+        <incits>19085</incits>
+        <id>US.IA.085</id>
+        <population>14431</population>
+      </desc>
+    </path>
+    <path d="M 88.5104 461.9925 134.3493 461.9925 135.391 497.4134 93.7194 496.3716 90.594 488.0373 80.1761 480.7448 85.3851 475.5358 84.3433 466.1597 88.5104 461.9925 Z" id="US.IA.071" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Fremont County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>071</fips>
+        <incits>19071</incits>
+        <id>US.IA.071</id>
+        <population>7080</population>
+      </desc>
+    </path>
+    <path d="M 68.7164 397.4015 122.8896 397.4015 159.3522 397.4015 159.3522 434.906 134.3493 434.906 81.2179 434.906 76.009 428.6552 73.9254 415.1119 76.009 401.5687 68.7164 397.4015 Z" id="US.IA.155" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pottawattamie County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>155</fips>
+        <incits>19155</incits>
+        <id>US.IA.155</id>
+        <population>92728</population>
+      </desc>
+    </path>
+    <path d="M 29.1284 321.3507 104.1373 321.3507 103.0955 358.8552 53.0896 358.8552 54.1313 347.3955 38.5045 339.0612 39.5463 331.7687 31.2119 325.5179 29.1284 321.3507 Z" id="US.IA.133" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Monona County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>133</fips>
+        <incits>19133</incits>
+        <id>US.IA.133</id>
+        <population>9121</population>
+      </desc>
+    </path>
+    <path d="M 81.2179 434.906 134.3493 434.906 134.3493 461.9925 88.5104 461.9925 83.3015 451.5746 81.2179 434.906 Z" id="US.IA.129" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Mills County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>129</fips>
+        <incits>19129</incits>
+        <id>US.IA.129</id>
+        <population>14896</population>
+      </desc>
+    </path>
+    <path d="M 83.3015 181.7507 83.3015 207.7955 8.2925 207.7955 11.4179 193.2104 4.1254 189.0433 4.1254 181.7507 83.3015 181.7507 Z" id="US.IA.119" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lyon County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>119</fips>
+        <incits>19119</incits>
+        <id>US.IA.119</id>
+        <population>11712</population>
+      </desc>
+    </path>
+    <path d="M 83.3015 207.7955 83.3015 181.7507 134.3493 181.7507 134.3493 208.8373 83.3015 207.7955 Z" id="US.IA.143" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Osceola County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>143</fips>
+        <incits>19143</incits>
+        <id>US.IA.143</id>
+        <population>6211</population>
+      </desc>
+    </path>
+    <path d="M 83.3015 207.7955 134.3493 208.8373 134.3493 246.3418 83.3015 246.3418 83.3015 207.7955 Z" id="US.IA.141" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>OBrienCounty</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>141</fips>
+        <incits>19141</incits>
+        <id>US.IA.141</id>
+        <population>14044</population>
+      </desc>
+    </path>
+    <path d="M 185.397 246.3418 185.397 208.8373 236.4448 208.8373 235.403 246.3418 185.397 246.3418 Z" id="US.IA.147" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Palo Alto County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>147</fips>
+        <incits>19147</incits>
+        <id>US.IA.147</id>
+        <population>9185</population>
+      </desc>
+    </path>
+    <path d="M 134.3493 208.8373 185.397 208.8373 185.397 246.3418 134.3493 246.3418 134.3493 208.8373 Z" id="US.IA.041" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Clay County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>041</fips>
+        <incits>19041</incits>
+        <id>US.IA.041</id>
+        <population>16491</population>
+      </desc>
+    </path>
+    <path d="M 10.3761 246.3418 83.3015 246.3418 83.3015 283.8463 14.5433 283.8463 10.3761 273.4284 1 267.1776 10.3761 246.3418 Z" id="US.IA.149" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Plymouth County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>149</fips>
+        <incits>19149</incits>
+        <id>US.IA.149</id>
+        <population>24957</population>
+      </desc>
+    </path>
+    <path d="M 354.1672 358.8552 366.6687 358.8552 416.6746 358.8552 416.6746 386.9836 417.7164 396.3597 405.2149 397.4015 356.2507 397.4015 354.1672 386.9836 354.1672 358.8552 Z" id="US.IA.099" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jasper County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>099</fips>
+        <incits>19099</incits>
+        <id>US.IA.099</id>
+        <population>36641</population>
+      </desc>
+    </path>
+    <path d="M 356.2507 397.4015 356.2507 398.4433 343.7493 397.4015 306.2448 396.3597 305.203 386.9836 304.1612 372.3985 304.1612 365.106 304.1612 358.8552 316.6627 358.8552 330.206 358.8552 354.1672 358.8552 354.1672 386.9836 356.2507 397.4015 Z" id="US.IA.153" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Polk County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>153</fips>
+        <incits>19153</incits>
+        <id>US.IA.153</id>
+        <population>451677</population>
+      </desc>
+    </path>
+    <path d="M 356.2507 398.4433 356.2507 397.4015 405.2149 397.4015 405.2149 434.906 380.2119 434.906 356.2507 434.906 356.2507 398.4433 Z" id="US.IA.125" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Marion County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>125</fips>
+        <incits>19125</incits>
+        <id>US.IA.125</id>
+        <population>33252</population>
+      </desc>
+    </path>
+    <path d="M 306.2448 396.3597 343.7493 397.4015 356.2507 398.4433 356.2507 434.906 331.2478 434.906 306.2448 433.8642 306.2448 396.3597 Z" id="US.IA.181" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Warren County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>181</fips>
+        <incits>19181</incits>
+        <id>US.IA.181</id>
+        <population>47336</population>
+      </desc>
+    </path>
+    <path d="M 265.6149 321.3507 291.6597 321.3507 316.6627 321.3507 316.6627 358.8552 304.1612 358.8552 290.6179 358.8552 278.1164 358.8552 265.6149 358.8552 265.6149 321.3507 Z" id="US.IA.015" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Boone County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>015</fips>
+        <incits>19015</incits>
+        <id>US.IA.015</id>
+        <population>26364</population>
+      </desc>
+    </path>
+    <path d="M 253.1134 358.8552 265.6149 358.8552 278.1164 358.8552 290.6179 358.8552 304.1612 358.8552 304.1612 365.106 304.1612 372.3985 305.203 386.9836 306.2448 396.3597 294.7851 397.4015 257.2806 397.4015 253.1134 386.9836 253.1134 358.8552 Z" id="US.IA.049" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dallas County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>049</fips>
+        <incits>19049</incits>
+        <id>US.IA.049</id>
+        <population>74641</population>
+      </desc>
+    </path>
+    <path d="M 316.6627 321.3507 341.6657 321.3507 366.6687 321.3507 366.6687 358.8552 354.1672 358.8552 316.6627 358.8552 316.6627 321.3507 Z" id="US.IA.169" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Story County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>169</fips>
+        <incits>19169</incits>
+        <id>US.IA.169</id>
+        <population>92406</population>
+      </desc>
+    </path>
+    <path d="M 134.3493 246.3418 185.397 246.3418 185.397 283.8463 134.3493 283.8463 134.3493 246.3418 Z" id="US.IA.021" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Buena Vista County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>021</fips>
+        <incits>19021</incits>
+        <id>US.IA.021</id>
+        <population>20567</population>
+      </desc>
+    </path>
+    <path d="M 185.397 283.8463 236.4448 283.8463 240.6119 293.2224 240.6119 321.3507 215.609 321.3507 190.606 321.3507 191.6478 293.2224 185.397 293.2224 185.397 283.8463 Z" id="US.IA.025" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Calhoun County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>025</fips>
+        <incits>19025</incits>
+        <id>US.IA.025</id>
+        <population>9926</population>
+      </desc>
+    </path>
+    <path d="M 83.3015 246.3418 134.3493 246.3418 134.3493 283.8463 95.803 283.8463 83.3015 283.8463 83.3015 246.3418 Z" id="US.IA.035" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cherokee County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>035</fips>
+        <incits>19035</incits>
+        <id>US.IA.035</id>
+        <population>11945</population>
+      </desc>
+    </path>
+    <path d="M 95.803 283.8463 134.3493 283.8463 134.3493 293.2224 141.6418 293.2224 141.6418 321.3507 104.1373 321.3507 104.1373 293.2224 95.803 293.2224 95.803 283.8463 Z" id="US.IA.093" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ida County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>093</fips>
+        <incits>19093</incits>
+        <id>US.IA.093</id>
+        <population>7141</population>
+      </desc>
+    </path>
+    <path d="M 185.397 246.3418 235.403 246.3418 235.403 274.4701 236.4448 283.8463 185.397 283.8463 185.397 246.3418 Z" id="US.IA.151" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pocahontas County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>151</fips>
+        <incits>19151</incits>
+        <id>US.IA.151</id>
+        <population>7154</population>
+      </desc>
+    </path>
+    <path d="M 134.3493 283.8463 185.397 283.8463 185.397 293.2224 191.6478 293.2224 190.606 321.3507 166.6448 321.3507 141.6418 321.3507 141.6418 293.2224 134.3493 293.2224 134.3493 283.8463 Z" id="US.IA.161" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Sac County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>161</fips>
+        <incits>19161</incits>
+        <id>US.IA.161</id>
+        <population>10071</population>
+      </desc>
+    </path>
+    <path d="M 8.2925 207.7955 83.3015 207.7955 83.3015 246.3418 10.3761 246.3418 13.5015 242.1746 20.794 223.4224 16.6269 211.9627 8.2925 207.7955 Z" id="US.IA.167" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Sioux County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>167</fips>
+        <incits>19167</incits>
+        <id>US.IA.167</id>
+        <population>34547</population>
+      </desc>
+    </path>
+    <path d="M 366.6687 321.3507 391.6716 321.3507 416.6746 321.3507 416.6746 358.8552 366.6687 358.8552 366.6687 321.3507 Z" id="US.IA.127" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Marshall County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>127</fips>
+        <incits>19127</incits>
+        <id>US.IA.127</id>
+        <population>40994</population>
+      </desc>
+    </path>
+    <path d="M 235.403 274.4701 235.403 246.3418 287.4925 246.3418 286.4507 260.9269 286.4507 261.9687 286.4507 274.4701 235.403 274.4701 Z" id="US.IA.091" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Humboldt County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>091</fips>
+        <incits>19091</incits>
+        <id>US.IA.091</id>
+        <population>9688</population>
+      </desc>
+    </path>
+    <path d="M 235.403 274.4701 286.4507 274.4701 286.4507 283.8463 291.6597 293.2224 291.6597 321.3507 265.6149 321.3507 240.6119 321.3507 240.6119 293.2224 236.4448 283.8463 235.403 274.4701 Z" id="US.IA.187" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Webster County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>187</fips>
+        <incits>19187</incits>
+        <id>US.IA.187</id>
+        <population>37044</population>
+      </desc>
+    </path>
+    <path d="M 134.3493 461.9925 183.3134 461.9925 185.397 497.4134 135.391 497.4134 134.3493 461.9925 Z" id="US.IA.145" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Page County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>145</fips>
+        <incits>19145</incits>
+        <id>US.IA.145</id>
+        <population>15713</population>
+      </desc>
+    </path>
+    <path d="M 134.3493 434.906 159.3522 434.906 183.3134 434.906 183.3134 461.9925 134.3493 461.9925 134.3493 434.906 Z" id="US.IA.137" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Montgomery County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>137</fips>
+        <incits>19137</incits>
+        <id>US.IA.137</id>
+        <population>10424</population>
+      </desc>
+    </path>
+    <path d="M 183.3134 461.9925 183.3134 434.906 208.3164 434.906 233.3194 434.906 233.3194 463.0343 183.3134 461.9925 Z" id="US.IA.003" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Adams County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>003</fips>
+        <incits>19003</incits>
+        <id>US.IA.003</id>
+        <population>3894</population>
+      </desc>
+    </path>
+    <path d="M 233.3194 498.4552 233.3194 463.0343 282.2836 463.0343 282.2836 497.4134 233.3194 498.4552 Z" id="US.IA.159" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ringgold County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>159</fips>
+        <incits>19159</incits>
+        <id>US.IA.159</id>
+        <population>5072</population>
+      </desc>
+    </path>
+    <path d="M 183.3134 461.9925 233.3194 463.0343 233.3194 498.4552 185.397 497.4134 183.3134 461.9925 Z" id="US.IA.173" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Taylor County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>173</fips>
+        <incits>19173</incits>
+        <id>US.IA.173</id>
+        <population>6161</population>
+      </desc>
+    </path>
+    <path d="M 233.3194 434.906 257.2806 434.906 282.2836 434.906 282.2836 463.0343 233.3194 463.0343 233.3194 434.906 Z" id="US.IA.175" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Union County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>175</fips>
+        <incits>19175</incits>
+        <id>US.IA.175</id>
+        <population>12583</population>
+      </desc>
+    </path>
+    <path d="M 208.3164 397.4015 257.2806 397.4015 257.2806 434.906 233.3194 434.906 208.3164 434.906 208.3164 397.4015 Z" id="US.IA.001" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Adair County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>001</fips>
+        <incits>19001</incits>
+        <id>US.IA.001</id>
+        <population>7472</population>
+      </desc>
+    </path>
+    <path d="M 165.603 358.8552 203.1075 358.8552 203.1075 386.9836 208.3164 397.4015 171.8537 397.4015 171.8537 386.9836 165.603 386.9836 165.603 358.8552 Z" id="US.IA.009" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Audubon County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>009</fips>
+        <incits>19009</incits>
+        <id>US.IA.009</id>
+        <population>5873</population>
+      </desc>
+    </path>
+    <path d="M 203.1075 358.8552 215.609 358.8552 253.1134 358.8552 253.1134 386.9836 257.2806 397.4015 208.3164 397.4015 203.1075 386.9836 203.1075 358.8552 Z" id="US.IA.077" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Guthrie County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>077</fips>
+        <incits>19077</incits>
+        <id>US.IA.077</id>
+        <population>10687</population>
+      </desc>
+    </path>
+    <path d="M 159.3522 434.906 159.3522 397.4015 171.8537 397.4015 208.3164 397.4015 208.3164 434.906 183.3134 434.906 159.3522 434.906 Z" id="US.IA.029" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cass County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>029</fips>
+        <incits>19029</incits>
+        <id>US.IA.029</id>
+        <population>13598</population>
+      </desc>
+    </path>
+    <path d="M 103.0955 358.8552 104.1373 321.3507 141.6418 321.3507 166.6448 321.3507 165.603 358.8552 115.597 358.8552 103.0955 358.8552 Z" id="US.IA.047" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Crawford County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>047</fips>
+        <incits>19047</incits>
+        <id>US.IA.047</id>
+        <population>17434</population>
+      </desc>
+    </path>
+    <path d="M 115.597 358.8552 165.603 358.8552 165.603 386.9836 171.8537 386.9836 171.8537 397.4015 159.3522 397.4015 122.8896 397.4015 121.8478 386.9836 115.597 386.9836 115.597 358.8552 Z" id="US.IA.165" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Shelby County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>165</fips>
+        <incits>19165</incits>
+        <id>US.IA.165</id>
+        <population>11961</population>
+      </desc>
+    </path>
+    <path d="M 165.603 358.8552 166.6448 321.3507 190.606 321.3507 215.609 321.3507 215.609 358.8552 203.1075 358.8552 165.603 358.8552 Z" id="US.IA.027" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Carroll County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>027</fips>
+        <incits>19027</incits>
+        <id>US.IA.027</id>
+        <population>20598</population>
+      </desc>
+    </path>
+    <path d="M 215.609 321.3507 240.6119 321.3507 265.6149 321.3507 265.6149 358.8552 253.1134 358.8552 215.609 358.8552 215.609 321.3507 Z" id="US.IA.073" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Greene County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>073</fips>
+        <incits>19073</incits>
+        <id>US.IA.073</id>
+        <population>9139</population>
+      </desc>
+    </path>
+    <path d="M 282.2836 434.906 306.2448 433.8642 331.2478 434.906 331.2478 463.0343 282.2836 463.0343 282.2836 434.906 Z" id="US.IA.039" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Clarke County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>039</fips>
+        <incits>19039</incits>
+        <id>US.IA.039</id>
+        <population>9325</population>
+      </desc>
+    </path>
+    <path d="M 282.2836 497.4134 282.2836 463.0343 331.2478 463.0343 331.2478 497.4134 282.2836 497.4134 Z" id="US.IA.053" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Decatur County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>053</fips>
+        <incits>19053</incits>
+        <id>US.IA.053</id>
+        <population>8136</population>
+      </desc>
+    </path>
+    <path d="M 257.2806 434.906 257.2806 397.4015 294.7851 397.4015 306.2448 396.3597 306.2448 433.8642 282.2836 434.906 257.2806 434.906 Z" id="US.IA.121" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Madison County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>121</fips>
+        <incits>19121</incits>
+        <id>US.IA.121</id>
+        <population>15448</population>
+      </desc>
+    </path>
+    <path d="M 480.2239 463.0343 530.2299 463.0343 530.2299 471.3687 530.2299 495.3299 529.1881 493.2463 480.2239 495.3299 480.2239 463.0343 Z" id="US.IA.177" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Van Buren County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>177</fips>
+        <incits>19177</incits>
+        <id>US.IA.177</id>
+        <population>7436</population>
+      </desc>
+    </path>
+    <path d="M 530.2299 471.3687 563.5672 472.4104 585.4448 481.7866 594.8209 484.9119 587.5284 491.1627 569.8179 494.2881 563.5672 500.5388 567.7343 504.706 566.6925 517.2075 555.2328 518.2493 534.397 499.497 530.2299 495.3299 530.2299 471.3687 Z" id="US.IA.111" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lee County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>111</fips>
+        <incits>19111</incits>
+        <id>US.IA.111</id>
+        <population>35682</population>
+      </desc>
+    </path>
+    <path d="M 563.5672 472.4104 566.6925 472.4104 567.7343 444.2821 612.5313 444.2821 611.4896 459.909 596.9045 472.4104 594.8209 484.9119 585.4448 481.7866 563.5672 472.4104 Z" id="US.IA.057" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Des Moines County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>057</fips>
+        <incits>19057</incits>
+        <id>US.IA.057</id>
+        <population>40480</population>
+      </desc>
+    </path>
+    <path d="M 381.2537 463.0343 430.2179 463.0343 430.2179 496.3716 381.2537 496.3716 381.2537 463.0343 Z" id="US.IA.007" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Appanoose County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>007</fips>
+        <incits>19007</incits>
+        <id>US.IA.007</id>
+        <population>12692</population>
+      </desc>
+    </path>
+    <path d="M 430.2179 463.0343 480.2239 463.0343 480.2239 495.3299 430.2179 496.3716 430.2179 463.0343 Z" id="US.IA.051" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Davis County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>051</fips>
+        <incits>19051</incits>
+        <id>US.IA.051</id>
+        <population>8791</population>
+      </desc>
+    </path>
+    <path d="M 530.2299 471.3687 530.2299 463.0343 530.2299 433.8642 555.2328 433.8642 567.7343 433.8642 567.7343 444.2821 566.6925 472.4104 563.5672 472.4104 530.2299 471.3687 Z" id="US.IA.087" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Henry County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>087</fips>
+        <incits>19087</incits>
+        <id>US.IA.087</id>
+        <population>20222</population>
+      </desc>
+    </path>
+    <path d="M 480.2239 433.8642 505.2269 433.8642 530.2299 433.8642 530.2299 463.0343 480.2239 463.0343 480.2239 433.8642 Z" id="US.IA.101" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jefferson County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>101</fips>
+        <incits>19101</incits>
+        <id>US.IA.101</id>
+        <population>16810</population>
+      </desc>
+    </path>
+    <path d="M 331.2478 434.906 356.2507 434.906 380.2119 434.906 381.2537 463.0343 331.2478 463.0343 331.2478 434.906 Z" id="US.IA.117" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lucas County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>117</fips>
+        <incits>19117</incits>
+        <id>US.IA.117</id>
+        <population>8746</population>
+      </desc>
+    </path>
+    <path d="M 380.2119 434.906 405.2149 434.906 430.2179 434.906 430.2179 463.0343 381.2537 463.0343 380.2119 434.906 Z" id="US.IA.135" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Monroe County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>135</fips>
+        <incits>19135</incits>
+        <id>US.IA.135</id>
+        <population>8012</population>
+      </desc>
+    </path>
+    <path d="M 430.2179 434.906 455.2209 433.8642 480.2239 433.8642 480.2239 463.0343 430.2179 463.0343 430.2179 434.906 Z" id="US.IA.179" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wapello County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>179</fips>
+        <incits>19179</incits>
+        <id>US.IA.179</id>
+        <population>35391</population>
+      </desc>
+    </path>
+    <path d="M 331.2478 463.0343 381.2537 463.0343 381.2537 496.3716 331.2478 497.4134 331.2478 463.0343 Z" id="US.IA.185" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wayne County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>185</fips>
+        <incits>19185</incits>
+        <id>US.IA.185</id>
+        <population>6402</population>
+      </desc>
+    </path>
+    <path d="M 555.2328 433.8642 555.2328 405.7358 567.7343 405.7358 567.7343 415.1119 600.0299 416.1537 594.8209 425.5299 603.1552 433.8642 608.3642 434.906 612.5313 444.2821 567.7343 444.2821 567.7343 433.8642 555.2328 433.8642 Z" id="US.IA.115" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Louisa County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>115</fips>
+        <incits>19115</incits>
+        <id>US.IA.115</id>
+        <population>11282</population>
+      </desc>
+    </path>
+    <path d="M 134.3493 208.8373 134.3493 181.7507 185.397 181.7507 185.397 208.8373 134.3493 208.8373 Z" id="US.IA.059" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dickinson County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>059</fips>
+        <incits>19059</incits>
+        <id>US.IA.059</id>
+        <population>16955</population>
+      </desc>
+    </path>
+    <path d="M 185.397 181.7507 236.4448 181.7507 236.4448 208.8373 185.397 208.8373 185.397 181.7507 Z" id="US.IA.063" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Emmet County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>063</fips>
+        <incits>19063</incits>
+        <id>US.IA.063</id>
+        <population>9996</population>
+      </desc>
+    </path>
+    <path d="M 467.7224 358.8552 517.7284 358.8552 517.7284 396.3597 505.2269 396.3597 466.6806 396.3597 467.7224 358.8552 Z" id="US.IA.095" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Iowa County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>095</fips>
+        <incits>19095</incits>
+        <id>US.IA.095</id>
+        <population>16330</population>
+      </desc>
+    </path>
+    <path d="M 517.7284 358.8552 567.7343 358.8552 567.7343 386.9836 567.7343 405.7358 555.2328 405.7358 550.0239 397.4015 517.7284 396.3597 517.7284 358.8552 Z" id="US.IA.103" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Johnson County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>103</fips>
+        <incits>19103</incits>
+        <id>US.IA.103</id>
+        <population>139155</population>
+      </desc>
+    </path>
+    <path d="M 455.2209 397.4015 466.6806 396.3597 505.2269 396.3597 505.2269 433.8642 480.2239 433.8642 455.2209 433.8642 455.2209 397.4015 Z" id="US.IA.107" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Keokuk County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>107</fips>
+        <incits>19107</incits>
+        <id>US.IA.107</id>
+        <population>10329</population>
+      </desc>
+    </path>
+    <path d="M 235.403 246.3418 236.4448 208.8373 236.4448 181.7507 287.4925 181.7507 287.4925 208.8373 287.4925 246.3418 235.403 246.3418 Z" id="US.IA.109" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Kossuth County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>109</fips>
+        <incits>19109</incits>
+        <id>US.IA.109</id>
+        <population>15321</population>
+      </desc>
+    </path>
+    <path d="M 405.2149 434.906 405.2149 397.4015 417.7164 396.3597 455.2209 397.4015 455.2209 433.8642 430.2179 434.906 405.2149 434.906 Z" id="US.IA.123" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Mahaska County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>123</fips>
+        <incits>19123</incits>
+        <id>US.IA.123</id>
+        <population>22417</population>
+      </desc>
+    </path>
+    <path d="M 416.6746 358.8552 467.7224 358.8552 466.6806 396.3597 455.2209 397.4015 417.7164 396.3597 416.6746 386.9836 416.6746 358.8552 Z" id="US.IA.157" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Poweshiek County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>157</fips>
+        <incits>19157</incits>
+        <id>US.IA.157</id>
+        <population>18601</population>
+      </desc>
+    </path>
+    <path d="M 505.2269 396.3597 517.7284 396.3597 550.0239 397.4015 555.2328 405.7358 555.2328 433.8642 530.2299 433.8642 505.2269 433.8642 505.2269 396.3597 Z" id="US.IA.183" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Washington County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>183</fips>
+        <incits>19183</incits>
+        <id>US.IA.183</id>
+        <population>22015</population>
+      </desc>
+    </path>
+    <path d="M 567.7343 405.7358 567.7343 386.9836 617.7403 386.9836 630.2418 386.9836 630.2418 402.6104 602.1134 407.8194 600.0299 416.1537 567.7343 415.1119 567.7343 405.7358 Z" id="US.IA.139" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Muscatine County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>139</fips>
+        <incits>19139</incits>
+        <id>US.IA.139</id>
+        <population>42836</population>
+      </desc>
+    </path>
+    <path d="M 567.7343 358.8552 567.7343 349.4791 617.7403 349.4791 617.7403 368.2313 617.7403 386.9836 567.7343 386.9836 567.7343 358.8552 Z" id="US.IA.031" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cedar County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>031</fips>
+        <incits>19031</incits>
+        <id>US.IA.031</id>
+        <population>18393</population>
+      </desc>
+    </path>
+    <path d="M 617.7403 368.2313 617.7403 349.4791 617.7403 340.103 697.9582 340.103 699 353.6463 694.8328 365.106 681.2896 373.4403 670.8716 372.3985 663.5791 368.2313 642.7433 369.2731 635.4507 372.3985 630.2418 368.2313 617.7403 368.2313 Z" id="US.IA.045" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Clinton County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>045</fips>
+        <incits>19045</incits>
+        <id>US.IA.045</id>
+        <population>48420</population>
+      </desc>
+    </path>
+    <path d="M 617.7403 311.9746 642.7433 311.9746 642.7433 302.5985 663.5791 302.5985 669.8299 308.8493 672.9552 319.2672 692.7493 327.6015 697.9582 331.7687 697.9582 340.103 617.7403 340.103 617.7403 311.9746 Z" id="US.IA.097" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jackson County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>097</fips>
+        <incits>19097</incits>
+        <id>US.IA.097</id>
+        <population>19587</population>
+      </desc>
+    </path>
+    <path d="M 617.7403 386.9836 617.7403 368.2313 630.2418 368.2313 635.4507 372.3985 642.7433 369.2731 663.5791 368.2313 670.8716 372.3985 681.2896 373.4403 678.1642 388.0254 665.6627 395.3179 656.2866 395.3179 644.8269 401.5687 630.2418 402.6104 630.2418 386.9836 617.7403 386.9836 Z" id="US.IA.163" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Scott County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>163</fips>
+        <incits>19163</incits>
+        <id>US.IA.163</id>
+        <population>170385</population>
+      </desc>
+    </path>
+    <path d="M 541.6896 181.7507 583.3612 181.7507 582.3194 186.9597 585.4448 198.4194 593.7791 200.503 601.0716 208.8373 588.5701 222.3806 588.5701 227.5896 541.6896 227.5896 541.6896 181.7507 Z" id="US.IA.005" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Allamakee County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>005</fips>
+        <incits>19005</incits>
+        <id>US.IA.005</id>
+        <population>14169</population>
+      </desc>
+    </path>
+    <path d="M 541.6896 274.4701 541.6896 227.5896 588.5701 227.5896 591.6955 246.3418 596.9045 248.4254 602.1134 264.0522 618.7821 271.3448 618.7821 274.4701 592.7373 274.4701 541.6896 274.4701 Z" id="US.IA.043" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Clayton County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>043</fips>
+        <incits>19043</incits>
+        <id>US.IA.043</id>
+        <population>17773</population>
+      </desc>
+    </path>
+    <path d="M 490.6418 213.0045 490.6418 181.7507 541.6896 181.7507 541.6896 227.5896 490.6418 227.5896 490.6418 213.0045 Z" id="US.IA.191" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Winneshiek County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>191</fips>
+        <incits>19191</incits>
+        <id>US.IA.191</id>
+        <population>20994</population>
+      </desc>
+    </path>
+    <path d="M 467.7224 311.9746 492.7254 311.9746 517.7284 311.9746 517.7284 358.8552 467.7224 358.8552 467.7224 311.9746 Z" id="US.IA.011" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Benton County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>011</fips>
+        <incits>19011</incits>
+        <id>US.IA.011</id>
+        <population>25699</population>
+      </desc>
+    </path>
+    <path d="M 439.594 274.4701 490.6418 274.4701 490.6418 293.2224 492.7254 311.9746 467.7224 311.9746 441.6776 311.9746 441.6776 293.2224 439.594 283.8463 439.594 274.4701 Z" id="US.IA.013" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Black Hawk County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>013</fips>
+        <incits>19013</incits>
+        <id>US.IA.013</id>
+        <population>132546</population>
+      </desc>
+    </path>
+    <path d="M 439.594 274.4701 439.594 246.3418 490.6418 246.3418 490.6418 274.4701 439.594 274.4701 Z" id="US.IA.017" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Bremer County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>017</fips>
+        <incits>19017</incits>
+        <id>US.IA.017</id>
+        <population>24624</population>
+      </desc>
+    </path>
+    <path d="M 490.6418 274.4701 541.6896 274.4701 542.7313 311.9746 517.7284 311.9746 492.7254 311.9746 490.6418 293.2224 490.6418 274.4701 Z" id="US.IA.019" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Buchanan County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>019</fips>
+        <incits>19019</incits>
+        <id>US.IA.019</id>
+        <population>20976</population>
+      </desc>
+    </path>
+    <path d="M 388.5463 283.8463 388.5463 246.3418 439.594 246.3418 439.594 274.4701 439.594 283.8463 388.5463 283.8463 Z" id="US.IA.023" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Butler County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>023</fips>
+        <incits>19023</incits>
+        <id>US.IA.023</id>
+        <population>15021</population>
+      </desc>
+    </path>
+    <path d="M 337.4985 246.3418 338.5403 208.8373 389.5881 208.8373 388.5463 213.0045 388.5463 246.3418 337.4985 246.3418 Z" id="US.IA.033" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cerro Gordo County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>033</fips>
+        <incits>19033</incits>
+        <id>US.IA.033</id>
+        <population>43575</population>
+      </desc>
+    </path>
+    <path d="M 439.594 213.0045 490.6418 213.0045 490.6418 227.5896 490.6418 246.3418 439.594 246.3418 439.594 213.0045 Z" id="US.IA.037" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Chickasaw County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>037</fips>
+        <incits>19037</incits>
+        <id>US.IA.037</id>
+        <population>12321</population>
+      </desc>
+    </path>
+    <path d="M 541.6896 274.4701 592.7373 274.4701 593.7791 311.9746 567.7343 311.9746 542.7313 311.9746 541.6896 274.4701 Z" id="US.IA.055" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Delaware County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>055</fips>
+        <incits>19055</incits>
+        <id>US.IA.055</id>
+        <population>17534</population>
+      </desc>
+    </path>
+    <path d="M 490.6418 246.3418 490.6418 227.5896 541.6896 227.5896 541.6896 274.4701 490.6418 274.4701 490.6418 246.3418 Z" id="US.IA.065" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Fayette County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>065</fips>
+        <incits>19065</incits>
+        <id>US.IA.065</id>
+        <population>20502</population>
+      </desc>
+    </path>
+    <path d="M 388.5463 246.3418 388.5463 213.0045 439.594 213.0045 439.594 246.3418 388.5463 246.3418 Z" id="US.IA.067" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Floyd County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>067</fips>
+        <incits>19067</incits>
+        <id>US.IA.067</id>
+        <population>16092</population>
+      </desc>
+    </path>
+    <path d="M 337.4985 246.3418 388.5463 246.3418 388.5463 283.8463 337.4985 283.8463 337.4985 246.3418 Z" id="US.IA.069" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Franklin County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>069</fips>
+        <incits>19069</incits>
+        <id>US.IA.069</id>
+        <population>10548</population>
+      </desc>
+    </path>
+    <path d="M 388.5463 283.8463 439.594 283.8463 441.6776 293.2224 441.6776 311.9746 416.6746 311.9746 416.6746 321.3507 391.6716 321.3507 391.6716 293.2224 388.5463 283.8463 Z" id="US.IA.075" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Grundy County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>075</fips>
+        <incits>19075</incits>
+        <id>US.IA.075</id>
+        <population>12314</population>
+      </desc>
+    </path>
+    <path d="M 286.4507 283.8463 337.4985 283.8463 341.6657 293.2224 341.6657 321.3507 316.6627 321.3507 291.6597 321.3507 291.6597 293.2224 286.4507 283.8463 Z" id="US.IA.079" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hamilton County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>079</fips>
+        <incits>19079</incits>
+        <id>US.IA.079</id>
+        <population>15312</population>
+      </desc>
+    </path>
+    <path d="M 287.4925 208.8373 338.5403 208.8373 337.4985 246.3418 287.4925 246.3418 287.4925 208.8373 Z" id="US.IA.081" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hancock County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>081</fips>
+        <incits>19081</incits>
+        <id>US.IA.081</id>
+        <population>11094</population>
+      </desc>
+    </path>
+    <path d="M 337.4985 283.8463 388.5463 283.8463 391.6716 293.2224 391.6716 321.3507 366.6687 321.3507 341.6657 321.3507 341.6657 293.2224 337.4985 283.8463 Z" id="US.IA.083" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hardin County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>083</fips>
+        <incits>19083</incits>
+        <id>US.IA.083</id>
+        <population>17441</population>
+      </desc>
+    </path>
+    <path d="M 439.594 181.7507 490.6418 181.7507 490.6418 213.0045 439.594 213.0045 439.594 181.7507 Z" id="US.IA.089" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Howard County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>089</fips>
+        <incits>19089</incits>
+        <id>US.IA.089</id>
+        <population>9526</population>
+      </desc>
+    </path>
+    <path d="M 567.7343 349.4791 567.7343 311.9746 593.7791 311.9746 617.7403 311.9746 617.7403 340.103 617.7403 349.4791 567.7343 349.4791 Z" id="US.IA.105" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jones County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>105</fips>
+        <incits>19105</incits>
+        <id>US.IA.105</id>
+        <population>20611</population>
+      </desc>
+    </path>
+    <path d="M 517.7284 311.9746 542.7313 311.9746 567.7343 311.9746 567.7343 349.4791 567.7343 358.8552 517.7284 358.8552 517.7284 311.9746 Z" id="US.IA.113" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Linn County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>113</fips>
+        <incits>19113</incits>
+        <id>US.IA.113</id>
+        <population>216111</population>
+      </desc>
+    </path>
+    <path d="M 388.5463 213.0045 389.5881 208.8373 389.5881 181.7507 439.594 181.7507 439.594 213.0045 388.5463 213.0045 Z" id="US.IA.131" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Mitchell County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>131</fips>
+        <incits>19131</incits>
+        <id>US.IA.131</id>
+        <population>10709</population>
+      </desc>
+    </path>
+    <path d="M 441.6776 311.9746 467.7224 311.9746 467.7224 358.8552 416.6746 358.8552 416.6746 321.3507 416.6746 311.9746 441.6776 311.9746 Z" id="US.IA.171" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Tama County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>171</fips>
+        <incits>19171</incits>
+        <id>US.IA.171</id>
+        <population>17576</population>
+      </desc>
+    </path>
+    <path d="M 287.4925 181.7507 338.5403 181.7507 338.5403 208.8373 287.4925 208.8373 287.4925 181.7507 Z" id="US.IA.189" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Winnebago County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>189</fips>
+        <incits>19189</incits>
+        <id>US.IA.189</id>
+        <population>10554</population>
+      </desc>
+    </path>
+    <path d="M 338.5403 208.8373 338.5403 181.7507 389.5881 181.7507 389.5881 208.8373 338.5403 208.8373 Z" id="US.IA.195" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Worth County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>195</fips>
+        <incits>19195</incits>
+        <id>US.IA.195</id>
+        <population>7541</population>
+      </desc>
+    </path>
+    <path d="M 287.4925 246.3418 337.4985 246.3418 337.4985 283.8463 286.4507 283.8463 286.4507 274.4701 286.4507 261.9687 286.4507 260.9269 287.4925 246.3418 Z" id="US.IA.197" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wright County</name>
+        <stateAbbrev>IA</stateAbbrev>
+        <state>Iowa</state>
+        <fips>197</fips>
+        <incits>19197</incits>
+        <id>US.IA.197</id>
+        <population>12972</population>
+      </desc>
+    </path>
+  </g>
+</svg>

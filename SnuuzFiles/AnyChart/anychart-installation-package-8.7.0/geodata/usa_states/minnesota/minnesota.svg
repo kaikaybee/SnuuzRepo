@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="minnesota">
+    <path d="M 37.5492 428.0013 91.0358 428.0013 91.9272 428.0013 91.9272 444.0473 103.516 444.0473 103.516 460.0932 104.4074 465.4419 88.3614 460.9847 87.47 459.2018 76.7727 458.3103 72.3155 457.4189 72.3155 454.7446 69.6411 449.3959 57.1609 444.0473 51.8123 444.0473 47.355 439.59 43.7893 434.2414 37.5492 428.0013 Z" id="US.MN.011" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Big Stone County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>011</fips>
+        <incits>27011</incits>
+        <id>US.MN.011</id>
+        <population>5122</population>
+      </desc>
+    </path>
+    <path d="M 72.3155 555.4777 72.3155 515.3627 106.1903 515.3627 107.0817 523.3857 107.0817 555.4777 72.3155 555.4777 Z" id="US.MN.081" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lincoln County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>081</fips>
+        <incits>27081</incits>
+        <id>US.MN.081</id>
+        <population>5830</population>
+      </desc>
+    </path>
+    <path d="M 72.3155 555.4777 107.0817 555.4777 107.9732 555.4777 107.9732 587.5696 72.3155 587.5696 72.3155 555.4777 Z" id="US.MN.117" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pipestone County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>117</fips>
+        <incits>27117</incits>
+        <id>US.MN.117</id>
+        <population>9270</population>
+      </desc>
+    </path>
+    <path d="M 72.3155 587.5696 107.9732 587.5696 109.7561 587.5696 108.8646 619.6616 72.3155 619.6616 72.3155 587.5696 Z" id="US.MN.133" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Rock County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>133</fips>
+        <incits>27133</incits>
+        <id>US.MN.133</id>
+        <population>9520</population>
+      </desc>
+    </path>
+    <path d="M 61.6181 387.8863 90.1443 387.8863 91.0358 395.9093 91.0358 411.9553 91.0358 428.0013 37.5492 428.0013 35.7663 426.2184 36.6577 422.6526 45.5722 418.1954 52.7037 414.6296 60.7267 406.6066 62.5096 395.9093 61.6181 387.8863 Z" id="US.MN.155" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Traverse County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>155</fips>
+        <incits>27155</incits>
+        <id>US.MN.155</id>
+        <population>3445</population>
+      </desc>
+    </path>
+    <path d="M 72.3155 499.3167 128.4764 499.3167 128.4764 492.1852 138.2822 492.1852 138.2822 487.728 140.0651 490.4023 144.5223 491.2937 149.871 495.751 153.4368 496.6424 160.5683 501.0996 162.3512 504.6654 168.5913 506.4483 173.0485 509.1226 173.0485 523.3857 151.6539 523.3857 150.7625 515.3627 106.1903 515.3627 72.3155 515.3627 72.3155 499.3167 Z" id="US.MN.173" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Yellow Medicine County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>173</fips>
+        <incits>27173</incits>
+        <id>US.MN.173</id>
+        <population>10143</population>
+      </desc>
+    </path>
+    <path d="M 36.6577 284.4789 96.3844 284.4789 96.3844 300.5249 98.1673 300.5249 98.1673 324.5939 98.1673 332.6169 88.3614 332.6169 42.0064 332.6169 42.0064 321.0281 40.2235 315.6794 42.8978 312.1137 41.1149 302.3078 37.5492 297.8506 39.3321 294.2848 39.3321 288.0447 36.6577 284.4789 Z" id="US.MN.027" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Clay County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>027</fips>
+        <incits>27027</incits>
+        <id>US.MN.027</id>
+        <population>60661</population>
+      </desc>
+    </path>
+    <path d="M 76.7727 115.1047 76.7727 140.9566 78.5556 140.9566 78.5556 157.0026 37.5492 157.0026 7.2401 157.0026 9.9144 150.7625 13.4802 146.3052 12.5888 141.848 8.1315 138.2822 6.3487 132.0421 6.3487 126.6935 1 119.5619 1.8914 115.1047 76.7727 115.1047 Z" id="US.MN.069" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Kittson County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>069</fips>
+        <incits>27069</incits>
+        <id>US.MN.069</id>
+        <population>4503</population>
+      </desc>
+    </path>
+    <path d="M 7.2401 157.0026 37.5492 157.0026 78.5556 157.0026 150.7625 157.0026 151.6539 173.0485 151.6539 190.8774 67.8582 190.8774 9.023 190.8774 9.9144 185.5287 11.6973 181.0715 10.8059 175.7229 8.1315 170.3742 10.8059 169.4828 10.8059 165.0255 8.1315 163.2427 9.9144 157.894 7.2401 157.0026 Z" id="US.MN.089" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Marshall County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>089</fips>
+        <incits>27089</incits>
+        <id>US.MN.089</id>
+        <population>9425</population>
+      </desc>
+    </path>
+    <path d="M 35.7663 252.387 107.9732 252.387 107.9732 284.4789 96.3844 284.4789 36.6577 284.4789 38.4406 284.4789 36.6577 271.9987 37.5492 267.5415 34.8748 260.41 35.7663 252.387 Z" id="US.MN.107" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Norman County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>107</fips>
+        <incits>27107</incits>
+        <id>US.MN.107</id>
+        <population>6631</population>
+      </desc>
+    </path>
+    <path d="M 67.8582 190.8774 151.6539 190.8774 152.5453 205.1405 152.5453 213.1635 140.0651 213.1635 140.0651 209.5977 69.6411 210.4891 67.8582 205.1405 67.8582 190.8774 Z" id="US.MN.113" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pennington County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>113</fips>
+        <incits>27113</incits>
+        <id>US.MN.113</id>
+        <population>14118</population>
+      </desc>
+    </path>
+    <path d="M 9.023 190.8774 67.8582 190.8774 67.8582 205.1405 69.6411 210.4891 69.6411 221.1865 82.1213 221.1865 82.1213 228.318 128.4764 229.2095 128.4764 221.1865 140.9566 220.295 140.0651 213.1635 152.5453 213.1635 152.5453 237.2324 155.2197 237.2324 155.2197 252.387 107.9732 252.387 35.7663 252.387 36.6577 244.364 33.9834 241.6897 33.092 237.2324 28.6347 230.9923 28.6347 228.318 25.069 224.7522 17.9374 212.272 15.2631 202.4662 9.023 193.5517 9.023 190.8774 Z" id="US.MN.119" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Polk County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>119</fips>
+        <incits>27119</incits>
+        <id>US.MN.119</id>
+        <population>31569</population>
+      </desc>
+    </path>
+    <path d="M 69.6411 210.4891 140.0651 209.5977 140.0651 213.1635 140.9566 220.295 128.4764 221.1865 128.4764 229.2095 82.1213 228.318 82.1213 221.1865 69.6411 221.1865 69.6411 210.4891 Z" id="US.MN.125" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Red Lake County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>125</fips>
+        <incits>27125</incits>
+        <id>US.MN.125</id>
+        <population>4057</population>
+      </desc>
+    </path>
+    <path d="M 42.0064 332.6169 88.3614 332.6169 88.3614 363.8174 90.1443 363.8174 89.2529 379.8633 90.1443 387.8863 61.6181 387.8863 63.401 384.3206 62.5096 379.8633 59.8352 373.6232 58.9438 360.2516 52.7037 355.7944 48.2465 349.5543 45.5722 336.1826 42.0064 332.6169 Z" id="US.MN.167" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wilkin County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>167</fips>
+        <incits>27167</incits>
+        <id>US.MN.167</id>
+        <population>6557</population>
+      </desc>
+    </path>
+    <path d="M 108.8646 619.6616 109.7561 587.5696 163.2427 587.5696 164.1341 587.5696 164.1341 619.6616 108.8646 619.6616 Z" id="US.MN.105" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Nobles County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>105</fips>
+        <incits>27105</incits>
+        <id>US.MN.105</id>
+        <population>21617</population>
+      </desc>
+    </path>
+    <path d="M 439.59 619.6616 439.59 588.461 439.59 587.5696 473.4649 587.5696 505.5568 587.5696 505.5568 619.6616 439.59 619.6616 Z" id="US.MN.045" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Fillmore County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>045</fips>
+        <incits>27045</incits>
+        <id>US.MN.045</id>
+        <population>20835</population>
+      </desc>
+    </path>
+    <path d="M 505.5568 619.6616 505.5568 587.5696 545.6718 587.5696 550.129 593.8097 547.4547 600.0498 547.4547 608.9642 551.0204 611.6386 550.129 615.2043 552.8033 619.6616 505.5568 619.6616 Z" id="US.MN.055" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Houston County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>055</fips>
+        <incits>27055</incits>
+        <id>US.MN.055</id>
+        <population>18799</population>
+      </desc>
+    </path>
+    <path d="M 274.6731 619.6616 274.6731 587.5696 318.3538 587.5696 329.9425 587.5696 329.9425 619.6616 274.6731 619.6616 Z" id="US.MN.043" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Faribault County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>043</fips>
+        <incits>27043</incits>
+        <id>US.MN.043</id>
+        <population>14191</population>
+      </desc>
+    </path>
+    <path d="M 329.9425 619.6616 329.9425 587.5696 352.2286 587.5696 384.3206 587.5696 384.3206 619.6616 329.9425 619.6616 Z" id="US.MN.047" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Freeborn County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>047</fips>
+        <incits>27047</incits>
+        <id>US.MN.047</id>
+        <population>30948</population>
+      </desc>
+    </path>
+    <path d="M 164.1341 619.6616 164.1341 587.5696 218.5121 587.5696 219.4036 587.5696 218.5121 619.6616 164.1341 619.6616 Z" id="US.MN.063" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jackson County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>063</fips>
+        <incits>27063</incits>
+        <id>US.MN.063</id>
+        <population>10260</population>
+      </desc>
+    </path>
+    <path d="M 218.5121 619.6616 219.4036 587.5696 263.0843 587.5696 274.6731 587.5696 274.6731 619.6616 218.5121 619.6616 Z" id="US.MN.091" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Martin County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>091</fips>
+        <incits>27091</incits>
+        <id>US.MN.091</id>
+        <population>20422</population>
+      </desc>
+    </path>
+    <path d="M 384.3206 587.5696 385.212 587.5696 417.304 587.5696 417.304 588.461 439.59 588.461 439.59 619.6616 384.3206 619.6616 384.3206 587.5696 Z" id="US.MN.099" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Mower County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>099</fips>
+        <incits>27099</incits>
+        <id>US.MN.099</id>
+        <population>39327</population>
+      </desc>
+    </path>
+    <path d="M 135.6079 380.7548 192.6603 380.7548 192.6603 396.8008 192.6603 411.0639 192.6603 411.9553 136.4994 411.9553 136.4994 395.9093 135.6079 380.7548 Z" id="US.MN.041" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Douglas County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>041</fips>
+        <incits>27041</incits>
+        <id>US.MN.041</id>
+        <population>36545</population>
+      </desc>
+    </path>
+    <path d="M 89.2529 379.8633 135.6079 380.7548 136.4994 395.9093 136.4994 411.9553 91.0358 411.9553 91.0358 395.9093 90.1443 387.8863 89.2529 379.8633 Z" id="US.MN.051" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Grant County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>051</fips>
+        <incits>27051</incits>
+        <id>US.MN.051</id>
+        <population>5989</population>
+      </desc>
+    </path>
+    <path d="M 182.8544 444.0473 193.5517 444.0473 227.4266 444.0473 227.4266 452.0702 228.318 460.0932 228.318 491.2937 182.8544 492.1852 182.8544 468.1162 182.8544 460.0932 182.8544 444.0473 Z" id="US.MN.067" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Kandiyohi County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>067</fips>
+        <incits>27067</incits>
+        <id>US.MN.067</id>
+        <population>42410</population>
+      </desc>
+    </path>
+    <path d="M 192.6603 411.0639 238.1239 411.0639 271.9987 411.0639 273.7816 413.7382 277.3474 415.5211 279.1303 420.8697 279.1303 425.3269 283.5875 430.6756 284.4789 436.0243 288.9361 440.4815 293.3934 443.1558 287.1533 452.0702 282.696 453.8531 280.0217 452.9617 273.7816 453.8531 273.7816 455.636 262.1928 455.636 262.1928 452.0702 227.4266 452.0702 227.4266 444.0473 193.5517 444.0473 193.5517 428.0013 192.6603 411.9553 192.6603 411.0639 Z" id="US.MN.145" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Stearns County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>145</fips>
+        <incits>27145</incits>
+        <id>US.MN.145</id>
+        <population>152092</population>
+      </desc>
+    </path>
+    <path d="M 238.1239 358.4687 247.0383 362.0345 257.7356 360.2516 265.7586 364.7088 261.3014 370.9489 263.0843 376.2976 314.788 376.2976 314.788 392.3436 319.2452 392.3436 319.2452 406.6066 298.742 406.6066 264.8672 406.6066 271.9987 411.0639 238.1239 411.0639 238.1239 396.8008 238.1239 363.8174 238.1239 358.4687 Z" id="US.MN.097" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Morrison County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>097</fips>
+        <incits>27097</incits>
+        <id>US.MN.097</id>
+        <population>32872</population>
+      </desc>
+    </path>
+    <path d="M 88.3614 332.6169 98.1673 332.6169 98.1673 324.5939 113.3218 324.5939 190.8774 324.5939 191.7688 332.6169 191.7688 355.7944 192.6603 364.7088 192.6603 380.7548 135.6079 380.7548 89.2529 379.8633 90.1443 363.8174 88.3614 363.8174 88.3614 332.6169 Z" id="US.MN.111" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Otter Tail County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>111</fips>
+        <incits>27111</incits>
+        <id>US.MN.111</id>
+        <population>57581</population>
+      </desc>
+    </path>
+    <path d="M 136.4994 411.9553 192.6603 411.9553 193.5517 428.0013 193.5517 444.0473 182.8544 444.0473 137.3908 444.0473 136.4994 428.0013 136.4994 411.9553 Z" id="US.MN.121" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pope County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>121</fips>
+        <incits>27121</incits>
+        <id>US.MN.121</id>
+        <population>10932</population>
+      </desc>
+    </path>
+    <path d="M 283.5875 430.6756 319.2452 430.6756 342.4227 430.6756 342.4227 444.0473 342.4227 459.2018 341.5313 459.2018 337.0741 454.7446 319.2452 454.7446 310.3308 451.1788 304.0907 446.7216 301.4163 447.613 293.3934 443.1558 288.9361 440.4815 284.4789 436.0243 283.5875 430.6756 Z" id="US.MN.141" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Sherburne County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>141</fips>
+        <incits>27141</incits>
+        <id>US.MN.141</id>
+        <population>90158</population>
+      </desc>
+    </path>
+    <path d="M 91.0358 411.9553 136.4994 411.9553 136.4994 428.0013 137.3908 444.0473 103.516 444.0473 91.9272 444.0473 91.9272 428.0013 91.0358 428.0013 91.0358 411.9553 Z" id="US.MN.149" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Stevens County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>149</fips>
+        <incits>27149</incits>
+        <id>US.MN.149</id>
+        <population>9735</population>
+      </desc>
+    </path>
+    <path d="M 103.516 444.0473 137.3908 444.0473 182.8544 444.0473 182.8544 460.0932 182.8544 468.1162 110.6475 468.1162 104.4074 465.4419 103.516 460.0932 103.516 444.0473 Z" id="US.MN.151" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Swift County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>151</fips>
+        <incits>27151</incits>
+        <id>US.MN.151</id>
+        <population>9546</population>
+      </desc>
+    </path>
+    <path d="M 191.7688 355.7944 230.1009 356.6858 238.1239 358.4687 238.1239 363.8174 238.1239 396.8008 238.1239 411.0639 192.6603 411.0639 192.6603 396.8008 192.6603 380.7548 192.6603 364.7088 191.7688 355.7944 Z" id="US.MN.153" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Todd County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>153</fips>
+        <incits>27153</incits>
+        <id>US.MN.153</id>
+        <population>24382</population>
+      </desc>
+    </path>
+    <path d="M 319.2452 406.6066 319.2452 430.6756 283.5875 430.6756 279.1303 425.3269 279.1303 420.8697 277.3474 415.5211 273.7816 413.7382 271.9987 411.0639 264.8672 406.6066 298.742 406.6066 319.2452 406.6066 Z" id="US.MN.009" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Benton County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>009</fips>
+        <incits>27009</incits>
+        <id>US.MN.009</id>
+        <population>39214</population>
+      </desc>
+    </path>
+    <path d="M 314.788 376.2976 314.788 368.2746 349.5543 368.2746 349.5543 376.2976 349.5543 392.3436 341.5313 392.3436 342.4227 414.6296 342.4227 430.6756 319.2452 430.6756 319.2452 406.6066 319.2452 392.3436 314.788 392.3436 314.788 376.2976 Z" id="US.MN.095" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Mille Lacs County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>095</fips>
+        <incits>27095</incits>
+        <id>US.MN.095</id>
+        <population>25833</population>
+      </desc>
+    </path>
+    <path d="M 227.4266 452.0702 262.1928 452.0702 262.1928 455.636 273.7816 455.636 273.7816 460.9847 273.7816 484.1622 251.4955 484.1622 251.4955 491.2937 228.318 491.2937 228.318 460.0932 227.4266 452.0702 Z" id="US.MN.093" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Meeker County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>093</fips>
+        <incits>27093</incits>
+        <id>US.MN.093</id>
+        <population>23119</population>
+      </desc>
+    </path>
+    <path d="M 182.8544 492.1852 228.318 491.2937 251.4955 491.2937 252.387 507.3397 239.9068 507.3397 240.7982 531.4087 224.7522 531.4087 218.5121 527.8429 206.9234 523.3857 205.1405 524.2771 183.7458 512.6884 180.1801 512.6884 176.6143 510.014 173.0485 509.1226 168.5913 506.4483 162.3512 504.6654 161.4598 492.1852 182.8544 492.1852 Z" id="US.MN.129" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Renville County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>129</fips>
+        <incits>27129</incits>
+        <id>US.MN.129</id>
+        <population>15166</population>
+      </desc>
+    </path>
+    <path d="M 318.3538 316.5709 318.3538 296.0677 335.2912 296.0677 383.4291 296.0677 383.4291 320.1367 384.3206 336.1826 384.3206 352.2286 384.3206 375.4061 367.3831 375.4061 349.5543 376.2976 349.5543 368.2746 314.788 368.2746 314.788 337.0741 318.3538 336.1826 318.3538 316.5709 Z" id="US.MN.001" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Aitkin County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>001</fips>
+        <incits>27001</incits>
+        <id>US.MN.001</id>
+        <population>15742</population>
+      </desc>
+    </path>
+    <path d="M 342.4227 459.2018 342.4227 444.0473 386.9949 444.0473 386.9949 454.7446 386.9949 470.7905 368.2746 470.7905 368.2746 478.8135 362.9259 478.8135 363.8174 472.5734 361.143 469.0077 350.4457 462.7676 342.4227 459.2018 Z" id="US.MN.003" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Anoka County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>003</fips>
+        <incits>27003</incits>
+        <id>US.MN.003</id>
+        <population>339534</population>
+      </desc>
+    </path>
+    <path d="M 196.2261 555.4777 196.2261 547.4547 218.5121 547.4547 218.5121 527.8429 224.7522 531.4087 233.6667 534.083 239.0153 537.6488 252.387 541.2146 257.7356 544.7803 259.5185 549.2375 263.9757 549.2375 263.9757 563.5006 218.5121 563.5006 196.2261 563.5006 196.2261 555.4777 Z" id="US.MN.015" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Brown County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>015</fips>
+        <incits>27015</incits>
+        <id>US.MN.015</id>
+        <population>25332</population>
+      </desc>
+    </path>
+    <path d="M 383.4291 320.1367 452.9617 320.1367 453.8531 329.0511 453.8531 352.2286 384.3206 352.2286 384.3206 336.1826 383.4291 320.1367 Z" id="US.MN.017" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Carlton County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>017</fips>
+        <incits>27017</incits>
+        <id>US.MN.017</id>
+        <population>35460</population>
+      </desc>
+    </path>
+    <path d="M 296.0677 484.1622 318.3538 484.1622 318.3538 492.1852 341.5313 492.1852 341.5313 500.2082 336.1826 500.2082 332.6169 503.7739 330.834 509.1226 318.3538 514.4713 318.3538 511.7969 307.6564 511.7969 307.6564 507.3397 296.9591 507.3397 296.0677 484.1622 Z" id="US.MN.019" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Carver County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>019</fips>
+        <incits>27019</incits>
+        <id>US.MN.019</id>
+        <population>95562</population>
+      </desc>
+    </path>
+    <path d="M 110.6475 468.1162 182.8544 468.1162 182.8544 492.1852 161.4598 492.1852 162.3512 504.6654 160.5683 501.0996 153.4368 496.6424 149.871 495.751 144.5223 491.2937 140.0651 490.4023 138.2822 487.728 132.9336 486.8365 130.2593 483.2708 119.5619 476.1392 110.6475 468.1162 Z" id="US.MN.023" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Chippewa County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>023</fips>
+        <incits>27023</incits>
+        <id>US.MN.023</id>
+        <population>12093</population>
+      </desc>
+    </path>
+    <path d="M 376.2976 414.6296 403.9323 414.6296 401.258 416.4125 399.4751 423.5441 399.4751 428.8927 405.7152 430.6756 410.1724 429.7842 414.6296 432.4585 414.6296 435.1328 421.7612 441.3729 420.8697 444.9387 416.4125 449.3959 412.8467 454.7446 386.9949 454.7446 386.9949 444.0473 386.9949 430.6756 376.2976 430.6756 376.2976 414.6296 Z" id="US.MN.025" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Chisago County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>025</fips>
+        <incits>27025</incits>
+        <id>US.MN.025</id>
+        <population>53761</population>
+      </desc>
+    </path>
+    <path d="M 372.7318 492.1852 377.189 489.5109 384.3206 489.5109 386.9949 492.1852 388.7778 498.4253 387.8863 502.8825 394.1264 503.7739 398.5837 502.8825 401.258 504.6654 408.3895 505.5568 413.7382 508.2312 412.8467 515.3627 408.3895 516.2542 408.3895 523.3857 396.8008 523.3857 393.235 526.9515 385.212 526.06 385.212 530.5172 362.9259 530.5172 363.8174 523.3857 363.8174 515.3627 360.2516 515.3627 359.3602 501.0996 365.6003 499.3167 370.0575 496.6424 372.7318 492.1852 Z" id="US.MN.037" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dakota County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>037</fips>
+        <incits>27037</incits>
+        <id>US.MN.037</id>
+        <population>408509</population>
+      </desc>
+    </path>
+    <path d="M 385.212 530.5172 385.212 526.06 393.235 526.9515 396.8008 523.3857 408.3895 523.3857 408.3895 516.2542 412.8467 515.3627 413.7382 508.2312 428.8927 518.037 431.567 521.6028 449.3959 522.4943 452.9617 527.8429 458.3103 531.4087 441.3729 531.4087 441.3729 539.4317 430.6756 539.4317 430.6756 555.4777 418.1954 555.4777 385.212 555.4777 385.212 530.5172 Z" id="US.MN.049" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Goodhue County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>049</fips>
+        <incits>27049</incits>
+        <id>US.MN.049</id>
+        <population>46464</population>
+      </desc>
+    </path>
+    <path d="M 341.5313 459.2018 342.4227 459.2018 350.4457 462.7676 361.143 469.0077 363.8174 472.5734 362.9259 478.8135 368.2746 478.8135 370.0575 478.8135 370.9489 490.4023 372.7318 492.1852 370.0575 496.6424 365.6003 499.3167 359.3602 501.0996 352.2286 499.3167 341.5313 500.2082 341.5313 492.1852 318.3538 492.1852 318.3538 484.1622 318.3538 475.2478 321.9195 474.3563 326.3768 468.1162 341.5313 459.2018 Z" id="US.MN.053" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hennepin County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>053</fips>
+        <incits>27053</incits>
+        <id>US.MN.053</id>
+        <population>1198778</population>
+      </desc>
+    </path>
+    <path d="M 342.4227 414.6296 376.2976 414.6296 376.2976 430.6756 386.9949 430.6756 386.9949 444.0473 342.4227 444.0473 342.4227 430.6756 342.4227 414.6296 Z" id="US.MN.059" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Isanti County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>059</fips>
+        <incits>27059</incits>
+        <id>US.MN.059</id>
+        <population>38204</population>
+      </desc>
+    </path>
+    <path d="M 349.5543 376.2976 367.3831 375.4061 384.3206 375.4061 384.3206 392.3436 376.2976 392.3436 376.2976 414.6296 342.4227 414.6296 341.5313 392.3436 349.5543 392.3436 349.5543 376.2976 Z" id="US.MN.065" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Kanabec County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>065</fips>
+        <incits>27065</incits>
+        <id>US.MN.065</id>
+        <population>15996</population>
+      </desc>
+    </path>
+    <path d="M 106.1903 515.3627 150.7625 515.3627 151.6539 523.3857 151.6539 555.4777 107.9732 555.4777 107.0817 555.4777 107.0817 523.3857 106.1903 515.3627 Z" id="US.MN.083" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lyon County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>083</fips>
+        <incits>27083</incits>
+        <id>US.MN.083</id>
+        <population>25487</population>
+      </desc>
+    </path>
+    <path d="M 273.7816 484.1622 296.0677 484.1622 296.9591 507.3397 274.6731 507.3397 274.6731 515.3627 252.387 516.2542 252.387 507.3397 251.4955 491.2937 251.4955 484.1622 273.7816 484.1622 Z" id="US.MN.085" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>McLeod County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>085</fips>
+        <incits>27085</incits>
+        <id>US.MN.085</id>
+        <population>35918</population>
+      </desc>
+    </path>
+    <path d="M 224.7522 531.4087 240.7982 531.4087 304.0907 531.4087 300.5249 540.3231 304.0907 542.106 300.5249 545.6718 296.0677 548.3461 295.1762 551.9119 296.9591 557.2605 290.719 559.0434 284.4789 556.3691 279.1303 554.5862 263.9757 549.2375 259.5185 549.2375 257.7356 544.7803 252.387 541.2146 239.0153 537.6488 233.6667 534.083 224.7522 531.4087 Z" id="US.MN.103" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Nicollet County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>103</fips>
+        <incits>27103</incits>
+        <id>US.MN.103</id>
+        <population>33032</population>
+      </desc>
+    </path>
+    <path d="M 376.2976 414.6296 376.2976 392.3436 384.3206 392.3436 384.3206 375.4061 384.3206 352.2286 453.8531 352.2286 453.8531 383.4291 451.1788 384.3206 447.613 388.7778 442.2644 387.8863 437.8072 392.3436 433.3499 391.4521 429.7842 395.0179 421.7612 396.8008 415.5211 399.4751 409.281 411.9553 403.9323 414.6296 376.2976 414.6296 Z" id="US.MN.115" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pine County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>115</fips>
+        <incits>27115</incits>
+        <id>US.MN.115</id>
+        <population>29104</population>
+      </desc>
+    </path>
+    <path d="M 386.9949 470.7905 390.5607 470.7905 390.5607 492.1852 386.9949 492.1852 384.3206 489.5109 377.189 489.5109 372.7318 492.1852 370.9489 490.4023 370.0575 478.8135 368.2746 478.8135 368.2746 470.7905 386.9949 470.7905 Z" id="US.MN.123" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ramsey County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>123</fips>
+        <incits>27123</incits>
+        <id>US.MN.123</id>
+        <population>526714</population>
+      </desc>
+    </path>
+    <path d="M 151.6539 523.3857 173.0485 523.3857 173.0485 509.1226 176.6143 510.014 180.1801 512.6884 183.7458 512.6884 205.1405 524.2771 206.9234 523.3857 218.5121 527.8429 218.5121 547.4547 196.2261 547.4547 196.2261 555.4777 163.2427 555.4777 151.6539 555.4777 151.6539 523.3857 Z" id="US.MN.127" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Redwood County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>127</fips>
+        <incits>27127</incits>
+        <id>US.MN.127</id>
+        <population>15744</population>
+      </desc>
+    </path>
+    <path d="M 340.6398 523.3857 363.8174 523.3857 362.9259 530.5172 385.212 530.5172 385.212 555.4777 352.2286 555.4777 340.6398 555.4777 340.6398 523.3857 Z" id="US.MN.131" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Rice County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>131</fips>
+        <incits>27131</incits>
+        <id>US.MN.131</id>
+        <population>65049</population>
+      </desc>
+    </path>
+    <path d="M 318.3538 514.4713 330.834 509.1226 332.6169 503.7739 336.1826 500.2082 341.5313 500.2082 352.2286 499.3167 359.3602 501.0996 360.2516 515.3627 363.8174 515.3627 363.8174 523.3857 340.6398 523.3857 305.8736 523.3857 308.5479 518.037 318.3538 514.4713 Z" id="US.MN.139" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Scott County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>139</fips>
+        <incits>27139</incits>
+        <id>US.MN.139</id>
+        <population>137232</population>
+      </desc>
+    </path>
+    <path d="M 252.387 507.3397 252.387 516.2542 274.6731 515.3627 274.6731 507.3397 296.9591 507.3397 307.6564 507.3397 307.6564 511.7969 318.3538 511.7969 318.3538 514.4713 308.5479 518.037 305.8736 523.3857 307.6564 526.06 304.0907 531.4087 240.7982 531.4087 239.9068 507.3397 252.387 507.3397 Z" id="US.MN.143" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Sibley County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>143</fips>
+        <incits>27143</incits>
+        <id>US.MN.143</id>
+        <population>15072</population>
+      </desc>
+    </path>
+    <path d="M 386.9949 492.1852 390.5607 492.1852 390.5607 470.7905 386.9949 470.7905 386.9949 454.7446 412.8467 454.7446 411.0639 455.636 411.9553 461.8761 410.1724 464.5504 412.8467 471.682 408.3895 474.3563 411.0639 478.8135 411.0639 490.4023 410.1724 491.2937 411.0639 496.6424 406.6066 504.6654 408.3895 505.5568 401.258 504.6654 398.5837 502.8825 394.1264 503.7739 387.8863 502.8825 388.7778 498.4253 386.9949 492.1852 Z" id="US.MN.163" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Washington County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>163</fips>
+        <incits>27163</incits>
+        <id>US.MN.163</id>
+        <population>246603</population>
+      </desc>
+    </path>
+    <path d="M 293.3934 443.1558 301.4163 447.613 304.0907 446.7216 310.3308 451.1788 319.2452 454.7446 337.0741 454.7446 341.5313 459.2018 326.3768 468.1162 321.9195 474.3563 318.3538 475.2478 318.3538 484.1622 296.0677 484.1622 273.7816 484.1622 273.7816 460.9847 273.7816 455.636 273.7816 453.8531 280.0217 452.9617 282.696 453.8531 287.1533 452.0702 293.3934 443.1558 Z" id="US.MN.171" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wright County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>171</fips>
+        <incits>27171</incits>
+        <id>US.MN.171</id>
+        <population>128470</population>
+      </desc>
+    </path>
+    <path d="M 263.9757 549.2375 279.1303 554.5862 284.4789 556.3691 290.719 559.0434 296.9591 557.2605 295.1762 551.9119 318.3538 551.0204 318.3538 555.4777 318.3538 587.5696 274.6731 587.5696 263.0843 587.5696 263.9757 563.5006 263.9757 549.2375 Z" id="US.MN.013" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Blue Earth County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>013</fips>
+        <incits>27013</incits>
+        <id>US.MN.013</id>
+        <population>65528</population>
+      </desc>
+    </path>
+    <path d="M 163.2427 555.4777 196.2261 555.4777 196.2261 563.5006 218.5121 563.5006 218.5121 587.5696 164.1341 587.5696 163.2427 587.5696 163.2427 555.4777 Z" id="US.MN.033" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cottonwood County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>033</fips>
+        <incits>27033</incits>
+        <id>US.MN.033</id>
+        <population>11616</population>
+      </desc>
+    </path>
+    <path d="M 304.0907 531.4087 307.6564 526.06 305.8736 523.3857 340.6398 523.3857 340.6398 555.4777 318.3538 555.4777 318.3538 551.0204 295.1762 551.9119 296.0677 548.3461 300.5249 545.6718 304.0907 542.106 300.5249 540.3231 304.0907 531.4087 Z" id="US.MN.079" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Le Sueur County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>079</fips>
+        <incits>27079</incits>
+        <id>US.MN.079</id>
+        <population>27810</population>
+      </desc>
+    </path>
+    <path d="M 107.9732 587.5696 107.9732 555.4777 151.6539 555.4777 163.2427 555.4777 163.2427 587.5696 109.7561 587.5696 107.9732 587.5696 Z" id="US.MN.101" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Murray County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>101</fips>
+        <incits>27101</incits>
+        <id>US.MN.101</id>
+        <population>8533</population>
+      </desc>
+    </path>
+    <path d="M 318.3538 555.4777 340.6398 555.4777 352.2286 555.4777 352.2286 587.5696 329.9425 587.5696 318.3538 587.5696 318.3538 555.4777 Z" id="US.MN.161" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Waseca County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>161</fips>
+        <incits>27161</incits>
+        <id>US.MN.161</id>
+        <population>19098</population>
+      </desc>
+    </path>
+    <path d="M 218.5121 587.5696 218.5121 563.5006 263.9757 563.5006 263.0843 587.5696 219.4036 587.5696 218.5121 587.5696 Z" id="US.MN.165" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Watonwan County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>165</fips>
+        <incits>27165</incits>
+        <id>US.MN.165</id>
+        <population>11137</population>
+      </desc>
+    </path>
+    <path d="M 96.3844 284.4789 107.9732 284.4789 122.2363 284.4789 155.2197 284.4789 189.986 284.4789 190.8774 316.5709 190.8774 324.5939 113.3218 324.5939 98.1673 324.5939 98.1673 300.5249 96.3844 300.5249 96.3844 284.4789 Z" id="US.MN.005" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Becker County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>005</fips>
+        <incits>27005</incits>
+        <id>US.MN.005</id>
+        <population>33231</population>
+      </desc>
+    </path>
+    <path d="M 150.7625 157.0026 174.8314 157.0026 186.4202 157.0026 186.4202 173.0485 257.7356 173.0485 258.6271 173.0485 259.5185 221.1865 259.5185 257.7356 259.5185 261.3014 236.341 261.3014 189.0945 260.41 189.0945 236.341 188.2031 218.5121 182.8544 217.6207 180.1801 213.1635 181.963 207.8148 185.5287 205.1405 152.5453 205.1405 151.6539 190.8774 151.6539 173.0485 150.7625 157.0026 Z" id="US.MN.007" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Beltrami County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>007</fips>
+        <incits>27007</incits>
+        <id>US.MN.007</id>
+        <population>45670</population>
+      </desc>
+    </path>
+    <path d="M 225.6437 316.5709 237.2324 316.5709 236.341 300.5249 236.341 269.3244 236.341 261.3014 259.5185 261.3014 259.5185 257.7356 269.3244 260.41 287.1533 255.0613 289.8276 255.0613 294.2848 260.41 296.0677 266.6501 300.5249 268.433 304.9821 271.1073 309.4393 268.433 312.1137 270.2158 318.3538 270.2158 315.6794 275.5645 318.3538 279.1303 318.3538 296.0677 318.3538 316.5709 265.7586 316.5709 265.7586 332.6169 267.5415 332.6169 267.5415 363.8174 265.7586 364.7088 257.7356 360.2516 247.0383 362.0345 238.1239 358.4687 230.1009 356.6858 225.6437 354.0115 225.6437 332.6169 225.6437 316.5709 Z" id="US.MN.021" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cass County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>021</fips>
+        <incits>27021</incits>
+        <id>US.MN.021</id>
+        <population>28555</population>
+      </desc>
+    </path>
+    <path d="M 152.5453 205.1405 185.5287 205.1405 181.963 207.8148 180.1801 213.1635 182.8544 217.6207 188.2031 218.5121 189.0945 236.341 189.0945 260.41 189.986 268.433 189.986 284.4789 155.2197 284.4789 156.1111 252.387 155.2197 252.387 155.2197 237.2324 152.5453 237.2324 152.5453 213.1635 152.5453 205.1405 Z" id="US.MN.029" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Clearwater County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>029</fips>
+        <incits>27029</incits>
+        <id>US.MN.029</id>
+        <population>8838</population>
+      </desc>
+    </path>
+    <path d="M 569.7407 189.986 574.198 186.4202 583.1124 184.6373 587.5696 184.6373 587.5696 190.8774 594.7011 198.0089 605.3985 197.1175 611.6386 196.2261 613.4215 198.0089 624.1188 198.0089 629.4674 198.9004 635.7075 197.1175 651.7535 196.2261 662.4508 198.9004 665.1252 204.249 673.1481 207.8148 685.6284 205.1405 699 206.9234 685.6284 215.8378 670.4738 220.295 666.908 222.0779 641.0562 227.4266 616.0958 233.6667 613.4215 235.4496 596.484 240.7982 582.2209 248.8212 569.7407 255.9527 570.6322 222.0779 569.7407 189.986 Z" id="US.MN.031" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cook County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>031</fips>
+        <incits>27031</incits>
+        <id>US.MN.031</id>
+        <population>5200</population>
+      </desc>
+    </path>
+    <path d="M 265.7586 364.7088 267.5415 363.8174 267.5415 332.6169 265.7586 332.6169 265.7586 316.5709 318.3538 316.5709 318.3538 336.1826 314.788 337.0741 314.788 368.2746 314.788 376.2976 263.0843 376.2976 261.3014 370.9489 265.7586 364.7088 Z" id="US.MN.035" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Crow Wing County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>035</fips>
+        <incits>27035</incits>
+        <id>US.MN.035</id>
+        <population>63208</population>
+      </desc>
+    </path>
+    <path d="M 189.0945 260.41 236.341 261.3014 236.341 269.3244 236.341 300.5249 237.2324 316.5709 225.6437 316.5709 190.8774 316.5709 189.986 284.4789 189.986 268.433 189.0945 260.41 Z" id="US.MN.057" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hubbard County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>057</fips>
+        <incits>27057</incits>
+        <id>US.MN.057</id>
+        <population>20658</population>
+      </desc>
+    </path>
+    <path d="M 259.5185 221.1865 318.3538 220.295 317.4623 215.8378 345.9885 215.8378 381.6462 216.7292 381.6462 232.7752 382.5377 232.7752 383.4291 248.8212 382.5377 256.8442 383.4291 288.9361 383.4291 296.0677 335.2912 296.0677 318.3538 296.0677 318.3538 279.1303 315.6794 275.5645 318.3538 270.2158 312.1137 270.2158 309.4393 268.433 304.9821 271.1073 300.5249 268.433 296.0677 266.6501 294.2848 260.41 289.8276 255.0613 287.1533 255.0613 269.3244 260.41 259.5185 257.7356 259.5185 221.1865 Z" id="US.MN.061" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Itasca County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>061</fips>
+        <incits>27061</incits>
+        <id>US.MN.061</id>
+        <population>45564</population>
+      </desc>
+    </path>
+    <path d="M 257.7356 142.7395 269.3244 141.848 273.7816 142.7395 274.6731 147.1967 296.9591 148.0881 311.2222 148.9796 315.6794 154.3282 316.5709 159.6769 329.9425 159.6769 345.9885 157.0026 345.9885 152.5453 357.5773 149.871 370.0575 148.0881 372.7318 149.871 380.7548 148.9796 380.7548 162.3512 379.8633 189.986 380.7548 200.6833 381.6462 208.7063 381.6462 216.7292 345.9885 215.8378 317.4623 215.8378 318.3538 220.295 259.5185 221.1865 258.6271 173.0485 257.7356 173.0485 257.7356 142.7395 Z" id="US.MN.071" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Koochiching County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>071</fips>
+        <incits>27071</incits>
+        <id>US.MN.071</id>
+        <population>13206</population>
+      </desc>
+    </path>
+    <path d="M 499.3167 188.2031 507.3397 188.2031 508.2312 193.5517 507.3397 196.2261 520.7114 198.0089 519.8199 202.4662 527.8429 200.6833 533.1916 202.4662 538.5402 200.6833 549.2375 198.9004 555.4777 195.3346 565.2835 189.986 569.7407 189.986 570.6322 222.0779 569.7407 255.9527 560.8263 262.1928 548.3461 271.9987 534.9745 281.8046 530.5172 286.2618 519.8199 290.719 511.7969 296.9591 508.2312 297.8506 499.3167 304.0907 499.3167 272.8902 500.2082 247.0383 499.3167 224.7522 499.3167 188.2031 Z" id="US.MN.075" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lake County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>075</fips>
+        <incits>27075</incits>
+        <id>US.MN.075</id>
+        <population>10777</population>
+      </desc>
+    </path>
+    <path d="M 174.8314 157.0026 174.8314 140.9566 197.1175 140.9566 197.1175 123.1277 194.4432 124.0192 184.6373 125.802 179.2886 124.9106 176.6143 121.3448 176.6143 115.9962 179.2886 115.1047 191.7688 115.1047 191.7688 80.3384 200.6833 83.0128 209.5977 81.2299 219.4036 85.6871 222.0779 88.3614 226.5351 104.4074 228.318 106.1903 234.5581 125.802 232.7752 131.1507 234.5581 135.6079 243.4725 140.9566 255.9527 143.6309 257.7356 142.7395 257.7356 173.0485 186.4202 173.0485 186.4202 157.0026 174.8314 157.0026 Z" id="US.MN.077" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lake of the Woods County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>077</fips>
+        <incits>27077</incits>
+        <id>US.MN.077</id>
+        <population>3929</population>
+      </desc>
+    </path>
+    <path d="M 107.9732 284.4789 107.9732 252.387 155.2197 252.387 156.1111 252.387 155.2197 284.4789 122.2363 284.4789 107.9732 284.4789 Z" id="US.MN.087" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Mahnomen County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>087</fips>
+        <incits>27087</incits>
+        <id>US.MN.087</id>
+        <population>5532</population>
+      </desc>
+    </path>
+    <path d="M 76.7727 115.1047 121.3448 115.1047 179.2886 115.1047 176.6143 115.9962 176.6143 121.3448 179.2886 124.9106 184.6373 125.802 194.4432 124.0192 197.1175 123.1277 197.1175 140.9566 174.8314 140.9566 174.8314 157.0026 150.7625 157.0026 78.5556 157.0026 78.5556 140.9566 76.7727 140.9566 76.7727 115.1047 Z" id="US.MN.135" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Roseau County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>135</fips>
+        <incits>27135</incits>
+        <id>US.MN.135</id>
+        <population>15520</population>
+      </desc>
+    </path>
+    <path d="M 380.7548 148.9796 390.5607 149.871 413.7382 157.0026 422.6526 157.0026 422.6526 161.4598 416.4125 161.4598 415.5211 164.1341 420.8697 166.8084 434.2414 165.917 438.6986 170.3742 437.8072 174.8314 443.1558 180.1801 446.7216 186.4202 454.7446 184.6373 452.9617 180.1801 454.7446 175.7229 476.1392 173.94 480.5964 177.5057 480.5964 182.8544 485.0536 185.5287 490.4023 184.6373 493.0766 188.2031 499.3167 188.2031 499.3167 224.7522 500.2082 247.0383 499.3167 272.8902 499.3167 304.0907 494.8595 305.8736 475.2478 316.5709 472.5734 321.9195 467.2248 324.5939 460.9847 330.834 453.8531 329.0511 452.9617 320.1367 383.4291 320.1367 383.4291 296.0677 383.4291 288.9361 382.5377 256.8442 383.4291 248.8212 382.5377 232.7752 381.6462 232.7752 381.6462 216.7292 381.6462 208.7063 380.7548 200.6833 379.8633 189.986 380.7548 162.3512 380.7548 148.9796 Z" id="US.MN.137" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>St. Louis County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>137</fips>
+        <incits>27137</incits>
+        <id>US.MN.137</id>
+        <population>200540</population>
+      </desc>
+    </path>
+    <path d="M 190.8774 316.5709 225.6437 316.5709 225.6437 332.6169 225.6437 354.0115 230.1009 356.6858 191.7688 355.7944 191.7688 332.6169 190.8774 324.5939 190.8774 316.5709 Z" id="US.MN.159" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wadena County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>159</fips>
+        <incits>27159</incits>
+        <id>US.MN.159</id>
+        <population>13804</population>
+      </desc>
+    </path>
+    <path d="M 385.212 555.4777 418.1954 555.4777 418.1954 587.5696 417.304 587.5696 385.212 587.5696 385.212 555.4777 Z" id="US.MN.039" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dodge County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>039</fips>
+        <incits>27039</incits>
+        <id>US.MN.039</id>
+        <population>20349</population>
+      </desc>
+    </path>
+    <path d="M 417.304 587.5696 418.1954 587.5696 418.1954 555.4777 430.6756 555.4777 451.1788 555.4777 451.1788 563.5006 473.4649 563.5006 473.4649 587.5696 439.59 587.5696 439.59 588.461 417.304 588.461 417.304 587.5696 Z" id="US.MN.109" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Olmsted County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>109</fips>
+        <incits>27109</incits>
+        <id>US.MN.109</id>
+        <population>149226</population>
+      </desc>
+    </path>
+    <path d="M 352.2286 587.5696 352.2286 555.4777 385.212 555.4777 385.212 587.5696 384.3206 587.5696 352.2286 587.5696 Z" id="US.MN.147" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Steele County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>147</fips>
+        <incits>27147</incits>
+        <id>US.MN.147</id>
+        <population>36465</population>
+      </desc>
+    </path>
+    <path d="M 458.3103 531.4087 460.9847 533.1916 476.1392 536.7573 484.1622 540.3231 487.728 542.9974 487.728 547.4547 493.9681 555.4777 473.4649 555.4777 473.4649 563.5006 451.1788 563.5006 451.1788 555.4777 430.6756 555.4777 430.6756 539.4317 441.3729 539.4317 441.3729 531.4087 458.3103 531.4087 Z" id="US.MN.157" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wabasha County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>157</fips>
+        <incits>27157</incits>
+        <id>US.MN.157</id>
+        <population>21443</population>
+      </desc>
+    </path>
+    <path d="M 493.9681 555.4777 497.5338 558.152 507.3397 562.6092 513.5798 567.9579 518.9285 570.6322 532.3001 573.3065 539.4317 579.5466 545.6718 587.5696 505.5568 587.5696 473.4649 587.5696 473.4649 563.5006 473.4649 555.4777 493.9681 555.4777 Z" id="US.MN.169" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Winona County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>169</fips>
+        <incits>27169</incits>
+        <id>US.MN.169</id>
+        <population>51232</population>
+      </desc>
+    </path>
+    <path d="M 72.3155 457.4189 76.7727 458.3103 87.47 459.2018 88.3614 460.9847 104.4074 465.4419 110.6475 468.1162 119.5619 476.1392 130.2593 483.2708 132.9336 486.8365 138.2822 487.728 138.2822 492.1852 128.4764 492.1852 128.4764 499.3167 72.3155 499.3167 72.3155 457.4189 Z" id="US.MN.073" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lac qui Parle County</name>
+        <stateAbbrev>MN</stateAbbrev>
+        <state>Minnesota</state>
+        <fips>073</fips>
+        <incits>27073</incits>
+        <id>US.MN.073</id>
+        <population>7027</population>
+      </desc>
+    </path>
+  </g>
+</svg>

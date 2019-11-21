@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="barbados">
+    <path d="M 501.0507 614.9364 501.0437 614.9412 473.6211 633.8271 423.8988 684.3727 405.5801 686.6027 390.6779 686.4114 376.2507 688.9303 360.3054 699 337.3327 659.6979 294.2424 635.1095 241.8537 622.8117 210.7408 620.5821 282.9649 582.4042 283.9894 582.2813 283.6882 579.0847 280.1936 563.3475 413.962 512.8071 435.7759 519.5647 439.2112 523.0065 443.1896 529.3987 446.992 555.3395 447.6553 557.1835 461.3405 580.5398 464.2951 587.1781 464.2351 588.1616 466.4653 589.8823 470.3827 591.1107 483.7024 596.2705 489.6695 599.2194 501.0507 614.9364 Z" id="BB.CC" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>BB.CC</code_hasc>
+        <name>Christ Church</name>
+        <admin>Barbados</admin>
+        <type_en>Parish</type_en>
+        <region/>
+        <woe_id>2344730</woe_id>
+        <longitude>-59</longitude>
+        <woe_name>Christ Church</woe_name>
+        <fips>BB01</fips>
+        <woe_label>Christ Church, BB, Barbados</woe_label>
+        <latitude>13</latitude>
+        <iso_a2>BB</iso_a2>
+        <postal>CC</postal>
+        <type>Parish</type>
+        <id>BB.CC</id>
+      </desc>
+    </path>
+    <path d="M 337.6818 240.7192 337.6038 240.7353 332.1834 241.965 302.7323 255.8587 295.6855 257.7028 292.7946 256.3503 292.1321 255.7356 291.3491 254.5061 290.7468 254.0143 290.1446 253.6454 289.3014 253.5225 288.3377 253.6454 287.0127 254.0142 279.7245 265.6939 255.6882 321.5103 245.0279 307.4933 236.716 304.4188 208.948 306.0131 197.274 244.7834 198.6739 164.499 201.7462 158.3522 203.9761 148.025 205.3612 147.5334 206.1441 147.0418 206.8065 146.796 207.4087 147.042 208.1312 147.288 208.8537 148.0258 210.2988 148.7637 211.9246 149.3787 213.8515 149.9938 214.9956 149.994 216.2 149.6253 217.1635 149.3796 218.2475 149.2568 220.0539 149.5029 220.7163 149.503 221.4992 149.3802 222.1014 149.2573 222.9444 149.5033 224.269 150.4871 227.7617 150.1187 233.302 147.9064 243.2389 138.3176 248.5383 135.2445 251.9105 134.2612 253.0545 134.8761 254.2588 135.245 255.1018 135.368 255.8846 135.9828 256.9685 136.1059 258.3535 135.983 262.2075 132.5408 262.6893 132.5408 262.9301 132.7868 266.1817 133.5247 279.7303 133.0336 283.7117 131.578 283.726 131.6088 328.3938 227.9337 337.6818 240.7192 Z" id="BB.AN" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>BB.AN</code_hasc>
+        <name>Saint Andrew</name>
+        <admin>Barbados</admin>
+        <type_en>Parish</type_en>
+        <region/>
+        <woe_id>2344731</woe_id>
+        <longitude>-59</longitude>
+        <woe_name>Saint Andrew</woe_name>
+        <fips>BB02</fips>
+        <woe_label>Saint Andrew, BB, Barbados</woe_label>
+        <latitude>13</latitude>
+        <iso_a2>BB</iso_a2>
+        <postal>AN</postal>
+        <type>Parish</type>
+        <id>BB.AN</id>
+      </desc>
+    </path>
+    <path d="M 424.1975 473.9541 413.962 512.8071 280.1936 563.3475 241.3998 436.9559 296.4059 415.3207 301.105 412.493 317.9129 392.3296 349.1784 386.6725 350.7447 386.5495 399.6685 431.5421 404.3084 436.7051 424.1975 473.9541 Z" id="BB.GE" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>BB.GE</code_hasc>
+        <name>Saint George</name>
+        <admin>Barbados</admin>
+        <type_en>Parish</type_en>
+        <region/>
+        <woe_id>2344732</woe_id>
+        <longitude>-59</longitude>
+        <woe_name>Saint George</woe_name>
+        <fips>BB03</fips>
+        <woe_label>Saint George, BB, Barbados</woe_label>
+        <latitude>13</latitude>
+        <iso_a2>BB</iso_a2>
+        <postal>GE</postal>
+        <type>Parish</type>
+        <id>BB.GE</id>
+      </desc>
+    </path>
+    <path d="M 197.274 244.7834 208.948 306.0131 196.356 322.8547 192.922 326.1736 192.5606 325.9276 192.0787 325.8046 191.8378 325.9275 191.3558 326.4192 190.7533 326.9109 190.3919 327.0337 189.6691 326.9106 189.3077 326.9106 188.7053 326.7875 187.862 326.7873 187.3199 326.9102 186.7777 327.2789 185.2113 328.2622 184.8499 328.508 184.0667 328.8767 183.7053 328.9995 183.3439 328.9995 180.8135 331.212 179.9701 331.7036 179.4279 331.9493 179.0062 331.9493 178.6448 332.1951 177.7412 332.1949 177.2593 332.1948 176.8376 332.3176 175.7532 333.0551 171.4158 334.6524 170.0294 338.8323 163.8787 365.6332 160.6238 373.501 158.213 378.1724 155.8032 378.9095 154.9596 379.524 154.357 380.3845 153.5131 382.5973 153.0308 383.8266 152.368 384.3183 153.5123 385.548 156.524 387.27 171.942 404.7322 185.4849 463.2576 160.7175 482.4317 158.6683 484.6442 154.4499 487.8398 142.9402 492.8775 138.1795 495.7039 138.0588 496.1957 135.1671 494.4736 123.2405 483.2819 116.7933 483.7717 116.637 483.7864 103.9208 439.1359 92.9388 252.48 93.0173 252.5005 107.6515 256.317 146.745 238.0098 197.274 244.7834 Z" id="BB.JM" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>BB.JM</code_hasc>
+        <name>Saint James</name>
+        <admin>Barbados</admin>
+        <type_en>Parish</type_en>
+        <region/>
+        <woe_id>2344733</woe_id>
+        <longitude>-59</longitude>
+        <woe_name>Saint James</woe_name>
+        <fips>BB04</fips>
+        <woe_label>Saint James, BB, Barbados</woe_label>
+        <latitude>13</latitude>
+        <iso_a2>BB</iso_a2>
+        <postal>JM</postal>
+        <type>Parish</type>
+        <id>BB.JM</id>
+      </desc>
+    </path>
+    <path d="M 519.8464 376.9132 519.8408 376.9221 516.2886 382.5789 490.7559 413.5702 487.7446 416.5218 472.0234 426.3622 455.3369 433.0058 424.1975 473.9541 404.3084 436.7051 399.6685 431.5421 350.7447 386.5495 352.9104 349.2964 353.4522 345.9768 354.5964 341.5507 356.6444 341.5505 357.6082 341.4275 358.6322 341.1815 396.8775 305.6451 402.392 303.2491 463.5791 349.7949 498.8751 370.1141 519.8464 376.9132 Z" id="BB.JN" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>BB.JN</code_hasc>
+        <name>Saint John</name>
+        <admin>Barbados</admin>
+        <type_en>Parish</type_en>
+        <region/>
+        <woe_id>2344734</woe_id>
+        <longitude>-59</longitude>
+        <woe_name>Saint John</woe_name>
+        <fips>BB05</fips>
+        <woe_label>Saint John, BB, Barbados</woe_label>
+        <latitude>13</latitude>
+        <iso_a2>BB</iso_a2>
+        <postal>JN</postal>
+        <type>Parish</type>
+        <id>BB.JN</id>
+      </desc>
+    </path>
+    <path d="M 402.392 303.2491 396.8775 305.6451 358.6322 341.1815 357.6082 341.4275 356.6444 341.5505 354.5964 341.5507 353.4522 345.9768 352.9104 349.2964 350.7447 386.5495 349.1784 386.6725 317.9129 392.3296 298.0935 352.495 291.8289 344.9951 288.5761 342.0443 255.6882 321.5103 279.7245 265.6939 287.0127 254.0142 288.3377 253.6454 289.3014 253.5225 290.1446 253.6454 290.7468 254.0143 291.3491 254.5061 292.1321 255.7356 292.7946 256.3503 295.6855 257.7028 302.7323 255.8587 332.1834 241.965 337.6038 240.7353 337.6818 240.7192 359.1271 270.2371 402.3844 303.2433 402.392 303.2491 Z" id="BB.JS" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>BB.JS</code_hasc>
+        <name>Saint Joseph</name>
+        <admin>Barbados</admin>
+        <type_en>Parish</type_en>
+        <region/>
+        <woe_id>2344735</woe_id>
+        <longitude>-59</longitude>
+        <woe_name>Saint Joseph</woe_name>
+        <fips>BB06</fips>
+        <woe_label>Saint Joseph, BB, Barbados</woe_label>
+        <latitude>13</latitude>
+        <iso_a2>BB</iso_a2>
+        <postal>JS</postal>
+        <type>Parish</type>
+        <id>BB.JS</id>
+      </desc>
+    </path>
+    <path d="M 267.5082 96.5533 265.4014 97.8698 140.3289 138.4205 97.2036 167.1764 88.1097 169.1403 88.0387 169.155 85.0662 118.595 89.7264 81.7123 106.2357 50.5456 139.3358 16.6726 181.4345 1 224.2838 24.2419 256.3257 72.4566 267.5082 96.5533 Z" id="BB.LU" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>BB.LU</code_hasc>
+        <name>Saint Lucy</name>
+        <admin>Barbados</admin>
+        <type_en>Parish</type_en>
+        <region/>
+        <woe_id>2344736</woe_id>
+        <longitude>-59</longitude>
+        <woe_name>Saint Lucy</woe_name>
+        <fips>BB07</fips>
+        <woe_label>Saint Lucy, BB, Barbados</woe_label>
+        <latitude>13</latitude>
+        <iso_a2>BB</iso_a2>
+        <postal>LU</postal>
+        <type>Parish</type>
+        <id>BB.LU</id>
+      </desc>
+    </path>
+    <path d="M 280.1936 563.3475 283.6882 579.0847 283.9894 582.2813 282.9649 582.4042 210.7408 620.5821 210.7243 620.5809 192.3126 619.3192 160.9987 597.1434 134.0612 544.9567 116.637 483.7864 116.7933 483.7717 123.2405 483.2819 135.1671 494.4736 138.0588 496.1957 138.1795 495.7039 142.9402 492.8775 154.4499 487.8398 158.6683 484.6442 160.7175 482.4317 185.4849 463.2576 222.841 455.6414 226.1549 454.1665 241.3998 436.9559 280.1936 563.3475 Z" id="BB.MI" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>BB.MI</code_hasc>
+        <name>Saint Michael</name>
+        <admin>Barbados</admin>
+        <type_en>Parish</type_en>
+        <region/>
+        <woe_id>2344737</woe_id>
+        <longitude>-59</longitude>
+        <woe_name>Saint Michael</woe_name>
+        <fips>BB08</fips>
+        <woe_label>Saint Michael, BB, Barbados</woe_label>
+        <latitude>13</latitude>
+        <iso_a2>BB</iso_a2>
+        <postal>MI</postal>
+        <type>Parish</type>
+        <id>BB.MI</id>
+      </desc>
+    </path>
+    <path d="M 283.7117 131.578 279.7303 133.0336 266.1817 133.5247 262.9301 132.7868 262.6893 132.5408 262.2075 132.5408 258.3535 135.983 256.9685 136.1059 255.8846 135.9828 255.1018 135.368 254.2588 135.245 253.0545 134.8761 251.9105 134.2612 248.5383 135.2445 243.2389 138.3176 233.302 147.9064 227.7617 150.1187 224.269 150.4871 222.9444 149.5033 222.1014 149.2573 221.4992 149.3802 220.7163 149.503 220.0539 149.5029 218.2475 149.2568 217.1635 149.3796 216.2 149.6253 214.9956 149.994 213.8515 149.9938 211.9246 149.3787 210.2988 148.7637 208.8537 148.0258 208.1312 147.288 207.4087 147.042 206.8065 146.796 206.1441 147.0418 205.3612 147.5334 203.9761 148.025 201.7462 158.3522 198.6739 164.499 197.274 244.7834 146.745 238.0098 107.6515 256.317 93.0173 252.5005 92.9388 252.48 88.0387 169.155 88.1097 169.1403 97.2036 167.1764 140.3289 138.4205 265.4014 97.8698 267.5082 96.5533 267.5127 96.563 283.7117 131.578 Z" id="BB.PE" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>BB.PE</code_hasc>
+        <name>Saint Peter</name>
+        <admin>Barbados</admin>
+        <type_en>Parish</type_en>
+        <region/>
+        <woe_id>2344738</woe_id>
+        <longitude>-59</longitude>
+        <woe_name>Saint Peter</woe_name>
+        <fips>BB09</fips>
+        <woe_label>Saint Peter, BB, Barbados</woe_label>
+        <latitude>13</latitude>
+        <iso_a2>BB</iso_a2>
+        <postal>PE</postal>
+        <type>Parish</type>
+        <id>BB.PE</id>
+      </desc>
+    </path>
+    <path d="M 501.0507 614.9364 489.6695 599.2194 483.7024 596.2705 470.3827 591.1107 466.4653 589.8823 464.2351 588.1616 464.2951 587.1781 461.3405 580.5398 447.6553 557.1835 446.992 555.3395 443.1896 529.3987 439.2112 523.0065 435.7759 519.5647 413.962 512.8071 424.1975 473.9541 455.3369 433.0058 472.0234 426.3622 487.7446 416.5218 490.7559 413.5702 516.2886 382.5789 519.8408 376.9221 519.8464 376.9132 544.5121 384.9089 587.5923 404.6387 614.9338 439.0887 607.6704 521.0892 547.8193 582.6868 501.0507 614.9364 Z" id="BB.PH" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>BB.PH</code_hasc>
+        <name>Saint Philip</name>
+        <admin>Barbados</admin>
+        <type_en>Parish</type_en>
+        <region/>
+        <woe_id>2344739</woe_id>
+        <longitude>-59</longitude>
+        <woe_name>Saint Philip</woe_name>
+        <fips>BB10</fips>
+        <woe_label>Saint Philip, BB, Barbados</woe_label>
+        <latitude>13</latitude>
+        <iso_a2>BB</iso_a2>
+        <postal>PH</postal>
+        <type>Parish</type>
+        <id>BB.PH</id>
+      </desc>
+    </path>
+    <path d="M 255.6882 321.5103 288.5761 342.0443 291.8289 344.9951 298.0935 352.495 317.9129 392.3296 301.105 412.493 296.4059 415.3207 241.3998 436.9559 226.1549 454.1665 222.841 455.6414 185.4849 463.2576 171.942 404.7322 156.524 387.27 153.5123 385.548 152.368 384.3183 153.0308 383.8266 153.5131 382.5973 154.357 380.3845 154.9596 379.524 155.8032 378.9095 158.213 378.1724 160.6238 373.501 163.8787 365.6332 170.0294 338.8323 171.4158 334.6524 175.7532 333.0551 176.8376 332.3176 177.2593 332.1948 177.7412 332.1949 178.6448 332.1951 179.0062 331.9493 179.4279 331.9493 179.9701 331.7036 180.8135 331.212 183.3439 328.9995 183.7053 328.9995 184.0667 328.8767 184.8499 328.508 185.2113 328.2622 186.7777 327.2789 187.3199 326.9102 187.862 326.7873 188.7053 326.7875 189.3077 326.9106 189.6691 326.9106 190.3919 327.0337 190.7533 326.9109 191.3558 326.4192 191.8378 325.9275 192.0787 325.8046 192.5606 325.9276 192.922 326.1736 196.356 322.8547 208.948 306.0131 236.716 304.4188 245.0279 307.4933 255.6882 321.5103 Z" id="BB.TH" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>BB.TH</code_hasc>
+        <name>Saint Thomas</name>
+        <admin>Barbados</admin>
+        <type_en>Parish</type_en>
+        <region/>
+        <woe_id>2344740</woe_id>
+        <longitude>-59</longitude>
+        <woe_name>Saint Thomas</woe_name>
+        <fips>BB11</fips>
+        <woe_label>Saint Thomas, BB, Barbados</woe_label>
+        <latitude>13</latitude>
+        <iso_a2>BB</iso_a2>
+        <postal>TH</postal>
+        <type>Parish</type>
+        <id>BB.TH</id>
+      </desc>
+    </path>
+  </g>
+</svg>

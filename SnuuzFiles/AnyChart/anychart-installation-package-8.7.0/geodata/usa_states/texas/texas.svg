@@ -1,0 +1,2799 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="texas">
+    <path d="M 444.4086 410.104 451.2128 393.6604 455.182 396.4955 468.2234 405.5678 469.9245 407.2689 473.3266 409.537 475.5946 411.238 471.0585 415.2071 465.9553 418.6093 466.5223 419.7433 463.6872 422.5784 461.4192 424.2794 460.2851 425.4135 459.1511 422.5784 456.316 419.1763 444.9756 410.671 444.4086 410.104 Z" id="US.TX.209" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hays County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>209</fips>
+        <incits>48209</incits>
+        <id>US.TX.209</id>
+        <population>176026</population>
+      </desc>
+    </path>
+    <path d="M 425.697 425.9805 438.1714 415.7742 444.4086 410.104 444.9756 410.671 456.316 419.1763 459.1511 422.5784 460.2851 425.4135 455.182 428.8156 443.8416 433.9188 439.8725 430.5167 441.0065 426.5475 435.9033 426.5475 430.8002 425.4135 425.697 425.9805 Z" id="US.TX.091" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Comal County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>091</fips>
+        <incits>48091</incits>
+        <id>US.TX.091</id>
+        <population>118480</population>
+      </desc>
+    </path>
+    <path d="M 428.5321 405.0008 429.0991 385.7222 441.0065 386.2892 453.4809 389.6913 451.2128 393.6604 444.4086 410.104 438.1714 415.7742 428.5321 405.0008 Z" id="US.TX.031" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Blanco County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>031</fips>
+        <incits>48031</incits>
+        <id>US.TX.031</id>
+        <population>10723</population>
+      </desc>
+    </path>
+    <path d="M 451.2128 393.6604 453.4809 389.6913 453.4809 386.2892 457.45 378.918 462.5532 378.918 465.9553 382.8871 469.9245 388.5573 476.7287 387.9903 481.8318 385.7222 490.3371 387.9903 493.7392 390.2583 486.935 401.0317 478.4297 408.4029 476.1617 410.671 473.3266 409.537 469.9245 407.2689 468.2234 405.5678 455.182 396.4955 451.2128 393.6604 Z" id="US.TX.453" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Travis County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>453</fips>
+        <incits>48453</incits>
+        <id>US.TX.453</id>
+        <population>1120954</population>
+      </desc>
+    </path>
+    <path d="M 475.5946 411.238 476.1617 410.671 478.4297 408.4029 478.9968 408.9699 496.5743 423.7124 481.2648 432.2177 479.5638 430.5167 474.4606 428.8156 471.6255 425.4135 468.7904 423.1454 467.0894 419.7433 466.5223 419.7433 465.9553 418.6093 471.0585 415.2071 475.5946 411.238 Z" id="US.TX.055" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Caldwell County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>055</fips>
+        <incits>48055</incits>
+        <id>US.TX.055</id>
+        <population>39232</population>
+      </desc>
+    </path>
+    <path d="M 443.8416 433.9188 455.182 428.8156 460.2851 425.4135 461.4192 424.2794 463.6872 422.5784 467.0894 419.7433 468.7904 423.1454 471.6255 425.4135 474.4606 428.8156 479.5638 430.5167 468.7904 445.2591 455.182 445.2591 454.0479 445.8262 453.4809 444.6921 453.4809 443.5581 452.9139 442.424 448.9448 437.8879 444.4086 435.6198 443.8416 433.9188 Z" id="US.TX.187" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Guadalupe County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>187</fips>
+        <incits>48187</incits>
+        <id>US.TX.187</id>
+        <population>143183</population>
+      </desc>
+    </path>
+    <path d="M 417.1917 428.8156 418.8928 427.1145 425.697 425.9805 430.8002 425.4135 435.9033 426.5475 441.0065 426.5475 439.8725 430.5167 443.8416 433.9188 444.4086 435.6198 448.9448 437.8879 452.9139 442.424 445.5426 450.9293 442.1405 454.8985 438.7384 459.4346 436.4703 458.8676 422.8619 454.3314 419.4598 452.6304 417.1917 452.0634 417.1917 428.8156 Z" id="US.TX.029" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Bexar County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>029</fips>
+        <incits>48029</incits>
+        <id>US.TX.029</id>
+        <population>1817610</population>
+      </desc>
+    </path>
+    <path d="M 410.9545 405.0008 428.5321 405.0008 438.1714 415.7742 425.697 425.9805 418.8928 427.1145 411.5215 423.7124 410.9545 405.0008 Z" id="US.TX.259" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Kendall County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>259</fips>
+        <incits>48259</incits>
+        <id>US.TX.259</id>
+        <population>37766</population>
+      </desc>
+    </path>
+    <path d="M 575.3899 378.918 587.8643 385.1552 600.3387 385.7222 603.1738 390.8253 611.1121 394.2275 614.5142 403.2998 605.4419 410.671 604.3079 411.238 596.9366 406.1348 593.5345 406.7019 590.1324 403.2998 583.8952 407.2689 577.091 407.8359 577.091 399.3306 577.091 394.2275 575.3899 378.918 Z" id="US.TX.339" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Montgomery County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>339</fips>
+        <incits>48339</incits>
+        <id>US.TX.339</id>
+        <population>499137</population>
+      </desc>
+    </path>
+    <path d="M 577.091 407.8359 583.8952 407.2689 590.1324 403.2998 593.5345 406.7019 596.9366 406.1348 604.3079 411.238 605.4419 410.671 614.5142 403.2998 617.9163 412.9391 620.7514 414.6401 620.7514 418.6093 624.1535 421.4444 623.0195 429.9496 618.4833 436.1868 615.6483 436.1868 611.1121 439.0219 608.277 436.1868 606.0089 433.9188 596.9366 434.4858 587.2973 429.9496 575.9569 423.7124 568.5857 403.2998 577.091 407.8359 Z" id="US.TX.201" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Harris County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>201</fips>
+        <incits>48201</incits>
+        <id>US.TX.201</id>
+        <population>4336853</population>
+      </desc>
+    </path>
+    <path d="M 611.1121 394.2275 628.1227 386.2892 633.7929 386.2892 641.1641 406.1348 649.1024 406.1348 649.1024 418.0422 620.7514 418.6093 620.7514 414.6401 617.9163 412.9391 614.5142 403.2998 611.1121 394.2275 Z" id="US.TX.291" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Liberty County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>291</fips>
+        <incits>48291</incits>
+        <id>US.TX.291</id>
+        <population>76907</population>
+      </desc>
+    </path>
+    <path d="M 620.7514 418.6093 649.1024 418.0422 653.6385 418.0422 654.2055 435.6198 653.0715 436.1868 652.5045 433.9188 646.2673 437.3209 643.9992 435.0528 633.2258 437.3209 636.0609 427.1145 633.2258 423.7124 629.2567 425.4135 626.4216 429.9496 623.0195 429.9496 624.1535 421.4444 620.7514 418.6093 Z" id="US.TX.071" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Chambers County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>071</fips>
+        <incits>48071</incits>
+        <id>US.TX.071</id>
+        <population>36812</population>
+      </desc>
+    </path>
+    <path d="M 561.7815 433.3517 565.1836 433.9188 564.6166 426.5475 568.0187 426.5475 575.9569 423.7124 587.2973 429.9496 596.9366 434.4858 595.2356 442.424 590.1324 442.424 588.9984 447.5272 586.1633 449.7953 579.9261 448.0942 574.8229 451.4963 569.1527 448.0942 566.8846 442.424 563.4825 440.156 563.4825 434.4858 561.7815 433.3517 Z" id="US.TX.157" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Fort Bend County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>157</fips>
+        <incits>48157</incits>
+        <id>US.TX.157</id>
+        <population>652365</population>
+      </desc>
+    </path>
+    <path d="M 608.277 436.1868 611.1121 439.0219 615.6483 436.1868 618.4833 436.1868 624.1535 439.0219 623.0195 443.5581 632.0918 447.5272 634.3599 446.3932 636.0609 444.1251 639.463 447.5272 637.195 450.3623 634.9269 450.3623 631.5248 453.1974 619.6174 460.0016 615.0812 461.7027 612.8132 461.1357 616.7823 454.8985 607.143 440.723 608.277 436.1868 Z M 646.2673 437.3209 652.5045 433.9188 653.0715 436.1868 637.195 442.424 633.7929 445.8262 632.0918 444.6921 637.195 440.156 641.1641 439.589 642.8652 437.3209 646.2673 437.3209 Z" id="US.TX.167" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Galveston County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>167</fips>
+        <incits>48167</incits>
+        <id>US.TX.167</id>
+        <population>306782</population>
+      </desc>
+    </path>
+    <path d="M 573.1219 453.1974 574.8229 451.4963 579.9261 448.0942 586.1633 449.7953 588.9984 447.5272 590.1324 442.424 595.2356 442.424 596.9366 434.4858 606.0089 433.9188 608.277 436.1868 607.143 440.723 616.7823 454.8985 612.8132 461.1357 615.0812 461.7027 606.576 467.9399 600.3387 473.0431 592.9675 475.8781 590.1324 474.7441 585.5963 470.775 585.0292 467.9399 578.792 467.3729 578.225 463.4037 574.8229 460.0016 574.8229 454.8985 573.1219 453.1974 Z" id="US.TX.039" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Brazoria County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>039</fips>
+        <incits>48039</incits>
+        <id>US.TX.039</id>
+        <population>330242</population>
+      </desc>
+    </path>
+    <path d="M 561.7815 400.4647 577.091 399.3306 577.091 407.8359 568.5857 403.2998 575.9569 423.7124 568.0187 426.5475 564.6166 426.5475 564.0496 423.1454 560.0804 420.8773 559.5134 415.7742 561.7815 412.3721 558.3794 408.9699 556.1113 405.0008 558.3794 401.0317 561.7815 400.4647 Z" id="US.TX.473" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Waller County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>473</fips>
+        <incits>48473</incits>
+        <id>US.TX.473</id>
+        <population>45213</population>
+      </desc>
+    </path>
+    <path d="M 573.6889 228.091 574.2559 208.8123 574.8229 208.2453 579.9261 205.4102 582.7612 205.4102 590.1324 203.1422 590.6994 205.9773 596.3696 207.1113 603.1738 205.9773 603.1738 232.6271 598.6377 231.4931 593.5345 228.658 578.792 226.3899 573.6889 228.091 Z" id="US.TX.277" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lamar County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>277</fips>
+        <incits>48277</incits>
+        <id>US.TX.277</id>
+        <population>49426</population>
+      </desc>
+    </path>
+    <path d="M 545.905 231.4931 546.472 214.4825 549.8741 215.0496 551.0081 211.6474 554.4102 212.7815 557.8123 209.9464 565.7506 208.2453 570.8538 205.9773 574.8229 208.2453 574.2559 208.8123 573.6889 228.091 574.2559 230.9261 551.0081 234.3282 545.905 234.8952 545.905 231.4931 Z" id="US.TX.147" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Fannin County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>147</fips>
+        <incits>48147</incits>
+        <id>US.TX.147</id>
+        <population>33659</population>
+      </desc>
+    </path>
+    <path d="M 516.42 202.0081 519.8221 206.5443 528.8944 208.2453 530.5955 204.2762 535.1316 205.4102 533.4305 208.2453 537.9667 208.8123 539.1007 211.0804 543.6369 211.6474 546.472 214.4825 545.905 231.4931 522.0902 231.4931 516.42 230.9261 516.42 202.0081 Z" id="US.TX.181" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Grayson County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>181</fips>
+        <incits>48181</incits>
+        <id>US.TX.181</id>
+        <population>122353</population>
+      </desc>
+    </path>
+    <path d="M 384.8716 460.5686 384.8716 432.2177 408.1194 432.2177 408.1194 435.6198 410.9545 435.6198 417.1917 428.8156 417.1917 452.0634 417.1917 460.5686 384.8716 460.5686 Z" id="US.TX.325" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Medina County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>325</fips>
+        <incits>48325</incits>
+        <id>US.TX.325</id>
+        <population>47399</population>
+      </desc>
+    </path>
+    <path d="M 374.6653 432.2177 374.6653 417.4752 391.6759 417.4752 397.3461 418.0422 411.5215 423.7124 418.8928 427.1145 417.1917 428.8156 410.9545 435.6198 408.1194 435.6198 408.1194 432.2177 384.8716 432.2177 374.6653 432.2177 Z" id="US.TX.019" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Bandera County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>019</fips>
+        <incits>48019</incits>
+        <id>US.TX.019</id>
+        <population>20601</population>
+      </desc>
+    </path>
+    <path d="M 438.7384 459.4346 442.1405 454.8985 445.5426 450.9293 452.9139 442.424 453.4809 443.5581 453.4809 444.6921 454.0479 445.8262 455.182 445.2591 468.7904 445.2591 467.6564 446.9602 474.4606 453.7644 450.0788 471.909 438.7384 459.4346 Z" id="US.TX.493" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wilson County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>493</fips>
+        <incits>48493</incits>
+        <id>US.TX.493</id>
+        <population>45418</population>
+      </desc>
+    </path>
+    <path d="M 417.1917 460.5686 417.1917 452.0634 419.4598 452.6304 422.8619 454.3314 436.4703 458.8676 438.7384 459.4346 450.0788 471.909 454.6149 477.0122 442.1405 486.0845 442.1405 484.3834 417.1917 484.3834 417.1917 460.5686 Z" id="US.TX.013" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Atascosa County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>013</fips>
+        <incits>48013</incits>
+        <id>US.TX.013</id>
+        <population>47093</population>
+      </desc>
+    </path>
+    <path d="M 384.8716 460.5686 417.1917 460.5686 417.1917 484.3834 386.0057 484.3834 384.8716 460.5686 Z" id="US.TX.163" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Frio County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>163</fips>
+        <incits>48163</incits>
+        <id>US.TX.163</id>
+        <population>18065</population>
+      </desc>
+    </path>
+    <path d="M 238.5808 66.4907 239.1478 90.3054 192.0853 90.3054 192.0853 66.4907 238.5808 66.4907 Z" id="US.TX.111" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dallam County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>111</fips>
+        <incits>48111</incits>
+        <id>US.TX.111</id>
+        <population>7057</population>
+      </desc>
+    </path>
+    <path d="M 238.5808 66.4907 267.4988 67.0577 267.4988 90.3054 239.1478 90.3054 238.5808 66.4907 Z" id="US.TX.421" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Sherman County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>421</fips>
+        <incits>48421</incits>
+        <id>US.TX.421</id>
+        <population>3093</population>
+      </desc>
+    </path>
+    <path d="M 267.4988 67.0577 295.8497 67.0577 296.4167 90.3054 267.4988 90.3054 267.4988 67.0577 Z" id="US.TX.195" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hansford County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>195</fips>
+        <incits>48195</incits>
+        <id>US.TX.195</id>
+        <population>5555</population>
+      </desc>
+    </path>
+    <path d="M 295.8497 67.0577 324.7677 67.0577 324.7677 90.3054 296.4167 90.3054 295.8497 67.0577 Z" id="US.TX.357" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ochiltree County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>357</fips>
+        <incits>48357</incits>
+        <id>US.TX.357</id>
+        <population>10806</population>
+      </desc>
+    </path>
+    <path d="M 324.7677 67.0577 353.6856 67.0577 353.6856 90.3054 324.7677 90.3054 324.7677 67.0577 Z" id="US.TX.295" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lipscomb County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>295</fips>
+        <incits>48295</incits>
+        <id>US.TX.295</id>
+        <population>3485</population>
+      </desc>
+    </path>
+    <path d="M 192.0853 90.3054 239.1478 90.3054 238.5808 113.5532 192.0853 113.5532 192.0853 90.3054 Z" id="US.TX.205" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hartley County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>205</fips>
+        <incits>48205</incits>
+        <id>US.TX.205</id>
+        <population>6100</population>
+      </desc>
+    </path>
+    <path d="M 238.5808 113.5532 239.1478 90.3054 267.4988 90.3054 267.4988 113.5532 238.5808 113.5532 Z" id="US.TX.341" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Moore County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>341</fips>
+        <incits>48341</incits>
+        <id>US.TX.341</id>
+        <population>22141</population>
+      </desc>
+    </path>
+    <path d="M 267.4988 90.3054 296.4167 90.3054 295.8497 113.5532 267.4988 113.5532 267.4988 90.3054 Z" id="US.TX.233" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hutchinson County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>233</fips>
+        <incits>48233</incits>
+        <id>US.TX.233</id>
+        <population>21819</population>
+      </desc>
+    </path>
+    <path d="M 295.8497 113.5532 296.4167 90.3054 324.7677 90.3054 324.7677 113.5532 295.8497 113.5532 Z" id="US.TX.393" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Roberts County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>393</fips>
+        <incits>48393</incits>
+        <id>US.TX.393</id>
+        <population>831</population>
+      </desc>
+    </path>
+    <path d="M 324.7677 90.3054 353.6856 90.3054 353.6856 113.5532 324.7677 113.5532 324.7677 90.3054 Z" id="US.TX.211" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hemphill County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>211</fips>
+        <incits>48211</incits>
+        <id>US.TX.211</id>
+        <population>4158</population>
+      </desc>
+    </path>
+    <path d="M 192.0853 113.5532 238.5808 113.5532 238.5808 136.801 192.0853 136.801 192.0853 113.5532 Z" id="US.TX.359" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Oldham County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>359</fips>
+        <incits>48359</incits>
+        <id>US.TX.359</id>
+        <population>2102</population>
+      </desc>
+    </path>
+    <path d="M 238.5808 136.801 238.5808 113.5532 267.4988 113.5532 267.4988 136.801 238.5808 136.801 Z" id="US.TX.375" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Potter County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>375</fips>
+        <incits>48375</incits>
+        <id>US.TX.375</id>
+        <population>121661</population>
+      </desc>
+    </path>
+    <path d="M 267.4988 113.5532 295.8497 113.5532 295.8497 136.801 267.4988 136.801 267.4988 113.5532 Z" id="US.TX.065" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Carson County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>065</fips>
+        <incits>48065</incits>
+        <id>US.TX.065</id>
+        <population>6010</population>
+      </desc>
+    </path>
+    <path d="M 295.8497 136.801 295.8497 113.5532 324.7677 113.5532 325.3347 136.801 295.8497 136.801 Z" id="US.TX.179" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Gray County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>179</fips>
+        <incits>48179</incits>
+        <id>US.TX.179</id>
+        <population>23043</population>
+      </desc>
+    </path>
+    <path d="M 324.7677 113.5532 353.6856 113.5532 353.6856 136.801 325.3347 136.801 324.7677 113.5532 Z" id="US.TX.483" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wheeler County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>483</fips>
+        <incits>48483</incits>
+        <id>US.TX.483</id>
+        <population>5751</population>
+      </desc>
+    </path>
+    <path d="M 192.0853 160.0487 192.0853 136.801 238.5808 136.801 238.5808 160.0487 219.3022 160.0487 192.0853 160.0487 Z" id="US.TX.117" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Deaf Smith County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>117</fips>
+        <incits>48117</incits>
+        <id>US.TX.117</id>
+        <population>19177</population>
+      </desc>
+    </path>
+    <path d="M 238.5808 160.0487 238.5808 136.801 267.4988 136.801 267.4988 160.0487 247.6531 160.0487 238.5808 160.0487 Z" id="US.TX.381" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Randall County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>381</fips>
+        <incits>48381</incits>
+        <id>US.TX.381</id>
+        <population>126474</population>
+      </desc>
+    </path>
+    <path d="M 267.4988 160.0487 267.4988 136.801 295.8497 136.801 295.8497 160.0487 275.437 160.0487 267.4988 160.0487 Z" id="US.TX.011" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Armstrong County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>011</fips>
+        <incits>48011</incits>
+        <id>US.TX.011</id>
+        <population>1949</population>
+      </desc>
+    </path>
+    <path d="M 295.8497 160.0487 295.8497 136.801 325.3347 136.801 325.3347 160.0487 303.788 160.0487 295.8497 160.0487 Z" id="US.TX.129" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Donley County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>129</fips>
+        <incits>48129</incits>
+        <id>US.TX.129</id>
+        <population>3522</population>
+      </desc>
+    </path>
+    <path d="M 325.3347 160.0487 325.3347 136.801 353.6856 136.801 353.6856 160.0487 331.5719 160.0487 325.3347 160.0487 Z" id="US.TX.087" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Collingsworth County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>087</fips>
+        <incits>48087</incits>
+        <id>US.TX.087</id>
+        <population>3099</population>
+      </desc>
+    </path>
+    <path d="M 192.0853 160.0487 219.3022 160.0487 219.3022 183.2965 214.766 183.2965 192.0853 183.2965 192.0853 160.0487 Z" id="US.TX.369" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Parmer County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>369</fips>
+        <incits>48369</incits>
+        <id>US.TX.369</id>
+        <population>9965</population>
+      </desc>
+    </path>
+    <path d="M 219.3022 160.0487 238.5808 160.0487 247.6531 160.0487 247.6531 183.2965 242.55 183.2965 219.3022 183.2965 219.3022 160.0487 Z" id="US.TX.069" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Castro County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>069</fips>
+        <incits>48069</incits>
+        <id>US.TX.069</id>
+        <population>8030</population>
+      </desc>
+    </path>
+    <path d="M 247.6531 183.2965 247.6531 160.0487 267.4988 160.0487 275.437 160.0487 275.437 183.2965 270.9009 183.2965 247.6531 183.2965 Z" id="US.TX.437" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Swisher County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>437</fips>
+        <incits>48437</incits>
+        <id>US.TX.437</id>
+        <population>7763</population>
+      </desc>
+    </path>
+    <path d="M 275.437 160.0487 295.8497 160.0487 303.788 160.0487 303.221 183.2965 298.6848 183.2965 275.437 183.2965 275.437 160.0487 Z" id="US.TX.045" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Briscoe County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>045</fips>
+        <incits>48045</incits>
+        <id>US.TX.045</id>
+        <population>1537</population>
+      </desc>
+    </path>
+    <path d="M 303.221 183.2965 303.788 160.0487 325.3347 160.0487 331.5719 160.0487 331.5719 182.7295 326.4687 182.7295 303.221 183.2965 Z" id="US.TX.191" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hall County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>191</fips>
+        <incits>48191</incits>
+        <id>US.TX.191</id>
+        <population>3239</population>
+      </desc>
+    </path>
+    <path d="M 331.5719 182.7295 331.5719 160.0487 353.6856 160.0487 353.6856 169.6881 353.6856 183.2965 331.5719 182.7295 Z" id="US.TX.075" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Childress County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>075</fips>
+        <incits>48075</incits>
+        <id>US.TX.075</id>
+        <population>7095</population>
+      </desc>
+    </path>
+    <path d="M 191.5183 208.8123 192.0853 183.2965 214.766 183.2965 214.766 208.8123 191.5183 208.8123 Z" id="US.TX.017" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Bailey County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>017</fips>
+        <incits>48017</incits>
+        <id>US.TX.017</id>
+        <population>7114</population>
+      </desc>
+    </path>
+    <path d="M 214.766 208.8123 214.766 183.2965 219.3022 183.2965 242.55 183.2965 243.117 208.8123 214.766 208.8123 Z" id="US.TX.279" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lamb County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>279</fips>
+        <incits>48279</incits>
+        <id>US.TX.279</id>
+        <population>13775</population>
+      </desc>
+    </path>
+    <path d="M 242.55 183.2965 247.6531 183.2965 270.9009 183.2965 270.9009 208.8123 243.117 208.8123 242.55 183.2965 Z" id="US.TX.189" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hale County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>189</fips>
+        <incits>48189</incits>
+        <id>US.TX.189</id>
+        <population>35764</population>
+      </desc>
+    </path>
+    <path d="M 270.9009 208.8123 270.9009 183.2965 275.437 183.2965 298.6848 183.2965 298.1178 208.2453 270.9009 208.8123 Z" id="US.TX.153" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Floyd County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>153</fips>
+        <incits>48153</incits>
+        <id>US.TX.153</id>
+        <population>6230</population>
+      </desc>
+    </path>
+    <path d="M 298.1178 208.2453 298.6848 183.2965 303.221 183.2965 326.4687 182.7295 325.9017 208.2453 298.1178 208.2453 Z" id="US.TX.345" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Motley County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>345</fips>
+        <incits>48345</incits>
+        <id>US.TX.345</id>
+        <population>1196</population>
+      </desc>
+    </path>
+    <path d="M 325.9017 208.2453 326.4687 182.7295 331.5719 182.7295 353.6856 183.2965 353.6856 187.8327 351.4175 187.2656 351.4175 208.2453 325.9017 208.2453 Z" id="US.TX.101" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cottle County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>101</fips>
+        <incits>48101</incits>
+        <id>US.TX.101</id>
+        <population>1452</population>
+      </desc>
+    </path>
+    <path d="M 353.6856 187.8327 353.6856 183.2965 353.6856 169.6881 356.5207 169.121 359.9228 170.2551 370.1292 179.3274 375.2323 179.8944 376.3664 177.6263 381.4695 178.7604 381.4695 195.2039 376.3664 196.3379 372.3972 194.6369 365.593 194.6369 353.6856 187.8327 Z" id="US.TX.197" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hardeman County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>197</fips>
+        <incits>48197</incits>
+        <id>US.TX.197</id>
+        <population>4016</population>
+      </desc>
+    </path>
+    <path d="M 191.5183 232.0601 191.5183 208.8123 214.766 208.8123 215.9001 232.0601 191.5183 232.0601 Z" id="US.TX.079" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cochran County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>079</fips>
+        <incits>48079</incits>
+        <id>US.TX.079</id>
+        <population>3016</population>
+      </desc>
+    </path>
+    <path d="M 214.766 208.8123 243.117 208.8123 243.117 232.0601 215.9001 232.0601 214.766 208.8123 Z" id="US.TX.219" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hockley County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>219</fips>
+        <incits>48219</incits>
+        <id>US.TX.219</id>
+        <population>23530</population>
+      </desc>
+    </path>
+    <path d="M 243.117 208.8123 270.9009 208.8123 270.9009 232.0601 243.117 232.0601 243.117 208.8123 Z" id="US.TX.303" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lubbock County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>303</fips>
+        <incits>48303</incits>
+        <id>US.TX.303</id>
+        <population>289324</population>
+      </desc>
+    </path>
+    <path d="M 270.9009 208.8123 298.1178 208.2453 298.6848 232.0601 270.9009 232.0601 270.9009 208.8123 Z" id="US.TX.107" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Crosby County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>107</fips>
+        <incits>48107</incits>
+        <id>US.TX.107</id>
+        <population>5991</population>
+      </desc>
+    </path>
+    <path d="M 298.1178 208.2453 325.9017 208.2453 326.4687 231.4931 298.6848 232.0601 298.1178 208.2453 Z" id="US.TX.125" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dickens County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>125</fips>
+        <incits>48125</incits>
+        <id>US.TX.125</id>
+        <population>2291</population>
+      </desc>
+    </path>
+    <path d="M 325.9017 208.2453 351.4175 208.2453 354.2526 208.2453 354.2526 231.4931 326.4687 231.4931 325.9017 208.2453 Z" id="US.TX.269" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>King County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>269</fips>
+        <incits>48269</incits>
+        <id>US.TX.269</id>
+        <population>285</population>
+      </desc>
+    </path>
+    <path d="M 354.2526 208.2453 362.1909 208.2453 368.4281 210.5134 376.9334 210.5134 382.0366 213.9155 382.0366 231.4931 354.2526 231.4931 354.2526 208.2453 Z" id="US.TX.275" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Knox County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>275</fips>
+        <incits>48275</incits>
+        <id>US.TX.275</id>
+        <population>3767</population>
+      </desc>
+    </path>
+    <path d="M 351.4175 208.2453 351.4175 187.2656 353.6856 187.8327 365.593 194.6369 372.3972 194.6369 376.3664 196.3379 381.4695 195.2039 381.4695 208.8123 382.0366 213.9155 376.9334 210.5134 368.4281 210.5134 362.1909 208.2453 354.2526 208.2453 351.4175 208.2453 Z" id="US.TX.155" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Foard County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>155</fips>
+        <incits>48155</incits>
+        <id>US.TX.155</id>
+        <population>1277</population>
+      </desc>
+    </path>
+    <path d="M 191.5183 232.0601 215.9001 232.0601 215.9001 254.7409 190.9513 255.3079 191.5183 232.0601 Z" id="US.TX.501" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Yoakum County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>501</fips>
+        <incits>48501</incits>
+        <id>US.TX.501</id>
+        <population>8184</population>
+      </desc>
+    </path>
+    <path d="M 215.9001 254.7409 215.9001 232.0601 243.117 232.0601 243.117 254.7409 236.8798 254.7409 215.9001 254.7409 Z" id="US.TX.445" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Terry County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>445</fips>
+        <incits>48445</incits>
+        <id>US.TX.445</id>
+        <population>12743</population>
+      </desc>
+    </path>
+    <path d="M 243.117 254.7409 243.117 232.0601 270.9009 232.0601 270.9009 254.7409 264.0967 254.7409 243.117 254.7409 Z" id="US.TX.305" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lynn County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>305</fips>
+        <incits>48305</incits>
+        <id>US.TX.305</id>
+        <population>5723</population>
+      </desc>
+    </path>
+    <path d="M 270.9009 232.0601 298.6848 232.0601 298.6848 254.1738 291.3136 254.7409 270.9009 254.7409 270.9009 232.0601 Z" id="US.TX.169" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Garza County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>169</fips>
+        <incits>48169</incits>
+        <id>US.TX.169</id>
+        <population>6317</population>
+      </desc>
+    </path>
+    <path d="M 298.6848 232.0601 326.4687 231.4931 326.4687 254.7409 319.0975 254.7409 298.6848 254.1738 298.6848 232.0601 Z" id="US.TX.263" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Kent County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>263</fips>
+        <incits>48263</incits>
+        <id>US.TX.263</id>
+        <population>807</population>
+      </desc>
+    </path>
+    <path d="M 326.4687 231.4931 354.2526 231.4931 354.2526 255.3079 346.3144 255.3079 326.4687 254.7409 326.4687 231.4931 Z" id="US.TX.433" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Stonewall County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>433</fips>
+        <incits>48433</incits>
+        <id>US.TX.433</id>
+        <population>1432</population>
+      </desc>
+    </path>
+    <path d="M 190.9513 255.3079 215.9001 254.7409 236.8798 254.7409 236.8798 277.9886 236.3128 277.9886 190.9513 277.9886 190.9513 255.3079 Z" id="US.TX.165" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Gaines County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>165</fips>
+        <incits>48165</incits>
+        <id>US.TX.165</id>
+        <population>18921</population>
+      </desc>
+    </path>
+    <path d="M 236.8798 254.7409 243.117 254.7409 264.0967 254.7409 264.0967 277.9886 236.8798 277.9886 236.8798 254.7409 Z" id="US.TX.115" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dawson County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>115</fips>
+        <incits>48115</incits>
+        <id>US.TX.115</id>
+        <population>13810</population>
+      </desc>
+    </path>
+    <path d="M 264.0967 254.7409 270.9009 254.7409 291.3136 254.7409 291.3136 277.9886 264.0967 277.9886 264.0967 254.7409 Z" id="US.TX.033" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Borden County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>033</fips>
+        <incits>48033</incits>
+        <id>US.TX.033</id>
+        <population>637</population>
+      </desc>
+    </path>
+    <path d="M 291.3136 277.9886 291.3136 254.7409 298.6848 254.1738 319.0975 254.7409 318.5305 277.9886 291.3136 277.9886 Z" id="US.TX.415" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Scurry County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>415</fips>
+        <incits>48415</incits>
+        <id>US.TX.415</id>
+        <population>17302</population>
+      </desc>
+    </path>
+    <path d="M 190.9513 277.9886 236.3128 277.9886 236.3128 301.2364 232.3436 301.2364 205.1267 301.2364 190.9513 301.2364 190.9513 277.9886 Z" id="US.TX.003" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Andrews County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>003</fips>
+        <incits>48003</incits>
+        <id>US.TX.003</id>
+        <population>16799</population>
+      </desc>
+    </path>
+    <path d="M 236.3128 301.2364 236.3128 277.9886 236.8798 277.9886 264.0967 277.9886 263.5297 301.2364 259.5605 301.2364 236.3128 301.2364 Z" id="US.TX.317" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Martin County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>317</fips>
+        <incits>48317</incits>
+        <id>US.TX.317</id>
+        <population>5312</population>
+      </desc>
+    </path>
+    <path d="M 263.5297 301.2364 264.0967 277.9886 291.3136 277.9886 291.3136 301.2364 286.7774 301.2364 263.5297 301.2364 Z" id="US.TX.227" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Howard County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>227</fips>
+        <incits>48227</incits>
+        <id>US.TX.227</id>
+        <population>36147</population>
+      </desc>
+    </path>
+    <path d="M 291.3136 277.9886 318.5305 277.9886 318.5305 301.2364 310.5922 301.2364 291.3136 301.2364 291.3136 277.9886 Z" id="US.TX.335" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Mitchell County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>335</fips>
+        <incits>48335</incits>
+        <id>US.TX.335</id>
+        <population>9402</population>
+      </desc>
+    </path>
+    <path d="M 318.5305 277.9886 345.7474 278.5556 345.7474 301.8034 341.2112 301.8034 318.5305 301.2364 318.5305 277.9886 Z" id="US.TX.353" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Nolan County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>353</fips>
+        <incits>48353</incits>
+        <id>US.TX.353</id>
+        <population>15037</population>
+      </desc>
+    </path>
+    <path d="M 318.5305 277.9886 319.0975 254.7409 326.4687 254.7409 346.3144 255.3079 345.7474 278.5556 318.5305 277.9886 Z" id="US.TX.151" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Fisher County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>151</fips>
+        <incits>48151</incits>
+        <id>US.TX.151</id>
+        <population>3856</population>
+      </desc>
+    </path>
+    <path d="M 345.7474 278.5556 346.3144 255.3079 354.2526 255.3079 374.0983 255.3079 373.5313 278.5556 345.7474 278.5556 Z" id="US.TX.253" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jones County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>253</fips>
+        <incits>48253</incits>
+        <id>US.TX.253</id>
+        <population>19859</population>
+      </desc>
+    </path>
+    <path d="M 354.2526 255.3079 354.2526 231.4931 382.0366 231.4931 382.0366 255.3079 374.0983 255.3079 354.2526 255.3079 Z" id="US.TX.207" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Haskell County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>207</fips>
+        <incits>48207</incits>
+        <id>US.TX.207</id>
+        <population>5875</population>
+      </desc>
+    </path>
+    <path d="M 35.0211 338.6596 36.7222 337.5256 35.0211 333.5565 35.0211 305.7725 65.0731 305.7725 92.29 305.7725 92.29 340.3607 92.29 360.2063 92.857 369.2786 92.29 377.2169 88.8879 378.918 79.8156 371.5467 66.7742 366.4435 66.2071 364.7425 58.2689 359.6393 56.0008 354.5361 46.9285 350.567 41.8253 343.7628 38.4232 342.6288 35.0211 338.6596 Z" id="US.TX.229" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hudspeth County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>229</fips>
+        <incits>48229</incits>
+        <id>US.TX.229</id>
+        <population>3318</population>
+      </desc>
+    </path>
+    <path d="M 35.0211 305.7725 35.0211 333.5565 36.7222 337.5256 35.0211 338.6596 30.485 338.0926 23.1137 333.5565 14.6084 319.948 8.9383 319.381 1 313.1438 2.134 305.7725 35.0211 305.7725 Z" id="US.TX.141" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>El Paso County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>141</fips>
+        <incits>48141</incits>
+        <id>US.TX.141</id>
+        <population>827718</population>
+      </desc>
+    </path>
+    <path d="M 92.29 305.7725 139.9196 305.7725 135.9504 353.4021 104.7644 369.8457 92.29 377.2169 92.857 369.2786 92.29 360.2063 92.29 340.3607 92.29 305.7725 Z" id="US.TX.109" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Culberson County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>109</fips>
+        <incits>48109</incits>
+        <id>US.TX.109</id>
+        <population>2277</population>
+      </desc>
+    </path>
+    <path d="M 88.8879 378.918 92.29 377.2169 104.7644 369.8457 135.9504 353.4021 143.8887 358.5053 163.1673 371.5467 170.5386 377.2169 151.827 390.2583 146.1568 390.2583 126.8781 386.8562 88.8879 378.918 Z" id="US.TX.243" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jeff Davis County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>243</fips>
+        <incits>48243</incits>
+        <id>US.TX.243</id>
+        <population>2253</population>
+      </desc>
+    </path>
+    <path d="M 88.8879 378.918 126.8781 386.8562 146.1568 390.2583 151.827 390.2583 151.827 414.0731 152.394 451.4963 142.7547 449.7953 132.5483 444.6921 130.2803 440.156 123.476 437.8879 112.1357 429.3826 111.0016 424.8465 104.7644 416.3412 103.6304 409.537 104.7644 402.7327 100.7953 396.4955 95.6921 391.3924 94.5581 385.1552 93.424 381.753 88.8879 378.918 Z" id="US.TX.377" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Presidio County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>377</fips>
+        <incits>48377</incits>
+        <id>US.TX.377</id>
+        <population>7201</population>
+      </desc>
+    </path>
+    <path d="M 135.9504 353.4021 139.9196 305.7725 142.1877 305.7725 145.5898 310.8757 149.5589 312.0097 151.827 318.247 157.4972 319.381 161.4663 321.6491 162.0333 324.4842 167.1365 326.1852 167.1365 332.4224 169.9716 336.3916 180.7449 336.3916 184.147 339.2266 193.2193 339.2266 163.1673 371.5467 143.8887 358.5053 135.9504 353.4021 Z" id="US.TX.389" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Reeves County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>389</fips>
+        <incits>48389</incits>
+        <id>US.TX.389</id>
+        <population>13965</population>
+      </desc>
+    </path>
+    <path d="M 142.1877 305.7725 176.7758 305.7725 176.7758 324.4842 162.0333 324.4842 161.4663 321.6491 157.4972 319.381 151.827 318.247 149.5589 312.0097 145.5898 310.8757 142.1877 305.7725 Z" id="US.TX.301" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Loving County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>301</fips>
+        <incits>48301</incits>
+        <id>US.TX.301</id>
+        <population>95</population>
+      </desc>
+    </path>
+    <path d="M 151.827 390.2583 170.5386 377.2169 197.7555 395.3615 217.6011 409.537 230.6426 418.6093 226.1064 424.8465 221.5703 423.7124 218.1682 425.9805 211.3639 425.9805 210.7969 429.3826 207.9618 431.6507 204.5597 437.8879 202.8587 446.3932 200.5906 446.3932 199.4565 451.4963 201.1576 453.7644 194.3534 457.1665 186.4151 466.8058 180.7449 466.8058 172.2396 463.4037 169.4045 461.7027 164.8684 457.1665 156.3631 456.0325 152.394 451.4963 151.827 414.0731 151.827 390.2583 Z" id="US.TX.043" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Brewster County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>043</fips>
+        <incits>48043</incits>
+        <id>US.TX.043</id>
+        <population>9286</population>
+      </desc>
+    </path>
+    <path d="M 162.0333 324.4842 176.7758 324.4842 205.1267 324.4842 206.8278 324.4842 206.2608 343.1958 203.4257 344.8968 198.8895 340.9277 193.2193 339.2266 184.147 339.2266 180.7449 336.3916 169.9716 336.3916 167.1365 332.4224 167.1365 326.1852 162.0333 324.4842 Z" id="US.TX.475" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ward County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>475</fips>
+        <incits>48475</incits>
+        <id>US.TX.475</id>
+        <population>11244</population>
+      </desc>
+    </path>
+    <path d="M 176.7758 324.4842 176.7758 305.7725 190.9513 305.7725 190.9513 301.2364 205.1267 301.2364 205.1267 324.4842 176.7758 324.4842 Z" id="US.TX.495" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Winkler County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>495</fips>
+        <incits>48495</incits>
+        <id>US.TX.495</id>
+        <population>7606</population>
+      </desc>
+    </path>
+    <path d="M 163.1673 371.5467 193.2193 339.2266 198.8895 340.9277 203.4257 344.8968 206.2608 343.1958 211.931 341.4947 215.9001 344.8968 219.8692 345.4639 224.4054 348.866 224.9724 352.2681 227.2405 354.5361 236.8798 359.0723 248.2201 359.6393 253.8903 363.0414 256.1584 372.1137 260.1275 377.2169 240.2819 377.2169 240.2819 380.619 229.5085 380.619 229.5085 397.0626 217.6011 397.0626 217.6011 409.537 197.7555 395.3615 170.5386 377.2169 163.1673 371.5467 Z" id="US.TX.371" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pecos County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>371</fips>
+        <incits>48371</incits>
+        <id>US.TX.371</id>
+        <population>15697</population>
+      </desc>
+    </path>
+    <path d="M 206.2608 343.1958 206.8278 324.4842 232.3436 324.4842 231.7766 354.5361 227.2405 354.5361 224.9724 352.2681 224.4054 348.866 219.8692 345.4639 215.9001 344.8968 211.931 341.4947 206.2608 343.1958 Z" id="US.TX.103" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Crane County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>103</fips>
+        <incits>48103</incits>
+        <id>US.TX.103</id>
+        <population>4773</population>
+      </desc>
+    </path>
+    <path d="M 217.6011 409.537 217.6011 397.0626 229.5085 397.0626 229.5085 380.619 240.2819 380.619 240.2819 377.2169 260.1275 377.2169 265.7977 379.485 266.3647 382.8871 264.0967 387.4232 263.5297 394.2275 260.1275 397.0626 260.1275 423.7124 249.9212 423.1454 243.684 423.7124 230.6426 418.6093 217.6011 409.537 Z" id="US.TX.443" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Terrell County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>443</fips>
+        <incits>48443</incits>
+        <id>US.TX.443</id>
+        <population>903</population>
+      </desc>
+    </path>
+    <path d="M 260.1275 423.7124 260.1275 397.0626 303.221 397.0626 316.8294 397.0626 316.8294 432.2177 316.8294 442.9911 314.5613 450.3623 311.7262 452.6304 306.6231 449.2283 300.3859 445.8262 297.5508 441.29 293.0146 440.156 291.3136 438.4549 286.7774 436.7539 287.3444 432.2177 282.2413 430.5167 279.4062 424.8465 260.1275 423.7124 Z" id="US.TX.465" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Val Verde County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>465</fips>
+        <incits>48465</incits>
+        <id>US.TX.465</id>
+        <population>48623</population>
+      </desc>
+    </path>
+    <path d="M 227.2405 354.5361 231.7766 354.5361 259.5605 355.1032 286.2104 355.1032 302.6539 354.5361 302.6539 374.9488 303.221 397.0626 260.1275 397.0626 263.5297 394.2275 264.0967 387.4232 266.3647 382.8871 265.7977 379.485 260.1275 377.2169 256.1584 372.1137 253.8903 363.0414 248.2201 359.6393 236.8798 359.0723 227.2405 354.5361 Z" id="US.TX.105" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Crockett County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>105</fips>
+        <incits>48105</incits>
+        <id>US.TX.105</id>
+        <population>3807</population>
+      </desc>
+    </path>
+    <path d="M 231.7766 354.5361 232.3436 324.4842 259.5605 324.4842 259.5605 355.1032 231.7766 354.5361 Z" id="US.TX.461" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Upton County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>461</fips>
+        <incits>48461</incits>
+        <id>US.TX.461</id>
+        <population>3372</population>
+      </desc>
+    </path>
+    <path d="M 259.5605 301.2364 263.5297 301.2364 286.7774 301.2364 286.7774 324.4842 259.5605 324.4842 259.5605 301.2364 Z" id="US.TX.173" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Glasscock County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>173</fips>
+        <incits>48173</incits>
+        <id>US.TX.173</id>
+        <population>1251</population>
+      </desc>
+    </path>
+    <path d="M 259.5605 324.4842 286.7774 324.4842 286.7774 329.5873 286.2104 331.2884 286.2104 355.1032 259.5605 355.1032 259.5605 324.4842 Z" id="US.TX.383" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Reagan County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>383</fips>
+        <incits>48383</incits>
+        <id>US.TX.383</id>
+        <population>3601</population>
+      </desc>
+    </path>
+    <path d="M 286.7774 329.5873 286.7774 324.4842 286.7774 301.2364 291.3136 301.2364 310.5922 301.2364 310.0252 322.2161 307.7571 321.6491 307.7571 329.0203 286.7774 329.5873 Z" id="US.TX.431" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Sterling County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>431</fips>
+        <incits>48431</incits>
+        <id>US.TX.431</id>
+        <population>1219</population>
+      </desc>
+    </path>
+    <path d="M 286.2104 355.1032 286.2104 331.2884 316.8294 331.2884 317.3964 354.5361 302.6539 354.5361 286.2104 355.1032 Z" id="US.TX.235" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Irion County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>235</fips>
+        <incits>48235</incits>
+        <id>US.TX.235</id>
+        <population>1612</population>
+      </desc>
+    </path>
+    <path d="M 310.0252 322.2161 310.5922 301.2364 318.5305 301.2364 341.2112 301.8034 341.2112 322.2161 310.0252 322.2161 Z" id="US.TX.081" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Coke County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>081</fips>
+        <incits>48081</incits>
+        <id>US.TX.081</id>
+        <population>3210</population>
+      </desc>
+    </path>
+    <path d="M 286.2104 331.2884 286.7774 329.5873 307.7571 329.0203 307.7571 321.6491 310.0252 322.2161 341.2112 322.2161 341.2112 328.4533 347.4484 328.4533 348.0154 354.5361 317.3964 354.5361 316.8294 331.2884 286.2104 331.2884 Z" id="US.TX.451" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Tom Green County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>451</fips>
+        <incits>48451</incits>
+        <id>US.TX.451</id>
+        <population>114954</population>
+      </desc>
+    </path>
+    <path d="M 302.6539 354.5361 317.3964 354.5361 348.0154 354.5361 347.4484 374.3818 341.2112 374.9488 302.6539 374.9488 302.6539 354.5361 Z" id="US.TX.413" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Schleicher County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>413</fips>
+        <incits>48413</incits>
+        <id>US.TX.413</id>
+        <population>3206</population>
+      </desc>
+    </path>
+    <path d="M 302.6539 374.9488 341.2112 374.9488 347.4484 374.3818 347.4484 397.0626 316.8294 397.0626 303.221 397.0626 302.6539 374.9488 Z" id="US.TX.435" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Sutton County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>435</fips>
+        <incits>48435</incits>
+        <id>US.TX.435</id>
+        <population>4006</population>
+      </desc>
+    </path>
+    <path d="M 381.4695 208.8123 381.4695 195.2039 381.4695 178.7604 386.0057 179.3274 387.1397 175.3582 395.645 181.5955 397.3461 188.3997 404.7173 188.9667 409.2535 188.3997 409.2535 208.2453 381.4695 208.8123 Z" id="US.TX.487" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wilbarger County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>487</fips>
+        <incits>48487</incits>
+        <id>US.TX.487</id>
+        <population>13131</population>
+      </desc>
+    </path>
+    <path d="M 316.8294 397.0626 347.4484 397.0626 366.7271 397.0626 366.7271 408.4029 355.3867 408.4029 353.6856 416.9082 352.5516 418.6093 351.4175 428.8156 353.1186 432.2177 348.0154 432.2177 316.8294 432.2177 316.8294 397.0626 Z" id="US.TX.137" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Edwards County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>137</fips>
+        <incits>48137</incits>
+        <id>US.TX.137</id>
+        <population>1884</population>
+      </desc>
+    </path>
+    <path d="M 311.7262 452.6304 314.5613 450.3623 316.8294 442.9911 316.8294 432.2177 348.0154 432.2177 348.0154 461.1357 318.5305 461.1357 313.4273 457.1665 311.7262 452.6304 Z" id="US.TX.271" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Kinney County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>271</fips>
+        <incits>48271</incits>
+        <id>US.TX.271</id>
+        <population>3586</population>
+      </desc>
+    </path>
+    <path d="M 318.5305 461.1357 348.0154 461.1357 348.0154 484.9504 348.0154 508.1982 342.3452 508.1982 338.3761 503.6621 338.3761 501.961 334.974 497.4249 336.108 495.7238 332.1389 489.4866 332.7059 487.7855 327.0357 483.2494 324.7677 474.7441 319.0975 468.5069 318.5305 461.1357 Z" id="US.TX.323" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Maverick County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>323</fips>
+        <incits>48323</incits>
+        <id>US.TX.323</id>
+        <population>55932</population>
+      </desc>
+    </path>
+    <path d="M 348.0154 484.9504 386.0057 484.3834 386.0057 508.1982 348.0154 508.1982 348.0154 484.9504 Z" id="US.TX.127" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dimmit County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>127</fips>
+        <incits>48127</incits>
+        <id>US.TX.127</id>
+        <population>10897</population>
+      </desc>
+    </path>
+    <path d="M 348.0154 461.1357 348.0154 432.2177 353.1186 432.2177 374.6653 432.2177 384.8716 432.2177 384.8716 460.5686 348.0154 461.1357 Z" id="US.TX.463" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Uvalde County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>463</fips>
+        <incits>48463</incits>
+        <id>US.TX.463</id>
+        <population>26926</population>
+      </desc>
+    </path>
+    <path d="M 348.0154 461.1357 384.8716 460.5686 386.0057 484.3834 348.0154 484.9504 348.0154 461.1357 Z" id="US.TX.507" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Zavala County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>507</fips>
+        <incits>48507</incits>
+        <id>US.TX.507</id>
+        <population>12156</population>
+      </desc>
+    </path>
+    <path d="M 366.7271 408.4029 370.1292 408.4029 370.1292 417.4752 374.6653 417.4752 374.6653 432.2177 353.1186 432.2177 351.4175 428.8156 352.5516 418.6093 353.6856 416.9082 355.3867 408.4029 366.7271 408.4029 Z" id="US.TX.385" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Real County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>385</fips>
+        <incits>48385</incits>
+        <id>US.TX.385</id>
+        <population>3350</population>
+      </desc>
+    </path>
+    <path d="M 347.4484 397.0626 347.4484 374.3818 380.9025 374.3818 380.9025 385.7222 391.1089 385.7222 391.1089 397.0626 366.7271 397.0626 347.4484 397.0626 Z" id="US.TX.267" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Kimble County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>267</fips>
+        <incits>48267</incits>
+        <id>US.TX.267</id>
+        <population>4481</population>
+      </desc>
+    </path>
+    <path d="M 347.4484 374.3818 348.0154 354.5361 374.6653 354.5361 374.6653 362.4744 381.4695 362.4744 380.9025 374.3818 347.4484 374.3818 Z" id="US.TX.327" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Menard County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>327</fips>
+        <incits>48327</incits>
+        <id>US.TX.327</id>
+        <population>2148</population>
+      </desc>
+    </path>
+    <path d="M 347.4484 328.4533 368.4281 329.0203 374.6653 332.9894 374.6653 354.5361 348.0154 354.5361 347.4484 328.4533 Z" id="US.TX.095" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Concho County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>095</fips>
+        <incits>48095</incits>
+        <id>US.TX.095</id>
+        <population>4043</population>
+      </desc>
+    </path>
+    <path d="M 341.2112 301.8034 345.7474 301.8034 368.9951 301.8034 368.4281 329.0203 347.4484 328.4533 341.2112 328.4533 341.2112 322.2161 341.2112 301.8034 Z" id="US.TX.399" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Runnels County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>399</fips>
+        <incits>48399</incits>
+        <id>US.TX.399</id>
+        <population>10309</population>
+      </desc>
+    </path>
+    <path d="M 345.7474 301.8034 345.7474 278.5556 373.5313 278.5556 373.5313 301.8034 368.9951 301.8034 345.7474 301.8034 Z" id="US.TX.441" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Taylor County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>441</fips>
+        <incits>48441</incits>
+        <id>US.TX.441</id>
+        <population>134117</population>
+      </desc>
+    </path>
+    <path d="M 373.5313 278.5556 374.0983 255.3079 382.0366 255.3079 401.8822 255.3079 401.8822 278.5556 400.7482 278.5556 373.5313 278.5556 Z" id="US.TX.417" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Shackelford County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>417</fips>
+        <incits>48417</incits>
+        <id>US.TX.417</id>
+        <population>3375</population>
+      </desc>
+    </path>
+    <path d="M 382.0366 231.4931 409.2535 232.0601 409.2535 255.3079 401.8822 255.3079 382.0366 255.3079 382.0366 231.4931 Z" id="US.TX.447" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Throckmorton County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>447</fips>
+        <incits>48447</incits>
+        <id>US.TX.447</id>
+        <population>1600</population>
+      </desc>
+    </path>
+    <path d="M 381.4695 208.8123 409.2535 208.2453 409.2535 232.0601 382.0366 231.4931 382.0366 213.9155 381.4695 208.8123 Z" id="US.TX.023" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Baylor County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>023</fips>
+        <incits>48023</incits>
+        <id>US.TX.023</id>
+        <population>3614</population>
+      </desc>
+    </path>
+    <path d="M 409.2535 208.2453 409.2535 188.3997 413.2226 190.6677 420.5938 192.9358 427.9651 191.2348 434.7693 196.3379 437.6044 195.2039 437.6044 208.2453 409.2535 208.2453 Z" id="US.TX.485" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wichita County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>485</fips>
+        <incits>48485</incits>
+        <id>US.TX.485</id>
+        <population>132047</population>
+      </desc>
+    </path>
+    <path d="M 409.2535 232.0601 409.2535 208.2453 437.6044 208.2453 437.6044 228.091 437.6044 232.0601 409.2535 232.0601 Z" id="US.TX.009" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Archer County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>009</fips>
+        <incits>48009</incits>
+        <id>US.TX.009</id>
+        <population>8681</population>
+      </desc>
+    </path>
+    <path d="M 409.2535 232.0601 437.6044 232.0601 437.6044 252.4728 437.6044 255.3079 429.6661 255.3079 409.2535 255.3079 409.2535 232.0601 Z" id="US.TX.503" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Young County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>503</fips>
+        <incits>48503</incits>
+        <id>US.TX.503</id>
+        <population>18341</population>
+      </desc>
+    </path>
+    <path d="M 401.8822 255.3079 409.2535 255.3079 429.6661 255.3079 429.0991 278.5556 401.8822 278.5556 401.8822 255.3079 Z" id="US.TX.429" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Stephens County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>429</fips>
+        <incits>48429</incits>
+        <id>US.TX.429</id>
+        <population>9247</population>
+      </desc>
+    </path>
+    <path d="M 400.7482 301.8034 400.7482 278.5556 401.8822 278.5556 429.0991 278.5556 434.7693 278.5556 434.7693 289.896 430.8002 292.1641 410.9545 301.8034 400.7482 301.8034 Z" id="US.TX.133" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Eastland County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>133</fips>
+        <incits>48133</incits>
+        <id>US.TX.133</id>
+        <population>18245</population>
+      </desc>
+    </path>
+    <path d="M 373.5313 301.8034 373.5313 278.5556 400.7482 278.5556 400.7482 301.8034 396.212 301.8034 373.5313 301.8034 Z" id="US.TX.059" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Callahan County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>059</fips>
+        <incits>48059</incits>
+        <id>US.TX.059</id>
+        <population>13525</population>
+      </desc>
+    </path>
+    <path d="M 368.4281 329.0203 368.9951 301.8034 373.5313 301.8034 396.212 301.8034 396.212 334.1235 393.9439 333.5565 390.5418 336.3916 385.4387 335.2575 379.2015 336.3916 378.0674 333.5565 374.6653 332.9894 368.4281 329.0203 Z" id="US.TX.083" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Coleman County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>083</fips>
+        <incits>48083</incits>
+        <id>US.TX.083</id>
+        <population>8543</population>
+      </desc>
+    </path>
+    <path d="M 374.6653 354.5361 374.6653 332.9894 378.0674 333.5565 379.2015 336.3916 385.4387 335.2575 390.5418 336.3916 393.9439 333.5565 396.212 334.1235 401.8822 335.2575 401.8822 362.4744 381.4695 362.4744 374.6653 362.4744 374.6653 354.5361 Z" id="US.TX.307" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>McCulloch County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>307</fips>
+        <incits>48307</incits>
+        <id>US.TX.307</id>
+        <population>8330</population>
+      </desc>
+    </path>
+    <path d="M 380.9025 374.3818 381.4695 362.4744 401.8822 362.4744 409.2535 363.0414 408.6864 385.7222 391.1089 385.7222 380.9025 385.7222 380.9025 374.3818 Z" id="US.TX.319" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Mason County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>319</fips>
+        <incits>48319</incits>
+        <id>US.TX.319</id>
+        <population>4128</population>
+      </desc>
+    </path>
+    <path d="M 391.1089 397.0626 391.1089 385.7222 408.6864 385.7222 429.0991 385.7222 428.5321 405.0008 410.9545 405.0008 391.1089 405.0008 391.1089 397.0626 Z" id="US.TX.171" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Gillespie County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>171</fips>
+        <incits>48171</incits>
+        <id>US.TX.171</id>
+        <population>25357</population>
+      </desc>
+    </path>
+    <path d="M 366.7271 408.4029 366.7271 397.0626 391.1089 397.0626 391.1089 405.0008 410.9545 405.0008 411.5215 423.7124 397.3461 418.0422 391.6759 417.4752 374.6653 417.4752 370.1292 417.4752 370.1292 408.4029 366.7271 408.4029 Z" id="US.TX.265" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Kerr County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>265</fips>
+        <incits>48265</incits>
+        <id>US.TX.265</id>
+        <population>49953</population>
+      </desc>
+    </path>
+    <path d="M 386.0057 484.3834 417.1917 484.3834 417.7587 515.5695 386.5727 517.2705 386.0057 508.1982 386.0057 484.3834 Z" id="US.TX.283" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>La Salle County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>283</fips>
+        <incits>48283</incits>
+        <id>US.TX.283</id>
+        <population>7369</population>
+      </desc>
+    </path>
+    <path d="M 342.3452 508.1982 348.0154 508.1982 386.0057 508.1982 386.5727 517.2705 417.7587 515.5695 417.7587 552.9927 417.7587 557.5288 409.2535 557.5288 389.4078 557.5288 387.1397 555.8278 382.6036 557.5288 380.3355 553.5597 381.4695 546.1885 378.6344 545.0544 379.7685 541.6523 375.2323 537.6832 368.4281 536.5491 363.892 530.879 360.4898 529.7449 359.3558 524.0747 354.2526 518.9716 353.1186 515.0024 349.1495 511.0333 342.3452 508.1982 Z" id="US.TX.479" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Webb County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>479</fips>
+        <incits>48479</incits>
+        <id>US.TX.479</id>
+        <population>262495</population>
+      </desc>
+    </path>
+    <path d="M 382.6036 557.5288 387.1397 555.8278 389.4078 557.5288 409.2535 557.5288 409.2535 583.0447 406.4184 589.2819 397.9131 594.3851 395.645 586.4468 393.9439 585.3128 392.8099 580.2096 389.4078 578.5085 389.4078 576.2405 383.1706 570.5703 384.3046 562.632 382.6036 557.5288 Z" id="US.TX.505" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Zapata County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>505</fips>
+        <incits>48505</incits>
+        <id>US.TX.505</id>
+        <population>14390</population>
+      </desc>
+    </path>
+    <path d="M 647.4013 285.3599 654.2055 288.195 670.6491 285.3599 670.6491 306.3396 671.7831 306.9066 645.7002 307.4736 641.1641 307.4736 640.5971 301.8034 642.2981 294.9992 644.5662 291.5971 647.4013 285.3599 Z" id="US.TX.365" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Panola County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>365</fips>
+        <incits>48365</incits>
+        <id>US.TX.365</id>
+        <population>23870</population>
+      </desc>
+    </path>
+    <path d="M 633.2258 213.3485 634.9269 216.1836 641.7311 216.7506 648.5353 219.0187 649.1024 221.2868 653.6385 223.5548 663.8448 221.2868 668.948 221.8538 670.6491 224.1219 670.6491 238.2973 669.515 237.1633 661.0097 237.1633 660.4427 239.9984 652.5045 239.4314 647.9683 237.1633 640.0301 239.4314 637.762 238.2973 633.2258 235.4622 633.2258 213.3485 Z" id="US.TX.037" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Bowie County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>037</fips>
+        <incits>48037</incits>
+        <id>US.TX.037</id>
+        <population>93487</population>
+      </desc>
+    </path>
+    <path d="M 603.1738 205.9773 608.277 201.4411 615.6483 204.2762 616.7823 206.5443 621.8855 207.1113 626.9886 213.3485 633.2258 213.3485 633.2258 235.4622 629.2567 232.6271 625.2876 232.0601 612.8132 232.0601 607.143 233.1942 603.1738 232.6271 603.1738 205.9773 Z" id="US.TX.387" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Red River County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>387</fips>
+        <incits>48387</incits>
+        <id>US.TX.387</id>
+        <population>12470</population>
+      </desc>
+    </path>
+    <path d="M 397.9131 594.3851 406.4184 589.2819 409.2535 583.0447 437.6044 583.6117 442.7076 583.6117 428.5321 611.3956 423.9959 611.9626 420.0268 607.4265 416.0577 605.1584 412.6556 606.2924 408.1194 604.0244 401.3152 602.3233 401.8822 599.4882 397.9131 594.3851 Z" id="US.TX.427" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Starr County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>427</fips>
+        <incits>48427</incits>
+        <id>US.TX.427</id>
+        <population>61963</population>
+      </desc>
+    </path>
+    <path d="M 409.2535 557.5288 417.7587 557.5288 417.7587 552.9927 430.8002 552.4257 432.5012 557.5288 434.2023 559.2299 434.2023 564.3331 435.3363 568.8692 438.1714 568.8692 437.6044 583.6117 409.2535 583.0447 409.2535 557.5288 Z" id="US.TX.247" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jim Hogg County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>247</fips>
+        <incits>48247</incits>
+        <id>US.TX.247</id>
+        <population>5245</population>
+      </desc>
+    </path>
+    <path d="M 417.7587 515.5695 442.1405 515.5695 447.8107 515.5695 447.8107 557.5288 432.5012 557.5288 430.8002 552.4257 417.7587 552.9927 417.7587 515.5695 Z" id="US.TX.131" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Duval County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>131</fips>
+        <incits>48131</incits>
+        <id>US.TX.131</id>
+        <population>11640</population>
+      </desc>
+    </path>
+    <path d="M 417.1917 484.3834 442.1405 484.3834 442.1405 486.0845 442.1405 515.5695 417.7587 515.5695 417.1917 484.3834 Z" id="US.TX.311" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>McMullen County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>311</fips>
+        <incits>48311</incits>
+        <id>US.TX.311</id>
+        <population>764</population>
+      </desc>
+    </path>
+    <path d="M 428.5321 611.3956 442.7076 583.6117 460.8522 583.6117 460.8522 592.117 462.5532 592.684 460.2851 601.1893 467.6564 601.7563 467.6564 606.2924 467.0894 621.6019 458.0171 622.736 454.6149 621.6019 451.7799 622.169 446.6767 621.0349 434.7693 613.0967 428.5321 611.3956 Z" id="US.TX.215" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hidalgo County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>215</fips>
+        <incits>48215</incits>
+        <id>US.TX.215</id>
+        <population>815996</population>
+      </desc>
+    </path>
+    <path d="M 467.0894 621.6019 467.6564 606.2924 485.234 609.1275 489.7701 607.4265 493.1722 602.8903 505.0796 602.8903 507.3477 612.5297 509.0487 621.6019 508.4817 626.7051 500.5435 627.2721 493.7392 630.1072 493.7392 633.5093 489.7701 632.9423 481.2648 627.2721 477.8627 623.87 472.1925 623.303 467.0894 621.6019 Z" id="US.TX.061" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cameron County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>061</fips>
+        <incits>48061</incits>
+        <id>US.TX.061</id>
+        <population>417276</population>
+      </desc>
+    </path>
+    <path d="M 462.5532 592.684 467.0894 593.251 501.1105 593.251 505.0796 602.8903 493.1722 602.8903 489.7701 607.4265 485.234 609.1275 467.6564 606.2924 467.6564 601.7563 460.2851 601.1893 462.5532 592.684 Z" id="US.TX.489" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Willacy County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>489</fips>
+        <incits>48489</incits>
+        <id>US.TX.489</id>
+        <population>21921</population>
+      </desc>
+    </path>
+    <path d="M 460.8522 583.6117 460.8522 560.3639 463.6872 559.2299 478.4297 556.9618 486.368 557.5288 497.1413 556.9618 496.0073 563.766 495.4403 571.7043 496.5743 578.5085 501.1105 593.251 467.0894 593.251 462.5532 592.684 460.8522 592.117 460.8522 583.6117 Z" id="US.TX.261" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Kenedy County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>261</fips>
+        <incits>48261</incits>
+        <id>US.TX.261</id>
+        <population>412</population>
+      </desc>
+    </path>
+    <path d="M 432.5012 557.5288 447.8107 557.5288 456.883 558.0959 460.8522 558.0959 460.8522 560.3639 460.8522 583.6117 442.7076 583.6117 437.6044 583.6117 438.1714 568.8692 435.3363 568.8692 434.2023 564.3331 434.2023 559.2299 432.5012 557.5288 Z" id="US.TX.047" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Brooks County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>047</fips>
+        <incits>48047</incits>
+        <id>US.TX.047</id>
+        <population>7237</population>
+      </desc>
+    </path>
+    <path d="M 447.8107 557.5288 447.8107 515.5695 465.9553 515.5695 470.4915 516.7035 471.0585 518.9716 463.6872 524.6418 463.1202 538.2502 456.883 538.2502 456.883 558.0959 447.8107 557.5288 Z" id="US.TX.249" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jim Wells County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>249</fips>
+        <incits>48249</incits>
+        <id>US.TX.249</id>
+        <population>41680</population>
+      </desc>
+    </path>
+    <path d="M 456.883 558.0959 456.883 538.2502 463.1202 538.2502 465.3883 538.2502 468.2234 542.2193 496.0073 542.2193 498.8424 540.5183 502.8115 541.6523 500.5435 546.7555 497.1413 556.9618 486.368 557.5288 478.4297 556.9618 463.6872 559.2299 460.8522 560.3639 460.8522 558.0959 456.883 558.0959 Z" id="US.TX.273" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Kleberg County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>273</fips>
+        <incits>48273</incits>
+        <id>US.TX.273</id>
+        <population>32101</population>
+      </desc>
+    </path>
+    <path d="M 463.1202 538.2502 463.6872 524.6418 471.0585 518.9716 469.9245 520.6726 476.7287 522.9407 477.2957 525.2088 488.069 527.4768 493.1722 526.9098 496.5743 528.6109 507.9147 527.4768 511.8838 528.0439 502.8115 541.6523 498.8424 540.5183 496.0073 542.2193 468.2234 542.2193 465.3883 538.2502 463.1202 538.2502 Z" id="US.TX.355" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Nueces County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>355</fips>
+        <incits>48355</incits>
+        <id>US.TX.355</id>
+        <population>352107</population>
+      </desc>
+    </path>
+    <path d="M 470.4915 509.3323 483.5329 512.1673 484.6669 509.8993 493.7392 511.6003 499.4094 514.4354 499.9764 515.5695 506.2136 524.0747 507.9147 527.4768 496.5743 528.6109 493.1722 526.9098 488.069 527.4768 477.2957 525.2088 476.7287 522.9407 469.9245 520.6726 471.0585 518.9716 470.4915 516.7035 465.9553 515.5695 465.3883 512.1673 470.4915 509.3323 Z" id="US.TX.409" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>San Patricio County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>409</fips>
+        <incits>48409</incits>
+        <id>US.TX.409</id>
+        <population>66137</population>
+      </desc>
+    </path>
+    <path d="M 499.4094 514.4354 505.0796 513.8684 511.8838 508.7652 507.9147 506.4972 506.2136 504.2291 524.3582 501.394 527.1933 501.394 527.1933 505.9301 522.0902 509.8993 522.0902 516.1365 516.42 521.2396 511.8838 528.0439 507.9147 527.4768 506.2136 524.0747 499.9764 515.5695 499.4094 514.4354 Z" id="US.TX.007" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Aransas County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>007</fips>
+        <incits>48007</incits>
+        <id>US.TX.007</id>
+        <population>24356</population>
+      </desc>
+    </path>
+    <path d="M 484.6669 509.8993 493.1722 497.9919 505.0796 489.4866 510.1828 489.4866 511.8838 491.1877 517.554 492.8887 518.6881 491.7547 523.2242 495.7238 526.0593 496.2908 524.3582 501.394 506.2136 504.2291 507.9147 506.4972 511.8838 508.7652 505.0796 513.8684 499.4094 514.4354 493.7392 511.6003 484.6669 509.8993 Z" id="US.TX.391" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Refugio County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>391</fips>
+        <incits>48391</incits>
+        <id>US.TX.391</id>
+        <population>7305</population>
+      </desc>
+    </path>
+    <path d="M 459.7181 482.1154 464.2543 480.4143 469.3574 483.2494 472.1925 483.2494 476.1617 489.4866 483.5329 491.1877 484.0999 494.5898 493.1722 497.9919 484.6669 509.8993 483.5329 512.1673 470.4915 509.3323 455.182 483.8164 459.7181 482.1154 Z" id="US.TX.025" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Bee County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>025</fips>
+        <incits>48025</incits>
+        <id>US.TX.025</id>
+        <population>32799</population>
+      </desc>
+    </path>
+    <path d="M 442.1405 486.0845 454.6149 477.0122 459.7181 482.1154 455.182 483.8164 470.4915 509.3323 465.3883 512.1673 465.9553 515.5695 447.8107 515.5695 442.1405 515.5695 442.1405 486.0845 Z" id="US.TX.297" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Live Oak County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>297</fips>
+        <incits>48297</incits>
+        <id>US.TX.297</id>
+        <population>11867</population>
+      </desc>
+    </path>
+    <path d="M 472.1925 483.2494 482.9659 475.3111 490.9041 469.6409 497.1413 473.0431 502.2445 473.6101 504.5126 477.0122 503.9456 487.2185 505.0796 489.4866 493.1722 497.9919 484.0999 494.5898 483.5329 491.1877 476.1617 489.4866 472.1925 483.2494 Z" id="US.TX.175" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Goliad County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>175</fips>
+        <incits>48175</incits>
+        <id>US.TX.175</id>
+        <population>7465</population>
+      </desc>
+    </path>
+    <path d="M 450.0788 471.909 474.4606 453.7644 480.6978 459.4346 473.3266 465.1048 482.9659 475.3111 472.1925 483.2494 469.3574 483.2494 464.2543 480.4143 459.7181 482.1154 454.6149 477.0122 450.0788 471.909 Z" id="US.TX.255" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Karnes County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>255</fips>
+        <incits>48255</incits>
+        <id>US.TX.255</id>
+        <population>15081</population>
+      </desc>
+    </path>
+    <path d="M 531.1625 480.4143 543.6369 480.9813 544.2039 482.6824 549.3071 482.6824 549.3071 484.3834 545.3379 497.4249 547.039 499.1259 545.3379 501.394 537.3997 505.3631 528.8944 511.0333 522.0902 516.1365 522.0902 509.8993 527.1933 505.9301 527.1933 501.394 526.0593 496.2908 523.2242 495.7238 518.6881 491.7547 516.987 487.7855 520.9561 484.9504 528.3274 483.2494 531.1625 480.4143 Z" id="US.TX.057" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Calhoun County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>057</fips>
+        <incits>48057</incits>
+        <id>US.TX.057</id>
+        <population>21806</population>
+      </desc>
+    </path>
+    <path d="M 497.1413 473.0431 514.7189 460.0016 516.42 462.2697 522.0902 464.5378 524.3582 469.6409 526.6263 471.342 531.1625 480.4143 528.3274 483.2494 520.9561 484.9504 516.987 487.7855 518.6881 491.7547 517.554 492.8887 511.8838 491.1877 510.1828 489.4866 505.0796 489.4866 503.9456 487.2185 504.5126 477.0122 502.2445 473.6101 497.1413 473.0431 Z" id="US.TX.469" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Victoria County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>469</fips>
+        <incits>48469</incits>
+        <id>US.TX.469</id>
+        <population>90028</population>
+      </desc>
+    </path>
+    <path d="M 480.6978 459.4346 500.5435 445.2591 514.7189 460.0016 497.1413 473.0431 490.9041 469.6409 482.9659 475.3111 473.3266 465.1048 480.6978 459.4346 Z" id="US.TX.123" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>DeWitt County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>123</fips>
+        <incits>48123</incits>
+        <id>US.TX.123</id>
+        <population>20503</population>
+      </desc>
+    </path>
+    <path d="M 468.7904 445.2591 479.5638 430.5167 481.2648 432.2177 496.5743 423.7124 506.2136 431.0837 505.6466 432.2177 502.8115 434.4858 500.5435 445.2591 480.6978 459.4346 474.4606 453.7644 467.6564 446.9602 468.7904 445.2591 Z" id="US.TX.177" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Gonzales County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>177</fips>
+        <incits>48177</incits>
+        <id>US.TX.177</id>
+        <population>20312</population>
+      </desc>
+    </path>
+    <path d="M 408.6864 385.7222 409.2535 363.0414 436.4703 363.0414 435.9033 365.3095 439.3054 368.7116 439.8725 372.6807 437.0374 376.6499 438.7384 380.619 441.5735 382.3201 441.0065 386.2892 429.0991 385.7222 408.6864 385.7222 Z" id="US.TX.299" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Llano County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>299</fips>
+        <incits>48299</incits>
+        <id>US.TX.299</id>
+        <population>19444</population>
+      </desc>
+    </path>
+    <path d="M 407.5524 333.5565 410.9545 335.8245 414.9236 337.5256 423.4289 337.5256 428.5321 342.6288 430.2331 346.5979 432.5012 350 430.8002 352.2681 435.3363 353.9691 437.0374 357.9383 436.4703 363.0414 409.2535 363.0414 401.8822 362.4744 401.8822 335.2575 407.5524 333.5565 Z" id="US.TX.411" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>San Saba County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>411</fips>
+        <incits>48411</incits>
+        <id>US.TX.411</id>
+        <population>6012</population>
+      </desc>
+    </path>
+    <path d="M 396.212 334.1235 396.212 301.8034 400.7482 301.8034 410.9545 301.8034 424.563 322.2161 419.4598 322.7831 418.8928 326.7522 407.5524 333.5565 401.8822 335.2575 396.212 334.1235 Z" id="US.TX.049" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Brown County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>049</fips>
+        <incits>48049</incits>
+        <id>US.TX.049</id>
+        <population>37749</population>
+      </desc>
+    </path>
+    <path d="M 437.6044 208.2453 437.6044 195.2039 440.4395 191.2348 451.2128 193.5028 455.749 199.74 463.1202 200.3071 461.4192 205.4102 461.4192 228.091 437.6044 228.091 437.6044 208.2453 Z" id="US.TX.077" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Clay County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>077</fips>
+        <incits>48077</incits>
+        <id>US.TX.077</id>
+        <population>10473</population>
+      </desc>
+    </path>
+    <path d="M 437.6044 252.4728 437.6044 232.0601 437.6044 228.091 461.4192 228.091 464.2543 229.792 464.2543 253.0398 456.883 252.4728 437.6044 252.4728 Z" id="US.TX.237" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jack County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>237</fips>
+        <incits>48237</incits>
+        <id>US.TX.237</id>
+        <population>8957</population>
+      </desc>
+    </path>
+    <path d="M 429.0991 278.5556 429.6661 255.3079 437.6044 255.3079 437.6044 252.4728 456.883 252.4728 456.316 276.2876 456.316 278.5556 434.7693 278.5556 429.0991 278.5556 Z" id="US.TX.363" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Palo Pinto County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>363</fips>
+        <incits>48363</incits>
+        <id>US.TX.363</id>
+        <population>27889</population>
+      </desc>
+    </path>
+    <path d="M 430.8002 292.1641 434.7693 289.896 434.7693 278.5556 456.316 278.5556 463.1202 293.8652 467.6564 301.2364 459.7181 305.2055 448.9448 310.8757 446.6767 306.9066 442.7076 309.1747 430.8002 292.1641 Z" id="US.TX.143" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Erath County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>143</fips>
+        <incits>48143</incits>
+        <id>US.TX.143</id>
+        <population>39658</population>
+      </desc>
+    </path>
+    <path d="M 410.9545 301.8034 430.8002 292.1641 442.7076 309.1747 446.6767 306.9066 448.9448 310.8757 451.7799 314.2778 435.3363 322.7831 433.6353 320.515 424.563 322.2161 410.9545 301.8034 Z" id="US.TX.093" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Comanche County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>093</fips>
+        <incits>48093</incits>
+        <id>US.TX.093</id>
+        <population>13623</population>
+      </desc>
+    </path>
+    <path d="M 407.5524 333.5565 418.8928 326.7522 419.4598 322.7831 424.563 322.2161 433.6353 320.515 435.3363 322.7831 446.1097 336.9586 430.2331 346.5979 428.5321 342.6288 423.4289 337.5256 414.9236 337.5256 410.9545 335.8245 407.5524 333.5565 Z" id="US.TX.333" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Mills County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>333</fips>
+        <incits>48333</incits>
+        <id>US.TX.333</id>
+        <population>4907</population>
+      </desc>
+    </path>
+    <path d="M 430.2331 346.5979 446.1097 336.9586 450.6458 334.6905 465.3883 355.6702 464.8213 357.3712 437.0374 357.9383 435.3363 353.9691 430.8002 352.2681 432.5012 350 430.2331 346.5979 Z" id="US.TX.281" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lampasas County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>281</fips>
+        <incits>48281</incits>
+        <id>US.TX.281</id>
+        <population>20222</population>
+      </desc>
+    </path>
+    <path d="M 437.0374 357.9383 464.8213 357.3712 469.3574 364.1755 461.9862 370.4127 457.45 378.918 453.4809 386.2892 453.4809 389.6913 441.0065 386.2892 441.5735 382.3201 438.7384 380.619 437.0374 376.6499 439.8725 372.6807 439.3054 368.7116 435.9033 365.3095 436.4703 363.0414 437.0374 357.9383 Z" id="US.TX.053" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Burnet County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>053</fips>
+        <incits>48053</incits>
+        <id>US.TX.053</id>
+        <population>43823</population>
+      </desc>
+    </path>
+    <path d="M 461.4192 228.091 461.4192 205.4102 467.0894 207.6783 471.6255 205.4102 477.2957 200.3071 481.8318 202.0081 482.3989 204.8432 487.502 204.2762 487.502 229.792 464.2543 229.792 461.4192 228.091 Z" id="US.TX.337" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Montague County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>337</fips>
+        <incits>48337</incits>
+        <id>US.TX.337</id>
+        <population>19503</population>
+      </desc>
+    </path>
+    <path d="M 464.2543 229.792 487.502 229.792 493.1722 229.792 492.0382 253.0398 484.6669 253.0398 464.2543 253.0398 464.2543 229.792 Z" id="US.TX.497" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wise County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>497</fips>
+        <incits>48497</incits>
+        <id>US.TX.497</id>
+        <population>60939</population>
+      </desc>
+    </path>
+    <path d="M 456.316 276.2876 456.883 252.4728 464.2543 253.0398 484.6669 253.0398 484.0999 276.8546 480.6978 276.8546 456.316 276.2876 Z" id="US.TX.367" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Parker County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>367</fips>
+        <incits>48367</incits>
+        <id>US.TX.367</id>
+        <population>121418</population>
+      </desc>
+    </path>
+    <path d="M 456.316 278.5556 456.316 276.2876 480.6978 276.8546 480.6978 289.329 471.6255 289.329 463.1202 293.8652 456.316 278.5556 Z" id="US.TX.221" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hood County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>221</fips>
+        <incits>48221</incits>
+        <id>US.TX.221</id>
+        <population>52905</population>
+      </desc>
+    </path>
+    <path d="M 463.1202 293.8652 471.6255 289.329 480.6978 289.329 480.6978 294.9992 467.6564 301.2364 463.1202 293.8652 Z" id="US.TX.425" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Somervell County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>425</fips>
+        <incits>48425</incits>
+        <id>US.TX.425</id>
+        <population>8658</population>
+      </desc>
+    </path>
+    <path d="M 459.7181 305.2055 467.6564 301.2364 480.6978 294.9992 485.234 298.9683 488.6361 296.7002 486.935 298.9683 487.502 304.6385 490.3371 304.6385 493.1722 307.4736 490.3371 309.1747 493.1722 313.1438 498.2754 315.4119 498.2754 319.381 481.2648 327.8863 476.7287 321.6491 472.7595 323.3501 459.7181 305.2055 Z" id="US.TX.035" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Bosque County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>035</fips>
+        <incits>48035</incits>
+        <id>US.TX.035</id>
+        <population>17855</population>
+      </desc>
+    </path>
+    <path d="M 435.3363 322.7831 451.7799 314.2778 448.9448 310.8757 459.7181 305.2055 472.7595 323.3501 450.6458 334.6905 446.1097 336.9586 435.3363 322.7831 Z" id="US.TX.193" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hamilton County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>193</fips>
+        <incits>48193</incits>
+        <id>US.TX.193</id>
+        <population>8310</population>
+      </desc>
+    </path>
+    <path d="M 450.6458 334.6905 472.7595 323.3501 476.7287 321.6491 481.2648 327.8863 490.9041 342.0617 465.3883 355.6702 450.6458 334.6905 Z" id="US.TX.099" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Coryell County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>099</fips>
+        <incits>48099</incits>
+        <id>US.TX.099</id>
+        <population>76192</population>
+      </desc>
+    </path>
+    <path d="M 465.3883 355.6702 490.9041 342.0617 495.4403 346.0309 498.2754 344.3298 509.6158 359.6393 499.4094 365.3095 496.5743 372.1137 480.1308 365.8765 469.3574 364.1755 464.8213 357.3712 465.3883 355.6702 Z" id="US.TX.027" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Bell County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>027</fips>
+        <incits>48027</incits>
+        <id>US.TX.027</id>
+        <population>326843</population>
+      </desc>
+    </path>
+    <path d="M 457.45 378.918 461.9862 370.4127 469.3574 364.1755 480.1308 365.8765 496.5743 372.1137 498.8424 373.2478 505.0796 387.9903 495.4403 390.8253 494.3063 390.2583 493.7392 390.2583 490.3371 387.9903 481.8318 385.7222 476.7287 387.9903 469.9245 388.5573 465.9553 382.8871 462.5532 378.918 457.45 378.918 Z" id="US.TX.491" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Williamson County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>491</fips>
+        <incits>48491</incits>
+        <id>US.TX.491</id>
+        <population>471014</population>
+      </desc>
+    </path>
+    <path d="M 487.502 229.792 487.502 204.2762 489.2031 208.8123 493.1722 209.3794 496.5743 206.5443 503.9456 205.4102 503.3786 212.2145 506.7807 214.4825 508.4817 210.5134 514.1519 205.9773 516.42 202.0081 516.42 230.9261 493.1722 229.792 487.502 229.792 Z" id="US.TX.097" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cooke County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>097</fips>
+        <incits>48097</incits>
+        <id>US.TX.097</id>
+        <population>38467</population>
+      </desc>
+    </path>
+    <path d="M 492.0382 253.0398 493.1722 229.792 516.42 230.9261 522.0902 231.4931 521.5232 253.6068 511.3168 253.6068 492.0382 253.0398 Z" id="US.TX.121" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Denton County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>121</fips>
+        <incits>48121</incits>
+        <id>US.TX.121</id>
+        <population>728799</population>
+      </desc>
+    </path>
+    <path d="M 484.0999 276.8546 484.6669 253.0398 492.0382 253.0398 511.3168 253.6068 511.3168 276.8546 508.4817 276.8546 484.0999 276.8546 Z" id="US.TX.439" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Tarrant County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>439</fips>
+        <incits>48439</incits>
+        <id>US.TX.439</id>
+        <population>1911541</population>
+      </desc>
+    </path>
+    <path d="M 480.6978 276.8546 484.0999 276.8546 508.4817 276.8546 508.4817 291.5971 488.6361 296.1332 488.6361 296.7002 485.234 298.9683 480.6978 294.9992 480.6978 289.329 480.6978 276.8546 Z" id="US.TX.251" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Johnson County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>251</fips>
+        <incits>48251</incits>
+        <id>US.TX.251</id>
+        <population>154707</population>
+      </desc>
+    </path>
+    <path d="M 488.6361 296.7002 488.6361 296.1332 508.4817 291.5971 516.42 302.9374 518.6881 301.8034 528.3274 315.4119 516.987 321.082 511.3168 313.1438 498.2754 319.381 498.2754 315.4119 493.1722 313.1438 490.3371 309.1747 493.1722 307.4736 490.3371 304.6385 487.502 304.6385 486.935 298.9683 488.6361 296.7002 Z" id="US.TX.217" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hill County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>217</fips>
+        <incits>48217</incits>
+        <id>US.TX.217</id>
+        <population>34823</population>
+      </desc>
+    </path>
+    <path d="M 481.2648 327.8863 498.2754 319.381 511.3168 313.1438 516.987 321.082 523.7912 331.8554 498.2754 344.3298 495.4403 346.0309 490.9041 342.0617 481.2648 327.8863 Z" id="US.TX.309" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>McLennan County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>309</fips>
+        <incits>48309</incits>
+        <id>US.TX.309</id>
+        <population>241481</population>
+      </desc>
+    </path>
+    <path d="M 498.2754 344.3298 523.7912 331.8554 535.1316 347.1649 522.0902 353.4021 509.6158 359.6393 498.2754 344.3298 Z" id="US.TX.145" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Falls County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>145</fips>
+        <incits>48145</incits>
+        <id>US.TX.145</id>
+        <population>17493</population>
+      </desc>
+    </path>
+    <path d="M 496.5743 372.1137 499.4094 365.3095 509.6158 359.6393 522.0902 353.4021 526.6263 359.0723 525.4923 361.3404 527.7604 364.7425 532.2965 368.7116 533.4305 373.2478 515.2859 382.8871 505.0796 387.9903 498.8424 373.2478 496.5743 372.1137 Z" id="US.TX.331" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Milam County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>331</fips>
+        <incits>48331</incits>
+        <id>US.TX.331</id>
+        <population>24167</population>
+      </desc>
+    </path>
+    <path d="M 495.4403 390.8253 505.0796 387.9903 515.2859 382.8871 517.554 383.4541 520.3891 389.1243 525.4923 393.0934 526.0593 394.7945 531.7295 396.4955 524.3582 403.8668 521.5232 406.1348 511.8838 409.537 509.0487 398.7636 502.2445 394.2275 495.4403 390.8253 Z" id="US.TX.287" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lee County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>287</fips>
+        <incits>48287</incits>
+        <id>US.TX.287</id>
+        <population>16628</population>
+      </desc>
+    </path>
+    <path d="M 478.9968 408.9699 486.935 401.0317 493.7392 390.2583 494.3063 390.2583 495.4403 390.8253 502.2445 394.2275 509.0487 398.7636 511.8838 409.537 496.5743 423.7124 478.9968 408.9699 Z" id="US.TX.021" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Bastrop County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>021</fips>
+        <incits>48021</incits>
+        <id>US.TX.021</id>
+        <population>75825</population>
+      </desc>
+    </path>
+    <path d="M 496.5743 423.7124 511.8838 409.537 521.5232 406.1348 524.3582 403.8668 530.0284 404.4338 532.8635 406.7019 533.4305 409.537 536.2656 414.6401 519.8221 431.6507 505.6466 432.2177 506.2136 431.0837 496.5743 423.7124 Z" id="US.TX.149" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Fayette County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>149</fips>
+        <incits>48149</incits>
+        <id>US.TX.149</id>
+        <population>24821</population>
+      </desc>
+    </path>
+    <path d="M 500.5435 445.2591 502.8115 434.4858 505.6466 432.2177 519.8221 431.6507 524.3582 435.0528 536.8327 447.5272 531.7295 451.4963 516.42 462.2697 514.7189 460.0016 500.5435 445.2591 Z" id="US.TX.285" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lavaca County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>285</fips>
+        <incits>48285</incits>
+        <id>US.TX.285</id>
+        <population>19581</population>
+      </desc>
+    </path>
+    <path d="M 516.42 462.2697 531.7295 451.4963 532.2965 452.6304 549.8741 467.3729 549.3071 482.6824 544.2039 482.6824 543.6369 480.9813 531.1625 480.4143 526.6263 471.342 524.3582 469.6409 522.0902 464.5378 516.42 462.2697 Z" id="US.TX.239" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jackson County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>239</fips>
+        <incits>48239</incits>
+        <id>US.TX.239</id>
+        <population>14591</population>
+      </desc>
+    </path>
+    <path d="M 521.5232 253.6068 522.0902 231.4931 545.905 231.4931 545.905 234.8952 551.0081 234.3282 550.4411 253.6068 539.1007 253.6068 521.5232 253.6068 Z" id="US.TX.085" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Collin County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>085</fips>
+        <incits>48085</incits>
+        <id>US.TX.085</id>
+        <population>854778</population>
+      </desc>
+    </path>
+    <path d="M 511.3168 276.8546 511.3168 253.6068 521.5232 253.6068 539.1007 253.6068 538.5337 262.6791 537.9667 276.8546 511.3168 276.8546 Z" id="US.TX.113" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dallas County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>113</fips>
+        <incits>48113</incits>
+        <id>US.TX.113</id>
+        <population>2480331</population>
+      </desc>
+    </path>
+    <path d="M 538.5337 262.6791 539.1007 253.6068 550.4411 253.6068 550.4411 260.9781 550.4411 262.6791 538.5337 262.6791 Z" id="US.TX.397" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Rockwall County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>397</fips>
+        <incits>48397</incits>
+        <id>US.TX.397</id>
+        <population>85245</population>
+      </desc>
+    </path>
+    <path d="M 508.4817 276.8546 511.3168 276.8546 537.9667 276.8546 539.1007 280.2567 543.0699 284.2258 542.5028 287.0609 545.905 288.762 518.6881 301.8034 516.42 302.9374 508.4817 291.5971 508.4817 276.8546 Z" id="US.TX.139" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ellis County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>139</fips>
+        <incits>48139</incits>
+        <id>US.TX.139</id>
+        <population>155976</population>
+      </desc>
+    </path>
+    <path d="M 518.6881 301.8034 545.905 288.762 550.4411 289.896 560.0804 301.2364 562.9155 301.8034 563.4825 305.2055 539.6677 316.5459 528.3274 315.4119 518.6881 301.8034 Z" id="US.TX.349" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Navarro County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>349</fips>
+        <incits>48349</incits>
+        <id>US.TX.349</id>
+        <population>48038</population>
+      </desc>
+    </path>
+    <path d="M 516.987 321.082 528.3274 315.4119 539.6677 316.5459 553.8432 337.5256 549.3071 340.3607 535.1316 347.1649 523.7912 331.8554 516.987 321.082 Z" id="US.TX.293" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Limestone County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>293</fips>
+        <incits>48293</incits>
+        <id>US.TX.293</id>
+        <population>23326</population>
+      </desc>
+    </path>
+    <path d="M 522.0902 353.4021 535.1316 347.1649 549.3071 340.3607 548.74 345.4639 553.8432 360.7734 548.173 363.6084 541.9358 372.6807 536.2656 375.5158 533.4305 373.2478 532.2965 368.7116 527.7604 364.7425 525.4923 361.3404 526.6263 359.0723 522.0902 353.4021 Z" id="US.TX.395" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Robertson County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>395</fips>
+        <incits>48395</incits>
+        <id>US.TX.395</id>
+        <population>16486</population>
+      </desc>
+    </path>
+    <path d="M 536.2656 375.5158 541.9358 372.6807 548.173 363.6084 553.8432 360.7734 557.2453 368.1446 556.6783 380.052 559.5134 388.5573 561.7815 389.1243 558.3794 394.7945 557.2453 391.3924 550.4411 391.9594 551.5751 389.6913 548.74 387.9903 547.606 383.4541 544.2039 383.4541 539.1007 378.918 534.5646 378.3509 536.2656 375.5158 Z" id="US.TX.041" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Brazos County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>041</fips>
+        <incits>48041</incits>
+        <id>US.TX.041</id>
+        <population>203164</population>
+      </desc>
+    </path>
+    <path d="M 515.2859 382.8871 533.4305 373.2478 536.2656 375.5158 534.5646 378.3509 539.1007 378.918 544.2039 383.4541 547.606 383.4541 548.74 387.9903 551.5751 389.6913 550.4411 391.9594 547.039 392.5264 539.6677 395.3615 531.7295 396.4955 526.0593 394.7945 525.4923 393.0934 520.3891 389.1243 517.554 383.4541 515.2859 382.8871 Z" id="US.TX.051" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Burleson County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>051</fips>
+        <incits>48051</incits>
+        <id>US.TX.051</id>
+        <population>17169</population>
+      </desc>
+    </path>
+    <path d="M 524.3582 403.8668 531.7295 396.4955 539.6677 395.3615 547.039 392.5264 550.4411 391.9594 557.2453 391.3924 558.3794 394.7945 561.7815 397.0626 561.7815 400.4647 558.3794 401.0317 556.1113 405.0008 558.3794 408.9699 551.0081 407.2689 533.4305 409.537 532.8635 406.7019 530.0284 404.4338 524.3582 403.8668 Z" id="US.TX.477" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Washington County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>477</fips>
+        <incits>48477</incits>
+        <id>US.TX.477</id>
+        <population>34147</population>
+      </desc>
+    </path>
+    <path d="M 533.4305 409.537 551.0081 407.2689 558.3794 408.9699 561.7815 412.3721 559.5134 415.7742 560.0804 420.8773 564.0496 423.1454 564.6166 426.5475 565.1836 433.9188 561.7815 433.3517 557.2453 431.6507 552.7092 429.9496 548.173 421.4444 544.7709 421.4444 537.3997 416.9082 536.2656 414.6401 533.4305 409.537 Z" id="US.TX.015" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Austin County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>015</fips>
+        <incits>48015</incits>
+        <id>US.TX.015</id>
+        <population>28847</population>
+      </desc>
+    </path>
+    <path d="M 519.8221 431.6507 536.2656 414.6401 537.3997 416.9082 544.7709 421.4444 548.173 421.4444 552.7092 429.9496 557.2453 431.6507 550.4411 438.4549 548.173 443.5581 532.2965 452.6304 531.7295 451.4963 536.8327 447.5272 524.3582 435.0528 519.8221 431.6507 Z" id="US.TX.089" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Colorado County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>089</fips>
+        <incits>48089</incits>
+        <id>US.TX.089</id>
+        <population>20752</population>
+      </desc>
+    </path>
+    <path d="M 532.2965 452.6304 548.173 443.5581 550.4411 438.4549 557.2453 431.6507 561.7815 433.3517 563.4825 434.4858 563.4825 440.156 566.8846 442.424 569.1527 448.0942 574.8229 451.4963 573.1219 453.1974 568.0187 457.7335 549.8741 467.3729 532.2965 452.6304 Z" id="US.TX.481" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wharton County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>481</fips>
+        <incits>48481</incits>
+        <id>US.TX.481</id>
+        <population>41216</population>
+      </desc>
+    </path>
+    <path d="M 549.3071 482.6824 549.8741 467.3729 568.0187 457.7335 573.1219 453.1974 574.8229 454.8985 574.8229 460.0016 578.225 463.4037 578.792 467.3729 585.0292 467.9399 585.5963 470.775 590.1324 474.7441 592.9675 475.8781 578.225 483.2494 553.8432 494.0227 547.039 499.1259 545.3379 497.4249 549.3071 484.3834 549.3071 482.6824 Z" id="US.TX.321" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Matagorda County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>321</fips>
+        <incits>48321</incits>
+        <id>US.TX.321</id>
+        <population>36592</population>
+      </desc>
+    </path>
+    <path d="M 550.4411 260.9781 550.4411 253.6068 551.0081 234.3282 574.2559 230.9261 573.6889 241.1324 573.6889 253.6068 569.7197 253.6068 568.0187 258.71 569.7197 261.5451 562.3485 261.5451 550.4411 260.9781 Z" id="US.TX.231" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hunt County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>231</fips>
+        <incits>48231</incits>
+        <id>US.TX.231</id>
+        <population>87048</population>
+      </desc>
+    </path>
+    <path d="M 537.9667 276.8546 538.5337 262.6791 550.4411 262.6791 550.4411 260.9781 562.3485 261.5451 562.3485 287.0609 542.5028 287.0609 543.0699 284.2258 539.1007 280.2567 537.9667 276.8546 Z" id="US.TX.257" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Kaufman County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>257</fips>
+        <incits>48257</incits>
+        <id>US.TX.257</id>
+        <population>108568</population>
+      </desc>
+    </path>
+    <path d="M 542.5028 287.0609 562.3485 287.0609 595.8026 287.0609 594.1015 293.2981 595.2356 298.9683 596.9366 301.8034 563.4825 305.7725 563.4825 305.2055 562.9155 301.8034 560.0804 301.2364 550.4411 289.896 545.905 288.762 542.5028 287.0609 Z" id="US.TX.213" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Henderson County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>213</fips>
+        <incits>48213</incits>
+        <id>US.TX.213</id>
+        <population>78675</population>
+      </desc>
+    </path>
+    <path d="M 539.6677 316.5459 563.4825 305.2055 563.4825 305.7725 563.4825 308.6076 566.3176 309.7417 567.4517 317.1129 573.1219 318.814 572.5548 322.2161 577.091 323.3501 577.658 326.1852 553.8432 337.5256 539.6677 316.5459 Z" id="US.TX.161" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Freestone County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>161</fips>
+        <incits>48161</incits>
+        <id>US.TX.161</id>
+        <population>19646</population>
+      </desc>
+    </path>
+    <path d="M 549.3071 340.3607 553.8432 337.5256 577.658 326.1852 581.6271 326.7522 580.4931 332.4224 585.0292 342.0617 581.0601 344.8968 581.0601 350.567 578.792 353.9691 568.0187 354.5361 564.0496 355.6702 557.2453 359.6393 553.8432 360.7734 548.74 345.4639 549.3071 340.3607 Z" id="US.TX.289" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Leon County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>289</fips>
+        <incits>48289</incits>
+        <id>US.TX.289</id>
+        <population>16742</population>
+      </desc>
+    </path>
+    <path d="M 553.8432 360.7734 557.2453 359.6393 564.0496 355.6702 568.0187 354.5361 578.792 353.9691 584.4622 354.5361 586.1633 357.3712 583.8952 360.2063 586.7303 363.0414 585.0292 364.7425 581.0601 364.1755 573.6889 366.4435 557.2453 368.1446 553.8432 360.7734 Z" id="US.TX.313" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Madison County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>313</fips>
+        <incits>48313</incits>
+        <id>US.TX.313</id>
+        <population>13781</population>
+      </desc>
+    </path>
+    <path d="M 557.2453 368.1446 573.6889 366.4435 575.3899 378.918 577.091 394.2275 577.091 399.3306 561.7815 400.4647 561.7815 397.0626 558.3794 394.7945 561.7815 389.1243 559.5134 388.5573 556.6783 380.052 557.2453 368.1446 Z" id="US.TX.185" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Grimes County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>185</fips>
+        <incits>48185</incits>
+        <id>US.TX.185</id>
+        <population>26859</population>
+      </desc>
+    </path>
+    <path d="M 573.6889 241.1324 574.2559 230.9261 573.6889 228.091 578.792 226.3899 593.5345 228.658 598.6377 231.4931 603.1738 232.6271 591.8335 234.3282 588.4314 233.7612 585.5963 236.5963 579.3591 237.1633 573.6889 241.1324 Z" id="US.TX.119" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Delta County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>119</fips>
+        <incits>48119</incits>
+        <id>US.TX.119</id>
+        <population>5238</population>
+      </desc>
+    </path>
+    <path d="M 573.6889 253.6068 573.6889 241.1324 579.3591 237.1633 585.5963 236.5963 588.4314 233.7612 591.8335 234.3282 603.1738 232.6271 603.1738 254.7409 584.4622 254.7409 584.4622 254.1738 573.6889 253.6068 Z" id="US.TX.223" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hopkins County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>223</fips>
+        <incits>48223</incits>
+        <id>US.TX.223</id>
+        <population>35565</population>
+      </desc>
+    </path>
+    <path d="M 573.6889 253.6068 584.4622 254.1738 584.4622 254.7409 586.1633 267.7823 578.792 264.9472 573.6889 264.9472 569.7197 261.5451 568.0187 258.71 569.7197 253.6068 573.6889 253.6068 Z" id="US.TX.379" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Rains County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>379</fips>
+        <incits>48379</incits>
+        <id>US.TX.379</id>
+        <population>11065</population>
+      </desc>
+    </path>
+    <path d="M 562.3485 261.5451 569.7197 261.5451 573.6889 264.9472 578.792 264.9472 586.1633 267.7823 588.4314 270.0504 588.4314 280.8237 595.8026 287.0609 562.3485 287.0609 562.3485 261.5451 Z" id="US.TX.467" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Van Zandt County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>467</fips>
+        <incits>48467</incits>
+        <id>US.TX.467</id>
+        <population>52481</population>
+      </desc>
+    </path>
+    <path d="M 584.4622 254.7409 603.1738 254.7409 610.5451 254.7409 611.6791 252.4728 611.6791 258.143 611.6791 275.7206 609.9781 277.4216 600.9058 274.0195 594.6686 274.0195 588.4314 270.0504 586.1633 267.7823 584.4622 254.7409 Z" id="US.TX.499" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wood County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>499</fips>
+        <incits>48499</incits>
+        <id>US.TX.499</id>
+        <population>42306</population>
+      </desc>
+    </path>
+    <path d="M 603.1738 254.7409 603.1738 232.6271 607.143 233.1942 612.8132 232.0601 612.8132 250.7717 611.6791 252.4728 610.5451 254.7409 603.1738 254.7409 Z" id="US.TX.159" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Franklin County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>159</fips>
+        <incits>48159</incits>
+        <id>US.TX.159</id>
+        <population>10660</population>
+      </desc>
+    </path>
+    <path d="M 612.8132 250.7717 612.8132 232.0601 625.2876 232.0601 629.2567 232.6271 629.2567 253.6068 622.4525 249.0707 617.9163 249.0707 612.8132 250.7717 Z" id="US.TX.449" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Titus County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>449</fips>
+        <incits>48449</incits>
+        <id>US.TX.449</id>
+        <population>32581</population>
+      </desc>
+    </path>
+    <path d="M 629.2567 232.6271 633.2258 235.4622 637.762 238.2973 638.329 259.277 634.9269 259.277 634.3599 257.576 629.2567 253.6068 629.2567 232.6271 Z" id="US.TX.343" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Morris County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>343</fips>
+        <incits>48343</incits>
+        <id>US.TX.343</id>
+        <population>12834</population>
+      </desc>
+    </path>
+    <path d="M 611.6791 258.143 611.6791 252.4728 612.8132 250.7717 617.9163 249.0707 622.4525 249.0707 629.2567 253.6068 634.3599 257.576 611.6791 258.143 Z" id="US.TX.063" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Camp County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>063</fips>
+        <incits>48063</incits>
+        <id>US.TX.063</id>
+        <population>12413</population>
+      </desc>
+    </path>
+    <path d="M 637.762 238.2973 640.0301 239.4314 647.9683 237.1633 652.5045 239.4314 660.4427 239.9984 661.0097 237.1633 669.515 237.1633 670.6491 238.2973 670.6491 259.277 638.329 259.277 637.762 238.2973 Z" id="US.TX.067" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cass County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>067</fips>
+        <incits>48067</incits>
+        <id>US.TX.067</id>
+        <population>30331</population>
+      </desc>
+    </path>
+    <path d="M 611.6791 258.143 634.3599 257.576 634.9269 259.277 635.4939 263.8132 635.4939 271.1844 632.6588 271.1844 629.2567 274.5865 620.1844 277.4216 612.2461 276.8546 611.6791 275.7206 611.6791 258.143 Z" id="US.TX.459" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Upshur County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>459</fips>
+        <incits>48459</incits>
+        <id>US.TX.459</id>
+        <population>39884</population>
+      </desc>
+    </path>
+    <path d="M 634.9269 259.277 638.329 259.277 670.6491 259.277 670.6491 269.4833 664.9789 266.6483 663.8448 268.9163 657.6076 266.0812 652.5045 268.9163 645.7002 268.9163 635.4939 263.8132 634.9269 259.277 Z" id="US.TX.315" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Marion County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>315</fips>
+        <incits>48315</incits>
+        <id>US.TX.315</id>
+        <population>10235</population>
+      </desc>
+    </path>
+    <path d="M 635.4939 263.8132 645.7002 268.9163 652.5045 268.9163 657.6076 266.0812 663.8448 268.9163 664.9789 266.6483 670.6491 269.4833 670.6491 285.3599 654.2055 288.195 647.4013 285.3599 642.2981 284.7929 638.329 284.7929 635.4939 281.9578 635.4939 263.8132 Z" id="US.TX.203" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Harrison County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>203</fips>
+        <incits>48203</incits>
+        <id>US.TX.203</id>
+        <population>66886</population>
+      </desc>
+    </path>
+    <path d="M 620.1844 286.4939 620.1844 277.4216 629.2567 274.5865 632.6588 271.1844 635.4939 271.1844 635.4939 281.9578 638.329 284.7929 642.2981 284.7929 637.762 286.4939 620.1844 286.4939 Z" id="US.TX.183" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Gregg County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>183</fips>
+        <incits>48183</incits>
+        <id>US.TX.183</id>
+        <population>123024</population>
+      </desc>
+    </path>
+    <path d="M 588.4314 270.0504 594.6686 274.0195 600.9058 274.0195 609.9781 277.4216 611.6791 275.7206 612.2461 276.8546 620.1844 277.4216 620.1844 286.4939 620.1844 298.9683 595.2356 298.9683 594.1015 293.2981 595.8026 287.0609 588.4314 280.8237 588.4314 270.0504 Z" id="US.TX.423" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Smith County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>423</fips>
+        <incits>48423</incits>
+        <id>US.TX.423</id>
+        <population>216080</population>
+      </desc>
+    </path>
+    <path d="M 620.1844 286.4939 637.762 286.4939 642.2981 284.7929 647.4013 285.3599 644.5662 291.5971 642.2981 294.9992 640.5971 301.8034 641.1641 307.4736 645.7002 307.4736 645.7002 310.3087 648.5353 314.2778 623.0195 314.2778 620.1844 314.2778 620.1844 298.9683 620.1844 286.4939 Z" id="US.TX.401" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Rusk County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>401</fips>
+        <incits>48401</incits>
+        <id>US.TX.401</id>
+        <population>53622</population>
+      </desc>
+    </path>
+    <path d="M 595.2356 298.9683 620.1844 298.9683 620.1844 314.2778 623.0195 314.2778 620.7514 317.1129 621.3184 322.7831 623.5865 328.4533 626.9886 331.2884 619.6174 336.3916 614.5142 334.1235 613.9472 331.2884 610.5451 327.8863 604.8749 327.8863 604.8749 324.4842 595.8026 314.2778 596.9366 301.8034 595.2356 298.9683 Z" id="US.TX.073" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cherokee County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>073</fips>
+        <incits>48073</incits>
+        <id>US.TX.073</id>
+        <population>50878</population>
+      </desc>
+    </path>
+    <path d="M 563.4825 305.7725 596.9366 301.8034 595.8026 314.2778 604.8749 324.4842 604.8749 327.8863 585.0292 330.1543 580.4931 332.4224 581.6271 326.7522 577.658 326.1852 577.091 323.3501 572.5548 322.2161 573.1219 318.814 567.4517 317.1129 566.3176 309.7417 563.4825 308.6076 563.4825 305.7725 Z" id="US.TX.001" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Anderson County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>001</fips>
+        <incits>48001</incits>
+        <id>US.TX.001</id>
+        <population>57938</population>
+      </desc>
+    </path>
+    <path d="M 623.0195 314.2778 648.5353 314.2778 650.8034 319.381 651.3704 324.4842 655.9066 327.8863 656.4736 332.4224 655.3396 339.7937 655.3396 347.1649 651.9374 343.1958 649.6694 342.6288 646.2673 337.5256 629.2567 333.5565 626.9886 331.2884 623.5865 328.4533 621.3184 322.7831 620.7514 317.1129 623.0195 314.2778 Z" id="US.TX.347" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Nacogdoches County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>347</fips>
+        <incits>48347</incits>
+        <id>US.TX.347</id>
+        <population>65330</population>
+      </desc>
+    </path>
+    <path d="M 645.7002 307.4736 671.7831 306.9066 674.6182 310.3087 679.1543 313.1438 683.6905 322.2161 681.4224 327.8863 678.0203 326.7522 673.4842 329.0203 667.814 326.1852 651.3704 324.4842 650.8034 319.381 648.5353 314.2778 645.7002 310.3087 645.7002 307.4736 Z" id="US.TX.419" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Shelby County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>419</fips>
+        <incits>48419</incits>
+        <id>US.TX.419</id>
+        <population>25792</population>
+      </desc>
+    </path>
+    <path d="M 673.4842 329.0203 678.0203 326.7522 681.4224 327.8863 687.6596 332.9894 690.4947 339.7937 689.3607 342.6288 692.7628 344.8968 693.8968 349.433 676.8863 350.567 670.6491 352.2681 670.6491 337.5256 673.4842 334.6905 673.4842 329.0203 Z" id="US.TX.403" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Sabine County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>403</fips>
+        <incits>48403</incits>
+        <id>US.TX.403</id>
+        <population>10361</population>
+      </desc>
+    </path>
+    <path d="M 651.3704 324.4842 667.814 326.1852 673.4842 329.0203 673.4842 334.6905 670.6491 337.5256 670.6491 352.2681 666.1129 353.9691 655.3396 347.1649 655.3396 339.7937 656.4736 332.4224 655.9066 327.8863 651.3704 324.4842 Z" id="US.TX.405" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>San Augustine County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>405</fips>
+        <incits>48405</incits>
+        <id>US.TX.405</id>
+        <population>8769</population>
+      </desc>
+    </path>
+    <path d="M 580.4931 332.4224 585.0292 330.1543 604.8749 327.8863 610.5451 327.8863 613.9472 331.2884 614.5142 334.1235 619.6174 336.3916 621.8855 338.6596 596.3696 356.2372 586.7303 363.0414 583.8952 360.2063 586.1633 357.3712 584.4622 354.5361 578.792 353.9691 581.0601 350.567 581.0601 344.8968 585.0292 342.0617 580.4931 332.4224 Z" id="US.TX.225" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Houston County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>225</fips>
+        <incits>48225</incits>
+        <id>US.TX.225</id>
+        <population>22911</population>
+      </desc>
+    </path>
+    <path d="M 619.6174 336.3916 626.9886 331.2884 629.2567 333.5565 646.2673 337.5256 649.6694 342.6288 651.9374 343.1958 655.3396 347.1649 666.1129 353.9691 648.5353 357.3712 642.8652 356.2372 633.7929 353.4021 628.1227 351.134 624.1535 341.4947 621.8855 338.6596 619.6174 336.3916 Z" id="US.TX.005" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Angelina County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>005</fips>
+        <incits>48005</incits>
+        <id>US.TX.005</id>
+        <population>87441</population>
+      </desc>
+    </path>
+    <path d="M 596.3696 356.2372 621.8855 338.6596 624.1535 341.4947 628.1227 351.134 623.0195 356.8042 609.411 368.7116 606.576 364.1755 602.0398 366.4435 599.2047 367.0106 596.3696 362.4744 596.3696 356.2372 Z" id="US.TX.455" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Trinity County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>455</fips>
+        <incits>48455</incits>
+        <id>US.TX.455</id>
+        <population>14393</population>
+      </desc>
+    </path>
+    <path d="M 573.6889 366.4435 581.0601 364.1755 585.0292 364.7425 586.7303 363.0414 596.3696 356.2372 596.3696 362.4744 599.2047 367.0106 602.0398 366.4435 600.3387 385.7222 587.8643 385.1552 575.3899 378.918 573.6889 366.4435 Z" id="US.TX.471" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Walker County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>471</fips>
+        <incits>48471</incits>
+        <id>US.TX.471</id>
+        <population>68817</population>
+      </desc>
+    </path>
+    <path d="M 676.8863 350.567 693.8968 349.433 696.1649 353.9691 699 357.9383 692.1958 376.0829 687.6596 381.753 688.2266 389.1243 685.3916 394.2275 688.7937 397.0626 688.7937 399.3306 678.0203 399.3306 679.7214 361.9074 676.8863 350.567 Z" id="US.TX.351" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Newton County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>351</fips>
+        <incits>48351</incits>
+        <id>US.TX.351</id>
+        <population>14140</population>
+      </desc>
+    </path>
+    <path d="M 648.5353 357.3712 666.1129 353.9691 670.6491 352.2681 676.8863 350.567 679.7214 361.9074 678.0203 399.3306 666.6799 399.3306 668.381 393.6604 666.6799 390.2583 668.948 384.0211 667.814 381.186 670.082 378.3509 666.6799 376.0829 665.5459 371.5467 663.2778 369.8457 662.1438 363.0414 659.8757 358.5053 654.2055 356.8042 648.5353 357.3712 Z" id="US.TX.241" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jasper County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>241</fips>
+        <incits>48241</incits>
+        <id>US.TX.241</id>
+        <population>35649</population>
+      </desc>
+    </path>
+    <path d="M 642.8652 356.2372 648.5353 357.3712 654.2055 356.8042 659.8757 358.5053 662.1438 363.0414 663.2778 369.8457 665.5459 371.5467 666.6799 376.0829 670.082 378.3509 667.814 381.186 668.948 384.0211 643.4322 384.5881 637.762 358.5053 642.8652 356.2372 Z" id="US.TX.457" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Tyler County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>457</fips>
+        <incits>48457</incits>
+        <id>US.TX.457</id>
+        <population>21464</population>
+      </desc>
+    </path>
+    <path d="M 609.411 368.7116 623.0195 356.8042 628.1227 351.134 633.7929 353.4021 642.8652 356.2372 637.762 358.5053 643.4322 384.5881 643.9992 386.2892 633.7929 386.2892 628.1227 386.2892 628.6897 383.4541 621.8855 381.753 616.7823 376.0829 611.6791 374.3818 612.2461 370.4127 609.411 368.7116 Z" id="US.TX.373" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Polk County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>373</fips>
+        <incits>48373</incits>
+        <id>US.TX.373</id>
+        <population>45790</population>
+      </desc>
+    </path>
+    <path d="M 600.3387 385.7222 602.0398 366.4435 606.576 364.1755 609.411 368.7116 612.2461 370.4127 611.6791 374.3818 616.7823 376.0829 621.8855 381.753 628.6897 383.4541 628.1227 386.2892 611.1121 394.2275 603.1738 390.8253 600.3387 385.7222 Z" id="US.TX.407" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>San Jacinto County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>407</fips>
+        <incits>48407</incits>
+        <id>US.TX.407</id>
+        <population>26856</population>
+      </desc>
+    </path>
+    <path d="M 666.6799 399.3306 678.0203 399.3306 688.7937 399.3306 688.7937 408.9699 684.2575 412.9391 680.2884 419.7433 680.2884 413.5061 676.3193 412.9391 667.814 407.2689 666.6799 403.2998 666.6799 399.3306 Z" id="US.TX.361" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Orange County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>361</fips>
+        <incits>48361</incits>
+        <id>US.TX.361</id>
+        <population>82957</population>
+      </desc>
+    </path>
+    <path d="M 649.1024 406.1348 657.0406 406.1348 658.1747 403.2998 661.5768 402.1657 666.6799 403.2998 667.814 407.2689 676.3193 412.9391 680.2884 413.5061 680.2884 419.7433 676.8863 422.0114 681.9894 429.3826 672.9171 429.3826 665.5459 431.0837 654.2055 435.6198 653.6385 418.0422 649.1024 418.0422 649.1024 406.1348 Z" id="US.TX.245" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jefferson County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>245</fips>
+        <incits>48245</incits>
+        <id>US.TX.245</id>
+        <population>252358</population>
+      </desc>
+    </path>
+    <path d="M 633.7929 386.2892 643.9992 386.2892 643.4322 384.5881 668.948 384.0211 666.6799 390.2583 668.381 393.6604 666.6799 399.3306 666.6799 403.2998 661.5768 402.1657 658.1747 403.2998 657.0406 406.1348 649.1024 406.1348 641.1641 406.1348 633.7929 386.2892 Z" id="US.TX.199" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hardin County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>199</fips>
+        <incits>48199</incits>
+        <id>US.TX.199</id>
+        <population>55417</population>
+      </desc>
+    </path>
+    <path d="M 205.1267 324.4842 205.1267 301.2364 232.3436 301.2364 232.3436 324.4842 206.8278 324.4842 205.1267 324.4842 Z" id="US.TX.135" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ector County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>135</fips>
+        <incits>48135</incits>
+        <id>US.TX.135</id>
+        <population>149378</population>
+      </desc>
+    </path>
+    <path d="M 232.3436 324.4842 232.3436 301.2364 236.3128 301.2364 259.5605 301.2364 259.5605 324.4842 232.3436 324.4842 Z" id="US.TX.329" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Midland County</name>
+        <stateAbbrev>TX</stateAbbrev>
+        <state>Texas</state>
+        <fips>329</fips>
+        <incits>48329</incits>
+        <id>US.TX.329</id>
+        <population>151468</population>
+      </desc>
+    </path>
+  </g>
+</svg>

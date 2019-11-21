@@ -1,0 +1,1160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="kansas">
+    <path d="M 1.9575 420.8532 49.8313 421.8107 50.7888 454.3649 46.9588 454.3649 1.9575 454.3649 1.9575 420.8532 Z" id="US.KS.187" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Stanton County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>187</fips>
+        <incits>20187</incits>
+        <id>US.KS.187</id>
+        <population>2194</population>
+      </desc>
+    </path>
+    <path d="M 408.8848 380.6392 440.4815 380.6392 460.5885 380.6392 460.5885 388.299 460.5885 404.5761 408.8848 404.5761 408.8848 380.6392 Z" id="US.KS.079" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Harvey County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>079</fips>
+        <incits>20079</incits>
+        <id>US.KS.079</id>
+        <population>34741</population>
+      </desc>
+    </path>
+    <path d="M 387.8203 348.085 387.8203 339.4678 440.4815 339.4678 440.4815 380.6392 408.8848 380.6392 388.7778 380.6392 387.8203 348.085 Z" id="US.KS.113" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>McPherson County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>113</fips>
+        <incits>20113</incits>
+        <id>US.KS.113</id>
+        <population>29569</population>
+      </desc>
+    </path>
+    <path d="M 399.31 421.8107 409.8422 421.8107 408.8848 404.5761 460.5885 404.5761 460.5885 445.7476 399.31 445.7476 399.31 421.8107 Z" id="US.KS.173" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Sedgwick County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>173</fips>
+        <incits>20173</incits>
+        <id>US.KS.173</id>
+        <population>505415</population>
+      </desc>
+    </path>
+    <path d="M 348.5638 454.3649 399.31 454.3649 399.31 490.749 348.5638 490.749 348.5638 454.3649 Z" id="US.KS.077" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Harper County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>077</fips>
+        <incits>20077</incits>
+        <id>US.KS.077</id>
+        <population>5860</population>
+      </desc>
+    </path>
+    <path d="M 337.0741 380.6392 388.7778 380.6392 408.8848 380.6392 408.8848 404.5761 409.8422 421.8107 399.31 421.8107 337.0741 421.8107 337.0741 413.1934 337.0741 380.6392 Z" id="US.KS.155" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Reno County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>155</fips>
+        <incits>20155</incits>
+        <id>US.KS.155</id>
+        <population>64190</population>
+      </desc>
+    </path>
+    <path d="M 655.9136 458.1948 698.0425 459.1523 698.0425 490.749 655.9136 490.749 655.9136 458.1948 Z" id="US.KS.021" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cherokee County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>021</fips>
+        <incits>20021</incits>
+        <id>US.KS.021</id>
+        <population>20978</population>
+      </desc>
+    </path>
+    <path d="M 123.5569 249.465 124.5144 209.251 177.1756 209.251 176.2181 249.465 125.4719 249.465 123.5569 249.465 Z" id="US.KS.039" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Decatur County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>039</fips>
+        <incits>20039</incits>
+        <id>US.KS.039</id>
+        <population>2930</population>
+      </desc>
+    </path>
+    <path d="M 230.7942 331.808 231.7517 290.6365 282.4979 290.6365 283.4554 290.6365 283.4554 330.8505 232.7092 331.808 230.7942 331.808 Z" id="US.KS.051" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ellis County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>051</fips>
+        <incits>20051</incits>
+        <id>US.KS.051</id>
+        <population>29061</population>
+      </desc>
+    </path>
+    <path d="M 654.9561 393.0864 655.9136 360.5322 699 360.5322 699 393.0864 654.9561 393.0864 Z" id="US.KS.107" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Linn County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>107</fips>
+        <incits>20107</incits>
+        <id>US.KS.107</id>
+        <population>9516</population>
+      </desc>
+    </path>
+    <path d="M 335.1591 282.0192 335.1591 249.465 387.8203 249.465 387.8203 274.3594 387.8203 282.0192 335.1591 282.0192 Z" id="US.KS.123" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Mitchell County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>123</fips>
+        <incits>20123</incits>
+        <id>US.KS.123</id>
+        <population>6378</population>
+      </desc>
+    </path>
+    <path d="M 588.8903 241.8052 588.8903 209.251 631.0192 209.251 631.0192 241.8052 609.9547 241.8052 588.8903 241.8052 Z" id="US.KS.013" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Brown County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>013</fips>
+        <incits>20013</incits>
+        <id>US.KS.013</id>
+        <population>9997</population>
+      </desc>
+    </path>
+    <path d="M 608.9973 263.8272 609.9547 241.8052 631.0192 241.8052 652.0837 241.8052 657.8285 245.6351 653.0412 252.3374 665.4883 263.8272 645.3813 263.8272 608.9973 263.8272 Z" id="US.KS.005" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Atchison County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>005</fips>
+        <incits>20005</incits>
+        <id>US.KS.005</id>
+        <population>16749</population>
+      </desc>
+    </path>
+    <path d="M 280.583 249.465 280.583 209.251 334.2016 209.251 333.2442 249.465 283.4554 249.465 280.583 249.465 Z" id="US.KS.183" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Smith County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>183</fips>
+        <incits>20183</incits>
+        <id>US.KS.183</id>
+        <population>3706</population>
+      </desc>
+    </path>
+    <path d="M 440.4815 290.6365 440.4815 274.3594 440.4815 249.465 478.7805 249.465 478.7805 282.0192 478.7805 290.6365 440.4815 290.6365 Z" id="US.KS.027" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Clay County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>027</fips>
+        <incits>20027</incits>
+        <id>US.KS.027</id>
+        <population>8406</population>
+      </desc>
+    </path>
+    <path d="M 228.8793 209.251 280.583 209.251 280.583 249.465 230.7942 249.465 227.9218 249.465 228.8793 209.251 Z" id="US.KS.147" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Phillips County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>147</fips>
+        <incits>20147</incits>
+        <id>US.KS.147</id>
+        <population>5540</population>
+      </desc>
+    </path>
+    <path d="M 481.6529 339.4678 481.6529 320.3182 485.4829 315.5309 521.8669 314.5734 532.3992 319.3608 535.2716 327.0206 535.2716 348.085 492.1852 347.1276 481.6529 347.1276 481.6529 339.4678 Z" id="US.KS.127" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Morris County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>127</fips>
+        <incits>20127</incits>
+        <id>US.KS.127</id>
+        <population>5741</population>
+      </desc>
+    </path>
+    <path d="M 48.8738 372.0219 88.1303 372.0219 90.0453 372.0219 90.0453 413.1934 91.0027 421.8107 49.8313 421.8107 48.8738 413.1934 48.8738 372.0219 Z" id="US.KS.093" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Kearny County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>093</fips>
+        <incits>20093</incits>
+        <id>US.KS.093</id>
+        <population>3923</population>
+      </desc>
+    </path>
+    <path d="M 654.9561 393.0864 699 393.0864 698.0425 427.5556 653.9986 427.5556 653.9986 421.8107 654.9561 393.0864 Z" id="US.KS.011" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Bourbon County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>011</fips>
+        <incits>20011</incits>
+        <id>US.KS.011</id>
+        <population>14852</population>
+      </desc>
+    </path>
+    <path d="M 518.9945 462.0247 518.9945 445.7476 518.9945 433.3004 572.6132 434.2579 572.6132 454.3649 572.6132 462.0247 518.9945 462.0247 Z" id="US.KS.049" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Elk County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>049</fips>
+        <incits>20049</incits>
+        <id>US.KS.049</id>
+        <population>2655</population>
+      </desc>
+    </path>
+    <path d="M 172.3882 404.5761 172.3882 396.9163 172.3882 372.0219 232.7092 372.0219 233.6667 388.299 233.6667 404.5761 172.3882 404.5761 Z" id="US.KS.083" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hodgeman County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>083</fips>
+        <incits>20083</incits>
+        <id>US.KS.083</id>
+        <population>1950</population>
+      </desc>
+    </path>
+    <path d="M 132.1742 445.7476 173.3457 445.7476 183.8779 445.7476 184.8354 454.3649 184.8354 490.749 134.0892 490.749 132.1742 454.3649 132.1742 445.7476 Z" id="US.KS.119" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Meade County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>119</fips>
+        <incits>20119</incits>
+        <id>US.KS.119</id>
+        <population>4343</population>
+      </desc>
+    </path>
+    <path d="M 613.7846 393.0864 614.7421 360.5322 655.9136 360.5322 654.9561 393.0864 613.7846 393.0864 Z" id="US.KS.003" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Anderson County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>003</fips>
+        <incits>20003</incits>
+        <id>US.KS.003</id>
+        <population>7897</population>
+      </desc>
+    </path>
+    <path d="M 233.6667 388.299 254.7311 388.299 254.7311 396.9163 285.3704 396.9163 286.3278 413.1934 286.3278 421.8107 234.6241 421.8107 233.6667 404.5761 233.6667 388.299 Z" id="US.KS.047" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Edwards County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>047</fips>
+        <incits>20047</incits>
+        <id>US.KS.047</id>
+        <population>2945</population>
+      </desc>
+    </path>
+    <path d="M 46.0014 330.8505 54.6187 330.8505 87.1728 330.8505 88.1303 372.0219 48.8738 372.0219 46.9588 372.0219 46.0014 330.8505 Z" id="US.KS.203" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wichita County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>203</fips>
+        <incits>20203</incits>
+        <id>US.KS.203</id>
+        <population>2192</population>
+      </desc>
+    </path>
+    <path d="M 336.1166 372.0219 336.1166 348.085 387.8203 348.085 388.7778 380.6392 337.0741 380.6392 336.1166 372.0219 Z" id="US.KS.159" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Rice County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>159</fips>
+        <incits>20159</incits>
+        <id>US.KS.159</id>
+        <population>10011</population>
+      </desc>
+    </path>
+    <path d="M 63.2359 290.6365 63.2359 249.465 123.5569 249.465 125.4719 249.465 125.4719 290.6365 116.8546 290.6365 63.2359 290.6365 Z" id="US.KS.193" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Thomas County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>193</fips>
+        <incits>20193</incits>
+        <id>US.KS.193</id>
+        <population>7948</population>
+      </desc>
+    </path>
+    <path d="M 285.3704 396.9163 294.9451 396.9163 294.9451 372.0219 336.1166 372.0219 337.0741 380.6392 337.0741 413.1934 286.3278 413.1934 285.3704 396.9163 Z" id="US.KS.185" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Stafford County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>185</fips>
+        <incits>20185</incits>
+        <id>US.KS.185</id>
+        <population>4359</population>
+      </desc>
+    </path>
+    <path d="M 176.2181 249.465 177.1756 209.251 228.8793 209.251 227.9218 249.465 178.1331 249.465 176.2181 249.465 Z" id="US.KS.137" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Norton County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>137</fips>
+        <incits>20137</incits>
+        <id>US.KS.137</id>
+        <population>5622</population>
+      </desc>
+    </path>
+    <path d="M 49.8313 421.8107 91.0027 421.8107 91.0027 454.3649 50.7888 454.3649 49.8313 421.8107 Z" id="US.KS.067" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Grant County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>067</fips>
+        <incits>20067</incits>
+        <id>US.KS.067</id>
+        <population>7950</population>
+      </desc>
+    </path>
+    <path d="M 518.9945 490.749 518.9945 462.0247 572.6132 462.0247 571.6557 490.749 518.9945 490.749 Z" id="US.KS.019" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Chautauqua County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>019</fips>
+        <incits>20019</incits>
+        <id>US.KS.019</id>
+        <population>3552</population>
+      </desc>
+    </path>
+    <path d="M 1 290.6365 54.6187 290.6365 54.6187 330.8505 46.0014 330.8505 1.9575 331.808 1 290.6365 Z" id="US.KS.199" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wallace County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>199</fips>
+        <incits>20199</incits>
+        <id>US.KS.199</id>
+        <population>1569</population>
+      </desc>
+    </path>
+    <path d="M 230.7942 290.6365 230.7942 249.465 280.583 249.465 283.4554 249.465 282.4979 290.6365 231.7517 290.6365 230.7942 290.6365 Z" id="US.KS.163" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Rooks County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>163</fips>
+        <incits>20163</incits>
+        <id>US.KS.163</id>
+        <population>5190</population>
+      </desc>
+    </path>
+    <path d="M 564.9534 249.465 588.8903 249.465 588.8903 241.8052 609.9547 241.8052 608.9973 263.8272 607.0823 282.9767 564.9534 282.9767 564.9534 249.465 Z" id="US.KS.085" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jackson County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>085</fips>
+        <incits>20085</incits>
+        <id>US.KS.085</id>
+        <population>13366</population>
+      </desc>
+    </path>
+    <path d="M 1.9575 454.3649 46.9588 454.3649 47.9163 490.749 1.9575 490.749 1.9575 454.3649 Z" id="US.KS.129" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Morton County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>129</fips>
+        <incits>20129</incits>
+        <id>US.KS.129</id>
+        <population>3143</population>
+      </desc>
+    </path>
+    <path d="M 1.9575 372.0219 46.9588 372.0219 48.8738 372.0219 48.8738 413.1934 49.8313 421.8107 1.9575 420.8532 1.9575 372.0219 Z" id="US.KS.075" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hamilton County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>075</fips>
+        <incits>20075</incits>
+        <id>US.KS.075</id>
+        <population>2609</population>
+      </desc>
+    </path>
+    <path d="M 521.8669 314.5734 521.8669 299.2538 532.3992 299.2538 532.3992 286.8066 546.7613 282.9767 561.1235 284.8916 564.9534 291.594 573.5706 293.5089 573.5706 315.5309 573.5706 327.0206 535.2716 327.0206 532.3992 319.3608 521.8669 314.5734 Z" id="US.KS.197" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wabaunsee County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>197</fips>
+        <incits>20197</incits>
+        <id>US.KS.197</id>
+        <population>7051</population>
+      </desc>
+    </path>
+    <path d="M 478.7805 282.0192 478.7805 249.465 493.1427 249.465 514.2071 249.465 500.8025 264.7846 508.4623 275.3169 521.8669 286.8066 532.3992 286.8066 532.3992 299.2538 521.8669 299.2538 521.8669 296.3813 489.3128 294.4664 489.3128 282.0192 478.7805 282.0192 Z" id="US.KS.161" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Riley County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>161</fips>
+        <incits>20161</incits>
+        <id>US.KS.161</id>
+        <population>75394</population>
+      </desc>
+    </path>
+    <path d="M 172.3882 396.9163 172.3882 404.5761 173.3457 445.7476 132.1742 445.7476 132.1742 421.8107 131.2167 396.9163 172.3882 396.9163 Z" id="US.KS.069" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Gray County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>069</fips>
+        <incits>20069</incits>
+        <id>US.KS.069</id>
+        <population>6009</population>
+      </desc>
+    </path>
+    <path d="M 387.8203 241.8052 387.8203 209.251 440.4815 209.251 440.4815 241.8052 387.8203 241.8052 Z" id="US.KS.157" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Republic County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>157</fips>
+        <incits>20157</incits>
+        <id>US.KS.157</id>
+        <population>4820</population>
+      </desc>
+    </path>
+    <path d="M 61.321 249.465 61.321 209.251 124.5144 209.251 123.5569 249.465 63.2359 249.465 61.321 249.465 Z" id="US.KS.153" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Rawlins County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>153</fips>
+        <incits>20153</incits>
+        <id>US.KS.153</id>
+        <population>2589</population>
+      </desc>
+    </path>
+    <path d="M 284.4129 330.8505 335.1591 331.808 336.1166 348.085 336.1166 372.0219 294.9451 372.0219 284.4129 372.0219 284.4129 364.3621 284.4129 330.8505 Z" id="US.KS.009" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Barton County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>009</fips>
+        <incits>20009</incits>
+        <id>US.KS.009</id>
+        <population>27509</population>
+      </desc>
+    </path>
+    <path d="M 460.5885 445.7476 518.9945 445.7476 518.9945 462.0247 518.9945 490.749 461.546 490.749 460.5885 445.7476 Z" id="US.KS.035" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cowley County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>035</fips>
+        <incits>20035</incits>
+        <id>US.KS.035</id>
+        <population>36204</population>
+      </desc>
+    </path>
+    <path d="M 439.524 306.9136 440.4815 290.6365 478.7805 290.6365 478.7805 304.9986 485.4829 315.5309 481.6529 320.3182 481.6529 339.4678 440.4815 339.4678 439.524 306.9136 Z" id="US.KS.041" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dickinson County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>041</fips>
+        <incits>20041</incits>
+        <id>US.KS.041</id>
+        <population>19609</population>
+      </desc>
+    </path>
+    <path d="M 283.4554 249.465 333.2442 249.465 335.1591 249.465 335.1591 282.0192 335.1591 290.6365 283.4554 290.6365 282.4979 290.6365 283.4554 249.465 Z" id="US.KS.141" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Osborne County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>141</fips>
+        <incits>20141</incits>
+        <id>US.KS.141</id>
+        <population>3818</population>
+      </desc>
+    </path>
+    <path d="M 54.6187 330.8505 54.6187 290.6365 63.2359 290.6365 116.8546 290.6365 116.8546 330.8505 87.1728 330.8505 54.6187 330.8505 Z" id="US.KS.109" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Logan County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>109</fips>
+        <incits>20109</incits>
+        <id>US.KS.109</id>
+        <population>2798</population>
+      </desc>
+    </path>
+    <path d="M 612.8272 421.8107 613.7846 393.0864 654.9561 393.0864 653.9986 421.8107 612.8272 421.8107 Z" id="US.KS.001" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Allen County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>001</fips>
+        <incits>20001</incits>
+        <id>US.KS.001</id>
+        <population>13124</population>
+      </desc>
+    </path>
+    <path d="M 518.9945 433.3004 519.952 388.299 535.2716 388.299 535.2716 380.6392 572.6132 380.6392 572.6132 393.0864 572.6132 421.8107 572.6132 434.2579 518.9945 433.3004 Z" id="US.KS.073" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Greenwood County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>073</fips>
+        <incits>20073</incits>
+        <id>US.KS.073</id>
+        <population>6424</population>
+      </desc>
+    </path>
+    <path d="M 615.6996 297.3388 630.0617 300.2112 645.3813 298.2963 647.2963 304.9986 656.8711 304.9986 656.8711 327.0206 615.6996 327.0206 615.6996 315.5309 615.6996 297.3388 Z" id="US.KS.045" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Douglas County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>045</fips>
+        <incits>20045</incits>
+        <id>US.KS.045</id>
+        <population>114322</population>
+      </desc>
+    </path>
+    <path d="M 232.7092 364.3621 284.4129 364.3621 284.4129 372.0219 294.9451 372.0219 294.9451 396.9163 285.3704 396.9163 254.7311 396.9163 254.7311 388.299 233.6667 388.299 232.7092 372.0219 232.7092 364.3621 Z" id="US.KS.145" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pawnee County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>145</fips>
+        <incits>20145</incits>
+        <id>US.KS.145</id>
+        <population>6971</population>
+      </desc>
+    </path>
+    <path d="M 573.5706 355.7449 614.7421 355.7449 614.7421 360.5322 613.7846 393.0864 572.6132 393.0864 572.6132 380.6392 573.5706 355.7449 Z" id="US.KS.031" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Coffey County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>031</fips>
+        <incits>20031</incits>
+        <id>US.KS.031</id>
+        <population>8412</population>
+      </desc>
+    </path>
+    <path d="M 460.5885 388.299 490.2702 388.299 519.952 388.299 518.9945 433.3004 518.9945 445.7476 460.5885 445.7476 460.5885 404.5761 460.5885 388.299 Z" id="US.KS.015" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Butler County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>015</fips>
+        <incits>20015</incits>
+        <id>US.KS.015</id>
+        <population>65803</population>
+      </desc>
+    </path>
+    <path d="M 440.4815 209.251 493.1427 209.251 493.1427 249.465 478.7805 249.465 440.4815 249.465 440.4815 241.8052 440.4815 209.251 Z" id="US.KS.201" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Washington County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>201</fips>
+        <incits>20201</incits>
+        <id>US.KS.201</id>
+        <population>5629</population>
+      </desc>
+    </path>
+    <path d="M 535.2716 380.6392 535.2716 348.085 535.2716 327.0206 573.5706 327.0206 573.5706 355.7449 572.6132 380.6392 535.2716 380.6392 Z" id="US.KS.111" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lyon County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>111</fips>
+        <incits>20111</incits>
+        <id>US.KS.111</id>
+        <population>33510</population>
+      </desc>
+    </path>
+    <path d="M 631.0192 209.251 658.786 221.6982 673.1481 224.5706 657.8285 245.6351 652.0837 241.8052 631.0192 241.8052 631.0192 209.251 Z" id="US.KS.043" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Doniphan County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>043</fips>
+        <incits>20043</incits>
+        <id>US.KS.043</id>
+        <population>7851</population>
+      </desc>
+    </path>
+    <path d="M 129.3018 330.8505 170.4733 330.8505 170.4733 372.0219 129.3018 372.0219 129.3018 330.8505 Z" id="US.KS.101" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lane County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>101</fips>
+        <incits>20101</incits>
+        <id>US.KS.101</id>
+        <population>1720</population>
+      </desc>
+    </path>
+    <path d="M 478.7805 290.6365 478.7805 282.0192 489.3128 282.0192 489.3128 294.4664 521.8669 296.3813 521.8669 299.2538 521.8669 314.5734 485.4829 315.5309 478.7805 304.9986 478.7805 290.6365 Z" id="US.KS.061" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Geary County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>061</fips>
+        <incits>20061</incits>
+        <id>US.KS.061</id>
+        <population>37384</population>
+      </desc>
+    </path>
+    <path d="M 183.8779 445.7476 235.5816 446.7051 236.5391 454.3649 236.5391 490.749 184.8354 490.749 184.8354 454.3649 183.8779 445.7476 Z" id="US.KS.025" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Clark County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>025</fips>
+        <incits>20025</incits>
+        <id>US.KS.025</id>
+        <population>2193</population>
+      </desc>
+    </path>
+    <path d="M 1 249.465 61.321 249.465 63.2359 249.465 63.2359 290.6365 54.6187 290.6365 1 290.6365 1 249.465 Z" id="US.KS.181" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Sherman County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>181</fips>
+        <incits>20181</incits>
+        <id>US.KS.181</id>
+        <population>6115</population>
+      </desc>
+    </path>
+    <path d="M 514.2071 249.465 545.8038 249.465 564.9534 249.465 564.9534 282.9767 564.9534 291.594 561.1235 284.8916 546.7613 282.9767 532.3992 286.8066 521.8669 286.8066 508.4623 275.3169 500.8025 264.7846 514.2071 249.465 Z" id="US.KS.149" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pottawatomie County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>149</fips>
+        <incits>20149</incits>
+        <id>US.KS.149</id>
+        <population>22691</population>
+      </desc>
+    </path>
+    <path d="M 172.3882 404.5761 233.6667 404.5761 234.6241 421.8107 235.5816 446.7051 183.8779 445.7476 173.3457 445.7476 172.3882 404.5761 Z" id="US.KS.057" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ford County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>057</fips>
+        <incits>20057</incits>
+        <id>US.KS.057</id>
+        <population>34819</population>
+      </desc>
+    </path>
+    <path d="M 613.7846 490.749 613.7846 454.3649 653.9986 454.3649 655.9136 458.1948 655.9136 490.749 613.7846 490.749 Z" id="US.KS.099" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Labette County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>099</fips>
+        <incits>20099</incits>
+        <id>US.KS.099</id>
+        <population>20916</population>
+      </desc>
+    </path>
+    <path d="M 572.6132 454.3649 572.6132 434.2579 572.6132 421.8107 612.8272 421.8107 612.8272 454.3649 572.6132 454.3649 Z" id="US.KS.205" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wilson County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>205</fips>
+        <incits>20205</incits>
+        <id>US.KS.205</id>
+        <population>9105</population>
+      </desc>
+    </path>
+    <path d="M 170.4733 330.8505 179.0905 331.808 230.7942 331.808 232.7092 331.808 232.7092 364.3621 232.7092 372.0219 172.3882 372.0219 170.4733 372.0219 170.4733 330.8505 Z" id="US.KS.135" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ness County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>135</fips>
+        <incits>20135</incits>
+        <id>US.KS.135</id>
+        <population>3073</population>
+      </desc>
+    </path>
+    <path d="M 61.321 209.251 61.321 249.465 1 249.465 1 209.251 61.321 209.251 Z" id="US.KS.023" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cheyenne County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>023</fips>
+        <incits>20023</incits>
+        <id>US.KS.023</id>
+        <population>2694</population>
+      </desc>
+    </path>
+    <path d="M 564.9534 291.594 564.9534 282.9767 607.0823 282.9767 607.0823 297.3388 615.6996 297.3388 615.6996 315.5309 573.5706 315.5309 573.5706 293.5089 564.9534 291.594 Z" id="US.KS.177" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Shawnee County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>177</fips>
+        <incits>20177</incits>
+        <id>US.KS.177</id>
+        <population>178831</population>
+      </desc>
+    </path>
+    <path d="M 286.3278 421.8107 286.3278 413.1934 337.0741 413.1934 337.0741 421.8107 337.0741 446.7051 286.3278 446.7051 286.3278 421.8107 Z" id="US.KS.151" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pratt County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>151</fips>
+        <incits>20151</incits>
+        <id>US.KS.151</id>
+        <population>9878</population>
+      </desc>
+    </path>
+    <path d="M 653.9986 427.5556 698.0425 427.5556 698.0425 459.1523 655.9136 458.1948 653.9986 454.3649 653.9986 427.5556 Z" id="US.KS.037" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Crawford County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>037</fips>
+        <incits>20037</incits>
+        <id>US.KS.037</id>
+        <population>39278</population>
+      </desc>
+    </path>
+    <path d="M 1.9575 331.808 46.0014 330.8505 46.9588 372.0219 1.9575 372.0219 1.9575 331.808 Z" id="US.KS.071" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Greeley County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>071</fips>
+        <incits>20071</incits>
+        <id>US.KS.071</id>
+        <population>1290</population>
+      </desc>
+    </path>
+    <path d="M 286.3278 446.7051 337.0741 446.7051 337.0741 454.3649 348.5638 454.3649 348.5638 490.749 287.2853 490.749 286.3278 454.3649 286.3278 446.7051 Z" id="US.KS.007" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Barber County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>007</fips>
+        <incits>20007</incits>
+        <id>US.KS.007</id>
+        <population>4947</population>
+      </desc>
+    </path>
+    <path d="M 387.8203 306.9136 439.524 306.9136 440.4815 339.4678 387.8203 339.4678 387.8203 306.9136 Z" id="US.KS.169" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Saline County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>169</fips>
+        <incits>20169</incits>
+        <id>US.KS.169</id>
+        <population>55740</population>
+      </desc>
+    </path>
+    <path d="M 387.8203 249.465 387.8203 241.8052 440.4815 241.8052 440.4815 249.465 440.4815 274.3594 387.8203 274.3594 387.8203 249.465 Z" id="US.KS.029" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cloud County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>029</fips>
+        <incits>20029</incits>
+        <id>US.KS.029</id>
+        <population>9292</population>
+      </desc>
+    </path>
+    <path d="M 90.0453 372.0219 129.3018 372.0219 170.4733 372.0219 172.3882 372.0219 172.3882 396.9163 131.2167 396.9163 132.1742 421.8107 91.0027 421.8107 90.0453 413.1934 90.0453 372.0219 Z" id="US.KS.055" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Finney County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>055</fips>
+        <incits>20055</incits>
+        <id>US.KS.055</id>
+        <population>37098</population>
+      </desc>
+    </path>
+    <path d="M 125.4719 249.465 176.2181 249.465 178.1331 249.465 178.1331 290.6365 125.4719 290.6365 125.4719 249.465 Z" id="US.KS.179" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Sheridan County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>179</fips>
+        <incits>20179</incits>
+        <id>US.KS.179</id>
+        <population>2553</population>
+      </desc>
+    </path>
+    <path d="M 655.9136 360.5322 656.8711 327.0206 699 327.9781 699 360.5322 655.9136 360.5322 Z" id="US.KS.121" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Miami County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>121</fips>
+        <incits>20121</incits>
+        <id>US.KS.121</id>
+        <population>32835</population>
+      </desc>
+    </path>
+    <path d="M 179.0905 331.808 179.0905 290.6365 230.7942 290.6365 231.7517 290.6365 230.7942 331.808 179.0905 331.808 Z" id="US.KS.195" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Trego County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>195</fips>
+        <incits>20195</incits>
+        <id>US.KS.195</id>
+        <population>2980</population>
+      </desc>
+    </path>
+    <path d="M 440.4815 339.4678 481.6529 339.4678 481.6529 347.1276 492.1852 347.1276 489.3128 364.3621 490.2702 388.299 460.5885 388.299 460.5885 380.6392 440.4815 380.6392 440.4815 339.4678 Z" id="US.KS.115" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Marion County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>115</fips>
+        <incits>20115</incits>
+        <id>US.KS.115</id>
+        <population>12219</population>
+      </desc>
+    </path>
+    <path d="M 236.5391 454.3649 286.3278 454.3649 287.2853 490.749 236.5391 490.749 236.5391 454.3649 Z" id="US.KS.033" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Comanche County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>033</fips>
+        <incits>20033</incits>
+        <id>US.KS.033</id>
+        <population>1955</population>
+      </desc>
+    </path>
+    <path d="M 91.0027 421.8107 132.1742 421.8107 132.1742 445.7476 132.1742 454.3649 92.9177 454.3649 91.0027 454.3649 91.0027 421.8107 Z" id="US.KS.081" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Haskell County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>081</fips>
+        <incits>20081</incits>
+        <id>US.KS.081</id>
+        <population>4141</population>
+      </desc>
+    </path>
+    <path d="M 333.2442 249.465 334.2016 209.251 387.8203 209.251 387.8203 241.8052 387.8203 249.465 335.1591 249.465 333.2442 249.465 Z" id="US.KS.089" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jewell County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>089</fips>
+        <incits>20089</incits>
+        <id>US.KS.089</id>
+        <population>3046</population>
+      </desc>
+    </path>
+    <path d="M 232.7092 364.3621 232.7092 331.808 283.4554 330.8505 284.4129 330.8505 284.4129 364.3621 232.7092 364.3621 Z" id="US.KS.165" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Rush County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>165</fips>
+        <incits>20165</incits>
+        <id>US.KS.165</id>
+        <population>3186</population>
+      </desc>
+    </path>
+    <path d="M 645.3813 263.8272 665.4883 263.8272 672.1907 275.3169 683.6804 283.9342 672.1907 283.9342 671.2332 304.0412 656.8711 304.9986 647.2963 304.9986 645.3813 298.2963 645.3813 263.8272 Z" id="US.KS.103" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Leavenworth County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>103</fips>
+        <incits>20103</incits>
+        <id>US.KS.103</id>
+        <population>78185</population>
+      </desc>
+    </path>
+    <path d="M 656.8711 304.9986 671.2332 304.0412 673.1481 298.2963 699 298.2963 699 327.9781 656.8711 327.0206 656.8711 304.9986 Z" id="US.KS.091" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Johnson County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>091</fips>
+        <incits>20091</incits>
+        <id>US.KS.091</id>
+        <population>566933</population>
+      </desc>
+    </path>
+    <path d="M 116.8546 330.8505 116.8546 290.6365 125.4719 290.6365 178.1331 290.6365 179.0905 290.6365 179.0905 331.808 170.4733 330.8505 129.3018 330.8505 116.8546 330.8505 Z" id="US.KS.063" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Gove County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>063</fips>
+        <incits>20063</incits>
+        <id>US.KS.063</id>
+        <population>2769</population>
+      </desc>
+    </path>
+    <path d="M 337.0741 446.7051 337.0741 421.8107 399.31 421.8107 399.31 445.7476 399.31 454.3649 348.5638 454.3649 337.0741 454.3649 337.0741 446.7051 Z" id="US.KS.095" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Kingman County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>095</fips>
+        <incits>20095</incits>
+        <id>US.KS.095</id>
+        <population>7844</population>
+      </desc>
+    </path>
+    <path d="M 92.9177 454.3649 132.1742 454.3649 134.0892 490.749 92.9177 490.749 92.9177 454.3649 Z" id="US.KS.175" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Seward County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>175</fips>
+        <incits>20175</incits>
+        <id>US.KS.175</id>
+        <population>23390</population>
+      </desc>
+    </path>
+    <path d="M 178.1331 290.6365 178.1331 249.465 227.9218 249.465 230.7942 249.465 230.7942 290.6365 179.0905 290.6365 178.1331 290.6365 Z" id="US.KS.065" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Graham County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>065</fips>
+        <incits>20065</incits>
+        <id>US.KS.065</id>
+        <population>2593</population>
+      </desc>
+    </path>
+    <path d="M 573.5706 355.7449 573.5706 327.0206 573.5706 315.5309 615.6996 315.5309 615.6996 327.0206 614.7421 355.7449 573.5706 355.7449 Z" id="US.KS.139" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Osage County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>139</fips>
+        <incits>20139</incits>
+        <id>US.KS.139</id>
+        <population>16142</population>
+      </desc>
+    </path>
+    <path d="M 283.4554 330.8505 283.4554 290.6365 335.1591 290.6365 336.1166 290.6365 335.1591 310.7435 335.1591 311.701 335.1591 331.808 284.4129 330.8505 283.4554 330.8505 Z" id="US.KS.167" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Russell County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>167</fips>
+        <incits>20167</incits>
+        <id>US.KS.167</id>
+        <population>6933</population>
+      </desc>
+    </path>
+    <path d="M 612.8272 454.3649 612.8272 421.8107 653.9986 421.8107 653.9986 427.5556 653.9986 454.3649 613.7846 454.3649 612.8272 454.3649 Z" id="US.KS.133" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Neosho County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>133</fips>
+        <incits>20133</incits>
+        <id>US.KS.133</id>
+        <population>16430</population>
+      </desc>
+    </path>
+    <path d="M 335.1591 331.808 335.1591 314.5734 387.8203 314.5734 387.8203 339.4678 387.8203 348.085 336.1166 348.085 335.1591 331.808 Z" id="US.KS.053" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ellsworth County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>053</fips>
+        <incits>20053</incits>
+        <id>US.KS.053</id>
+        <population>6398</population>
+      </desc>
+    </path>
+    <path d="M 572.6132 421.8107 572.6132 393.0864 613.7846 393.0864 612.8272 421.8107 572.6132 421.8107 Z" id="US.KS.207" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Woodson County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>207</fips>
+        <incits>20207</incits>
+        <id>US.KS.207</id>
+        <population>3221</population>
+      </desc>
+    </path>
+    <path d="M 399.31 454.3649 399.31 445.7476 460.5885 445.7476 461.546 490.749 399.31 490.749 399.31 454.3649 Z" id="US.KS.191" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Sumner County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>191</fips>
+        <incits>20191</incits>
+        <id>US.KS.191</id>
+        <population>23591</population>
+      </desc>
+    </path>
+    <path d="M 335.1591 282.0192 387.8203 282.0192 387.8203 306.9136 387.8203 314.5734 335.1591 314.5734 335.1591 311.701 335.1591 310.7435 336.1166 290.6365 335.1591 290.6365 335.1591 282.0192 Z" id="US.KS.105" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lincoln County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>105</fips>
+        <incits>20105</incits>
+        <id>US.KS.105</id>
+        <population>3147</population>
+      </desc>
+    </path>
+    <path d="M 615.6996 327.0206 656.8711 327.0206 655.9136 360.5322 614.7421 360.5322 614.7421 355.7449 615.6996 327.0206 Z" id="US.KS.059" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Franklin County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>059</fips>
+        <incits>20059</incits>
+        <id>US.KS.059</id>
+        <population>25740</population>
+      </desc>
+    </path>
+    <path d="M 87.1728 330.8505 116.8546 330.8505 129.3018 330.8505 129.3018 372.0219 90.0453 372.0219 88.1303 372.0219 87.1728 330.8505 Z" id="US.KS.171" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Scott County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>171</fips>
+        <incits>20171</incits>
+        <id>US.KS.171</id>
+        <population>5035</population>
+      </desc>
+    </path>
+    <path d="M 571.6557 490.749 572.6132 462.0247 572.6132 454.3649 612.8272 454.3649 613.7846 454.3649 613.7846 490.749 571.6557 490.749 Z" id="US.KS.125" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Montgomery County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>125</fips>
+        <incits>20125</incits>
+        <id>US.KS.125</id>
+        <population>34292</population>
+      </desc>
+    </path>
+    <path d="M 545.8038 249.465 546.7613 209.251 588.8903 209.251 588.8903 241.8052 588.8903 249.465 564.9534 249.465 545.8038 249.465 Z" id="US.KS.131" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Nemaha County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>131</fips>
+        <incits>20131</incits>
+        <id>US.KS.131</id>
+        <population>10161</population>
+      </desc>
+    </path>
+    <path d="M 46.9588 454.3649 50.7888 454.3649 91.0027 454.3649 92.9177 454.3649 92.9177 490.749 47.9163 490.749 46.9588 454.3649 Z" id="US.KS.189" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Stevens County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>189</fips>
+        <incits>20189</incits>
+        <id>US.KS.189</id>
+        <population>5816</population>
+      </desc>
+    </path>
+    <path d="M 683.6804 283.9342 699 287.7641 699 298.2963 673.1481 298.2963 671.2332 304.0412 672.1907 283.9342 683.6804 283.9342 Z" id="US.KS.209" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wyandotte County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>209</fips>
+        <incits>20209</incits>
+        <id>US.KS.209</id>
+        <population>160384</population>
+      </desc>
+    </path>
+    <path d="M 607.0823 282.9767 608.9973 263.8272 645.3813 263.8272 645.3813 298.2963 630.0617 300.2112 615.6996 297.3388 607.0823 297.3388 607.0823 282.9767 Z" id="US.KS.087" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jefferson County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>087</fips>
+        <incits>20087</incits>
+        <id>US.KS.087</id>
+        <population>18813</population>
+      </desc>
+    </path>
+    <path d="M 234.6241 421.8107 286.3278 421.8107 286.3278 446.7051 286.3278 454.3649 236.5391 454.3649 235.5816 446.7051 234.6241 421.8107 Z" id="US.KS.097" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Kiowa County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>097</fips>
+        <incits>20097</incits>
+        <id>US.KS.097</id>
+        <population>2523</population>
+      </desc>
+    </path>
+    <path d="M 493.1427 209.251 546.7613 209.251 545.8038 249.465 514.2071 249.465 493.1427 249.465 493.1427 209.251 Z" id="US.KS.117" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Marshall County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>117</fips>
+        <incits>20117</incits>
+        <id>US.KS.117</id>
+        <population>10002</population>
+      </desc>
+    </path>
+    <path d="M 387.8203 274.3594 440.4815 274.3594 440.4815 290.6365 439.524 306.9136 387.8203 306.9136 387.8203 274.3594 Z" id="US.KS.143" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ottawa County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>143</fips>
+        <incits>20143</incits>
+        <id>US.KS.143</id>
+        <population>6042</population>
+      </desc>
+    </path>
+    <path d="M 492.1852 347.1276 535.2716 348.085 535.2716 380.6392 535.2716 388.299 519.952 388.299 490.2702 388.299 489.3128 364.3621 492.1852 347.1276 Z" id="US.KS.017" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Chase County</name>
+        <stateAbbrev>KS</stateAbbrev>
+        <state>Kansas</state>
+        <fips>017</fips>
+        <incits>20017</incits>
+        <id>US.KS.017</id>
+        <population>2700</population>
+      </desc>
+    </path>
+  </g>
+</svg>

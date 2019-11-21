@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="tianjin">
+    <path d="M 252.3776 264.5804 252.3776 186.4825 296.3077 176.7203 359.7622 201.1259 418.3357 201.1259 457.3846 230.4126 481.7902 288.986 389.049 332.9161 369.5245 376.8462 325.5944 371.965 301.1888 298.7483 252.3776 264.5804 Z" id="CN.tianjin.3286885" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Baodi District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Baodi District</wikipedia>
+        <localname>宝坻区 (Baodi)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tianjin.3286885</id>
+      </desc>
+    </path>
+    <path d="M 325.5944 381.7273 359.7622 420.7762 286.5455 440.3007 257.2587 440.3007 242.6154 445.1818 169.3986 450.0629 179.1608 425.6573 281.6643 371.965 325.5944 381.7273 Z" id="CN.tianjin.3286886" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Beichen District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Beichen District</wikipedia>
+        <localname>北辰区 (Beichen)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tianjin.3286886</id>
+      </desc>
+    </path>
+    <path d="M 301.1888 581.8531 335.3566 586.7343 398.8112 557.4476 413.4545 513.5175 428.0979 445.1818 525.7203 401.2517 535.4825 391.4895 540.3636 381.7273 628.2238 411.014 520.8392 469.5874 540.3636 528.1608 530.6014 557.4476 467.1469 576.972 442.7413 630.6643 452.5035 674.5944 389.049 674.5944 340.2378 699 252.3776 674.5944 247.4965 630.6643 301.1888 581.8531 Z" id="CN.tianjin.3286887" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Binhai New Area</name>
+        <admin_leve>6</admin_leve>
+        <wikidata>Q708605</wikidata>
+        <localname>滨海新区 (Binhai)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tianjin.3286887</id>
+      </desc>
+    </path>
+    <path d="M 286.5455 440.3007 359.7622 420.7762 428.0979 445.1818 413.4545 513.5175 310.951 484.2308 301.1888 484.2308 296.3077 450.0629 286.5455 440.3007 Z" id="CN.tianjin.3286888" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dongli District</name>
+        <admin_leve>6</admin_leve>
+        <wikidata>Q708282</wikidata>
+        <localname>东丽区 (Dongli)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tianjin.3286888</id>
+      </desc>
+    </path>
+    <path d="M 257.2587 440.3007 286.5455 440.3007 296.3077 450.0629 276.7832 464.7063 271.9021 459.8252 271.9021 454.9441 257.2587 440.3007 Z" id="CN.tianjin.3286889" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hebei District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Hebei District</wikipedia>
+        <localname>河北区 (Hebei)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tianjin.3286889</id>
+      </desc>
+    </path>
+    <path d="M 296.3077 450.0629 301.1888 484.2308 281.6643 469.5874 276.7832 464.7063 296.3077 450.0629 Z" id="CN.tianjin.3286890" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hedong District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Hedong District, Tianjin</wikipedia>
+        <localname>河东区 (Hedong)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tianjin.3286890</id>
+      </desc>
+    </path>
+    <path d="M 262.1399 474.4685 271.9021 459.8252 276.7832 464.7063 281.6643 469.5874 262.1399 474.4685 Z" id="CN.tianjin.3286891" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Heping District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Heping District, Tianjin</wikipedia>
+        <localname>和平区 (Heping)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tianjin.3286891</id>
+      </desc>
+    </path>
+    <path d="M 262.1399 474.4685 281.6643 469.5874 301.1888 484.2308 310.951 484.2308 281.6643 498.8741 267.021 489.1119 262.1399 474.4685 Z" id="CN.tianjin.3286892" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hexi District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Hexi District, Tianjin</wikipedia>
+        <localname>河西区 (Hexi)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tianjin.3286892</id>
+      </desc>
+    </path>
+    <path d="M 242.6154 454.9441 242.6154 445.1818 257.2587 440.3007 271.9021 454.9441 242.6154 454.9441 Z" id="CN.tianjin.3286893" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hongqiao District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Hongqiao District</wikipedia>
+        <localname>红桥区 (Hongqiao)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tianjin.3286893</id>
+      </desc>
+    </path>
+    <path d="M 418.3357 201.1259 359.7622 201.1259 296.3077 176.7203 252.3776 127.9091 262.1399 79.0979 330.4755 49.8112 364.6434 1 418.3357 5.8811 457.3846 64.4545 520.8392 103.5035 418.3357 113.2657 398.8112 142.5524 418.3357 201.1259 Z" id="CN.tianjin.3286894" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ji County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Ji County, Tianjin</wikipedia>
+        <localname>蓟县 (Ji)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tianjin.3286894</id>
+      </desc>
+    </path>
+    <path d="M 140.1119 489.1119 242.6154 528.1608 301.1888 581.8531 247.4965 630.6643 252.3776 674.5944 208.4476 640.4266 140.1119 650.1888 91.3007 625.7832 71.7762 547.6853 91.3007 503.7552 140.1119 489.1119 Z" id="CN.tianjin.3286895" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jinghai County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Jinghai County</wikipedia>
+        <localname>静海县 (Jinghai)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tianjin.3286895</id>
+      </desc>
+    </path>
+    <path d="M 281.6643 498.8741 310.951 484.2308 413.4545 513.5175 398.8112 557.4476 335.3566 586.7343 281.6643 498.8741 Z" id="CN.tianjin.3286896" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jinnan District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Jinnan District</wikipedia>
+        <localname>津南区 (Jinnan)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tianjin.3286896</id>
+      </desc>
+    </path>
+    <path d="M 242.6154 454.9441 271.9021 454.9441 271.9021 459.8252 262.1399 474.4685 267.021 489.1119 242.6154 454.9441 Z" id="CN.tianjin.3286897" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Nankai District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Nankai District</wikipedia>
+        <localname>南开区 (Nankai)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tianjin.3286897</id>
+      </desc>
+    </path>
+    <path d="M 325.5944 371.965 369.5245 376.8462 389.049 332.9161 481.7902 288.986 574.5315 279.2238 540.3636 381.7273 535.4825 391.4895 525.7203 401.2517 428.0979 445.1818 359.7622 420.7762 325.5944 381.7273 325.5944 371.965 Z" id="CN.tianjin.3286898" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ninghe County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Ninghe County</wikipedia>
+        <localname>宁河区</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tianjin.3286898</id>
+      </desc>
+    </path>
+    <path d="M 252.3776 264.5804 301.1888 298.7483 325.5944 371.965 325.5944 381.7273 281.6643 371.965 179.1608 425.6573 169.3986 450.0629 159.6364 459.8252 130.3497 342.6783 110.8252 328.035 110.8252 264.5804 144.993 230.4126 252.3776 264.5804 Z" id="CN.tianjin.3286899" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wuqing District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Wuqing District</wikipedia>
+        <localname>武清区</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tianjin.3286899</id>
+      </desc>
+    </path>
+    <path d="M 140.1119 489.1119 159.6364 459.8252 169.3986 450.0629 242.6154 445.1818 242.6154 454.9441 267.021 489.1119 281.6643 498.8741 335.3566 586.7343 301.1888 581.8531 242.6154 528.1608 140.1119 489.1119 Z" id="CN.tianjin.3286900" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Xiqing District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Xiqing District</wikipedia>
+        <localname>西青区 (Xiqing)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.tianjin.3286900</id>
+      </desc>
+    </path>
+  </g>
+</svg>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="vermont">
+    <path d="M 109.8521 519.4502 228.8039 523.9389 242.2701 537.4051 226.5595 582.2926 188.4051 580.0482 183.9164 638.4019 210.8489 638.4019 208.6045 696.7556 103.119 694.5113 109.8521 519.4502 Z" id="US.VT.003" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Bennington County</name>
+        <stateAbbrev>VT</stateAbbrev>
+        <state>Vermont</state>
+        <fips>003</fips>
+        <incits>50003</incits>
+        <id>US.VT.003</id>
+        <population>36659</population>
+      </desc>
+    </path>
+    <path d="M 242.2701 537.4051 282.6688 548.627 361.2219 546.3826 361.2219 591.2701 347.7556 624.9357 329.8006 629.4244 327.5563 676.5563 352.2444 699 208.6045 696.7556 210.8489 638.4019 183.9164 638.4019 188.4051 580.0482 226.5595 582.2926 242.2701 537.4051 Z" id="US.VT.025" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Windham County</name>
+        <stateAbbrev>VT</stateAbbrev>
+        <state>Vermont</state>
+        <fips>025</fips>
+        <incits>50025</incits>
+        <id>US.VT.025</id>
+        <population>43857</population>
+      </desc>
+    </path>
+    <path d="M 251.2476 321.9453 253.492 333.1672 430.7974 380.299 410.5981 391.5209 370.1994 461.0965 365.7106 503.7395 372.4437 521.6945 361.2219 546.3826 282.6688 548.627 242.2701 537.4051 228.8039 523.9389 240.0257 501.4952 260.2251 508.2283 271.4469 472.3183 251.2476 465.5852 278.1801 407.2315 242.2701 398.254 253.492 371.3215 226.5595 360.0997 199.627 364.5884 201.8714 348.8778 251.2476 321.9453 Z" id="US.VT.027" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Windsor County</name>
+        <stateAbbrev>VT</stateAbbrev>
+        <state>Vermont</state>
+        <fips>027</fips>
+        <incits>50027</incits>
+        <id>US.VT.027</id>
+        <population>56067</population>
+      </desc>
+    </path>
+    <path d="M 76.1865 387.0322 125.5627 382.5434 121.074 360.0997 179.4277 357.8553 199.627 364.5884 226.5595 360.0997 253.492 371.3215 242.2701 398.254 278.1801 407.2315 251.2476 465.5852 271.4469 472.3183 260.2251 508.2283 240.0257 501.4952 228.8039 523.9389 109.8521 519.4502 112.0965 452.119 94.1415 425.1865 55.9871 422.9421 76.1865 387.0322 Z" id="US.VT.021" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Rutland County</name>
+        <stateAbbrev>VT</stateAbbrev>
+        <state>Vermont</state>
+        <fips>021</fips>
+        <incits>50021</incits>
+        <id>US.VT.021</id>
+        <population>60622</population>
+      </desc>
+    </path>
+    <path d="M 127.8071 1 114.3408 21.1994 127.8071 34.6656 107.6077 77.3087 116.5852 90.7749 116.5852 113.2186 96.3859 133.418 76.1865 137.9068 69.4534 122.1961 85.164 66.0868 71.6977 52.6206 85.164 27.9325 82.9196 3.2444 127.8071 1 Z" id="US.VT.013" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Grand Isle County</name>
+        <stateAbbrev>VT</stateAbbrev>
+        <state>Vermont</state>
+        <fips>013</fips>
+        <incits>50013</incits>
+        <id>US.VT.013</id>
+        <population>6987</population>
+      </desc>
+    </path>
+    <path d="M 127.8071 1 298.3794 1 323.0675 3.2444 329.8006 57.1093 316.3344 72.8199 264.7138 70.5756 210.8489 117.7074 174.9389 113.2186 116.5852 90.7749 107.6077 77.3087 127.8071 34.6656 114.3408 21.1994 127.8071 1 Z" id="US.VT.011" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Franklin County</name>
+        <stateAbbrev>VT</stateAbbrev>
+        <state>Vermont</state>
+        <fips>011</fips>
+        <incits>50011</incits>
+        <id>US.VT.011</id>
+        <population>48294</population>
+      </desc>
+    </path>
+    <path d="M 76.1865 137.9068 96.3859 133.418 116.5852 113.2186 116.5852 90.7749 174.9389 113.2186 210.8489 117.7074 240.0257 142.3955 246.7588 173.8167 215.3376 225.4373 201.8714 261.3473 195.1383 220.9486 91.8971 229.926 85.164 196.2605 96.3859 164.8392 76.1865 137.9068 Z" id="US.VT.007" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Chittenden County</name>
+        <stateAbbrev>VT</stateAbbrev>
+        <state>Vermont</state>
+        <fips>007</fips>
+        <incits>50007</incits>
+        <id>US.VT.007</id>
+        <population>159515</population>
+      </desc>
+    </path>
+    <path d="M 91.8971 229.926 195.1383 220.9486 201.8714 261.3473 213.0932 288.2797 266.9582 301.746 251.2476 321.9453 201.8714 348.8778 199.627 364.5884 179.4277 357.8553 121.074 360.0997 125.5627 382.5434 76.1865 387.0322 73.9421 348.8778 53.7428 297.2572 67.209 252.3698 91.8971 229.926 Z" id="US.VT.001" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Addison County</name>
+        <stateAbbrev>VT</stateAbbrev>
+        <state>Vermont</state>
+        <fips>001</fips>
+        <incits>50001</incits>
+        <id>US.VT.001</id>
+        <population>36791</population>
+      </desc>
+    </path>
+    <path d="M 201.8714 261.3473 215.3376 225.4373 246.7588 173.8167 293.8907 189.5273 309.6013 164.8392 343.2669 180.5498 361.2219 155.8617 424.0643 180.5498 381.4212 247.881 356.7331 272.5691 314.09 261.3473 284.9132 306.2347 266.9582 301.746 213.0932 288.2797 201.8714 261.3473 Z" id="US.VT.023" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Washington County</name>
+        <stateAbbrev>VT</stateAbbrev>
+        <state>Vermont</state>
+        <fips>023</fips>
+        <incits>50023</incits>
+        <id>US.VT.023</id>
+        <population>59319</population>
+      </desc>
+    </path>
+    <path d="M 316.3344 72.8199 365.7106 90.7749 345.5113 117.7074 379.1768 133.418 361.2219 155.8617 343.2669 180.5498 309.6013 164.8392 293.8907 189.5273 246.7588 173.8167 240.0257 142.3955 210.8489 117.7074 264.7138 70.5756 316.3344 72.8199 Z" id="US.VT.015" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lamoille County</name>
+        <stateAbbrev>VT</stateAbbrev>
+        <state>Vermont</state>
+        <fips>015</fips>
+        <incits>50015</incits>
+        <id>US.VT.015</id>
+        <population>25067</population>
+      </desc>
+    </path>
+    <path d="M 316.3344 72.8199 329.8006 57.1093 323.0675 3.2444 525.0611 3.2444 513.8392 34.6656 531.7942 43.6431 511.5949 75.0643 489.1511 97.508 457.7299 81.7974 412.8424 144.6399 379.1768 133.418 345.5113 117.7074 365.7106 90.7749 316.3344 72.8199 Z" id="US.VT.019" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Orleans County</name>
+        <stateAbbrev>VT</stateAbbrev>
+        <state>Vermont</state>
+        <fips>019</fips>
+        <incits>50019</incits>
+        <id>US.VT.019</id>
+        <population>27169</population>
+      </desc>
+    </path>
+    <path d="M 361.2219 155.8617 379.1768 133.418 412.8424 144.6399 457.7299 81.7974 489.1511 97.508 511.5949 75.0643 543.0161 93.0193 520.5723 113.2186 540.7717 124.4405 520.5723 144.6399 536.283 160.3505 513.8392 176.0611 543.0161 205.2379 498.1286 207.4823 473.4405 225.4373 480.1736 263.5916 442.0193 252.3698 381.4212 247.881 424.0643 180.5498 361.2219 155.8617 Z" id="US.VT.005" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Caledonia County</name>
+        <stateAbbrev>VT</stateAbbrev>
+        <state>Vermont</state>
+        <fips>005</fips>
+        <incits>50005</incits>
+        <id>US.VT.005</id>
+        <population>31157</population>
+      </desc>
+    </path>
+    <path d="M 251.2476 321.9453 266.9582 301.746 284.9132 306.2347 314.09 261.3473 356.7331 272.5691 381.4212 247.881 442.0193 252.3698 480.1736 263.5916 482.418 283.791 457.7299 312.9678 430.7974 380.299 253.492 333.1672 251.2476 321.9453 Z" id="US.VT.017" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Orange County</name>
+        <stateAbbrev>VT</stateAbbrev>
+        <state>Vermont</state>
+        <fips>017</fips>
+        <incits>50017</incits>
+        <id>US.VT.017</id>
+        <population>28915</population>
+      </desc>
+    </path>
+    <path d="M 525.0611 3.2444 635.0354 7.7331 646.2572 32.4212 632.791 45.8875 608.1029 88.5305 632.791 131.1736 614.836 162.5949 581.1704 185.0386 556.4823 189.5273 543.0161 205.2379 513.8392 176.0611 536.283 160.3505 520.5723 144.6399 540.7717 124.4405 520.5723 113.2186 543.0161 93.0193 511.5949 75.0643 531.7942 43.6431 513.8392 34.6656 525.0611 3.2444 Z" id="US.VT.009" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Essex County</name>
+        <stateAbbrev>VT</stateAbbrev>
+        <state>Vermont</state>
+        <fips>009</fips>
+        <incits>50009</incits>
+        <id>US.VT.009</id>
+        <population>6211</population>
+      </desc>
+    </path>
+  </g>
+</svg>

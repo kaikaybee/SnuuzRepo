@@ -1,0 +1,907 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="mississippi">
+    <path d="M 156.0378 213.4348 220.6919 212.1153 220.6919 250.38 228.6087 250.38 229.9282 275.4499 199.5803 275.4499 199.5803 287.3251 162.6352 287.3251 175.8299 256.9773 156.0378 213.4348 Z" id="US.MS.151" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Washington County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>151</fips>
+        <incits>28151</incits>
+        <id>US.MS.151</id>
+        <population>49688</population>
+      </desc>
+    </path>
+    <path d="M 192.983 127.6692 236.5255 127.6692 236.5255 147.4612 236.5255 200.2401 220.6919 212.1153 156.0378 213.4348 167.913 202.879 156.0378 193.6427 179.7883 171.2117 185.0662 155.3781 203.5388 140.8639 192.983 127.6692 Z" id="US.MS.011" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Bolivar County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>011</fips>
+        <incits>28011</incits>
+        <id>US.MS.011</id>
+        <population>34049</population>
+      </desc>
+    </path>
+    <path d="M 423.8904 2.3195 472.7108 2.3195 472.7108 20.7921 462.155 27.3894 462.155 59.0567 439.724 60.3762 431.8072 60.3762 431.8072 23.431 423.8904 2.3195 Z" id="US.MS.009" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Benton County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>009</fips>
+        <incits>28009</incits>
+        <id>US.MS.009</id>
+        <population>8571</population>
+      </desc>
+    </path>
+    <path d="M 249.7202 69.6125 273.4707 82.8072 265.5539 106.5577 265.5539 134.2665 265.5539 147.4612 236.5255 147.4612 236.5255 127.6692 192.983 127.6692 211.4556 106.5577 249.7202 82.8072 249.7202 69.6125 Z" id="US.MS.027" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Coahoma County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>027</fips>
+        <incits>28027</incits>
+        <id>US.MS.027</id>
+        <population>25182</population>
+      </desc>
+    </path>
+    <path d="M 371.1115 2.3195 371.1115 33.9868 344.7221 33.9868 324.9301 41.9036 302.4991 40.5841 301.1796 20.7921 286.6654 20.7921 286.6654 1 371.1115 2.3195 Z" id="US.MS.033" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>DeSoto County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>033</fips>
+        <incits>28033</incits>
+        <id>US.MS.033</id>
+        <population>168240</population>
+      </desc>
+    </path>
+    <path d="M 371.1115 2.3195 423.8904 2.3195 431.8072 23.431 431.8072 60.3762 439.724 60.3762 439.724 73.5709 406.7372 64.3346 379.0284 64.3346 379.0284 45.862 371.1115 33.9868 371.1115 2.3195 Z" id="US.MS.093" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Marshall County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>093</fips>
+        <incits>28093</incits>
+        <id>US.MS.093</id>
+        <population>36515</population>
+      </desc>
+    </path>
+    <path d="M 462.155 59.0567 462.155 27.3894 472.7108 20.7921 472.7108 2.3195 500.4197 2.3195 500.4197 20.7921 516.2533 35.3062 513.6144 59.0567 462.155 59.0567 Z" id="US.MS.139" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Tippah County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>139</fips>
+        <incits>28139</incits>
+        <id>US.MS.139</id>
+        <population>22084</population>
+      </desc>
+    </path>
+    <path d="M 286.6654 20.7921 301.1796 20.7921 302.4991 40.5841 295.9017 57.7372 302.4991 64.3346 302.4991 70.9319 286.6654 70.9319 273.4707 82.8072 249.7202 69.6125 264.2344 48.5009 270.8318 24.7505 286.6654 20.7921 Z" id="US.MS.143" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Tunica County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>143</fips>
+        <incits>28143</incits>
+        <id>US.MS.143</id>
+        <population>10560</population>
+      </desc>
+    </path>
+    <path d="M 410.6957 514.2741 417.293 514.2741 454.2382 514.2741 455.5577 589.4839 426.5293 589.4839 425.2098 574.9698 425.2098 527.4688 410.6957 514.2741 Z" id="US.MS.035" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Forrest County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>035</fips>
+        <incits>28035</incits>
+        <id>US.MS.035</id>
+        <population>77059</population>
+      </desc>
+    </path>
+    <path d="M 491.1834 589.4839 499.1002 577.6087 557.1569 577.6087 559.7958 614.5539 491.1834 614.5539 491.1834 589.4839 Z" id="US.MS.039" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>George County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>039</fips>
+        <incits>28039</incits>
+        <id>US.MS.039</id>
+        <population>23159</population>
+      </desc>
+    </path>
+    <path d="M 497.7807 514.2741 554.518 514.2741 557.1569 577.6087 499.1002 577.6087 497.7807 514.2741 Z" id="US.MS.041" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Greene County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>041</fips>
+        <incits>28041</incits>
+        <id>US.MS.041</id>
+        <population>14244</population>
+      </desc>
+    </path>
+    <path d="M 376.3894 654.138 396.1815 646.2212 396.1815 627.7486 426.5293 627.7486 426.5293 669.9716 430.4877 695.0416 400.1399 697.6805 384.3062 683.1664 376.3894 654.138 Z" id="US.MS.045" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hancock County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>045</fips>
+        <incits>28045</incits>
+        <id>US.MS.045</id>
+        <population>45566</population>
+      </desc>
+    </path>
+    <path d="M 426.5293 627.7486 441.0435 623.7902 491.1834 623.7902 492.5028 660.7353 504.3781 675.2495 504.3781 679.2079 504.3781 692.4026 463.4745 699 448.9603 689.7637 430.4877 695.0416 426.5293 669.9716 426.5293 627.7486 Z" id="US.MS.047" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Harrison County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>047</fips>
+        <incits>28047</incits>
+        <id>US.MS.047</id>
+        <population>196500</population>
+      </desc>
+    </path>
+    <path d="M 491.1834 614.5539 559.7958 614.5539 563.7543 697.6805 551.879 699 504.3781 692.4026 504.3781 679.2079 504.3781 675.2495 492.5028 660.7353 491.1834 623.7902 491.1834 614.5539 Z" id="US.MS.059" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jackson County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>059</fips>
+        <incits>28059</incits>
+        <id>US.MS.059</id>
+        <population>140450</population>
+      </desc>
+    </path>
+    <path d="M 380.3478 514.2741 390.9036 514.2741 410.6957 514.2741 425.2098 527.4688 425.2098 574.9698 381.6673 576.2892 380.3478 514.2741 Z" id="US.MS.073" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lamar County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>073</fips>
+        <incits>28073</incits>
+        <id>US.MS.073</id>
+        <population>58801</population>
+      </desc>
+    </path>
+    <path d="M 369.7921 576.2892 381.6673 576.2892 425.2098 574.9698 426.5293 589.4839 426.5293 627.7486 396.1815 627.7486 396.1815 646.2212 376.3894 654.138 364.5142 646.2212 353.9584 625.1096 369.7921 576.2892 Z" id="US.MS.109" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pearl River County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>109</fips>
+        <incits>28109</incits>
+        <id>US.MS.109</id>
+        <population>55072</population>
+      </desc>
+    </path>
+    <path d="M 454.2382 514.2741 483.2665 514.2741 497.7807 514.2741 499.1002 577.6087 491.1834 589.4839 455.5577 589.4839 454.2382 514.2741 Z" id="US.MS.111" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Perry County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>111</fips>
+        <incits>28111</incits>
+        <id>US.MS.111</id>
+        <population>12131</population>
+      </desc>
+    </path>
+    <path d="M 426.5293 589.4839 455.5577 589.4839 491.1834 589.4839 491.1834 614.5539 491.1834 623.7902 441.0435 623.7902 426.5293 627.7486 426.5293 589.4839 Z" id="US.MS.131" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Stone County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>131</fips>
+        <incits>28131</incits>
+        <id>US.MS.131</id>
+        <population>18016</population>
+      </desc>
+    </path>
+    <path d="M 365.8336 465.4537 381.6673 464.1342 417.293 462.8147 417.293 514.2741 410.6957 514.2741 390.9036 514.2741 390.9036 502.3989 365.8336 489.2042 365.8336 465.4537 Z" id="US.MS.031" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Covington County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>031</fips>
+        <incits>28031</incits>
+        <id>US.MS.031</id>
+        <population>19423</population>
+      </desc>
+    </path>
+    <path d="M 334.1664 466.7732 365.8336 465.4537 365.8336 489.2042 390.9036 502.3989 390.9036 514.2741 380.3478 514.2741 356.5974 514.2741 336.8053 520.8715 334.1664 466.7732 Z" id="US.MS.065" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jefferson Davis County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>065</fips>
+        <incits>28065</incits>
+        <id>US.MS.065</id>
+        <population>11948</population>
+      </desc>
+    </path>
+    <path d="M 417.293 462.8147 429.1682 461.4953 483.2665 457.5369 483.2665 514.2741 454.2382 514.2741 417.293 514.2741 417.293 462.8147 Z" id="US.MS.067" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jones County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>067</fips>
+        <incits>28067</incits>
+        <id>US.MS.067</id>
+        <population>68961</population>
+      </desc>
+    </path>
+    <path d="M 295.9017 473.3705 313.0548 468.0926 334.1664 466.7732 336.8053 520.8715 324.9301 528.7883 295.9017 526.1493 295.9017 473.3705 Z" id="US.MS.077" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lawrence County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>077</fips>
+        <incits>28077</incits>
+        <id>US.MS.077</id>
+        <population>12514</population>
+      </desc>
+    </path>
+    <path d="M 324.9301 528.7883 336.8053 520.8715 356.5974 514.2741 380.3478 514.2741 381.6673 576.2892 369.7921 576.2892 355.2779 576.2892 355.2779 565.7335 326.2495 551.2193 324.9301 528.7883 Z" id="US.MS.091" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Marion County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>091</fips>
+        <incits>28091</incits>
+        <id>US.MS.091</id>
+        <population>26180</population>
+      </desc>
+    </path>
+    <path d="M 483.2665 457.5369 488.5444 457.5369 528.1285 453.5784 550.5595 448.3006 554.518 514.2741 497.7807 514.2741 483.2665 514.2741 483.2665 457.5369 Z" id="US.MS.153" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wayne County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>153</fips>
+        <incits>28153</incits>
+        <id>US.MS.153</id>
+        <population>20539</population>
+      </desc>
+    </path>
+    <path d="M 141.5236 469.4121 145.482 479.9679 165.2741 489.2042 163.9546 527.4688 156.0378 523.5104 120.4121 531.4272 115.1342 544.6219 101.9395 549.8998 112.4953 536.7051 112.4953 499.7599 141.5236 469.4121 Z" id="US.MS.001" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Adams County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>001</fips>
+        <incits>28001</incits>
+        <id>US.MS.001</id>
+        <population>32090</population>
+      </desc>
+    </path>
+    <path d="M 500.4197 2.3195 566.3932 1 566.3932 36.6257 516.2533 35.3062 500.4197 20.7921 500.4197 2.3195 Z" id="US.MS.003" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Alcorn County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>003</fips>
+        <incits>28003</incits>
+        <id>US.MS.003</id>
+        <population>37316</population>
+      </desc>
+    </path>
+    <path d="M 173.1909 530.1078 189.0246 526.1493 239.1645 526.1493 252.3592 526.1493 252.3592 576.2892 178.4688 577.6087 178.4688 536.7051 173.1909 530.1078 Z" id="US.MS.005" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Amite County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>005</fips>
+        <incits>28005</incits>
+        <id>US.MS.005</id>
+        <population>12899</population>
+      </desc>
+    </path>
+    <path d="M 367.1531 258.2968 381.6673 247.741 409.3762 247.741 429.1682 247.741 429.1682 272.811 429.1682 299.2004 369.7921 299.2004 369.7921 305.7977 335.4858 305.7977 344.7221 299.2004 367.1531 258.2968 Z" id="US.MS.007" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Attala County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>007</fips>
+        <incits>28007</incits>
+        <id>US.MS.007</id>
+        <population>19317</population>
+      </desc>
+    </path>
+    <path d="M 401.4594 121.0718 439.724 121.0718 455.5577 134.2665 455.5577 172.5312 447.6408 183.087 402.7788 184.4064 401.4594 164.6144 401.4594 121.0718 Z" id="US.MS.013" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Calhoun County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>013</fips>
+        <incits>28013</incits>
+        <id>US.MS.013</id>
+        <population>14734</population>
+      </desc>
+    </path>
+    <path d="M 313.0548 191.0038 361.8752 191.0038 361.8752 229.2684 381.6673 230.5879 381.6673 247.741 367.1531 258.2968 306.4575 241.1437 317.0132 222.6711 313.0548 191.0038 Z" id="US.MS.015" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Carroll County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>015</fips>
+        <incits>28015</incits>
+        <id>US.MS.015</id>
+        <population>10385</population>
+      </desc>
+    </path>
+    <path d="M 447.6408 183.087 455.5577 172.5312 455.5577 134.2665 500.4197 134.2665 514.9338 134.2665 514.9338 172.5312 484.586 172.5312 470.0718 183.087 447.6408 183.087 Z" id="US.MS.017" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Chickasaw County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>017</fips>
+        <incits>28017</incits>
+        <id>US.MS.017</id>
+        <population>17311</population>
+      </desc>
+    </path>
+    <path d="M 419.9319 222.6711 448.9603 212.1153 462.155 212.1153 462.155 247.741 459.5161 260.9357 443.6824 260.9357 429.1682 272.811 429.1682 247.741 409.3762 247.741 409.3762 226.6295 419.9319 222.6711 Z" id="US.MS.019" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Choctaw County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>019</fips>
+        <incits>28019</incits>
+        <id>US.MS.019</id>
+        <population>8371</population>
+      </desc>
+    </path>
+    <path d="M 152.0794 450.9395 159.9962 437.7448 174.5104 432.4669 182.4272 416.6333 196.9414 420.5917 219.3724 410.0359 225.9698 400.7996 227.2892 425.8696 224.6503 464.1342 185.0662 452.259 152.0794 450.9395 Z" id="US.MS.021" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Claiborne County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>021</fips>
+        <incits>28021</incits>
+        <id>US.MS.021</id>
+        <population>9253</population>
+      </desc>
+    </path>
+    <path d="M 487.225 400.7996 557.1569 399.4802 550.5595 448.3006 528.1285 453.5784 488.5444 457.5369 487.225 400.7996 Z" id="US.MS.023" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Clarke County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>023</fips>
+        <incits>28023</incits>
+        <id>US.MS.023</id>
+        <population>16415</population>
+      </desc>
+    </path>
+    <path d="M 470.0718 183.087 484.586 172.5312 514.9338 172.5312 514.9338 191.0038 545.2817 194.9622 547.9206 208.1569 522.8507 216.0737 522.8507 208.1569 472.7108 208.1569 470.0718 183.087 Z" id="US.MS.025" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Clay County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>025</fips>
+        <incits>28025</incits>
+        <id>US.MS.025</id>
+        <population>20408</population>
+      </desc>
+    </path>
+    <path d="M 224.6503 464.1342 227.2892 425.8696 298.5406 425.8696 310.4159 449.62 313.0548 468.0926 295.9017 473.3705 290.6238 476.0095 224.6503 476.0095 224.6503 464.1342 Z" id="US.MS.029" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Copiah County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>029</fips>
+        <incits>28029</incits>
+        <id>US.MS.029</id>
+        <population>28921</population>
+      </desc>
+    </path>
+    <path d="M 163.9546 527.4688 165.2741 489.2042 224.6503 489.2042 239.1645 489.2042 239.1645 526.1493 189.0246 526.1493 173.1909 530.1078 163.9546 527.4688 Z" id="US.MS.037" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Franklin County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>037</fips>
+        <incits>28037</incits>
+        <id>US.MS.037</id>
+        <population>7931</population>
+      </desc>
+    </path>
+    <path d="M 342.0832 159.3365 364.5142 163.2949 401.4594 164.6144 402.7788 184.4064 401.4594 191.0038 361.8752 191.0038 313.0548 191.0038 311.7353 184.4064 311.7353 172.5312 342.0832 169.8922 342.0832 159.3365 Z" id="US.MS.043" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Grenada County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>043</fips>
+        <incits>28043</incits>
+        <id>US.MS.043</id>
+        <population>21612</population>
+      </desc>
+    </path>
+    <path d="M 251.0397 359.896 265.5539 350.6597 265.5539 362.535 295.9017 362.535 295.9017 375.7297 320.9716 375.7297 294.5822 408.7164 298.5406 425.8696 227.2892 425.8696 225.9698 400.7996 231.2476 382.327 239.1645 379.6881 251.0397 359.896 Z" id="US.MS.049" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hinds County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>049</fips>
+        <incits>28049</incits>
+        <id>US.MS.049</id>
+        <population>244899</population>
+      </desc>
+    </path>
+    <path d="M 282.707 245.1021 306.4575 241.1437 367.1531 258.2968 344.7221 299.2004 335.4858 305.7977 278.7486 287.3251 268.1928 275.4499 284.0265 268.8526 282.707 245.1021 Z" id="US.MS.051" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Holmes County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>051</fips>
+        <incits>28051</incits>
+        <id>US.MS.051</id>
+        <population>18428</population>
+      </desc>
+    </path>
+    <path d="M 228.6087 250.38 251.0397 250.38 265.5539 241.1437 282.707 245.1021 284.0265 268.8526 268.1928 275.4499 278.7486 287.3251 266.8733 300.5198 236.5255 300.5198 229.9282 275.4499 228.6087 250.38 Z" id="US.MS.053" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Humphreys County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>053</fips>
+        <incits>28053</incits>
+        <id>US.MS.053</id>
+        <population>8922</population>
+      </desc>
+    </path>
+    <path d="M 162.6352 287.3251 199.5803 287.3251 192.983 312.3951 192.983 337.465 227.2892 337.465 227.2892 344.0624 207.4972 350.6597 207.4972 369.1323 195.6219 367.8129 191.6635 349.3403 181.1078 349.3403 165.2741 340.104 167.913 326.9093 162.6352 287.3251 Z" id="US.MS.055" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Issaquena County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>055</fips>
+        <incits>28055</incits>
+        <id>US.MS.055</id>
+        <population>1395</population>
+      </desc>
+    </path>
+    <path d="M 540.0038 131.6276 541.3233 77.5293 571.6711 77.5293 596.741 77.5293 590.1437 131.6276 540.0038 131.6276 Z" id="US.MS.057" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Itawamba County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>057</fips>
+        <incits>28057</incits>
+        <id>US.MS.057</id>
+        <population>23434</population>
+      </desc>
+    </path>
+    <path d="M 427.8488 400.7996 487.225 400.7996 488.5444 457.5369 483.2665 457.5369 429.1682 461.4953 427.8488 400.7996 Z" id="US.MS.061" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jasper County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>061</fips>
+        <incits>28061</incits>
+        <id>US.MS.061</id>
+        <population>16470</population>
+      </desc>
+    </path>
+    <path d="M 152.0794 450.9395 185.0662 452.259 224.6503 464.1342 224.6503 476.0095 224.6503 489.2042 165.2741 489.2042 145.482 479.9679 141.5236 469.4121 138.8847 454.8979 152.0794 450.9395 Z" id="US.MS.063" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jefferson County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>063</fips>
+        <incits>28063</incits>
+        <id>US.MS.063</id>
+        <population>7629</population>
+      </desc>
+    </path>
+    <path d="M 487.225 299.2004 501.7391 299.2004 569.0321 299.2004 562.4348 349.3403 487.225 349.3403 487.225 299.2004 Z" id="US.MS.069" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Kemper County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>069</fips>
+        <incits>28069</incits>
+        <id>US.MS.069</id>
+        <population>10294</population>
+      </desc>
+    </path>
+    <path d="M 371.1115 64.3346 379.0284 64.3346 406.7372 64.3346 439.724 73.5709 439.724 89.4045 439.724 121.0718 401.4594 121.0718 371.1115 117.1134 371.1115 64.3346 Z" id="US.MS.071" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lafayette County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>071</fips>
+        <incits>28071</incits>
+        <id>US.MS.071</id>
+        <population>51318</population>
+      </desc>
+    </path>
+    <path d="M 487.225 349.3403 562.4348 349.3403 557.1569 399.4802 487.225 400.7996 487.225 349.3403 Z" id="US.MS.075" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lauderdale County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>075</fips>
+        <incits>28075</incits>
+        <id>US.MS.075</id>
+        <population>80254</population>
+      </desc>
+    </path>
+    <path d="M 369.7921 305.7977 369.7921 299.2004 429.1682 299.2004 429.1682 349.3403 427.8488 350.6597 369.7921 349.3403 369.7921 341.4234 369.7921 305.7977 Z" id="US.MS.079" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Leake County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>079</fips>
+        <incits>28079</incits>
+        <id>US.MS.079</id>
+        <population>23389</population>
+      </desc>
+    </path>
+    <path d="M 500.4197 134.2665 500.4197 92.0435 513.6144 70.9319 541.3233 77.5293 540.0038 131.6276 514.9338 134.2665 500.4197 134.2665 Z" id="US.MS.081" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lee County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>081</fips>
+        <incits>28081</incits>
+        <id>US.MS.081</id>
+        <population>85340</population>
+      </desc>
+    </path>
+    <path d="M 265.5539 241.1437 265.5539 172.5312 305.138 172.5312 311.7353 184.4064 313.0548 191.0038 317.0132 222.6711 306.4575 241.1437 282.707 245.1021 265.5539 241.1437 Z" id="US.MS.083" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Leflore County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>083</fips>
+        <incits>28083</incits>
+        <id>US.MS.083</id>
+        <population>31607</population>
+      </desc>
+    </path>
+    <path d="M 224.6503 489.2042 224.6503 476.0095 290.6238 476.0095 295.9017 473.3705 295.9017 526.1493 293.2628 526.1493 252.3592 526.1493 239.1645 526.1493 239.1645 489.2042 224.6503 489.2042 Z" id="US.MS.085" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lincoln County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>085</fips>
+        <incits>28085</incits>
+        <id>US.MS.085</id>
+        <population>34810</population>
+      </desc>
+    </path>
+    <path d="M 522.8507 216.0737 547.9206 208.1569 545.2817 194.9622 583.5463 181.7675 575.6295 247.741 522.8507 247.741 522.8507 216.0737 Z" id="US.MS.087" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lowndes County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>087</fips>
+        <incits>28087</incits>
+        <id>US.MS.087</id>
+        <population>59922</population>
+      </desc>
+    </path>
+    <path d="M 265.5539 350.6597 323.6106 326.9093 335.4858 305.7977 369.7921 305.7977 369.7921 341.4234 361.8752 348.0208 351.3195 349.3403 327.569 363.8544 320.9716 375.7297 295.9017 375.7297 295.9017 362.535 265.5539 362.535 265.5539 350.6597 Z" id="US.MS.089" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Madison County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>089</fips>
+        <incits>28089</incits>
+        <id>US.MS.089</id>
+        <population>100412</population>
+      </desc>
+    </path>
+    <path d="M 514.9338 134.2665 540.0038 131.6276 590.1437 131.6276 583.5463 181.7675 545.2817 194.9622 514.9338 191.0038 514.9338 172.5312 514.9338 134.2665 Z" id="US.MS.095" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Monroe County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>095</fips>
+        <incits>28095</incits>
+        <id>US.MS.095</id>
+        <population>36116</population>
+      </desc>
+    </path>
+    <path d="M 361.8752 191.0038 401.4594 191.0038 402.7788 222.6711 419.9319 222.6711 409.3762 226.6295 409.3762 247.741 381.6673 247.741 381.6673 230.5879 361.8752 229.2684 361.8752 191.0038 Z" id="US.MS.097" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Montgomery County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>097</fips>
+        <incits>28097</incits>
+        <id>US.MS.097</id>
+        <population>10553</population>
+      </desc>
+    </path>
+    <path d="M 429.1682 349.3403 429.1682 299.2004 487.225 299.2004 487.225 349.3403 429.1682 349.3403 Z" id="US.MS.099" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Neshoba County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>099</fips>
+        <incits>28099</incits>
+        <id>US.MS.099</id>
+        <population>29507</population>
+      </desc>
+    </path>
+    <path d="M 427.8488 350.6597 429.1682 349.3403 487.225 349.3403 487.225 400.7996 427.8488 400.7996 427.8488 350.6597 Z" id="US.MS.101" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Newton County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>101</fips>
+        <incits>28101</incits>
+        <id>US.MS.101</id>
+        <population>21689</population>
+      </desc>
+    </path>
+    <path d="M 501.7391 247.741 522.8507 247.741 575.6295 247.741 569.0321 299.2004 501.7391 299.2004 501.7391 247.741 Z" id="US.MS.103" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Noxubee County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>103</fips>
+        <incits>28103</incits>
+        <id>US.MS.103</id>
+        <population>11089</population>
+      </desc>
+    </path>
+    <path d="M 472.7108 208.1569 522.8507 208.1569 522.8507 216.0737 522.8507 247.741 501.7391 247.741 462.155 247.741 462.155 212.1153 472.7108 208.1569 Z" id="US.MS.105" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Oktibbeha County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>105</fips>
+        <incits>28105</incits>
+        <id>US.MS.105</id>
+        <population>49043</population>
+      </desc>
+    </path>
+    <path d="M 302.4991 64.3346 371.1115 64.3346 371.1115 117.1134 340.7637 121.0718 311.7353 121.0718 302.4991 101.2798 302.4991 70.9319 302.4991 64.3346 Z" id="US.MS.107" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Panola County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>107</fips>
+        <incits>28107</incits>
+        <id>US.MS.107</id>
+        <population>34402</population>
+      </desc>
+    </path>
+    <path d="M 252.3592 576.2892 252.3592 526.1493 293.2628 526.1493 293.2628 576.2892 252.3592 576.2892 Z" id="US.MS.113" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pike County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>113</fips>
+        <incits>28113</incits>
+        <id>US.MS.113</id>
+        <population>40014</population>
+      </desc>
+    </path>
+    <path d="M 439.724 89.4045 500.4197 92.0435 500.4197 134.2665 455.5577 134.2665 439.724 121.0718 439.724 89.4045 Z" id="US.MS.115" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pontotoc County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>115</fips>
+        <incits>28115</incits>
+        <id>US.MS.115</id>
+        <population>30897</population>
+      </desc>
+    </path>
+    <path d="M 513.6144 70.9319 513.6144 59.0567 516.2533 35.3062 566.3932 36.6257 571.6711 37.9452 571.6711 77.5293 541.3233 77.5293 513.6144 70.9319 Z" id="US.MS.117" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Prentiss County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>117</fips>
+        <incits>28117</incits>
+        <id>US.MS.117</id>
+        <population>25388</population>
+      </desc>
+    </path>
+    <path d="M 265.5539 134.2665 265.5539 106.5577 273.4707 82.8072 286.6654 70.9319 302.4991 70.9319 302.4991 101.2798 311.7353 121.0718 311.7353 134.2665 265.5539 134.2665 Z" id="US.MS.119" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Quitman County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>119</fips>
+        <incits>28119</incits>
+        <id>US.MS.119</id>
+        <population>7803</population>
+      </desc>
+    </path>
+    <path d="M 320.9716 375.7297 327.569 363.8544 351.3195 349.3403 361.8752 348.0208 369.7921 381.0076 369.7921 400.7996 369.7921 425.8696 298.5406 425.8696 294.5822 408.7164 320.9716 375.7297 Z" id="US.MS.121" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Rankin County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>121</fips>
+        <incits>28121</incits>
+        <id>US.MS.121</id>
+        <population>146767</population>
+      </desc>
+    </path>
+    <path d="M 361.8752 348.0208 369.7921 341.4234 369.7921 349.3403 427.8488 350.6597 427.8488 400.7996 369.7921 400.7996 369.7921 381.0076 361.8752 348.0208 Z" id="US.MS.123" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Scott County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>123</fips>
+        <incits>28123</incits>
+        <id>US.MS.123</id>
+        <population>28273</population>
+      </desc>
+    </path>
+    <path d="M 199.5803 287.3251 199.5803 275.4499 229.9282 275.4499 236.5255 300.5198 222.0113 312.3951 231.2476 324.2703 227.2892 337.465 192.983 337.465 192.983 312.3951 199.5803 287.3251 Z" id="US.MS.125" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Sharkey County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>125</fips>
+        <incits>28125</incits>
+        <id>US.MS.125</id>
+        <population>4708</population>
+      </desc>
+    </path>
+    <path d="M 298.5406 425.8696 369.7921 425.8696 380.3478 431.1474 381.6673 464.1342 365.8336 465.4537 334.1664 466.7732 313.0548 468.0926 310.4159 449.62 298.5406 425.8696 Z" id="US.MS.127" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Simpson County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>127</fips>
+        <incits>28127</incits>
+        <id>US.MS.127</id>
+        <population>27500</population>
+      </desc>
+    </path>
+    <path d="M 369.7921 400.7996 427.8488 400.7996 429.1682 461.4953 417.293 462.8147 381.6673 464.1342 380.3478 431.1474 369.7921 425.8696 369.7921 400.7996 Z" id="US.MS.129" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Smith County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>129</fips>
+        <incits>28129</incits>
+        <id>US.MS.129</id>
+        <population>16225</population>
+      </desc>
+    </path>
+    <path d="M 220.6919 212.1153 236.5255 200.2401 236.5255 147.4612 265.5539 147.4612 265.5539 172.5312 265.5539 241.1437 251.0397 250.38 228.6087 250.38 220.6919 250.38 220.6919 212.1153 Z" id="US.MS.133" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Sunflower County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>133</fips>
+        <incits>28133</incits>
+        <id>US.MS.133</id>
+        <population>27997</population>
+      </desc>
+    </path>
+    <path d="M 265.5539 172.5312 265.5539 147.4612 265.5539 134.2665 311.7353 134.2665 311.7353 121.0718 340.7637 121.0718 342.0832 159.3365 342.0832 169.8922 311.7353 172.5312 311.7353 184.4064 305.138 172.5312 265.5539 172.5312 Z" id="US.MS.135" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Tallahatchie County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>135</fips>
+        <incits>28135</incits>
+        <id>US.MS.135</id>
+        <population>15081</population>
+      </desc>
+    </path>
+    <path d="M 302.4991 40.5841 324.9301 41.9036 344.7221 33.9868 371.1115 33.9868 379.0284 45.862 379.0284 64.3346 371.1115 64.3346 302.4991 64.3346 295.9017 57.7372 302.4991 40.5841 Z" id="US.MS.137" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Tate County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>137</fips>
+        <incits>28137</incits>
+        <id>US.MS.137</id>
+        <population>28373</population>
+      </desc>
+    </path>
+    <path d="M 566.3932 36.6257 566.3932 1 590.1437 1 604.6578 16.8336 596.741 77.5293 571.6711 77.5293 571.6711 37.9452 566.3932 36.6257 Z" id="US.MS.141" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Tishomingo County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>141</fips>
+        <incits>28141</incits>
+        <id>US.MS.141</id>
+        <population>19529</population>
+      </desc>
+    </path>
+    <path d="M 439.724 60.3762 462.155 59.0567 513.6144 59.0567 513.6144 70.9319 500.4197 92.0435 439.724 89.4045 439.724 73.5709 439.724 60.3762 Z" id="US.MS.145" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Union County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>145</fips>
+        <incits>28145</incits>
+        <id>US.MS.145</id>
+        <population>27754</population>
+      </desc>
+    </path>
+    <path d="M 293.2628 526.1493 295.9017 526.1493 324.9301 528.7883 326.2495 551.2193 355.2779 565.7335 355.2779 576.2892 293.2628 576.2892 293.2628 526.1493 Z" id="US.MS.147" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Walthall County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>147</fips>
+        <incits>28147</incits>
+        <id>US.MS.147</id>
+        <population>14931</population>
+      </desc>
+    </path>
+    <path d="M 181.1078 349.3403 191.6635 349.3403 195.6219 367.8129 207.4972 369.1323 207.4972 350.6597 227.2892 344.0624 251.0397 359.896 239.1645 379.6881 231.2476 382.327 225.9698 400.7996 219.3724 410.0359 196.9414 420.5917 182.4272 416.6333 163.9546 404.758 190.344 390.2439 191.6635 370.4518 173.1909 366.4934 181.1078 349.3403 Z" id="US.MS.149" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Warren County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>149</fips>
+        <incits>28149</incits>
+        <id>US.MS.149</id>
+        <population>48218</population>
+      </desc>
+    </path>
+    <path d="M 401.4594 191.0038 402.7788 184.4064 447.6408 183.087 470.0718 183.087 472.7108 208.1569 462.155 212.1153 448.9603 212.1153 419.9319 222.6711 402.7788 222.6711 401.4594 191.0038 Z" id="US.MS.155" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Webster County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>155</fips>
+        <incits>28155</incits>
+        <id>US.MS.155</id>
+        <population>9987</population>
+      </desc>
+    </path>
+    <path d="M 101.9395 549.8998 115.1342 544.6219 120.4121 531.4272 156.0378 523.5104 163.9546 527.4688 173.1909 530.1078 178.4688 536.7051 178.4688 577.6087 95.3422 577.6087 101.9395 549.8998 Z" id="US.MS.157" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wilkinson County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>157</fips>
+        <incits>28157</incits>
+        <id>US.MS.157</id>
+        <population>9381</population>
+      </desc>
+    </path>
+    <path d="M 429.1682 299.2004 429.1682 272.811 443.6824 260.9357 459.5161 260.9357 462.155 247.741 501.7391 247.741 501.7391 299.2004 487.225 299.2004 429.1682 299.2004 Z" id="US.MS.159" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Winston County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>159</fips>
+        <incits>28159</incits>
+        <id>US.MS.159</id>
+        <population>18788</population>
+      </desc>
+    </path>
+    <path d="M 340.7637 121.0718 371.1115 117.1134 401.4594 121.0718 401.4594 164.6144 364.5142 163.2949 342.0832 159.3365 340.7637 121.0718 Z" id="US.MS.161" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Yalobusha County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>161</fips>
+        <incits>28161</incits>
+        <id>US.MS.161</id>
+        <population>12373</population>
+      </desc>
+    </path>
+    <path d="M 236.5255 300.5198 266.8733 300.5198 278.7486 287.3251 335.4858 305.7977 323.6106 326.9093 265.5539 350.6597 251.0397 359.896 227.2892 344.0624 227.2892 337.465 231.2476 324.2703 222.0113 312.3951 236.5255 300.5198 Z" id="US.MS.163" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Yazoo County</name>
+        <stateAbbrev>MS</stateAbbrev>
+        <state>Mississippi</state>
+        <fips>163</fips>
+        <incits>28163</incits>
+        <id>US.MS.163</id>
+        <population>27883</population>
+      </desc>
+    </path>
+  </g>
+</svg>

@@ -1,0 +1,830 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="arkansas">
+    <path d="M 22.6434 430.4864 23.9961 353.3818 99.7481 362.8508 98.3953 407.4903 52.4031 406.1376 53.7558 430.4864 22.6434 430.4864 Z" id="US.AR.113" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Polk County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>113</fips>
+        <incits>05113</incits>
+        <id>US.AR.113</id>
+        <population>20406</population>
+      </desc>
+    </path>
+    <path d="M 107.8643 100.4244 107.8643 127.4787 105.1589 138.3004 41.5814 141.0058 33.4651 157.2384 10.469 157.2384 1 100.4244 107.8643 100.4244 Z" id="US.AR.007" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Benton County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>007</fips>
+        <incits>05007</incits>
+        <id>US.AR.007</id>
+        <population>237297</population>
+      </desc>
+    </path>
+    <path d="M 189.0271 154.5329 189.0271 100.4244 252.6047 100.4244 247.1938 155.8857 240.4302 154.5329 189.0271 154.5329 Z" id="US.AR.009" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Boone County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>009</fips>
+        <incits>05009</incits>
+        <id>US.AR.009</id>
+        <population>37396</population>
+      </desc>
+    </path>
+    <path d="M 107.8643 100.4244 189.0271 100.4244 189.0271 154.5329 163.3256 153.1802 136.2713 127.4787 107.8643 127.4787 107.8643 100.4244 Z" id="US.AR.015" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Carroll County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>015</fips>
+        <incits>05015</incits>
+        <id>US.AR.015</id>
+        <population>27808</population>
+      </desc>
+    </path>
+    <path d="M 299.9496 100.4244 352.7054 100.4244 352.7054 134.2422 347.2946 153.1802 316.1822 174.8236 316.1822 162.6492 308.0659 135.595 293.186 124.7733 299.9496 100.4244 Z" id="US.AR.005" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Baxter County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>005</fips>
+        <incits>05005</incits>
+        <id>US.AR.005</id>
+        <population>40957</population>
+      </desc>
+    </path>
+    <path d="M 548.8488 100.4244 639.4806 100.4244 651.655 116.657 634.0698 142.3585 615.1318 134.2422 546.1434 134.2422 548.8488 100.4244 Z" id="US.AR.021" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Clay County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>021</fips>
+        <incits>05021</incits>
+        <id>US.AR.021</id>
+        <population>15402</population>
+      </desc>
+    </path>
+    <path d="M 513.6783 212.6996 513.6783 188.3508 539.3798 176.1764 607.0155 172.1182 619.1899 172.1182 620.5426 214.0523 513.6783 212.6996 Z" id="US.AR.031" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Craighead County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>031</fips>
+        <incits>05031</incits>
+        <id>US.AR.031</id>
+        <population>101488</population>
+      </desc>
+    </path>
+    <path d="M 18.5853 205.936 94.3372 205.936 102.4535 205.936 78.1047 250.5756 42.9341 264.1027 28.0543 257.3391 18.5853 205.936 Z" id="US.AR.033" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Crawford County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>033</fips>
+        <incits>05033</incits>
+        <id>US.AR.033</id>
+        <population>61640</population>
+      </desc>
+    </path>
+    <path d="M 589.4302 251.9283 620.5426 251.9283 640.8333 251.9283 648.9496 260.0446 646.2442 297.9205 619.1899 318.2112 602.9574 338.5019 602.9574 327.6802 604.3101 293.8624 589.4302 293.8624 589.4302 251.9283 Z" id="US.AR.035" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Crittenden County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>035</fips>
+        <incits>05035</incits>
+        <id>US.AR.035</id>
+        <population>49746</population>
+      </desc>
+    </path>
+    <path d="M 512.3256 293.8624 512.3256 264.1027 512.3256 251.9283 589.4302 251.9283 589.4302 293.8624 512.3256 293.8624 Z" id="US.AR.037" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cross County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>037</fips>
+        <incits>05037</incits>
+        <id>US.AR.037</id>
+        <population>17548</population>
+      </desc>
+    </path>
+    <path d="M 78.1047 250.5756 102.4535 205.936 132.2132 204.5833 130.8605 261.3973 101.1008 281.688 84.8682 284.3934 78.1047 250.5756 Z" id="US.AR.047" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Franklin County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>047</fips>
+        <incits>05047</incits>
+        <id>US.AR.047</id>
+        <population>18034</population>
+      </desc>
+    </path>
+    <path d="M 352.7054 134.2422 352.7054 100.4244 454.1589 100.4244 452.8062 123.4205 418.9884 135.595 352.7054 134.2422 Z" id="US.AR.049" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Fulton County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>049</fips>
+        <incits>05049</incits>
+        <id>US.AR.049</id>
+        <population>12304</population>
+      </desc>
+    </path>
+    <path d="M 546.1434 150.4748 546.1434 134.2422 615.1318 134.2422 634.0698 142.3585 607.0155 172.1182 539.3798 176.1764 546.1434 150.4748 Z" id="US.AR.055" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Greene County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>055</fips>
+        <incits>05055</incits>
+        <id>US.AR.055</id>
+        <population>43097</population>
+      </desc>
+    </path>
+    <path d="M 397.345 191.0562 416.2829 180.2345 466.3333 186.9981 489.3295 186.9981 470.3915 208.6415 464.9806 239.7539 435.2209 238.4012 405.4612 238.4012 398.6977 214.0523 397.345 191.0562 Z" id="US.AR.063" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Independence County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>063</fips>
+        <incits>05063</incits>
+        <id>US.AR.063</id>
+        <population>36997</population>
+      </desc>
+    </path>
+    <path d="M 352.7054 134.2422 418.9884 135.595 416.2829 180.2345 397.345 191.0562 347.2946 153.1802 352.7054 134.2422 Z" id="US.AR.065" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Izard County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>065</fips>
+        <incits>05065</incits>
+        <id>US.AR.065</id>
+        <population>13368</population>
+      </desc>
+    </path>
+    <path d="M 435.2209 238.4012 464.9806 239.7539 470.3915 208.6415 489.3295 186.9981 513.6783 188.3508 513.6783 212.6996 512.3256 251.9283 512.3256 264.1027 482.5659 264.1027 469.0388 251.9283 433.8682 251.9283 435.2209 238.4012 Z" id="US.AR.067" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jackson County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>067</fips>
+        <incits>05067</incits>
+        <id>US.AR.067</id>
+        <population>17615</population>
+      </desc>
+    </path>
+    <path d="M 466.3333 186.9981 467.686 138.3004 479.8605 134.2422 498.7984 147.7694 546.1434 150.4748 539.3798 176.1764 513.6783 188.3508 489.3295 186.9981 466.3333 186.9981 Z" id="US.AR.075" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lawrence County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>075</fips>
+        <incits>05075</incits>
+        <id>US.AR.075</id>
+        <population>17011</population>
+      </desc>
+    </path>
+    <path d="M 504.2093 333.0911 504.2093 327.6802 602.9574 327.6802 602.9574 338.5019 577.2558 365.5562 510.9729 365.5562 504.2093 333.0911 Z" id="US.AR.077" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lee County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>077</fips>
+        <incits>05077</incits>
+        <id>US.AR.077</id>
+        <population>10015</population>
+      </desc>
+    </path>
+    <path d="M 68.6357 300.626 84.8682 284.3934 101.1008 281.688 130.8605 261.3973 171.4419 254.6337 189.0271 268.1609 193.0853 269.5136 130.8605 295.2151 130.8605 311.4477 79.4574 310.095 68.6357 300.626 Z" id="US.AR.083" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Logan County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>083</fips>
+        <incits>05083</incits>
+        <id>US.AR.083</id>
+        <population>22082</population>
+      </desc>
+    </path>
+    <path d="M 94.3372 205.936 97.0426 158.5911 105.1589 138.3004 107.8643 127.4787 136.2713 127.4787 163.3256 153.1802 167.3837 176.1764 157.9147 205.936 132.2132 204.5833 102.4535 205.936 94.3372 205.936 Z" id="US.AR.087" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Madison County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>087</fips>
+        <incits>05087</incits>
+        <id>US.AR.087</id>
+        <population>15701</population>
+      </desc>
+    </path>
+    <path d="M 247.1938 155.8857 252.6047 100.4244 299.9496 100.4244 293.186 124.7733 308.0659 135.595 316.1822 162.6492 255.3101 161.2965 247.1938 155.8857 Z" id="US.AR.089" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Marion County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>089</fips>
+        <incits>05089</incits>
+        <id>US.AR.089</id>
+        <population>16430</population>
+      </desc>
+    </path>
+    <path d="M 619.1899 172.1182 699 172.1182 688.1783 205.936 673.2984 226.2267 640.8333 251.9283 620.5426 251.9283 620.5426 214.0523 619.1899 172.1182 Z" id="US.AR.093" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Mississippi County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>093</fips>
+        <incits>05093</incits>
+        <id>US.AR.093</id>
+        <population>44765</population>
+      </desc>
+    </path>
+    <path d="M 466.3333 327.6802 496.093 314.1531 504.2093 333.0911 510.9729 365.5562 509.6202 408.843 463.6279 376.3779 466.3333 327.6802 Z" id="US.AR.095" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Monroe County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>095</fips>
+        <incits>05095</incits>
+        <id>US.AR.095</id>
+        <population>7682</population>
+      </desc>
+    </path>
+    <path d="M 163.3256 153.1802 189.0271 154.5329 240.4302 154.5329 239.0775 211.3469 209.3178 209.9942 157.9147 205.936 167.3837 176.1764 163.3256 153.1802 Z" id="US.AR.101" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Newton County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>101</fips>
+        <incits>05101</incits>
+        <id>US.AR.101</id>
+        <population>8064</population>
+      </desc>
+    </path>
+    <path d="M 501.5039 439.9554 509.6202 408.843 510.9729 365.5562 577.2558 365.5562 582.6667 380.436 573.1977 402.0795 524.5 439.9554 501.5039 439.9554 Z" id="US.AR.107" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Phillips County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>107</fips>
+        <incits>05107</incits>
+        <id>US.AR.107</id>
+        <population>20399</population>
+      </desc>
+    </path>
+    <path d="M 513.6783 212.6996 620.5426 214.0523 620.5426 251.9283 589.4302 251.9283 512.3256 251.9283 513.6783 212.6996 Z" id="US.AR.111" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Poinsett County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>111</fips>
+        <incits>05111</incits>
+        <id>US.AR.111</id>
+        <population>24145</population>
+      </desc>
+    </path>
+    <path d="M 404.1085 308.7422 451.4535 301.9787 466.3333 327.6802 463.6279 376.3779 432.5155 376.3779 421.6938 388.5523 418.9884 326.3275 404.1085 308.7422 Z" id="US.AR.117" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Prairie County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>117</fips>
+        <incits>05117</incits>
+        <id>US.AR.117</id>
+        <population>8374</population>
+      </desc>
+    </path>
+    <path d="M 459.5698 100.4244 548.8488 100.4244 546.1434 134.2422 546.1434 150.4748 498.7984 147.7694 479.8605 134.2422 478.5078 118.0097 459.5698 100.4244 Z" id="US.AR.121" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Randolph County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>121</fips>
+        <incits>05121</incits>
+        <id>US.AR.121</id>
+        <population>17692</population>
+      </desc>
+    </path>
+    <path d="M 496.093 314.1531 512.3256 293.8624 589.4302 293.8624 604.3101 293.8624 602.9574 327.6802 504.2093 327.6802 504.2093 333.0911 496.093 314.1531 Z" id="US.AR.123" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>St. Francis County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>123</fips>
+        <incits>05123</incits>
+        <id>US.AR.123</id>
+        <population>27260</population>
+      </desc>
+    </path>
+    <path d="M 239.0775 211.3469 240.4302 154.5329 247.1938 155.8857 255.3101 161.2965 316.1822 162.6492 316.1822 174.8236 316.1822 201.8779 285.0698 201.8779 259.3682 211.3469 239.0775 211.3469 Z" id="US.AR.129" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Searcy County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>129</fips>
+        <incits>05129</incits>
+        <id>US.AR.129</id>
+        <population>8023</population>
+      </desc>
+    </path>
+    <path d="M 25.3488 323.6221 28.0543 257.3391 42.9341 264.1027 78.1047 250.5756 84.8682 284.3934 68.6357 300.626 56.4612 319.564 25.3488 323.6221 Z" id="US.AR.131" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Sebastian County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>131</fips>
+        <incits>05131</incits>
+        <id>US.AR.131</id>
+        <population>127342</population>
+      </desc>
+    </path>
+    <path d="M 416.2829 180.2345 418.9884 135.595 452.8062 123.4205 454.1589 100.4244 459.5698 100.4244 478.5078 118.0097 479.8605 134.2422 467.686 138.3004 466.3333 186.9981 416.2829 180.2345 Z" id="US.AR.135" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Sharp County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>135</fips>
+        <incits>05135</incits>
+        <id>US.AR.135</id>
+        <population>17049</population>
+      </desc>
+    </path>
+    <path d="M 316.1822 201.8779 316.1822 174.8236 347.2946 153.1802 397.345 191.0562 398.6977 214.0523 340.531 212.6996 316.1822 201.8779 Z" id="US.AR.137" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Stone County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>137</fips>
+        <incits>05137</incits>
+        <id>US.AR.137</id>
+        <population>12581</population>
+      </desc>
+    </path>
+    <path d="M 253.9574 247.8702 259.3682 211.3469 285.0698 201.8779 316.1822 201.8779 340.531 212.6996 339.1783 262.75 306.7132 261.3973 306.7132 249.2229 253.9574 247.8702 Z" id="US.AR.141" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Van Buren County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>141</fips>
+        <incits>05141</incits>
+        <id>US.AR.141</id>
+        <population>16932</population>
+      </desc>
+    </path>
+    <path d="M 10.469 157.2384 33.4651 157.2384 41.5814 141.0058 105.1589 138.3004 97.0426 158.5911 94.3372 205.936 18.5853 205.936 10.469 157.2384 Z" id="US.AR.143" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Washington County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>143</fips>
+        <incits>05143</incits>
+        <id>US.AR.143</id>
+        <population>216410</population>
+      </desc>
+    </path>
+    <path d="M 358.1163 304.6841 359.469 262.75 395.9922 262.75 405.4612 238.4012 435.2209 238.4012 433.8682 251.9283 469.0388 251.9283 456.8643 261.3973 462.2752 280.3353 451.4535 301.9787 404.1085 308.7422 358.1163 304.6841 Z" id="US.AR.145" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>White County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>145</fips>
+        <incits>05145</incits>
+        <id>US.AR.145</id>
+        <population>78483</population>
+      </desc>
+    </path>
+    <path d="M 451.4535 301.9787 462.2752 280.3353 456.8643 261.3973 469.0388 251.9283 482.5659 264.1027 512.3256 264.1027 512.3256 293.8624 496.093 314.1531 466.3333 327.6802 451.4535 301.9787 Z" id="US.AR.147" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Woodruff County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>147</fips>
+        <incits>05147</incits>
+        <id>US.AR.147</id>
+        <population>7072</population>
+      </desc>
+    </path>
+    <path d="M 21.2907 465.657 46.9922 483.2422 95.6899 492.7112 114.6279 513.0019 83.5155 521.1182 65.9302 515.7074 37.5233 521.1182 19.938 508.9438 21.2907 465.657 Z" id="US.AR.081" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Little River County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>081</fips>
+        <incits>05081</incits>
+        <id>US.AR.081</id>
+        <population>12730</population>
+      </desc>
+    </path>
+    <path d="M 23.9961 353.3818 25.3488 323.6221 56.4612 319.564 68.6357 300.626 79.4574 310.095 130.8605 311.4477 130.8605 350.6764 99.7481 362.8508 23.9961 353.3818 Z" id="US.AR.127" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Scott County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>127</fips>
+        <incits>05127</incits>
+        <id>US.AR.127</id>
+        <population>10950</population>
+      </desc>
+    </path>
+    <path d="M 21.2907 465.657 22.6434 430.4864 53.7558 430.4864 75.3992 430.4864 82.1628 472.4205 95.6899 492.7112 46.9922 483.2422 21.2907 465.657 Z" id="US.AR.133" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Sevier County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>133</fips>
+        <incits>05133</incits>
+        <id>US.AR.133</id>
+        <population>17366</population>
+      </desc>
+    </path>
+    <path d="M 417.6357 388.5523 421.6938 388.5523 432.5155 376.3779 463.6279 376.3779 509.6202 408.843 501.5039 439.9554 496.093 457.5407 473.0969 462.9516 458.2171 454.8353 454.1589 445.3663 443.3372 426.4283 416.2829 423.7229 417.6357 388.5523 Z" id="US.AR.001" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Arkansas County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>001</fips>
+        <incits>05001</incits>
+        <id>US.AR.001</id>
+        <population>18777</population>
+      </desc>
+    </path>
+    <path d="M 358.1163 312.8004 358.1163 304.6841 404.1085 308.7422 418.9884 326.3275 421.6938 388.5523 417.6357 388.5523 370.2907 387.1996 358.1163 312.8004 Z" id="US.AR.085" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lonoke County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>085</fips>
+        <incits>05085</incits>
+        <id>US.AR.085</id>
+        <population>70753</population>
+      </desc>
+    </path>
+    <path d="M 339.1783 262.75 340.531 212.6996 398.6977 214.0523 405.4612 238.4012 395.9922 262.75 359.469 262.75 339.1783 262.75 Z" id="US.AR.023" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cleburne County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>023</fips>
+        <incits>05023</incits>
+        <id>US.AR.023</id>
+        <population>25686</population>
+      </desc>
+    </path>
+    <path d="M 243.1357 289.8043 252.6047 291.157 253.9574 247.8702 306.7132 249.2229 306.7132 261.3973 294.5388 299.2733 272.8953 304.6841 226.9031 303.3314 243.1357 289.8043 Z" id="US.AR.029" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Conway County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>029</fips>
+        <incits>05029</incits>
+        <id>US.AR.029</id>
+        <population>21245</population>
+      </desc>
+    </path>
+    <path d="M 294.5388 299.2733 306.7132 261.3973 339.1783 262.75 359.469 262.75 358.1163 304.6841 358.1163 312.8004 341.8837 324.9748 297.2442 320.9167 294.5388 299.2733 Z" id="US.AR.045" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Faulkner County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>045</fips>
+        <incits>05045</incits>
+        <id>US.AR.045</id>
+        <population>119580</population>
+      </desc>
+    </path>
+    <path d="M 209.3178 209.9942 239.0775 211.3469 259.3682 211.3469 253.9574 247.8702 252.6047 291.157 243.1357 289.8043 222.845 297.9205 193.0853 269.5136 189.0271 268.1609 207.9651 228.9322 209.3178 209.9942 Z" id="US.AR.115" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pope County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>115</fips>
+        <incits>05115</incits>
+        <id>US.AR.115</id>
+        <population>62547</population>
+      </desc>
+    </path>
+    <path d="M 130.8605 261.3973 132.2132 204.5833 157.9147 205.936 209.3178 209.9942 207.9651 228.9322 189.0271 268.1609 171.4419 254.6337 130.8605 261.3973 Z" id="US.AR.071" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Johnson County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>071</fips>
+        <incits>05071</incits>
+        <id>US.AR.071</id>
+        <population>25846</population>
+      </desc>
+    </path>
+    <path d="M 130.8605 350.6764 130.8605 311.4477 130.8605 295.2151 193.0853 269.5136 222.845 297.9205 243.1357 289.8043 226.9031 303.3314 189.0271 331.7384 191.7326 346.6182 175.5 350.6764 130.8605 350.6764 Z" id="US.AR.149" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Yell County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>149</fips>
+        <incits>05149</incits>
+        <id>US.AR.149</id>
+        <population>21893</population>
+      </desc>
+    </path>
+    <path d="M 175.5 350.6764 191.7326 346.6182 221.4922 346.6182 235.0194 366.9089 259.3682 373.6725 262.0736 385.8469 239.0775 402.0795 174.1473 400.7267 175.5 350.6764 Z" id="US.AR.051" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Garland County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>051</fips>
+        <incits>05051</incits>
+        <id>US.AR.051</id>
+        <population>97173</population>
+      </desc>
+    </path>
+    <path d="M 278.3062 435.8973 279.6589 398.0213 340.531 387.1996 345.9419 387.1996 341.8837 448.0717 327.0039 449.4244 304.0078 437.25 278.3062 435.8973 Z" id="US.AR.053" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Grant County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>053</fips>
+        <incits>05053</incits>
+        <id>US.AR.053</id>
+        <population>18019</population>
+      </desc>
+    </path>
+    <path d="M 345.9419 387.1996 370.2907 387.1996 417.6357 388.5523 416.2829 423.7229 443.3372 426.4283 454.1589 445.3663 414.9302 431.8391 412.2248 444.0136 381.1124 448.0717 341.8837 448.0717 345.9419 387.1996 Z" id="US.AR.069" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jefferson County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>069</fips>
+        <incits>05069</incits>
+        <id>US.AR.069</id>
+        <population>73191</population>
+      </desc>
+    </path>
+    <path d="M 98.3953 407.4903 99.7481 362.8508 130.8605 350.6764 175.5 350.6764 174.1473 400.7267 174.1473 408.843 163.3256 408.843 98.3953 407.4903 Z" id="US.AR.097" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Montgomery County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>097</fips>
+        <incits>05097</incits>
+        <id>US.AR.097</id>
+        <population>9226</population>
+      </desc>
+    </path>
+    <path d="M 226.9031 303.3314 272.8953 304.6841 294.5388 299.2733 297.2442 320.9167 268.8372 335.7965 221.4922 334.4438 221.4922 346.6182 191.7326 346.6182 189.0271 331.7384 226.9031 303.3314 Z" id="US.AR.105" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Perry County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>105</fips>
+        <incits>05105</incits>
+        <id>US.AR.105</id>
+        <population>10345</population>
+      </desc>
+    </path>
+    <path d="M 297.2442 320.9167 341.8837 324.9748 358.1163 312.8004 370.2907 387.1996 345.9419 387.1996 340.531 387.1996 295.8915 358.7926 268.8372 335.7965 297.2442 320.9167 Z" id="US.AR.119" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pulaski County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>119</fips>
+        <incits>05119</incits>
+        <id>US.AR.119</id>
+        <population>391284</population>
+      </desc>
+    </path>
+    <path d="M 268.8372 335.7965 295.8915 358.7926 340.531 387.1996 279.6589 398.0213 262.0736 385.8469 259.3682 373.6725 235.0194 366.9089 221.4922 346.6182 221.4922 334.4438 268.8372 335.7965 Z" id="US.AR.125" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Saline County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>125</fips>
+        <incits>05125</incits>
+        <id>US.AR.125</id>
+        <population>114404</population>
+      </desc>
+    </path>
+    <path d="M 163.3256 408.843 174.1473 408.843 180.9109 416.9593 226.9031 423.7229 248.5465 434.5446 247.1938 484.595 217.4341 488.6531 195.7907 481.8895 179.5581 464.3043 170.0891 450.7771 163.3256 408.843 Z" id="US.AR.019" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Clark County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>019</fips>
+        <incits>05019</incits>
+        <id>US.AR.019</id>
+        <population>22743</population>
+      </desc>
+    </path>
+    <path d="M 327.0039 449.4244 341.8837 448.0717 381.1124 448.0717 378.407 487.3004 378.407 499.4748 328.3566 499.4748 327.0039 487.3004 306.7132 461.5988 327.0039 449.4244 Z" id="US.AR.025" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cleveland County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>025</fips>
+        <incits>05025</incits>
+        <id>US.AR.025</id>
+        <population>8593</population>
+      </desc>
+    </path>
+    <path d="M 248.5465 434.5446 278.3062 435.8973 304.0078 437.25 327.0039 449.4244 306.7132 461.5988 327.0039 487.3004 291.8333 485.9477 247.1938 484.595 248.5465 434.5446 Z" id="US.AR.039" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dallas County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>039</fips>
+        <incits>05039</incits>
+        <id>US.AR.039</id>
+        <population>7933</population>
+      </desc>
+    </path>
+    <path d="M 174.1473 408.843 174.1473 400.7267 239.0775 402.0795 262.0736 385.8469 279.6589 398.0213 278.3062 435.8973 248.5465 434.5446 226.9031 423.7229 180.9109 416.9593 174.1473 408.843 Z" id="US.AR.059" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hot Spring County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>059</fips>
+        <incits>05059</incits>
+        <id>US.AR.059</id>
+        <population>33500</population>
+      </desc>
+    </path>
+    <path d="M 381.1124 448.0717 412.2248 444.0136 414.9302 431.8391 454.1589 445.3663 458.2171 454.8353 439.2791 460.2461 439.2791 488.6531 378.407 487.3004 381.1124 448.0717 Z" id="US.AR.079" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lincoln County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>079</fips>
+        <incits>05079</incits>
+        <id>US.AR.079</id>
+        <population>14031</population>
+      </desc>
+    </path>
+    <path d="M 355.4109 576.5795 378.407 557.6415 377.0543 544.1143 452.8062 545.4671 452.8062 599.5756 364.8798 599.5756 355.4109 576.5795 Z" id="US.AR.003" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ashley County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>003</fips>
+        <incits>05003</incits>
+        <id>US.AR.003</id>
+        <population>21283</population>
+      </desc>
+    </path>
+    <path d="M 328.3566 499.4748 378.407 499.4748 377.0543 544.1143 378.407 557.6415 355.4109 576.5795 325.6512 557.6415 328.3566 499.4748 Z" id="US.AR.011" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Bradley County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>011</fips>
+        <incits>05011</incits>
+        <id>US.AR.011</id>
+        <population>11249</population>
+      </desc>
+    </path>
+    <path d="M 291.8333 485.9477 327.0039 487.3004 328.3566 499.4748 325.6512 557.6415 294.5388 548.1725 264.7791 526.5291 291.8333 495.4167 291.8333 485.9477 Z" id="US.AR.013" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Calhoun County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>013</fips>
+        <incits>05013</incits>
+        <id>US.AR.013</id>
+        <population>5241</population>
+      </desc>
+    </path>
+    <path d="M 161.9729 598.2229 163.3256 563.0523 179.5581 537.3508 214.7287 535.9981 235.0194 546.8198 233.6667 598.2229 161.9729 598.2229 Z" id="US.AR.027" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Columbia County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>027</fips>
+        <incits>05027</incits>
+        <id>US.AR.027</id>
+        <population>24164</population>
+      </desc>
+    </path>
+    <path d="M 378.407 499.4748 378.407 487.3004 439.2791 488.6531 454.1589 488.6531 452.8062 519.7655 452.8062 545.4671 377.0543 544.1143 378.407 499.4748 Z" id="US.AR.043" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Drew County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>043</fips>
+        <incits>05043</incits>
+        <id>US.AR.043</id>
+        <population>18785</population>
+      </desc>
+    </path>
+    <path d="M 95.6899 492.7112 113.2752 494.064 114.6279 456.188 167.3837 462.9516 163.3256 531.9399 129.5078 531.9399 114.6279 513.0019 95.6899 492.7112 Z" id="US.AR.057" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hempstead County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>057</fips>
+        <incits>05057</incits>
+        <id>US.AR.057</id>
+        <population>22474</population>
+      </desc>
+    </path>
+    <path d="M 98.3953 407.4903 114.6279 431.8391 114.6279 456.188 113.2752 494.064 95.6899 492.7112 82.1628 472.4205 75.3992 430.4864 53.7558 430.4864 52.4031 406.1376 98.3953 407.4903 Z" id="US.AR.061" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Howard County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>061</fips>
+        <incits>05061</incits>
+        <id>US.AR.061</id>
+        <population>13581</population>
+      </desc>
+    </path>
+    <path d="M 163.3256 531.9399 167.3837 462.9516 179.5581 464.3043 195.7907 481.8895 217.4341 488.6531 214.7287 535.9981 179.5581 537.3508 163.3256 531.9399 Z" id="US.AR.099" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Nevada County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>099</fips>
+        <incits>05099</incits>
+        <id>US.AR.099</id>
+        <population>8799</population>
+      </desc>
+    </path>
+    <path d="M 214.7287 535.9981 217.4341 488.6531 247.1938 484.595 291.8333 485.9477 291.8333 495.4167 264.7791 526.5291 294.5388 548.1725 235.0194 546.8198 214.7287 535.9981 Z" id="US.AR.103" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ouachita County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>103</fips>
+        <incits>05103</incits>
+        <id>US.AR.103</id>
+        <population>25002</population>
+      </desc>
+    </path>
+    <path d="M 98.3953 407.4903 163.3256 408.843 170.0891 450.7771 179.5581 464.3043 167.3837 462.9516 114.6279 456.188 114.6279 431.8391 98.3953 407.4903 Z" id="US.AR.109" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pike County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>109</fips>
+        <incits>05109</incits>
+        <id>US.AR.109</id>
+        <population>11177</population>
+      </desc>
+    </path>
+    <path d="M 233.6667 598.2229 235.0194 546.8198 294.5388 548.1725 325.6512 557.6415 355.4109 576.5795 364.8798 599.5756 233.6667 598.2229 Z" id="US.AR.139" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Union County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>139</fips>
+        <incits>05139</incits>
+        <id>US.AR.139</id>
+        <population>40694</population>
+      </desc>
+    </path>
+    <path d="M 129.5078 531.9399 163.3256 531.9399 179.5581 537.3508 163.3256 563.0523 161.9729 598.2229 115.9806 598.2229 134.9186 552.2306 129.5078 531.9399 Z" id="US.AR.073" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lafayette County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>073</fips>
+        <incits>05073</incits>
+        <id>US.AR.073</id>
+        <population>7252</population>
+      </desc>
+    </path>
+    <path d="M 83.5155 521.1182 114.6279 513.0019 129.5078 531.9399 134.9186 552.2306 115.9806 598.2229 83.5155 598.2229 83.5155 521.1182 Z" id="US.AR.091" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Miller County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>091</fips>
+        <incits>05091</incits>
+        <id>US.AR.091</id>
+        <population>43402</population>
+      </desc>
+    </path>
+    <path d="M 452.8062 545.4671 452.8062 519.7655 485.2713 519.7655 506.9147 568.4632 494.7403 599.5756 452.8062 599.5756 452.8062 545.4671 Z" id="US.AR.017" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Chicot County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>017</fips>
+        <incits>05017</incits>
+        <id>US.AR.017</id>
+        <population>11335</population>
+      </desc>
+    </path>
+    <path d="M 458.2171 454.8353 473.0969 462.9516 496.093 457.5407 501.5039 439.9554 524.5 439.9554 505.562 461.5988 505.562 506.2384 485.2713 519.7655 452.8062 519.7655 454.1589 488.6531 439.2791 488.6531 439.2791 460.2461 458.2171 454.8353 Z" id="US.AR.041" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Desha County</name>
+        <stateAbbrev>AR</stateAbbrev>
+        <state>Arkansas</state>
+        <fips>041</fips>
+        <incits>05041</incits>
+        <id>US.AR.041</id>
+        <population>12505</population>
+      </desc>
+    </path>
+  </g>
+</svg>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="connecticut">
+    <path d="M 269.0532 300.9011 282.3232 330.0951 351.327 322.1331 356.635 372.5589 388.4829 372.5589 401.7529 412.3688 430.9468 438.9087 375.2129 441.5627 324.7871 436.2548 277.0152 441.5627 223.9354 470.7567 234.5513 417.6768 184.1255 375.2129 152.2776 361.943 208.0114 346.019 269.0532 300.9011 Z" id="US.CT.009" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>New Haven County</name>
+        <stateAbbrev>CT</stateAbbrev>
+        <state>Connecticut</state>
+        <fips>009</fips>
+        <incits>09009</incits>
+        <id>US.CT.009</id>
+        <population>862287</population>
+      </desc>
+    </path>
+    <path d="M 261.0913 157.5856 438.9087 157.5856 436.2548 221.2814 452.1787 237.2053 476.0646 314.1711 454.8327 319.4791 441.5627 298.2471 367.251 303.5551 351.327 322.1331 282.3232 330.0951 269.0532 300.9011 255.7833 242.5133 282.3232 239.8593 284.9772 208.0114 303.5551 181.4715 253.1293 181.4715 261.0913 157.5856 Z" id="US.CT.003" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hartford County</name>
+        <stateAbbrev>CT</stateAbbrev>
+        <state>Connecticut</state>
+        <fips>003</fips>
+        <incits>09003</incits>
+        <id>US.CT.003</id>
+        <population>898272</population>
+      </desc>
+    </path>
+    <path d="M 75.3118 290.2852 88.5817 152.2776 261.0913 157.5856 253.1293 181.4715 303.5551 181.4715 284.9772 208.0114 282.3232 239.8593 255.7833 242.5133 269.0532 300.9011 208.0114 346.019 152.2776 361.943 101.8517 340.711 75.3118 290.2852 Z" id="US.CT.005" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Litchfield County</name>
+        <stateAbbrev>CT</stateAbbrev>
+        <state>Connecticut</state>
+        <fips>005</fips>
+        <incits>09005</incits>
+        <id>US.CT.005</id>
+        <population>186924</population>
+      </desc>
+    </path>
+    <path d="M 75.3118 290.2852 101.8517 340.711 152.2776 361.943 184.1255 375.2129 234.5513 417.6768 223.9354 470.7567 200.0494 470.7567 157.5856 502.6046 133.6996 502.6046 99.1977 537.1065 43.4639 547.7224 1 494.6426 88.5817 454.8327 64.6958 422.9848 75.3118 290.2852 Z" id="US.CT.001" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Fairfield County</name>
+        <stateAbbrev>CT</stateAbbrev>
+        <state>Connecticut</state>
+        <fips>001</fips>
+        <incits>09001</incits>
+        <id>US.CT.001</id>
+        <population>939904</population>
+      </desc>
+    </path>
+    <path d="M 454.8327 319.4791 468.1027 340.711 505.2586 338.057 513.2205 372.5589 468.1027 377.8669 494.6426 415.0228 491.9886 433.6008 430.9468 438.9087 401.7529 412.3688 388.4829 372.5589 356.635 372.5589 351.327 322.1331 367.251 303.5551 441.5627 298.2471 454.8327 319.4791 Z" id="US.CT.007" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Middlesex County</name>
+        <stateAbbrev>CT</stateAbbrev>
+        <state>Connecticut</state>
+        <fips>007</fips>
+        <incits>09007</incits>
+        <id>US.CT.007</id>
+        <population>165562</population>
+      </desc>
+    </path>
+    <path d="M 454.8327 319.4791 476.0646 314.1711 537.1065 274.3612 568.9544 290.2852 640.6122 300.9011 699 300.9011 696.346 380.5209 685.73 407.0608 491.9886 433.6008 494.6426 415.0228 468.1027 377.8669 513.2205 372.5589 505.2586 338.057 468.1027 340.711 454.8327 319.4791 Z" id="US.CT.011" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>New London County</name>
+        <stateAbbrev>CT</stateAbbrev>
+        <state>Connecticut</state>
+        <fips>011</fips>
+        <incits>09011</incits>
+        <id>US.CT.011</id>
+        <population>274150</population>
+      </desc>
+    </path>
+    <path d="M 438.9087 157.5856 584.8783 160.2395 587.5323 184.1255 545.0684 186.7795 545.0684 229.2433 566.3004 258.4373 537.1065 274.3612 476.0646 314.1711 452.1787 237.2053 436.2548 221.2814 438.9087 157.5856 Z" id="US.CT.013" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Tolland County</name>
+        <stateAbbrev>CT</stateAbbrev>
+        <state>Connecticut</state>
+        <fips>013</fips>
+        <incits>09013</incits>
+        <id>US.CT.013</id>
+        <population>151377</population>
+      </desc>
+    </path>
+    <path d="M 584.8783 160.2395 693.692 162.8935 699 300.9011 640.6122 300.9011 568.9544 290.2852 537.1065 274.3612 566.3004 258.4373 545.0684 229.2433 545.0684 186.7795 587.5323 184.1255 584.8783 160.2395 Z" id="US.CT.015" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Windham County</name>
+        <stateAbbrev>CT</stateAbbrev>
+        <state>Connecticut</state>
+        <fips>015</fips>
+        <incits>09015</incits>
+        <id>US.CT.015</id>
+        <population>117604</population>
+      </desc>
+    </path>
+  </g>
+</svg>

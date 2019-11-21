@@ -1,0 +1,1178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="united_states_of_america">
+    <path d="M 664.3327 234.3248 661.1034 229.9558 656.1645 231.3805 656.0695 231.1905 644.5771 234.1349 643.9122 234.2299 635.744 236.0345 635.4591 224.1621 659.0139 218.6533 662.7181 214.3793 664.7126 216.6588 663.9528 224.0671 669.8415 226.1567 671.1712 232.1403 666.6122 237.1742 664.3327 234.3248 Z" id="US.MA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>0</labelrank>
+        <code_hasc>US.MA</code_hasc>
+        <name>Massachusetts</name>
+        <admin>United States of America</admin>
+        <type_en>State</type_en>
+        <region>Northeast</region>
+        <woe_id>2347580</woe_id>
+        <woe_name>Massachusetts</woe_name>
+        <longitude>-71</longitude>
+        <middle-y>0.47</middle-y>
+        <middle-x>0.36</middle-x>
+        <woe_label>Massachusetts, US, United States</woe_label>
+        <fips>US25</fips>
+        <iso_a2>US</iso_a2>
+        <latitude>42</latitude>
+        <objectid_1>2059</objectid_1>
+        <postal>MA</postal>
+        <type>State</type>
+        <id>US.MA</id>
+      </desc>
+    </path>
+    <path d="M 403.7134 190.9761 400.9562 192.4391 401.3361 202.127 396.6821 205.1663 394.7826 210.96 397.347 213.0496 396.0173 219.2232 396.0173 224.637 404.7553 229.6709 410.3591 235.5596 414.9181 237.934 415.8679 244.8675 396.0173 245.7223 372.2726 246.2922 352.422 246.3872 352.5169 216.2788 347.768 211.055 351.3772 205.3563 350.9023 198.8977 348.7178 193.5789 348.1479 179.2371 345.1086 167.6496 345.5835 159.5764 344.2538 153.6877 367.1437 153.7827 367.2387 147.3242 370.9428 148.6539 373.6972 158.2467 381.8654 159.5764 383.1951 161.571 388.7989 159.4815 395.6374 160.9061 399.7215 164.5153 402.6658 164.0404 406.7499 167.8396 409.7892 168.6944 415.393 165.1802 417.0076 167.2697 423.9411 166.6049 426.3156 168.2195 429.8664 168.1572 428.6248 169.2214 423.7764 172.2517 419.534 174.0698 416.2007 176.191 410.7463 180.4334 406.8069 184.3727 402.5645 186.4939 400.7464 188.009 403.7134 190.9761 Z" id="US.MN" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>0</labelrank>
+        <code_hasc>US.MN</code_hasc>
+        <name>Minnesota</name>
+        <admin>United States of America</admin>
+        <type_en>State</type_en>
+        <region>Midwest</region>
+        <woe_id>2347582</woe_id>
+        <woe_name>Minnesota</woe_name>
+        <longitude>-93</longitude>
+        <middle-y>0.6</middle-y>
+        <middle-x>0.38</middle-x>
+        <woe_label>Minnesota, US, United States</woe_label>
+        <fips>US32</fips>
+        <iso_a2>US</iso_a2>
+        <latitude>46</latitude>
+        <objectid_1>3494</objectid_1>
+        <postal>MN</postal>
+        <type>State</type>
+        <id>US.MN</id>
+      </desc>
+    </path>
+    <path d="M 268.0807 149.7936 265.3263 181.2316 263.5217 201.1772 262.002 216.9437 244.146 215.2341 224.8653 213.0496 201.6904 209.9153 179.3704 206.401 177.9457 214.7592 175.5712 210.2952 172.7219 212.9546 165.8834 211.9098 162.3692 212.4797 154.8658 211.15 153.7261 205.1663 149.1671 195.6684 149.1671 190.9195 147.5525 188.735 142.5186 191.2994 140.3341 189.3048 142.7085 181.5166 145.9378 174.0132 137.1998 159.4815 135.4901 158.3417 134.5403 151.4083 131.9759 145.5196 135.6801 129.1832 152.3014 132.7924 176.426 137.4464 200.6457 141.5304 222.5858 144.7597 239.682 146.9442 268.0807 149.7936 Z" id="US.MT" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>0</labelrank>
+        <code_hasc>US.MT</code_hasc>
+        <name>Montana</name>
+        <admin>United States of America</admin>
+        <type_en>State</type_en>
+        <region>West</region>
+        <woe_id>2347585</woe_id>
+        <woe_name>Montana</woe_name>
+        <longitude>-110</longitude>
+        <middle-y>0.53</middle-y>
+        <middle-x>0.55</middle-x>
+        <woe_label>Montana, US, United States</woe_label>
+        <fips>US30</fips>
+        <iso_a2>US</iso_a2>
+        <latitude>46</latitude>
+        <objectid_1>3510</objectid_1>
+        <postal>MT</postal>
+        <type>State</type>
+        <id>US.MT</id>
+      </desc>
+    </path>
+    <path d="M 344.2538 153.6877 345.5835 159.5764 345.1086 167.6496 348.1479 179.2371 348.7178 193.5789 350.9023 198.8977 351.3772 205.3563 318.6095 204.6914 302.1781 203.9316 283.0874 202.7918 263.5217 201.1772 265.3263 181.2316 268.0807 149.7936 286.1267 151.3133 303.3179 152.358 327.8224 153.4028 344.2538 153.6877 Z" id="US.ND" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>0</labelrank>
+        <code_hasc>US.ND</code_hasc>
+        <name>North Dakota</name>
+        <admin>United States of America</admin>
+        <type_en>State</type_en>
+        <region>Midwest</region>
+        <woe_id>2347593</woe_id>
+        <woe_name>North Dakota</woe_name>
+        <longitude>-100</longitude>
+        <middle-y>0.5</middle-y>
+        <middle-x>0.47</middle-x>
+        <woe_label>North Dakota, US, United States</woe_label>
+        <fips>US38</fips>
+        <iso_a2>US</iso_a2>
+        <latitude>47</latitude>
+        <objectid_1>3511</objectid_1>
+        <postal>ND</postal>
+        <type>State</type>
+        <id>US.ND</id>
+      </desc>
+    </path>
+    <path d="M 279.4417 569.7349 283.8581 571.2512 287.7444 574.3185 287.7765 576.5751 292.096 580.6686 289.4622 583.0286 281.2237 586.4165 278.3397 589.9076 275.2001 588.2387 275.0458 583.214 272.2422 576.5772 276.0172 571.6962 279.4417 569.7349 Z M 263.7984 554.9692 273.1265 558.7813 273.0922 560.6473 266.7067 562.272 263.7984 554.9692 Z M 243.2279 545.5177 244.7657 551.1647 239.9986 550.5284 237.9863 547.3514 241.3221 543.7668 243.2279 545.5177 Z M 219.7879 534.8856 221.2952 536.2566 218.9334 540.8673 213.8698 538.97 214.6155 536.0085 219.7879 534.8856 Z" id="US.HI" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>0</labelrank>
+        <code_hasc>US.HI</code_hasc>
+        <name>Hawaii</name>
+        <admin>United States of America</admin>
+        <type_en>State</type_en>
+        <region>West</region>
+        <woe_id>2347570</woe_id>
+        <woe_name>Hawaii</woe_name>
+        <longitude>-157</longitude>
+        <middle-y>0.79</middle-y>
+        <middle-x>0.87</middle-x>
+        <woe_label>Hawaii, US, United States</woe_label>
+        <fips>US15</fips>
+        <iso_a2>US</iso_a2>
+        <latitude>21</latitude>
+        <objectid_1>347</objectid_1>
+        <postal>HI</postal>
+        <type>State</type>
+        <id>US.HI</id>
+      </desc>
+    </path>
+    <path d="M 177.9457 214.7592 174.0516 237.934 171.1072 255.98 154.9608 253.2256 134.3504 249.2365 113.9299 244.9625 98.1634 241.3533 104.9069 212.1948 105.0019 211.5299 105.1919 211.245 105.5718 211.15 105.9517 210.5801 106.6165 209.0604 106.7115 208.8705 106.7115 208.7755 106.8065 208.6805 106.9015 208.4906 106.9015 208.1107 106.7115 207.5408 106.7115 207.2559 106.9015 207.1609 107.3764 207.1609 107.9463 206.0211 107.5663 205.5462 107.3764 205.3563 107.1864 204.4065 104.8119 203.3617 105.0969 202.5069 105.0969 202.3169 105.0019 201.937 105.0019 201.7471 105.4768 200.3224 105.5718 200.2274 105.7617 200.1324 105.8567 199.8475 105.9517 199.8475 106.1417 199.8475 106.2366 199.7525 106.5216 199.6575 106.7115 199.3726 106.9015 199.0877 107.1864 198.5178 108.8011 196.5232 109.5609 196.2383 109.8458 196.0483 110.0358 195.8584 111.4605 194.2437 115.2596 187.6902 118.299 184.3659 118.3939 184.081 118.4889 183.3212 118.109 181.4216 115.8295 179.3321 115.1646 178.0023 115.0697 176.9576 115.0697 176.4827 115.0697 176.3877 114.9747 175.5329 114.5948 174.4881 114.6898 170.0241 115.5446 166.035 117.4441 158.0568 118.6789 152.643 122.478 137.1614 123.0479 134.597 123.6178 131.9376 124.8525 126.7137 135.6801 129.1832 131.9759 145.5196 134.5403 151.4083 135.4901 158.3417 137.1998 159.4815 145.9378 174.0132 142.7085 181.5166 140.3341 189.3048 142.5186 191.2994 147.5525 188.735 149.1671 190.9195 149.1671 195.6684 153.7261 205.1663 154.8658 211.15 162.3692 212.4797 165.8834 211.9098 172.7219 212.9546 175.5712 210.2952 177.9457 214.7592 Z" id="US.ID" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>0</labelrank>
+        <code_hasc>US.ID</code_hasc>
+        <name>Idaho</name>
+        <admin>United States of America</admin>
+        <type_en>State</type_en>
+        <region>West</region>
+        <woe_id>2347571</woe_id>
+        <woe_name>Idaho</woe_name>
+        <longitude>-114</longitude>
+        <middle-y>0.75</middle-y>
+        <middle-x>0.51</middle-x>
+        <woe_label>Idaho, US, United States</woe_label>
+        <fips>US16</fips>
+        <iso_a2>US</iso_a2>
+        <latitude>43</latitude>
+        <objectid_1>3512</objectid_1>
+        <postal>ID</postal>
+        <type>State</type>
+        <id>US.ID</id>
+      </desc>
+    </path>
+    <path d="M 115.0697 176.3877 113.55 176.0078 110.6057 175.3429 103.1973 173.5383 90.85 170.404 83.8216 169.9291 75.8434 170.9739 71.2844 169.8342 65.0158 170.0241 63.876 168.1245 57.9873 166.225 52.0037 167.1748 47.0648 164.0404 47.2547 156.2522 44.5953 154.1626 39.5614 150.3635 36.6171 150.4585 39.1815 142.8602 37.9468 136.8765 38.8966 124.7192 37.3769 121.2999 37.7568 116.741 40.5112 114.0815 45.1652 119.0204 58.2723 124.7192 60.2668 131.0828 56.8476 137.5413 59.9819 137.8263 60.2668 133.1723 62.7363 128.6133 64.5409 117.7857 63.2112 110.0924 80.7823 115.3163 99.6831 120.4451 124.8525 126.7137 122.478 137.1614 121.8132 139.6309 121.1483 142.1953 118.6789 152.643 114.6898 170.0241 115.0697 176.3877 Z" id="US.WA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>0</labelrank>
+        <code_hasc>US.WA</code_hasc>
+        <name>Washington</name>
+        <admin>United States of America</admin>
+        <type_en>State</type_en>
+        <region>West</region>
+        <woe_id>2347606</woe_id>
+        <woe_name>Washington</woe_name>
+        <longitude>-120</longitude>
+        <middle-y>0.52</middle-y>
+        <middle-x>0.56</middle-x>
+        <woe_label>Washington, US, United States</woe_label>
+        <fips>US53</fips>
+        <iso_a2>US</iso_a2>
+        <latitude>47</latitude>
+        <objectid_1>872</objectid_1>
+        <postal>WA</postal>
+        <type>State</type>
+        <id>US.WA</id>
+      </desc>
+    </path>
+    <path d="M 183.8344 342.5058 179.5603 371.7593 175.3813 401.1078 170.2524 436.44 141.3788 431.881 124.7575 422.1931 103.2923 409.4659 92.1798 402.6275 92.7496 401.2028 93.6994 400.348 94.0793 399.8731 94.3643 399.3032 94.9341 399.0183 96.3588 399.5881 97.0237 399.5881 97.2136 399.3982 97.4036 398.4484 98.2584 398.0685 98.4484 397.8785 98.5433 397.4986 98.5433 396.4538 98.6383 395.694 97.9735 394.6492 96.7387 394.3643 96.2638 393.9844 95.9789 393.3195 96.1689 392.7497 96.4538 392.1798 96.6438 391.5149 96.7387 390.5651 96.6438 390.2802 96.3588 389.7103 96.3588 389.4254 96.6438 389.0455 96.8337 388.8555 96.9287 388.7605 96.8337 388.5706 96.6438 388.1907 96.6438 388.0007 96.8337 387.9057 97.4986 388.0007 98.1634 387.8108 99.0182 386.576 99.5881 386.2911 99.7781 386.1011 101.2977 379.8325 102.8174 378.6928 103.1023 378.4078 103.7672 377.2681 107.7563 375.4635 107.9463 374.6087 105.1919 371.6643 104.432 366.6305 103.7672 366.2505 103.6722 364.9208 103.5772 364.7309 103.1973 364.256 103.3873 362.2614 103.3873 362.1665 103.7672 359.9819 104.8119 359.2221 104.622 353.6183 105.8567 344.1205 108.3262 343.4556 113.645 346.4949 115.3546 343.8355 117.919 331.0134 138.4345 335.0025 154.9608 337.9468 183.8344 342.5058 Z" id="US.AZ" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>0</labelrank>
+        <code_hasc>US.AZ</code_hasc>
+        <name>Arizona</name>
+        <admin>United States of America</admin>
+        <type_en>State</type_en>
+        <region>West</region>
+        <woe_id>2347561</woe_id>
+        <woe_name>Arizona</woe_name>
+        <longitude>-111</longitude>
+        <middle-y>0.45</middle-y>
+        <middle-x>0.51</middle-x>
+        <woe_label>Arizona, US, United States</woe_label>
+        <fips>US04</fips>
+        <iso_a2>US</iso_a2>
+        <latitude>34</latitude>
+        <objectid_1>3513</objectid_1>
+        <postal>AZ</postal>
+        <type>State</type>
+        <id>US.AZ</id>
+      </desc>
+    </path>
+    <path d="M 11.6376 217.3236 30.6334 223.2123 62.0714 232.2353 54.853 258.8294 48.9643 280.5796 51.2438 283.9988 53.4284 287.418 55.7079 290.8373 60.3618 297.6758 65.0158 304.5143 67.2953 307.9335 74.6087 319.141 87.0509 337.9468 103.3873 362.1665 103.3873 362.2614 103.1973 364.256 103.5772 364.7309 103.6722 364.9208 103.7672 366.2505 104.432 366.6305 105.1919 371.6643 107.9463 374.6087 107.7563 375.4635 103.7672 377.2681 103.1023 378.4078 102.8174 378.6928 101.2977 379.8325 99.7781 386.1011 99.5881 386.2911 99.0182 386.576 98.1634 387.8108 96.8337 387.9057 96.6438 388.0007 96.6438 388.1907 96.8337 388.5706 96.9287 388.7605 96.8337 388.8555 96.6438 389.0455 96.3588 389.4254 96.3588 389.7103 96.6438 390.2802 96.7387 390.5651 96.6438 391.5149 96.4538 392.1798 96.1689 392.7497 95.9789 393.3195 96.2638 393.9844 96.7387 394.3643 97.9735 394.6492 98.6383 395.694 98.7333 395.884 98.6383 396.0739 98.6383 396.2639 98.5433 396.4538 98.5433 397.4986 98.4484 397.8785 98.2584 398.0685 97.4036 398.4484 97.3086 398.7333 97.2136 399.3982 97.0237 399.5881 96.3588 399.5881 94.9341 399.0183 94.3643 399.3032 94.2693 399.4932 86.481 398.5434 79.1676 397.5936 60.3618 395.0292 59.2221 391.7999 59.8869 384.9614 58.1773 380.5924 51.8137 372.2342 48.2045 369.5748 46.9698 365.6807 41.651 364.256 34.1476 355.8029 22.8451 352.1937 21.0405 349.3443 23.605 340.4163 20.7556 337.7569 21.8004 335.3824 17.7163 329.6837 16.2916 323.795 12.5874 316.9565 12.7774 313.8222 16.2916 309.4532 15.1519 306.1289 12.3975 305.2741 10.213 300.9051 10.4029 295.0164 15.3418 295.6812 7.7435 285.4235 8.1234 281.5294 2.6146 269.657 2.8996 261.0139 4.9891 253.2256 1 244.3926 1.3799 241.3533 4.9891 237.934 10.5929 226.9165 11.6376 217.3236 Z" id="US.CA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>0</labelrank>
+        <code_hasc>US.CA</code_hasc>
+        <name>California</name>
+        <admin>United States of America</admin>
+        <type_en>State</type_en>
+        <region>West</region>
+        <woe_id>2347563</woe_id>
+        <woe_name>California</woe_name>
+        <longitude>-119</longitude>
+        <middle-y>0.67</middle-y>
+        <middle-x>0.51</middle-x>
+        <woe_label>California, US, United States</woe_label>
+        <fips>US06</fips>
+        <iso_a2>US</iso_a2>
+        <latitude>36</latitude>
+        <objectid_1>356</objectid_1>
+        <postal>CA</postal>
+        <type>State</type>
+        <id>US.CA</id>
+      </desc>
+    </path>
+    <path d="M 280.333 302.3297 278.4334 331.9632 277.1037 352.2886 264.2815 351.4338 246.6155 349.9142 221.446 347.3497 203.8749 345.1652 183.8344 342.5058 187.0637 319.8059 190.3879 297.0109 193.3323 276.4005 226.8598 280.7695 256.1133 283.7139 281.3777 285.7084 280.333 302.3297 Z" id="US.CO" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>0</labelrank>
+        <code_hasc>US.CO</code_hasc>
+        <name>Colorado</name>
+        <admin>United States of America</admin>
+        <type_en>State</type_en>
+        <region>West</region>
+        <woe_id>2347564</woe_id>
+        <woe_name>Colorado</woe_name>
+        <longitude>-105</longitude>
+        <middle-y>0.5</middle-y>
+        <middle-x>0.51</middle-x>
+        <woe_label>Colorado, US, United States</woe_label>
+        <fips>US08</fips>
+        <iso_a2>US</iso_a2>
+        <latitude>38</latitude>
+        <objectid_1>3514</objectid_1>
+        <postal>CO</postal>
+        <type>State</type>
+        <id>US.CO</id>
+      </desc>
+    </path>
+    <path d="M 117.919 331.0134 115.3546 343.8355 113.645 346.4949 108.3262 343.4556 105.8567 344.1205 104.622 353.6183 104.8119 359.2221 103.7672 359.9819 103.3873 362.1665 87.0509 337.9468 74.6087 319.141 67.2953 307.9335 65.0158 304.5143 60.3618 297.6758 55.7079 290.8373 53.4284 287.418 51.2438 283.9988 48.9643 280.5796 54.853 258.8294 62.0714 232.2353 77.8379 236.3194 98.1634 241.3533 113.9299 244.9625 134.3504 249.2365 129.6964 272.2214 125.1374 295.3013 117.919 331.0134 Z" id="US.NV" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>0</labelrank>
+        <code_hasc>US.NV</code_hasc>
+        <name>Nevada</name>
+        <admin>United States of America</admin>
+        <type_en>State</type_en>
+        <region>West</region>
+        <woe_id>2347587</woe_id>
+        <woe_name>Nevada</woe_name>
+        <longitude>-117</longitude>
+        <middle-y>0.38</middle-y>
+        <middle-x>0.46</middle-x>
+        <woe_label>Nevada, US, United States</woe_label>
+        <fips>US32</fips>
+        <iso_a2>US</iso_a2>
+        <latitude>39</latitude>
+        <objectid_1>3515</objectid_1>
+        <postal>NV</postal>
+        <type>State</type>
+        <id>US.NV</id>
+      </desc>
+    </path>
+    <path d="M 263.6167 359.697 263.0468 359.697 263.0468 359.9819 262.8569 362.8313 262.6669 365.1108 261.5271 378.9777 261.1472 383.6317 260.9573 386.0062 260.7673 388.2857 259.6276 402.1526 258.2979 418.394 258.1079 420.7684 257.823 423.0479 257.2531 430.0764 256.8732 434.7303 253.7389 434.4454 250.6046 434.1605 244.241 433.6856 231.6088 432.5458 215.7473 430.8362 209.4787 430.1713 205.6795 429.6965 205.6795 429.9814 205.8695 430.6462 205.9645 431.0262 205.8695 431.4061 206.3444 432.7358 206.5344 432.8308 206.7243 432.9257 206.8193 433.0207 207.2942 433.7805 183.1695 430.6462 182.1248 438.1496 170.2524 436.44 175.3813 401.1078 179.5603 371.7593 183.8344 342.5058 203.8749 345.1652 221.446 347.3497 246.6155 349.9142 264.2815 351.4338 264.0916 353.4284 263.8066 357.6075 263.6167 359.697 Z" id="US.NM" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>0</labelrank>
+        <code_hasc>US.NM</code_hasc>
+        <name>New Mexico</name>
+        <admin>United States of America</admin>
+        <type_en>State</type_en>
+        <region>West</region>
+        <woe_id>2347590</woe_id>
+        <woe_name>New Mexico</woe_name>
+        <longitude>-106</longitude>
+        <middle-y>0.5</middle-y>
+        <middle-x>0.51</middle-x>
+        <woe_label>New Mexico, US, United States</woe_label>
+        <fips>US35</fips>
+        <iso_a2>US</iso_a2>
+        <latitude>34</latitude>
+        <objectid_1>3516</objectid_1>
+        <postal>NM</postal>
+        <type>State</type>
+        <id>US.NM</id>
+      </desc>
+    </path>
+    <path d="M 44.5953 154.1626 47.2547 156.2522 47.0648 164.0404 52.0037 167.1748 57.9873 166.225 63.876 168.1245 65.0158 170.0241 71.2844 169.8342 75.8434 170.9739 83.8216 169.9291 90.85 170.404 103.1973 173.5383 110.6057 175.3429 113.55 176.0078 115.0697 176.3877 118.109 181.4216 118.4889 183.3212 118.299 184.3659 115.2596 187.6902 111.4605 194.2437 110.0358 195.8584 109.8458 196.0483 109.5609 196.2383 108.8011 196.5232 107.1864 198.5178 106.9015 199.0877 106.7115 199.3726 106.5216 199.6575 106.2366 199.7525 106.1417 199.8475 105.9517 199.8475 105.8567 199.8475 105.4768 200.3224 105.4768 200.7973 105.0969 201.3672 105.0019 201.7471 105.0019 201.937 105.0969 202.3169 105.0969 202.5069 104.8119 203.3617 107.1864 204.4065 107.9463 206.0211 107.9463 206.2111 107.5663 206.781 107.3764 207.1609 106.7115 207.5408 106.9015 208.1107 106.9015 208.4906 106.8065 208.6805 106.7115 208.7755 106.7115 208.8705 106.6165 209.0604 105.9517 210.5801 105.0019 211.5299 105.0019 211.9098 104.9069 212.1948 98.1634 241.3533 77.8379 236.3194 62.0714 232.2353 30.6334 223.2123 11.6376 217.3236 10.7828 211.245 12.6824 206.0211 12.0176 202.6019 18.1912 194.4337 21.9903 187.5952 30.5384 167.8396 36.807 152.0731 41.0811 152.0731 44.5953 154.1626 Z" id="US.OR" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>0</labelrank>
+        <code_hasc>US.OR</code_hasc>
+        <name>Oregon</name>
+        <admin>United States of America</admin>
+        <type_en>State</type_en>
+        <region>West</region>
+        <woe_id>2347596</woe_id>
+        <woe_name>Oregon</woe_name>
+        <longitude>-120</longitude>
+        <middle-y>0.52</middle-y>
+        <middle-x>0.47</middle-x>
+        <woe_label>Oregon, US, United States</woe_label>
+        <fips>US41</fips>
+        <iso_a2>US</iso_a2>
+        <latitude>43</latitude>
+        <objectid_1>873</objectid_1>
+        <postal>OR</postal>
+        <type>State</type>
+        <id>US.OR</id>
+      </desc>
+    </path>
+    <path d="M 171.1072 255.98 168.3528 272.5064 193.3323 276.4005 190.3879 297.0109 187.0637 319.8059 183.8344 342.5058 154.9608 337.9468 138.4345 335.0025 117.919 331.0134 125.1374 295.3013 129.6964 272.2214 134.3504 249.2365 154.9608 253.2256 171.1072 255.98 Z" id="US.UT" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>0</labelrank>
+        <code_hasc>US.UT</code_hasc>
+        <name>Utah</name>
+        <admin>United States of America</admin>
+        <type_en>State</type_en>
+        <region>West</region>
+        <woe_id>2347603</woe_id>
+        <woe_name>Utah</woe_name>
+        <longitude>-111</longitude>
+        <middle-y>0.59</middle-y>
+        <middle-x>0.52</middle-x>
+        <woe_label>Utah, US, United States</woe_label>
+        <fips>US49</fips>
+        <iso_a2>US</iso_a2>
+        <latitude>39</latitude>
+        <objectid_1>3517</objectid_1>
+        <postal>UT</postal>
+        <type>State</type>
+        <id>US.UT</id>
+      </desc>
+    </path>
+    <path d="M 259.0577 250.3763 256.1133 283.7139 226.8598 280.7695 193.3323 276.4005 168.3528 272.5064 171.1072 255.98 174.0516 237.934 177.9457 214.7592 179.3704 206.401 201.6904 209.9153 224.8653 213.0496 244.146 215.2341 262.002 216.9437 259.0577 250.3763 Z" id="US.WY" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>0</labelrank>
+        <code_hasc>US.WY</code_hasc>
+        <name>Wyoming</name>
+        <admin>United States of America</admin>
+        <type_en>State</type_en>
+        <region>West</region>
+        <woe_id>2347609</woe_id>
+        <woe_name>Wyoming</woe_name>
+        <longitude>-107</longitude>
+        <middle-y>0.5</middle-y>
+        <middle-x>0.51</middle-x>
+        <woe_label>Wyoming, US, United States</woe_label>
+        <fips>US56</fips>
+        <iso_a2>US</iso_a2>
+        <latitude>42</latitude>
+        <objectid_1>3518</objectid_1>
+        <postal>WY</postal>
+        <type>State</type>
+        <id>US.WY</id>
+      </desc>
+    </path>
+    <path d="M 443.0318 368.72 440.4674 373.374 440.9423 376.5083 438.5678 379.3576 439.0427 382.5869 436.2883 385.9112 436.2883 386.0062 436.7632 386.4811 436.7632 387.2409 432.5842 392.1798 432.8691 395.789 431.6344 396.7388 430.8745 396.8338 430.5896 396.6438 430.4946 396.7388 429.8298 398.3534 429.2599 399.6831 428.1202 400.5379 428.1202 401.0128 429.1649 401.4877 429.2599 402.1526 429.0699 402.4375 428.88 402.5325 427.1704 406.3316 426.9804 406.7116 426.3156 406.9015 425.1758 408.2312 424.9858 411.1756 426.3156 412.0304 426.3156 413.645 425.8407 414.4048 425.6507 414.6898 426.1256 419.8186 415.8679 420.3885 413.3984 420.4835 410.834 420.5785 408.2696 420.6735 398.2018 421.0534 395.7323 421.1484 393.1679 421.2433 390.6035 421.2433 385.5696 421.4333 385.5696 419.4387 385.3796 415.4496 385.3796 413.4551 385.2847 412.3153 379.206 410.8906 379.301 381.7321 376.5466 363.2112 398.7717 362.6413 413.4934 362.0715 436.5733 360.8367 438.0929 364.256 434.2938 369.5748 443.0318 368.72 Z" id="US.AR" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>0</labelrank>
+        <code_hasc>US.AR</code_hasc>
+        <name>Arkansas</name>
+        <admin>United States of America</admin>
+        <type_en>State</type_en>
+        <region>South</region>
+        <woe_id>2347562</woe_id>
+        <woe_name>Arkansas</woe_name>
+        <longitude>-92</longitude>
+        <middle-y>0.43</middle-y>
+        <middle-x>0.47</middle-x>
+        <woe_label>Arkansas, US, United States</woe_label>
+        <fips>US05</fips>
+        <iso_a2>US</iso_a2>
+        <latitude>34</latitude>
+        <objectid_1>3519</objectid_1>
+        <postal>AR</postal>
+        <type>State</type>
+        <id>US.AR</id>
+      </desc>
+    </path>
+    <path d="M 424.226 261.0139 430.4946 267.1875 430.3996 272.3164 428.785 275.9256 424.511 278.775 420.9018 279.2499 419.952 283.334 421.6616 287.3231 416.1528 297.1059 412.2587 293.3067 394.8775 294.6364 377.3064 295.2063 360.8751 294.9214 359.4504 282.8591 356.886 279.0599 357.1709 274.8808 353.5617 268.0424 351.9471 262.8185 350.0475 258.9244 352.327 252.7507 350.9973 251.0411 352.422 246.3872 372.2726 246.2922 396.0173 245.7223 415.8679 244.8675 419.0022 257.4047 423.2762 258.6394 424.226 261.0139 Z" id="US.IA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>0</labelrank>
+        <code_hasc>US.IA</code_hasc>
+        <name>Iowa</name>
+        <admin>United States of America</admin>
+        <type_en>State</type_en>
+        <region>Midwest</region>
+        <woe_id>2347574</woe_id>
+        <woe_name>Iowa</woe_name>
+        <longitude>-93</longitude>
+        <middle-y>0.49</middle-y>
+        <middle-x>0.35</middle-x>
+        <woe_label>Iowa, US, United States</woe_label>
+        <fips>US19</fips>
+        <iso_a2>US</iso_a2>
+        <latitude>42</latitude>
+        <objectid_1>3520</objectid_1>
+        <postal>IA</postal>
+        <type>State</type>
+        <id>US.IA</id>
+      </desc>
+    </path>
+    <path d="M 376.4516 354.8531 342.3542 354.8531 317.6597 354.2832 299.1388 353.6183 277.1037 352.2886 278.4334 331.9632 280.333 302.3297 296.7643 303.2795 326.3028 304.5143 345.2036 304.7992 366.6688 304.8942 372.2726 307.8385 369.6131 312.6824 373.1274 317.9063 375.8818 319.4259 376.4516 354.8531 Z" id="US.KS" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>0</labelrank>
+        <code_hasc>US.KS</code_hasc>
+        <name>Kansas</name>
+        <admin>United States of America</admin>
+        <type_en>State</type_en>
+        <region>Midwest</region>
+        <woe_id>2347575</woe_id>
+        <woe_name>Kansas</woe_name>
+        <longitude>-98</longitude>
+        <middle-y>0.49</middle-y>
+        <middle-x>0.3</middle-x>
+        <woe_label>Kansas, US, United States</woe_label>
+        <fips>US20</fips>
+        <iso_a2>US</iso_a2>
+        <latitude>38</latitude>
+        <objectid_1>3521</objectid_1>
+        <postal>KS</postal>
+        <type>State</type>
+        <id>US.KS</id>
+      </desc>
+    </path>
+    <path d="M 416.1528 297.1059 415.298 300.6201 417.7675 308.2184 425.0808 314.3921 426.8854 319.7109 433.7239 321.1356 433.8189 325.2197 431.7294 331.0134 435.6235 335.4774 443.4118 340.3213 445.0264 344.5004 444.2666 347.4447 447.2109 351.4338 448.2557 350.864 449.2055 351.9087 449.6804 351.7188 449.9653 351.8137 450.0603 352.0987 450.0603 353.5234 449.7753 353.9983 449.7753 354.5681 450.0603 355.138 450.0603 355.5179 450.0603 355.9928 449.3004 358.0824 449.1105 358.5573 448.7306 358.8422 448.2557 358.7472 447.5908 358.0824 447.2109 357.7974 447.021 357.9874 446.926 358.2723 446.736 358.9372 446.736 359.1271 446.5461 359.9819 446.5461 360.1719 443.1268 364.6359 443.0318 368.72 434.2938 369.5748 438.0929 364.256 436.5733 360.8367 413.4934 362.0715 398.7717 362.6413 376.5466 363.2112 376.4516 354.8531 375.8818 319.4259 373.1274 317.9063 369.6131 312.6824 372.2726 307.8385 366.6688 304.8942 360.8751 294.9214 377.3064 295.2063 394.8775 294.6364 412.2587 293.3067 416.1528 297.1059 Z" id="US.MO" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>0</labelrank>
+        <code_hasc>US.MO</code_hasc>
+        <name>Missouri</name>
+        <admin>United States of America</admin>
+        <type_en>State</type_en>
+        <region>Midwest</region>
+        <woe_id>2347584</woe_id>
+        <woe_name>Missouri</woe_name>
+        <longitude>-92</longitude>
+        <middle-y>0.51</middle-y>
+        <middle-x>0.48</middle-x>
+        <woe_label>Missouri, US, United States</woe_label>
+        <fips>US29</fips>
+        <iso_a2>US</iso_a2>
+        <latitude>38</latitude>
+        <objectid_1>3522</objectid_1>
+        <postal>MO</postal>
+        <type>State</type>
+        <id>US.MO</id>
+      </desc>
+    </path>
+    <path d="M 351.9471 262.8185 353.5617 268.0424 357.1709 274.8808 356.886 279.0599 359.4504 282.8591 360.8751 294.9214 366.6688 304.8942 345.2036 304.7992 326.3028 304.5143 296.7643 303.2795 280.333 302.3297 281.3777 285.7084 256.1133 283.7139 259.0577 250.3763 290.6857 252.7507 313.6706 253.8905 327.4425 254.3654 333.2362 258.0696 335.3258 256.7399 341.8793 256.5499 349.1927 260.1591 351.9471 262.8185 Z" id="US.NE" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>0</labelrank>
+        <code_hasc>US.NE</code_hasc>
+        <name>Nebraska</name>
+        <admin>United States of America</admin>
+        <type_en>State</type_en>
+        <region>Midwest</region>
+        <woe_id>2347586</woe_id>
+        <woe_name>Nebraska</woe_name>
+        <longitude>-99</longitude>
+        <middle-y>0.5</middle-y>
+        <middle-x>0.43</middle-x>
+        <woe_label>Nebraska, US, United States</woe_label>
+        <fips>US31</fips>
+        <iso_a2>US</iso_a2>
+        <latitude>41</latitude>
+        <objectid_1>3523</objectid_1>
+        <postal>NE</postal>
+        <type>State</type>
+        <id>US.NE</id>
+      </desc>
+    </path>
+    <path d="M 376.5466 363.2112 379.301 381.7321 379.206 410.8906 373.6972 409.086 368.8533 405.6668 366.9537 407.2814 365.719 407.2814 364.3893 406.9965 363.5345 405.9517 358.7855 406.9015 355.0814 409.086 345.9634 407.1865 342.8291 408.2312 341.0245 406.5216 340.2647 407.4714 339.8847 407.0915 338.745 407.8513 334.4709 405.1919 333.9961 405.5718 332.7613 406.8065 325.353 402.3425 323.2634 403.3873 313.5756 400.443 313.5756 398.9233 312.6258 397.4036 306.9271 397.4986 306.7371 397.3086 306.4522 396.8338 304.2677 394.5543 302.653 394.2693 303.9827 362.1665 279.6681 360.8367 276.1539 360.6468 272.8296 360.3619 269.7903 360.1719 267.3209 359.9819 263.6167 359.697 263.8066 357.6075 264.0916 353.4284 264.2815 351.4338 277.1037 352.2886 299.1388 353.6183 317.6597 354.2832 342.3542 354.8531 376.4516 354.8531 376.5466 363.2112 Z" id="US.OK" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>0</labelrank>
+        <code_hasc>US.OK</code_hasc>
+        <name>Oklahoma</name>
+        <admin>United States of America</admin>
+        <type_en>State</type_en>
+        <region>South</region>
+        <woe_id>2347595</woe_id>
+        <woe_name>Oklahoma</woe_name>
+        <longitude>-97</longitude>
+        <middle-y>0.52</middle-y>
+        <middle-x>0.78</middle-x>
+        <woe_label>Oklahoma, US, United States</woe_label>
+        <fips>US40</fips>
+        <iso_a2>US</iso_a2>
+        <latitude>35</latitude>
+        <objectid_1>3524</objectid_1>
+        <postal>OK</postal>
+        <type>State</type>
+        <id>US.OK</id>
+      </desc>
+    </path>
+    <path d="M 351.3772 205.3563 347.768 211.055 352.5169 216.2788 352.422 246.3872 350.9973 251.0411 352.327 252.7507 350.0475 258.9244 351.9471 262.8185 349.1927 260.1591 341.8793 256.5499 335.3258 256.7399 333.2362 258.0696 327.4425 254.3654 313.6706 253.8905 290.6857 252.7507 259.0577 250.3763 262.002 216.9437 263.5217 201.1772 283.0874 202.7918 302.1781 203.9316 318.6095 204.6914 351.3772 205.3563 Z" id="US.SD" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>0</labelrank>
+        <code_hasc>US.SD</code_hasc>
+        <name>South Dakota</name>
+        <admin>United States of America</admin>
+        <type_en>State</type_en>
+        <region>Midwest</region>
+        <woe_id>2347600</woe_id>
+        <woe_name>South Dakota</woe_name>
+        <longitude>-100</longitude>
+        <middle-y>0.44</middle-y>
+        <middle-x>0.51</middle-x>
+        <woe_label>South Dakota, US, United States</woe_label>
+        <fips>US46</fips>
+        <iso_a2>US</iso_a2>
+        <latitude>44</latitude>
+        <objectid_1>3525</objectid_1>
+        <postal>SD</postal>
+        <type>State</type>
+        <id>US.SD</id>
+      </desc>
+    </path>
+    <path d="M 452.7197 465.6935 450.0603 466.1684 442.272 463.129 439.8026 466.0734 440.9423 468.6378 448.3507 469.3027 454.1444 471.7721 451.39 477.1859 461.3628 482.7897 459.0833 484.8792 447.8758 478.1357 445.6913 483.4545 438.4729 481.7449 436.4783 484.8792 428.595 483.3595 428.595 480.5102 423.8461 478.6106 421.4716 475.0014 417.0076 473.8616 412.9235 479.0855 406.8449 478.1357 399.1516 475.5713 391.2683 476.3311 390.2236 472.152 390.7934 465.3135 393.9277 454.296 389.1788 445.178 387.9441 440.3341 385.9495 438.4345 385.7596 431.2161 385.7596 427.322 385.6646 425.3274 385.6646 423.3329 385.5696 421.4333 390.6035 421.2433 393.1679 421.2433 395.7323 421.1484 398.2018 421.0534 408.2696 420.6735 410.834 420.5785 413.3984 420.4835 415.8679 420.3885 426.1256 419.8186 426.6005 426.3722 430.3047 430.9312 428.4051 435.3002 423.9411 441.3789 422.3264 445.463 420.9018 454.0111 448.6356 452.3964 447.4009 457.8102 452.7197 465.6935 Z" id="US.LA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>0</labelrank>
+        <code_hasc>US.LA</code_hasc>
+        <name>Louisiana</name>
+        <admin>United States of America</admin>
+        <type_en>State</type_en>
+        <region>South</region>
+        <woe_id>2347577</woe_id>
+        <woe_name>Louisiana</woe_name>
+        <longitude>-91</longitude>
+        <middle-y>0.46</middle-y>
+        <middle-x>0.34</middle-x>
+        <woe_label>Louisiana, US, United States</woe_label>
+        <fips>US22</fips>
+        <iso_a2>US</iso_a2>
+        <latitude>30</latitude>
+        <objectid_1>3455</objectid_1>
+        <postal>LA</postal>
+        <type>State</type>
+        <id>US.LA</id>
+      </desc>
+    </path>
+    <path d="M 385.5696 421.4333 385.6646 423.3329 385.6646 425.3274 385.7596 427.322 385.7596 431.2161 385.9495 438.4345 387.9441 440.3341 389.1788 445.178 393.9277 454.296 390.7934 465.3135 390.2236 472.152 386.5194 477.3759 374.3621 482.7897 370.468 488.3934 363.9144 493.2373 354.8914 496.1817 342.5442 505.3946 338.84 511.4733 334.281 522.7758 338.555 540.7268 335.8956 542.5314 332.0015 539.3971 323.6434 538.4473 315.0003 533.2235 310.5363 532.4636 308.3517 525.2452 305.2174 521.1611 304.8375 512.3281 301.9882 510.8084 296.7643 502.1654 293.725 499.6009 292.2053 494.567 289.166 488.7733 288.5961 485.4491 281.6627 478.6106 278.3384 473.9566 265.3263 471.0123 259.5326 473.0068 256.1133 479.5604 251.7443 485.2591 249.4648 484.7842 242.6263 479.5604 238.8272 478.2307 232.3686 472.057 230.564 467.2131 230.9439 463.0341 227.0498 454.391 222.2059 450.9717 213.9427 440.904 211.7582 439.7642 209.4787 434.9203 207.5791 434.0655 206.8193 433.0207 206.7243 432.9257 206.5344 432.8308 206.3444 432.7358 205.8695 431.4061 205.9645 431.0262 205.8695 430.6462 205.6795 429.9814 205.6795 429.6965 209.4787 430.1713 215.7473 430.8362 231.6088 432.5458 244.241 433.6856 250.6046 434.1605 253.7389 434.4454 256.8732 434.7303 257.2531 430.0764 257.823 423.0479 258.1079 420.7684 258.2979 418.394 259.6276 402.1526 260.7673 388.2857 260.9573 386.0062 261.1472 383.6317 261.5271 378.9777 262.6669 365.1108 262.8569 362.8313 263.0468 360.4568 263.0468 359.9819 263.0468 359.697 263.6167 359.697 267.3209 359.9819 269.7903 360.1719 272.8296 360.3619 276.1539 360.6468 279.6681 360.8367 303.9827 362.1665 302.653 394.2693 304.2677 394.5543 306.4522 396.8338 306.7371 397.3086 306.9271 397.4986 312.6258 397.4036 313.5756 400.443 323.2634 403.3873 325.353 402.3425 332.7613 406.8065 333.9961 405.5718 334.4709 405.1919 338.745 407.8513 339.8847 407.0915 340.2647 407.4714 341.0245 406.5216 342.8291 408.2312 345.9634 407.1865 355.0814 409.086 358.7855 406.9015 363.5345 405.9517 364.3893 406.9965 365.719 407.2814 366.9537 407.2814 368.8533 405.6668 373.6972 409.086 381.7704 411.7454 385.2847 412.3153 385.3796 413.4551 385.3796 415.4496 385.5696 421.4333 Z" id="US.TX" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>0</labelrank>
+        <code_hasc>US.TX</code_hasc>
+        <name>Texas</name>
+        <admin>United States of America</admin>
+        <type_en>State</type_en>
+        <region>South</region>
+        <woe_id>2347602</woe_id>
+        <woe_name>Texas</woe_name>
+        <longitude>-98</longitude>
+        <middle-y>0.52</middle-y>
+        <middle-x>0.69</middle-x>
+        <woe_label>Texas, US, United States</woe_label>
+        <fips>US48</fips>
+        <iso_a2>US</iso_a2>
+        <latitude>31</latitude>
+        <objectid_1>3449</objectid_1>
+        <postal>TX</postal>
+        <type>State</type>
+        <id>US.TX</id>
+      </desc>
+    </path>
+    <path d="M 644.5771 234.1349 656.0695 231.1905 657.4942 236.0345 657.9691 237.8391 658.254 238.7888 658.349 239.2637 658.539 239.9286 658.7289 240.9734 658.539 241.4483 658.634 242.3031 658.634 242.683 658.634 242.778 658.349 242.493 657.0193 242.683 653.4101 244.6775 647.5214 246.4821 638.0235 253.6056 637.5486 253.0357 636.7888 252.2759 636.6938 252.1809 638.0235 248.4767 637.8336 247.4319 637.7386 246.6721 637.1687 243.6328 635.744 236.0345 644.1022 234.7048 644.5771 234.1349 Z" id="US.CT" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>0</labelrank>
+        <code_hasc>US.CT</code_hasc>
+        <name>Connecticut</name>
+        <admin>United States of America</admin>
+        <type_en>State</type_en>
+        <region>Northeast</region>
+        <woe_id>2347565</woe_id>
+        <woe_name>Connecticut</woe_name>
+        <longitude>-72</longitude>
+        <middle-y>0.5</middle-y>
+        <middle-x>0.48</middle-x>
+        <woe_label>Connecticut, US, United States</woe_label>
+        <fips>US09</fips>
+        <iso_a2>US</iso_a2>
+        <latitude>41</latitude>
+        <objectid_1>3495</objectid_1>
+        <postal>CT</postal>
+        <type>State</type>
+        <id>US.CT</id>
+      </desc>
+    </path>
+    <path d="M 645.052 221.8826 643.3424 219.7931 642.3926 208.6805 643.5323 204.0266 643.3424 195.4785 646.8566 191.6793 646.2867 181.8965 646.5716 177.9074 649.8009 175.8178 650.0859 176.6726 650.3708 177.5275 650.6557 178.3823 651.2256 180.0919 653.3151 186.0756 654.7398 190.3496 656.1645 194.6237 656.4494 195.4785 656.7344 196.3333 657.3043 198.0429 658.1591 200.5123 658.7289 202.222 659.0139 203.0768 659.2038 203.5517 659.8687 206.496 664.4277 210.7701 659.0139 218.6533 645.052 221.8826 Z" id="US.NH" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>0</labelrank>
+        <code_hasc>US.NH</code_hasc>
+        <name>New Hampshire</name>
+        <admin>United States of America</admin>
+        <type_en>State</type_en>
+        <region>Northeast</region>
+        <woe_id>2347588</woe_id>
+        <woe_name>New Hampshire</woe_name>
+        <longitude>-71</longitude>
+        <middle-y>0.57</middle-y>
+        <middle-x>0.38</middle-x>
+        <woe_label>New Hampshire, US, United States</woe_label>
+        <fips>US33</fips>
+        <iso_a2>US</iso_a2>
+        <latitude>43</latitude>
+        <objectid_1>3496</objectid_1>
+        <postal>NH</postal>
+        <type>State</type>
+        <id>US.NH</id>
+      </desc>
+    </path>
+    <path d="M 664.3327 234.3248 662.7181 240.7834 661.4833 241.0683 659.6787 242.2081 658.8239 242.683 658.634 242.778 658.634 242.683 658.634 242.3031 658.539 241.4483 658.7289 240.9734 658.539 239.9286 658.349 239.2637 658.254 238.7888 657.9691 237.8391 657.4942 236.0345 656.1645 231.3805 661.1034 229.9558 664.3327 234.3248 Z" id="US.RI" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>0</labelrank>
+        <code_hasc>US.RI</code_hasc>
+        <name>Rhode Island</name>
+        <admin>United States of America</admin>
+        <type_en>State</type_en>
+        <region>Northeast</region>
+        <woe_id>2347598</woe_id>
+        <woe_name>Rhode Island</woe_name>
+        <longitude>-71</longitude>
+        <middle-y>0.78</middle-y>
+        <middle-x>0.55</middle-x>
+        <woe_label>Rhode Island, US, United States</woe_label>
+        <fips>US44</fips>
+        <iso_a2>US</iso_a2>
+        <latitude>41</latitude>
+        <objectid_1>2084</objectid_1>
+        <postal>RI</postal>
+        <type>State</type>
+        <id>US.RI</id>
+      </desc>
+    </path>
+    <path d="M 645.052 221.8826 639.7332 223.1173 638.6884 223.4023 637.4537 223.6872 636.8838 223.7822 636.2189 223.9721 635.4591 224.1621 635.3641 224.1621 634.9842 223.4023 634.9842 223.1173 634.9842 222.2625 632.3248 210.96 630.0453 208.2056 629.5704 206.9709 629.4754 206.781 629.4754 206.496 629.4754 206.3061 629.4754 206.1161 629.3805 206.0211 629.0005 205.4513 628.7156 204.7864 628.6206 204.5964 628.5256 204.1215 628.5256 203.9316 628.3357 203.8366 628.0508 203.5517 628.0508 203.4567 627.9558 203.1718 628.0508 202.9818 628.1457 201.5571 628.1457 201.2722 628.0508 200.9872 628.1457 200.7023 628.2407 200.5123 628.3357 200.4174 628.4307 200.3224 628.5256 200.1324 628.3357 198.9927 628.0508 198.3278 627.9558 198.1379 627.9558 198.0429 628.0508 197.378 628.1457 196.9031 628.0508 196.6182 628.0508 196.4283 627.9558 196.3333 627.9558 196.2383 625.1064 187.6902 646.2867 181.8965 646.8566 191.6793 643.3424 195.4785 643.5323 204.0266 642.3926 208.6805 643.3424 219.7931 645.052 221.8826 Z" id="US.VT" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>0</labelrank>
+        <code_hasc>US.VT</code_hasc>
+        <name>Vermont</name>
+        <admin>United States of America</admin>
+        <type_en>State</type_en>
+        <region>Northeast</region>
+        <woe_id>2347604</woe_id>
+        <woe_name>Vermont</woe_name>
+        <longitude>-72</longitude>
+        <middle-y>0.43</middle-y>
+        <middle-x>0.42</middle-x>
+        <woe_label>Vermont, US, United States</woe_label>
+        <fips>US50</fips>
+        <iso_a2>US</iso_a2>
+        <latitude>44</latitude>
+        <objectid_1>3497</objectid_1>
+        <postal>VT</postal>
+        <type>State</type>
+        <id>US.VT</id>
+      </desc>
+    </path>
+    <path d="M 500.684 380.4974 500.684 380.5924 500.779 380.8773 500.969 381.6371 501.7288 384.2965 504.0083 392.0848 506.6677 401.2028 510.2769 413.74 515.8807 424.6626 514.0761 426.9421 513.3162 432.3559 515.3108 437.0098 514.8359 441.4738 516.9254 445.8429 494.0355 448.4073 479.5987 449.832 479.3138 452.0165 482.923 455.5307 482.923 458.3801 480.8334 461.9893 475.7996 459.9947 472.9502 461.6094 468.7711 461.1345 465.5418 436.06 466.1117 413.3601 466.7766 385.4363 465.4469 383.8216 465.3519 383.6317 465.4469 383.6317 465.9218 383.5367 468.1063 383.4417 470.2908 383.2518 474.4699 382.8719 485.2975 382.112 489.6665 381.6371 493.9405 381.1622 496.0301 380.9723 498.2146 380.6873 500.684 380.4974 Z" id="US.AL" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>0</labelrank>
+        <code_hasc>US.AL</code_hasc>
+        <name>Alabama</name>
+        <admin>United States of America</admin>
+        <type_en>State</type_en>
+        <region>South</region>
+        <woe_id>2347559</woe_id>
+        <woe_name>Alabama</woe_name>
+        <longitude>-86</longitude>
+        <middle-y>0.42</middle-y>
+        <middle-x>0.47</middle-x>
+        <woe_label>Alabama, US, United States</woe_label>
+        <fips>US01</fips>
+        <iso_a2>US</iso_a2>
+        <latitude>32</latitude>
+        <objectid_1>3460</objectid_1>
+        <postal>AL</postal>
+        <type>State</type>
+        <id>US.AL</id>
+      </desc>
+    </path>
+    <path d="M 568.0241 443.5634 574.0078 458.2851 580.9412 469.4926 586.8299 476.4261 585.5952 480.7001 592.9086 491.6227 600.5069 505.0147 601.9316 520.7812 600.032 525.7201 599.2721 532.7486 589.4893 536.1678 583.9805 525.6252 575.9073 521.4461 574.1027 515.6524 566.1245 510.0486 559.191 499.506 559.0961 496.3716 555.7718 494.757 555.6768 488.4884 556.9116 483.9294 556.0567 476.3311 552.3526 472.057 549.7881 472.5319 543.3296 467.4031 538.4856 461.4194 533.0718 458.95 529.4626 459.7098 521.2945 466.9282 515.1208 468.2579 514.0761 465.0286 509.0422 461.7043 498.4995 458.4751 482.923 458.3801 482.923 455.5307 479.3138 452.0165 479.5987 449.832 494.0355 448.4073 516.9254 445.8429 519.4899 450.3069 546.3689 448.5973 557.7664 447.6475 561.8505 442.7086 568.0241 443.5634 Z" id="US.FL" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>0</labelrank>
+        <code_hasc>US.FL</code_hasc>
+        <name>Florida</name>
+        <admin>United States of America</admin>
+        <type_en>State</type_en>
+        <region>South</region>
+        <woe_id>2347568</woe_id>
+        <woe_name>Florida</woe_name>
+        <longitude>-81</longitude>
+        <middle-y>0.5</middle-y>
+        <middle-x>0.77</middle-x>
+        <woe_label>Florida, US, United States</woe_label>
+        <fips>US12</fips>
+        <iso_a2>US</iso_a2>
+        <latitude>28</latitude>
+        <objectid_1>3447</objectid_1>
+        <postal>FL</postal>
+        <type>State</type>
+        <id>US.FL</id>
+      </desc>
+    </path>
+    <path d="M 573.058 420.1986 569.6387 426.0873 568.1191 431.5011 569.8287 433.6856 567.3592 439.2893 568.0241 443.5634 561.8505 442.7086 557.7664 447.6475 546.3689 448.5973 519.4899 450.3069 516.9254 445.8429 514.8359 441.4738 515.3108 437.0098 513.3162 432.3559 514.0761 426.9421 515.8807 424.6626 510.2769 413.74 506.6677 401.2028 504.0083 392.0848 501.7288 384.2965 500.969 381.6371 500.779 380.8773 500.684 380.5924 500.684 380.4974 503.8183 380.1175 505.528 379.9275 507.2376 379.6426 510.7518 379.2627 518.1602 378.3129 534.5915 375.8434 532.0271 381.1622 539.4354 384.2965 544.5643 391.8948 554.822 398.9233 557.8613 403.5773 561.5655 405.0019 564.2249 411.5555 567.4542 413.4551 570.3036 419.7237 573.058 420.1986 Z" id="US.GA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>0</labelrank>
+        <code_hasc>US.GA</code_hasc>
+        <name>Georgia</name>
+        <admin>United States of America</admin>
+        <type_en>State</type_en>
+        <region>South</region>
+        <woe_id>2347569</woe_id>
+        <woe_name>Georgia</woe_name>
+        <longitude>-83</longitude>
+        <middle-y>0.52</middle-y>
+        <middle-x>0.43</middle-x>
+        <woe_label>Georgia, US, United States</woe_label>
+        <fips>US13</fips>
+        <iso_a2>US</iso_a2>
+        <latitude>32</latitude>
+        <objectid_1>1924</objectid_1>
+        <postal>GA</postal>
+        <type>State</type>
+        <id>US.GA</id>
+      </desc>
+    </path>
+    <path d="M 465.4469 383.8216 466.7766 385.4363 466.1117 413.3601 465.5418 436.06 468.7711 461.1345 463.9272 462.0843 461.0778 460.8495 452.7197 465.6935 447.4009 457.8102 448.6356 452.3964 420.9018 454.0111 422.3264 445.463 423.9411 441.3789 428.4051 435.3002 430.3047 430.9312 426.6005 426.3722 426.1256 419.8186 426.9804 417.5392 426.7904 415.5446 426.5055 415.1647 425.9356 415.0697 425.6507 414.6898 424.9858 411.1756 425.1758 408.2312 426.3156 406.9015 426.9804 406.7116 427.1704 406.3316 426.4105 403.3873 428.88 402.5325 429.0699 402.4375 429.2599 402.1526 429.1649 401.4877 429.8298 398.3534 430.7796 397.6886 430.4946 396.7388 430.5896 396.6438 430.8745 396.8338 431.6344 396.7388 432.8691 395.789 432.5842 392.1798 436.2883 385.9112 437.998 385.8162 439.8026 385.7212 443.4118 385.5313 450.5352 384.9614 459.4632 384.2965 462.9774 384.0116 464.782 383.9166 465.4469 383.8216 Z" id="US.MS" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>0</labelrank>
+        <code_hasc>US.MS</code_hasc>
+        <name>Mississippi</name>
+        <admin>United States of America</admin>
+        <type_en>State</type_en>
+        <region>South</region>
+        <woe_id>2347583</woe_id>
+        <woe_name>Mississippi</woe_name>
+        <longitude>-89</longitude>
+        <middle-y>0.48</middle-y>
+        <middle-x>0.51</middle-x>
+        <woe_label>Mississippi, US, United States</woe_label>
+        <fips>US28</fips>
+        <iso_a2>US</iso_a2>
+        <latitude>32</latitude>
+        <objectid_1>3459</objectid_1>
+        <postal>MS</postal>
+        <type>State</type>
+        <id>US.MS</id>
+      </desc>
+    </path>
+    <path d="M 599.842 383.8216 595.568 388.7605 593.2885 396.8338 583.8856 408.5162 578.5667 411.6505 578.4718 413.645 573.058 420.1986 570.3036 419.7237 567.4542 413.4551 564.2249 411.5555 561.5655 405.0019 557.8613 403.5773 554.822 398.9233 544.5643 391.8948 539.4354 384.2965 532.0271 381.1622 534.5915 375.8434 545.4191 370.8095 561.9454 369.0049 566.3145 371.5694 566.8843 373.7539 582.2709 371.5694 599.842 383.8216 Z" id="US.SC" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>0</labelrank>
+        <code_hasc>US.SC</code_hasc>
+        <name>South Carolina</name>
+        <admin>United States of America</admin>
+        <type_en>State</type_en>
+        <region>South</region>
+        <woe_id>2347599</woe_id>
+        <woe_name>South Carolina</woe_name>
+        <longitude>-80</longitude>
+        <middle-y>0.35</middle-y>
+        <middle-x>0.54</middle-x>
+        <woe_label>South Carolina, US, United States</woe_label>
+        <fips>US45</fips>
+        <iso_a2>US</iso_a2>
+        <latitude>33</latitude>
+        <objectid_1>3498</objectid_1>
+        <postal>SC</postal>
+        <type>State</type>
+        <id>US.SC</id>
+      </desc>
+    </path>
+    <path d="M 456.6858 258.9027 458.3214 264.9777 461.6547 270.1292 464.0224 271.7077 465.4469 288.1779 467.4414 310.4979 466.1117 314.0121 468.6761 320.3757 467.3464 324.5548 462.7875 332.818 463.1674 336.9021 462.9774 337.8518 462.1226 338.8016 461.8377 339.4665 461.8377 339.8464 461.9326 340.1313 462.2176 340.6062 463.0724 341.746 462.5975 342.5058 460.223 343.1707 459.4632 343.6456 458.3234 343.8355 458.1335 344.0255 457.6586 345.1652 457.8486 346.4 458.8933 348.0146 458.7034 349.2493 458.3234 349.6292 452.5297 347.6347 449.9653 351.8137 449.6804 351.7188 449.2055 351.9087 448.2557 350.864 447.2109 351.4338 444.2666 347.4447 445.0264 344.5004 443.4118 340.3213 435.6235 335.4774 431.7294 331.0134 433.8189 325.2197 433.7239 321.1356 426.8854 319.7109 425.0808 314.3921 417.7675 308.2184 415.298 300.6201 416.1528 297.1059 421.6616 287.3231 419.952 283.334 420.9018 279.2499 424.511 278.775 428.785 275.9256 430.3996 272.3164 430.4946 267.1875 424.226 261.0139 456.6858 258.9027 Z" id="US.IL" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>0</labelrank>
+        <code_hasc>US.IL</code_hasc>
+        <name>Illinois</name>
+        <admin>United States of America</admin>
+        <type_en>State</type_en>
+        <region>Midwest</region>
+        <woe_id>2347572</woe_id>
+        <woe_name>Illinois</woe_name>
+        <longitude>-89</longitude>
+        <middle-y>0.45</middle-y>
+        <middle-x>0.56</middle-x>
+        <woe_label>Illinois, US, United States</woe_label>
+        <fips>US17</fips>
+        <iso_a2>US</iso_a2>
+        <latitude>39</latitude>
+        <objectid_1>3499</objectid_1>
+        <postal>IL</postal>
+        <type>State</type>
+        <id>US.IL</id>
+      </desc>
+    </path>
+    <path d="M 464.0224 271.7077 466.2001 273.1594 470.1394 271.6443 471.6101 269.8059 497.7397 266.9026 497.8347 267.9474 499.8292 284.0938 502.9635 311.0678 502.6786 311.2578 502.3937 311.7326 502.4886 312.3025 503.0585 312.7774 503.8183 314.3921 503.9133 314.582 503.7234 314.9619 503.5334 315.1519 503.5334 315.5318 503.6284 316.1967 501.3489 316.7665 499.5443 318.0962 499.0694 318.2862 491.661 325.9795 491.4711 326.1694 491.2811 326.9293 490.8062 327.4991 490.7113 329.8736 489.2866 331.2033 485.9623 330.2535 485.7723 329.1138 484.9175 328.4489 484.9175 329.3987 484.3477 329.6837 484.0627 329.6837 483.5878 329.3987 483.3979 329.5887 483.4929 329.7786 483.6828 329.9686 483.7778 330.1586 483.7778 330.5385 482.828 331.4883 482.828 333.0079 480.1686 333.6728 479.6937 333.3878 479.4088 333.0079 479.2188 332.533 479.0288 332.2481 478.554 332.533 477.6042 333.3878 476.1795 334.2427 475.7996 335.7623 471.0506 333.8627 466.3017 335.4774 464.4971 337.092 463.1674 336.9021 462.7875 332.818 467.3464 324.5548 468.6761 320.3757 466.1117 314.0121 467.4414 310.4979 465.4469 288.1779 464.0224 271.7077 Z" id="US.IN" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>0</labelrank>
+        <code_hasc>US.IN</code_hasc>
+        <name>Indiana</name>
+        <admin>United States of America</admin>
+        <type_en>State</type_en>
+        <region>Midwest</region>
+        <woe_id>2347573</woe_id>
+        <woe_name>Indiana</woe_name>
+        <longitude>-86</longitude>
+        <middle-y>0.43</middle-y>
+        <middle-x>0.49</middle-x>
+        <woe_label>Indiana, US, United States</woe_label>
+        <fips>US18</fips>
+        <iso_a2>US</iso_a2>
+        <latitude>39</latitude>
+        <objectid_1>3500</objectid_1>
+        <postal>IN</postal>
+        <type>State</type>
+        <id>US.IN</id>
+      </desc>
+    </path>
+    <path d="M 543.7095 331.5832 543.1396 332.3431 542.0948 333.4828 539.3405 336.7121 535.9212 339.1816 533.1668 344.1205 530.2225 346.9698 523.479 350.3891 523.0991 350.579 522.6242 350.769 510.6568 351.9087 507.3326 352.1937 504.0083 352.4786 491.3761 353.8083 485.9623 353.9033 467.7264 355.9928 465.0669 358.6522 458.1335 359.2221 453.4795 359.602 448.8256 359.9819 446.5461 360.1719 446.736 359.1271 446.736 358.9372 446.926 358.2723 447.021 357.9874 447.2109 357.7974 447.5908 358.0824 448.2557 358.7472 448.7306 358.8422 449.1105 358.5573 449.3004 358.0824 450.0603 355.9928 450.0603 355.5179 450.0603 355.138 449.7753 354.5681 449.7753 353.9983 449.9653 351.8137 449.4904 351.3389 449.2055 350.9589 449.1105 350.484 452.5297 347.6347 458.3234 349.6292 458.7034 349.2493 458.9883 348.4895 458.8933 348.0146 457.8486 346.4 458.1335 344.0255 458.3234 343.8355 459.4632 343.6456 460.223 343.1707 462.5975 342.5058 461.8377 339.8464 461.8377 339.4665 462.1226 338.8016 462.9774 337.8518 463.1674 336.9021 465.0669 336.3322 466.3017 335.4774 471.0506 333.8627 475.7996 335.7623 476.1795 334.2427 476.8443 333.4828 477.6042 333.3878 478.554 332.533 479.0288 332.2481 479.2188 332.533 479.4088 333.0079 479.6937 333.3878 480.1686 333.6728 482.828 333.0079 482.828 331.4883 483.7778 330.5385 483.7778 330.1586 484.0627 329.6837 484.3477 329.6837 484.9175 329.3987 484.9175 328.4489 485.7723 329.1138 489.2866 331.2033 490.7113 329.8736 490.8062 327.4991 491.2811 326.9293 491.4711 326.1694 491.661 325.9795 499.0694 318.2862 499.5443 318.0962 501.3489 316.7665 503.6284 316.1967 503.5334 315.5318 503.5334 315.1519 503.7234 314.9619 503.9133 314.582 503.8183 314.3921 502.9635 314.3921 502.5836 314.1071 503.0585 312.7774 502.4886 312.3025 502.3937 311.7326 502.6786 311.2578 502.9635 311.0678 503.6284 310.4979 503.8183 310.308 503.9133 310.118 504.1983 310.118 507.8075 310.4029 509.5171 311.3527 510.7518 313.0624 511.0367 313.6322 511.1317 314.2971 511.3217 314.582 511.6066 314.772 520.4397 315.3418 520.7246 315.3418 521.0095 315.4368 521.6744 315.7218 522.7191 315.8167 523.6689 316.6716 528.7028 313.5372 529.9375 316.0067 531.6472 316.6716 532.7869 317.4314 533.3568 318.2862 533.3568 318.4762 533.4518 318.5711 533.4518 319.046 533.4518 319.141 533.5467 319.236 533.8317 319.8059 533.9267 319.9958 533.9267 320.0908 534.0216 321.1356 533.7367 321.3255 533.7367 321.9904 533.6417 322.1803 533.4518 322.3703 533.3568 322.5602 533.4518 322.8452 534.6865 324.0799 535.0664 324.6498 535.9212 325.9795 536.966 326.7393 537.061 327.0243 537.1559 327.4991 537.3459 327.7841 538.2957 328.5439 538.5806 328.9238 539.0555 329.7786 543.7095 331.5832 Z" id="US.KY" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>0</labelrank>
+        <code_hasc>US.KY</code_hasc>
+        <name>Kentucky</name>
+        <admin>United States of America</admin>
+        <type_en>State</type_en>
+        <region>South</region>
+        <woe_id>2347576</woe_id>
+        <woe_name>Kentucky</woe_name>
+        <longitude>-85</longitude>
+        <middle-y>0.5</middle-y>
+        <middle-x>0.65</middle-x>
+        <woe_label>Kentucky, US, United States</woe_label>
+        <fips>US21</fips>
+        <iso_a2>US</iso_a2>
+        <latitude>37</latitude>
+        <objectid_1>3501</objectid_1>
+        <postal>KY</postal>
+        <type>State</type>
+        <id>US.KY</id>
+      </desc>
+    </path>
+    <path d="M 624.8215 333.1029 626.911 335.0975 624.7265 342.6008 629.2855 341.841 631.565 343.9305 627.5759 353.0485 623.4918 352.9535 623.0169 364.7309 615.8935 367.4853 611.9993 371.3794 608.865 376.5083 608.5801 380.7823 599.842 383.8216 582.2709 371.5694 566.8843 373.7539 566.3145 371.5694 561.9454 369.0049 545.4191 370.8095 534.5915 375.8434 518.1602 378.3129 518.1602 377.553 518.0652 376.6982 517.9702 374.6087 524.9986 367.6752 528.038 367.2003 535.5413 359.602 544.1844 354.8531 545.799 355.6129 549.5982 349.8192 549.6932 347.8246 549.7881 347.4447 550.1681 346.305 556.0567 346.02 571.2534 343.9305 592.0537 340.0364 624.8215 333.1029 Z" id="US.NC" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>0</labelrank>
+        <code_hasc>US.NC</code_hasc>
+        <name>North Carolina</name>
+        <admin>United States of America</admin>
+        <type_en>State</type_en>
+        <region>South</region>
+        <woe_id>2347592</woe_id>
+        <woe_name>North Carolina</woe_name>
+        <longitude>-78</longitude>
+        <middle-y>0.5</middle-y>
+        <middle-x>0.62</middle-x>
+        <woe_label>North Carolina, US, United States</woe_label>
+        <fips>US37</fips>
+        <iso_a2>US</iso_a2>
+        <latitude>35</latitude>
+        <objectid_1>3303</objectid_1>
+        <postal>NC</postal>
+        <type>State</type>
+        <id>US.NC</id>
+      </desc>
+    </path>
+    <path d="M 553.8722 277.3503 553.7772 282.8591 552.2576 294.9214 548.4584 299.4804 542.2848 303.8494 542.4748 308.3134 538.7706 307.6486 536.681 317.4314 533.3568 318.2862 529.9375 316.0067 528.7028 313.5372 523.6689 316.6716 522.7191 315.8167 521.6744 315.7218 521.0095 315.4368 520.7246 315.3418 520.4397 315.3418 516.0706 314.9619 511.6066 314.772 511.3217 314.582 511.1317 314.2971 510.7518 313.0624 509.5171 311.3527 507.8075 310.4029 505.338 311.0678 504.1983 310.118 503.9133 310.118 503.8183 310.308 503.6284 310.4979 502.9635 311.0678 499.8292 284.0938 497.8347 267.9474 515.0259 265.003 518.0652 261.2039 523.8589 264.7181 527.4681 264.2432 540.1953 253.2256 549.1233 249.8064 553.8722 277.3503 Z" id="US.OH" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>0</labelrank>
+        <code_hasc>US.OH</code_hasc>
+        <name>Ohio</name>
+        <admin>United States of America</admin>
+        <type_en>State</type_en>
+        <region>Midwest</region>
+        <woe_id>2347594</woe_id>
+        <woe_name>Ohio</woe_name>
+        <longitude>-82</longitude>
+        <middle-y>0.53</middle-y>
+        <middle-x>0.45</middle-x>
+        <woe_label>Ohio, US, United States</woe_label>
+        <fips>US39</fips>
+        <iso_a2>US</iso_a2>
+        <latitude>40</latitude>
+        <objectid_1>3502</objectid_1>
+        <postal>OH</postal>
+        <type>State</type>
+        <id>US.OH</id>
+      </desc>
+    </path>
+    <path d="M 436.2883 385.9112 439.0427 382.5869 438.5678 379.3576 440.9423 376.5083 440.4674 373.374 443.0318 368.72 443.1268 364.6359 446.5461 360.1719 465.0669 358.6522 467.7264 355.9928 485.9623 353.9033 491.3761 353.8083 504.0083 352.4786 507.3326 352.1937 510.6568 351.9087 522.6242 350.769 523.0991 350.579 523.479 350.3891 546.3689 347.1598 546.9388 346.6849 548.9333 346.4949 550.1681 346.305 549.5982 349.8192 545.799 355.6129 544.1844 354.8531 535.5413 359.602 528.038 367.2003 524.9986 367.6752 517.9702 374.6087 518.0652 376.6982 518.1602 377.553 518.1602 378.3129 510.7518 379.2627 507.2376 379.6426 505.528 379.9275 503.8183 380.1175 502.1087 380.3074 500.684 380.4974 498.2146 380.6873 493.9405 381.1622 489.6665 381.6371 485.2975 382.112 474.4699 382.8719 470.2908 383.2518 468.1063 383.4417 465.9218 383.5367 465.4469 383.6317 465.3519 383.6317 465.4469 383.8216 465.2569 383.8216 464.782 383.9166 462.9774 384.0116 459.4632 384.2965 450.5352 384.9614 443.4118 385.5313 439.8026 385.7212 437.998 385.8162 436.2883 385.9112 Z" id="US.TN" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>0</labelrank>
+        <code_hasc>US.TN</code_hasc>
+        <name>Tennessee</name>
+        <admin>United States of America</admin>
+        <type_en>State</type_en>
+        <region>South</region>
+        <woe_id>2347601</woe_id>
+        <woe_name>Tennessee</woe_name>
+        <longitude>-86</longitude>
+        <middle-y>0.54</middle-y>
+        <middle-x>0.43</middle-x>
+        <woe_label>Tennessee, US, United States</woe_label>
+        <fips>US47</fips>
+        <iso_a2>US</iso_a2>
+        <latitude>35</latitude>
+        <objectid_1>3503</objectid_1>
+        <postal>TN</postal>
+        <type>State</type>
+        <id>US.TN</id>
+      </desc>
+    </path>
+    <path d="M 593.0985 292.357 596.8977 295.1113 602.3115 297.2009 603.9261 300.6201 601.8366 302.0448 601.2667 305.654 608.0102 308.9783 611.5244 308.5983 617.1282 311.6377 617.6981 322.2753 620.2625 327.0243 624.0616 327.0243 625.6763 332.9129 625.1064 333.0079 624.8215 333.1029 592.0537 340.0364 571.2534 343.9305 556.0567 346.02 550.1681 346.305 546.9388 346.6849 546.3689 347.1598 523.479 350.3891 530.2225 346.9698 533.1668 344.1205 535.9212 339.1816 539.3405 336.7121 542.0948 333.4828 543.1396 332.3431 543.7095 331.5832 543.8994 331.6782 543.8994 331.7732 543.9944 331.8682 543.9944 332.2481 543.8045 332.9129 544.5643 334.1477 544.6593 334.2427 544.7543 334.3376 545.4191 334.7175 546.2739 335.4774 550.0731 336.1422 557.7664 333.4828 558.5262 332.818 558.6212 332.628 558.7162 332.4381 562.8002 329.6837 563.94 330.1586 563.94 330.0636 564.3199 329.6837 565.7446 328.4489 565.3647 325.5996 570.0186 314.677 571.1584 309.1682 573.1529 310.6879 573.8178 310.7829 575.1475 310.9728 576.0023 311.0678 576.0973 311.0678 576.1923 310.9728 576.9521 309.3582 577.332 307.2686 578.6617 303.4695 580.4663 304.0394 582.5559 301.19 583.4107 300.1452 583.6956 299.1954 584.1705 298.0557 584.6454 297.5808 585.0253 296.821 585.3102 291.8821 585.5002 292.072 587.1148 292.9268 587.9697 293.3067 592.4337 295.6812 592.5286 295.4913 592.5286 295.2063 592.6236 294.7314 592.9086 293.4017 593.0985 292.6419 593.0985 292.4519 593.0985 292.357 Z" id="US.VA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>0</labelrank>
+        <code_hasc>US.VA</code_hasc>
+        <name>Virginia</name>
+        <admin>United States of America</admin>
+        <type_en>State</type_en>
+        <region>South</region>
+        <woe_id>2347605</woe_id>
+        <woe_name>Virginia</woe_name>
+        <longitude>-78</longitude>
+        <middle-y>0.54</middle-y>
+        <middle-x>0.64</middle-x>
+        <woe_label>Virginia, US, United States</woe_label>
+        <fips>US51</fips>
+        <iso_a2>US</iso_a2>
+        <latitude>37</latitude>
+        <objectid_1>3475</objectid_1>
+        <postal>VA</postal>
+        <type>State</type>
+        <id>US.VA</id>
+      </desc>
+    </path>
+    <path d="M 458.1528 211.52 456.5032 214.0693 456.5032 217.0996 453.1699 218.9177 451.0487 223.7661 453.1699 224.6752 456.5032 220.4329 459.5335 218.6147 463.1698 212.5542 464.988 211.9481 462.2607 219.5238 458.9274 227.0994 459.2305 231.0388 457.1093 233.463 457.7153 238.6144 455.5941 244.0689 456.5032 250.7355 456.2002 257.099 456.6858 258.9027 424.226 261.0139 423.2762 258.6394 419.0022 257.4047 415.8679 244.8675 414.9181 237.934 410.3591 235.5596 404.7553 229.6709 396.0173 224.637 396.0173 219.2232 397.347 213.0496 394.7826 210.96 396.6821 205.1663 401.3361 202.127 400.9562 192.4391 403.7134 190.9761 404.6857 191.9484 415.8977 185.8879 414.3826 191.3423 418.0189 189.8272 421.9582 192.2514 423.2033 191.698 422.8963 192.5341 426.5055 196.4283 438.3779 198.8977 441.8921 200.5123 450.4402 201.6521 454.4293 205.3563 454.6193 208.6805 458.1528 211.52 Z" id="US.WI" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>0</labelrank>
+        <code_hasc>US.WI</code_hasc>
+        <name>Wisconsin</name>
+        <admin>United States of America</admin>
+        <type_en>State</type_en>
+        <region>Midwest</region>
+        <woe_id>2347608</woe_id>
+        <woe_name>Wisconsin</woe_name>
+        <longitude>-89</longitude>
+        <middle-y>0.38</middle-y>
+        <middle-x>0.41</middle-x>
+        <woe_label>Wisconsin, US, United States</woe_label>
+        <fips>US55</fips>
+        <iso_a2>US</iso_a2>
+        <latitude>44</latitude>
+        <objectid_1>3504</objectid_1>
+        <postal>WI</postal>
+        <type>State</type>
+        <id>US.WI</id>
+      </desc>
+    </path>
+    <path d="M 569.7337 290.2674 571.1584 298.7205 579.5165 290.9323 586.8299 287.3231 591.8638 289.9825 591.9588 290.1724 592.0537 290.3624 592.0537 290.7423 592.6236 290.9323 592.8136 291.1222 593.0985 292.357 593.0985 292.4519 593.0985 292.6419 592.9086 293.4017 592.6236 294.7314 592.5286 295.2063 592.5286 295.4913 592.4337 295.6812 587.9697 293.3067 587.1148 292.9268 585.5002 292.072 585.3102 291.8821 585.0253 296.821 584.6454 297.5808 584.1705 298.0557 583.6956 299.1954 583.4107 300.1452 582.5559 301.19 580.4663 304.0394 578.6617 303.4695 577.332 307.2686 576.9521 309.3582 576.1923 310.9728 576.0973 311.0678 576.0023 311.0678 575.1475 310.9728 573.8178 310.7829 573.1529 310.6879 571.1584 309.1682 570.0186 314.677 565.3647 325.5996 566.3145 326.6443 565.7446 328.4489 564.3199 329.6837 563.94 330.0636 563.94 330.1586 562.8002 329.6837 558.7162 332.4381 558.6212 332.628 558.5262 332.818 557.7664 333.4828 550.0731 336.1422 546.2739 335.4774 545.4191 334.7175 544.7543 334.3376 544.6593 334.2427 544.5643 334.1477 543.9944 331.8682 543.8994 331.7732 543.8994 331.6782 543.7095 331.5832 543.5195 331.4883 543.3296 331.4883 541.7149 331.4883 539.0555 329.7786 538.5806 328.9238 538.2957 328.5439 537.3459 327.7841 537.1559 327.4991 537.061 327.0243 536.966 326.7393 535.9212 325.9795 533.4518 322.8452 533.3568 322.6552 533.3568 322.5602 533.4518 322.3703 533.6417 322.1803 533.7367 321.9904 533.7367 321.3255 534.0216 321.1356 533.9267 320.6607 533.9267 320.2808 533.9267 320.0908 533.9267 319.9958 533.8317 319.8059 533.5467 319.236 533.4518 319.141 533.4518 319.046 533.4518 318.5711 533.3568 318.4762 533.3568 318.2862 536.681 317.4314 538.7706 307.6486 542.4748 308.3134 542.2848 303.8494 548.4584 299.4804 552.2576 294.9214 553.7772 282.8591 553.8722 277.3503 556.5316 292.6419 569.7337 290.2674 Z" id="US.WV" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>0</labelrank>
+        <code_hasc>US.WV</code_hasc>
+        <name>West Virginia</name>
+        <admin>United States of America</admin>
+        <type_en>State</type_en>
+        <region>South</region>
+        <woe_id>2347607</woe_id>
+        <woe_name>West Virginia</woe_name>
+        <longitude>-80</longitude>
+        <middle-y>0.56</middle-y>
+        <middle-x>0.35</middle-x>
+        <woe_label>West Virginia, US, United States</woe_label>
+        <fips>US54</fips>
+        <iso_a2>US</iso_a2>
+        <latitude>38</latitude>
+        <objectid_1>3505</objectid_1>
+        <postal>WV</postal>
+        <type>State</type>
+        <id>US.WV</id>
+      </desc>
+    </path>
+    <path d="M 620.6424 278.3001 619.0278 281.9093 623.7767 290.3624 627.6708 293.9716 630.5202 299.1954 630.2353 299.1005 630.0453 299.2904 629.0005 299.4804 625.0114 300.4302 622.1621 301 619.6926 292.4519 616.6533 281.9093 616.3683 280.6745 620.6424 278.3001 Z" id="US.DE" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>0</labelrank>
+        <code_hasc>US.DE</code_hasc>
+        <name>Delaware</name>
+        <admin>United States of America</admin>
+        <type_en>State</type_en>
+        <region>South</region>
+        <woe_id>2347566</woe_id>
+        <woe_name>Delaware</woe_name>
+        <longitude>-75</longitude>
+        <middle-y>0.77</middle-y>
+        <middle-x>0.91</middle-x>
+        <woe_label>Delaware, US, United States</woe_label>
+        <fips>US10</fips>
+        <iso_a2>US</iso_a2>
+        <latitude>38</latitude>
+        <objectid_1>3506</objectid_1>
+        <postal>DE</postal>
+        <type>State</type>
+        <id>US.DE</id>
+      </desc>
+    </path>
+    <path d="M 602.3115 297.2009 596.8977 295.1113 593.0985 292.357 592.8136 292.072 592.8136 291.7871 592.8136 291.5021 592.8136 291.1222 592.6236 290.9323 592.0537 290.7423 591.8638 290.6473 592.0537 290.3624 591.8638 289.9825 586.8299 287.3231 579.5165 290.9323 571.1584 298.7205 569.7337 290.2674 574.1027 289.4126 578.5667 288.6528 579.9914 288.3678 581.4161 288.0829 582.9358 287.798 594.6182 285.4235 600.4119 284.1888 604.7809 283.239 606.2056 282.954 607.7253 282.6691 609.15 282.2892 616.3683 280.6745 619.6926 292.4519 622.1621 301 625.0114 300.4302 630.0453 299.2904 630.0453 299.3854 630.0453 299.6703 629.9503 300.2402 630.3302 301.5699 627.9558 307.2686 624.6315 308.8833 621.8771 306.6038 615.8935 304.4193 615.7035 298.9105 612.9491 288.3678 609.7198 288.9377 611.2395 293.9716 610.0997 298.2456 611.5244 302.2348 615.3236 308.0285 607.0604 307.1737 605.1608 304.7042 601.9316 304.7992 604.0211 300.8101 605.1608 297.2959 602.3115 297.2009 Z" id="US.MD" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>0</labelrank>
+        <code_hasc>US.MD</code_hasc>
+        <name>Maryland</name>
+        <admin>United States of America</admin>
+        <type_en>State</type_en>
+        <region>South</region>
+        <woe_id>2347579</woe_id>
+        <woe_name>Maryland</woe_name>
+        <longitude>-77</longitude>
+        <middle-y>0.27</middle-y>
+        <middle-x>0.61</middle-x>
+        <woe_label>Maryland, US, United States</woe_label>
+        <fips>US24</fips>
+        <iso_a2>US</iso_a2>
+        <latitude>39</latitude>
+        <objectid_1>3508</objectid_1>
+        <postal>MD</postal>
+        <type>State</type>
+        <id>US.MD</id>
+      </desc>
+    </path>
+    <path d="M 623.6817 250.9461 634.8892 254.5553 634.4143 259.3993 632.1348 263.6733 636.6938 265.4779 636.7888 276.3055 634.9842 279.2499 632.0399 288.4628 626.2462 287.418 620.4524 283.9038 620.5474 278.775 623.8717 276.4005 624.8215 273.7411 626.816 271.5566 627.5759 271.0817 627.9558 270.4168 627.7658 270.1319 625.2014 268.3273 622.637 266.7126 622.257 265.4779 621.9721 265.098 620.7374 265.193 619.9775 262.1537 619.7876 258.4495 622.0671 254.3654 622.257 252.7507 622.8269 251.706 623.2068 251.3261 623.4918 251.2311 623.6817 251.0411 623.6817 250.9461 Z" id="US.NJ" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>0</labelrank>
+        <code_hasc>US.NJ</code_hasc>
+        <name>New Jersey</name>
+        <admin>United States of America</admin>
+        <type_en>State</type_en>
+        <region>Northeast</region>
+        <woe_id>2347589</woe_id>
+        <woe_name>New Jersey</woe_name>
+        <longitude>-74</longitude>
+        <middle-y>0.64</middle-y>
+        <middle-x>0.68</middle-x>
+        <woe_label>New Jersey, US, United States</woe_label>
+        <fips>US34</fips>
+        <iso_a2>US</iso_a2>
+        <latitude>40</latitude>
+        <objectid_1>3478</objectid_1>
+        <postal>NJ</postal>
+        <type>State</type>
+        <id>US.NJ</id>
+      </desc>
+    </path>
+    <path d="M 654.5499 246.957 653.79 251.8959 644.2921 256.9298 638.9733 260.539 635.6491 257.7846 640.2081 253.9855 650.8457 250.4713 654.5499 246.957 Z M 635.4591 224.1621 635.744 236.0345 637.1687 243.6328 637.7386 246.6721 637.8336 247.4319 638.0235 248.4767 639.0683 249.5215 638.9733 249.8064 636.7888 251.9909 636.6938 252.1809 634.8892 254.5553 623.6817 250.9461 623.5867 250.6612 622.7319 249.8064 621.9721 249.8064 621.3073 249.9964 621.0223 249.9964 620.8324 249.9014 620.6424 249.7114 620.4524 249.6164 619.4077 249.2365 618.2679 247.8118 617.2232 244.3926 613.424 242.398 598.1324 245.8173 591.4839 247.242 589.7743 247.5269 588.1596 247.9068 584.8354 248.5717 579.8015 249.6164 559.381 253.4156 558.5262 248.4767 557.7664 244.5826 566.0295 238.5989 564.1299 231.0956 562.0404 228.0562 567.3592 224.1621 589.3943 219.7931 592.4337 211.3399 603.3562 195.3835 607.5353 191.8693 625.1064 187.6902 626.7211 194.7186 627.9558 196.2383 627.9558 196.3333 628.0508 196.4283 628.0508 196.6182 628.1457 196.9031 627.9558 198.0429 627.9558 198.1379 628.0508 198.3278 628.3357 198.9927 628.5256 199.4676 628.5256 199.8475 628.5256 200.1324 628.4307 200.3224 628.3357 200.4174 628.2407 200.5123 628.1457 200.7023 628.0508 200.8923 628.0508 200.9872 628.1457 201.2722 628.1457 201.5571 628.0508 202.9818 627.9558 203.1718 627.9558 203.3617 628.0508 203.4567 628.0508 203.5517 628.3357 203.8366 628.5256 203.9316 628.5256 204.1215 628.7156 204.7864 629.0005 205.4513 629.3805 206.0211 629.4754 206.1161 629.4754 206.3061 629.4754 206.496 629.4754 206.781 629.4754 206.8759 629.5704 206.9709 629.9503 207.3508 630.0453 208.2056 632.3248 210.96 634.9842 222.2625 634.9842 223.1173 634.9842 223.4023 635.3641 224.1621 635.4591 224.1621 Z" id="US.NY" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>0</labelrank>
+        <code_hasc>US.NY</code_hasc>
+        <name>New York</name>
+        <admin>United States of America</admin>
+        <type_en>State</type_en>
+        <region>Northeast</region>
+        <woe_id>2347591</woe_id>
+        <woe_name>New York</woe_name>
+        <longitude>-75</longitude>
+        <middle-y>0.49</middle-y>
+        <middle-x>0.54</middle-x>
+        <woe_label>New York, US, United States</woe_label>
+        <fips>US36</fips>
+        <iso_a2>US</iso_a2>
+        <latitude>43</latitude>
+        <objectid_1>2056</objectid_1>
+        <postal>NY</postal>
+        <type>State</type>
+        <id>US.NY</id>
+      </desc>
+    </path>
+    <path d="M 620.6424 278.3001 616.3683 280.6745 609.15 282.2892 607.7253 282.6691 606.2056 282.954 604.7809 283.239 600.4119 284.1888 594.6182 285.4235 582.9358 287.798 581.4161 288.0829 579.9914 288.3678 578.5667 288.6528 574.1027 289.4126 569.7337 290.2674 556.5316 292.6419 553.8722 277.3503 549.1233 249.8064 557.7664 244.5826 558.5262 248.4767 558.6212 249.5215 558.8111 250.4713 559.381 253.4156 579.8015 249.6164 584.8354 248.5717 588.1596 247.9068 589.7743 247.5269 591.4839 247.242 598.1324 245.8173 613.424 242.398 617.2232 244.3926 617.6981 245.1524 618.2679 247.8118 619.4077 249.2365 620.4524 249.6164 620.6424 249.7114 620.8324 249.9014 621.0223 249.9964 621.3073 249.9964 621.9721 249.8064 622.7319 249.8064 623.5867 250.6612 623.6817 250.9461 623.6817 251.0411 622.257 252.7507 622.0671 254.3654 619.7876 258.4495 620.7374 265.193 621.9721 265.098 622.257 265.4779 622.637 266.7126 625.2014 268.3273 626.5311 269.467 627.7658 270.1319 626.911 271.4616 626.816 271.5566 625.6763 272.6013 623.7767 274.6909 620.6424 278.3001 Z" id="US.PA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>0</labelrank>
+        <code_hasc>US.PA</code_hasc>
+        <name>Pennsylvania</name>
+        <admin>United States of America</admin>
+        <type_en>State</type_en>
+        <region>Northeast</region>
+        <woe_id>2347597</woe_id>
+        <woe_name>Pennsylvania</woe_name>
+        <longitude>-77</longitude>
+        <middle-y>0.49</middle-y>
+        <middle-x>0.5</middle-x>
+        <woe_label>Pennsylvania, US, United States</woe_label>
+        <fips>US42</fips>
+        <iso_a2>US</iso_a2>
+        <latitude>40</latitude>
+        <objectid_1>3509</objectid_1>
+        <postal>PA</postal>
+        <type>State</type>
+        <id>US.PA</id>
+      </desc>
+    </path>
+    <path d="M 659.8687 206.496 659.3938 204.7864 659.3938 204.3115 659.2988 204.1215 659.2038 203.5517 659.0139 203.0768 658.7289 202.222 658.1591 200.5123 657.3043 198.0429 656.7344 196.3333 656.4494 195.4785 656.1645 194.6237 654.7398 190.3496 653.3151 186.0756 651.2256 180.0919 650.6557 178.3823 650.3708 177.5275 650.0859 176.6726 649.8009 175.8178 653.2202 172.0187 656.2595 163.1856 655.0248 160.9061 656.0695 154.5426 655.4047 149.6986 660.0586 135.3568 663.4779 137.7313 665.2825 138.2062 672.3109 133.3623 678.1996 136.8765 684.7532 156.1572 689.5021 158.4367 690.9268 163.7555 694.441 164.3254 699 169.3593 697.1004 173.0634 690.5469 179.1421 685.9879 179.427 681.144 183.6061 678.0097 183.0362 678.3896 189.5898 677.2498 191.8693 669.1766 195.4785 666.9921 198.8977 664.9026 210.1052 659.8687 206.496 Z" id="US.ME" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>0</labelrank>
+        <code_hasc>US.ME</code_hasc>
+        <name>Maine</name>
+        <admin>United States of America</admin>
+        <type_en>State</type_en>
+        <region>Northeast</region>
+        <woe_id>2347578</woe_id>
+        <woe_name>Maine</woe_name>
+        <longitude>-69</longitude>
+        <middle-y>0.4</middle-y>
+        <middle-x>0.43</middle-x>
+        <woe_label>Maine, US, United States</woe_label>
+        <fips>US23</fips>
+        <iso_a2>US</iso_a2>
+        <latitude>45</latitude>
+        <objectid_1>397</objectid_1>
+        <postal>ME</postal>
+        <type>State</type>
+        <id>US.ME</id>
+      </desc>
+    </path>
+    <path d="M 458.1528 211.52 454.6193 208.6805 454.4293 205.3563 450.4402 201.6521 441.8921 200.5123 438.3779 198.8977 426.5055 196.4283 422.8963 192.5341 423.2033 191.698 430.1399 188.6151 434.6853 187.706 438.0186 185.2818 440.4428 181.6455 444.0791 179.8273 448.6245 177.1001 452.8669 175.888 453.776 175.888 448.9276 181.0394 445.8973 185.5848 445.8973 188.009 448.9276 185.2818 452.8669 185.5848 457.4123 188.3121 460.1395 193.1605 462.8668 191.6454 467.4122 192.8575 471.3515 191.9484 476.1999 188.009 481.9574 188.6151 489.5331 187.1 489.7909 187.0593 490.4263 188.0701 495.5552 188.1651 498.7845 194.0538 502.5836 192.6291 503.4384 197.568 511.2701 201.0488 502.2602 199.8271 494.3815 199.8271 493.4724 202.5543 488.0179 199.524 483.4726 198.615 482.2604 200.4331 475.8969 200.7362 470.7455 204.9785 469.2303 205.8876 469.2303 202.5543 465.897 202.5543 464.6849 204.9785 464.0789 203.1604 459.8365 208.9179 458.1528 211.52 Z M 471.6101 269.8059 472.5636 268.614 475.2908 263.4626 477.412 256.796 477.109 249.5234 471.9576 239.2205 473.7757 236.4932 471.9576 232.5539 474.0787 226.4934 474.6848 221.0389 477.7151 218.3117 481.3514 214.0693 481.6544 220.4329 483.1695 220.1298 485.2907 211.6451 490.1391 210.433 488.927 208.3118 491.0482 204.3725 494.6845 204.9785 500.745 207.4027 501.0481 209.5239 504.9874 209.5239 510.1389 211.6451 512.26 217.0996 509.2298 215.5844 510.7449 219.8268 510.7449 227.0994 508.9268 228.6146 508.3207 233.16 504.3814 233.16 502.5632 236.7963 507.7146 239.8265 512.5631 234.3721 514.6843 233.16 520.1387 233.463 521.3508 244.978 522.5629 249.8264 522.7995 249.7536 517.4003 256.17 518.0652 261.2039 515.0259 265.003 497.8347 267.9474 497.7397 266.9026 471.6101 269.8059 Z" id="US.MI" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>0</labelrank>
+        <code_hasc>US.MI</code_hasc>
+        <name>Michigan</name>
+        <admin>United States of America</admin>
+        <type_en>State</type_en>
+        <region>Midwest</region>
+        <woe_id>2347581</woe_id>
+        <woe_name>Michigan</woe_name>
+        <longitude>-84</longitude>
+        <middle-y>0.67</middle-y>
+        <middle-x>0.71</middle-x>
+        <woe_label>Michigan, US, United States</woe_label>
+        <fips>US26</fips>
+        <iso_a2>US</iso_a2>
+        <latitude>43</latitude>
+        <objectid_1>3202</objectid_1>
+        <postal>MI</postal>
+        <type>State</type>
+        <id>US.MI</id>
+      </desc>
+    </path>
+    <path d="M 25.5185 565.5793 25.7117 567.1495 23.4385 567.425 21.9917 568.5304 21.2295 567.0215 24.6395 565.4639 25.5185 565.5793 Z M 31.9682 564.7178 32.9729 565.7311 33.2205 567.4984 26.0689 568.4638 27.4314 567.3932 28.9064 567.6057 31.9682 564.7178 Z M 47.1659 561.2915 48.1108 563.9402 46.6842 564.6883 44.5652 563.9342 42.9964 564.8799 41.1237 564.3687 43.4879 561.4744 47.1659 561.2915 Z M 183.5074 565.8012 184.7778 567.4334 185.1038 569.4527 184.4579 571.3535 181.5326 569.6264 182.0322 566.3162 183.5074 565.8012 Z M 173.2985 564.1528 175.0024 564.1176 175.7602 566.0938 177.1646 566.3312 179.148 568.7067 179.0225 569.6739 181.0068 571.2599 181.6911 574.7627 178.8335 573.9243 178.5458 572.7314 175.8769 571.8772 176.1569 569.2732 174.7511 568.7984 175.1845 567.3248 174.7166 565.3611 173.2985 564.1528 Z M 171.231 560.5918 172.0568 561.1229 172.1884 563.6944 169.8732 562.138 171.231 560.5918 Z M 171.9498 558.9127 175.2175 559.5641 175.701 561.6957 175.0188 563.1286 172.938 563.3891 171.9498 558.9127 Z M 165.0669 556.8809 167.1394 557.5055 168.7998 561.8906 168.9623 564.7642 167.17 563.4523 165.6766 561.4592 165.7615 559.7926 164.091 557.7292 165.0669 556.8809 Z M 95.5391 551.0755 97.5811 551.5165 97.3374 553.418 96.009 556.0037 93.7254 555.9895 90.2726 559.1005 88.3256 556.8924 87.6952 554.0817 88.719 552.9091 91.8069 551.3368 94.6865 551.8572 95.5391 551.0755 Z M 163.3229 551.2483 166.5386 552.4281 167.394 556.2947 162.9212 556.9874 160.8646 554.0125 160.6778 552.2001 163.3229 551.2483 Z M 166.3058 549.8588 167.326 551.2739 168.9742 552.5038 170.7715 554.9861 171.3024 556.8893 169.0349 559.6215 168.8614 556.9042 167.9581 555.4546 166.3058 549.8588 Z M 97.7512 547.3538 99.6097 548.4107 99.9494 549.4355 96.4263 550.72 94.9898 549.1771 96.8146 548.5752 97.7512 547.3538 Z M 120.0419 535.9097 118.3993 538.8818 117.6583 538.3913 120.0419 535.9097 Z M 51.8405 520.1101 53.0419 521.3194 52.5389 524.0771 49.7103 524.0304 46.9895 521.1623 50.575 519.6565 51.8405 520.1101 Z M 44.3401 488.4804 44.3517 489.7099 45.7644 491.1506 48.1421 491.227 49.6063 496.1526 47.7373 496.6788 46.5574 493.3237 45.6437 492.0219 43.3981 492.0933 42.8409 490.074 44.3401 488.4804 Z M 104.9308 450.6538 104.6798 451.6631 107.567 453.2234 108.4241 455.8764 111.5196 455.7032 113.2666 456.3457 113.0762 458.7963 114.0939 459.7947 120.6305 460.2875 122.8565 462.0158 125.9124 463.3549 129.0218 463.5611 131.3033 465.1309 135.6565 464.2363 138.0887 466.2196 141.3617 467.7388 141.5906 481.7802 141.8581 497.984 141.9848 505.5495 142.1756 519.5783 142.3244 529.3019 142.4545 536.883 146.1106 537.7643 147.4769 536.634 149.4298 536.4599 149.2109 538.506 155.4518 544.3683 156.3337 546.7558 159.7584 543.678 160.3105 541.1364 163.0754 539.6025 165.013 541.2696 164.7992 542.2141 167.7511 544.6558 168.6151 546.1079 170.0372 546.726 171.8731 548.5675 176.3791 555.1502 178.9544 558.3433 178.8408 559.6245 183.4237 562.3283 188.018 564.0009 188.0299 566.4956 189.3759 569.7913 188.2818 572.826 185.9636 573.8492 185.0052 571.1648 185.6184 569.9913 185.109 567.2799 183.6868 565.7867 182.5956 565.4593 181.4185 566.5451 180.8755 569.5505 179.3971 567.9473 180.4036 565.7948 179.9319 563.2202 177.6221 561.7108 177.4366 560.7024 174.6374 558.5167 172.7249 558.0341 173.206 556.8201 172.1287 554.0852 167.9504 549.8483 166.8893 549.6055 165.0861 546.5545 165.8486 550.4038 162.6283 549.0502 162.0148 550.1858 159.86 551.58 156.1365 549.3205 153.3587 546.071 146.857 542.4844 148.2208 541.1734 147.6496 539.9303 145.0729 541.3867 139.7926 539.5238 135.8503 538.4176 131.6707 539.1981 128.1169 536.2218 124.3675 535.4607 125.3692 534.0485 122.4805 532.6513 121.5102 530.9812 119.4574 531.8872 116.0473 531.5329 117.0749 535.0131 115.0426 538.176 111.6204 537.5801 110.0262 538.4001 107.4672 541.2034 101.8296 542.7457 101.5257 540.8335 104.011 540.1063 101.9926 538.1013 103.9402 535.3745 106.0102 531.1986 108.4761 529.6464 109.8319 530.6909 111.4185 530.3136 108.1022 527.6293 105.9854 529.0879 103.7386 529.8706 103.2025 531.049 101.1014 532.7498 98.969 536.6855 97.5491 537.9589 95.534 538.1261 93.3312 539.6927 92.4548 541.8335 94.2844 542.2488 95.5484 543.469 94.8918 544.8959 92.9642 545.4541 91.4288 548.1561 89.5409 549.2642 87.8368 548.9501 85.9339 550.8569 81.7757 552.3498 81.362 554.0637 77.3484 556.2759 74.23 556.4815 72.1579 557.385 71.7771 559.5841 65.7858 560.8699 64.9969 560.3443 61.658 562.2375 58.0758 562.297 57.2034 560.0434 54.7739 563.1622 52.8214 562.7583 50.5436 563.3156 50.236 561.9631 54.9034 558.6789 56.9551 557.8635 59.9553 558.1301 60.7252 560.0631 62.3728 558.9747 63.6652 556.6626 66.7629 555.1609 70.4524 554.0863 73.837 551.276 76.6566 550.0198 78.9844 543.6947 81.1071 542.1541 81.2879 540.9706 76.7629 541.9787 74.7342 539.9059 74.2708 542.0985 73.014 542.5123 72.3926 539.7728 70.456 539.0944 69.3826 536.4836 64.9029 537.8775 63.6227 537.277 63.5263 534.2616 64.1866 532.4396 65.2908 531.8986 64.4317 526.3081 63.4988 527.414 59.1007 527.5421 57.4753 526.6965 57.611 525.1249 55.5908 521.949 55.0778 519.8496 58.4167 518.8466 57.2569 516.738 55.5245 515.4704 55.9205 514.494 54.8001 511.526 57.4934 510.4813 57.886 508.5022 60.8372 506.422 62.1578 506.0747 62.5417 504.4065 64.2725 502.6757 65.995 502.3212 68.8247 504.9435 72.9925 503.2202 76.017 503.765 77.7979 502.438 78.7159 496.7497 79.7451 496.0099 78.1266 494.466 76.0064 494.1998 73.8946 495.1917 68.8314 492.7135 66.3455 492.9318 63.2277 490.6175 63.5366 488.1709 62.9375 486.5868 64.9548 485.3685 62.039 483.4297 60.6655 481.2757 63.6853 480.0855 68.7699 479.4107 72.9426 478.5082 75.1241 478.8805 74.2376 482.1216 74.6278 482.9601 79.618 484.9791 81.0932 483.7423 81.4529 482.3463 83.6185 483.6502 85.5893 483.0288 84.0158 481.4381 82.4739 482.026 81.2931 480.3 82.192 477.8501 80.4017 477.7399 77.2315 475.7468 77.2998 471.6283 75.1295 467.2456 73.1328 463.975 74.5162 462.8903 75.408 460.7732 80.2959 462.2656 82.603 461.6302 84.3749 460.3661 85.981 457.5362 89.4475 454.8874 92.3726 455.309 96.837 453.4632 100.0951 453.7947 102.4459 452.5961 104.9308 450.6538 Z" id="US.AK" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>0</labelrank>
+        <code_hasc>US.AK</code_hasc>
+        <name>Alaska</name>
+        <admin>United States of America</admin>
+        <type_en>State</type_en>
+        <region>West</region>
+        <woe_id>2347560</woe_id>
+        <woe_name>Alaska</woe_name>
+        <longitude>-151</longitude>
+        <middle-y>0.33</middle-y>
+        <middle-x>0.53</middle-x>
+        <woe_label>Alaska, US, United States</woe_label>
+        <fips>US02</fips>
+        <iso_a2>US</iso_a2>
+        <latitude>65</latitude>
+        <objectid_1>500</objectid_1>
+        <postal>AK</postal>
+        <type>State</type>
+        <id>US.AK</id>
+      </desc>
+    </path>
+    <path d="M 602.4109 297.2776 605.0738 297.3575 604.0086 300.6241 602.4109 297.2776 Z" id="US.DC" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>0</labelrank>
+        <code_hasc>US.DC</code_hasc>
+        <name>District of Columbia</name>
+        <admin>United States of America</admin>
+        <type_en>Federal District</type_en>
+        <region>South</region>
+        <woe_id>2347567</woe_id>
+        <woe_name>District of Columbia</woe_name>
+        <longitude>-77</longitude>
+        <middle-y/>
+        <middle-x/>
+        <woe_label>District of Columbia, US, United States</woe_label>
+        <fips>US11</fips>
+        <iso_a2>US</iso_a2>
+        <latitude>38</latitude>
+        <objectid_1>3556</objectid_1>
+        <postal>DC</postal>
+        <type>Federal District</type>
+        <id>US.DC</id>
+      </desc>
+    </path>
+  </g>
+</svg>

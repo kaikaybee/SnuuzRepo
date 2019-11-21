@@ -1,0 +1,1293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="yunnan">
+    <path d="M 516.8015 156.2537 522.7892 151.9767 524.5 140.0012 533.9093 134.8689 550.1618 137.435 559.5711 129.7365 568.9804 135.7243 582.6667 132.3027 579.2451 137.435 575.8235 141.712 552.7279 152.8321 557.8603 169.0846 549.3064 169.94 537.3309 181.9154 532.1985 175.9277 515.0907 171.6507 511.6691 163.0968 516.8015 156.2537 Z" id="CN.yunnan.2402004" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Yiliang</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Yiliang (Zhaotong)</wikipedia>
+        <localname>彝良县 (Yiliang)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2402004</id>
+      </desc>
+    </path>
+    <path d="M 579.2451 137.435 593.7868 140.0012 604.0515 145.989 619.4485 140.8566 628.0025 146.8444 622.0147 169.0846 609.1838 169.94 592.076 180.2047 588.6544 175.0723 571.5466 178.4939 557.8603 169.0846 552.7279 152.8321 575.8235 141.712 579.2451 137.435 Z" id="CN.yunnan.2402010" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Zhenxiong</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Zhenxiong</wikipedia>
+        <localname>镇雄县 (Zhenxiong)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2402010</id>
+      </desc>
+    </path>
+    <path d="M 521.9338 104.0748 526.2108 126.315 533.9093 134.8689 524.5 140.0012 522.7892 151.9767 516.8015 156.2537 503.9706 151.9767 499.6936 139.1458 505.6814 135.7243 497.9828 119.4718 507.3922 117.761 521.9338 104.0748 Z" id="CN.yunnan.2402020" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Daguan County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>zh:大关县</wikipedia>
+        <localname>大关县 (Daguan)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2402020</id>
+      </desc>
+    </path>
+    <path d="M 453.5025 169.94 462.9118 157.9645 471.4657 163.0968 479.1642 157.1091 503.9706 151.9767 516.8015 156.2537 511.6691 163.0968 515.0907 171.6507 511.6691 178.4939 492.8505 193.8909 491.9951 184.4816 479.1642 182.7708 482.5858 172.5061 471.4657 169.94 454.3578 171.6507 453.5025 169.94 Z" id="CN.yunnan.2402036" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Zhaoyang</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Zhaoyang</wikipedia>
+        <localname>昭阳区 (Zhaoyang)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2402036</id>
+      </desc>
+    </path>
+    <path d="M 582.6667 132.3027 596.3529 128.0257 607.473 115.1949 617.7377 117.761 628.0025 146.8444 619.4485 140.8566 604.0515 145.989 593.7868 140.0012 579.2451 137.435 582.6667 132.3027 Z" id="CN.yunnan.2402040" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Weixin</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Weixin</wikipedia>
+        <localname>威信县 (Weixin)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2402040</id>
+      </desc>
+    </path>
+    <path d="M 521.9338 104.0748 523.6446 94.6654 529.6324 92.9547 543.3186 90.3885 547.5956 98.087 558.7157 101.5086 559.5711 109.2071 553.5833 118.6164 559.5711 129.7365 550.1618 137.435 533.9093 134.8689 526.2108 126.315 521.9338 104.0748 Z" id="CN.yunnan.2402045" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Yanjin</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Yanjin (Zhaotong)</wikipedia>
+        <localname>盐津县 (Yanjin)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2402045</id>
+      </desc>
+    </path>
+    <path d="M 462.9118 157.9645 482.5858 138.2904 485.152 127.1703 476.598 116.9056 487.7181 104.9301 503.9706 104.0748 512.5245 98.9424 508.2475 85.2561 523.6446 94.6654 521.9338 104.0748 507.3922 117.761 497.9828 119.4718 505.6814 135.7243 499.6936 139.1458 503.9706 151.9767 479.1642 157.1091 471.4657 163.0968 462.9118 157.9645 Z" id="CN.yunnan.2402060" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Yongshan</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Yongshan</wikipedia>
+        <localname>永善县 (Yongshan)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2402060</id>
+      </desc>
+    </path>
+    <path d="M 454.3578 171.6507 471.4657 169.94 482.5858 172.5061 479.1642 182.7708 491.9951 184.4816 492.8505 193.8909 491.9951 203.3002 476.598 203.3002 460.3456 191.3248 459.4902 173.3615 454.3578 171.6507 Z" id="CN.yunnan.2402646" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ludian</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Ludian</wikipedia>
+        <localname>鲁甸县 (Ludian)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2402646</id>
+      </desc>
+    </path>
+    <path d="M 453.5025 169.94 454.3578 171.6507 459.4902 173.3615 460.3456 191.3248 476.598 203.3002 468.8995 226.3958 458.6348 233.239 447.5147 234.9498 446.6593 240.9375 446.6593 240.0821 440.6716 219.5527 431.2623 201.5895 434.6838 193.0355 432.973 182.7708 440.6716 174.2169 453.5025 169.94 Z" id="CN.yunnan.2402647" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Qiaojia</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Qiaojia</wikipedia>
+        <localname>巧家县 (Qiaojia)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2402647</id>
+      </desc>
+    </path>
+    <path d="M 544.174 72.4252 543.3186 90.3885 529.6324 92.9547 530.4877 81.8346 544.174 72.4252 Z" id="CN.yunnan.2402648" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Shuifu</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Shuifu</wikipedia>
+        <localname>水富县 (Shuifu)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2402648</id>
+      </desc>
+    </path>
+    <path d="M 544.174 72.4252 530.4877 81.8346 529.6324 92.9547 523.6446 94.6654 508.2475 85.2561 517.6569 74.136 544.174 72.4252 Z" id="CN.yunnan.2402649" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Suijiang</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Suijiang</wikipedia>
+        <localname>绥江县 (Suijiang)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2402649</id>
+      </desc>
+    </path>
+    <path d="M 160.1029 569.4081 166.0907 559.9988 176.3554 555.7218 172.0784 531.7708 165.2353 531.7708 160.9583 518.94 174.6446 506.1091 183.1985 508.6752 191.7525 505.2537 203.7279 508.6752 213.9926 522.3615 221.6912 525.7831 226.8235 537.7586 230.2451 552.3002 244.7868 562.565 245.6422 567.6973 231.9559 576.2512 230.2451 584.8051 220.8358 582.239 208.0049 586.5159 198.5956 601.913 190.0417 604.4792 172.0784 597.636 172.0784 585.6605 180.6324 571.9743 176.3554 565.1311 160.1029 569.4081 Z" id="CN.yunnan.2715426" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lancang Lahu Autonomous County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Lancang</wikipedia>
+        <localname>澜沧拉祜族自治县 (Lancang Lahu)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2715426</id>
+      </desc>
+    </path>
+    <path d="M 198.5956 601.913 208.0049 586.5159 220.8358 582.239 230.2451 584.8051 231.9559 576.2512 245.6422 567.6973 247.3529 569.4081 252.4853 604.4792 251.6299 617.31 243.9314 622.4424 242.2206 636.9841 235.3775 643.8272 219.9804 649.815 210.5711 645.538 209.7157 630.1409 199.451 630.1409 196.0294 617.31 198.5956 601.913 Z" id="CN.yunnan.2715427" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Menghai County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Menghai</wikipedia>
+        <localname>勐海县 (Menghai)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2715427</id>
+      </desc>
+    </path>
+    <path d="M 321.7721 573.685 333.7475 578.8174 326.049 583.9498 331.1814 608.7561 343.1569 621.587 339.7353 660.935 349.1446 666.9228 342.3015 675.4767 330.326 667.7782 320.0613 666.9228 304.6642 672.9105 298.6765 667.7782 302.098 657.5135 296.1103 654.0919 298.6765 642.1164 290.1225 630.9963 290.9779 625.0086 295.2549 622.4424 291.8333 599.3468 306.375 579.6728 321.7721 573.685 Z" id="CN.yunnan.2715428" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Mengla County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Mengla</wikipedia>
+        <localname>勐腊县 (Mengla)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2715428</id>
+      </desc>
+    </path>
+    <path d="M 328.6152 537.7586 337.1691 532.6262 344.8676 535.1924 351.7108 542.0355 361.1201 542.0355 368.8186 554.011 387.6373 561.7096 383.3603 572.8297 348.2892 572.8297 344.0123 565.9865 334.6029 570.2635 333.7475 578.8174 321.7721 573.685 316.6397 559.1434 300.3873 542.0355 303.8088 536.0478 317.4951 551.4449 328.6152 547.1679 328.6152 537.7586 Z" id="CN.yunnan.2716218" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jiangcheng Hani and Yi Autonomous County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Jiangcheng (Pu’er)</wikipedia>
+        <localname>江城哈尼族彝族自治县 (Jiangcheng)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2716218</id>
+      </desc>
+    </path>
+    <path d="M 226.8235 537.7586 241.3652 541.1801 249.9191 533.4816 249.9191 526.6385 258.473 519.7953 267.027 530.06 272.1593 528.3493 283.2794 536.9032 300.3873 542.0355 316.6397 559.1434 305.5196 563.4203 276.4363 559.1434 247.3529 569.4081 245.6422 567.6973 244.7868 562.565 230.2451 552.3002 226.8235 537.7586 Z" id="CN.yunnan.2716233" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Simao District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Simao</wikipedia>
+        <localname>思茅区 (Simao)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2716233</id>
+      </desc>
+    </path>
+    <path d="M 150.6936 566.8419 160.1029 569.4081 176.3554 565.1311 180.6324 571.9743 172.0784 585.6605 172.0784 597.636 142.1397 598.4914 133.5858 594.2145 143.8505 572.8297 150.6936 566.8419 Z" id="CN.yunnan.2716241" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Menglian Dai, Lahu and Va Autonomous County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Menglian</wikipedia>
+        <localname>孟连傣族拉祜族佤族自治县 (Menglian)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2716241</id>
+      </desc>
+    </path>
+    <path d="M 165.2353 531.7708 172.0784 531.7708 176.3554 555.7218 166.0907 559.9988 160.1029 569.4081 150.6936 566.8419 145.5613 547.1679 165.2353 531.7708 Z" id="CN.yunnan.2716254" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ximeng Va Autonomous County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Ximeng</wikipedia>
+        <localname>西盟佤族自治县 (Ximeng Va)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2716254</id>
+      </desc>
+    </path>
+    <path d="M 233.6667 388.9203 246.4975 388.9203 254.1961 379.511 261.0392 382.9326 273.8701 385.4988 286.701 406.8836 301.2426 421.4252 295.2549 433.4007 284.1348 441.9547 273.0147 439.3885 271.3039 430.8346 261.0392 423.9914 257.6176 435.9669 243.9314 446.2316 232.8113 450.5086 231.9559 448.7978 230.2451 440.2439 239.6544 438.5331 242.2206 429.9792 241.3652 411.1605 244.7868 407.739 233.6667 388.9203 Z" id="CN.yunnan.2716373" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jingdong Yi Autonomous County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Jingdong</wikipedia>
+        <localname>景东彝族自治县 (Jingdong Yi)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2716373</id>
+      </desc>
+    </path>
+    <path d="M 213.1373 486.435 215.7034 477.8811 231.1005 475.315 229.3897 458.2071 245.6422 456.4963 257.6176 463.3395 273.8701 465.0502 281.5686 478.7365 290.9779 501.8321 280.7132 505.2537 258.473 519.7953 249.9191 526.6385 249.9191 533.4816 241.3652 541.1801 226.8235 537.7586 221.6912 525.7831 213.9926 522.3615 203.7279 508.6752 213.1373 486.435 Z" id="CN.yunnan.2716374" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jinggu Dai and Yi Autonomous County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Jinggu</wikipedia>
+        <localname>景谷傣族彝族自治县 (Jinggu)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2716374</id>
+      </desc>
+    </path>
+    <path d="M 313.2181 459.9179 317.4951 466.761 331.1814 474.4596 337.1691 472.7488 344.0123 489.8566 351.7108 498.4105 347.4338 512.0968 367.1078 517.2292 362.8309 525.7831 352.5662 524.0723 344.8676 535.1924 337.1691 532.6262 328.6152 537.7586 318.3505 528.3493 318.3505 517.2292 307.2304 515.5184 309.7966 507.8199 302.9534 497.5551 298.6765 479.5919 290.9779 453.9301 300.3873 452.2194 313.2181 459.9179 Z" id="CN.yunnan.2716375" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Mojiang Hani Autonomous County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Mojiang</wikipedia>
+        <localname>墨江哈尼族自治县 (Mojiang Hani)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2716375</id>
+      </desc>
+    </path>
+    <path d="M 258.473 519.7953 280.7132 505.2537 290.9779 501.8321 281.5686 478.7365 298.6765 479.5919 302.9534 497.5551 309.7966 507.8199 307.2304 515.5184 318.3505 517.2292 318.3505 528.3493 328.6152 537.7586 328.6152 547.1679 317.4951 551.4449 303.8088 536.0478 300.3873 542.0355 283.2794 536.9032 272.1593 528.3493 267.027 530.06 258.473 519.7953 Z" id="CN.yunnan.2716376" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ning'er Hani and Yi Autonomous County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Ning’er</wikipedia>
+        <localname>宁洱哈尼族彝族自治县 (Ning'er)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2716376</id>
+      </desc>
+    </path>
+    <path d="M 232.8113 450.5086 243.9314 446.2316 257.6176 435.9669 261.0392 423.9914 271.3039 430.8346 273.0147 439.3885 284.1348 441.9547 295.2549 433.4007 301.2426 421.4252 303.8088 421.4252 320.9167 450.5086 313.2181 459.9179 300.3873 452.2194 290.9779 453.9301 298.6765 479.5919 281.5686 478.7365 273.8701 465.0502 257.6176 463.3395 245.6422 456.4963 229.3897 458.2071 232.8113 450.5086 Z" id="CN.yunnan.2716377" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Zhenyuan Yi, Hani and Lahu Autonomous County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Zhenyuan (Pu’er)</wikipedia>
+        <localname>镇沅彝族哈尼族拉祜族自治县 (Zhenyuan)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2716377</id>
+      </desc>
+    </path>
+    <path d="M 49.7574 394.9081 56.6005 391.4865 53.1789 379.511 60.0221 371.8125 82.2623 372.6679 73.7083 383.788 74.5637 391.4865 62.5882 403.462 50.6127 400.8958 49.7574 394.9081 Z" id="CN.yunnan.2717272" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lianghe County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Lianghe (Dehong)</wikipedia>
+        <localname>梁河县 (Lianghe)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2717272</id>
+      </desc>
+    </path>
+    <path d="M 12.9755 408.5944 21.5294 408.5944 49.7574 394.9081 50.6127 400.8958 62.5882 403.462 59.1667 410.3051 45.4804 421.4252 41.2034 433.4007 19.8186 431.69 20.674 423.9914 12.9755 408.5944 Z" id="CN.yunnan.2717273" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Longchuan County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Longchuan (Dehong)</wikipedia>
+        <localname>陇川县 (Longchuan)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2717273</id>
+      </desc>
+    </path>
+    <path d="M 41.2034 433.4007 45.4804 421.4252 59.1667 410.3051 62.5882 403.462 74.5637 391.4865 79.6961 401.7512 95.0931 400.0404 96.8039 435.9669 83.973 435.1115 53.1789 436.8223 41.2034 433.4007 Z" id="CN.yunnan.2717274" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Mang City</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Mang (Dehong)</wikipedia>
+        <localname>芒市 (Mang)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2717274</id>
+      </desc>
+    </path>
+    <path d="M 19.8186 431.69 41.2034 433.4007 53.1789 436.8223 42.9142 439.3885 15.5417 456.4963 1 451.364 19.8186 431.69 Z" id="CN.yunnan.2717275" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ruili City</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Ruili</wikipedia>
+        <localname>瑞丽市 (Ruili)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2717275</id>
+      </desc>
+    </path>
+    <path d="M 46.3358 337.5968 53.1789 351.2831 60.8775 357.2708 60.0221 371.8125 53.1789 379.511 56.6005 391.4865 49.7574 394.9081 21.5294 408.5944 12.9755 408.5944 3.5662 405.1728 4.4216 387.2096 15.5417 377.8002 17.2525 363.2586 26.6618 342.7292 34.3603 347.0061 46.3358 337.5968 Z" id="CN.yunnan.2717276" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Yingjiang County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Yingjiang (Dehong)</wikipedia>
+        <localname>盈江县 (Yingjiang)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2717276</id>
+      </desc>
+    </path>
+    <path d="M 527.0662 317.0674 539.8971 293.1164 557.8603 288.8395 548.451 316.212 557.0049 317.9228 566.4142 332.4645 574.1127 339.3076 588.6544 343.5846 572.402 359.837 558.7157 360.6924 553.5833 347.0061 555.2941 337.5968 540.7525 338.4522 528.777 337.5968 521.0784 326.4767 527.0662 317.0674 Z" id="CN.yunnan.2718624" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Fuyuan County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Fuyuan (Qujing)</wikipedia>
+        <localname>富源县 (Fuyuan)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2718624</id>
+      </desc>
+    </path>
+    <path d="M 476.598 203.3002 491.9951 203.3002 500.549 201.5895 502.2598 234.0944 515.0907 242.6483 510.8137 250.3468 496.2721 256.3346 495.4167 267.4547 491.1397 276.864 482.5858 281.1409 485.152 299.1042 467.1887 296.538 467.1887 281.1409 462.0564 269.1654 450.9363 264.0331 446.6593 240.9375 447.5147 234.9498 458.6348 233.239 468.8995 226.3958 476.598 203.3002 Z" id="CN.yunnan.2718625" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Huize County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Huize</wikipedia>
+        <localname>会泽县 (Huize)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2718625</id>
+      </desc>
+    </path>
+    <path d="M 480.0196 349.5723 489.4289 349.5723 503.1152 338.4522 508.2475 350.4277 521.0784 354.7047 518.5123 364.9694 508.2475 372.6679 499.6936 384.6434 496.2721 386.3542 495.4167 375.2341 481.7304 377.8002 478.3088 370.9571 480.0196 349.5723 Z" id="CN.yunnan.2718626" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Luliang County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Luliang</wikipedia>
+        <localname>陆良县 (Luliang)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2718626</id>
+      </desc>
+    </path>
+    <path d="M 518.5123 364.9694 521.0784 354.7047 526.2108 355.56 540.7525 338.4522 555.2941 337.5968 553.5833 347.0061 558.7157 360.6924 572.402 359.837 580.1005 364.9694 566.4142 378.6556 562.1373 394.0527 564.7034 401.7512 542.4632 382.9326 532.1985 369.2463 518.5123 364.9694 Z" id="CN.yunnan.2718627" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Luoping County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Luoping</wikipedia>
+        <localname>罗平县 (Luoping)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2718627</id>
+      </desc>
+    </path>
+    <path d="M 463.7672 343.5846 463.7672 337.5968 466.3333 332.4645 486.0074 317.9228 499.6936 317.9228 497.1275 330.7537 503.1152 338.4522 489.4289 349.5723 480.0196 349.5723 467.1887 351.2831 463.7672 343.5846 Z" id="CN.yunnan.2718628" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Malong County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Malong</wikipedia>
+        <localname>马龙县 (Malong)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2718628</id>
+      </desc>
+    </path>
+    <path d="M 499.6936 317.9228 510.8137 322.1998 527.0662 317.0674 521.0784 326.4767 528.777 337.5968 540.7525 338.4522 526.2108 355.56 521.0784 354.7047 508.2475 350.4277 503.1152 338.4522 497.1275 330.7537 499.6936 317.9228 Z" id="CN.yunnan.2718629" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Qilin District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Qilin (Qujing)</wikipedia>
+        <localname>麒麟区 (Qilin)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2718629</id>
+      </desc>
+    </path>
+    <path d="M 499.6936 384.6434 508.2475 372.6679 518.5123 364.9694 532.1985 369.2463 542.4632 382.9326 564.7034 401.7512 568.9804 409.4498 565.5588 410.3051 546.7402 417.1483 537.3309 408.5944 523.6446 409.4498 517.6569 393.1973 499.6936 384.6434 Z" id="CN.yunnan.2718630" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Shizong County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Shizong (Qujing)</wikipedia>
+        <localname>师宗县 (Shizong)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2718630</id>
+      </desc>
+    </path>
+    <path d="M 515.0907 242.6483 528.777 242.6483 533.0539 232.3836 567.2696 236.6605 577.5343 253.7684 566.4142 264.0331 564.7034 276.0086 557.8603 288.8395 539.8971 293.1164 534.7647 287.1287 517.6569 282.8517 512.5245 289.6949 491.9951 285.4179 491.1397 276.864 495.4167 267.4547 496.2721 256.3346 510.8137 250.3468 515.0907 242.6483 Z" id="CN.yunnan.2718631" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Xuanwei City</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Xuanwei</wikipedia>
+        <localname>宣威市 (Xuanwei)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2718631</id>
+      </desc>
+    </path>
+    <path d="M 485.152 299.1042 482.5858 281.1409 491.1397 276.864 491.9951 285.4179 512.5245 289.6949 517.6569 282.8517 534.7647 287.1287 539.8971 293.1164 527.0662 317.0674 510.8137 322.1998 499.6936 317.9228 486.0074 317.9228 481.7304 314.5012 485.152 299.1042 Z" id="CN.yunnan.2718632" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Zhanyi County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Zhanyi</wikipedia>
+        <localname>沾益县 (Zhanyi)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2718632</id>
+      </desc>
+    </path>
+    <path d="M 452.6471 477.0257 466.3333 482.1581 468.0441 505.2537 459.4902 519.7953 431.2623 508.6752 438.1054 494.1336 452.6471 487.2904 452.6471 477.0257 Z M 462.0564 520.6507 475.7426 523.2169 477.4534 524.9277 474.8873 526.6385 462.0564 520.6507 Z" id="CN.yunnan.2719406" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Gejiu City</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Gejiu</wikipedia>
+        <localname>个旧市 (Gejiu)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2719406</id>
+      </desc>
+    </path>
+    <path d="M 474.8873 526.6385 477.4534 524.9277 513.3799 540.3248 524.5 540.3248 532.1985 534.337 545.0294 538.614 532.1985 541.1801 526.2108 547.1679 523.6446 564.2757 519.3676 565.9865 494.5613 542.8909 474.8873 526.6385 Z" id="CN.yunnan.2719407" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hekou Yao Autonomous County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Hekou (Honghe)</wikipedia>
+        <localname>河口瑶族自治县 (Hekou)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2719407</id>
+      </desc>
+    </path>
+    <path d="M 351.7108 498.4105 366.2525 500.1213 376.5172 491.5674 387.6373 492.4228 411.5882 500.9767 401.3235 518.0846 367.1078 517.2292 347.4338 512.0968 351.7108 498.4105 Z" id="CN.yunnan.2719408" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Honghe County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Honghe (Kreis)</wikipedia>
+        <localname>红河县 (Honghe)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2719408</id>
+      </desc>
+    </path>
+    <path d="M 414.1544 451.364 428.6961 442.81 444.0931 441.0993 451.7917 428.2684 452.6471 443.6654 457.7794 453.9301 449.2255 458.2071 447.5147 465.9056 452.6471 477.0257 452.6471 487.2904 438.1054 494.1336 431.2623 508.6752 428.6961 504.3983 411.5882 500.9767 409.0221 482.1581 417.576 471.8934 414.1544 451.364 Z" id="CN.yunnan.2719409" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jianshui County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Jianshui</wikipedia>
+        <localname>建水县 (Jianshui)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2719409</id>
+      </desc>
+    </path>
+    <path d="M 413.299 536.9032 422.7083 533.4816 430.4069 523.2169 441.527 527.4939 447.5147 538.614 459.4902 519.7953 462.0564 520.6507 474.8873 526.6385 494.5613 542.8909 485.152 559.1434 472.3211 542.0355 464.6225 551.4449 456.924 554.8664 444.9485 571.1189 432.973 559.1434 416.7206 549.7341 409.0221 549.7341 413.299 536.9032 Z" id="CN.yunnan.2719410" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jinping Miao, Yao and Dai Autonomous County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Jinping (Honghe)</wikipedia>
+        <localname>金平苗族瑶族傣族自治县 (Jinping)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2719410</id>
+      </desc>
+    </path>
+    <path d="M 457.7794 453.9301 458.6348 458.2071 480.0196 453.9301 491.9951 453.9301 492.8505 447.087 498.8382 453.9301 492.8505 465.9056 491.9951 483.8689 474.8873 479.5919 466.3333 482.1581 452.6471 477.0257 447.5147 465.9056 449.2255 458.2071 457.7794 453.9301 Z" id="CN.yunnan.2719411" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Kaiyuan City</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Kaiyuan (Honghe)</wikipedia>
+        <localname>开远市 (Kaiyuan)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2719411</id>
+      </desc>
+    </path>
+    <path d="M 483.4412 403.462 492.8505 395.7635 496.2721 386.3542 499.6936 384.6434 517.6569 393.1973 523.6446 409.4498 511.6691 416.2929 508.2475 423.136 499.6936 423.136 483.4412 403.462 Z" id="CN.yunnan.2719412" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Luxi County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Luxi (Honghe)</wikipedia>
+        <localname>泸西县 (Luxi)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2719412</id>
+      </desc>
+    </path>
+    <path d="M 344.8676 535.1924 352.5662 524.0723 362.8309 525.7831 367.1078 517.2292 401.3235 518.0846 404.7451 530.9154 413.299 536.9032 409.0221 549.7341 397.902 546.3125 387.6373 561.7096 368.8186 554.011 361.1201 542.0355 351.7108 542.0355 344.8676 535.1924 Z" id="CN.yunnan.2719413" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lüchun County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Lüchun</wikipedia>
+        <localname>绿春县 (Lüchun)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2719413</id>
+      </desc>
+    </path>
+    <path d="M 459.4902 519.7953 468.0441 505.2537 466.3333 482.1581 474.8873 479.5919 491.9951 483.8689 502.2598 482.1581 507.3922 498.4105 494.5613 496.6998 489.4289 511.2414 474.8873 518.0846 475.7426 523.2169 462.0564 520.6507 459.4902 519.7953 Z" id="CN.yunnan.2719414" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Mengzi City</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Mengzi (Honghe)</wikipedia>
+        <localname>蒙自市 (Mengzi)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2719414</id>
+      </desc>
+    </path>
+    <path d="M 450.9363 404.3174 456.0686 402.6066 464.6225 392.3419 483.4412 403.462 499.6936 423.136 508.2475 423.136 489.4289 435.9669 492.8505 447.087 491.9951 453.9301 480.0196 453.9301 458.6348 458.2071 457.7794 453.9301 452.6471 443.6654 451.7917 428.2684 450.9363 404.3174 Z" id="CN.yunnan.2719415" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Mile City</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Mile (Honghe)</wikipedia>
+        <localname>弥勒市 (Mile)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2719415</id>
+      </desc>
+    </path>
+    <path d="M 507.3922 498.4105 516.8015 502.6875 518.5123 518.94 518.5123 529.2047 513.3799 540.3248 477.4534 524.9277 475.7426 523.2169 474.8873 518.0846 489.4289 511.2414 494.5613 496.6998 507.3922 498.4105 Z" id="CN.yunnan.2719416" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pingbian Miao Autonomous County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Pingbian</wikipedia>
+        <localname>屏边苗族自治县 (Pingbian)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2719416</id>
+      </desc>
+    </path>
+    <path d="M 401.3235 518.0846 411.5882 500.9767 428.6961 504.3983 431.2623 508.6752 459.4902 519.7953 447.5147 538.614 441.527 527.4939 430.4069 523.2169 422.7083 533.4816 413.299 536.9032 404.7451 530.9154 401.3235 518.0846 Z" id="CN.yunnan.2719418" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Yuanyang County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Yuanyang (Honghe)</wikipedia>
+        <localname>元阳县 (Yuanyang)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2719418</id>
+      </desc>
+    </path>
+    <path d="M 644.2549 442.81 664.7843 439.3885 675.049 441.9547 687.8799 437.6777 699 459.0625 689.5907 485.5797 669.0613 484.7243 641.6887 506.1091 628.0025 494.989 622.0147 486.435 644.2549 475.315 646.8211 459.9179 642.5441 455.6409 644.2549 442.81 Z" id="CN.yunnan.2723220" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Funing County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Funing (Wenshan)</wikipedia>
+        <localname>富宁县 (Funing)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2723220</id>
+      </desc>
+    </path>
+    <path d="M 565.5588 410.3051 568.9804 409.4498 573.2574 412.0159 606.6176 409.4498 618.5931 418.8591 621.1593 431.69 635.701 441.9547 644.2549 442.81 642.5441 455.6409 646.8211 459.9179 644.2549 475.315 622.0147 486.435 609.1838 482.1581 597.2083 483.0135 590.3652 478.7365 580.9559 479.5919 575.8235 471.038 578.3897 463.3395 565.5588 455.6409 566.4142 448.7978 565.5588 410.3051 Z" id="CN.yunnan.2723221" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Guangnan County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Guangnan</wikipedia>
+        <localname>广南县 (Guangnan)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2723221</id>
+      </desc>
+    </path>
+    <path d="M 513.3799 540.3248 518.5123 529.2047 518.5123 518.94 527.0662 513.8076 544.174 516.3738 557.0049 506.9645 566.4142 518.94 573.2574 539.4694 569.8358 537.7586 554.4387 549.7341 545.0294 547.1679 545.0294 538.614 532.1985 534.337 524.5 540.3248 513.3799 540.3248 Z" id="CN.yunnan.2723222" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Maguan County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Maguan</wikipedia>
+        <localname>马关县 (Maguan)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2723222</id>
+      </desc>
+    </path>
+    <path d="M 597.2083 483.0135 609.1838 482.1581 622.0147 486.435 628.0025 494.989 622.0147 503.5429 609.1838 505.2537 587.799 516.3738 592.076 530.06 581.8113 540.3248 573.2574 539.4694 566.4142 518.94 567.2696 512.0968 584.3775 506.1091 584.3775 500.1213 598.9191 494.989 597.2083 483.0135 Z" id="CN.yunnan.2723223" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Malipo County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Malipo</wikipedia>
+        <localname>麻栗坡县 (Malipo)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2723223</id>
+      </desc>
+    </path>
+    <path d="M 508.2475 423.136 511.6691 416.2929 523.6446 409.4498 537.3309 408.5944 546.7402 417.1483 565.5588 410.3051 566.4142 448.7978 559.5711 446.2316 550.1618 455.6409 535.6201 455.6409 527.9216 464.1949 507.3922 452.2194 498.8382 453.9301 492.8505 447.087 489.4289 435.9669 508.2475 423.136 Z" id="CN.yunnan.2723224" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Qiubei County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Qiubei</wikipedia>
+        <localname>丘北县 (Qiubei)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2723224</id>
+      </desc>
+    </path>
+    <path d="M 502.2598 482.1581 508.2475 472.7488 523.6446 471.038 539.0417 476.1703 538.1863 485.5797 549.3064 487.2904 557.0049 500.9767 557.0049 506.9645 544.174 516.3738 527.0662 513.8076 518.5123 518.94 516.8015 502.6875 507.3922 498.4105 502.2598 482.1581 Z" id="CN.yunnan.2723225" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wenshan City</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Wenshan (Stadt)</wikipedia>
+        <localname>文山市 (Wenshan)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2723225</id>
+      </desc>
+    </path>
+    <path d="M 557.0049 500.9767 580.9559 479.5919 590.3652 478.7365 597.2083 483.0135 598.9191 494.989 584.3775 500.1213 584.3775 506.1091 567.2696 512.0968 566.4142 518.94 557.0049 506.9645 557.0049 500.9767 Z" id="CN.yunnan.2723226" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Xichou County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Xichou</wikipedia>
+        <localname>西畴县 (Xichou)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2723226</id>
+      </desc>
+    </path>
+    <path d="M 498.8382 453.9301 507.3922 452.2194 527.9216 464.1949 535.6201 455.6409 550.1618 455.6409 559.5711 446.2316 566.4142 448.7978 565.5588 455.6409 578.3897 463.3395 575.8235 471.038 580.9559 479.5919 557.0049 500.9767 549.3064 487.2904 538.1863 485.5797 539.0417 476.1703 523.6446 471.038 508.2475 472.7488 502.2598 482.1581 491.9951 483.8689 492.8505 465.9056 498.8382 453.9301 Z" id="CN.yunnan.2723227" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Yanshan County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Yanshan (Wenshan)</wikipedia>
+        <localname>砚山县 (Yanshan)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2723227</id>
+      </desc>
+    </path>
+    <path d="M 429.5515 385.4988 441.527 370.9571 445.8039 399.185 432.973 403.462 426.9853 404.3174 429.5515 385.4988 Z" id="CN.yunnan.2723531" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Chengjiang County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Chengjiang</wikipedia>
+        <localname>澄江县 (Chengjiang)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2723531</id>
+      </desc>
+    </path>
+    <path d="M 351.7108 425.7022 359.4093 423.136 362.8309 406.8836 378.2279 406.0282 385.9265 413.7267 391.9142 427.413 402.1789 433.4007 410.7328 441.9547 395.3358 441.0993 379.9387 443.6654 368.8186 433.4007 351.7108 425.7022 Z" id="CN.yunnan.2723532" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Eshan Yi Autonomous County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Eshan</wikipedia>
+        <localname>峨山彝族自治县 (Eshan)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2723532</id>
+      </desc>
+    </path>
+    <path d="M 385.9265 413.7267 403.0343 402.6066 417.576 407.739 410.7328 412.8713 408.1667 426.5576 402.1789 433.4007 391.9142 427.413 385.9265 413.7267 Z" id="CN.yunnan.2723533" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hongta District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Hongta</wikipedia>
+        <localname>红塔区 (Hongta)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2723533</id>
+      </desc>
+    </path>
+    <path d="M 426.9853 427.413 432.973 423.9914 432.973 403.462 445.8039 399.185 450.9363 404.3174 451.7917 428.2684 444.0931 441.0993 428.6961 442.81 432.1176 435.1115 426.9853 427.413 Z" id="CN.yunnan.2723534" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Huaning County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Huaning</wikipedia>
+        <localname>华宁县 (Huaning)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2723534</id>
+      </desc>
+    </path>
+    <path d="M 417.576 407.739 426.9853 404.3174 432.973 403.462 432.973 423.9914 426.9853 427.413 408.1667 426.5576 410.7328 412.8713 417.576 407.739 Z" id="CN.yunnan.2723535" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jiangchuan County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Jiangchuan</wikipedia>
+        <localname>江川县 (Jiangchuan)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2723535</id>
+      </desc>
+    </path>
+    <path d="M 402.1789 433.4007 408.1667 426.5576 426.9853 427.413 432.1176 435.1115 428.6961 442.81 414.1544 451.364 410.7328 441.9547 402.1789 433.4007 Z" id="CN.yunnan.2723536" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Tonghai County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Tonghai</wikipedia>
+        <localname>通海县 (Tonghai)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2723536</id>
+      </desc>
+    </path>
+    <path d="M 303.8088 421.4252 312.3627 416.2929 321.7721 427.413 333.7475 415.4375 351.7108 425.7022 368.8186 433.4007 379.9387 443.6654 383.3603 453.0748 373.0956 459.0625 367.1078 453.9301 355.9877 459.9179 340.5907 464.1949 337.1691 472.7488 331.1814 474.4596 317.4951 466.761 313.2181 459.9179 320.9167 450.5086 303.8088 421.4252 Z" id="CN.yunnan.2723537" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Xinping Yi and Dai Autonomous County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Xinping</wikipedia>
+        <localname>新平彝族傣族自治县 (Xinping)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2723537</id>
+      </desc>
+    </path>
+    <path d="M 361.1201 374.3787 371.3848 369.2463 379.9387 370.9571 385.0711 379.511 383.3603 400.0404 378.2279 406.0282 362.8309 406.8836 355.1324 404.3174 361.1201 374.3787 Z" id="CN.yunnan.2723538" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Yimen County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Yimen</wikipedia>
+        <localname>易门县 (Yimen)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2723538</id>
+      </desc>
+    </path>
+    <path d="M 337.1691 472.7488 340.5907 464.1949 355.9877 459.9179 367.1078 453.9301 373.0956 459.0625 385.0711 475.315 390.2034 487.2904 387.6373 492.4228 376.5172 491.5674 366.2525 500.1213 351.7108 498.4105 344.0123 489.8566 337.1691 472.7488 Z" id="CN.yunnan.2723539" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Yuanjiang Hani, Yi and Dai Autonomous County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Yuanjiang</wikipedia>
+        <localname>元江哈尼族彝族傣族自治县 (Yuanjiang)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2723539</id>
+      </desc>
+    </path>
+    <path d="M 390.2034 356.4154 396.1912 364.114 407.3113 365.8248 411.5882 375.2341 399.6127 376.9449 398.7574 382.9326 397.0466 395.7635 388.4926 403.462 383.3603 400.0404 385.0711 379.511 379.9387 370.9571 374.8064 359.837 390.2034 356.4154 Z" id="CN.yunnan.2723594" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Anning City</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Anning (Kunming)</wikipedia>
+        <localname>安宁市 (Anning)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2723594</id>
+      </desc>
+    </path>
+    <path d="M 391.9142 334.1752 398.7574 329.8983 407.3113 329.8983 419.2868 316.212 423.5637 329.0429 418.4314 330.7537 417.576 334.1752 419.2868 341.0184 406.4559 352.1385 393.625 347.0061 391.9142 334.1752 Z" id="CN.yunnan.2723595" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Fumin County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Fumin</wikipedia>
+        <localname>富民县 (Fumin)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2723595</id>
+      </desc>
+    </path>
+    <path d="M 380.7941 269.1654 392.7696 260.6115 412.4436 257.19 419.2868 267.4547 426.1299 259.7561 437.25 282.8517 429.5515 305.0919 419.2868 316.212 407.3113 329.8983 398.7574 329.8983 397.0466 319.6336 391.0588 312.7904 393.625 284.5625 380.7941 269.1654 Z" id="CN.yunnan.2723596" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Luquan Yi and Miao Autonomous County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Luquan (Kunming)</wikipedia>
+        <localname>禄劝彝族苗族自治县 (Luquan)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2723596</id>
+      </desc>
+    </path>
+    <path d="M 418.4314 380.3664 418.4314 374.3787 428.6961 366.6801 440.6716 366.6801 441.527 370.9571 429.5515 385.4988 418.4314 380.3664 Z" id="CN.yunnan.2723827" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Chenggong District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Chenggong</wikipedia>
+        <localname>呈贡区 (Chenggong)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2723827</id>
+      </desc>
+    </path>
+    <path d="M 426.1299 259.7561 441.527 253.7684 446.6593 240.0821 446.6593 240.9375 450.9363 264.0331 462.0564 269.1654 467.1887 281.1409 467.1887 296.538 457.7794 289.6949 437.25 282.8517 426.1299 259.7561 Z" id="CN.yunnan.2723828" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dongchuan District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Dongchuan</wikipedia>
+        <localname>东川区 (Dongchuan)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2723828</id>
+      </desc>
+    </path>
+    <path d="M 378.2279 406.0282 383.3603 400.0404 388.4926 403.462 397.0466 395.7635 398.7574 382.9326 403.0343 385.4988 418.4314 380.3664 429.5515 385.4988 426.9853 404.3174 417.576 407.739 403.0343 402.6066 385.9265 413.7267 378.2279 406.0282 Z" id="CN.yunnan.2723829" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jinning County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Jinning</wikipedia>
+        <localname>晋宁县 (Jinning)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2723829</id>
+      </desc>
+    </path>
+    <path d="M 478.3088 370.9571 481.7304 377.8002 495.4167 375.2341 496.2721 386.3542 492.8505 395.7635 483.4412 403.462 464.6225 392.3419 456.0686 402.6066 458.6348 381.2218 466.3333 365.8248 478.3088 370.9571 Z" id="CN.yunnan.2723830" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Shilin Yi Autonomous County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Shilin (Kunming)</wikipedia>
+        <localname>石林彝族自治县 (Shilin)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2723830</id>
+      </desc>
+    </path>
+    <path d="M 444.9485 329.0429 459.4902 331.6091 463.7672 337.5968 463.7672 343.5846 450.0809 356.4154 445.8039 354.7047 436.3946 344.44 437.25 335.0306 444.9485 329.0429 Z" id="CN.yunnan.2723831" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Songming County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Songming</wikipedia>
+        <localname>嵩明县 (Songming)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2723831</id>
+      </desc>
+    </path>
+    <path d="M 437.25 282.8517 457.7794 289.6949 467.1887 296.538 485.152 299.1042 481.7304 314.5012 486.0074 317.9228 466.3333 332.4645 463.7672 337.5968 459.4902 331.6091 444.9485 329.0429 423.5637 329.0429 419.2868 316.212 429.5515 305.0919 437.25 282.8517 Z" id="CN.yunnan.2723833" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Xundian Hui and Yi Autonomous County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Xundian</wikipedia>
+        <localname>寻甸回族彝族自治县 (Xundian)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2723833</id>
+      </desc>
+    </path>
+    <path d="M 440.6716 366.6801 445.8039 354.7047 450.0809 356.4154 463.7672 343.5846 467.1887 351.2831 480.0196 349.5723 478.3088 370.9571 466.3333 365.8248 458.6348 381.2218 456.0686 402.6066 450.9363 404.3174 445.8039 399.185 441.527 370.9571 440.6716 366.6801 Z" id="CN.yunnan.2723834" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Yiliang County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Yiliang (Kunming)</wikipedia>
+        <localname>宜良县 (Yiliang)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2723834</id>
+      </desc>
+    </path>
+    <path d="M 419.2868 362.4032 429.5515 361.5478 436.3946 344.44 445.8039 354.7047 440.6716 366.6801 428.6961 366.6801 418.4314 374.3787 419.2868 362.4032 Z" id="CN.yunnan.2723923" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Guandu District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Guandu District</wikipedia>
+        <localname>官渡区 (Guandu)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2723923</id>
+      </desc>
+    </path>
+    <path d="M 423.5637 329.0429 444.9485 329.0429 437.25 335.0306 436.3946 344.44 429.5515 361.5478 419.2868 362.4032 419.2868 341.0184 417.576 334.1752 418.4314 330.7537 423.5637 329.0429 Z" id="CN.yunnan.2723924" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Panlong District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Panlong District</wikipedia>
+        <localname>盘龙区 (Panlong)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2723924</id>
+      </desc>
+    </path>
+    <path d="M 419.2868 341.0184 419.2868 362.4032 411.5882 359.837 406.4559 352.1385 419.2868 341.0184 Z" id="CN.yunnan.2723925" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wuhua District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Wuhua District</wikipedia>
+        <localname>五华区 (Wuhua)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2723925</id>
+      </desc>
+    </path>
+    <path d="M 390.2034 356.4154 393.625 347.0061 406.4559 352.1385 411.5882 359.837 419.2868 362.4032 418.4314 374.3787 418.4314 380.3664 403.0343 385.4988 398.7574 382.9326 399.6127 376.9449 411.5882 375.2341 407.3113 365.8248 396.1912 364.114 390.2034 356.4154 Z" id="CN.yunnan.2723926" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Xishan District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Xishan District, Kunming</wikipedia>
+        <localname>西山区 (Xishan)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2723926</id>
+      </desc>
+    </path>
+    <path d="M 142.1397 379.511 150.6936 373.5233 160.1029 353.8493 175.5 360.6924 185.7647 357.2708 194.3186 348.7169 194.3186 347.8615 200.3064 362.4032 188.3309 370.1017 182.3431 382.0772 185.7647 386.3542 172.9338 397.4743 175.5 404.3174 161.8137 419.7145 149.8382 419.7145 144.7059 409.4498 148.9828 386.3542 142.1397 379.511 Z" id="CN.yunnan.2725432" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Changning County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Changning (Baoshan)</wikipedia>
+        <localname>昌宁县 (Changning)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2725432</id>
+      </desc>
+    </path>
+    <path d="M 108.7794 486.435 123.3211 485.5797 137.0074 495.8444 148.1275 491.5674 169.5123 497.5551 172.0784 494.989 174.6446 506.1091 160.9583 518.94 148.1275 514.663 140.4289 519.7953 128.4534 518.94 114.7672 504.3983 108.7794 486.435 Z" id="CN.yunnan.2726016" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cangyuan Va Autonomous County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Cangyuan</wikipedia>
+        <localname>沧源佤族自治县 (Cangyuan)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2726016</id>
+      </desc>
+    </path>
+    <path d="M 161.8137 419.7145 175.5 404.3174 172.9338 397.4743 185.7647 386.3542 182.3431 382.0772 188.3309 370.1017 200.3064 362.4032 216.5588 370.1017 216.5588 385.4988 218.2696 394.0527 209.7157 407.739 202.0172 408.5944 200.3064 423.9914 188.3309 427.413 179.777 423.9914 164.3799 423.136 161.8137 419.7145 Z" id="CN.yunnan.2726017" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Fengqing County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Fengqing</wikipedia>
+        <localname>凤庆县 (Fengqing)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2726017</id>
+      </desc>
+    </path>
+    <path d="M 105.3578 469.3272 111.3456 467.6164 119.8995 475.315 135.2966 472.7488 149.8382 465.9056 161.8137 459.9179 171.223 448.7978 184.0539 444.5208 188.3309 445.3762 189.1863 460.7733 178.9216 477.0257 167.8015 486.435 172.0784 494.989 169.5123 497.5551 148.1275 491.5674 137.0074 495.8444 123.3211 485.5797 108.7794 486.435 104.5025 482.1581 105.3578 469.3272 Z" id="CN.yunnan.2726018" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Gengma Dai and Va Autonomous County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Gengma</wikipedia>
+        <localname>耿马傣族佤族自治县 (Gengma)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2726018</id>
+      </desc>
+    </path>
+    <path d="M 189.1863 460.7733 195.174 463.3395 202.8725 475.315 199.451 483.8689 213.1373 486.435 203.7279 508.6752 191.7525 505.2537 183.1985 508.6752 174.6446 506.1091 172.0784 494.989 167.8015 486.435 178.9216 477.0257 189.1863 460.7733 Z" id="CN.yunnan.2726021" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Shuangjiang Lahu, Va, Blang and Dai Autonomous County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Shuangjiang</wikipedia>
+        <localname>双江拉祜族佤族布朗族傣族自治县 (Shuangjiang)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2726021</id>
+      </desc>
+    </path>
+    <path d="M 129.3088 424.8468 134.4412 418.8591 144.7059 409.4498 149.8382 419.7145 161.8137 419.7145 164.3799 423.136 179.777 423.9914 188.3309 427.413 178.9216 432.5453 184.0539 444.5208 171.223 448.7978 161.8137 459.9179 149.8382 465.9056 144.7059 459.0625 134.4412 461.6287 131.875 434.2561 129.3088 424.8468 Z" id="CN.yunnan.2726022" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Yongde County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Yongde</wikipedia>
+        <localname>永德县 (Yongde)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2726022</id>
+      </desc>
+    </path>
+    <path d="M 188.3309 427.413 200.3064 423.9914 202.0172 408.5944 209.7157 407.739 218.2696 394.0527 216.5588 385.4988 233.6667 388.9203 244.7868 407.739 241.3652 411.1605 242.2206 429.9792 239.6544 438.5331 230.2451 440.2439 231.9559 448.7978 221.6912 447.087 203.7279 428.2684 196.8848 442.81 188.3309 445.3762 184.0539 444.5208 178.9216 432.5453 188.3309 427.413 Z" id="CN.yunnan.2726023" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Yun County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Yun (Lincang)</wikipedia>
+        <localname>云县 (Yun)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2726023</id>
+      </desc>
+    </path>
+    <path d="M 110.4902 432.5453 129.3088 424.8468 131.875 434.2561 134.4412 461.6287 144.7059 459.0625 149.8382 465.9056 135.2966 472.7488 119.8995 475.315 111.3456 467.6164 105.3578 469.3272 95.0931 462.4841 94.2377 448.7978 108.7794 440.2439 110.4902 432.5453 Z" id="CN.yunnan.2726024" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Zhenkang County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Zhenkang</wikipedia>
+        <localname>镇康县 (Zhenkang)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2726024</id>
+      </desc>
+    </path>
+    <path d="M 188.3309 445.3762 196.8848 442.81 203.7279 428.2684 221.6912 447.087 231.9559 448.7978 232.8113 450.5086 229.3897 458.2071 231.1005 475.315 215.7034 477.8811 213.1373 486.435 199.451 483.8689 202.8725 475.315 195.174 463.3395 189.1863 460.7733 188.3309 445.3762 Z" id="CN.yunnan.2726304" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Linxiang District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Linxiang (Lincang)</wikipedia>
+        <localname>临翔区 (Linxiang)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2726304</id>
+      </desc>
+    </path>
+    <path d="M 74.5637 391.4865 91.6716 393.1973 94.2377 376.9449 101.0809 377.8002 110.4902 378.6556 123.3211 390.6311 120.7549 412.0159 134.4412 418.8591 129.3088 424.8468 110.4902 432.5453 96.8039 435.9669 95.0931 400.0404 79.6961 401.7512 74.5637 391.4865 Z" id="CN.yunnan.2727142" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Longling County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Longling</wikipedia>
+        <localname>龙陵县 (Longling)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2727142</id>
+      </desc>
+    </path>
+    <path d="M 101.9363 320.489 111.3456 313.6458 119.8995 313.6458 127.598 327.3321 141.2843 320.489 146.4167 323.0551 142.9951 335.0306 160.1029 353.8493 150.6936 373.5233 142.1397 379.511 142.1397 375.2341 128.4534 366.6801 110.4902 378.6556 101.0809 377.8002 98.5147 348.7169 101.9363 320.489 Z" id="CN.yunnan.2727143" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Longyang District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Longyang</wikipedia>
+        <localname>隆阳区 (Longyang)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2727143</id>
+      </desc>
+    </path>
+    <path d="M 110.4902 378.6556 128.4534 366.6801 142.1397 375.2341 142.1397 379.511 148.9828 386.3542 144.7059 409.4498 134.4412 418.8591 120.7549 412.0159 123.3211 390.6311 110.4902 378.6556 Z" id="CN.yunnan.2727144" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Shidian County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Shidian</wikipedia>
+        <localname>施甸县 (Shidian)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2727144</id>
+      </desc>
+    </path>
+    <path d="M 96.8039 295.6826 101.9363 310.2243 101.9363 320.489 98.5147 348.7169 101.0809 377.8002 94.2377 376.9449 91.6716 393.1973 74.5637 391.4865 73.7083 383.788 82.2623 372.6679 60.0221 371.8125 60.8775 357.2708 53.1789 351.2831 46.3358 337.5968 50.6127 334.1752 55.7451 315.3566 63.4436 320.489 71.9975 315.3566 82.2623 296.538 96.8039 295.6826 Z" id="CN.yunnan.2727145" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Tengchong County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Tengchong</wikipedia>
+        <localname>腾冲县 (Tengchong)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2727145</id>
+      </desc>
+    </path>
+    <path d="M 310.652 347.8615 333.7475 351.2831 346.5784 366.6801 347.4338 376.0895 320.9167 383.788 315.7843 398.3297 302.9534 405.1728 296.1103 399.185 286.701 406.8836 273.8701 385.4988 275.5809 358.1262 290.1225 359.837 303.8088 369.2463 310.652 347.8615 Z" id="CN.yunnan.2727332" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Chuxiong City</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Chuxiong (Stadt)</wikipedia>
+        <localname>楚雄市 (Chuxiong)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2727332</id>
+      </desc>
+    </path>
+    <path d="M 272.1593 298.2488 278.1471 291.4056 273.8701 285.4179 273.8701 270.8762 285.8456 259.7561 296.1103 255.4792 314.0735 252.913 308.9412 262.3223 312.3627 272.587 308.9412 280.2855 315.7843 293.1164 330.326 296.538 334.6029 304.2365 334.6029 314.5012 326.9044 320.489 296.1103 313.6458 294.3995 309.3689 279.0025 305.0919 272.1593 298.2488 Z" id="CN.yunnan.2727333" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dayao County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Dayao (Chuxiong)</wikipedia>
+        <localname>大姚县 (Dayao)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2727333</id>
+      </desc>
+    </path>
+    <path d="M 349.1446 328.1875 364.5417 328.1875 368.8186 335.886 382.5049 324.7659 391.9142 334.1752 393.625 347.0061 390.2034 356.4154 374.8064 359.837 379.9387 370.9571 371.3848 369.2463 361.1201 374.3787 347.4338 376.0895 346.5784 366.6801 333.7475 351.2831 338.0245 332.4645 349.1446 328.1875 Z" id="CN.yunnan.2727334" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lufeng County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Lufeng (Chuxiong)</wikipedia>
+        <localname>禄丰县 (Lufeng)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2727334</id>
+      </desc>
+    </path>
+    <path d="M 326.9044 320.489 334.6029 314.5012 343.1569 316.212 349.1446 328.1875 338.0245 332.4645 333.7475 351.2831 310.652 347.8615 308.0858 335.886 314.9289 327.3321 326.9044 320.489 Z" id="CN.yunnan.2727335" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Mouding County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Mouding County</wikipedia>
+        <localname>牟定县 (Mouding)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2727335</id>
+      </desc>
+    </path>
+    <path d="M 263.6054 348.7169 267.8824 344.44 280.7132 344.44 284.1348 336.7414 288.4118 340.163 308.0858 335.886 310.652 347.8615 303.8088 369.2463 290.1225 359.837 275.5809 358.1262 273.8701 385.4988 261.0392 382.9326 263.6054 348.7169 Z" id="CN.yunnan.2727336" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Nanhua County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Nanhua</wikipedia>
+        <localname>南华县 (Nanhua)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2727336</id>
+      </desc>
+    </path>
+    <path d="M 286.701 406.8836 296.1103 399.185 302.9534 405.1728 315.7843 398.3297 320.9167 383.788 347.4338 376.0895 361.1201 374.3787 355.1324 404.3174 362.8309 406.8836 359.4093 423.136 351.7108 425.7022 333.7475 415.4375 321.7721 427.413 312.3627 416.2929 303.8088 421.4252 301.2426 421.4252 286.701 406.8836 Z" id="CN.yunnan.2727337" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Shuangbai County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Shuangbai</wikipedia>
+        <localname>双柏县 (Shuangbai)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2727337</id>
+      </desc>
+    </path>
+    <path d="M 370.5294 277.7194 380.7941 269.1654 393.625 284.5625 391.0588 312.7904 397.0466 319.6336 398.7574 329.8983 391.9142 334.1752 382.5049 324.7659 368.8186 335.886 364.5417 328.1875 357.6985 318.7782 362.8309 305.9473 355.1324 296.538 367.1078 289.6949 370.5294 277.7194 Z" id="CN.yunnan.2727338" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wuding County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Wuding</wikipedia>
+        <localname>武定县 (Wuding)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2727338</id>
+      </desc>
+    </path>
+    <path d="M 279.0025 305.0919 294.3995 309.3689 296.1103 313.6458 326.9044 320.489 314.9289 327.3321 308.0858 335.886 288.4118 340.163 284.1348 336.7414 276.4363 325.6213 281.5686 317.9228 279.0025 305.0919 Z" id="CN.yunnan.2727339" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Yao'an County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Yao’an</wikipedia>
+        <localname>姚安县 (Yao'an)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2727339</id>
+      </desc>
+    </path>
+    <path d="M 314.0735 252.913 318.3505 243.5037 332.0368 252.0576 327.7598 261.4669 339.7353 265.7439 347.4338 280.2855 330.326 296.538 315.7843 293.1164 308.9412 280.2855 312.3627 272.587 308.9412 262.3223 314.0735 252.913 Z" id="CN.yunnan.2727340" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Yongren County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Yongren</wikipedia>
+        <localname>永仁县 (Yongren)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2727340</id>
+      </desc>
+    </path>
+    <path d="M 330.326 296.538 347.4338 280.2855 353.4216 276.0086 370.5294 277.7194 367.1078 289.6949 355.1324 296.538 362.8309 305.9473 357.6985 318.7782 364.5417 328.1875 349.1446 328.1875 343.1569 316.212 334.6029 314.5012 334.6029 304.2365 330.326 296.538 Z" id="CN.yunnan.2727341" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Yuanmou County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Yuanmou</wikipedia>
+        <localname>元谋县 (Yuanmou)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2727341</id>
+      </desc>
+    </path>
+    <path d="M 225.9681 287.9841 228.5343 286.2733 240.5098 282.8517 254.1961 283.7071 252.4853 276.864 267.027 268.31 273.8701 270.8762 273.8701 285.4179 278.1471 291.4056 272.1593 298.2488 256.7623 296.538 255.9069 315.3566 247.3529 321.3444 235.3775 319.6336 224.2574 305.0919 225.9681 287.9841 Z" id="CN.yunnan.2727733" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Binchuan County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Binchuan</wikipedia>
+        <localname>宾川县 (Binchuan)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2727733</id>
+      </desc>
+    </path>
+    <path d="M 198.5956 294.8272 208.8603 290.5502 217.4142 295.6826 225.9681 287.9841 224.2574 305.0919 235.3775 319.6336 235.3775 322.1998 227.6789 330.7537 223.402 323.9105 202.0172 321.3444 210.5711 314.5012 198.5956 294.8272 Z" id="CN.yunnan.2727734" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dali City</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Dali (Stadt)</wikipedia>
+        <localname>大理市 (Dali)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2727734</id>
+      </desc>
+    </path>
+    <path d="M 168.6569 268.31 186.6201 267.4547 205.4387 249.4914 208.8603 250.3468 210.5711 272.587 217.4142 282.8517 228.5343 286.2733 225.9681 287.9841 217.4142 295.6826 208.8603 290.5502 198.5956 294.8272 184.0539 293.9718 180.6324 299.1042 174.6446 299.1042 163.5245 281.1409 168.6569 268.31 Z" id="CN.yunnan.2727735" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Eryuan County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Eryuan</wikipedia>
+        <localname>洱源县 (Eryuan)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2727735</id>
+      </desc>
+    </path>
+    <path d="M 204.5833 236.6605 208.0049 233.239 217.4142 228.962 232.8113 238.3713 237.0882 241.7929 233.6667 270.0208 240.5098 282.8517 228.5343 286.2733 217.4142 282.8517 210.5711 272.587 208.8603 250.3468 205.4387 249.4914 204.5833 236.6605 Z" id="CN.yunnan.2727736" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Heqing County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Heqing</wikipedia>
+        <localname>鹤庆县 (Heqing)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2727736</id>
+      </desc>
+    </path>
+    <path d="M 158.3922 253.7684 162.6691 236.6605 172.0784 228.962 204.5833 236.6605 205.4387 249.4914 186.6201 267.4547 168.6569 268.31 161.8137 269.1654 158.3922 253.7684 Z" id="CN.yunnan.2727737" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jianchuan County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Jianchuan</wikipedia>
+        <localname>剑川县 (Jianchuan)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2727737</id>
+      </desc>
+    </path>
+    <path d="M 227.6789 330.7537 235.3775 322.1998 249.0637 340.163 263.6054 348.7169 261.0392 382.9326 254.1961 379.511 250.7745 358.9816 234.5221 351.2831 227.6789 330.7537 Z" id="CN.yunnan.2727738" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Midu County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Midu</wikipedia>
+        <localname>弥渡县 (Midu)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2727738</id>
+      </desc>
+    </path>
+    <path d="M 216.5588 370.1017 234.5221 351.2831 250.7745 358.9816 254.1961 379.511 246.4975 388.9203 233.6667 388.9203 216.5588 385.4988 216.5588 370.1017 Z" id="CN.yunnan.2727739" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Nanjian Yi Autonomous County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Nanjian</wikipedia>
+        <localname>南涧彝族自治县 (Nanjian)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2727739</id>
+      </desc>
+    </path>
+    <path d="M 194.3186 347.8615 201.1618 341.0184 202.0172 321.3444 223.402 323.9105 227.6789 330.7537 234.5221 351.2831 216.5588 370.1017 200.3064 362.4032 194.3186 347.8615 Z" id="CN.yunnan.2727740" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Weishan Yi and Hui Autonomous County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Weishan (Dali)</wikipedia>
+        <localname>巍山彝族回族自治县 (Weishan)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2727740</id>
+      </desc>
+    </path>
+    <path d="M 235.3775 319.6336 247.3529 321.3444 255.9069 315.3566 256.7623 296.538 272.1593 298.2488 279.0025 305.0919 281.5686 317.9228 276.4363 325.6213 284.1348 336.7414 280.7132 344.44 267.8824 344.44 263.6054 348.7169 249.0637 340.163 235.3775 322.1998 235.3775 319.6336 Z" id="CN.yunnan.2727741" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Xiangyun County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Xiangyun</wikipedia>
+        <localname>祥云县 (Xiangyun)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2727741</id>
+      </desc>
+    </path>
+    <path d="M 171.223 312.7904 180.6324 299.1042 184.0539 293.9718 198.5956 294.8272 210.5711 314.5012 202.0172 321.3444 201.1618 341.0184 194.3186 347.8615 194.3186 348.7169 186.6201 336.7414 181.4877 321.3444 171.223 312.7904 Z" id="CN.yunnan.2727742" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Yangbi Yi Autonomous County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Yangbi</wikipedia>
+        <localname>漾濞彝族自治县 (Yangbi)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2727742</id>
+      </desc>
+    </path>
+    <path d="M 146.4167 323.0551 160.9583 306.8027 171.223 312.7904 181.4877 321.3444 186.6201 336.7414 194.3186 348.7169 185.7647 357.2708 175.5 360.6924 160.1029 353.8493 142.9951 335.0306 146.4167 323.0551 Z" id="CN.yunnan.2727743" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Yongping County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Yongping</wikipedia>
+        <localname>永平县 (Yongping)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2727743</id>
+      </desc>
+    </path>
+    <path d="M 122.4657 272.587 132.7304 272.587 151.549 256.3346 158.3922 253.7684 161.8137 269.1654 168.6569 268.31 163.5245 281.1409 174.6446 299.1042 180.6324 299.1042 171.223 312.7904 160.9583 306.8027 146.4167 323.0551 141.2843 320.489 127.598 327.3321 119.8995 313.6458 111.3456 313.6458 119.0441 305.9473 126.7426 288.8395 119.8995 279.4301 122.4657 272.587 Z" id="CN.yunnan.2727744" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Yunlong County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Yunlong (Dali)</wikipedia>
+        <localname>云龙县 (Yunlong)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2727744</id>
+      </desc>
+    </path>
+    <path d="M 152.4044 110.9179 154.1152 141.712 161.8137 153.6875 146.4167 150.2659 135.2966 157.1091 129.3088 149.4105 131.875 134.8689 126.7426 123.7488 116.4779 122.038 102.7917 128.8811 103.6471 121.1826 95.0931 105.7855 100.2255 95.5208 89.1054 82.69 87.3946 69.0037 94.2377 63.8713 89.9608 45.0527 100.2255 42.4865 106.2132 57.0282 113.0564 58.739 113.9118 44.1973 120.7549 38.2096 118.1887 26.2341 129.3088 24.5233 130.1642 46.7635 128.4534 55.3174 134.4412 75.8468 133.5858 88.6777 144.7059 104.9301 152.4044 110.9179 Z" id="CN.yunnan.2729692" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dêqên</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>zh:德钦县</wikipedia>
+        <localname>德钦县</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2729692</id>
+      </desc>
+    </path>
+    <path d="M 225.9681 145.1336 214.848 165.663 219.125 175.0723 204.5833 194.7463 202.8725 211.8542 184.0539 188.7586 172.9338 180.2047 164.3799 157.9645 161.8137 153.6875 154.1152 141.712 152.4044 110.9179 154.9706 91.2439 152.4044 79.2684 163.5245 72.4252 170.3676 57.8836 196.0294 75.8468 204.5833 92.9547 213.9926 97.2316 205.4387 116.0502 224.2574 133.1581 225.9681 145.1336 Z" id="CN.yunnan.2729693" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Shangri-La County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Shangri-La (Dêqên)</wikipedia>
+        <localname>香格里拉县 (Shangri-La)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2729693</id>
+      </desc>
+    </path>
+    <path d="M 102.7917 128.8811 116.4779 122.038 126.7426 123.7488 131.875 134.8689 129.3088 149.4105 135.2966 157.1091 146.4167 150.2659 161.8137 153.6875 164.3799 157.9645 153.2598 169.0846 154.9706 197.3125 160.1029 205.8664 142.1397 201.5895 136.152 204.1556 117.3333 201.5895 119.8995 176.7831 112.201 171.6507 111.3456 163.9522 113.0564 152.8321 102.7917 128.8811 Z" id="CN.yunnan.2729694" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Weixi Lisu Autonomous County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Weixi</wikipedia>
+        <localname>维西傈僳族自治县 (Weixi)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2729694</id>
+      </desc>
+    </path>
+    <path d="M 95.0931 162.2414 111.3456 163.9522 112.201 171.6507 119.8995 176.7831 117.3333 201.5895 117.3333 212.7096 122.4657 220.4081 120.7549 245.2145 100.2255 241.7929 102.7917 235.8051 95.0931 186.1924 95.0931 162.2414 Z" id="CN.yunnan.2729764" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Fugong County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Fugong</wikipedia>
+        <localname>福贡县 (Fugong)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2729764</id>
+      </desc>
+    </path>
+    <path d="M 95.0931 105.7855 103.6471 121.1826 102.7917 128.8811 113.0564 152.8321 111.3456 163.9522 95.0931 162.2414 84.8284 151.9767 73.7083 151.1213 73.7083 158.8199 64.299 159.6752 58.3113 147.6998 55.7451 132.3027 49.7574 124.6042 50.6127 110.9179 60.8775 103.2194 69.4314 103.2194 71.1422 114.3395 95.0931 105.7855 Z" id="CN.yunnan.2729765" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Gongshan Derung and Nu Autonomous County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Gongshan</wikipedia>
+        <localname>贡山独龙族怒族自治县 (Gongshan)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2729765</id>
+      </desc>
+    </path>
+    <path d="M 117.3333 201.5895 136.152 204.1556 142.1397 201.5895 160.1029 205.8664 168.6569 227.2512 172.0784 228.962 162.6691 236.6605 158.3922 253.7684 151.549 256.3346 132.7304 272.587 122.4657 272.587 120.7549 245.2145 122.4657 220.4081 117.3333 212.7096 117.3333 201.5895 Z" id="CN.yunnan.2729766" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lanping Bai and Pumi Autonomous County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Lanping</wikipedia>
+        <localname>兰坪白族普米族自治县 (Lanping)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2729766</id>
+      </desc>
+    </path>
+    <path d="M 100.2255 241.7929 120.7549 245.2145 122.4657 272.587 119.8995 279.4301 126.7426 288.8395 119.0441 305.9473 111.3456 313.6458 101.9363 320.489 101.9363 310.2243 96.8039 295.6826 89.1054 286.2733 85.6838 274.2978 98.5147 255.4792 100.2255 241.7929 Z" id="CN.yunnan.2729767" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lushui County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Lushui</wikipedia>
+        <localname>泸水县 (Lushui)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2729767</id>
+      </desc>
+    </path>
+    <path d="M 237.0882 190.4694 239.6544 198.1679 236.2328 218.6973 231.1005 222.1189 232.8113 238.3713 217.4142 228.962 208.0049 233.239 218.2696 221.2635 223.402 208.4326 221.6912 202.4449 231.1005 185.337 237.0882 190.4694 Z" id="CN.yunnan.2729824" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Gucheng District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Gucheng (Lijiang)</wikipedia>
+        <localname>古城区 (Gucheng)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2729824</id>
+      </desc>
+    </path>
+    <path d="M 279.8578 235.8051 280.7132 228.962 290.1225 222.1189 289.2672 210.9988 302.9534 210.9988 310.652 212.7096 309.7966 222.1189 320.0613 229.8174 313.2181 239.2267 318.3505 243.5037 314.0735 252.913 296.1103 255.4792 293.5441 248.636 279.8578 235.8051 Z" id="CN.yunnan.2729825" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Huaping County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Huaping</wikipedia>
+        <localname>华坪县 (Huaping)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2729825</id>
+      </desc>
+    </path>
+    <path d="M 231.1005 142.5674 233.6667 135.7243 257.6176 139.1458 267.027 148.5551 285.8456 180.2047 295.2549 187.0478 292.6887 200.7341 302.9534 210.9988 289.2672 210.9988 290.1225 222.1189 280.7132 228.962 279.8578 235.8051 253.3407 212.7096 254.1961 205.8664 242.2206 204.1556 239.6544 198.1679 237.0882 190.4694 243.9314 184.4816 235.3775 163.9522 237.0882 152.8321 231.1005 142.5674 Z" id="CN.yunnan.2729826" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ninglang Yi Autonomous County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Ninglang</wikipedia>
+        <localname>宁蒗彝族自治县 (Ninglang)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2729826</id>
+      </desc>
+    </path>
+    <path d="M 239.6544 198.1679 242.2206 204.1556 254.1961 205.8664 253.3407 212.7096 279.8578 235.8051 293.5441 248.636 296.1103 255.4792 285.8456 259.7561 273.8701 270.8762 267.027 268.31 252.4853 276.864 254.1961 283.7071 240.5098 282.8517 233.6667 270.0208 237.0882 241.7929 232.8113 238.3713 231.1005 222.1189 236.2328 218.6973 239.6544 198.1679 Z" id="CN.yunnan.2729827" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>永胜县 (Yongsheng)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2729827</id>
+        <name>Yongsheng County</name>
+      </desc>
+    </path>
+    <path d="M 164.3799 157.9645 172.9338 180.2047 184.0539 188.7586 202.8725 211.8542 204.5833 194.7463 219.125 175.0723 214.848 165.663 225.9681 145.1336 231.1005 142.5674 237.0882 152.8321 235.3775 163.9522 243.9314 184.4816 237.0882 190.4694 231.1005 185.337 221.6912 202.4449 223.402 208.4326 218.2696 221.2635 208.0049 233.239 204.5833 236.6605 172.0784 228.962 168.6569 227.2512 160.1029 205.8664 154.9706 197.3125 153.2598 169.0846 164.3799 157.9645 Z" id="CN.yunnan.2729828" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Yulong Nakhi Autonomous County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Yulong</wikipedia>
+        <localname>玉龙纳西族自治县 (Yulong)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2729828</id>
+      </desc>
+    </path>
+    <path d="M 235.3775 643.8272 242.2206 636.9841 243.9314 622.4424 251.6299 617.31 252.4853 604.4792 247.3529 569.4081 276.4363 559.1434 305.5196 563.4203 316.6397 559.1434 321.7721 573.685 306.375 579.6728 291.8333 599.3468 295.2549 622.4424 290.9779 625.0086 272.1593 631.8517 258.473 645.538 246.4975 650.6703 235.3775 643.8272 Z" id="CN.yunnan.5339226" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jinghong</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Jinghong</wikipedia>
+        <localname>景洪市 (Jinghong)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.5339226</id>
+      </desc>
+    </path>
+    <path d="M 379.9387 443.6654 395.3358 441.0993 410.7328 441.9547 414.1544 451.364 417.576 471.8934 409.0221 482.1581 411.5882 500.9767 387.6373 492.4228 390.2034 487.2904 385.0711 475.315 373.0956 459.0625 383.3603 453.0748 379.9387 443.6654 Z" id="CN.yunnan.2729829" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>石屏县 (Shiping)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.yunnan.2729829</id>
+        <name>Shiping County</name>
+      </desc>
+    </path>
+  </g>
+</svg>

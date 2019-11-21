@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="malawi">
+    <path d="M 382.4228 109.5616 336.5209 108.833 322.6775 97.1754 300.8194 62.9311 293.5334 62.2025 281.1472 53.4593 281.1472 51.2735 291.3476 45.4447 294.262 41.0731 300.0908 36.7015 298.6336 25.7724 295.7192 21.4008 303.7338 19.215 319.0344 31.6013 323.4061 26.501 324.1347 19.9436 322.6775 16.3006 328.5063 9.7432 334.3351 12.6576 355.4645 31.6013 356.9217 35.9729 373.6795 57.8309 375.1367 61.4739 373.6795 65.1169 379.5084 83.3319 377.3225 93.5324 379.5084 100.0898 378.7797 105.19 380.237 108.833 382.4228 109.5616 Z" id="MW.CT" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>MW.CT</code_hasc>
+        <name>Chitipa</name>
+        <admin>Malawi</admin>
+        <type_en>District</type_en>
+        <region/>
+        <woe_id>20070125</woe_id>
+        <longitude>33</longitude>
+        <woe_name>Chitipa</woe_name>
+        <fips>MI08</fips>
+        <woe_label>Karonga, MW, Malawi</woe_label>
+        <latitude>-10</latitude>
+        <iso_a2>MW</iso_a2>
+        <postal>CT</postal>
+        <type>District</type>
+        <id>MW.CT</id>
+      </desc>
+    </path>
+    <path d="M 295.7192 21.4008 298.6336 25.7724 300.0908 36.7015 294.262 41.0731 291.3476 45.4447 281.1472 51.2735 281.1472 53.4593 293.5334 62.2025 300.8194 62.9311 322.6775 97.1754 297.905 108.1044 297.1764 103.0042 293.5334 100.8184 285.5188 87.7035 285.5188 77.5031 281.1472 72.4029 265.118 62.2025 265.8466 57.8309 270.9468 47.6305 268.761 41.8017 263.6608 38.8873 257.1033 32.3299 257.1033 25.7724 253.4603 20.6722 246.9029 19.9436 245.4457 26.501 241.0741 22.1294 236.7025 22.858 235.9739 20.6722 237.4311 11.929 231.6023 9.7432 230.8737 3.1858 235.9739 1 247.6315 10.4718 253.4603 12.6576 256.3747 11.2004 265.118 11.2004 277.5042 22.858 281.1472 22.858 287.7046 19.9436 295.7192 21.4008 Z" id="MW.1646" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>MW.CT</code_hasc>
+        <name>Chitipa</name>
+        <admin>Malawi</admin>
+        <type_en>District</type_en>
+        <region/>
+        <woe_id>20070124</woe_id>
+        <longitude>33</longitude>
+        <woe_name>Chitipa</woe_name>
+        <fips>MI04</fips>
+        <woe_label>Chitipa, MW, Malawi</woe_label>
+        <latitude>-9</latitude>
+        <iso_a2>MW</iso_a2>
+        <postal>CT</postal>
+        <type>District</type>
+        <id>MW.1646</id>
+      </desc>
+    </path>
+    <path d="M 311.7484 300.4551 311.0198 312.1127 320.4916 312.8413 326.3205 320.1273 319.0344 328.142 312.477 331.785 300.0908 344.8998 292.8048 347.0856 284.0616 357.286 278.9614 355.8288 279.69 360.2004 275.3184 369.6722 271.6754 373.3152 271.6754 378.4154 267.3038 382.7871 254.9175 370.4008 250.5459 356.5574 229.4165 358.0146 232.3309 349.2714 238.1597 344.1712 235.2453 336.8852 238.8883 318.6701 233.0595 312.1127 233.0595 305.5553 240.3455 291.7119 243.2599 288.7975 245.4457 290.9833 249.8173 288.7975 253.4603 292.4405 260.7463 284.4259 267.3038 284.4259 270.9468 282.9687 283.333 269.8539 289.8904 272.0397 286.976 277.8685 287.7046 282.9687 289.8904 287.3403 288.4332 293.8977 292.0762 295.3549 297.1764 300.4551 305.191 298.9979 308.834 301.1837 311.7484 300.4551 Z" id="MW.KS" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>MW.KS</code_hasc>
+        <name>Kasungu</name>
+        <admin>Malawi</admin>
+        <type_en>District</type_en>
+        <region>Central</region>
+        <woe_id>20070128</woe_id>
+        <longitude>33</longitude>
+        <woe_name>Kasungu</woe_name>
+        <fips>MI09</fips>
+        <woe_label>Kasungu, MW, Malawi</woe_label>
+        <latitude>-12</latitude>
+        <iso_a2>MW</iso_a2>
+        <postal>KS</postal>
+        <type>District</type>
+        <id>MW.KS</id>
+      </desc>
+    </path>
+    <path d="M 332.1493 153.2777 328.5063 168.5783 331.4207 171.4927 335.7923 186.7933 331.4207 188.9791 327.7777 188.2505 322.6775 194.8079 314.6628 194.8079 308.1054 199.9081 306.6482 207.1942 305.9196 211.5658 311.0198 218.1232 308.834 226.1378 311.0198 235.6096 301.548 245.0814 306.6482 249.453 312.477 249.453 305.191 256.739 305.9196 261.1106 313.2056 264.0251 319.763 277.8685 335.7923 281.5115 332.1493 287.3403 316.8486 292.4405 311.7484 300.4551 308.834 301.1837 305.191 298.9979 297.1764 300.4551 292.0762 295.3549 288.4332 293.8977 289.8904 287.3403 287.7046 282.9687 286.976 277.8685 289.8904 272.0397 283.333 269.8539 284.7902 268.3967 283.333 266.2109 278.2328 264.7537 271.6754 266.9395 268.761 266.2109 264.3894 253.8246 260.0177 248.7244 260.7463 242.8956 265.8466 227.595 264.3894 222.4948 265.8466 215.9374 264.3894 199.9081 257.1033 196.9937 258.5605 192.6221 258.5605 183.8789 259.2891 182.4217 261.4749 184.6075 262.2035 179.5073 264.3894 178.0501 272.404 161.2923 266.5752 151.8205 263.6608 144.5344 276.7756 147.4489 278.2328 156.1921 286.2474 148.1775 292.0762 151.0919 298.6336 151.0919 302.2766 154.0063 304.4624 152.5491 304.4624 148.9061 310.2912 147.4489 319.763 148.9061 321.9489 143.0772 328.5063 148.1775 332.1493 153.2777 Z" id="MW.MZ" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>MW.MZ</code_hasc>
+        <name>Mzimba</name>
+        <admin>Malawi</admin>
+        <type_en>District</type_en>
+        <region>Northern</region>
+        <woe_id>20070127</woe_id>
+        <longitude>33</longitude>
+        <woe_name>Mzimba</woe_name>
+        <fips>MI15</fips>
+        <woe_label>Mzimba, MW, Malawi</woe_label>
+        <latitude>-11</latitude>
+        <iso_a2>MW</iso_a2>
+        <postal>MZ</postal>
+        <type>District</type>
+        <id>MW.MZ</id>
+      </desc>
+    </path>
+    <path d="M 381.6942 143.8058 379.5084 148.1775 381.6942 157.6493 390.4374 164.9353 391.166 170.0355 394.0804 172.2213 391.8946 173.6785 394.809 178.0501 397.7234 176.5929 405.0094 180.9645 411.5668 191.8935 412.2954 198.4509 380.9656 199.1795 380.237 213.023 376.5939 221.7662 359.8361 245.81 357.6503 255.2818 329.2349 255.2818 322.6775 253.096 316.12 249.453 312.477 249.453 306.6482 249.453 301.548 245.0814 311.0198 235.6096 308.834 226.1378 311.0198 218.1232 305.9196 211.5658 306.6482 207.1942 308.1054 199.9081 314.6628 194.8079 322.6775 194.8079 327.7777 188.2505 331.4207 188.9791 335.7923 186.7933 331.4207 171.4927 328.5063 168.5783 332.1493 153.2777 347.4499 143.8058 381.6942 143.8058 Z" id="MW.NA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>MW.NA</code_hasc>
+        <name>Nkhata Bay</name>
+        <admin>Malawi</admin>
+        <type_en>District</type_en>
+        <region>Northern</region>
+        <woe_id>20070147</woe_id>
+        <longitude>34</longitude>
+        <woe_name>Nkhata Bay</woe_name>
+        <fips>MI17</fips>
+        <woe_label>Nkhata Bay, MW, Malawi</woe_label>
+        <latitude>-11</latitude>
+        <iso_a2>MW</iso_a2>
+        <postal>NA</postal>
+        <type>District</type>
+        <id>MW.NA</id>
+      </desc>
+    </path>
+    <path d="M 357.6503 255.2818 370.0365 298.2693 374.4081 341.2568 374.4081 355.8288 377.3225 363.1148 354.7359 363.1148 337.9781 370.4008 335.0637 341.9854 331.4207 340.5282 331.4207 336.1566 327.0491 337.6138 324.8633 341.9854 322.6775 341.2568 319.0344 332.5136 319.0344 328.142 326.3205 320.1273 320.4916 312.8413 311.0198 312.1127 311.7484 300.4551 316.8486 292.4405 332.1493 287.3403 335.7923 281.5115 319.763 277.8685 313.2056 264.0251 305.9196 261.1106 305.191 256.739 312.477 249.453 316.12 249.453 322.6775 253.096 329.2349 255.2818 357.6503 255.2818 Z" id="MW.NK" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>MW.NK</code_hasc>
+        <name>Nkhotakota</name>
+        <admin>Malawi</admin>
+        <type_en>District</type_en>
+        <region>Central</region>
+        <woe_id>20070129</woe_id>
+        <longitude>34</longitude>
+        <woe_name>Nkhotakota</woe_name>
+        <fips>MI18</fips>
+        <woe_label>Nkhotakota, MW, Malawi</woe_label>
+        <latitude>-12</latitude>
+        <iso_a2>MW</iso_a2>
+        <postal>NK</postal>
+        <type>District</type>
+        <id>MW.NK</id>
+      </desc>
+    </path>
+    <path d="M 382.4228 109.5616 385.3372 116.8476 384.6086 120.4906 386.7944 124.8622 385.3372 126.3194 384.6086 137.977 381.6942 143.8058 347.4499 143.8058 332.1493 153.2777 328.5063 148.1775 321.9489 143.0772 319.763 148.9061 310.2912 147.4489 304.4624 148.9061 304.4624 152.5491 302.2766 154.0063 298.6336 151.0919 292.0762 151.0919 286.2474 148.1775 278.2328 156.1921 276.7756 147.4489 263.6608 144.5344 262.9322 138.7056 258.5605 137.2484 259.2891 134.334 263.6608 133.6054 266.5752 129.9624 276.7756 129.2338 282.6044 125.5908 284.7902 120.4906 297.905 108.1044 322.6775 97.1754 336.5209 108.833 382.4228 109.5616 Z" id="MW.RU" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>MW.RU</code_hasc>
+        <name>Rumphi</name>
+        <admin>Malawi</admin>
+        <type_en>District</type_en>
+        <region>Northern</region>
+        <woe_id>20070126</woe_id>
+        <longitude>33</longitude>
+        <woe_name>Rumphi</woe_name>
+        <fips>MI21</fips>
+        <woe_label>Rumphi, MW, Malawi</woe_label>
+        <latitude>-10</latitude>
+        <iso_a2>MW</iso_a2>
+        <postal>RU</postal>
+        <type>District</type>
+        <id>MW.RU</id>
+      </desc>
+    </path>
+    <path d="M 481.5125 526.3215 458.9259 525.5929 452.3685 529.2359 442.1681 526.3215 438.5251 529.2359 433.4248 527.7787 430.5104 529.9645 427.596 527.7787 433.4248 511.7495 439.2537 503.0063 439.9823 491.3486 437.0678 484.7912 438.5251 478.2338 444.3539 483.334 453.0971 485.5198 460.3831 479.691 460.3831 473.8622 462.5689 471.6764 474.2265 468.762 478.5981 466.5762 487.3413 476.048 488.7985 496.4489 491.7129 497.1775 481.5125 520.4927 481.5125 526.3215 Z" id="MW.MA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>MW.MA</code_hasc>
+        <name>Machinga</name>
+        <admin>Malawi</admin>
+        <type_en>District</type_en>
+        <region/>
+        <woe_id>20070138</woe_id>
+        <longitude>35</longitude>
+        <woe_name>Machinga</woe_name>
+        <fips>MI28</fips>
+        <woe_label>Machinga, MW, Malawi</woe_label>
+        <latitude>-14</latitude>
+        <iso_a2>MW</iso_a2>
+        <postal>MA</postal>
+        <type>District</type>
+        <id>MW.MA</id>
+      </desc>
+    </path>
+    <path d="M 390.4374 423.5887 391.166 443.9896 372.2223 454.9186 362.0219 452.0042 359.1075 453.4614 354.7359 451.2756 341.6211 455.6472 335.0637 456.3758 332.1493 457.1044 329.9635 460.7474 318.3058 459.2902 308.1054 464.3904 300.8194 460.0188 297.905 462.9332 295.7192 470.9478 292.0762 466.5762 297.905 460.7474 300.8194 451.2756 311.7484 443.9896 319.763 442.5324 322.6775 433.7891 327.7777 432.3319 333.6065 426.5031 343.8069 409.7453 351.0929 403.1879 369.3079 426.5031 373.6795 422.8601 390.4374 423.5887 Z" id="MW.DE" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>MW.DE</code_hasc>
+        <name>Dedza</name>
+        <admin>Malawi</admin>
+        <type_en>District</type_en>
+        <region>Central</region>
+        <woe_id>20070135</woe_id>
+        <longitude>34</longitude>
+        <woe_name>Dedza</woe_name>
+        <fips>MI06</fips>
+        <woe_label>Dedza, MW, Malawi</woe_label>
+        <latitude>-14</latitude>
+        <iso_a2>MW</iso_a2>
+        <postal>DE</postal>
+        <type>District</type>
+        <id>MW.DE</id>
+      </desc>
+    </path>
+    <path d="M 336.5209 371.858 337.2495 378.4154 336.5209 382.7871 343.8069 388.6159 351.0929 387.1587 352.5501 393.7161 348.1785 396.6305 329.9635 400.2735 320.4916 395.1733 307.3768 394.4447 303.7338 385.7015 289.1618 389.3445 284.0616 389.3445 278.9614 386.4301 276.7756 376.9582 277.5042 371.858 275.3184 369.6722 279.69 360.2004 278.9614 355.8288 284.0616 357.286 292.8048 347.0856 293.5334 350.7286 300.8194 358.7432 304.4624 371.858 315.3914 370.4008 331.4207 373.3152 336.5209 371.858 Z" id="MW.DO" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>MW.DO</code_hasc>
+        <name>Dowa</name>
+        <admin>Malawi</admin>
+        <type_en>District</type_en>
+        <region>Central</region>
+        <woe_id>20070132</woe_id>
+        <longitude>33</longitude>
+        <woe_name>Dowa</woe_name>
+        <fips>MI07</fips>
+        <woe_label>Dowa, MW, Malawi</woe_label>
+        <latitude>-13</latitude>
+        <iso_a2>MW</iso_a2>
+        <postal>DO</postal>
+        <type>District</type>
+        <id>MW.DO</id>
+      </desc>
+    </path>
+    <path d="M 348.1785 396.6305 347.4499 398.8163 343.0783 401.7307 342.3497 404.6451 351.0929 403.1879 343.8069 409.7453 333.6065 426.5031 327.7777 432.3319 322.6775 433.7891 319.763 442.5324 311.7484 443.9896 300.8194 451.2756 297.905 460.7474 292.0762 466.5762 289.8904 462.2046 278.2328 452.7328 269.4896 436.7035 267.3038 425.7745 268.0324 414.1169 260.0177 401.0021 262.9322 390.0731 267.3038 382.7871 271.6754 378.4154 271.6754 373.3152 275.3184 369.6722 277.5042 371.858 276.7756 376.9582 278.9614 386.4301 284.0616 389.3445 289.1618 389.3445 303.7338 385.7015 307.3768 394.4447 320.4916 395.1733 329.9635 400.2735 348.1785 396.6305 Z" id="MW.LI" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>MW.LI</code_hasc>
+        <name>Lilongwe</name>
+        <admin>Malawi</admin>
+        <type_en>District</type_en>
+        <region>Central</region>
+        <woe_id>20070134</woe_id>
+        <longitude>33</longitude>
+        <woe_name>Lilongwe</woe_name>
+        <fips>MI11</fips>
+        <woe_label>Lilongwe, MW, Malawi</woe_label>
+        <latitude>-14</latitude>
+        <iso_a2>MW</iso_a2>
+        <postal>LI</postal>
+        <type>District</type>
+        <id>MW.LI</id>
+      </desc>
+    </path>
+    <path d="M 478.5981 466.5762 474.2265 468.762 462.5689 471.6764 460.3831 473.8622 460.3831 479.691 453.0971 485.5198 444.3539 483.334 438.5251 478.2338 437.0678 484.7912 412.2954 484.7912 405.738 480.4196 395.5376 466.5762 391.8946 452.7328 391.166 443.9896 390.4374 423.5887 402.095 373.3152 421.0386 390.0731 453.8257 429.4175 458.9259 441.0752 478.5981 466.5762 Z" id="MW.MG" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>MW.MG</code_hasc>
+        <name>Mangochi</name>
+        <admin>Malawi</admin>
+        <type_en>District</type_en>
+        <region>Southern</region>
+        <woe_id>20070136</woe_id>
+        <longitude>35</longitude>
+        <woe_name>Mangochi</woe_name>
+        <fips>MI12</fips>
+        <woe_label>Mangochi, MW, Malawi</woe_label>
+        <latitude>-14</latitude>
+        <iso_a2>MW</iso_a2>
+        <postal>MG</postal>
+        <type>District</type>
+        <id>MW.MG</id>
+      </desc>
+    </path>
+    <path d="M 267.3038 382.7871 262.9322 390.0731 260.0177 401.0021 268.0324 414.1169 267.3038 425.7745 269.4896 436.7035 263.6608 430.1461 262.9322 421.4029 255.6461 417.0313 250.5459 409.7453 238.1597 420.6743 235.2453 416.3027 235.9739 411.2025 232.3309 409.7453 231.6023 405.3737 227.2307 400.2735 217.0303 395.9019 217.0303 393.7161 221.4019 390.0731 217.7589 384.2443 209.7443 382.7871 208.2871 379.8727 209.7443 376.9582 213.3873 377.6868 221.4019 374.0438 222.1305 368.9436 227.2307 366.0292 229.4165 358.0146 250.5459 356.5574 254.9175 370.4008 267.3038 382.7871 Z" id="MW.MC" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>MW.MC</code_hasc>
+        <name>Mchinji</name>
+        <admin>Malawi</admin>
+        <type_en>District</type_en>
+        <region>Central</region>
+        <woe_id>20070131</woe_id>
+        <longitude>33</longitude>
+        <woe_name>Mchinji</woe_name>
+        <fips>MI13</fips>
+        <woe_label>Mchinji, MW, Malawi</woe_label>
+        <latitude>-13</latitude>
+        <iso_a2>MW</iso_a2>
+        <postal>MC</postal>
+        <type>District</type>
+        <id>MW.MC</id>
+      </desc>
+    </path>
+    <path d="M 412.2954 484.7912 410.8382 495.7203 405.738 503.7349 399.1806 535.0647 396.9948 535.7933 396.2662 530.6931 394.0804 528.5073 374.4081 524.8643 373.6795 511.7495 376.5939 505.1921 373.6795 499.3633 372.9509 488.4342 370.0365 479.691 370.7651 470.9478 359.1075 453.4614 362.0219 452.0042 372.2223 454.9186 391.166 443.9896 391.8946 452.7328 395.5376 466.5762 405.738 480.4196 412.2954 484.7912 Z" id="MW.NU" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>MW.NU</code_hasc>
+        <name>Ntcheu</name>
+        <admin>Malawi</admin>
+        <type_en>District</type_en>
+        <region>Central</region>
+        <woe_id>20070137</woe_id>
+        <longitude>34</longitude>
+        <woe_name>Ntcheu</woe_name>
+        <fips>MI16</fips>
+        <woe_label>Ntcheu, MW, Malawi</woe_label>
+        <latitude>-14</latitude>
+        <iso_a2>MW</iso_a2>
+        <postal>NU</postal>
+        <type>District</type>
+        <id>MW.NU</id>
+      </desc>
+    </path>
+    <path d="M 337.9781 370.4008 336.5209 371.858 331.4207 373.3152 315.3914 370.4008 304.4624 371.858 300.8194 358.7432 293.5334 350.7286 292.8048 347.0856 300.0908 344.8998 312.477 331.785 319.0344 328.142 319.0344 332.5136 322.6775 341.2568 324.8633 341.9854 327.0491 337.6138 331.4207 336.1566 331.4207 340.5282 335.0637 341.9854 337.9781 370.4008 Z" id="MW.NI" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>MW.NI</code_hasc>
+        <name>Ntchisi</name>
+        <admin>Malawi</admin>
+        <type_en>District</type_en>
+        <region>Central</region>
+        <woe_id>20070130</woe_id>
+        <longitude>33</longitude>
+        <woe_name>Ntchisi</woe_name>
+        <fips>MI20</fips>
+        <woe_label>Ntchisi, MW, Malawi</woe_label>
+        <latitude>-13</latitude>
+        <iso_a2>MW</iso_a2>
+        <postal>NI</postal>
+        <type>District</type>
+        <id>MW.NI</id>
+      </desc>
+    </path>
+    <path d="M 402.095 373.3152 390.4374 423.5887 373.6795 422.8601 369.3079 426.5031 351.0929 403.1879 342.3497 404.6451 343.0783 401.7307 347.4499 398.8163 348.1785 396.6305 352.5501 393.7161 351.0929 387.1587 343.8069 388.6159 336.5209 382.7871 337.2495 378.4154 336.5209 371.858 337.9781 370.4008 354.7359 363.1148 377.3225 363.1148 383.1514 371.1294 402.095 373.3152 Z" id="MW.SA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>MW.SA</code_hasc>
+        <name>Salima</name>
+        <admin>Malawi</admin>
+        <type_en>District</type_en>
+        <region>Central</region>
+        <woe_id>20070133</woe_id>
+        <longitude>34</longitude>
+        <woe_name>Salima</woe_name>
+        <fips>MI22</fips>
+        <woe_label>Salima, MW, Malawi</woe_label>
+        <latitude>-13</latitude>
+        <iso_a2>MW</iso_a2>
+        <postal>SA</postal>
+        <type>District</type>
+        <id>MW.SA</id>
+      </desc>
+    </path>
+    <path d="M 437.0678 484.7912 439.9823 491.3486 439.2537 503.0063 433.4248 511.7495 427.596 527.7787 421.0386 535.0647 417.3956 535.7933 399.1806 535.0647 405.738 503.7349 410.8382 495.7203 412.2954 484.7912 437.0678 484.7912 Z" id="MW.BA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>MW.BA</code_hasc>
+        <name>Balaka</name>
+        <admin>Malawi</admin>
+        <type_en>District</type_en>
+        <region>Southern</region>
+        <woe_id>1500503</woe_id>
+        <longitude>35</longitude>
+        <woe_name>Balaka</woe_name>
+        <fips>MI26</fips>
+        <woe_label/>
+        <latitude>-15</latitude>
+        <iso_a2>MW</iso_a2>
+        <postal>BA</postal>
+        <type>District</type>
+        <id>MW.BA</id>
+      </desc>
+    </path>
+    <path d="M 390.4374 579.5094 400.6378 580.9666 401.3664 583.881 398.452 594.0814 401.3664 594.0814 401.3664 597.7244 402.8236 599.1816 418.8528 620.3111 420.31 626.8685 416.667 640.7119 409.381 647.9979 408.6524 652.3695 401.3664 659.6555 397.7234 657.4697 388.2516 644.3549 381.6942 640.7119 370.7651 623.2255 363.4791 622.4969 362.0219 621.0397 358.3789 613.0251 359.8361 601.3674 351.8215 591.8956 345.9927 588.9812 345.2641 586.0668 346.7213 578.0522 354.7359 572.2234 371.4937 578.7808 390.4374 579.5094 Z" id="MW.CK" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>MW.CK</code_hasc>
+        <name>Chikwawa</name>
+        <admin>Malawi</admin>
+        <type_en>District</type_en>
+        <region>Southern</region>
+        <woe_id>20070146</woe_id>
+        <longitude>34</longitude>
+        <woe_name>Chikwawa</woe_name>
+        <fips>MI02</fips>
+        <woe_label>Chikwawa, MW, Malawi</woe_label>
+        <latitude>-16</latitude>
+        <iso_a2>MW</iso_a2>
+        <postal>CK</postal>
+        <type>District</type>
+        <id>MW.CK</id>
+      </desc>
+    </path>
+    <path d="M 442.1681 568.5804 439.9823 573.6806 440.7109 593.3528 439.2537 597.7244 429.7818 585.3382 424.6816 584.6096 422.4958 578.7808 421.0386 562.023 424.6816 555.4656 429.0532 554.0084 429.0532 556.9228 432.6962 559.8372 436.3392 565.666 442.1681 568.5804 Z" id="MW.CR" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>MW.CR</code_hasc>
+        <name>Chiradzulu</name>
+        <admin>Malawi</admin>
+        <type_en>District</type_en>
+        <region>Southern</region>
+        <woe_id>20070142</woe_id>
+        <longitude>35</longitude>
+        <woe_name>Chiradzulu</woe_name>
+        <fips>MI03</fips>
+        <woe_label>Chiradzulu, MW, Malawi</woe_label>
+        <latitude>-15</latitude>
+        <iso_a2>MW</iso_a2>
+        <postal>CR</postal>
+        <type>District</type>
+        <id>MW.CR</id>
+      </desc>
+    </path>
+    <path d="M 439.2537 597.7244 439.2537 608.6534 436.3392 613.7537 437.7965 615.9395 434.1534 621.7683 434.882 629.0543 431.9676 632.6973 424.6816 631.9687 420.31 626.8685 418.8528 620.3111 402.8236 599.1816 407.9238 596.2672 411.5668 590.4384 415.2098 589.7098 424.6816 584.6096 429.7818 585.3382 439.2537 597.7244 Z" id="MW.TH" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>MW.TH</code_hasc>
+        <name>Thyolo</name>
+        <admin>Malawi</admin>
+        <type_en>District</type_en>
+        <region>Southern</region>
+        <woe_id>20070144</woe_id>
+        <longitude>35</longitude>
+        <woe_name>Thyolo</woe_name>
+        <fips>MI05</fips>
+        <woe_label>Thyolo, MW, Malawi</woe_label>
+        <latitude>-16</latitude>
+        <iso_a2>MW</iso_a2>
+        <postal>TH</postal>
+        <type>District</type>
+        <id>MW.TH</id>
+      </desc>
+    </path>
+    <path d="M 431.9676 632.6973 431.239 639.2547 423.2244 645.0835 426.8674 653.0981 430.5104 654.5553 435.6106 660.3841 437.7965 673.499 435.6106 675.6848 434.882 682.2422 438.5251 685.1566 436.3392 699 422.4958 699 416.667 696.8142 416.667 694.6284 414.4812 690.2568 415.2098 687.3424 421.0386 682.9708 421.7672 680.785 421.7672 672.0418 419.5814 670.5846 411.5668 669.8559 402.8236 663.2985 401.3664 659.6555 408.6524 652.3695 409.381 647.9979 416.667 640.7119 420.31 626.8685 424.6816 631.9687 431.9676 632.6973 Z" id="MW.NS" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>MW.NS</code_hasc>
+        <name>Nsanje</name>
+        <admin>Malawi</admin>
+        <type_en>District</type_en>
+        <region>Southern</region>
+        <woe_id>20070145</woe_id>
+        <longitude>35</longitude>
+        <woe_name>Nsanje</woe_name>
+        <fips>MI19</fips>
+        <woe_label>Nsanje, MW, Malawi</woe_label>
+        <latitude>-17</latitude>
+        <iso_a2>MW</iso_a2>
+        <postal>NS</postal>
+        <type>District</type>
+        <id>MW.NS</id>
+      </desc>
+    </path>
+    <path d="M 481.5125 526.3215 485.1555 548.9081 475.6837 548.9081 469.8549 551.0939 459.6545 559.1086 458.1973 562.023 453.0971 567.1232 442.1681 568.5804 436.3392 565.666 432.6962 559.8372 429.0532 556.9228 429.0532 554.0084 424.6816 555.4656 422.4958 554.0084 424.6816 549.6367 421.0386 548.9081 413.7526 538.7077 417.3956 535.7933 421.0386 535.0647 427.596 527.7787 430.5104 529.9645 433.4248 527.7787 438.5251 529.2359 442.1681 526.3215 452.3685 529.2359 458.9259 525.5929 481.5125 526.3215 Z" id="MW.ZO" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>MW.ZO</code_hasc>
+        <name>Zomba</name>
+        <admin>Malawi</admin>
+        <type_en>District</type_en>
+        <region>Southern</region>
+        <woe_id>20070140</woe_id>
+        <longitude>35</longitude>
+        <woe_name>Zomba</woe_name>
+        <fips>MI23</fips>
+        <woe_label>Zomba, MW, Malawi</woe_label>
+        <latitude>-15</latitude>
+        <iso_a2>MW</iso_a2>
+        <postal>ZO</postal>
+        <type>District</type>
+        <id>MW.ZO</id>
+      </desc>
+    </path>
+    <path d="M 424.6816 555.4656 421.0386 562.023 422.4958 578.7808 424.6816 584.6096 415.2098 589.7098 411.5668 590.4384 407.9238 596.2672 402.8236 599.1816 401.3664 597.7244 401.3664 594.0814 398.452 594.0814 401.3664 583.881 400.6378 580.9666 390.4374 579.5094 388.9802 570.0376 391.8946 567.1232 391.8946 561.2944 392.6232 559.1086 398.452 555.4656 405.0094 542.3507 413.7526 538.7077 421.0386 548.9081 424.6816 549.6367 422.4958 554.0084 424.6816 555.4656 Z" id="MW.BL" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>MW.BL</code_hasc>
+        <name>Blantyre</name>
+        <admin>Malawi</admin>
+        <type_en>District</type_en>
+        <region>Southern</region>
+        <woe_id>20070143</woe_id>
+        <longitude>34</longitude>
+        <woe_name>Blantyre</woe_name>
+        <fips>MI24</fips>
+        <woe_label>Blantyre, MW, Malawi</woe_label>
+        <latitude>-15</latitude>
+        <iso_a2>MW</iso_a2>
+        <postal>BL</postal>
+        <type>District</type>
+        <id>MW.BL</id>
+      </desc>
+    </path>
+    <path d="M 391.8946 561.2944 391.8946 567.1232 388.9802 570.0376 390.4374 579.5094 371.4937 578.7808 354.7359 572.2234 360.5647 564.9374 362.0219 558.38 391.8946 561.2944 Z" id="MW.MW" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>MW.MW</code_hasc>
+        <name>Mwanza</name>
+        <admin>Malawi</admin>
+        <type_en>District</type_en>
+        <region>Southern</region>
+        <woe_id>20070139</woe_id>
+        <longitude>34</longitude>
+        <woe_name>Mwanza</woe_name>
+        <fips>MI25</fips>
+        <woe_label/>
+        <latitude>-15</latitude>
+        <iso_a2>MW</iso_a2>
+        <postal>MW</postal>
+        <type>District</type>
+        <id>MW.MW</id>
+      </desc>
+    </path>
+    <path d="M 481.5125 591.8956 480.0553 601.3674 472.7693 607.1962 458.1973 610.1106 456.7401 613.0251 451.6399 608.6534 445.8111 608.6534 437.7965 615.9395 436.3392 613.7537 439.2537 608.6534 439.2537 597.7244 440.7109 593.3528 439.9823 573.6806 442.1681 568.5804 453.0971 567.1232 458.1973 562.023 458.1973 564.2088 455.2829 569.309 456.7401 570.0376 458.1973 581.6952 461.1117 583.881 464.0261 591.8956 469.8549 587.524 475.6837 592.6242 481.5125 591.8956 Z" id="MW.MJ" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>MW.MJ</code_hasc>
+        <name>Mulanje</name>
+        <admin>Malawi</admin>
+        <type_en>District</type_en>
+        <region>Southern</region>
+        <woe_id>20070141</woe_id>
+        <longitude>35</longitude>
+        <woe_name>Mulanje</woe_name>
+        <fips>MI29</fips>
+        <woe_label>Mulanje, MW, Malawi</woe_label>
+        <latitude>-15</latitude>
+        <iso_a2>MW</iso_a2>
+        <postal>MJ</postal>
+        <type>District</type>
+        <id>MW.MJ</id>
+      </desc>
+    </path>
+    <path d="M 481.5125 591.8956 475.6837 592.6242 469.8549 587.524 464.0261 591.8956 461.1117 583.881 458.1973 581.6952 456.7401 570.0376 455.2829 569.309 458.1973 564.2088 458.1973 562.023 459.6545 559.1086 469.8549 551.0939 475.6837 548.9081 485.1555 548.9081 481.5125 591.8956 Z" id="MW.PH" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>MW.PH</code_hasc>
+        <name>Phalombe</name>
+        <admin>Malawi</admin>
+        <type_en>District</type_en>
+        <region>Southern</region>
+        <woe_id>1368989</woe_id>
+        <longitude>35</longitude>
+        <woe_name>Phalombe</woe_name>
+        <fips>MI30</fips>
+        <woe_label/>
+        <latitude>-15</latitude>
+        <iso_a2>MW</iso_a2>
+        <postal>PH</postal>
+        <type>District</type>
+        <id>MW.PH</id>
+      </desc>
+    </path>
+    <path d="M 389.7088 247.9958 385.3372 247.2672 384.6086 245.81 388.2516 237.0668 391.8946 237.7954 394.0804 240.7098 392.6232 245.0814 389.7088 247.9958 Z M 382.4228 241.4384 379.5084 242.8956 374.4081 236.3382 379.5084 234.1524 381.6942 235.6096 382.4228 241.4384 Z" id="MW.6970" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>MW.NA</code_hasc>
+        <name>Likoma</name>
+        <admin>Malawi</admin>
+        <type_en>District</type_en>
+        <region>Northern</region>
+        <woe_id>20070147</woe_id>
+        <longitude>34</longitude>
+        <woe_name>Nkhata Bay</woe_name>
+        <fips>MI17</fips>
+        <woe_label>Nkhata Bay, MW, Malawi</woe_label>
+        <latitude>-12</latitude>
+        <iso_a2>MW</iso_a2>
+        <postal>NA</postal>
+        <type>District</type>
+        <id>MW.6970</id>
+      </desc>
+    </path>
+    <path d="M 399.1806 535.0647 417.3956 535.7933 413.7526 538.7077 405.0094 542.3507 398.452 555.4656 392.6232 559.1086 391.8946 561.2944 362.0219 558.38 361.2933 549.6367 374.4081 533.6075 374.4081 524.8643 394.0804 528.5073 396.2662 530.6931 396.9948 535.7933 399.1806 535.0647 Z" id="MW.6971" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>MW.MW</code_hasc>
+        <name>Neno</name>
+        <admin>Malawi</admin>
+        <type_en>District</type_en>
+        <region>Southern</region>
+        <woe_id>20070139</woe_id>
+        <longitude>34</longitude>
+        <woe_name>Mwanza</woe_name>
+        <fips>MI31</fips>
+        <woe_label/>
+        <latitude>-15</latitude>
+        <iso_a2>MW</iso_a2>
+        <postal>MW</postal>
+        <type>District</type>
+        <id>MW.6971</id>
+      </desc>
+    </path>
+  </g>
+</svg>

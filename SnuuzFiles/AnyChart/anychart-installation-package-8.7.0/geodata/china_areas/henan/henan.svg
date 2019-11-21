@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="henan">
+    <path d="M 179.7087 221.7959 170.6438 237.3358 179.7087 267.1206 95.5343 290.4304 95.5343 320.2152 112.3692 329.2801 100.7143 361.6549 73.5195 388.8497 54.0946 375.8998 10.0649 312.4453 1 282.6605 15.2449 272.3006 51.5046 271.0056 109.7792 247.6957 135.679 246.4007 146.039 230.8609 179.7087 221.7959 Z" id="CN.henan.2992284" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Sanmenxia City</name>
+        <admin_leve>5</admin_leve>
+        <wikipedia>zh:三门峡市</wikipedia>
+        <localname>三门峡 / Sanmenxia</localname>
+        <boundary>administrative</boundary>
+        <id>CN.henan.2992284</id>
+      </desc>
+    </path>
+    <path d="M 507.3414 113.0167 529.3562 94.8868 557.846 103.9518 553.961 138.9165 574.6809 147.9814 541.0111 184.2412 517.7013 190.7161 511.2263 186.8312 503.4564 145.3915 507.3414 113.0167 Z" id="CN.henan.3060567" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>5</admin_leve>
+        <localname>濮阳市 / Puyang</localname>
+        <boundary>administrative</boundary>
+        <id>CN.henan.3060567</id>
+        <name>Puyang City</name>
+      </desc>
+    </path>
+    <path d="M 73.5195 388.8497 100.7143 361.6549 143.449 370.7199 175.8237 387.5547 209.4935 370.7199 269.0631 387.5547 338.9926 413.4545 336.4026 434.1744 313.0928 445.8293 322.1577 496.334 349.3525 498.9239 366.1874 483.384 384.3173 495.039 373.9573 514.4638 341.5826 531.2987 318.2727 514.4638 265.1781 522.2338 199.1336 519.6438 143.449 491.154 130.4991 492.449 91.6494 438.0594 70.9295 422.5195 73.5195 388.8497 Z" id="CN.henan.3206852" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>5</admin_leve>
+        <localname>南阳市 / Nanyang</localname>
+        <boundary>administrative</boundary>
+        <id>CN.henan.3206852</id>
+        <name>Nanyang City</name>
+      </desc>
+    </path>
+    <path d="M 373.9573 514.4638 384.3173 495.039 465.9017 530.0037 512.5213 488.564 538.4212 495.039 561.731 497.6289 577.2709 514.4638 612.2356 510.5788 621.3006 542.9536 614.8256 580.5083 570.7959 598.6382 557.846 618.0631 531.9462 605.1132 498.2764 621.9481 438.7069 589.5733 402.4471 589.5733 375.2523 552.0186 373.9573 514.4638 Z" id="CN.henan.3218104" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Xinyang City</name>
+        <admin_leve>5</admin_leve>
+        <wikipedia>en:Xinyang</wikipedia>
+        <localname>信阳市 / Xinyang</localname>
+        <boundary>administrative</boundary>
+        <id>CN.henan.3218104</id>
+      </desc>
+    </path>
+    <path d="M 544.8961 246.4007 561.731 247.6957 575.9759 276.1855 636.8404 272.3006 651.0853 298.2004 691.2301 318.9202 699 342.2301 675.6902 361.6549 644.6104 372.0148 625.1855 350 588.9258 333.1651 529.3562 343.525 529.3562 316.3302 506.0464 308.5603 507.3414 255.4657 544.8961 246.4007 Z" id="CN.henan.3218285" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Shangqiu City</name>
+        <admin_leve>5</admin_leve>
+        <wikipedia>en:Shangqiu</wikipedia>
+        <localname>商丘市 / Shangqiu</localname>
+        <boundary>administrative</boundary>
+        <id>CN.henan.3218285</id>
+      </desc>
+    </path>
+    <path d="M 338.9926 172.5863 363.5974 159.6364 367.4824 136.3265 405.0371 150.5714 412.8071 166.1113 451.6568 175.1763 449.0668 198.4861 511.2263 186.8312 517.7013 190.7161 499.5714 210.141 498.2764 229.5659 486.6215 241.2208 427.0519 236.0408 386.9072 242.5158 357.1224 233.4508 364.8924 226.9759 338.9926 172.5863 Z" id="CN.henan.3237011" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Xinxiang City</name>
+        <admin_leve>5</admin_leve>
+        <wikipedia>en:Xinxiang</wikipedia>
+        <localname>新乡市 / Xinxiang</localname>
+        <boundary>administrative</boundary>
+        <id>CN.henan.3237011</id>
+      </desc>
+    </path>
+    <path d="M 245.7532 234.7458 267.7681 206.256 338.9926 172.5863 364.8924 226.9759 357.1224 233.4508 267.7681 248.9907 245.7532 234.7458 Z" id="CN.henan.3237564" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jiaozuo City</name>
+        <admin_leve>5</admin_leve>
+        <wikipedia>en:Jiaozuo</wikipedia>
+        <localname>焦作市 / Jiaozuo</localname>
+        <boundary>administrative</boundary>
+        <id>CN.henan.3237564</id>
+      </desc>
+    </path>
+    <path d="M 179.7087 221.7959 187.4787 224.3859 236.6883 239.9258 245.7532 234.7458 267.7681 248.9907 284.603 286.5455 267.7681 302.0853 243.1633 351.295 209.4935 370.7199 175.8237 387.5547 143.449 370.7199 100.7143 361.6549 112.3692 329.2801 95.5343 320.2152 95.5343 290.4304 179.7087 267.1206 170.6438 237.3358 179.7087 221.7959 Z" id="CN.henan.3246491" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Luoyang City</name>
+        <admin_leve>5</admin_leve>
+        <wikipedia>en:Luoyang</wikipedia>
+        <localname>洛阳市 / Luoyang</localname>
+        <boundary>administrative</boundary>
+        <id>CN.henan.3246491</id>
+      </desc>
+    </path>
+    <path d="M 336.4026 434.1744 364.8924 432.8794 370.0724 405.6846 437.4119 397.9147 454.2468 399.2096 504.7514 441.9443 503.4564 453.5993 538.4212 470.4341 538.4212 495.039 512.5213 488.564 465.9017 530.0037 384.3173 495.039 366.1874 483.384 349.3525 498.9239 322.1577 496.334 313.0928 445.8293 336.4026 434.1744 Z" id="CN.henan.3259366" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Zhumadian City</name>
+        <admin_leve>5</admin_leve>
+        <wikipedia>en:Zhumadian</wikipedia>
+        <localname>驻马店 / Zhumadian</localname>
+        <boundary>administrative</boundary>
+        <id>CN.henan.3259366</id>
+      </desc>
+    </path>
+    <path d="M 209.4935 370.7199 243.1633 351.295 267.7681 302.0853 302.7328 311.1503 359.7124 372.0148 345.4675 403.0946 370.0724 405.6846 364.8924 432.8794 336.4026 434.1744 338.9926 413.4545 269.0631 387.5547 209.4935 370.7199 Z" id="CN.henan.3259379" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pingdingshan City</name>
+        <admin_leve>5</admin_leve>
+        <wikipedia>en:Pingdingshan</wikipedia>
+        <localname>平顶山市 / Pingdingshan</localname>
+        <boundary>administrative</boundary>
+        <id>CN.henan.3259379</id>
+      </desc>
+    </path>
+    <path d="M 267.7681 248.9907 357.1224 233.4508 386.9072 242.5158 427.0519 236.0408 416.692 280.0705 392.0872 303.3803 367.4824 309.8553 332.5176 295.6104 302.7328 311.1503 267.7681 302.0853 284.603 286.5455 267.7681 248.9907 Z" id="CN.henan.3283765" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Zhengzhou City</name>
+        <admin_leve>5</admin_leve>
+        <wikipedia>en:Zhengzhou</wikipedia>
+        <localname>郑州市 / Zhengzhou</localname>
+        <boundary>administrative</boundary>
+        <id>CN.henan.3283765</id>
+      </desc>
+    </path>
+    <path d="M 302.7328 311.1503 332.5176 295.6104 367.4824 309.8553 392.0872 303.3803 436.1169 313.7403 441.2968 359.0649 423.167 362.9499 410.2171 342.2301 389.4972 347.41 359.7124 372.0148 302.7328 311.1503 Z" id="CN.henan.3283887" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Xuchang City</name>
+        <admin_leve>5</admin_leve>
+        <wikipedia>en:Xuchang</wikipedia>
+        <localname>许昌市 / Xuchang</localname>
+        <boundary>administrative</boundary>
+        <id>CN.henan.3283887</id>
+      </desc>
+    </path>
+    <path d="M 427.0519 236.0408 486.6215 241.2208 498.2764 229.5659 526.7662 228.2709 544.8961 246.4007 507.3414 255.4657 506.0464 308.5603 485.3265 315.0353 436.1169 313.7403 392.0872 303.3803 416.692 280.0705 427.0519 236.0408 Z" id="CN.henan.3283913" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Kaifeng City</name>
+        <admin_leve>5</admin_leve>
+        <wikipedia>en:Kaifeng</wikipedia>
+        <localname>开封市 / Kaifeng</localname>
+        <boundary>administrative</boundary>
+        <id>CN.henan.3283913</id>
+      </desc>
+    </path>
+    <path d="M 359.7124 372.0148 389.4972 347.41 410.2171 342.2301 423.167 362.9499 437.4119 397.9147 370.0724 405.6846 345.4675 403.0946 359.7124 372.0148 Z" id="CN.henan.3284027" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Luohe City</name>
+        <admin_leve>5</admin_leve>
+        <wikipedia>en:Luohe</wikipedia>
+        <localname>漯河市 / Luohe</localname>
+        <boundary>administrative</boundary>
+        <id>CN.henan.3284027</id>
+      </desc>
+    </path>
+    <path d="M 423.167 362.9499 441.2968 359.0649 436.1169 313.7403 485.3265 315.0353 506.0464 308.5603 529.3562 316.3302 529.3562 343.525 588.9258 333.1651 582.4508 377.1948 551.3711 403.0946 548.7811 435.4694 504.7514 441.9443 454.2468 399.2096 437.4119 397.9147 423.167 362.9499 Z" id="CN.henan.3284144" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Zhoukou City</name>
+        <admin_leve>5</admin_leve>
+        <wikipedia>en:Zhoukou</wikipedia>
+        <localname>周口市 / Zhoukou</localname>
+        <boundary>administrative</boundary>
+        <id>CN.henan.3284144</id>
+      </desc>
+    </path>
+    <path d="M 507.3414 113.0167 503.4564 145.3915 511.2263 186.8312 449.0668 198.4861 451.6568 175.1763 485.3265 150.5714 436.1169 120.7866 408.9221 124.6716 405.0371 150.5714 367.4824 136.3265 367.4824 100.0668 376.5473 78.0519 401.1521 79.3469 507.3414 113.0167 Z" id="CN.henan.4433277" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Anyang City</name>
+        <admin_leve>5</admin_leve>
+        <wikipedia>en:Anyang</wikipedia>
+        <localname>安阳市 / Anyang</localname>
+        <boundary>administrative</boundary>
+        <id>CN.henan.4433277</id>
+      </desc>
+    </path>
+    <path d="M 405.0371 150.5714 408.9221 124.6716 436.1169 120.7866 485.3265 150.5714 451.6568 175.1763 412.8071 166.1113 405.0371 150.5714 Z" id="CN.henan.4433278" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hebi City</name>
+        <admin_leve>5</admin_leve>
+        <wikipedia>en:Hebi</wikipedia>
+        <localname>鹤壁市 / Hebi</localname>
+        <boundary>administrative</boundary>
+        <id>CN.henan.4433278</id>
+      </desc>
+    </path>
+    <path d="M 187.4787 224.3859 191.3636 203.666 267.7681 206.256 245.7532 234.7458 236.6883 239.9258 187.4787 224.3859 Z" id="CN.henan.3010773" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>济源市 (Jiyuan)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.henan.3010773</id>
+        <name>Jiyuan City</name>
+      </desc>
+    </path>
+  </g>
+</svg>

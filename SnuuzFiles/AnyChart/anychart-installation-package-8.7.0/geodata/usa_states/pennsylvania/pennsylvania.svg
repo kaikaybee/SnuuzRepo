@@ -1,0 +1,742 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="pennsylvania">
+    <path d="M 297.9392 345.6616 315.2928 333.1285 315.2928 342.7693 327.826 341.8052 333.6105 350.482 348.0718 352.4102 361.5691 367.8356 381.8149 364.9434 404.953 358.1948 389.5276 374.5843 378.9227 382.297 351.9282 391.9378 344.2155 393.866 341.3232 395.7942 323.9696 394.8301 309.5083 400.6146 289.2624 394.8301 259.3757 395.7942 257.4475 392.9019 283.4779 367.8356 296.011 363.0152 289.2624 349.518 297.9392 345.6616 Z" id="US.PA.027" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Centre County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>027</fips>
+        <incits>42027</incits>
+        <id>US.PA.027</id>
+        <population>155403</population>
+      </desc>
+    </path>
+    <path d="M 292.1547 337.9489 303.7238 319.6312 304.6878 307.0981 350.9641 306.134 357.7127 319.6312 369.2818 329.2721 383.7431 336.9848 403.0249 355.3025 405.9171 355.3025 404.953 358.1948 381.8149 364.9434 361.5691 367.8356 348.0718 352.4102 333.6105 350.482 327.826 341.8052 315.2928 342.7693 315.2928 333.1285 297.9392 345.6616 292.1547 337.9489 Z" id="US.PA.035" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Clinton County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>035</fips>
+        <incits>42035</incits>
+        <id>US.PA.035</id>
+        <population>39954</population>
+      </desc>
+    </path>
+    <path d="M 378.9227 382.297 389.5276 374.5843 404.953 358.1948 405.9171 355.3025 425.1989 353.3743 434.8398 346.6257 439.6602 358.1948 436.768 366.8715 444.4807 376.5124 439.6602 376.5124 415.558 379.4047 379.8867 387.1174 378.9227 382.297 Z" id="US.PA.119" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Union County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>119</fips>
+        <incits>42119</incits>
+        <id>US.PA.119</id>
+        <population>44867</population>
+      </desc>
+    </path>
+    <path d="M 217.9199 338.913 225.6326 333.1285 274.8011 336.0207 292.1547 337.9489 297.9392 345.6616 289.2624 349.518 296.011 363.0152 283.4779 367.8356 257.4475 392.9019 259.3757 395.7942 260.3398 396.7583 207.3149 395.7942 206.3508 374.5843 206.3508 347.5898 217.9199 338.913 Z" id="US.PA.033" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Clearfield County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>033</fips>
+        <incits>42033</incits>
+        <id>US.PA.033</id>
+        <population>81174</population>
+      </desc>
+    </path>
+    <path d="M 228.5249 443.9986 236.2376 439.1782 238.1657 422.7887 245.8785 417.0041 260.3398 396.7583 259.3757 395.7942 289.2624 394.8301 276.7293 401.5787 282.5138 409.2914 279.6215 416.0401 287.3343 426.645 271.9088 447.855 268.0525 453.6395 250.6989 446.8909 242.0221 448.8191 228.5249 443.9986 Z" id="US.PA.013" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Blair County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>013</fips>
+        <incits>42013</incits>
+        <id>US.PA.013</id>
+        <population>126314</population>
+      </desc>
+    </path>
+    <path d="M 271.9088 447.855 287.3343 426.645 279.6215 416.0401 282.5138 409.2914 276.7293 401.5787 289.2624 394.8301 309.5083 400.6146 323.9696 394.8301 341.3232 395.7942 336.5028 404.471 322.0414 417.9682 324.9337 423.7528 315.2928 433.3936 319.1492 439.1782 332.6464 438.2141 338.4309 451.7113 327.826 463.2804 319.1492 475.8135 312.4006 470.9931 293.1188 467.1367 286.3702 463.2804 273.837 456.5318 271.9088 447.855 Z" id="US.PA.061" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Huntingdon County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>061</fips>
+        <incits>42061</incits>
+        <id>US.PA.061</id>
+        <population>45694</population>
+      </desc>
+    </path>
+    <path d="M 341.3232 395.7942 344.2155 393.866 351.9282 391.9378 378.9227 382.297 379.8867 387.1174 379.8867 399.6506 387.5994 400.6146 362.5331 410.2555 363.4972 413.1478 332.6464 438.2141 319.1492 439.1782 315.2928 433.3936 324.9337 423.7528 322.0414 417.9682 336.5028 404.471 341.3232 395.7942 Z" id="US.PA.087" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Mifflin County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>087</fips>
+        <incits>42087</incits>
+        <id>US.PA.087</id>
+        <population>46616</population>
+      </desc>
+    </path>
+    <path d="M 176.4641 448.8191 186.105 436.2859 207.3149 395.7942 260.3398 396.7583 245.8785 417.0041 238.1657 422.7887 236.2376 439.1782 228.5249 443.9986 223.7044 454.6036 196.7099 453.6395 191.8895 448.8191 176.4641 448.8191 Z" id="US.PA.021" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cambria County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>021</fips>
+        <incits>42021</incits>
+        <id>US.PA.021</id>
+        <population>140499</population>
+      </desc>
+    </path>
+    <path d="M 252.6271 291.6727 278.6575 289.7445 296.9751 306.134 304.6878 307.0981 303.7238 319.6312 292.1547 337.9489 274.8011 336.0207 271.9088 314.8108 252.6271 314.8108 252.6271 291.6727 Z" id="US.PA.023" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cameron County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>023</fips>
+        <incits>42023</incits>
+        <id>US.PA.023</id>
+        <population>4886</population>
+      </desc>
+    </path>
+    <path d="M 171.6436 322.5235 171.6436 312.8826 186.105 309.9903 188.0331 288.7804 244.9144 287.8163 252.6271 291.6727 252.6271 314.8108 271.9088 314.8108 274.8011 336.0207 225.6326 333.1285 217.9199 338.913 214.0635 332.1644 185.1409 319.6312 171.6436 322.5235 Z" id="US.PA.047" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Elk County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>047</fips>
+        <incits>42047</incits>
+        <id>US.PA.047</id>
+        <population>31479</population>
+      </desc>
+    </path>
+    <path d="M 379.8867 387.1174 415.558 379.4047 439.6602 376.5124 444.4807 376.5124 437.732 400.6146 430.0193 407.3633 416.5221 402.5428 387.5994 400.6146 379.8867 399.6506 379.8867 387.1174 Z" id="US.PA.109" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Snyder County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>109</fips>
+        <incits>42109</incits>
+        <id>US.PA.109</id>
+        <population>39865</population>
+      </desc>
+    </path>
+    <path d="M 350.9641 298.4213 427.1271 297.4572 436.768 292.6367 443.5166 292.6367 444.4807 292.6367 452.1934 314.8108 470.511 327.3439 488.8287 330.2362 471.4751 344.6975 465.6906 344.6975 454.1215 342.7693 434.8398 346.6257 425.1989 353.3743 405.9171 355.3025 403.0249 355.3025 383.7431 336.9848 369.2818 329.2721 357.7127 319.6312 350.9641 306.134 350.9641 298.4213 Z" id="US.PA.081" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lycoming County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>081</fips>
+        <incits>42081</incits>
+        <id>US.PA.081</id>
+        <population>116754</population>
+      </desc>
+    </path>
+    <path d="M 332.6464 438.2141 363.4972 413.1478 362.5331 410.2555 387.5994 400.6146 416.5221 402.5428 430.0193 407.3633 428.0912 408.3273 403.0249 413.1478 389.5276 420.8605 362.5331 432.4296 342.2873 448.8191 338.4309 451.7113 332.6464 438.2141 Z" id="US.PA.067" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Juniata County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>067</fips>
+        <incits>42067</incits>
+        <id>US.PA.067</id>
+        <population>24768</population>
+      </desc>
+    </path>
+    <path d="M 277.6934 244.4323 350 244.4323 350.9641 298.4213 350.9641 306.134 304.6878 307.0981 296.9751 306.134 278.6575 289.7445 277.6934 244.4323 Z" id="US.PA.105" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Potter County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>105</fips>
+        <incits>42105</incits>
+        <id>US.PA.105</id>
+        <population>17497</population>
+      </desc>
+    </path>
+    <path d="M 350 244.4323 430.9834 243.4682 437.732 292.6367 436.768 292.6367 427.1271 297.4572 350.9641 298.4213 350 244.4323 Z" id="US.PA.117" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Tioga County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>117</fips>
+        <incits>42117</incits>
+        <id>US.PA.117</id>
+        <population>42463</population>
+      </desc>
+    </path>
+    <path d="M 188.0331 288.7804 188.9972 264.6782 192.8536 262.75 192.8536 244.4323 277.6934 244.4323 278.6575 289.7445 252.6271 291.6727 244.9144 287.8163 188.0331 288.7804 Z" id="US.PA.083" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>McKean County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>083</fips>
+        <incits>42083</incits>
+        <id>US.PA.083</id>
+        <population>42979</population>
+      </desc>
+    </path>
+    <path d="M 430.9834 243.4682 524.5 244.4323 528.3564 285.8881 516.7873 291.6727 515.8232 298.4213 504.2541 297.4572 484.9724 296.4931 464.7265 294.5649 445.4448 292.6367 443.5166 292.6367 437.732 292.6367 430.9834 243.4682 Z" id="US.PA.015" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Bradford County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>015</fips>
+        <incits>42015</incits>
+        <id>US.PA.015</id>
+        <population>62316</population>
+      </desc>
+    </path>
+    <path d="M 444.4807 292.6367 445.4448 292.6367 464.7265 294.5649 484.9724 296.4931 504.2541 297.4572 515.8232 298.4213 508.1105 318.6671 507.1464 321.5594 505.2182 326.3798 488.8287 330.2362 470.511 327.3439 452.1934 314.8108 444.4807 292.6367 Z" id="US.PA.113" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Sullivan County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>113</fips>
+        <incits>42113</incits>
+        <id>US.PA.113</id>
+        <population>6351</population>
+      </desc>
+    </path>
+    <path d="M 109.942 288.7804 109.942 261.7859 109.942 244.4323 192.8536 244.4323 192.8536 262.75 188.9972 264.6782 188.0331 288.7804 121.511 288.7804 109.942 288.7804 Z" id="US.PA.123" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Warren County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>123</fips>
+        <incits>42123</incits>
+        <id>US.PA.123</id>
+        <population>40885</population>
+      </desc>
+    </path>
+    <path d="M 121.511 288.7804 188.0331 288.7804 186.105 309.9903 171.6436 312.8826 171.6436 322.5235 158.1464 323.4876 158.1464 311.9185 135.0083 311.9185 126.3315 317.703 121.511 308.0622 121.511 288.7804 Z" id="US.PA.053" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Forest County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>053</fips>
+        <incits>42053</incits>
+        <id>US.PA.053</id>
+        <population>7631</population>
+      </desc>
+    </path>
+    <path d="M 63.6657 342.7693 63.6657 305.1699 81.0193 293.6008 83.9116 288.7804 109.942 288.7804 121.511 288.7804 121.511 308.0622 126.3315 317.703 126.3315 323.4876 110.9061 325.4157 110.9061 330.2362 100.3011 342.7693 63.6657 342.7693 Z" id="US.PA.121" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Venango County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>121</fips>
+        <incits>42121</incits>
+        <id>US.PA.121</id>
+        <population>53907</population>
+      </desc>
+    </path>
+    <path d="M 1 261.7859 109.942 261.7859 109.942 288.7804 83.9116 288.7804 81.0193 293.6008 63.6657 305.1699 48.2403 306.134 1 305.1699 1 261.7859 Z" id="US.PA.039" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Crawford County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>039</fips>
+        <incits>42039</incits>
+        <id>US.PA.039</id>
+        <population>87376</population>
+      </desc>
+    </path>
+    <path d="M 109.942 244.4323 109.942 261.7859 1 261.7859 1 204.9047 54.0249 197.192 91.6243 182.7307 91.6243 244.4323 109.942 244.4323 Z" id="US.PA.049" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Erie County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>049</fips>
+        <incits>42049</incits>
+        <id>US.PA.049</id>
+        <population>280294</population>
+      </desc>
+    </path>
+    <path d="M 1 305.1699 48.2403 306.134 63.6657 305.1699 63.6657 342.7693 52.0967 355.3025 45.3481 349.518 32.8149 348.5539 1 348.5539 1 305.1699 Z" id="US.PA.085" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Mercer County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>085</fips>
+        <incits>42085</incits>
+        <id>US.PA.085</id>
+        <population>115195</population>
+      </desc>
+    </path>
+    <path d="M 157.1823 357.2307 158.1464 323.4876 171.6436 322.5235 185.1409 319.6312 214.0635 332.1644 217.9199 338.913 206.3508 347.5898 206.3508 374.5843 157.1823 374.5843 157.1823 357.2307 Z" id="US.PA.065" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jefferson County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>065</fips>
+        <incits>42065</incits>
+        <id>US.PA.065</id>
+        <population>44966</population>
+      </desc>
+    </path>
+    <path d="M 126.3315 317.703 135.0083 311.9185 158.1464 311.9185 158.1464 323.4876 157.1823 357.2307 148.5055 363.0152 120.547 366.8715 108.9779 366.8715 103.1934 358.1948 100.3011 343.7334 100.3011 342.7693 110.9061 330.2362 110.9061 325.4157 126.3315 323.4876 126.3315 317.703 Z" id="US.PA.031" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Clarion County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>031</fips>
+        <incits>42031</incits>
+        <id>US.PA.031</id>
+        <population>39155</population>
+      </desc>
+    </path>
+    <path d="M 129.2238 419.8964 157.1823 390.0097 157.1823 374.5843 206.3508 374.5843 207.3149 395.7942 186.105 436.2859 167.7873 438.2141 164.895 434.3577 147.5414 428.5732 135.9724 428.5732 129.2238 419.8964 Z" id="US.PA.063" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Indiana County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>063</fips>
+        <incits>42063</incits>
+        <id>US.PA.063</id>
+        <population>87745</population>
+      </desc>
+    </path>
+    <path d="M 1 381.3329 1 348.5539 32.8149 348.5539 45.3481 349.518 52.0967 355.3025 43.4199 363.9793 44.384 381.3329 1 381.3329 Z" id="US.PA.073" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lawrence County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>073</fips>
+        <incits>42073</incits>
+        <id>US.PA.073</id>
+        <population>89333</population>
+      </desc>
+    </path>
+    <path d="M 1 425.6809 20.2818 425.6809 41.4917 443.9986 73.3066 452.6754 79.0912 459.424 78.1271 468.1008 77.163 480.634 63.6657 485.4544 48.2403 484.4903 28.9586 481.5981 1 488.3467 1 425.6809 Z" id="US.PA.125" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Washington County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>125</fips>
+        <incits>42125</incits>
+        <id>US.PA.125</id>
+        <population>208206</population>
+      </desc>
+    </path>
+    <path d="M 79.0912 459.424 86.8039 455.5677 90.6602 437.25 98.3729 432.4296 99.337 420.8605 91.6243 417.9682 100.3011 403.5069 109.942 406.3992 120.547 418.9323 129.2238 419.8964 135.9724 428.5732 147.5414 428.5732 164.895 434.3577 167.7873 438.2141 186.105 436.2859 176.4641 448.8191 161.0387 470.029 147.5414 478.7058 124.4033 466.1727 104.1575 472.9213 93.5525 468.1008 78.1271 468.1008 79.0912 459.424 Z" id="US.PA.129" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Westmoreland County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>129</fips>
+        <incits>42129</incits>
+        <id>US.PA.129</id>
+        <population>362437</population>
+      </desc>
+    </path>
+    <path d="M 63.6657 485.4544 77.163 480.634 78.1271 468.1008 93.5525 468.1008 104.1575 472.9213 124.4033 466.1727 147.5414 478.7058 133.0801 500.8798 139.8287 504.7362 135.9724 516.3052 73.3066 517.2693 72.3425 492.203 63.6657 485.4544 Z" id="US.PA.051" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Fayette County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>051</fips>
+        <incits>42051</incits>
+        <id>US.PA.051</id>
+        <population>134999</population>
+      </desc>
+    </path>
+    <path d="M 1 488.3467 28.9586 481.5981 48.2403 484.4903 63.6657 485.4544 72.3425 492.203 73.3066 517.2693 1 516.3052 1 488.3467 Z" id="US.PA.059" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Greene County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>059</fips>
+        <incits>42059</incits>
+        <id>US.PA.059</id>
+        <population>37838</population>
+      </desc>
+    </path>
+    <path d="M 147.5414 478.7058 161.0387 470.029 176.4641 448.8191 191.8895 448.8191 196.7099 453.6395 223.7044 454.6036 212.1354 475.8135 212.1354 503.7721 206.3508 516.3052 135.9724 516.3052 139.8287 504.7362 133.0801 500.8798 147.5414 478.7058 Z" id="US.PA.111" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Somerset County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>111</fips>
+        <incits>42111</incits>
+        <id>US.PA.111</id>
+        <population>76520</population>
+      </desc>
+    </path>
+    <path d="M 206.3508 516.3052 212.1354 503.7721 212.1354 475.8135 223.7044 454.6036 228.5249 443.9986 242.0221 448.8191 250.6989 446.8909 268.0525 453.6395 271.9088 447.855 273.837 456.5318 286.3702 463.2804 264.1961 508.5925 257.4475 516.3052 206.3508 516.3052 Z" id="US.PA.009" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Bedford County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>009</fips>
+        <incits>42009</incits>
+        <id>US.PA.009</id>
+        <population>49055</population>
+      </desc>
+    </path>
+    <path d="M 257.4475 516.3052 264.1961 508.5925 286.3702 463.2804 293.1188 467.1367 312.4006 470.9931 319.1492 475.8135 312.4006 483.5262 302.7597 503.7721 291.1906 516.3052 257.4475 516.3052 Z" id="US.PA.057" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Fulton County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>057</fips>
+        <incits>42057</incits>
+        <id>US.PA.057</id>
+        <population>14670</population>
+      </desc>
+    </path>
+    <path d="M 291.1906 516.3052 302.7597 503.7721 312.4006 483.5262 319.1492 475.8135 327.826 463.2804 338.4309 451.7113 342.2873 448.8191 350 455.5677 348.0718 462.3163 354.8204 469.0649 366.3895 490.2749 367.3536 517.2693 291.1906 516.3052 Z" id="US.PA.055" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Franklin County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>055</fips>
+        <incits>42055</incits>
+        <id>US.PA.055</id>
+        <population>152085</population>
+      </desc>
+    </path>
+    <path d="M 342.2873 448.8191 362.5331 432.4296 389.5276 420.8605 403.0249 413.1478 428.0912 408.3273 423.2707 415.076 429.0552 427.6091 419.4144 436.2859 432.9116 443.9986 421.3425 446.8909 389.5276 449.7831 372.174 448.8191 348.0718 462.3163 350 455.5677 342.2873 448.8191 Z" id="US.PA.099" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Perry County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>099</fips>
+        <incits>42099</incits>
+        <id>US.PA.099</id>
+        <population>45562</population>
+      </desc>
+    </path>
+    <path d="M 348.0718 462.3163 372.174 448.8191 389.5276 449.7831 421.3425 446.8909 432.9116 443.9986 439.6602 456.5318 428.0912 463.2804 418.4503 466.1727 405.9171 474.8494 401.0967 479.6699 374.1022 484.4903 366.3895 490.2749 354.8204 469.0649 348.0718 462.3163 Z" id="US.PA.041" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cumberland County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>041</fips>
+        <incits>42041</incits>
+        <id>US.PA.041</id>
+        <population>241212</population>
+      </desc>
+    </path>
+    <path d="M 366.3895 490.2749 374.1022 484.4903 401.0967 479.6699 405.9171 474.8494 420.3785 481.5981 426.163 491.239 427.1271 500.8798 422.3066 503.7721 422.3066 517.2693 367.3536 517.2693 366.3895 490.2749 Z" id="US.PA.001" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Adams County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>001</fips>
+        <incits>42001</incits>
+        <id>US.PA.001</id>
+        <population>101546</population>
+      </desc>
+    </path>
+    <path d="M 405.9171 474.8494 418.4503 466.1727 428.0912 463.2804 439.6602 456.5318 452.1934 462.3163 456.0497 469.0649 464.7265 475.8135 478.2238 476.7776 485.9365 490.2749 513.895 516.3052 422.3066 517.2693 422.3066 503.7721 427.1271 500.8798 426.163 491.239 420.3785 481.5981 405.9171 474.8494 Z" id="US.PA.133" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>York County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>133</fips>
+        <incits>42133</incits>
+        <id>US.PA.133</id>
+        <population>438965</population>
+      </desc>
+    </path>
+    <path d="M 428.0912 408.3273 430.0193 407.3633 437.732 400.6146 444.4807 376.5124 436.768 366.8715 439.6602 358.1948 434.8398 346.6257 454.1215 342.7693 454.1215 353.3743 447.3729 369.7638 461.8343 367.8356 475.3315 370.7279 478.2238 377.4765 482.0801 384.2251 493.6492 383.261 496.5414 390.9738 457.9779 404.471 431.9475 411.2196 428.0912 408.3273 Z" id="US.PA.097" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Northumberland County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>097</fips>
+        <incits>42097</incits>
+        <id>US.PA.097</id>
+        <population>94076</population>
+      </desc>
+    </path>
+    <path d="M 454.1215 342.7693 465.6906 344.6975 474.3674 363.9793 481.116 369.7638 478.2238 377.4765 475.3315 370.7279 461.8343 367.8356 447.3729 369.7638 454.1215 353.3743 454.1215 342.7693 Z" id="US.PA.093" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Montour County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>093</fips>
+        <incits>42093</incits>
+        <id>US.PA.093</id>
+        <population>18541</population>
+      </desc>
+    </path>
+    <path d="M 428.0912 408.3273 431.9475 411.2196 457.9779 404.471 478.2238 417.0041 460.8702 426.645 472.4392 456.5318 474.3674 459.424 456.0497 469.0649 452.1934 462.3163 439.6602 456.5318 432.9116 443.9986 419.4144 436.2859 429.0552 427.6091 423.2707 415.076 428.0912 408.3273 Z" id="US.PA.043" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dauphin County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>043</fips>
+        <incits>42043</incits>
+        <id>US.PA.043</id>
+        <population>270937</population>
+      </desc>
+    </path>
+    <path d="M 478.2238 417.0041 489.7928 423.7528 522.5718 443.9986 524.5 444.9627 505.2182 452.6754 489.7928 454.6036 483.0442 456.5318 482.0801 457.4959 479.1878 458.4599 477.2597 458.4599 474.3674 459.424 472.4392 456.5318 460.8702 426.645 478.2238 417.0041 Z" id="US.PA.075" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lebanon County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>075</fips>
+        <incits>42075</incits>
+        <id>US.PA.075</id>
+        <population>135486</population>
+      </desc>
+    </path>
+    <path d="M 456.0497 469.0649 474.3674 459.424 477.2597 458.4599 479.1878 458.4599 482.0801 457.4959 483.0442 456.5318 489.7928 454.6036 505.2182 452.6754 524.5 444.9627 528.3564 448.8191 557.279 467.1367 549.5663 470.029 549.5663 478.7058 543.7818 487.3826 543.7818 496.0594 530.2845 516.3052 526.4282 516.3052 513.895 516.3052 485.9365 490.2749 478.2238 476.7776 464.7265 475.8135 456.0497 469.0649 Z" id="US.PA.071" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lancaster County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>071</fips>
+        <incits>42071</incits>
+        <id>US.PA.071</id>
+        <population>529600</population>
+      </desc>
+    </path>
+    <path d="M 465.6906 344.6975 471.4751 344.6975 488.8287 330.2362 505.2182 326.3798 504.2541 338.913 514.8591 346.6257 516.7873 369.7638 508.1105 377.4765 505.2182 387.1174 496.5414 390.9738 493.6492 383.261 482.0801 384.2251 478.2238 377.4765 481.116 369.7638 474.3674 363.9793 465.6906 344.6975 Z" id="US.PA.037" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Columbia County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>037</fips>
+        <incits>42037</incits>
+        <id>US.PA.037</id>
+        <population>66797</population>
+      </desc>
+    </path>
+    <path d="M 457.9779 404.471 496.5414 390.9738 505.2182 387.1174 508.1105 377.4765 516.7873 369.7638 527.3923 372.6561 529.3204 372.6561 542.8177 373.6202 556.3149 385.1892 571.7403 395.7942 555.3508 402.5428 542.8177 407.3633 536.0691 414.1119 511.0028 421.8246 489.7928 423.7528 478.2238 417.0041 457.9779 404.471 Z" id="US.PA.107" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Schuylkill County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>107</fips>
+        <incits>42107</incits>
+        <id>US.PA.107</id>
+        <population>146920</population>
+      </desc>
+    </path>
+    <path d="M 505.2182 326.3798 507.1464 321.5594 518.7155 317.703 540.8895 317.703 562.0994 312.8826 562.0994 316.739 579.453 322.5235 585.2376 341.8052 590.058 343.7334 584.2735 348.5539 570.7762 352.4102 573.6685 362.0511 542.8177 373.6202 529.3204 372.6561 527.3923 372.6561 516.7873 369.7638 514.8591 346.6257 504.2541 338.913 505.2182 326.3798 Z" id="US.PA.079" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Luzerne County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>079</fips>
+        <incits>42079</incits>
+        <id>US.PA.079</id>
+        <population>320103</population>
+      </desc>
+    </path>
+    <path d="M 508.1105 318.6671 515.8232 298.4213 516.7873 291.6727 528.3564 285.8881 575.5967 286.8522 565.9558 300.3494 562.0994 312.8826 540.8895 317.703 518.7155 317.703 508.1105 318.6671 Z" id="US.PA.131" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wyoming County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>131</fips>
+        <incits>42131</incits>
+        <id>US.PA.131</id>
+        <population>28003</population>
+      </desc>
+    </path>
+    <path d="M 524.5 244.4323 604.5193 244.4323 606.4475 286.8522 575.5967 286.8522 528.3564 285.8881 524.5 244.4323 Z" id="US.PA.115" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Susquehanna County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>115</fips>
+        <incits>42115</incits>
+        <id>US.PA.115</id>
+        <population>42286</population>
+      </desc>
+    </path>
+    <path d="M 562.0994 312.8826 565.9558 300.3494 575.5967 286.8522 606.4475 286.8522 609.3398 333.1285 601.6271 336.0207 590.058 343.7334 585.2376 341.8052 579.453 322.5235 562.0994 316.739 562.0994 312.8826 Z" id="US.PA.069" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lackawanna County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>069</fips>
+        <incits>42069</incits>
+        <id>US.PA.069</id>
+        <population>213931</population>
+      </desc>
+    </path>
+    <path d="M 601.6271 336.0207 609.3398 333.1285 606.4475 286.8522 604.5193 244.4323 618.9807 244.4323 628.6215 251.1809 629.5856 256.9655 647.9033 262.75 655.616 273.355 653.6878 291.6727 639.2265 310.9544 624.7652 326.3798 618.9807 335.0566 601.6271 336.0207 Z" id="US.PA.127" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wayne County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>127</fips>
+        <incits>42127</incits>
+        <id>US.PA.127</id>
+        <population>51548</population>
+      </desc>
+    </path>
+    <path d="M 618.9807 335.0566 624.7652 326.3798 639.2265 310.9544 653.6878 291.6727 664.2928 306.134 674.8978 310.9544 684.5387 310.9544 699 319.6312 681.6464 330.2362 675.8619 341.8052 663.3287 352.4102 652.7238 346.6257 643.0829 345.6616 646.9392 333.1285 618.9807 335.0566 Z" id="US.PA.103" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pike County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>103</fips>
+        <incits>42103</incits>
+        <id>US.PA.103</id>
+        <population>56591</population>
+      </desc>
+    </path>
+    <path d="M 542.8177 373.6202 573.6685 362.0511 570.7762 352.4102 584.2735 348.5539 602.5912 364.9434 593.9144 369.7638 605.4834 386.1533 589.0939 389.0456 571.7403 395.7942 556.3149 385.1892 542.8177 373.6202 Z" id="US.PA.025" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Carbon County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>025</fips>
+        <incits>42025</incits>
+        <id>US.PA.025</id>
+        <population>64786</population>
+      </desc>
+    </path>
+    <path d="M 584.2735 348.5539 590.058 343.7334 601.6271 336.0207 618.9807 335.0566 646.9392 333.1285 643.0829 345.6616 652.7238 346.6257 663.3287 352.4102 647.9033 367.8356 637.2983 371.692 629.5856 378.4406 605.4834 386.1533 593.9144 369.7638 602.5912 364.9434 584.2735 348.5539 Z" id="US.PA.089" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Monroe County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>089</fips>
+        <incits>42089</incits>
+        <id>US.PA.089</id>
+        <population>167148</population>
+      </desc>
+    </path>
+    <path d="M 589.0939 389.0456 605.4834 386.1533 629.5856 378.4406 637.2983 371.692 647.9033 367.8356 655.616 379.4047 648.8674 389.0456 642.1188 390.0097 637.2983 400.6146 638.2624 410.2555 621.8729 418.9323 616.0884 408.3273 604.5193 404.471 598.7348 395.7942 589.0939 389.0456 Z" id="US.PA.095" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Northampton County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>095</fips>
+        <incits>42095</incits>
+        <id>US.PA.095</id>
+        <population>299791</population>
+      </desc>
+    </path>
+    <path d="M 557.279 467.1367 578.489 454.6036 589.0939 456.5318 607.4116 472.9213 618.9807 475.8135 609.3398 485.4544 599.6989 490.2749 591.0221 502.808 576.5608 507.6285 569.8122 516.3052 526.4282 516.3052 530.2845 516.3052 543.7818 496.0594 543.7818 487.3826 549.5663 478.7058 549.5663 470.029 557.279 467.1367 Z" id="US.PA.029" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Chester County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>029</fips>
+        <incits>42029</incits>
+        <id>US.PA.029</id>
+        <population>509468</population>
+      </desc>
+    </path>
+    <path d="M 489.7928 423.7528 511.0028 421.8246 536.0691 414.1119 542.8177 407.3633 555.3508 402.5428 598.7348 429.5373 578.489 454.6036 557.279 467.1367 528.3564 448.8191 524.5 444.9627 522.5718 443.9986 489.7928 423.7528 Z" id="US.PA.011" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Berks County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>011</fips>
+        <incits>42011</incits>
+        <id>US.PA.011</id>
+        <population>413521</population>
+      </desc>
+    </path>
+    <path d="M 555.3508 402.5428 571.7403 395.7942 589.0939 389.0456 598.7348 395.7942 604.5193 404.471 616.0884 408.3273 621.8729 418.9323 604.5193 433.3936 598.7348 429.5373 555.3508 402.5428 Z" id="US.PA.077" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lehigh County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>077</fips>
+        <incits>42077</incits>
+        <id>US.PA.077</id>
+        <population>355092</population>
+      </desc>
+    </path>
+    <path d="M 604.5193 433.3936 621.8729 418.9323 638.2624 410.2555 653.6878 418.9323 654.6519 433.3936 665.2569 435.3218 669.1133 443.0345 689.3591 457.4959 693.2155 467.1367 665.2569 477.7417 660.4365 467.1367 604.5193 433.3936 Z" id="US.PA.017" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Bucks County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>017</fips>
+        <incits>42017</incits>
+        <id>US.PA.017</id>
+        <population>626976</population>
+      </desc>
+    </path>
+    <path d="M 578.489 454.6036 598.7348 429.5373 604.5193 433.3936 660.4365 467.1367 648.8674 477.7417 635.3702 471.9572 628.6215 486.4185 618.9807 475.8135 607.4116 472.9213 589.0939 456.5318 578.489 454.6036 Z" id="US.PA.091" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Montgomery County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>091</fips>
+        <incits>42091</incits>
+        <id>US.PA.091</id>
+        <population>812376</population>
+      </desc>
+    </path>
+    <path d="M 628.6215 486.4185 635.3702 471.9572 648.8674 477.7417 660.4365 467.1367 665.2569 477.7417 645.9751 489.3108 645.9751 497.0235 636.3343 498.9517 628.6215 486.4185 Z" id="US.PA.101" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Philadelphia County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>101</fips>
+        <incits>42101</incits>
+        <id>US.PA.101</id>
+        <population>1553165</population>
+      </desc>
+    </path>
+    <path d="M 618.9807 475.8135 628.6215 486.4185 636.3343 498.9517 622.837 501.8439 612.232 506.6644 592.9503 502.808 591.0221 502.808 599.6989 490.2749 609.3398 485.4544 618.9807 475.8135 Z" id="US.PA.045" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Delaware County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>045</fips>
+        <incits>42045</incits>
+        <id>US.PA.045</id>
+        <population>561973</population>
+      </desc>
+    </path>
+    <path d="M 20.2818 425.6809 41.4917 410.2555 45.3481 402.5428 100.3011 403.5069 91.6243 417.9682 99.337 420.8605 98.3729 432.4296 90.6602 437.25 86.8039 455.5677 79.0912 459.424 73.3066 452.6754 41.4917 443.9986 20.2818 425.6809 Z" id="US.PA.003" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Allegheny County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>003</fips>
+        <incits>42003</incits>
+        <id>US.PA.003</id>
+        <population>1231527</population>
+      </desc>
+    </path>
+    <path d="M 100.3011 403.5069 100.3011 343.7334 103.1934 358.1948 108.9779 366.8715 120.547 366.8715 148.5055 363.0152 157.1823 357.2307 157.1823 374.5843 157.1823 390.0097 129.2238 419.8964 120.547 418.9323 109.942 406.3992 100.3011 403.5069 Z" id="US.PA.005" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Armstrong County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>005</fips>
+        <incits>42005</incits>
+        <id>US.PA.005</id>
+        <population>68107</population>
+      </desc>
+    </path>
+    <path d="M 1 381.3329 44.384 381.3329 45.3481 402.5428 41.4917 410.2555 20.2818 425.6809 1 425.6809 1 381.3329 Z" id="US.PA.007" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Beaver County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>007</fips>
+        <incits>42007</incits>
+        <id>US.PA.007</id>
+        <population>170115</population>
+      </desc>
+    </path>
+    <path d="M 52.0967 355.3025 63.6657 342.7693 100.3011 342.7693 100.3011 343.7334 100.3011 403.5069 45.3481 402.5428 44.384 381.3329 43.4199 363.9793 52.0967 355.3025 Z" id="US.PA.019" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Butler County</name>
+        <stateAbbrev>PA</stateAbbrev>
+        <state>Pennsylvania</state>
+        <fips>019</fips>
+        <incits>42019</incits>
+        <id>US.PA.019</id>
+        <population>185476</population>
+      </desc>
+    </path>
+  </g>
+</svg>

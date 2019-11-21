@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="new_mexico">
+    <path d="M 1 138.7135 1 23.009 188.391 23.009 167.0108 46.9045 165.7532 113.5604 165.7532 138.7135 1 138.7135 Z" id="US.NM.045" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>San Juan County</name>
+        <stateAbbrev>NM</stateAbbrev>
+        <state>New Mexico</state>
+        <fips>045</fips>
+        <incits>35045</incits>
+        <id>US.NM.045</id>
+        <population>126503</population>
+      </desc>
+    </path>
+    <path d="M 442.4378 24.2667 582.0378 24.2667 582.0378 113.5604 580.7802 113.5604 532.9892 113.5604 509.0937 113.5604 428.6036 108.5297 426.0883 60.7387 441.1802 55.7081 442.4378 24.2667 Z" id="US.NM.007" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Colfax County</name>
+        <stateAbbrev>NM</stateAbbrev>
+        <state>New Mexico</state>
+        <fips>007</fips>
+        <incits>35007</incits>
+        <id>US.NM.007</id>
+        <population>13094</population>
+      </desc>
+    </path>
+    <path d="M 351.8865 24.2667 442.4378 24.2667 441.1802 55.7081 426.0883 60.7387 428.6036 108.5297 407.2234 137.4559 383.3279 127.3946 356.9171 98.4685 351.8865 24.2667 Z" id="US.NM.055" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Taos County</name>
+        <stateAbbrev>NM</stateAbbrev>
+        <state>New Mexico</state>
+        <fips>055</fips>
+        <incits>35055</incits>
+        <id>US.NM.055</id>
+        <population>33035</population>
+      </desc>
+    </path>
+    <path d="M 324.218 166.382 324.218 157.5784 324.218 155.0631 324.218 146.2595 345.5982 138.7135 385.8432 141.2288 384.5856 153.8054 385.8432 249.3874 325.4757 249.3874 324.218 229.2649 324.218 166.382 Z" id="US.NM.049" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Santa Fe County</name>
+        <stateAbbrev>NM</stateAbbrev>
+        <state>New Mexico</state>
+        <fips>049</fips>
+        <incits>35049</incits>
+        <id>US.NM.049</id>
+        <population>147423</population>
+      </desc>
+    </path>
+    <path d="M 384.5856 153.8054 428.6036 153.8054 467.591 165.1243 540.5351 163.8667 585.8108 161.3514 624.7982 209.1423 569.4613 238.0685 569.4613 229.2649 434.8919 229.2649 434.8919 249.3874 385.8432 249.3874 384.5856 153.8054 Z" id="US.NM.047" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>San Miguel County</name>
+        <stateAbbrev>NM</stateAbbrev>
+        <state>New Mexico</state>
+        <fips>047</fips>
+        <incits>35047</incits>
+        <id>US.NM.047</id>
+        <population>28541</population>
+      </desc>
+    </path>
+    <path d="M 384.5856 153.8054 385.8432 141.2288 407.2234 137.4559 428.6036 108.5297 509.0937 113.5604 532.9892 113.5604 534.2468 113.5604 532.9892 116.0757 534.2468 122.364 544.3081 138.7135 540.5351 163.8667 467.591 165.1243 428.6036 153.8054 384.5856 153.8054 Z" id="US.NM.033" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Mora County</name>
+        <stateAbbrev>NM</stateAbbrev>
+        <state>New Mexico</state>
+        <fips>033</fips>
+        <incits>35033</incits>
+        <id>US.NM.033</id>
+        <population>4704</population>
+      </desc>
+    </path>
+    <path d="M 324.218 142.4865 324.218 146.2595 324.218 155.0631 324.218 157.5784 324.218 166.382 306.6108 161.3514 324.218 142.4865 Z" id="US.NM.028" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Los Alamos County</name>
+        <stateAbbrev>NM</stateAbbrev>
+        <state>New Mexico</state>
+        <fips>028</fips>
+        <incits>35028</incits>
+        <id>US.NM.028</id>
+        <population>17798</population>
+      </desc>
+    </path>
+    <path d="M 165.7532 138.7135 165.7532 113.5604 251.2739 113.5604 251.2739 138.7135 324.218 142.4865 306.6108 161.3514 324.218 166.382 324.218 229.2649 214.8018 229.2649 202.2252 219.2036 202.2252 138.7135 165.7532 138.7135 Z" id="US.NM.043" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Sandoval County</name>
+        <stateAbbrev>NM</stateAbbrev>
+        <state>New Mexico</state>
+        <fips>043</fips>
+        <incits>35043</incits>
+        <id>US.NM.043</id>
+        <population>136575</population>
+      </desc>
+    </path>
+    <path d="M 582.0378 113.5604 582.0378 24.2667 699 23.009 693.9694 80.8613 693.9694 168.8973 654.982 168.8973 656.2396 128.6523 607.191 128.6523 582.0378 118.591 582.0378 113.5604 Z" id="US.NM.059" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Union County</name>
+        <stateAbbrev>NM</stateAbbrev>
+        <state>New Mexico</state>
+        <fips>059</fips>
+        <incits>35059</incits>
+        <id>US.NM.059</id>
+        <population>4370</population>
+      </desc>
+    </path>
+    <path d="M 165.7532 113.5604 167.0108 46.9045 188.391 23.009 351.8865 24.2667 356.9171 98.4685 383.3279 127.3946 407.2234 137.4559 385.8432 141.2288 345.5982 138.7135 324.218 146.2595 324.218 142.4865 251.2739 138.7135 251.2739 113.5604 165.7532 113.5604 Z" id="US.NM.039" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Rio Arriba County</name>
+        <stateAbbrev>NM</stateAbbrev>
+        <state>New Mexico</state>
+        <fips>039</fips>
+        <incits>35039</incits>
+        <id>US.NM.039</id>
+        <population>40072</population>
+      </desc>
+    </path>
+    <path d="M 214.8018 229.2649 324.218 229.2649 325.4757 249.3874 305.3532 269.5099 234.9243 268.2523 229.8937 258.191 214.8018 229.2649 Z" id="US.NM.001" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Bernalillo County</name>
+        <stateAbbrev>NM</stateAbbrev>
+        <state>New Mexico</state>
+        <fips>001</fips>
+        <incits>35001</incits>
+        <id>US.NM.001</id>
+        <population>674221</population>
+      </desc>
+    </path>
+    <path d="M 1 302.209 154.4342 302.209 155.6919 429.2324 121.7351 429.2324 121.7351 461.9315 1 460.6739 1 302.209 Z" id="US.NM.003" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Catron County</name>
+        <stateAbbrev>NM</stateAbbrev>
+        <state>New Mexico</state>
+        <fips>003</fips>
+        <incits>35003</incits>
+        <id>US.NM.003</id>
+        <population>3607</population>
+      </desc>
+    </path>
+    <path d="M 431.1189 469.4775 478.9099 469.4775 480.1676 358.8036 492.7441 368.8649 565.6883 370.1225 589.5838 360.0613 615.9946 409.1099 639.8901 419.1712 615.9946 419.1712 604.6757 488.3423 486.4559 488.3423 485.1982 539.9063 427.3459 539.9063 431.1189 469.4775 Z" id="US.NM.005" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Chaves County</name>
+        <stateAbbrev>NM</stateAbbrev>
+        <state>New Mexico</state>
+        <fips>005</fips>
+        <incits>35005</incits>
+        <id>US.NM.005</id>
+        <population>65823</population>
+      </desc>
+    </path>
+    <path d="M 1 302.209 1 258.191 67.6559 259.4486 67.6559 219.2036 202.2252 219.2036 214.8018 229.2649 229.8937 258.191 214.8018 258.191 214.8018 302.209 154.4342 302.209 1 302.209 Z" id="US.NM.006" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cibola County</name>
+        <stateAbbrev>NM</stateAbbrev>
+        <state>New Mexico</state>
+        <fips>006</fips>
+        <incits>35006</incits>
+        <id>US.NM.006</id>
+        <population>27335</population>
+      </desc>
+    </path>
+    <path d="M 613.4793 299.6937 666.3009 259.4486 693.9694 259.4486 693.9694 334.9081 613.4793 334.9081 613.4793 299.6937 Z" id="US.NM.009" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Curry County</name>
+        <stateAbbrev>NM</stateAbbrev>
+        <state>New Mexico</state>
+        <fips>009</fips>
+        <incits>35009</incits>
+        <id>US.NM.009</id>
+        <population>50598</population>
+      </desc>
+    </path>
+    <path d="M 480.1676 358.8036 480.1676 328.6198 480.1676 299.6937 531.7315 299.6937 544.3081 279.5712 568.2036 279.5712 589.5838 299.6937 589.5838 360.0613 565.6883 370.1225 492.7441 368.8649 480.1676 358.8036 Z" id="US.NM.011" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>De Baca County</name>
+        <stateAbbrev>NM</stateAbbrev>
+        <state>New Mexico</state>
+        <fips>011</fips>
+        <incits>35011</incits>
+        <id>US.NM.011</id>
+        <population>1907</population>
+      </desc>
+    </path>
+    <path d="M 203.4829 529.845 203.4829 509.7225 251.2739 504.6919 312.8991 478.2811 309.1261 489.6 309.1261 600.2739 291.5189 625.427 203.4829 625.427 203.4829 529.845 Z" id="US.NM.013" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dona Ana County</name>
+        <stateAbbrev>NM</stateAbbrev>
+        <state>New Mexico</state>
+        <fips>013</fips>
+        <incits>35013</incits>
+        <id>US.NM.013</id>
+        <population>213460</population>
+      </desc>
+    </path>
+    <path d="M 485.1982 539.9063 486.4559 488.3423 604.6757 488.3423 615.9946 539.9063 615.9946 600.2739 485.1982 600.2739 485.1982 539.9063 Z" id="US.NM.015" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Eddy County</name>
+        <stateAbbrev>NM</stateAbbrev>
+        <state>New Mexico</state>
+        <fips>015</fips>
+        <incits>35015</incits>
+        <id>US.NM.015</id>
+        <population>55471</population>
+      </desc>
+    </path>
+    <path d="M 1 460.6739 121.7351 461.9315 138.0847 460.6739 160.7225 529.845 96.582 539.9063 97.8396 616.6234 61.3676 615.3658 61.3676 539.9063 24.8955 531.1027 1 509.7225 1 460.6739 Z" id="US.NM.017" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Grant County</name>
+        <stateAbbrev>NM</stateAbbrev>
+        <state>New Mexico</state>
+        <fips>017</fips>
+        <incits>35017</incits>
+        <id>US.NM.017</id>
+        <population>29328</population>
+      </desc>
+    </path>
+    <path d="M 432.3766 328.6198 434.8919 249.3874 434.8919 229.2649 569.4613 229.2649 569.4613 238.0685 568.2036 279.5712 544.3081 279.5712 531.7315 299.6937 480.1676 299.6937 480.1676 328.6198 432.3766 328.6198 Z" id="US.NM.019" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Guadalupe County</name>
+        <stateAbbrev>NM</stateAbbrev>
+        <state>New Mexico</state>
+        <fips>019</fips>
+        <incits>35019</incits>
+        <id>US.NM.019</id>
+        <population>4551</population>
+      </desc>
+    </path>
+    <path d="M 532.9892 113.5604 580.7802 113.5604 582.0378 118.591 607.191 128.6523 656.2396 128.6523 654.982 168.8973 654.982 207.8847 624.7982 209.1423 585.8108 161.3514 540.5351 163.8667 544.3081 138.7135 534.2468 122.364 532.9892 116.0757 534.2468 113.5604 532.9892 113.5604 Z" id="US.NM.021" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Harding County</name>
+        <stateAbbrev>NM</stateAbbrev>
+        <state>New Mexico</state>
+        <fips>021</fips>
+        <incits>35021</incits>
+        <id>US.NM.021</id>
+        <population>693</population>
+      </desc>
+    </path>
+    <path d="M 1 509.7225 24.8955 531.1027 61.3676 539.9063 61.3676 615.3658 97.8396 616.6234 97.8396 625.427 97.8396 676.991 1 676.991 1 509.7225 Z" id="US.NM.023" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hidalgo County</name>
+        <stateAbbrev>NM</stateAbbrev>
+        <state>New Mexico</state>
+        <fips>023</fips>
+        <incits>35023</incits>
+        <id>US.NM.023</id>
+        <population>4654</population>
+      </desc>
+    </path>
+    <path d="M 604.6757 488.3423 615.9946 419.1712 639.8901 419.1712 692.7117 419.1712 691.4541 600.2739 615.9946 600.2739 615.9946 539.9063 604.6757 488.3423 Z" id="US.NM.025" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lea County</name>
+        <stateAbbrev>NM</stateAbbrev>
+        <state>New Mexico</state>
+        <fips>025</fips>
+        <incits>35025</incits>
+        <id>US.NM.025</id>
+        <population>68062</population>
+      </desc>
+    </path>
+    <path d="M 310.3838 429.2324 310.3838 407.8523 346.8559 409.1099 361.9477 388.9874 361.9477 339.9387 432.3766 339.9387 432.3766 328.6198 480.1676 328.6198 480.1676 358.8036 478.9099 469.4775 431.1189 469.4775 431.1189 449.355 384.5856 439.2937 312.8991 439.2937 310.3838 429.2324 Z" id="US.NM.027" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lincoln County</name>
+        <stateAbbrev>NM</stateAbbrev>
+        <state>New Mexico</state>
+        <fips>027</fips>
+        <incits>35027</incits>
+        <id>US.NM.027</id>
+        <population>20105</population>
+      </desc>
+    </path>
+    <path d="M 160.7225 529.845 203.4829 529.845 203.4829 625.427 97.8396 625.427 97.8396 616.6234 96.582 539.9063 160.7225 529.845 Z" id="US.NM.029" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Luna County</name>
+        <stateAbbrev>NM</stateAbbrev>
+        <state>New Mexico</state>
+        <fips>029</fips>
+        <incits>35029</incits>
+        <id>US.NM.029</id>
+        <population>24659</population>
+      </desc>
+    </path>
+    <path d="M 1 138.7135 165.7532 138.7135 202.2252 138.7135 202.2252 219.2036 67.6559 219.2036 67.6559 259.4486 1 258.191 1 138.7135 Z" id="US.NM.031" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>McKinley County</name>
+        <stateAbbrev>NM</stateAbbrev>
+        <state>New Mexico</state>
+        <fips>031</fips>
+        <incits>35031</incits>
+        <id>US.NM.031</id>
+        <population>73308</population>
+      </desc>
+    </path>
+    <path d="M 312.8991 478.2811 312.8991 439.2937 384.5856 439.2937 431.1189 449.355 431.1189 469.4775 427.3459 539.9063 485.1982 539.9063 485.1982 600.2739 309.1261 600.2739 309.1261 489.6 312.8991 478.2811 Z" id="US.NM.035" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Otero County</name>
+        <stateAbbrev>NM</stateAbbrev>
+        <state>New Mexico</state>
+        <fips>035</fips>
+        <incits>35035</incits>
+        <id>US.NM.035</id>
+        <population>65616</population>
+      </desc>
+    </path>
+    <path d="M 569.4613 238.0685 624.7982 209.1423 654.982 207.8847 654.982 168.8973 693.9694 168.8973 693.9694 259.4486 666.3009 259.4486 613.4793 299.6937 589.5838 299.6937 568.2036 279.5712 569.4613 238.0685 Z" id="US.NM.037" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Quay County</name>
+        <stateAbbrev>NM</stateAbbrev>
+        <state>New Mexico</state>
+        <fips>037</fips>
+        <incits>35037</incits>
+        <id>US.NM.037</id>
+        <population>8662</population>
+      </desc>
+    </path>
+    <path d="M 589.5838 299.6937 613.4793 299.6937 613.4793 334.9081 693.9694 334.9081 692.7117 419.1712 639.8901 419.1712 615.9946 409.1099 589.5838 360.0613 589.5838 299.6937 Z" id="US.NM.041" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Roosevelt County</name>
+        <stateAbbrev>NM</stateAbbrev>
+        <state>New Mexico</state>
+        <fips>041</fips>
+        <incits>35041</incits>
+        <id>US.NM.041</id>
+        <population>19955</population>
+      </desc>
+    </path>
+    <path d="M 155.6919 429.2324 310.3838 429.2324 312.8991 439.2937 312.8991 478.2811 251.2739 504.6919 203.4829 509.7225 203.4829 529.845 160.7225 529.845 138.0847 460.6739 121.7351 461.9315 121.7351 429.2324 155.6919 429.2324 Z" id="US.NM.051" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Sierra County</name>
+        <stateAbbrev>NM</stateAbbrev>
+        <state>New Mexico</state>
+        <fips>051</fips>
+        <incits>35051</incits>
+        <id>US.NM.051</id>
+        <population>11572</population>
+      </desc>
+    </path>
+    <path d="M 154.4342 302.209 214.8018 302.209 251.2739 302.209 305.3532 318.5586 305.3532 338.6811 361.9477 339.9387 361.9477 388.9874 346.8559 409.1099 310.3838 407.8523 310.3838 429.2324 155.6919 429.2324 154.4342 302.209 Z" id="US.NM.053" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Socorro County</name>
+        <stateAbbrev>NM</stateAbbrev>
+        <state>New Mexico</state>
+        <fips>053</fips>
+        <incits>35053</incits>
+        <id>US.NM.053</id>
+        <population>17584</population>
+      </desc>
+    </path>
+    <path d="M 305.3532 269.5099 325.4757 249.3874 385.8432 249.3874 434.8919 249.3874 432.3766 328.6198 432.3766 339.9387 361.9477 339.9387 305.3532 338.6811 305.3532 318.5586 305.3532 269.5099 Z" id="US.NM.057" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Torrance County</name>
+        <stateAbbrev>NM</stateAbbrev>
+        <state>New Mexico</state>
+        <fips>057</fips>
+        <incits>35057</incits>
+        <id>US.NM.057</id>
+        <population>15717</population>
+      </desc>
+    </path>
+    <path d="M 214.8018 302.209 214.8018 258.191 229.8937 258.191 234.9243 268.2523 305.3532 269.5099 305.3532 318.5586 251.2739 302.209 214.8018 302.209 Z" id="US.NM.061" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Valencia County</name>
+        <stateAbbrev>NM</stateAbbrev>
+        <state>New Mexico</state>
+        <fips>061</fips>
+        <incits>35061</incits>
+        <id>US.NM.061</id>
+        <population>76284</population>
+      </desc>
+    </path>
+  </g>
+</svg>

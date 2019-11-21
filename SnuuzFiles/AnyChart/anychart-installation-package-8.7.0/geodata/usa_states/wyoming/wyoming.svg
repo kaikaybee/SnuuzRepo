@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="wyoming">
+    <path d="M 100.5563 249.8906 107.1933 255.4216 118.2552 255.4216 127.1046 269.8019 151.4406 254.3154 161.3962 257.6339 174.6704 268.6957 189.0507 279.7575 189.0507 287.5008 212.2805 288.607 235.5103 293.0317 236.6165 296.3502 272.0143 304.0935 289.7132 302.9873 345.0222 302.9873 345.0222 299.6688 351.6593 300.775 353.8716 302.9873 353.8716 337.2789 354.9778 371.5705 350.5531 371.5705 352.7655 405.8621 352.7655 423.561 280.8637 423.561 201.2187 423.561 199.0063 405.8621 197.9002 380.42 184.626 373.7829 169.1395 354.9778 150.3344 348.3407 137.0602 324.0048 135.954 312.9429 130.4231 304.0935 100.5563 304.0935 100.5563 249.8906 Z" id="US.WY.013" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Fremont County</name>
+        <stateAbbrev>WY</stateAbbrev>
+        <state>Wyoming</state>
+        <fips>013</fips>
+        <incits>56013</incits>
+        <id>US.WY.013</id>
+        <population>40998</population>
+      </desc>
+    </path>
+    <path d="M 351.6593 300.775 393.6941 299.6688 445.6846 300.775 497.6751 300.775 496.5689 371.5705 496.5689 406.9683 461.1712 406.9683 352.7655 405.8621 350.5531 371.5705 354.9778 371.5705 353.8716 337.2789 353.8716 302.9873 351.6593 300.775 Z" id="US.WY.025" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Natrona County</name>
+        <stateAbbrev>WY</stateAbbrev>
+        <state>Wyoming</state>
+        <fips>025</fips>
+        <incits>56025</incits>
+        <id>US.WY.025</id>
+        <population>80973</population>
+      </desc>
+    </path>
+    <path d="M 250.9968 233.2979 390.3756 233.2979 393.6941 299.6688 351.6593 300.775 345.0222 299.6688 345.0222 285.2884 333.9604 285.2884 333.9604 277.5452 309.6244 277.5452 309.6244 268.6957 287.5008 268.6957 262.0586 259.8463 250.9968 242.1474 250.9968 233.2979 Z" id="US.WY.043" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Washakie County</name>
+        <stateAbbrev>WY</stateAbbrev>
+        <state>Wyoming</state>
+        <fips>043</fips>
+        <incits>56043</incits>
+        <id>US.WY.043</id>
+        <population>8463</population>
+      </desc>
+    </path>
+    <path d="M 174.6704 268.6957 196.794 268.6957 196.794 259.8463 214.4929 259.8463 214.4929 250.9968 226.6609 250.9968 226.6609 242.1474 250.9968 242.1474 262.0586 259.8463 287.5008 268.6957 309.6244 268.6957 309.6244 277.5452 333.9604 277.5452 333.9604 285.2884 345.0222 285.2884 345.0222 299.6688 345.0222 302.9873 289.7132 302.9873 272.0143 304.0935 236.6165 296.3502 235.5103 293.0317 212.2805 288.607 189.0507 287.5008 189.0507 279.7575 174.6704 268.6957 Z" id="US.WY.017" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hot Springs County</name>
+        <stateAbbrev>WY</stateAbbrev>
+        <state>Wyoming</state>
+        <fips>017</fips>
+        <incits>56017</incits>
+        <id>US.WY.017</id>
+        <population>4847</population>
+      </desc>
+    </path>
+    <path d="M 1 183.5198 1 150.3344 142.5911 150.3344 243.2536 150.3344 246.5721 163.6086 247.6783 199.0063 247.6783 233.2979 250.9968 233.2979 250.9968 242.1474 226.6609 242.1474 226.6609 250.9968 214.4929 250.9968 214.4929 259.8463 196.794 259.8463 196.794 268.6957 174.6704 268.6957 161.3962 257.6339 151.4406 254.3154 127.1046 269.8019 118.2552 255.4216 107.1933 255.4216 100.5563 249.8906 100.5563 236.6165 93.9192 236.6165 90.6006 221.13 76.2203 207.8558 78.4326 199.0063 68.477 192.3693 39.7163 192.3693 39.7163 183.5198 1 183.5198 Z" id="US.WY.029" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Park County</name>
+        <stateAbbrev>WY</stateAbbrev>
+        <state>Wyoming</state>
+        <fips>029</fips>
+        <incits>56029</incits>
+        <id>US.WY.029</id>
+        <population>29227</population>
+      </desc>
+    </path>
+    <path d="M 352.7655 423.561 352.7655 405.8621 461.1712 406.9683 496.5689 406.9683 497.6751 509.8431 472.233 509.8431 472.233 549.6656 401.4374 548.5594 314.0491 548.5594 314.0491 509.8431 311.8368 483.2948 354.9778 483.2948 354.9778 441.2599 352.7655 423.561 Z" id="US.WY.007" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Carbon County</name>
+        <stateAbbrev>WY</stateAbbrev>
+        <state>Wyoming</state>
+        <fips>007</fips>
+        <incits>56007</incits>
+        <id>US.WY.007</id>
+        <population>15748</population>
+      </desc>
+    </path>
+    <path d="M 368.252 194.5816 453.4279 194.5816 503.206 194.5816 502.0998 300.775 497.6751 300.775 445.6846 300.775 393.6941 299.6688 390.3756 233.2979 390.3756 217.8114 384.8447 205.6434 368.252 194.5816 Z" id="US.WY.019" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Johnson County</name>
+        <stateAbbrev>WY</stateAbbrev>
+        <state>Wyoming</state>
+        <fips>019</fips>
+        <incits>56019</incits>
+        <id>US.WY.019</id>
+        <population>8628</population>
+      </desc>
+    </path>
+    <path d="M 497.6751 300.775 502.0998 300.775 596.1252 300.775 613.8241 299.6688 613.8241 338.3851 614.9303 389.2694 575.1078 389.2694 576.2139 406.9683 570.683 406.9683 566.2583 420.2425 543.0285 419.1363 548.5594 406.9683 496.5689 406.9683 496.5689 371.5705 497.6751 300.775 Z" id="US.WY.009" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Converse County</name>
+        <stateAbbrev>WY</stateAbbrev>
+        <state>Wyoming</state>
+        <fips>009</fips>
+        <incits>56009</incits>
+        <id>US.WY.009</id>
+        <population>14313</population>
+      </desc>
+    </path>
+    <path d="M 502.0998 300.775 503.206 194.5816 503.206 151.4406 513.1616 150.3344 595.019 150.3344 596.1252 232.1918 596.1252 300.775 502.0998 300.775 Z" id="US.WY.005" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Campbell County</name>
+        <stateAbbrev>WY</stateAbbrev>
+        <state>Wyoming</state>
+        <fips>005</fips>
+        <incits>56005</incits>
+        <id>US.WY.005</id>
+        <population>48176</population>
+      </desc>
+    </path>
+    <path d="M 314.0491 150.3344 477.7639 151.4406 503.206 151.4406 503.206 194.5816 453.4279 194.5816 368.252 194.5816 366.0396 191.2631 345.0222 181.3074 331.748 179.0951 318.4739 163.6086 314.0491 150.3344 Z" id="US.WY.033" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Sheridan County</name>
+        <stateAbbrev>WY</stateAbbrev>
+        <state>Wyoming</state>
+        <fips>033</fips>
+        <incits>56033</incits>
+        <id>US.WY.033</id>
+        <population>29824</population>
+      </desc>
+    </path>
+    <path d="M 1 183.5198 39.7163 183.5198 39.7163 192.3693 68.477 192.3693 78.4326 199.0063 76.2203 207.8558 90.6006 221.13 93.9192 236.6165 100.5563 236.6165 100.5563 249.8906 100.5563 304.0935 100.5563 311.8368 71.7956 311.8368 71.7956 320.6862 48.5658 320.6862 48.5658 326.2171 25.336 326.2171 25.336 318.4739 2.1062 318.4739 2.1062 259.8463 1 183.5198 Z" id="US.WY.039" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Teton County</name>
+        <stateAbbrev>WY</stateAbbrev>
+        <state>Wyoming</state>
+        <fips>039</fips>
+        <incits>56039</incits>
+        <id>US.WY.039</id>
+        <population>22268</population>
+      </desc>
+    </path>
+    <path d="M 48.5658 326.2171 48.5658 320.6862 71.7956 320.6862 71.7956 311.8368 100.5563 311.8368 100.5563 304.0935 130.4231 304.0935 135.954 312.9429 137.0602 324.0048 150.3344 348.3407 169.1395 354.9778 184.626 373.7829 197.9002 380.42 199.0063 405.8621 201.2187 423.561 100.5563 422.4548 51.8843 421.3487 51.8843 404.7559 47.4596 404.7559 47.4596 337.2789 48.5658 326.2171 Z" id="US.WY.035" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Sublette County</name>
+        <stateAbbrev>WY</stateAbbrev>
+        <state>Wyoming</state>
+        <fips>035</fips>
+        <incits>56035</incits>
+        <id>US.WY.035</id>
+        <population>10041</population>
+      </desc>
+    </path>
+    <path d="M 2.1062 318.4739 25.336 318.4739 25.336 326.2171 48.5658 326.2171 47.4596 337.2789 47.4596 404.7559 51.8843 404.7559 51.8843 421.3487 100.5563 422.4548 101.6624 492.1442 2.1062 491.038 2.1062 427.9857 2.1062 377.1014 2.1062 318.4739 Z" id="US.WY.023" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lincoln County</name>
+        <stateAbbrev>WY</stateAbbrev>
+        <state>Wyoming</state>
+        <fips>023</fips>
+        <incits>56023</incits>
+        <id>US.WY.023</id>
+        <population>18364</population>
+      </desc>
+    </path>
+    <path d="M 614.9303 389.2694 639.2662 389.2694 639.2662 484.401 576.2139 483.2948 577.3201 451.2155 576.2139 406.9683 575.1078 389.2694 614.9303 389.2694 Z" id="US.WY.031" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Platte County</name>
+        <stateAbbrev>WY</stateAbbrev>
+        <state>Wyoming</state>
+        <fips>031</fips>
+        <incits>56031</incits>
+        <id>US.WY.031</id>
+        <population>8765</population>
+      </desc>
+    </path>
+    <path d="M 639.2662 389.2694 697.8938 388.1632 699 493.2504 639.2662 493.2504 639.2662 484.401 639.2662 389.2694 Z" id="US.WY.015" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Goshen County</name>
+        <stateAbbrev>WY</stateAbbrev>
+        <state>Wyoming</state>
+        <fips>015</fips>
+        <incits>56015</incits>
+        <id>US.WY.015</id>
+        <population>13612</population>
+      </desc>
+    </path>
+    <path d="M 613.8241 299.6688 697.8938 299.6688 697.8938 388.1632 639.2662 389.2694 614.9303 389.2694 613.8241 338.3851 613.8241 299.6688 Z" id="US.WY.027" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Niobrara County</name>
+        <stateAbbrev>WY</stateAbbrev>
+        <state>Wyoming</state>
+        <fips>027</fips>
+        <incits>56027</incits>
+        <id>US.WY.027</id>
+        <population>2541</population>
+      </desc>
+    </path>
+    <path d="M 596.1252 232.1918 697.8938 232.1918 697.8938 299.6688 613.8241 299.6688 596.1252 300.775 596.1252 232.1918 Z" id="US.WY.045" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Weston County</name>
+        <stateAbbrev>WY</stateAbbrev>
+        <state>Wyoming</state>
+        <fips>045</fips>
+        <incits>56045</incits>
+        <id>US.WY.045</id>
+        <population>7158</population>
+      </desc>
+    </path>
+    <path d="M 595.019 150.3344 697.8938 151.4406 697.8938 232.1918 596.1252 232.1918 595.019 150.3344 Z" id="US.WY.011" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Crook County</name>
+        <stateAbbrev>WY</stateAbbrev>
+        <state>Wyoming</state>
+        <fips>011</fips>
+        <incits>56011</incits>
+        <id>US.WY.011</id>
+        <population>7184</population>
+      </desc>
+    </path>
+    <path d="M 243.2536 150.3344 314.0491 150.3344 318.4739 163.6086 331.748 179.0951 345.0222 181.3074 366.0396 191.2631 368.252 194.5816 384.8447 205.6434 390.3756 217.8114 390.3756 233.2979 250.9968 233.2979 247.6783 233.2979 247.6783 199.0063 246.5721 163.6086 243.2536 150.3344 Z" id="US.WY.003" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Big Horn County</name>
+        <stateAbbrev>WY</stateAbbrev>
+        <state>Wyoming</state>
+        <fips>003</fips>
+        <incits>56003</incits>
+        <id>US.WY.003</id>
+        <population>11994</population>
+      </desc>
+    </path>
+    <path d="M 2.1062 491.038 101.6624 492.1442 101.6624 549.6656 2.1062 549.6656 2.1062 491.038 Z" id="US.WY.041" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Uinta County</name>
+        <stateAbbrev>WY</stateAbbrev>
+        <state>Wyoming</state>
+        <fips>041</fips>
+        <incits>56041</incits>
+        <id>US.WY.041</id>
+        <population>21066</population>
+      </desc>
+    </path>
+    <path d="M 496.5689 406.9683 548.5594 406.9683 543.0285 419.1363 566.2583 420.2425 570.683 406.9683 576.2139 406.9683 577.3201 451.2155 576.2139 483.2948 576.2139 549.6656 472.233 549.6656 472.233 509.8431 497.6751 509.8431 496.5689 406.9683 Z" id="US.WY.001" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Albany County</name>
+        <stateAbbrev>WY</stateAbbrev>
+        <state>Wyoming</state>
+        <fips>001</fips>
+        <incits>56001</incits>
+        <id>US.WY.001</id>
+        <population>37422</population>
+      </desc>
+    </path>
+    <path d="M 576.2139 483.2948 639.2662 484.401 639.2662 493.2504 699 493.2504 697.8938 548.5594 576.2139 549.6656 576.2139 483.2948 Z" id="US.WY.021" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Laramie County</name>
+        <stateAbbrev>WY</stateAbbrev>
+        <state>Wyoming</state>
+        <fips>021</fips>
+        <incits>56021</incits>
+        <id>US.WY.021</id>
+        <population>95809</population>
+      </desc>
+    </path>
+    <path d="M 100.5563 422.4548 201.2187 423.561 280.8637 423.561 352.7655 423.561 354.9778 441.2599 354.9778 483.2948 311.8368 483.2948 314.0491 509.8431 314.0491 548.5594 201.2187 548.5594 101.6624 549.6656 101.6624 492.1442 100.5563 422.4548 Z" id="US.WY.037" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Sweetwater County</name>
+        <stateAbbrev>WY</stateAbbrev>
+        <state>Wyoming</state>
+        <fips>037</fips>
+        <incits>56037</incits>
+        <id>US.WY.037</id>
+        <population>45237</population>
+      </desc>
+    </path>
+  </g>
+</svg>

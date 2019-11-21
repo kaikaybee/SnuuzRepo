@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="montserrat">
+    <path d="M 334.0043 390.6043 380.8735 437.4735 431.348 466.3161 517.4963 480.801 533.082 502.5025 550.8378 536.0413 564.056 570.5664 567.2125 596.6083 550.2459 636.6574 522.4285 667.8287 483.3657 689.5302 434.636 699 187.4358 634.29 132.7875 445.684 155.4535 347.7374 269.1084 361.7617 334.0043 390.6043 Z" id="MS.SA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>MS.SA</code_hasc>
+        <name>Saint Anthony</name>
+        <admin>Montserrat</admin>
+        <type_en>Parish</type_en>
+        <region/>
+        <woe_id>20069826</woe_id>
+        <longitude>-62</longitude>
+        <woe_name>Saint Anthony</woe_name>
+        <fips>MH01</fips>
+        <woe_label>Saint Anthony, MS, Montserrat</woe_label>
+        <latitude>16</latitude>
+        <iso_a2>MS</iso_a2>
+        <postal/>
+        <type>Parish</type>
+        <id>MS.SA</id>
+      </desc>
+    </path>
+    <path d="M 517.4963 480.801 431.348 466.3161 380.8735 437.4735 334.0043 390.6043 355.6362 314.8925 388.0841 249.9966 424.1798 206.1781 490.6653 287.0656 534.0684 364.7965 532.4901 399.9135 512.7614 460.6778 517.4963 480.801 Z" id="MS.SG" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>MS.SG</code_hasc>
+        <name>Saint Georges</name>
+        <admin>Montserrat</admin>
+        <type_en>Parish</type_en>
+        <region/>
+        <woe_id>20069827</woe_id>
+        <longitude>-62</longitude>
+        <woe_name>Saint Georges</woe_name>
+        <fips>MH02</fips>
+        <woe_label>Saint Georges, MS, Montserrat</woe_label>
+        <latitude>16</latitude>
+        <iso_a2>MS</iso_a2>
+        <postal/>
+        <type>Parish</type>
+        <id>MS.SG</id>
+      </desc>
+    </path>
+    <path d="M 424.1798 206.1781 388.0841 249.9966 355.6362 314.8925 334.0043 390.6043 269.1084 361.7617 155.4535 347.7374 187.4358 209.5319 269.1125 1 330.0741 24.6744 361.6399 32.9604 401.6891 30.9876 379.1984 121.3448 424.1798 206.1781 Z" id="MS.SP" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>MS.SP</code_hasc>
+        <name>Saint Peter</name>
+        <admin>Montserrat</admin>
+        <type_en>Parish</type_en>
+        <region/>
+        <woe_id>20069828</woe_id>
+        <longitude>-62</longitude>
+        <woe_name>Saint Peter</woe_name>
+        <fips>MH03</fips>
+        <woe_label>Saint Peter, MS, Montserrat</woe_label>
+        <latitude>16</latitude>
+        <iso_a2>MS</iso_a2>
+        <postal/>
+        <type>Parish</type>
+        <id>MS.SP</id>
+      </desc>
+    </path>
+  </g>
+</svg>

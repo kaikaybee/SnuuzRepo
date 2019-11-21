@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="saint_vincent_and_the_grenadines">
+    <path d="M 487.1619 161.473 476.4756 157.317 463.2476 155.0164 452.8953 156.7418 441.3927 148.69 436.9474 144.9466 430.4653 139.488 431.6156 125.1098 435.0663 116.4828 441.3927 104.4051 452.8953 106.7056 455.1958 95.2031 456.3461 78.5243 455.1958 64.1461 454.6207 52.0684 457.4963 35.9648 464.973 34.8145 464.3979 23.312 455.771 19.8612 455.8217 1.7125 473.3896 4.4984 479.7081 6.8544 483.2065 12.7446 488.704 25.5601 497.3429 64.6136 496.9145 118.3745 487.1619 161.473 Z" id="VC.CH" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>VC.CH</code_hasc>
+        <name>Charlotte</name>
+        <admin>Saint Vincent and the Grenadines</admin>
+        <type_en>Parish</type_en>
+        <region/>
+        <woe_id>2347671</woe_id>
+        <longitude>-61</longitude>
+        <woe_name>Charlotte</woe_name>
+        <fips>VC01</fips>
+        <woe_label>Charlotte, VC, Saint Vincent and the Grenadines</woe_label>
+        <latitude>13</latitude>
+        <iso_a2>VC</iso_a2>
+        <postal>CH</postal>
+        <type>Parish</type>
+        <id>VC.CH</id>
+      </desc>
+    </path>
+    <path d="M 226.4319 696.6439 217.2219 699 206.0841 698.1789 202.6571 693.4668 206.2983 688.9689 207.1908 685.292 205.3345 682.0792 206.4054 679.7589 212.7596 677.26 218.8283 679.0449 229.3948 685.5419 231.7866 693.1099 226.4319 696.6439 Z M 258.3815 644.8821 262.6652 647.488 266.235 650.4866 262.6652 656.4482 257.6318 659.8395 254.7403 664.6587 252.9554 660.5891 251.1705 656.1983 254.7403 650.7008 255.5256 646.9882 259.0597 647.4166 258.3815 644.8821 Z M 313.142 603.8652 304.1818 604.3293 296.2926 601.3307 298.4345 598.6534 308.4299 596.5115 313.0706 590.7284 311.4285 582.9463 311.8569 574.3788 319.7818 569.1669 325.8504 568.5958 328.5634 571.88 330.2769 579.912 325.6005 586.0163 320.4957 591.0497 317.9969 598.7247 313.142 603.8652 Z M 441.4757 461.0382 438.6556 461.5022 437.8346 450.6501 445.3668 437.2634 452.5778 438.7627 445.0098 456.1118 441.4757 461.0382 Z M 482.6354 389.4997 475.4958 391.9628 472.9255 381.5034 471.8546 376.8626 477.1022 373.7212 477.8518 376.8626 477.1379 379.1116 480.7077 382.967 482.6354 389.4997 Z M 490.7745 372.4361 485.3484 376.6484 483.5278 371.4366 488.6326 366.4389 490.7745 372.4361 Z M 407.42 341.0577 393.3907 350.6247 399.9234 350.6247 393.3907 357.1574 388.8928 350.7318 381.9317 346.6979 373.043 344.9488 362.8691 345.1629 362.8691 338.6302 375.9345 342.6284 395.8539 338.7373 395.8896 331.6692 390.0708 325.2078 387.3935 320.7099 394.6759 313.7845 419.0932 298.3631 429.3028 290.1526 430.5522 293.5439 430.9449 296.721 432.1586 299.7553 435.8712 302.7182 423.3055 314.6413 407.42 341.0577 Z" id="VC.GT" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>VC.GT</code_hasc>
+        <name>Grenadines</name>
+        <admin>Saint Vincent and the Grenadines</admin>
+        <type_en>Parish</type_en>
+        <region/>
+        <woe_id>2347676</woe_id>
+        <longitude>-61</longitude>
+        <woe_name>Grenadines</woe_name>
+        <fips>VC06</fips>
+        <woe_label>Grenadines, VC, Saint Vincent and the Grenadines</woe_label>
+        <latitude>13</latitude>
+        <iso_a2>VC</iso_a2>
+        <postal>GT</postal>
+        <type>Parish</type>
+        <id>VC.GT</id>
+      </desc>
+    </path>
+    <path d="M 436.9474 144.9466 431.6156 155.5916 412.0612 176.8713 397.3533 191.7259 368.0096 171.4215 379.2788 159.6175 397.1078 146.9646 413.2114 129.7108 420.113 126.8351 431.6156 125.1098 430.4653 139.488 436.9474 144.9466 Z" id="VC.AN" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>VC.AN</code_hasc>
+        <name>Saint Andrew</name>
+        <admin>Saint Vincent and the Grenadines</admin>
+        <type_en>Parish</type_en>
+        <region/>
+        <woe_id>2347672</woe_id>
+        <longitude>-61</longitude>
+        <woe_name>Saint Andrew</woe_name>
+        <fips>VC02</fips>
+        <woe_label/>
+        <latitude>13</latitude>
+        <iso_a2>VC</iso_a2>
+        <postal>AN</postal>
+        <type>Parish</type>
+        <id>VC.AN</id>
+      </desc>
+    </path>
+    <path d="M 455.8217 1.7125 455.771 19.8612 464.3979 23.312 464.973 34.8145 457.4963 35.9648 454.6207 52.0684 455.1958 64.1461 456.3461 78.5243 455.1958 95.2031 452.8953 106.7056 441.3927 104.4051 429.8902 92.9025 417.8125 103.2549 406.1329 111.0412 386.7555 106.7056 370.6115 101.7643 375.399 92.5293 373.1144 89.2094 368.8663 80.5348 392.534 76.7865 402.6722 56.9742 408.7051 31.7001 420.057 11.4238 431.3732 4.2842 441.9041 1.2856 451.3283 1 455.8217 1.7125 Z" id="VC.DA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>VC.DA</code_hasc>
+        <name>Saint David</name>
+        <admin>Saint Vincent and the Grenadines</admin>
+        <type_en>Parish</type_en>
+        <region/>
+        <woe_id>2347673</woe_id>
+        <longitude>-61</longitude>
+        <woe_name>Saint David</woe_name>
+        <fips>VC03</fips>
+        <woe_label>Saint David, VC, Saint Vincent and the Grenadines</woe_label>
+        <latitude>13</latitude>
+        <iso_a2>VC</iso_a2>
+        <postal>DA</postal>
+        <type>Parish</type>
+        <id>VC.DA</id>
+      </desc>
+    </path>
+    <path d="M 487.1619 161.473 484.9914 171.0645 459.2533 206.9052 443.5819 218.7926 421.6634 208.5473 397.3533 191.7259 412.0612 176.8713 431.6156 155.5916 436.9474 144.9466 441.3927 148.69 452.8953 156.7418 463.2476 155.0164 476.4756 157.317 487.1619 161.473 Z" id="VC.GE" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>VC.GE</code_hasc>
+        <name>Saint George</name>
+        <admin>Saint Vincent and the Grenadines</admin>
+        <type_en>Parish</type_en>
+        <region/>
+        <woe_id>2347674</woe_id>
+        <longitude>-61</longitude>
+        <woe_name>Saint George</woe_name>
+        <fips>VC04</fips>
+        <woe_label>Saint George, VC, Saint Vincent and the Grenadines</woe_label>
+        <latitude>13</latitude>
+        <iso_a2>VC</iso_a2>
+        <postal>GE</postal>
+        <type>Parish</type>
+        <id>VC.GE</id>
+      </desc>
+    </path>
+    <path d="M 441.3927 104.4051 435.0663 116.4828 431.6156 125.1098 420.113 126.8351 413.2114 129.7108 397.1078 146.9646 379.2788 159.6175 368.0096 171.4215 360.9771 145.6477 363.3331 115.8043 370.6115 101.7643 386.7555 106.7056 406.1329 111.0412 417.8125 103.2549 429.8902 92.9025 441.3927 104.4051 Z" id="VC.PA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>VC.PA</code_hasc>
+        <name>Saint Patrick</name>
+        <admin>Saint Vincent and the Grenadines</admin>
+        <type_en>Parish</type_en>
+        <region/>
+        <woe_id>2347675</woe_id>
+        <longitude>-61</longitude>
+        <woe_name>Saint Patrick</woe_name>
+        <fips>VC05</fips>
+        <woe_label>Saint Patrick, VC, Saint Vincent and the Grenadines</woe_label>
+        <latitude>13</latitude>
+        <iso_a2>VC</iso_a2>
+        <postal>PA</postal>
+        <type>Parish</type>
+        <id>VC.PA</id>
+      </desc>
+    </path>
+  </g>
+</svg>

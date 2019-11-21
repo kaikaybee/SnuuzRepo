@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="libya">
+    <path d="M 122.7199 62.7443 119.504 109.6957 124.167 122.3983 107.2838 147.6427 110.0173 218.5522 116.6098 229.8076 118.3785 242.671 115.9666 245.8869 108.7309 241.5455 98.7618 241.5455 91.3654 243.9574 78.502 238.6512 74.4821 228.5213 53.9007 238.1689 41.1981 232.8627 27.5308 236.8825 28.9779 212.1205 23.6717 188.484 9.2004 162.7572 34.6056 152.7881 49.2377 135.4225 53.0968 126.5789 47.7906 101.3345 55.0263 89.4358 64.9954 87.024 69.98 77.0548 77.0548 74.9645 81.557 68.8544 109.2133 56.6342 113.7155 61.6188 122.7199 62.7443 Z" id="LY.GD" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>LY.GD</code_hasc>
+        <name>Ghadamis</name>
+        <admin>Libya</admin>
+        <type_en>Municipality|Governarate</type_en>
+        <region/>
+        <woe_id>2346139</woe_id>
+        <longitude>10</longitude>
+        <woe_name>Ghadamis</woe_name>
+        <fips>LY56</fips>
+        <woe_label>Ghadamis, LY, Libya</woe_label>
+        <latitude>30</latitude>
+        <iso_a2>LY</iso_a2>
+        <postal>GD</postal>
+        <type>Sha'biyat|Sha'biyah</type>
+        <id>LY.GD</id>
+      </desc>
+    </path>
+    <path d="M 309.2391 207.9399 333.1972 206.9751 337.6994 210.9949 348.1509 214.05 355.3865 208.583 358.4416 208.583 372.109 228.3605 375.8072 240.4199 386.2587 248.9419 397.9965 251.3538 426.7784 258.4287 427.9039 322.9065 428.5471 371.7874 399.9261 365.0341 386.2587 354.261 375.4856 358.2808 367.9284 365.0341 351.8491 370.1795 331.2677 364.8733 317.4395 352.1707 313.0981 338.8249 302.6466 331.7501 302.8074 320.6554 301.8427 316.9572 291.7127 309.3999 282.0652 289.3009 286.4066 275.9551 285.9242 271.9353 282.226 268.237 273.5432 265.3428 264.5388 265.6644 258.9111 268.7194 248.9419 268.3978 246.6909 255.5344 228.5213 240.2592 224.1799 232.3803 224.5015 216.4619 238.812 207.1359 238.3296 193.7901 243.475 185.2681 251.6754 193.147 273.3824 198.9355 280.6181 208.4223 286.5674 209.2262 297.3405 203.4377 309.2391 207.9399 Z" id="LY.JU" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>LY.JU</code_hasc>
+        <name>Al Jufrah</name>
+        <admin>Libya</admin>
+        <type_en>Municipality|Governarate</type_en>
+        <region/>
+        <woe_id>2346122</woe_id>
+        <longitude>17</longitude>
+        <woe_name>Al Jufrah</woe_name>
+        <fips>LY05</fips>
+        <woe_label>Al Jufrah, LY, Libya</woe_label>
+        <latitude>27</latitude>
+        <iso_a2>LY</iso_a2>
+        <postal>JU</postal>
+        <type>Sha'biyat|Sha'biyah</type>
+        <id>LY.JU</id>
+      </desc>
+    </path>
+    <path d="M 432.4061 571.8132 430.4766 467.7805 428.5471 371.7874 427.9039 322.9065 547.2119 319.8514 680.0265 311.0078 690.478 485.7892 699 653.9781 653.1742 656.0684 654.1389 680.3481 544.8 627.9297 432.4061 571.8132 Z" id="LY.KF" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>LY.KF</code_hasc>
+        <name>Al Kufrah</name>
+        <admin>Libya</admin>
+        <type_en>Municipality|Governarate</type_en>
+        <region/>
+        <woe_id>2346123</woe_id>
+        <longitude>22</longitude>
+        <woe_name>Al Kufrah</woe_name>
+        <fips>LY08</fips>
+        <woe_label>Al Kufrah, LY, Libya</woe_label>
+        <latitude>23</latitude>
+        <iso_a2>LY</iso_a2>
+        <postal>KF</postal>
+        <type>Sha'biyat|Sha'biyah</type>
+        <id>LY.KF</id>
+      </desc>
+    </path>
+    <path d="M 241.8671 60.0108 241.5455 73.035 237.6865 83.1649 225.3055 82.5218 215.4971 74.1606 210.0302 77.3764 203.5985 75.9293 185.4289 77.698 184.3034 70.3015 179.962 64.6738 179.3188 63.8698 185.5897 61.6188 188.484 54.7047 203.2769 50.6849 209.387 44.2532 218.8738 46.5043 229.3253 55.991 241.8671 60.0108 Z" id="LY.MB" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>LY.MB</code_hasc>
+        <name>Al Marqab</name>
+        <admin>Libya</admin>
+        <type_en>Municipality|Governarate</type_en>
+        <region/>
+        <woe_id>2346133</woe_id>
+        <longitude>14</longitude>
+        <woe_name>Al Marqab</woe_name>
+        <fips>LY50</fips>
+        <woe_label>Al Khums, LY, Libya</woe_label>
+        <latitude>32</latitude>
+        <iso_a2>LY</iso_a2>
+        <postal>MB</postal>
+        <type>Sha'biyat|Sha'biyah</type>
+        <id>LY.MB</id>
+      </desc>
+    </path>
+    <path d="M 224.5015 216.4619 224.1799 232.3803 228.5213 240.2592 246.6909 255.5344 248.9419 268.3978 258.9111 268.7194 264.5388 265.6644 273.5432 265.3428 282.226 268.237 285.9242 271.9353 286.4066 275.9551 282.0652 289.3009 272.2569 288.1753 263.0917 291.8735 250.7107 293.1599 244.4398 295.8933 241.2239 301.3603 222.4112 314.8669 203.4377 316.6356 169.3497 307.792 161.6317 309.5607 88.4711 356.8337 79.4667 297.3405 70.4623 292.1951 44.0924 284.1555 29.7818 276.1159 24.3149 253.9265 27.5308 236.8825 41.1981 232.8627 53.9007 238.1689 74.4821 228.5213 78.502 238.6512 91.3654 243.9574 98.7618 241.5455 108.7309 241.5455 115.9666 245.8869 118.3785 242.671 119.8256 240.2592 141.3718 246.2085 141.6934 249.9067 149.5722 251.997 154.2352 245.7261 172.4047 232.7019 192.5038 205.3672 203.2769 198.6139 219.0346 206.9751 224.6623 213.7284 224.5015 216.4619 Z" id="LY.SH" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>LY.SH</code_hasc>
+        <name>Ash Shati'</name>
+        <admin>Libya</admin>
+        <type_en>Municipality|Governarate</type_en>
+        <region/>
+        <woe_id>2346124</woe_id>
+        <longitude>12</longitude>
+        <woe_name>Ash Shati'</woe_name>
+        <fips>LY13</fips>
+        <woe_label>Ash Shati', LY, Libya</woe_label>
+        <latitude>27</latitude>
+        <iso_a2>LY</iso_a2>
+        <postal>SH</postal>
+        <type>Sha'biyat|Sha'biyah</type>
+        <id>LY.SH</id>
+      </desc>
+    </path>
+    <path d="M 88.4711 356.8337 84.4513 379.5054 88.1495 389.153 84.9337 396.871 83.8081 425.6528 88.7927 435.622 88.7927 448.6462 55.1871 436.1044 42.1629 439.481 35.7312 434.1748 33.1585 425.6528 26.2444 420.0251 26.4052 397.0318 1.804 357.4768 1 354.7434 6.1454 346.0606 21.903 339.6289 24.9581 332.554 26.0836 323.3889 22.707 319.369 19.1695 301.0387 24.1541 290.9088 23.0286 287.8537 26.2444 285.6026 29.7818 276.1159 44.0924 284.1555 70.4623 292.1951 79.4667 297.3405 88.4711 356.8337 Z" id="LY.GT" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>LY.GT</code_hasc>
+        <name>Ghat</name>
+        <admin>Libya</admin>
+        <type_en>Municipality|Governarate</type_en>
+        <region/>
+        <woe_id>2346135</woe_id>
+        <longitude>10</longitude>
+        <woe_name>Ghat</woe_name>
+        <fips>LY52</fips>
+        <woe_label>Awbari, LY, Libya</woe_label>
+        <latitude>25</latitude>
+        <iso_a2>LY</iso_a2>
+        <postal>GT</postal>
+        <type>Sha'biyat|Sha'biyah</type>
+        <id>LY.GT</id>
+      </desc>
+    </path>
+    <path d="M 428.5471 371.7874 430.4766 467.7805 432.4061 571.8132 288.6577 495.9191 209.0654 534.9917 176.7461 507.0138 109.6957 488.6835 93.1341 451.7012 88.7927 448.6462 88.7927 435.622 83.8081 425.6528 84.9337 396.871 88.1495 389.153 96.9931 384.6508 108.4094 390.1177 121.5943 389.3138 130.9203 382.0781 142.3366 383.0428 157.451 376.7719 167.9026 376.2896 180.4444 364.8733 200.3826 359.2456 209.0654 358.4416 221.768 353.457 239.616 335.2875 302.8074 320.6554 302.6466 331.7501 313.0981 338.8249 317.4395 352.1707 331.2677 364.8733 351.8491 370.1795 367.9284 365.0341 375.4856 358.2808 386.2587 354.261 399.9261 365.0341 428.5471 371.7874 Z" id="LY.MQ" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>LY.MQ</code_hasc>
+        <name>Murzuq</name>
+        <admin>Libya</admin>
+        <type_en>Municipality|Governarate</type_en>
+        <region/>
+        <woe_id>2346125</woe_id>
+        <longitude>15</longitude>
+        <woe_name>Murzuq</woe_name>
+        <fips>LY30</fips>
+        <woe_label>Murzuq, LY, Libya</woe_label>
+        <latitude>24</latitude>
+        <iso_a2>LY</iso_a2>
+        <postal>MQ</postal>
+        <type>Sha'biyat|Sha'biyah</type>
+        <id>LY.MQ</id>
+      </desc>
+    </path>
+    <path d="M 298.1444 118.2177 297.1797 128.5084 314.0629 197.006 309.2391 207.9399 297.3405 203.4377 286.5674 209.2262 280.6181 208.4223 273.3824 198.9355 251.6754 193.147 243.475 185.2681 248.9419 177.8717 247.9772 158.7374 217.4266 143.1405 206.4927 117.5745 194.4333 104.2287 185.4289 77.698 203.5985 75.9293 210.0302 77.3764 215.4971 74.1606 225.3055 82.5218 237.6865 83.1649 241.5455 73.035 241.8671 60.0108 256.4992 61.9403 262.9309 66.1209 266.9507 74.4821 266.7899 85.5768 272.4176 100.2089 282.5476 111.9468 298.1444 118.2177 Z" id="LY.MI" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>LY.MI</code_hasc>
+        <name>Misratah</name>
+        <admin>Libya</admin>
+        <type_en>Municipality|Governarate</type_en>
+        <region/>
+        <woe_id>2346141</woe_id>
+        <longitude>15</longitude>
+        <woe_name>Misratah</woe_name>
+        <fips>LY58</fips>
+        <woe_label>Misratah, LY, Libya</woe_label>
+        <latitude>32</latitude>
+        <iso_a2>LY</iso_a2>
+        <postal>MI</postal>
+        <type>Sha'biyat|Sha'biyah</type>
+        <id>LY.MI</id>
+      </desc>
+    </path>
+    <path d="M 282.0652 289.3009 291.7127 309.3999 301.8427 316.9572 302.8074 320.6554 239.616 335.2875 221.768 353.457 209.0654 358.4416 200.3826 359.2456 202.1513 348.7941 210.0302 338.8249 205.528 329.8205 206.0104 323.5496 203.4377 316.6356 222.4112 314.8669 241.2239 301.3603 244.4398 295.8933 250.7107 293.1599 263.0917 291.8735 272.2569 288.1753 282.0652 289.3009 Z" id="LY.SB" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>LY.SB</code_hasc>
+        <name>Sabha</name>
+        <admin>Libya</admin>
+        <type_en>Municipality|Governarate</type_en>
+        <region/>
+        <woe_id>2346126</woe_id>
+        <longitude>15</longitude>
+        <woe_name>Sabha</woe_name>
+        <fips>LY34</fips>
+        <woe_label>Sabha, LY, Libya</woe_label>
+        <latitude>27</latitude>
+        <iso_a2>LY</iso_a2>
+        <postal>SB</postal>
+        <type>Sha'biyat|Sha'biyah</type>
+        <id>LY.SB</id>
+      </desc>
+    </path>
+    <path d="M 179.3188 63.8698 179.962 64.6738 162.114 66.7641 165.8123 52.2928 169.0281 47.1474 173.3695 44.7355 176.9069 48.4338 177.3893 60.9756 179.3188 63.8698 Z" id="LY.JI" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>LY.JI</code_hasc>
+        <name>Al Jifarah</name>
+        <admin>Libya</admin>
+        <type_en>Municipality|Governarate</type_en>
+        <region/>
+        <woe_id>2346121</woe_id>
+        <longitude>13</longitude>
+        <woe_name>Al Jifarah</woe_name>
+        <fips>LY03</fips>
+        <woe_label>Al 'Aziziyah, LY, Libya</woe_label>
+        <latitude>32</latitude>
+        <iso_a2>LY</iso_a2>
+        <postal>JI</postal>
+        <type>Sha'biyat|Sha'biyah</type>
+        <id>LY.JI</id>
+      </desc>
+    </path>
+    <path d="M 153.1097 39.5902 148.1251 49.5593 140.5678 55.5086 133.6538 58.4029 132.5282 60.9756 122.7199 62.7443 113.7155 61.6188 109.2133 56.6342 110.8212 52.4536 106.6406 45.8611 110.3389 19.6519 115.4842 23.5109 121.7551 25.1189 117.7353 22.2246 124.0062 25.1189 142.015 37.6607 153.1097 39.5902 Z" id="LY.NQ" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>LY.NQ</code_hasc>
+        <name>An Nuqat al Khams</name>
+        <admin>Libya</admin>
+        <type_en>Municipality|Governarate</type_en>
+        <region/>
+        <woe_id>2346134</woe_id>
+        <longitude>12</longitude>
+        <woe_name>An Nuqat al Khams</woe_name>
+        <fips>LY51</fips>
+        <woe_label>An Nuqat al Khams, LY, Libya</woe_label>
+        <latitude>32</latitude>
+        <iso_a2>LY</iso_a2>
+        <postal>NQ</postal>
+        <type>Sha'biyat|Sha'biyah</type>
+        <id>LY.NQ</id>
+      </desc>
+    </path>
+    <path d="M 173.3695 44.7355 169.0281 47.1474 165.8123 52.2928 162.114 66.7641 155.0392 67.7289 144.9092 63.8698 122.7199 62.7443 132.5282 60.9756 133.6538 58.4029 140.5678 55.5086 148.1251 49.5593 153.1097 39.5902 163.2396 40.3941 174.8166 37.3391 173.3695 44.7355 Z" id="LY.ZA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>LY.ZA</code_hasc>
+        <name>Az Zawiyah</name>
+        <admin>Libya</admin>
+        <type_en>Municipality|Governarate</type_en>
+        <region/>
+        <woe_id>2346136</woe_id>
+        <longitude>12</longitude>
+        <woe_name>Az Zawiyah</woe_name>
+        <fips>LY53</fips>
+        <woe_label>Az Zawiyah, LY, Libya</woe_label>
+        <latitude>32</latitude>
+        <iso_a2>LY</iso_a2>
+        <postal>ZA</postal>
+        <type>Sha'biyat|Sha'biyah</type>
+        <id>LY.ZA</id>
+      </desc>
+    </path>
+    <path d="M 185.4289 77.698 194.4333 104.2287 206.4927 117.5745 217.4266 143.1405 247.9772 158.7374 248.9419 177.8717 243.475 185.2681 238.3296 193.7901 238.812 207.1359 224.5015 216.4619 224.6623 213.7284 219.0346 206.9751 203.2769 198.6139 192.5038 205.3672 172.4047 232.7019 154.2352 245.7261 149.5722 251.997 141.6934 249.9067 141.3718 246.2085 119.8256 240.2592 118.3785 242.671 116.6098 229.8076 110.0173 218.5522 107.2838 147.6427 124.167 122.3983 119.504 109.6957 122.7199 62.7443 144.9092 63.8698 155.0392 67.7289 162.114 66.7641 179.962 64.6738 184.3034 70.3015 185.4289 77.698 Z" id="LY.MZ" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>LY.MZ</code_hasc>
+        <name>Mizdah</name>
+        <admin>Libya</admin>
+        <type_en>Municipality|Governarate</type_en>
+        <region/>
+        <woe_id>2346140</woe_id>
+        <longitude>13</longitude>
+        <woe_name>Mizdah</woe_name>
+        <fips>LY57</fips>
+        <woe_label>Gharyan, LY, Libya</woe_label>
+        <latitude>30</latitude>
+        <iso_a2>LY</iso_a2>
+        <postal>MZ</postal>
+        <type>Sha'biyat|Sha'biyah</type>
+        <id>LY.MZ</id>
+      </desc>
+    </path>
+    <path d="M 209.387 44.2532 203.2769 50.6849 188.484 54.7047 185.5897 61.6188 179.3188 63.8698 177.3893 60.9756 176.9069 48.4338 173.3695 44.7355 174.8166 37.3391 181.2483 35.5704 193.7901 41.5197 209.387 44.2532 Z" id="LY.TN" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>LY.TN</code_hasc>
+        <name>Tajura' wa an Nawahi al Arba</name>
+        <admin>Libya</admin>
+        <type_en>Municipality|Governarate</type_en>
+        <region/>
+        <woe_id>2346144</woe_id>
+        <longitude>13</longitude>
+        <woe_name>Tajura' wa an Nawahi al Arba</woe_name>
+        <fips>LY61</fips>
+        <woe_label>Tsarrbuus, LY, Libya</woe_label>
+        <latitude>32</latitude>
+        <iso_a2>LY</iso_a2>
+        <postal>TN</postal>
+        <type>Sha'biyat|Sha'biyah</type>
+        <id>LY.TN</id>
+      </desc>
+    </path>
+    <path d="M 511.9984 41.1981 516.3398 45.0571 516.6614 48.1122 511.516 54.3831 513.2847 63.2267 517.6261 72.5526 524.8618 78.6628 526.3089 83.0041 525.3442 104.068 529.6856 113.2331 530.3287 123.6846 513.9279 125.7749 508.6217 101.4953 505.5667 98.9226 480.8047 100.5305 472.1219 83.9689 470.1924 75.2861 480.1615 59.0461 480.4831 52.936 499.4566 42.1629 511.9984 41.1981 Z" id="LY.HZ" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>LY.HZ</code_hasc>
+        <name>Al Marj</name>
+        <admin>Libya</admin>
+        <type_en>Municipality|Governarate</type_en>
+        <region/>
+        <woe_id>2346131</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Al Hizam Al Akhdar</woe_name>
+        <fips>LY48</fips>
+        <woe_label>Al Fatih, LY, Libya</woe_label>
+        <latitude>32</latitude>
+        <iso_a2>LY</iso_a2>
+        <postal>HZ</postal>
+        <type>Sha'biyat|Sha'biyah</type>
+        <id>LY.HZ</id>
+      </desc>
+    </path>
+    <path d="M 537.4036 33.6409 537.082 41.3589 540.2979 51.0065 537.7252 62.4227 540.6194 88.1495 538.2076 112.7507 546.7296 120.308 530.3287 123.6846 529.6856 113.2331 525.3442 104.068 526.3089 83.0041 524.8618 78.6628 517.6261 72.5526 513.2847 63.2267 511.516 54.3831 516.6614 48.1122 516.3398 45.0571 511.9984 41.1981 522.6107 33.1585 537.4036 33.6409 Z" id="LY.JA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>LY.JA</code_hasc>
+        <name>Al Jabal al Akhdar</name>
+        <admin>Libya</admin>
+        <type_en>Municipality|Governarate</type_en>
+        <region/>
+        <woe_id>2346132</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Al Jabal al Akhdar</woe_name>
+        <fips>LY49</fips>
+        <woe_label>Al Jabal al Akhdar, LY, Libya</woe_label>
+        <latitude>32</latitude>
+        <iso_a2>LY</iso_a2>
+        <postal>JA</postal>
+        <type>Sha'biyat|Sha'biyah</type>
+        <id>LY.JA</id>
+      </desc>
+    </path>
+    <path d="M 513.9279 125.7749 530.3287 123.6846 546.7296 120.308 552.8397 118.8609 568.5973 133.3322 583.2294 134.1361 587.0885 135.2617 594.0025 262.7701 676.6499 260.0366 680.0265 311.0078 547.2119 319.8514 427.9039 322.9065 426.7784 258.4287 397.9965 251.3538 398.1573 219.3561 400.8908 209.387 405.7146 202.1513 408.9304 160.8277 416.4877 165.1691 424.0449 165.6515 443.6616 157.7726 460.7056 137.9952 465.047 126.9005 464.5646 118.3785 464.0822 116.6098 470.9963 117.7353 476.1417 124.4886 483.6989 128.1868 513.9279 125.7749 Z" id="LY.AJ" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>6</labelrank>
+        <code_hasc>LY.AJ</code_hasc>
+        <name>Ajdabiya</name>
+        <admin>Libya</admin>
+        <type_en>Municipality|Governarate</type_en>
+        <region/>
+        <woe_id>2346130</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Ajdabiya</woe_name>
+        <fips>LY47</fips>
+        <woe_label>Ajdabiya, LY, Libya</woe_label>
+        <latitude>29</latitude>
+        <iso_a2>LY</iso_a2>
+        <postal>AJ</postal>
+        <type>Sha'biyat|Sha'biyah</type>
+        <id>LY.AJ</id>
+      </desc>
+    </path>
+    <path d="M 513.9279 125.7749 483.6989 128.1868 476.1417 124.4886 470.9963 117.7353 464.0822 116.6098 464.5646 118.3785 456.3642 102.2992 455.2387 83.0041 460.2232 72.3918 480.4831 52.936 480.1615 59.0461 470.1924 75.2861 472.1219 83.9689 480.8047 100.5305 505.5667 98.9226 508.6217 101.4953 513.9279 125.7749 Z" id="LY.BA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>LY.BA</code_hasc>
+        <name>Benghazi</name>
+        <admin>Libya</admin>
+        <type_en>Municipality|Governarate</type_en>
+        <region/>
+        <woe_id>2346137</woe_id>
+        <longitude>20</longitude>
+        <woe_name>Benghazi</woe_name>
+        <fips>LY54</fips>
+        <woe_label>Banghazi, LY, Libya</woe_label>
+        <latitude>31</latitude>
+        <iso_a2>LY</iso_a2>
+        <postal>BA</postal>
+        <type>Sha'biyat|Sha'biyah</type>
+        <id>LY.BA</id>
+      </desc>
+    </path>
+    <path d="M 408.9304 160.8277 405.7146 202.1513 400.8908 209.387 398.1573 219.3561 397.9965 251.3538 386.2587 248.9419 375.8072 240.4199 372.109 228.3605 358.4416 208.583 355.3865 208.583 348.1509 214.05 337.6994 210.9949 333.1972 206.9751 309.2391 207.9399 314.0629 197.006 297.1797 128.5084 298.1444 118.2177 322.5849 120.1472 349.1156 126.7397 383.0428 141.0502 403.1419 158.4158 408.9304 160.8277 Z" id="LY.SR" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>LY.SR</code_hasc>
+        <name>Surt</name>
+        <admin>Libya</admin>
+        <type_en>Municipality|Governarate</type_en>
+        <region/>
+        <woe_id>2346143</woe_id>
+        <longitude>17</longitude>
+        <woe_name>Surt</woe_name>
+        <fips>LY60</fips>
+        <woe_label>Surt, LY, Libya</woe_label>
+        <latitude>30</latitude>
+        <iso_a2>LY</iso_a2>
+        <postal>SR</postal>
+        <type>Sha'biyat|Sha'biyah</type>
+        <id>LY.SR</id>
+      </desc>
+    </path>
+    <path d="M 591.1083 64.6738 586.7669 82.8434 585.6413 99.2442 582.4255 104.7111 583.2294 134.1361 568.5973 133.3322 552.8397 118.8609 546.7296 120.308 538.2076 112.7507 540.6194 88.1495 537.7252 62.4227 540.2979 51.0065 537.082 41.3589 537.4036 33.6409 543.9961 31.7114 546.5688 34.4448 584.0334 44.5748 586.2845 52.2928 583.8726 59.3677 591.1083 64.6738 Z" id="LY.QB" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>LY.QB</code_hasc>
+        <name>Al Qubbah</name>
+        <admin>Libya</admin>
+        <type_en>Municipality|Governarate</type_en>
+        <region/>
+        <woe_id>2346138</woe_id>
+        <longitude>22</longitude>
+        <woe_name>Al Qubbah</woe_name>
+        <fips>LY55</fips>
+        <woe_label>Darnah, LY, Libya</woe_label>
+        <latitude>31</latitude>
+        <iso_a2>LY</iso_a2>
+        <postal>QB</postal>
+        <type>Sha'biyat|Sha'biyah</type>
+        <id>LY.QB</id>
+      </desc>
+    </path>
+    <path d="M 676.6499 260.0366 594.0025 262.7701 587.0885 135.2617 583.2294 134.1361 582.4255 104.7111 585.6413 99.2442 586.7669 82.8434 591.1083 64.6738 593.8417 67.0857 593.1986 64.1914 615.7095 66.4425 626.4826 72.7134 645.2953 72.2311 653.0134 69.6584 663.4649 72.0703 671.8261 86.22 660.0882 102.46 662.6609 117.4137 668.2886 129.4732 665.5552 143.6229 657.3548 159.5413 672.63 204.5632 676.6499 260.0366 Z" id="LY.BU" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>LY.BU</code_hasc>
+        <name>Al Butnan</name>
+        <admin>Libya</admin>
+        <type_en>Municipality|Governarate</type_en>
+        <region/>
+        <woe_id>2346128</woe_id>
+        <longitude>24</longitude>
+        <woe_name>Al Butnan</woe_name>
+        <fips>LY42</fips>
+        <woe_label>Tsubruq, LY, Libya</woe_label>
+        <latitude>30</latitude>
+        <iso_a2>LY</iso_a2>
+        <postal>BU</postal>
+        <type>Sha'biyat|Sha'biyah</type>
+        <id>LY.BU</id>
+      </desc>
+    </path>
+    <path d="M 203.4377 316.6356 206.0104 323.5496 205.528 329.8205 210.0302 338.8249 202.1513 348.7941 200.3826 359.2456 180.4444 364.8733 167.9026 376.2896 157.451 376.7719 142.3366 383.0428 130.9203 382.0781 121.5943 389.3138 108.4094 390.1177 96.9931 384.6508 88.1495 389.153 84.4513 379.5054 88.4711 356.8337 161.6317 309.5607 169.3497 307.792 203.4377 316.6356 Z" id="LY.6949" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>LY.GT</code_hasc>
+        <name>Wadi al Hayaa</name>
+        <admin>Libya</admin>
+        <type_en>Municipality|Governarate</type_en>
+        <region/>
+        <woe_id>-2346135</woe_id>
+        <longitude>12</longitude>
+        <woe_name/>
+        <fips/>
+        <woe_label/>
+        <latitude>26</latitude>
+        <iso_a2>LY</iso_a2>
+        <postal>WH</postal>
+        <type>Sha'biyat|Sha'biyah</type>
+        <id>LY.6949</id>
+      </desc>
+    </path>
+  </g>
+</svg>

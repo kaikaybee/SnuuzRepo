@@ -2,6 +2,7 @@ SnuuzFiles/*.iml
 SnuuzFiles/.gradle
 SnuuzFiles/local.properties
 SnuuzFiles/.idea/workspace.xml
+SnuuzFiles/.idea/cache/*
 SnuuzFiles/AnyChart/.idea/workspace.xml
 SnuuzFiles/.idea/.name
 SnuuzFiles/.DS_Store

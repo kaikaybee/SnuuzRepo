@@ -25,25 +25,25 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
-    Button buttonStartSetDialog;
-    Button buttonCancelAlarm;
-    TextView textAlarmPrompt;
+            Button buttonStartSetDialog;
+            Button buttonCancelAlarm;
+            TextView textAlarmPrompt;
 
-    TimePickerDialog timePickerDialog;
+            TimePickerDialog timePickerDialog;
 
-    MyDB db;
-    String date;
-    String wake_up;
-    String sleep;
+            MyDB db;
+            String date;
+            String wake_up;
+            String sleep;
 
 
-    @Override
-    public void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+            @Override
+            public void onCreate(Bundle savedInstanceState) {
+                super.onCreate(savedInstanceState);
+                setContentView(R.layout.activity_main);
 
-        //Creates database
-        db = new MyDB(this, "Sleep_Tracker", null, 1);
+                //Creates database
+                db = new MyDB(this, "Sleep_Tracker", null, 1);
 
 
         //Sets custom Toolbar to replace built-in actionBar

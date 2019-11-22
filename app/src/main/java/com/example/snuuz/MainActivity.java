@@ -19,11 +19,7 @@ import android.widget.TextView;
 import android.widget.TimePicker;
 
 import android.widget.Toast;
-import android.widget.PopupWindow;
-import android.view.LayoutInflater;
-import android.view.MotionEvent;
-import android.view.Gravity;
-import android.widget.LinearLayout;
+
 import android.content.Intent;
 import android.app.AlarmManager;
 import android.app.PendingIntent;
@@ -34,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
 
     Button buttonCancelAlarm;
     TextView textAlarmPrompt;
-    Button PopupBtn;
+
 
     AlarmManager alarm;
     PendingIntent alarmIntent;
@@ -53,36 +49,8 @@ public class MainActivity extends AppCompatActivity {
         setSupportActionBar(myToolbar);
 
         //Brian's code - please comment
-        //Pop up window testing
-        PopupBtn = findViewById((R.id.popupBtn));
-        PopupBtn.setOnClickListener(new OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                // inflate the layout of the popup window
-                LayoutInflater inflater = (LayoutInflater)
-                        getSystemService(LAYOUT_INFLATER_SERVICE);
-                View popupView = inflater.inflate(R.layout.pop_up, null);
 
-                // create the popup window
-                int width = LinearLayout.LayoutParams.WRAP_CONTENT;
-                int height = LinearLayout.LayoutParams.WRAP_CONTENT;
-                boolean focusable = true; // lets taps outside the popup also dismiss it
-                final PopupWindow popupWindow = new PopupWindow(popupView, width, height, focusable);
 
-                // show the popup window
-                // which view you pass in doesn't matter, it is only used for the window tolken
-                popupWindow.showAtLocation(v, Gravity.CENTER, 0, 0);
-
-                // dismiss the popup window when touched
-                popupView.setOnTouchListener(new View.OnTouchListener() {
-                    @Override
-                    public boolean onTouch(View v, MotionEvent event) {
-                        popupWindow.dismiss();
-                        return true;
-                    }
-                });
-            }
-        });
         //dialog for setting alarm
         textAlarmPrompt = findViewById(R.id.alarm_prompt);
         buttonStartSetDialog = findViewById(R.id.startSetDialog);
@@ -193,7 +161,7 @@ public class MainActivity extends AppCompatActivity {
             outputWriter.close();
 
             //display file saved message for testing
-            Toast.makeText(getBaseContext(), "File saved successfully!",
+            Toast.makeText(getBaseContext(), "Sleep time saved successfully!",
                     Toast.LENGTH_SHORT).show();
 
         } catch (Exception e) {

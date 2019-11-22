@@ -7,5 +7,16 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:text="Wake Up"/>
+    <EditText
+        android:id="@+id/editTime"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Enter wake up time"/>
+    <Button
+        android:id="@+id/wake_up_timeDialog"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Dismiss and enter wake up time"/>
+
 
 </LinearLayout>

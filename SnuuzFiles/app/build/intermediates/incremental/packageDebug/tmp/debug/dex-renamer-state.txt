@@ -1,0 +1,4 @@
+#Thu Nov 21 16:27:08 PST 2019
+base.0=/Users/OMERTA1/StudioProjects/SnuuzRepo/SnuuzFiles/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

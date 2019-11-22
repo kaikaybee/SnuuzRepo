@@ -1,0 +1,59 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.snuuz"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->/Users/OMERTA1/StudioProjects/SnuuzRepo/SnuuzFiles/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/Users/OMERTA1/StudioProjects/SnuuzRepo/SnuuzFiles/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.WAKE_LOCK" />
+11-->/Users/OMERTA1/StudioProjects/SnuuzRepo/SnuuzFiles/app/src/main/AndroidManifest.xml:6:5-68
+11-->/Users/OMERTA1/StudioProjects/SnuuzRepo/SnuuzFiles/app/src/main/AndroidManifest.xml:6:22-65
+12
+13    <application
+13-->/Users/OMERTA1/StudioProjects/SnuuzRepo/SnuuzFiles/app/src/main/AndroidManifest.xml:8:5-27:19
+14        android:allowBackup="false"
+14-->/Users/OMERTA1/StudioProjects/SnuuzRepo/SnuuzFiles/app/src/main/AndroidManifest.xml:9:9-36
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.1.0] /Users/OMERTA1/.gradle/caches/transforms-2/files-2.1/7f6c41cc2a14c0fbaa8d0166c17dc544/core-1.1.0/AndroidManifest.xml:24:18-86
+16        android:debuggable="true"
+17        android:icon="@mipmap/ic_launcher"
+17-->/Users/OMERTA1/StudioProjects/SnuuzRepo/SnuuzFiles/app/src/main/AndroidManifest.xml:10:9-43
+18        android:label="@string/app_name"
+18-->/Users/OMERTA1/StudioProjects/SnuuzRepo/SnuuzFiles/app/src/main/AndroidManifest.xml:11:9-41
+19        android:roundIcon="@mipmap/ic_launcher_round"
+19-->/Users/OMERTA1/StudioProjects/SnuuzRepo/SnuuzFiles/app/src/main/AndroidManifest.xml:12:9-54
+20        android:supportsRtl="true"
+20-->/Users/OMERTA1/StudioProjects/SnuuzRepo/SnuuzFiles/app/src/main/AndroidManifest.xml:13:9-35
+21        android:testOnly="true"
+22        android:theme="@style/Theme1" >
+22-->/Users/OMERTA1/StudioProjects/SnuuzRepo/SnuuzFiles/app/src/main/AndroidManifest.xml:14:9-38
+23        <activity android:name="com.example.snuuz.MainActivity" >
+23-->/Users/OMERTA1/StudioProjects/SnuuzRepo/SnuuzFiles/app/src/main/AndroidManifest.xml:16:9-22:20
+23-->/Users/OMERTA1/StudioProjects/SnuuzRepo/SnuuzFiles/app/src/main/AndroidManifest.xml:16:19-47
+24            <intent-filter>
+24-->/Users/OMERTA1/StudioProjects/SnuuzRepo/SnuuzFiles/app/src/main/AndroidManifest.xml:17:13-21:29
+25                <action android:name="android.intent.action.MAIN" />
+25-->/Users/OMERTA1/StudioProjects/SnuuzRepo/SnuuzFiles/app/src/main/AndroidManifest.xml:18:17-69
+25-->/Users/OMERTA1/StudioProjects/SnuuzRepo/SnuuzFiles/app/src/main/AndroidManifest.xml:18:25-66
+26
+27                <category android:name="android.intent.category.LAUNCHER" />
+27-->/Users/OMERTA1/StudioProjects/SnuuzRepo/SnuuzFiles/app/src/main/AndroidManifest.xml:20:17-77
+27-->/Users/OMERTA1/StudioProjects/SnuuzRepo/SnuuzFiles/app/src/main/AndroidManifest.xml:20:27-74
+28            </intent-filter>
+29        </activity>
+30        <activity android:name="com.example.snuuz.SettingsActivity" >
+30-->/Users/OMERTA1/StudioProjects/SnuuzRepo/SnuuzFiles/app/src/main/AndroidManifest.xml:23:9-24:20
+30-->/Users/OMERTA1/StudioProjects/SnuuzRepo/SnuuzFiles/app/src/main/AndroidManifest.xml:23:19-51
+31        </activity>
+32        <activity android:name="com.example.snuuz.HistoryActivity" >
+32-->/Users/OMERTA1/StudioProjects/SnuuzRepo/SnuuzFiles/app/src/main/AndroidManifest.xml:25:9-26:20
+32-->/Users/OMERTA1/StudioProjects/SnuuzRepo/SnuuzFiles/app/src/main/AndroidManifest.xml:25:19-50
+33        </activity>
+34    </application>
+35
+36</manifest>

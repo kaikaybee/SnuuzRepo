@@ -1,0 +1,905 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="burkina_faso">
+    <path d="M 596.801 394.2233 599.9021 407.1667 614.3286 417.5484 606.9131 425.5032 606.2389 432.5142 601.2503 429.9525 600.8459 436.1545 590.8686 432.9187 589.1159 435.2107 591.2731 443.7048 582.779 445.9969 587.498 456.1089 575.6332 451.5248 574.1501 461.0975 548.6678 460.1538 532.2189 465.2772 532.2189 459.0751 522.1068 457.0527 526.8258 448.0193 532.084 452.0641 537.7468 440.6038 535.8592 430.4918 539.4995 424.8291 535.0502 400.1557 549.7464 393.0099 551.9036 386.5381 564.3077 376.6958 585.4756 383.9764 591.0035 392.3357 596.801 394.2233 Z" id="BF.KP" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>BF.KP</code_hasc>
+        <name>Kompienga</name>
+        <admin>Burkina Faso</admin>
+        <type_en>Province</type_en>
+        <region>Est</region>
+        <woe_id>55967354</woe_id>
+        <longitude>0</longitude>
+        <woe_name>Kompienga</woe_name>
+        <fips>UV22</fips>
+        <woe_label/>
+        <latitude>11</latitude>
+        <iso_a2>BF</iso_a2>
+        <postal>KP</postal>
+        <type>Province</type>
+        <id>BF.KP</id>
+      </desc>
+    </path>
+    <path d="M 596.801 394.2233 591.0035 392.3357 585.4756 383.9764 564.3077 376.6958 551.9036 386.5381 549.7464 393.0099 535.0502 400.1557 526.0168 399.886 503.5007 390.1785 492.7145 392.6054 489.4787 384.2461 478.4228 377.3699 480.7149 366.0444 490.6921 361.4603 480.4452 349.7303 488.5349 340.9666 509.9724 336.6521 518.3317 330.1804 529.6571 323.8435 539.904 330.3152 547.3195 341.2362 560.2629 327.4839 564.847 316.428 576.3073 309.1474 584.3969 310.3608 588.9811 301.8667 598.8234 299.5747 599.2279 309.0126 593.1607 326.6749 593.5652 348.3821 605.1603 359.0334 602.329 382.763 596.801 394.2233 Z" id="BF.GM" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>BF.GM</code_hasc>
+        <name>Gourma</name>
+        <admin>Burkina Faso</admin>
+        <type_en>Province</type_en>
+        <region>Est</region>
+        <woe_id>2347617</woe_id>
+        <longitude>0</longitude>
+        <woe_name>Gourma</woe_name>
+        <fips>UV22</fips>
+        <woe_label>Gourma, BF, Burkina Faso</woe_label>
+        <latitude>12</latitude>
+        <iso_a2>BF</iso_a2>
+        <postal>GM</postal>
+        <type>Province</type>
+        <id>BF.GM</id>
+      </desc>
+    </path>
+    <path d="M 137.8495 377.6396 140.6809 384.9202 136.9057 403.9308 145.6695 426.9863 149.3098 428.8739 146.8829 446.2666 153.4895 447.7497 167.5115 462.8503 172.3653 463.5244 160.096 476.4678 154.8377 477.0071 143.5123 488.7371 127.8723 480.7823 111.2886 487.6585 100.2328 482.6699 93.0869 472.5579 75.5594 480.6475 65.717 472.1534 68.9529 461.2324 78.9301 454.2214 66.3912 439.9297 69.3573 428.1997 77.8515 420.6494 82.8401 423.4808 87.8287 414.1777 84.0535 399.4816 77.0425 397.7288 80.9525 392.7402 80.1435 372.7858 71.7842 367.932 78.7952 364.9658 95.2442 365.7748 94.8397 371.1679 98.2104 372.7858 92.9521 392.7402 94.8397 396.5154 108.9965 394.4929 117.6255 378.1789 137.8495 377.6396 Z" id="BF.HO" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>BF.HO</code_hasc>
+        <name>Houet</name>
+        <admin>Burkina Faso</admin>
+        <type_en>Province</type_en>
+        <region>Hauts-Bassins</region>
+        <woe_id>2347618</woe_id>
+        <longitude>-4</longitude>
+        <woe_name>Houet</woe_name>
+        <fips>UV51</fips>
+        <woe_label>Houet, BF, Burkina Faso</woe_label>
+        <latitude>11</latitude>
+        <iso_a2>BF</iso_a2>
+        <postal>HO</postal>
+        <type>Province</type>
+        <id>BF.HO</id>
+      </desc>
+    </path>
+    <path d="M 65.717 472.1534 50.6164 470.5354 41.9874 475.524 30.9316 477.4116 14.2131 457.9965 3.0224 455.8393 4.3707 452.8731 18.2579 449.3676 24.5947 437.7725 24.5947 425.5032 28.6396 422.6718 27.2913 408.9195 20.8196 405.1443 22.7072 392.4705 11.7862 386.1337 23.9206 385.4595 40.3695 372.9206 65.1777 371.5723 71.7842 367.932 80.1435 372.7858 80.9525 392.7402 77.0425 397.7288 84.0535 399.4816 87.8287 414.1777 82.8401 423.4808 77.8515 420.6494 69.3573 428.1997 66.3912 439.9297 78.9301 454.2214 68.9529 461.2324 65.717 472.1534 Z" id="BF.KN" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>BF.KN</code_hasc>
+        <name>Kénédougou</name>
+        <admin>Burkina Faso</admin>
+        <type_en>Province</type_en>
+        <region>Hauts-Bassins</region>
+        <woe_id>2347620</woe_id>
+        <longitude>-5</longitude>
+        <woe_name>Kénédougou</woe_name>
+        <fips>UV54</fips>
+        <woe_label>Kenedougou, BF, Burkina Faso</woe_label>
+        <latitude>11</latitude>
+        <iso_a2>BF</iso_a2>
+        <postal>KN</postal>
+        <type>Province</type>
+        <id>BF.KN</id>
+      </desc>
+    </path>
+    <path d="M 114.9289 306.316 122.7489 310.9001 120.8613 322.7649 128.5465 337.3263 135.5575 335.7083 144.1864 323.3042 163.0622 323.9784 174.6573 328.6973 173.4439 335.8432 167.5115 333.5511 163.0622 335.8432 156.995 346.899 152.6805 348.3821 151.8715 358.3593 137.8495 377.6396 117.6255 378.1789 108.9965 394.4929 94.8397 396.5154 92.9521 392.7402 98.2104 372.7858 94.8397 371.1679 95.2442 365.7748 78.7952 364.9658 87.0197 357.9548 84.7276 353.7752 93.3566 342.7193 100.6372 343.9328 96.7273 332.4725 102.39 323.7087 94.0307 313.5967 93.8959 307.5295 114.9289 306.316 Z" id="BF.BW" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>BF.BW</code_hasc>
+        <name>Banwa</name>
+        <admin>Burkina Faso</admin>
+        <type_en>Province</type_en>
+        <region>Boucle du Mouhoun</region>
+        <woe_id>55967360</woe_id>
+        <longitude>-4</longitude>
+        <woe_name>Banwa</woe_name>
+        <fips>UV58</fips>
+        <woe_label/>
+        <latitude>12</latitude>
+        <iso_a2>BF</iso_a2>
+        <postal>BW</postal>
+        <type>Province</type>
+        <id>BF.BW</id>
+      </desc>
+    </path>
+    <path d="M 182.6121 267.351 183.6907 296.4736 186.7918 301.4622 186.5221 304.6981 176.6797 308.8777 179.1066 311.4394 174.6573 328.6973 163.0622 323.9784 144.1864 323.3042 135.5575 335.7083 128.5465 337.3263 120.8613 322.7649 122.7489 310.9001 114.9289 306.316 117.0862 289.193 105.7607 271.5306 107.9179 267.0813 116.0075 266.4072 114.3896 261.6882 138.6585 241.0597 138.3888 237.689 143.9167 242.0035 139.1978 247.6662 154.2984 251.3065 171.826 264.5196 182.6121 267.351 Z" id="BF.KS" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>BF.KS</code_hasc>
+        <name>Kossi</name>
+        <admin>Burkina Faso</admin>
+        <type_en>Province</type_en>
+        <region>Boucle du Mouhoun</region>
+        <woe_id>2347622</woe_id>
+        <longitude>-3</longitude>
+        <woe_name>Kossi</woe_name>
+        <fips>UV58</fips>
+        <woe_label>Kossi, BF, Burkina Faso</woe_label>
+        <latitude>12</latitude>
+        <iso_a2>BF</iso_a2>
+        <postal>KS</postal>
+        <type>Province</type>
+        <id>BF.KS</id>
+      </desc>
+    </path>
+    <path d="M 231.2847 366.9882 236.0037 371.033 234.7902 378.044 238.9699 382.3585 231.6892 391.3919 244.0933 393.8188 252.3178 406.6274 253.5312 414.9867 266.0701 426.3121 257.3064 432.2445 246.7898 432.1097 241.3968 440.1993 234.9251 438.7162 236.543 435.3456 237.4868 413.5036 219.6896 409.8632 199.7352 419.9753 196.9038 412.2901 187.1963 407.4364 189.2187 400.4253 172.5001 393.4143 171.826 384.2461 180.5897 378.4485 180.9942 373.7296 192.7242 372.7858 200.1397 381.8192 206.881 380.0664 212.2741 382.8978 215.9144 381.5495 214.9706 377.2351 208.2293 374.5385 204.1845 364.4265 218.8806 363.8872 225.3523 369.1455 231.2847 366.9882 Z" id="BF.BA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>BF.BA</code_hasc>
+        <name>Balé</name>
+        <admin>Burkina Faso</admin>
+        <type_en>Province</type_en>
+        <region>Boucle du Mouhoun</region>
+        <woe_id>55967358</woe_id>
+        <longitude>-3</longitude>
+        <woe_name>Balé</woe_name>
+        <fips>UV63</fips>
+        <woe_label>BalÃ©, BF, Burkina Faso</woe_label>
+        <latitude>11</latitude>
+        <iso_a2>BF</iso_a2>
+        <postal>BA</postal>
+        <type>Province</type>
+        <id>BF.BA</id>
+      </desc>
+    </path>
+    <path d="M 238.1609 338.9442 233.9813 346.899 242.3405 361.9996 240.9923 366.0444 233.3071 362.5389 231.2847 366.9882 225.3523 369.1455 218.8806 363.8872 204.1845 364.4265 208.2293 374.5385 214.9706 377.2351 215.9144 381.5495 212.2741 382.8978 206.881 380.0664 200.1397 381.8192 192.7242 372.7858 180.9942 373.7296 180.5897 378.4485 171.826 384.2461 172.5001 393.4143 156.0512 396.3805 140.6809 384.9202 137.8495 377.6396 151.8715 358.3593 152.6805 348.3821 156.995 346.899 163.0622 335.8432 167.5115 333.5511 173.4439 335.8432 174.6573 328.6973 179.1066 311.4394 176.6797 308.8777 186.5221 304.6981 192.1849 315.0798 201.4879 310.4957 202.2969 324.3828 210.1169 326.2704 216.7234 335.0342 227.914 340.6969 234.1161 336.6521 238.1609 338.9442 Z" id="BF.MO" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>BF.MO</code_hasc>
+        <name>Mou Houn</name>
+        <admin>Burkina Faso</admin>
+        <type_en>Province</type_en>
+        <region>Boucle du Mouhoun</region>
+        <woe_id>2347624</woe_id>
+        <longitude>-3</longitude>
+        <woe_name>Mou Houn</woe_name>
+        <fips>UV63</fips>
+        <woe_label>Mouhoun, BF, Burkina Faso</woe_label>
+        <latitude>12</latitude>
+        <iso_a2>BF</iso_a2>
+        <postal>MO</postal>
+        <type>Province</type>
+        <id>BF.MO</id>
+      </desc>
+    </path>
+    <path d="M 503.0962 152.2086 485.7035 174.8596 464.1312 174.3203 436.3568 179.174 432.312 176.3427 430.1547 162.9948 417.0765 148.4335 408.3127 132.2542 394.2907 119.176 419.2337 96.525 444.0419 95.3116 447.8171 102.1878 458.7381 97.334 470.1984 97.7385 503.9052 109.6032 501.0738 117.8277 504.3096 125.7825 498.6469 142.3662 503.0962 152.2086 Z" id="BF.OD" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>BF.OD</code_hasc>
+        <name>Oudalan</name>
+        <admin>Burkina Faso</admin>
+        <type_en>Province</type_en>
+        <region>Sahel</region>
+        <woe_id>2347628</woe_id>
+        <longitude>0</longitude>
+        <woe_name>Oudalan</woe_name>
+        <fips>UV33</fips>
+        <woe_label>Oudalan, BF, Burkina Faso</woe_label>
+        <latitude>14</latitude>
+        <iso_a2>BF</iso_a2>
+        <postal>OD</postal>
+        <type>Province</type>
+        <id>BF.OD</id>
+      </desc>
+    </path>
+    <path d="M 436.3568 179.174 436.0871 191.1737 429.8851 194.6792 411.6834 205.4653 369.7522 215.847 357.4829 211.2629 352.0898 201.4205 337.933 208.2967 333.6185 216.9256 322.6975 201.9598 323.2368 193.3309 303.9565 178.6347 309.2148 175.1292 311.5069 150.8603 337.5285 148.4335 367.5949 128.6139 394.2907 119.176 408.3127 132.2542 417.0765 148.4335 430.1547 162.9948 432.312 176.3427 436.3568 179.174 Z" id="BF.SM" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>BF.SM</code_hasc>
+        <name>Soum</name>
+        <admin>Burkina Faso</admin>
+        <type_en>Province</type_en>
+        <region>Sahel</region>
+        <woe_id>2347635</woe_id>
+        <longitude>-1</longitude>
+        <woe_name>Soum</woe_name>
+        <fips>UV40</fips>
+        <woe_label>Soum, BF, Burkina Faso</woe_label>
+        <latitude>14</latitude>
+        <iso_a2>BF</iso_a2>
+        <postal>SM</postal>
+        <type>Province</type>
+        <id>BF.SM</id>
+      </desc>
+    </path>
+    <path d="M 251.2391 288.9233 249.4864 299.5747 255.9581 305.9115 246.2505 316.1584 248.6774 326.0008 238.1609 338.9442 234.1161 336.6521 227.914 340.6969 216.7234 335.0342 210.1169 326.2704 202.2969 324.3828 201.4879 310.4957 192.1849 315.0798 186.5221 304.6981 186.7918 301.4622 197.9824 285.6875 207.4203 282.4516 211.3303 287.1706 226.7006 286.4964 236.543 291.6199 251.2391 288.9233 Z" id="BF.NY" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>BF.NY</code_hasc>
+        <name>Nayala</name>
+        <admin>Burkina Faso</admin>
+        <type_en>Province</type_en>
+        <region>Boucle du Mouhoun</region>
+        <woe_id>55967361</woe_id>
+        <longitude>-3</longitude>
+        <woe_name>Nayala</woe_name>
+        <fips>UV73</fips>
+        <woe_label/>
+        <latitude>12</latitude>
+        <iso_a2>BF</iso_a2>
+        <postal>NY</postal>
+        <type>Province</type>
+        <id>BF.NY</id>
+      </desc>
+    </path>
+    <path d="M 230.2061 225.4197 236.4082 232.5656 255.5536 241.4642 260.0029 256.1603 272.9463 259.8007 263.6432 274.2272 251.9133 274.7665 251.6436 285.0133 251.2391 288.9233 236.543 291.6199 226.7006 286.4964 211.3303 287.1706 207.4203 282.4516 197.9824 285.6875 186.7918 301.4622 183.6907 296.4736 182.6121 267.351 185.7132 265.8679 184.9042 258.5872 202.4317 256.2952 200.8138 218.2739 213.2179 221.9142 218.2065 228.2511 230.2061 225.4197 Z" id="BF.SR" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>BF.SR</code_hasc>
+        <name>Sourou</name>
+        <admin>Burkina Faso</admin>
+        <type_en>Province</type_en>
+        <region>Boucle du Mouhoun</region>
+        <woe_id>2347636</woe_id>
+        <longitude>-2</longitude>
+        <woe_name>Sourou</woe_name>
+        <fips>UV73</fips>
+        <woe_label>Sourou, BF, Burkina Faso</woe_label>
+        <latitude>13</latitude>
+        <iso_a2>BF</iso_a2>
+        <postal>SR</postal>
+        <type>Province</type>
+        <id>BF.SR</id>
+      </desc>
+    </path>
+    <path d="M 369.7522 215.847 373.6622 223.8018 367.7298 244.1607 374.8756 256.2952 373.1229 269.7779 356.5391 272.2048 353.5729 275.0361 355.3257 282.5864 342.9216 279.4854 334.2926 271.261 336.1802 264.1151 325.6637 251.711 322.1582 233.779 323.102 228.1163 334.9668 221.2401 333.6185 216.9256 337.933 208.2967 352.0898 201.4205 357.4829 211.2629 369.7522 215.847 Z" id="BF.BM" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>BF.BM</code_hasc>
+        <name>Bam</name>
+        <admin>Burkina Faso</admin>
+        <type_en>Province</type_en>
+        <region>Centre-Nord</region>
+        <woe_id>2347610</woe_id>
+        <longitude>-1</longitude>
+        <woe_name>Bam</woe_name>
+        <fips>UV15</fips>
+        <woe_label>Bam, BF, Burkina Faso</woe_label>
+        <latitude>13</latitude>
+        <iso_a2>BF</iso_a2>
+        <postal>BM</postal>
+        <type>Province</type>
+        <id>BF.BM</id>
+      </desc>
+    </path>
+    <path d="M 317.0348 311.035 318.6527 316.0236 328.8996 321.5515 330.3827 329.2366 323.2368 332.6073 313.2596 330.3152 305.17 345.0114 309.6193 347.7079 327.6861 340.9666 330.113 350.1348 323.5065 358.6289 315.6865 362.4041 308.4058 373.1903 291.0131 379.7968 289.7997 380.4709 291.0131 374.8082 281.7101 377.1003 269.7105 368.2017 274.1597 361.9996 270.2498 357.82 277.2608 351.6179 274.6991 333.5511 289.1256 323.9784 292.3614 316.9674 287.238 318.8549 284.6763 313.7315 306.7879 308.3384 317.0348 311.035 Z" id="BF.BK" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>BF.BK</code_hasc>
+        <name>Boulkiemdé</name>
+        <admin>Burkina Faso</admin>
+        <type_en>Province</type_en>
+        <region>Centre-Ouest</region>
+        <woe_id>2347614</woe_id>
+        <longitude>-2</longitude>
+        <woe_name>Boulkiemdé</woe_name>
+        <fips>UV19</fips>
+        <woe_label>Boulkiemde, BF, Burkina Faso</woe_label>
+        <latitude>12</latitude>
+        <iso_a2>BF</iso_a2>
+        <postal>BK</postal>
+        <type>Province</type>
+        <id>BF.BK</id>
+      </desc>
+    </path>
+    <path d="M 347.3709 311.3046 345.2136 318.4505 336.4499 321.147 339.9554 335.978 327.6861 340.9666 309.6193 347.7079 305.17 345.0114 313.2596 330.3152 323.2368 332.6073 330.3827 329.2366 328.8996 321.5515 318.6527 316.0236 317.0348 311.035 317.0348 300.3836 324.0458 293.7771 335.3713 290.9457 341.1688 294.1816 342.6519 305.5071 347.3709 311.3046 Z" id="BF.KW" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>BF.KW</code_hasc>
+        <name>Kourwéogo</name>
+        <admin>Burkina Faso</admin>
+        <type_en>Province</type_en>
+        <region>Plateau-Central</region>
+        <woe_id>55967365</woe_id>
+        <longitude>-1</longitude>
+        <woe_name>Kourwéogo</woe_name>
+        <fips>UV53</fips>
+        <woe_label>KourwÃ©ogo, BF, Burkina Faso</woe_label>
+        <latitude>12</latitude>
+        <iso_a2>BF</iso_a2>
+        <postal>KW</postal>
+        <type>Province</type>
+        <id>BF.KW</id>
+      </desc>
+    </path>
+    <path d="M 394.4255 354.7189 410.0655 381.2799 389.1673 379.2575 380.2687 386.2685 369.7522 408.515 344.2698 391.7964 330.6523 378.044 314.8775 380.0664 308.4058 373.1903 315.6865 362.4041 323.5065 358.6289 337.124 366.3141 354.6515 354.1796 360.9884 355.1234 363.8198 361.5951 394.4255 354.7189 Z" id="BF.BZ" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>BF.BZ</code_hasc>
+        <name>Bazéga</name>
+        <admin>Burkina Faso</admin>
+        <type_en>Province</type_en>
+        <region>Centre-Sud</region>
+        <woe_id>2347611</woe_id>
+        <longitude>-1</longitude>
+        <woe_name>Bazéga</woe_name>
+        <fips>UV47</fips>
+        <woe_label>Bazega, BF, Burkina Faso</woe_label>
+        <latitude>11</latitude>
+        <iso_a2>BF</iso_a2>
+        <postal>BZ</postal>
+        <type>Province</type>
+        <id>BF.BZ</id>
+      </desc>
+    </path>
+    <path d="M 391.3245 347.9776 394.4255 354.7189 363.8198 361.5951 360.9884 355.1234 354.6515 354.1796 337.124 366.3141 323.5065 358.6289 330.113 350.1348 327.6861 340.9666 339.9554 335.978 336.4499 321.147 345.2136 318.4505 347.3709 311.3046 350.7415 315.7539 350.0674 323.1694 357.2133 320.8773 359.9098 323.8435 358.2919 330.3152 375.9542 327.7535 376.089 341.3711 391.3245 347.9776 Z" id="BF.KA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>BF.KA</code_hasc>
+        <name>Kadiogo</name>
+        <admin>Burkina Faso</admin>
+        <type_en>Province</type_en>
+        <region>Centre</region>
+        <woe_id>2347619</woe_id>
+        <longitude>-1</longitude>
+        <woe_name>Kadiogo</woe_name>
+        <fips>UV53</fips>
+        <woe_label>Kadiogo, BF, Burkina Faso</woe_label>
+        <latitude>12</latitude>
+        <iso_a2>BF</iso_a2>
+        <postal>KA</postal>
+        <type>Province</type>
+        <id>BF.KA</id>
+      </desc>
+    </path>
+    <path d="M 351.0112 290.6761 380.4035 301.7319 387.819 309.8215 387.01 314.6753 389.7066 311.035 396.9873 311.5743 413.7058 324.1132 410.47 328.967 401.5714 324.248 392.6728 327.8884 391.3245 347.9776 376.089 341.3711 375.9542 327.7535 358.2919 330.3152 359.9098 323.8435 357.2133 320.8773 350.0674 323.1694 350.7415 315.7539 347.3709 311.3046 342.6519 305.5071 341.1688 294.1816 335.3713 290.9457 341.1688 288.5188 351.0112 290.6761 Z" id="BF.OB" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>BF.OB</code_hasc>
+        <name>Oubritenga</name>
+        <admin>Burkina Faso</admin>
+        <type_en>Province</type_en>
+        <region>Plateau-Central</region>
+        <woe_id>2347627</woe_id>
+        <longitude>-1</longitude>
+        <woe_name>Oubritenga</woe_name>
+        <fips>UV68</fips>
+        <woe_label>Oubritenga, BF, Burkina Faso</woe_label>
+        <latitude>12</latitude>
+        <iso_a2>BF</iso_a2>
+        <postal>OB</postal>
+        <type>Province</type>
+        <id>BF.OB</id>
+      </desc>
+    </path>
+    <path d="M 334.2926 271.261 342.9216 279.4854 355.3257 282.5864 351.0112 290.6761 341.1688 288.5188 335.3713 290.9457 324.0458 293.7771 317.0348 300.3836 317.0348 311.035 306.7879 308.3384 284.6763 313.7315 272.2722 316.428 275.7777 309.417 267.4184 308.7429 267.0139 299.0353 255.9581 305.9115 249.4864 299.5747 251.2391 288.9233 251.6436 285.0133 272.6766 285.0133 291.0131 274.0923 300.451 276.5192 310.1586 279.6202 318.5179 276.2496 323.102 269.5082 326.6075 273.4182 334.2926 271.261 Z" id="BF.PA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>BF.PA</code_hasc>
+        <name>Passoré</name>
+        <admin>Burkina Faso</admin>
+        <type_en>Province</type_en>
+        <region>Nord</region>
+        <woe_id>2347629</woe_id>
+        <longitude>-2</longitude>
+        <woe_name>Passoré</woe_name>
+        <fips>UV34</fips>
+        <woe_label>Passore, BF, Burkina Faso</woe_label>
+        <latitude>12</latitude>
+        <iso_a2>BF</iso_a2>
+        <postal>PA</postal>
+        <type>Province</type>
+        <id>BF.PA</id>
+      </desc>
+    </path>
+    <path d="M 300.451 276.5192 291.0131 274.0923 272.6766 285.0133 251.6436 285.0133 251.9133 274.7665 263.6432 274.2272 272.9463 259.8007 260.0029 256.1603 276.5866 247.6662 291.0131 252.52 303.8217 252.2503 305.8441 258.722 298.9679 272.3396 300.451 276.5192 Z" id="BF.ZM" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>BF.ZM</code_hasc>
+        <name>Zondoma</name>
+        <admin>Burkina Faso</admin>
+        <type_en>Province</type_en>
+        <region>Nord</region>
+        <woe_id>55967363</woe_id>
+        <longitude>-2</longitude>
+        <woe_name>Zondoma</woe_name>
+        <fips>UV34</fips>
+        <woe_label/>
+        <latitude>13</latitude>
+        <iso_a2>BF</iso_a2>
+        <postal>ZM</postal>
+        <type>Province</type>
+        <id>BF.ZM</id>
+      </desc>
+    </path>
+    <path d="M 284.6763 313.7315 287.238 318.8549 292.3614 316.9674 289.1256 323.9784 274.6991 333.5511 277.2608 351.6179 270.2498 357.82 274.1597 361.9996 269.7105 368.2017 281.7101 377.1003 291.0131 374.8082 289.7997 380.4709 267.1487 388.6954 260.0029 406.3577 252.3178 406.6274 244.0933 393.8188 231.6892 391.3919 238.9699 382.3585 234.7902 378.044 236.0037 371.033 231.2847 366.9882 233.3071 362.5389 240.9923 366.0444 242.3405 361.9996 233.9813 346.899 238.1609 338.9442 248.6774 326.0008 246.2505 316.1584 255.9581 305.9115 267.0139 299.0353 267.4184 308.7429 275.7777 309.417 272.2722 316.428 284.6763 313.7315 Z" id="BF.SG" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>BF.SG</code_hasc>
+        <name>Sanguié</name>
+        <admin>Burkina Faso</admin>
+        <type_en>Province</type_en>
+        <region>Centre-Ouest</region>
+        <woe_id>2347631</woe_id>
+        <longitude>-2</longitude>
+        <woe_name>Sanguié</woe_name>
+        <fips>UV36</fips>
+        <woe_label>Sanguie, BF, Burkina Faso</woe_label>
+        <latitude>12</latitude>
+        <iso_a2>BF</iso_a2>
+        <postal>SG</postal>
+        <type>Province</type>
+        <id>BF.SG</id>
+      </desc>
+    </path>
+    <path d="M 348.5843 431.9749 344.2698 448.1541 359.2357 453.8169 364.2243 459.4796 248.1381 462.311 256.2277 451.2552 249.3516 444.6486 242.745 448.6935 241.3968 440.1993 246.7898 432.1097 257.3064 432.2445 266.0701 426.3121 253.5312 414.9867 252.3178 406.6274 260.0029 406.3577 267.1487 388.6954 289.7997 380.4709 291.0131 379.7968 292.4962 396.1109 282.2494 396.6502 282.6539 412.2901 295.4624 415.9305 310.4282 434.6714 314.4731 434.8063 319.4617 428.8739 327.1468 434.9411 339.0116 428.0649 348.5843 431.9749 Z" id="BF.SS" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>BF.SS</code_hasc>
+        <name>Sissili</name>
+        <admin>Burkina Faso</admin>
+        <type_en>Province</type_en>
+        <region>Centre-Ouest</region>
+        <woe_id>2347634</woe_id>
+        <longitude>-2</longitude>
+        <woe_name>Sissili</woe_name>
+        <fips>UV72</fips>
+        <woe_label>Sissili, BF, Burkina Faso</woe_label>
+        <latitude>11</latitude>
+        <iso_a2>BF</iso_a2>
+        <postal>SS</postal>
+        <type>Province</type>
+        <id>BF.SS</id>
+      </desc>
+    </path>
+    <path d="M 369.7522 408.515 372.7184 412.8294 348.5843 431.9749 339.0116 428.0649 327.1468 434.9411 319.4617 428.8739 314.4731 434.8063 310.4282 434.6714 295.4624 415.9305 282.6539 412.2901 282.2494 396.6502 292.4962 396.1109 291.0131 379.7968 308.4058 373.1903 314.8775 380.0664 330.6523 378.044 344.2698 391.7964 369.7522 408.515 Z" id="BF.ZR" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>BF.ZR</code_hasc>
+        <name>Ziro</name>
+        <admin>Burkina Faso</admin>
+        <type_en>Province</type_en>
+        <region>Centre-Ouest</region>
+        <woe_id>55967356</woe_id>
+        <longitude>-1</longitude>
+        <woe_name>Ziro</woe_name>
+        <fips>UV72</fips>
+        <woe_label/>
+        <latitude>11</latitude>
+        <iso_a2>BF</iso_a2>
+        <postal>ZR</postal>
+        <type>Province</type>
+        <id>BF.ZR</id>
+      </desc>
+    </path>
+    <path d="M 303.9565 178.6347 323.2368 193.3309 322.6975 201.9598 333.6185 216.9256 334.9668 221.2401 323.102 228.1163 322.1582 233.779 301.3948 235.1273 294.1142 205.0608 287.7773 195.6229 277.6653 189.1512 261.7556 193.8702 252.3178 180.3875 271.0587 167.8486 303.9565 178.6347 Z" id="BF.LO" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>BF.LO</code_hasc>
+        <name>Loroum</name>
+        <admin>Burkina Faso</admin>
+        <type_en>Province</type_en>
+        <region>Nord</region>
+        <woe_id>55967362</woe_id>
+        <longitude>-2</longitude>
+        <woe_name>Loroum</woe_name>
+        <fips>UV15</fips>
+        <woe_label/>
+        <latitude>13</latitude>
+        <iso_a2>BF</iso_a2>
+        <postal>LO</postal>
+        <type>Province</type>
+        <id>BF.LO</id>
+      </desc>
+    </path>
+    <path d="M 322.1582 233.779 325.6637 251.711 336.1802 264.1151 334.2926 271.261 326.6075 273.4182 323.102 269.5082 318.5179 276.2496 310.1586 279.6202 300.451 276.5192 298.9679 272.3396 305.8441 258.722 303.8217 252.2503 291.0131 252.52 276.5866 247.6662 260.0029 256.1603 255.5536 241.4642 236.4082 232.5656 230.2061 225.4197 233.3071 224.2063 230.4758 210.9932 235.734 193.0612 252.3178 180.3875 261.7556 193.8702 277.6653 189.1512 287.7773 195.6229 294.1142 205.0608 301.3948 235.1273 322.1582 233.779 Z" id="BF.YT" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>BF.YT</code_hasc>
+        <name>Yatenga</name>
+        <admin>Burkina Faso</admin>
+        <type_en>Province</type_en>
+        <region>Nord</region>
+        <woe_id>2347638</woe_id>
+        <longitude>-2</longitude>
+        <woe_name>Yatenga</woe_name>
+        <fips>UV76</fips>
+        <woe_label>Yatenga, BF, Burkina Faso</woe_label>
+        <latitude>13</latitude>
+        <iso_a2>BF</iso_a2>
+        <postal>YT</postal>
+        <type>Province</type>
+        <id>BF.YT</id>
+      </desc>
+    </path>
+    <path d="M 466.6929 236.6104 460.8953 244.0259 462.1088 252.7896 454.9629 282.0471 460.4908 294.1816 469.7939 299.9791 469.2546 320.338 453.4798 328.6973 433.6602 325.5963 433.3906 317.6415 428.402 310.3608 415.863 283.2606 427.3234 282.7213 429.8851 258.722 420.7168 224.2063 427.4582 215.9818 428.6716 202.3643 432.9861 198.9936 445.3902 208.1619 454.154 222.9929 467.2322 225.959 466.6929 236.6104 Z" id="BF.NM" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>BF.NM</code_hasc>
+        <name>Namentenga</name>
+        <admin>Burkina Faso</admin>
+        <type_en>Province</type_en>
+        <region>Centre-Nord</region>
+        <woe_id>2347625</woe_id>
+        <longitude>0</longitude>
+        <woe_name>Namentenga</woe_name>
+        <fips>UV64</fips>
+        <woe_label>Namentenga, BF, Burkina Faso</woe_label>
+        <latitude>13</latitude>
+        <iso_a2>BF</iso_a2>
+        <postal>NM</postal>
+        <type>Province</type>
+        <id>BF.NM</id>
+      </desc>
+    </path>
+    <path d="M 432.9861 198.9936 428.6716 202.3643 427.4582 215.9818 420.7168 224.2063 429.8851 258.722 427.3234 282.7213 415.863 283.2606 428.402 310.3608 422.8741 310.6305 422.0651 317.9111 413.7058 324.1132 396.9873 311.5743 389.7066 311.035 387.01 314.6753 387.819 309.8215 380.4035 301.7319 351.0112 290.6761 355.3257 282.5864 353.5729 275.0361 356.5391 272.2048 373.1229 269.7779 374.8756 256.2952 367.7298 244.1607 373.6622 223.8018 369.7522 215.847 411.6834 205.4653 429.8851 194.6792 432.9861 198.9936 Z" id="BF.ST" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>BF.ST</code_hasc>
+        <name>Sanmatenga</name>
+        <admin>Burkina Faso</admin>
+        <type_en>Province</type_en>
+        <region>Centre-Nord</region>
+        <woe_id>2347632</woe_id>
+        <longitude>-1</longitude>
+        <woe_name>Sanmatenga</woe_name>
+        <fips>UV70</fips>
+        <woe_label>Sanmatenga, BF, Burkina Faso</woe_label>
+        <latitude>13</latitude>
+        <iso_a2>BF</iso_a2>
+        <postal>ST</postal>
+        <type>Province</type>
+        <id>BF.ST</id>
+      </desc>
+    </path>
+    <path d="M 447.1429 371.842 450.3788 383.572 463.7267 388.8302 478.4228 377.3699 489.4787 384.2461 492.7145 392.6054 482.0632 398.2681 475.5915 409.1891 477.8835 413.0991 474.1084 428.739 489.209 430.8963 478.6925 448.6935 462.2436 445.4576 460.7605 450.9855 456.3112 454.2214 451.3226 450.9855 448.626 457.4572 436.8961 461.7717 432.9861 468.513 426.9189 460.8279 427.4582 453.2776 420.3123 442.7611 423.8178 435.8849 435.1433 427.5256 440.4016 427.3908 441.615 420.1101 433.3906 413.6384 422.7392 413.7732 411.9531 408.1105 406.9645 400.5602 417.8855 385.4595 427.0537 383.7068 435.5478 373.1903 447.1429 371.842 Z" id="BF.BL" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>BF.BL</code_hasc>
+        <name>Boulgou</name>
+        <admin>Burkina Faso</admin>
+        <type_en>Province</type_en>
+        <region>Centre-Est</region>
+        <woe_id>2347613</woe_id>
+        <longitude>0</longitude>
+        <woe_name>Boulgou</woe_name>
+        <fips>UV49</fips>
+        <woe_label>Boulgou, BF, Burkina Faso</woe_label>
+        <latitude>11</latitude>
+        <iso_a2>BF</iso_a2>
+        <postal>BL</postal>
+        <type>Province</type>
+        <id>BF.BL</id>
+      </desc>
+    </path>
+    <path d="M 535.0502 400.1557 539.4995 424.8291 535.8592 430.4918 537.7468 440.6038 532.084 452.0641 526.8258 448.0193 522.1068 457.0527 478.6925 448.6935 489.209 430.8963 474.1084 428.739 477.8835 413.0991 475.5915 409.1891 482.0632 398.2681 492.7145 392.6054 503.5007 390.1785 526.0168 399.886 535.0502 400.1557 Z" id="BF.KL" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>BF.KL</code_hasc>
+        <name>Koulpélogo</name>
+        <admin>Burkina Faso</admin>
+        <type_en>Province</type_en>
+        <region>Centre-Est</region>
+        <woe_id>55967355</woe_id>
+        <longitude>0</longitude>
+        <woe_name>Koulpélogo</woe_name>
+        <fips>UV49</fips>
+        <woe_label/>
+        <latitude>11</latitude>
+        <iso_a2>BF</iso_a2>
+        <postal>KL</postal>
+        <type>Province</type>
+        <id>BF.KL</id>
+      </desc>
+    </path>
+    <path d="M 428.402 310.3608 433.3906 317.6415 433.6602 325.5963 441.2105 333.5511 445.9295 352.2921 450.7833 357.011 450.9181 366.5837 447.1429 371.842 435.5478 373.1903 427.0537 383.7068 417.8855 385.4595 410.0655 381.2799 394.4255 354.7189 391.3245 347.9776 392.6728 327.8884 401.5714 324.248 410.47 328.967 413.7058 324.1132 422.0651 317.9111 422.8741 310.6305 428.402 310.3608 Z" id="BF.GZ" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>BF.GZ</code_hasc>
+        <name>Ganzourgou</name>
+        <admin>Burkina Faso</admin>
+        <type_en>Province</type_en>
+        <region>Plateau-Central</region>
+        <woe_id>2347615</woe_id>
+        <longitude>0</longitude>
+        <woe_name>Ganzourgou</woe_name>
+        <fips>UV50</fips>
+        <woe_label/>
+        <latitude>12</latitude>
+        <iso_a2>BF</iso_a2>
+        <postal>GZ</postal>
+        <type>Province</type>
+        <id>BF.GZ</id>
+      </desc>
+    </path>
+    <path d="M 480.4452 349.7303 490.6921 361.4603 480.7149 366.0444 478.4228 377.3699 463.7267 388.8302 450.3788 383.572 447.1429 371.842 450.9181 366.5837 450.7833 357.011 445.9295 352.2921 441.2105 333.5511 433.6602 325.5963 453.4798 328.6973 469.2546 320.338 467.9063 331.5287 474.9173 335.7083 471.6815 346.09 480.4452 349.7303 Z" id="BF.KR" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>BF.KR</code_hasc>
+        <name>Kouritenga</name>
+        <admin>Burkina Faso</admin>
+        <type_en>Province</type_en>
+        <region>Centre-Est</region>
+        <woe_id>2347623</woe_id>
+        <longitude>0</longitude>
+        <woe_name>Kouritenga</woe_name>
+        <fips>UV28</fips>
+        <woe_label/>
+        <latitude>12</latitude>
+        <iso_a2>BF</iso_a2>
+        <postal>KR</postal>
+        <type>Province</type>
+        <id>BF.KR</id>
+      </desc>
+    </path>
+    <path d="M 420.3123 442.7611 427.4582 453.2776 426.9189 460.8279 415.863 459.8841 409.5262 463.3896 406.6948 460.1538 364.2243 459.4796 359.2357 453.8169 344.2698 448.1541 348.5843 431.9749 372.7184 412.8294 394.6952 429.9525 401.841 430.8963 411.2789 443.0307 416.5372 445.4576 420.3123 442.7611 Z" id="BF.NR" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>BF.NR</code_hasc>
+        <name>Nahouri</name>
+        <admin>Burkina Faso</admin>
+        <type_en>Province</type_en>
+        <region>Centre-Sud</region>
+        <woe_id>2347626</woe_id>
+        <longitude>-1</longitude>
+        <woe_name>Nahouri</woe_name>
+        <fips>UV65</fips>
+        <woe_label>Naouri, BF, Burkina Faso</woe_label>
+        <latitude>11</latitude>
+        <iso_a2>BF</iso_a2>
+        <postal>NR</postal>
+        <type>Province</type>
+        <id>BF.NR</id>
+      </desc>
+    </path>
+    <path d="M 410.0655 381.2799 417.8855 385.4595 406.9645 400.5602 411.9531 408.1105 422.7392 413.7732 433.3906 413.6384 441.615 420.1101 440.4016 427.3908 435.1433 427.5256 423.8178 435.8849 420.3123 442.7611 416.5372 445.4576 411.2789 443.0307 401.841 430.8963 394.6952 429.9525 372.7184 412.8294 369.7522 408.515 380.2687 386.2685 389.1673 379.2575 410.0655 381.2799 Z" id="BF.ZW" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>BF.ZW</code_hasc>
+        <name>Zoundwéogo</name>
+        <admin>Burkina Faso</admin>
+        <type_en>Province</type_en>
+        <region>Centre-Sud</region>
+        <woe_id>2347639</woe_id>
+        <longitude>0</longitude>
+        <woe_name>Zoundwéogo</woe_name>
+        <fips>UV44</fips>
+        <woe_label>Zoundweogo, BF, Burkina Faso</woe_label>
+        <latitude>11</latitude>
+        <iso_a2>BF</iso_a2>
+        <postal>ZW</postal>
+        <type>Province</type>
+        <id>BF.ZW</id>
+      </desc>
+    </path>
+    <path d="M 219.4199 484.2878 196.0948 497.5009 189.0838 492.5123 162.7925 492.7819 154.0288 487.1192 163.3319 483.6137 160.096 476.4678 172.3653 463.5244 171.826 457.7269 179.7808 449.9069 197.4431 445.7273 213.6224 445.0531 207.2855 480.3778 216.3189 479.9733 219.4199 484.2878 Z" id="BF.BB" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>BF.BB</code_hasc>
+        <name>Bougouriba</name>
+        <admin>Burkina Faso</admin>
+        <type_en>Province</type_en>
+        <region>Sud-Ouest</region>
+        <woe_id>2347612</woe_id>
+        <longitude>-3</longitude>
+        <woe_name>Bougouriba</woe_name>
+        <fips>UV48</fips>
+        <woe_label>Bougouriba, BF, Burkina Faso</woe_label>
+        <latitude>10</latitude>
+        <iso_a2>BF</iso_a2>
+        <postal>BB</postal>
+        <type>Province</type>
+        <id>BF.BB</id>
+      </desc>
+    </path>
+    <path d="M 236.543 435.3456 234.9251 438.7162 241.3968 440.1993 242.745 448.6935 249.3516 444.6486 256.2277 451.2552 248.1381 462.311 238.4306 461.2324 239.9137 469.4568 231.1499 486.8495 219.4199 484.2878 216.3189 479.9733 207.2855 480.3778 213.6224 445.0531 197.4431 445.7273 200.2745 437.368 210.2517 429.8177 236.543 435.3456 Z" id="BF.IO" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>BF.IO</code_hasc>
+        <name>Ioba</name>
+        <admin>Burkina Faso</admin>
+        <type_en>Province</type_en>
+        <region>Sud-Ouest</region>
+        <woe_id>55967357</woe_id>
+        <longitude>-2</longitude>
+        <woe_name>Ioba</woe_name>
+        <fips>UV48</fips>
+        <woe_label>Ioba, BF, Burkina Faso</woe_label>
+        <latitude>11</latitude>
+        <iso_a2>BF</iso_a2>
+        <postal>IO</postal>
+        <type>Province</type>
+        <id>BF.IO</id>
+      </desc>
+    </path>
+    <path d="M 172.5001 393.4143 189.2187 400.4253 187.1963 407.4364 196.9038 412.2901 199.7352 419.9753 219.6896 409.8632 237.4868 413.5036 236.543 435.3456 210.2517 429.8177 200.2745 437.368 197.4431 445.7273 179.7808 449.9069 171.826 457.7269 172.3653 463.5244 167.5115 462.8503 153.4895 447.7497 146.8829 446.2666 149.3098 428.8739 145.6695 426.9863 136.9057 403.9308 140.6809 384.9202 156.0512 396.3805 172.5001 393.4143 Z" id="BF.TU" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>BF.TU</code_hasc>
+        <name>Tuy</name>
+        <admin>Burkina Faso</admin>
+        <type_en>Province</type_en>
+        <region>Hauts-Bassins</region>
+        <woe_id>55967366</woe_id>
+        <longitude>-3</longitude>
+        <woe_name>Tuy</woe_name>
+        <fips>UV51</fips>
+        <woe_label>Tuy, BF, Burkina Faso</woe_label>
+        <latitude>11</latitude>
+        <iso_a2>BF</iso_a2>
+        <postal>TU</postal>
+        <type>Province</type>
+        <id>BF.TU</id>
+      </desc>
+    </path>
+    <path d="M 41.9874 475.524 51.9647 479.9733 52.0995 489.9506 48.7288 497.5009 35.2461 499.9278 40.3695 516.107 36.5944 523.5225 11.5165 522.7135 1 511.5229 9.3593 474.041 3.0224 455.8393 14.2131 457.9965 30.9316 477.4116 41.9874 475.524 Z" id="BF.LE" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>BF.LE</code_hasc>
+        <name>Léraba</name>
+        <admin>Burkina Faso</admin>
+        <type_en>Province</type_en>
+        <region>Cascades</region>
+        <woe_id>55967359</woe_id>
+        <longitude>-5</longitude>
+        <woe_name>Léraba</woe_name>
+        <fips>UV54</fips>
+        <woe_label>LÃ©raba, BF, Burkina Faso</woe_label>
+        <latitude>10</latitude>
+        <iso_a2>BF</iso_a2>
+        <postal>LE</postal>
+        <type>Province</type>
+        <id>BF.LE</id>
+      </desc>
+    </path>
+    <path d="M 65.717 472.1534 75.5594 480.6475 93.0869 472.5579 100.2328 482.6699 111.2886 487.6585 127.8723 480.7823 143.5123 488.7371 154.8377 477.0071 160.096 476.4678 163.3319 483.6137 154.0288 487.1192 162.7925 492.7819 162.3881 508.5567 155.3771 518.9384 157.2646 530.6683 151.8715 539.2973 138.5237 541.4545 136.7709 545.6342 145.1302 559.791 135.9619 566.2627 122.2096 566.3975 111.5582 573.0041 107.5134 584.4644 103.0641 583.7902 102.5248 587.4306 99.289 581.633 91.0645 580.9589 90.3904 572.8692 86.6152 577.1837 82.0311 574.4872 75.1549 578.3971 70.0315 572.0603 64.9081 571.9254 64.7732 564.1055 49.9422 558.7124 50.3467 546.3083 40.9088 539.9714 43.6054 537.8142 39.0212 533.9042 39.6954 529.4549 36.7292 531.2076 36.5944 523.5225 40.3695 516.107 35.2461 499.9278 48.7288 497.5009 52.0995 489.9506 51.9647 479.9733 41.9874 475.524 50.6164 470.5354 65.717 472.1534 Z" id="BF.KM" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>BF.KM</code_hasc>
+        <name>Komoé</name>
+        <admin>Burkina Faso</admin>
+        <type_en>Province</type_en>
+        <region>Cascades</region>
+        <woe_id>2347621</woe_id>
+        <longitude>-4</longitude>
+        <woe_name>Komoé</woe_name>
+        <fips>UV55</fips>
+        <woe_label>KomoÃ©, BF, Burkina Faso</woe_label>
+        <latitude>10</latitude>
+        <iso_a2>BF</iso_a2>
+        <postal>KM</postal>
+        <type>Province</type>
+        <id>BF.KM</id>
+      </desc>
+    </path>
+    <path d="M 231.1499 486.8495 233.7116 503.8377 244.6326 512.7363 238.1609 519.7473 245.846 527.1628 241.9361 533.4997 242.8799 542.1286 233.7116 541.3197 229.532 550.0834 219.5548 543.7466 210.5213 543.4769 206.2069 558.5776 197.4431 564.6448 196.0948 559.2517 165.4891 554.9372 145.1302 559.791 136.7709 545.6342 138.5237 541.4545 151.8715 539.2973 157.2646 530.6683 155.3771 518.9384 162.3881 508.5567 162.7925 492.7819 189.0838 492.5123 196.0948 497.5009 219.4199 484.2878 231.1499 486.8495 Z" id="BF.PO" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>BF.PO</code_hasc>
+        <name>Poni</name>
+        <admin>Burkina Faso</admin>
+        <type_en>Province</type_en>
+        <region>Sud-Ouest</region>
+        <woe_id>2347630</woe_id>
+        <longitude>-3</longitude>
+        <woe_name>Poni</woe_name>
+        <fips>UV69</fips>
+        <woe_label>Poni, BF, Burkina Faso</woe_label>
+        <latitude>10</latitude>
+        <iso_a2>BF</iso_a2>
+        <postal>PO</postal>
+        <type>Province</type>
+        <id>BF.PO</id>
+      </desc>
+    </path>
+    <path d="M 537.4771 284.3392 528.8482 292.5636 511.7251 289.4626 509.0286 297.5523 513.7475 304.2936 518.3317 330.1804 509.9724 336.6521 488.5349 340.9666 480.4452 349.7303 471.6815 346.09 474.9173 335.7083 467.9063 331.5287 469.2546 320.338 469.7939 299.9791 460.4908 294.1816 454.9629 282.0471 462.1088 252.7896 460.8953 244.0259 466.6929 236.6104 471.4118 229.869 481.389 232.4308 491.7707 229.0601 492.5797 236.0711 509.2982 258.4524 524.8034 265.3286 538.4209 280.0247 537.4771 284.3392 Z" id="BF.GG" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>BF.GG</code_hasc>
+        <name>Gnagna</name>
+        <admin>Burkina Faso</admin>
+        <type_en>Province</type_en>
+        <region>Est</region>
+        <woe_id>2347616</woe_id>
+        <longitude>0</longitude>
+        <woe_name>Gnagna</woe_name>
+        <fips>UV21</fips>
+        <woe_label/>
+        <latitude>12</latitude>
+        <iso_a2>BF</iso_a2>
+        <postal>GG</postal>
+        <type>Province</type>
+        <id>BF.GG</id>
+      </desc>
+    </path>
+    <path d="M 601.7896 293.6423 598.8234 299.5747 588.9811 301.8667 584.3969 310.3608 576.3073 309.1474 564.847 316.428 560.2629 327.4839 547.3195 341.2362 539.904 330.3152 529.6571 323.8435 518.3317 330.1804 513.7475 304.2936 509.0286 297.5523 511.7251 289.4626 528.8482 292.5636 537.4771 284.3392 553.2519 283.2606 572.2625 272.0699 573.3411 276.7889 584.8014 279.8899 601.7896 293.6423 Z" id="BF.KJ" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>BF.KJ</code_hasc>
+        <name>Komondjari</name>
+        <admin>Burkina Faso</admin>
+        <type_en>Province</type_en>
+        <region>Est</region>
+        <woe_id>55967353</woe_id>
+        <longitude>0</longitude>
+        <woe_name>Komondjari</woe_name>
+        <fips>UV21</fips>
+        <woe_label/>
+        <latitude>12</latitude>
+        <iso_a2>BF</iso_a2>
+        <postal>KJ</postal>
+        <type>Province</type>
+        <id>BF.KJ</id>
+      </desc>
+    </path>
+    <path d="M 529.792 204.1171 491.7707 229.0601 481.389 232.4308 471.4118 229.869 466.6929 236.6104 467.2322 225.959 454.154 222.9929 445.3902 208.1619 432.9861 198.9936 429.8851 194.6792 436.0871 191.1737 436.3568 179.174 464.1312 174.3203 485.7035 174.8596 503.0962 152.2086 519.6799 168.3879 515.5003 179.7133 529.792 204.1171 Z" id="BF.SE" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>BF.SE</code_hasc>
+        <name>Séno</name>
+        <admin>Burkina Faso</admin>
+        <type_en>Province</type_en>
+        <region>Sahel</region>
+        <woe_id>2347633</woe_id>
+        <longitude>0</longitude>
+        <woe_name>Séno</woe_name>
+        <fips>UV71</fips>
+        <woe_label>Seno, BF, Burkina Faso</woe_label>
+        <latitude>13</latitude>
+        <iso_a2>BF</iso_a2>
+        <postal>SE</postal>
+        <type>Province</type>
+        <id>BF.SE</id>
+      </desc>
+    </path>
+    <path d="M 572.2625 272.0699 553.2519 283.2606 537.4771 284.3392 538.4209 280.0247 524.8034 265.3286 509.2982 258.4524 492.5797 236.0711 491.7707 229.0601 529.792 204.1171 538.6906 211.3977 538.2861 218.5436 553.1171 218.948 554.3305 223.1277 564.847 224.7456 573.3411 231.2173 575.4984 237.9587 597.8797 248.3404 590.7338 246.7224 588.4418 251.5762 572.8018 246.7224 572.2625 272.0699 Z" id="BF.YG" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>BF.YG</code_hasc>
+        <name>Yagha</name>
+        <admin>Burkina Faso</admin>
+        <type_en>Province</type_en>
+        <region>Sahel</region>
+        <woe_id>55967364</woe_id>
+        <longitude>0</longitude>
+        <woe_name>Yagha</woe_name>
+        <fips>UV71</fips>
+        <woe_label/>
+        <latitude>13</latitude>
+        <iso_a2>BF</iso_a2>
+        <postal>YG</postal>
+        <type>Province</type>
+        <id>BF.YG</id>
+      </desc>
+    </path>
+    <path d="M 614.3286 417.5484 599.9021 407.1667 596.801 394.2233 602.329 382.763 605.1603 359.0334 593.5652 348.3821 593.1607 326.6749 599.2279 309.0126 598.8234 299.5747 601.7896 293.6423 627.8113 312.5181 649.6533 313.7315 660.7091 302.8105 672.8435 304.2936 680.9332 314.0012 685.2476 329.3715 669.8773 333.2814 668.3942 337.0566 699 376.4261 690.3711 397.3243 663.8101 420.2449 651.1364 417.6832 630.1033 423.0763 627.1371 417.4136 614.3286 417.5484 Z" id="BF.TA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>BF.TA</code_hasc>
+        <name>Tapoa</name>
+        <admin>Burkina Faso</admin>
+        <type_en>Province</type_en>
+        <region>Est</region>
+        <woe_id>2347637</woe_id>
+        <longitude>1</longitude>
+        <woe_name>Tapoa</woe_name>
+        <fips>UV42</fips>
+        <woe_label>Tapoa, BF, Burkina Faso</woe_label>
+        <latitude>12</latitude>
+        <iso_a2>BF</iso_a2>
+        <postal>TA</postal>
+        <type>Province</type>
+        <id>BF.TA</id>
+      </desc>
+    </path>
+    <path d="M 242.8799 542.1286 247.7336 566.2627 242.3405 575.4309 247.1943 581.633 244.9023 588.2395 251.6436 596.0595 245.0371 604.6884 232.0937 591.2057 225.0827 576.5096 217.2627 575.4309 212.0044 565.5886 206.4765 564.2403 206.2069 558.5776 210.5213 543.4769 219.5548 543.7466 229.532 550.0834 233.7116 541.3197 242.8799 542.1286 Z" id="BF.7399" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>BF.</code_hasc>
+        <name>Noumbiel</name>
+        <admin>Burkina Faso</admin>
+        <type_en>Province</type_en>
+        <region>Sud-Ouest</region>
+        <woe_id>2347630</woe_id>
+        <longitude>-3</longitude>
+        <woe_name>Poni</woe_name>
+        <fips>UV69</fips>
+        <woe_label>Poni, BF, Burkina Faso</woe_label>
+        <latitude>10</latitude>
+        <iso_a2>BF</iso_a2>
+        <postal>PO</postal>
+        <type>Province</type>
+        <id>BF.7399</id>
+      </desc>
+    </path>
+  </g>
+</svg>

@@ -1,0 +1,2405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="philippines">
+    <path d="M 284.1773 673.7147 285.707 676.1443 283.9073 677.1341 284.1773 673.7147 Z M 510.1252 664.3565 508.7754 667.8658 508.4155 664.5364 510.1252 664.3565 Z M 305.8632 663.3666 304.6035 662.0169 306.853 660.3072 305.8632 663.3666 Z M 334.028 641.2308 332.3183 641.0508 333.2181 639.5211 334.028 641.2308 Z M 345.5458 639.971 347.0755 640.4209 343.9261 641.8606 345.5458 639.971 Z M 467.923 436.4289 466.0334 436.9688 468.4629 433.9094 467.923 436.4289 Z M 411.8635 403.765 411.7735 405.8346 409.8838 405.4747 411.8635 403.765 Z M 480.1608 395.8465 482.5003 396.5663 481.8704 398.8159 480.1608 395.8465 Z M 487.6294 356.6138 489.609 357.9635 487.3594 357.8735 486.3696 354.9041 487.6294 356.6138 Z M 362.1927 348.6952 360.483 348.1553 363.0026 346.7156 362.1927 348.6952 Z M 362.9126 343.5662 361.2029 341.4966 363.7224 341.3166 362.9126 343.5662 Z M 291.3759 310.5423 292.9056 311.9821 288.4965 309.8225 291.3759 310.5423 Z M 288.4065 303.3437 288.0465 305.4133 286.4268 304.1535 288.4065 303.3437 Z M 351.3048 300.4642 349.3251 301.1841 349.2351 298.9345 351.3048 300.4642 Z" id="PH.4218" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>-99</code_hasc>
+        <name/>
+        <admin>Philippines</admin>
+        <type_en/>
+        <region/>
+        <woe_id>-99</woe_id>
+        <longitude>120</longitude>
+        <woe_name/>
+        <fips/>
+        <woe_label/>
+        <latitude>4</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal/>
+        <type/>
+        <id>PH.4218</id>
+      </desc>
+    </path>
+    <path d="M 248.9938 699 248.184 688.6519 250.7035 693.9609 248.9938 699 Z M 263.931 682.0832 261.2315 682.713 263.4811 679.3837 263.931 682.0832 Z M 281.8377 673.0848 281.6577 679.7436 280.128 675.8743 277.5185 675.3344 270.2299 681.4533 264.3809 682.0832 264.5609 679.0237 280.8479 669.5755 281.8377 673.0848 Z" id="PH.TT" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.TT</code_hasc>
+        <name>Tawi-Tawi</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Autonomous Region in Muslim Mindanao (ARMM)</region>
+        <woe_id>2346725</woe_id>
+        <longitude>119</longitude>
+        <woe_name>Tawitawi</woe_name>
+        <fips>RP72</fips>
+        <woe_label/>
+        <latitude>4</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>TT</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.TT</id>
+      </desc>
+    </path>
+    <path d="M 435.799 488.4392 433.2795 486.8195 438.9484 485.1098 435.799 488.4392 Z M 470.8925 462.974 467.5631 466.0334 467.2032 464.2337 470.8925 462.974 Z M 459.8245 462.524 470.0826 468.013 468.4629 475.0317 471.7023 477.5512 470.4426 480.3407 466.3033 479.081 457.575 486.0997 439.4883 484.48 439.5783 481.1506 436.4289 479.6209 440.0282 472.7821 447.0469 469.9927 451.996 463.1539 459.8245 462.524 Z" id="PH.BO" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.BO</code_hasc>
+        <name>Bohol</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Central Visayas (Region VII)</region>
+        <woe_id>2346666</woe_id>
+        <longitude>124</longitude>
+        <woe_name>Bohol</woe_name>
+        <fips>RP11</fips>
+        <woe_label/>
+        <latitude>9</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>BO</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.BO</id>
+      </desc>
+    </path>
+    <path d="M 440.8381 450.2863 439.3983 451.4561 437.8686 453.8857 438.3186 455.6853 439.2184 458.3848 438.7685 458.6548 436.6989 458.9247 436.069 459.3746 430.0401 466.3933 422.6615 488.6192 416.1827 494.738 418.7022 470.3526 438.4085 436.6089 442.4578 421.7616 443.6276 422.6615 442.9977 418.3423 447.9468 414.293 444.7074 422.5715 447.1369 423.2014 447.6768 431.2099 445.6972 452.7159 440.8381 450.2863 Z M 434.0893 419.872 432.1997 415.5528 433.9094 413.3932 436.9688 419.3321 434.0893 419.872 Z" id="PH.CB" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>PH.CB</code_hasc>
+        <name>Cebu</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Central Visayas (Region VII)</region>
+        <woe_id>2346676</woe_id>
+        <longitude>123</longitude>
+        <woe_name>Cebu</woe_name>
+        <fips>RP21</fips>
+        <woe_label/>
+        <latitude>10</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>CB</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.CB</id>
+      </desc>
+    </path>
+    <path d="M 417.7124 452.266 414.563 465.1336 408.804 474.9417 407.9042 485.6497 409.7039 486.9095 407.9042 488.5292 416.1827 499.3272 411.9535 507.6956 401.6954 510.2152 395.4865 497.3476 384.8685 493.4783 402.6852 470.7125 409.6139 457.485 408.2641 451.0062 417.7124 452.266 Z" id="PH.NR" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.NR</code_hasc>
+        <name>Negros Oriental</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Central Visayas (Region VII)</region>
+        <woe_id>2346700</woe_id>
+        <longitude>123</longitude>
+        <woe_name>Negros Oriental</woe_name>
+        <fips>RP46</fips>
+        <woe_label/>
+        <latitude>9</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>NR</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.NR</id>
+      </desc>
+    </path>
+    <path d="M 432.0197 505.1761 429.2302 508.0556 422.3015 504.3662 429.6802 499.6871 432.0197 505.1761 Z" id="PH.SQ" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.SQ</code_hasc>
+        <name>Siquijor</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Central Visayas (Region VII)</region>
+        <woe_id>2346722</woe_id>
+        <longitude>123</longitude>
+        <woe_name>Siquijor</woe_name>
+        <fips>RP69</fips>
+        <woe_label/>
+        <latitude>9</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>SQ</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.SQ</id>
+      </desc>
+    </path>
+    <path d="M 417.7124 452.266 408.2641 451.0062 409.6139 457.485 402.6852 470.7125 384.8685 493.4783 376.5001 482.1404 376.2301 475.9315 379.6495 470.2626 389.6376 469.8127 396.6563 464.8636 394.2268 446.9569 398.7259 442.4578 403.1351 443.6276 405.0248 439.7583 401.0655 437.1488 400.0757 432.5596 401.8753 430.0401 411.2336 426.1708 424.3711 429.5002 426.4408 435.5291 417.7124 452.266 Z" id="PH.ND" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.ND</code_hasc>
+        <name>Negros Occidental</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Western Visayas (Region VI)</region>
+        <woe_id>2346788</woe_id>
+        <longitude>122</longitude>
+        <woe_name>Negros Occidental</woe_name>
+        <fips>RPH3</fips>
+        <woe_label/>
+        <latitude>10</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>ND</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.ND</id>
+      </desc>
+    </path>
+    <path d="M 342.6664 617.2952 340.9567 614.5057 342.3964 612.7061 342.6664 617.2952 Z M 355.534 612.6161 357.4236 616.7553 363.2725 616.4854 361.1129 609.8266 373.4406 615.7655 369.1214 617.1153 367.0518 622.3343 357.0637 624.2239 350.5849 615.0456 355.534 612.6161 Z" id="PH.BS" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.BS</code_hasc>
+        <name>Basilan</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Autonomous Region in Muslim Mindanao (ARMM)</region>
+        <woe_id>2346677</woe_id>
+        <longitude>122</longitude>
+        <woe_name>Basilan</woe_name>
+        <fips>RP22</fips>
+        <woe_label/>
+        <latitude>6</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>BS</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.BS</id>
+      </desc>
+    </path>
+    <path d="M 425.7209 528.7517 425.9908 545.4886 409.7039 545.7585 410.0638 556.0166 404.9348 555.4767 401.4254 558.5362 399.8057 559.166 398.456 559.0761 394.9466 558.0862 393.147 557.9063 391.4373 557.9063 389.8176 558.3562 383.6987 560.6058 377.9398 566.1847 375.6902 567.2645 375.0603 567.8044 374.7004 568.4343 374.1605 570.7739 373.7106 571.3138 372.1809 572.7535 371.641 573.7433 370.2912 578.3325 364.2623 592.0999 354.9041 591.9199 361.2029 585.3512 361.0229 579.0523 365.3421 573.2034 363.1825 566.4547 369.9313 556.3766 386.5782 550.7976 388.2879 548.458 390.7174 550.5277 399.8057 548.548 402.6852 545.4886 400.3456 542.1592 403.945 534.3307 415.8227 532.441 420.8618 527.4919 419.1521 524.2525 424.1912 525.3323 425.7209 528.7517 Z" id="PH.ZN" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.ZN</code_hasc>
+        <name>Zamboanga del Norte</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Zamboanga Peninsula (Region IX)</region>
+        <woe_id>2346718</woe_id>
+        <longitude>122</longitude>
+        <woe_name>Zamboanga del Norte</woe_name>
+        <fips>RP65</fips>
+        <woe_label/>
+        <latitude>8</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>ZN</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.ZN</id>
+      </desc>
+    </path>
+    <path d="M 400.4356 581.4819 393.8668 585.5311 393.6869 580.672 400.4356 581.4819 Z M 405.8346 563.8452 406.2845 567.8044 404.3049 570.4139 402.4152 578.2425 398.546 575.0031 393.7768 578.6024 394.1368 566.5447 387.478 564.655 380.0094 569.874 377.7598 573.2034 379.9194 573.6533 378.6597 576.7128 378.0298 575.273 374.5204 578.2425 370.2912 578.3325 370.7411 577.0727 371.641 573.7433 372.1809 572.7535 372.6308 572.2136 373.7106 571.3138 374.1605 570.7739 374.4304 570.054 374.7004 568.4343 375.0603 567.8044 383.6987 560.6058 389.8176 558.3562 391.4373 557.9063 393.147 557.9063 394.9466 558.0862 398.456 559.0761 398.366 561.1457 398.8159 562.7654 400.6156 562.8554 405.8346 563.8452 Z" id="PH.ZS" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.ZS</code_hasc>
+        <name>Zamboanga Sibugay</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Zamboanga Peninsula (Region IX)</region>
+        <woe_id>28350153</woe_id>
+        <longitude>122</longitude>
+        <woe_name>Zamboanga Sibugay</woe_name>
+        <fips>RP65</fips>
+        <woe_label/>
+        <latitude>7</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>ZS</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.ZS</id>
+      </desc>
+    </path>
+    <path d="M 431.2999 555.0268 431.7498 556.8265 432.3797 559.346 428.6004 562.6754 421.2217 564.1151 423.0214 570.054 417.3525 574.0133 421.5817 579.1423 420.6818 582.7417 414.203 576.1729 410.0638 577.8826 408.1742 576.5328 407.6343 573.9233 410.1538 571.6737 407.7242 566.9946 407.1843 566.6347 406.7344 567.0846 406.2845 567.8044 405.8346 563.8452 398.8159 562.7654 398.366 561.1457 398.456 559.0761 399.8057 559.166 401.4254 558.5362 404.9348 555.4767 410.0638 556.0166 409.7039 545.7585 425.9908 545.4886 425.9908 552.4173 431.2999 555.0268 Z" id="PH.2611" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.ZS</code_hasc>
+        <name>Zamboanga del Sur</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Zamboanga Peninsula (Region IX)</region>
+        <woe_id>2346719</woe_id>
+        <longitude>123</longitude>
+        <woe_name>Zamboanga del Sur</woe_name>
+        <fips>RP66</fips>
+        <woe_label/>
+        <latitude>7</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>ZS</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.2611</id>
+      </desc>
+    </path>
+    <path d="M 431.2999 555.0268 425.9908 552.4173 425.9908 545.4886 425.7209 528.7517 427.0706 530.3714 428.6004 526.5021 434.7192 529.2916 438.9484 537.84 440.1182 548.3681 431.2999 555.0268 Z" id="PH.MD" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.MD</code_hasc>
+        <name>Misamis Occidental</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Northern Mindanao (Region X)</region>
+        <woe_id>2346697</woe_id>
+        <longitude>123</longitude>
+        <woe_name>Misamis Occidental</woe_name>
+        <fips>RP42</fips>
+        <woe_label/>
+        <latitude>8</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>MD</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.MD</id>
+      </desc>
+    </path>
+    <path d="M 311.1722 663.2767 308.0228 660.9371 310.0924 660.1272 311.1722 663.2767 Z M 307.8429 655.988 308.3828 654.2783 310.5423 655.2681 307.8429 655.988 Z M 325.6595 650.3191 321.5203 649.4192 323.41 648.3394 325.6595 650.3191 Z M 352.2946 639.971 356.4338 640.3309 352.7445 641.6807 349.2351 638.4413 352.2946 639.971 Z M 317.561 637.4515 323.41 638.9812 325.1196 641.7707 327.3692 640.6009 334.2079 643.0304 328.269 647.7995 325.4796 644.2002 312.342 646.4498 310.3624 642.5805 317.561 637.4515 Z M 296.6849 631.2426 293.6255 630.3428 297.9447 625.1238 296.6849 631.2426 Z" id="PH.SU" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.SU</code_hasc>
+        <name>Sulu</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Autonomous Region in Muslim Mindanao (ARMM)</region>
+        <woe_id>2346713</woe_id>
+        <longitude>120</longitude>
+        <woe_name>Sulu</woe_name>
+        <fips>RP60</fips>
+        <woe_label/>
+        <latitude>5</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>SU</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.SU</id>
+      </desc>
+    </path>
+    <path d="M 384.7785 402.0553 381.4491 406.0146 375.8702 406.1046 373.7106 411.1436 370.4712 411.9535 368.7615 412.1334 367.1418 412.1334 366.9618 411.6835 367.3218 409.4339 366.8719 407.8142 364.8022 405.1147 366.5119 395.3066 366.4219 394.4967 365.7921 393.4169 361.1129 390.4475 358.7734 390.0875 356.5238 390.7174 354.7241 392.0672 353.3744 392.697 355.174 387.388 357.3336 385.9483 376.0501 394.5867 384.7785 402.0553 Z" id="PH.AK" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.AK</code_hasc>
+        <name>Aklan</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Western Visayas (Region VI)</region>
+        <woe_id>2346659</woe_id>
+        <longitude>122</longitude>
+        <woe_name>Aklan</woe_name>
+        <fips>RP04</fips>
+        <woe_label/>
+        <latitude>11</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>AK</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.AK</id>
+      </desc>
+    </path>
+    <path d="M 365.7921 393.4169 366.4219 394.4967 366.5119 395.3066 364.8022 405.1147 366.8719 407.8142 367.3218 409.4339 366.9618 411.6835 367.1418 412.1334 367.5917 412.9433 367.6817 414.0231 367.5917 415.1929 367.6817 416.1827 367.9517 417.1725 368.3116 417.8924 368.9415 418.5222 369.7513 419.2421 372.0009 421.3117 373.0807 422.6615 373.6206 423.7413 373.0807 425.9908 372.8108 426.2608 372.0909 426.7107 371.8209 426.9807 371.641 428.6004 367.0518 435.889 366.4219 436.6989 365.7021 437.3287 362.6426 439.3983 361.8328 440.2082 360.933 441.6479 359.6732 447.8568 359.7632 448.6666 360.753 449.2065 360.0331 449.9264 358.5934 450.5563 357.2437 450.3763 358.7734 441.198 356.7038 435.6191 361.3829 425.181 364.0824 397.5561 363.1825 394.6767 357.0637 393.147 354.5442 393.057 353.8243 392.967 353.3744 392.697 356.5238 390.7174 358.7734 390.0875 361.1129 390.4475 364.8922 392.697 365.7921 393.4169 Z" id="PH.AQ" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.AQ</code_hasc>
+        <name>Antique</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Western Visayas (Region VI)</region>
+        <woe_id>2346661</woe_id>
+        <longitude>121</longitude>
+        <woe_name>Antique</woe_name>
+        <fips>RP06</fips>
+        <woe_label/>
+        <latitude>11</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>AQ</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.AQ</id>
+      </desc>
+    </path>
+    <path d="M 405.7446 403.2251 396.9263 417.4424 384.5086 415.8227 380.9992 418.0723 372.9007 416.6326 371.731 417.2625 369.7513 419.2421 368.9415 418.5222 368.3116 417.8924 367.9517 417.1725 367.6817 416.1827 367.5917 415.1929 367.5917 412.9433 367.1418 412.1334 368.7615 412.1334 370.4712 411.9535 373.7106 411.1436 375.8702 406.1046 381.4491 406.0146 384.7785 402.0553 386.0383 404.0349 390.3575 399.6258 394.8566 399.8957 399.7157 403.495 396.8363 405.9246 397.9161 407.0944 405.7446 403.2251 Z" id="PH.CP" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.CP</code_hasc>
+        <name>Capiz</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Western Visayas (Region VI)</region>
+        <woe_id>2346673</woe_id>
+        <longitude>122</longitude>
+        <woe_name>Capiz</woe_name>
+        <fips>RP18</fips>
+        <woe_label/>
+        <latitude>11</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>CP</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.CP</id>
+      </desc>
+    </path>
+    <path d="M 385.6784 436.3389 382.169 434.6292 379.5595 439.4883 369.1214 441.468 363.7224 444.5274 361.1129 449.0266 360.753 449.2065 360.663 449.2065 359.7632 448.6666 359.6732 447.8568 360.933 441.6479 361.8328 440.2082 362.6426 439.3983 364.7123 438.1386 365.7021 437.3287 366.4219 436.6989 367.0518 435.889 367.5917 435.0792 369.2114 431.0299 371.641 428.6004 371.8209 426.9807 372.0909 426.7107 372.8108 426.2608 373.0807 425.9908 373.6206 423.7413 373.0807 422.6615 372.0009 421.3117 369.7513 419.2421 371.731 417.2625 372.9007 416.6326 380.9992 418.0723 384.5086 415.8227 396.9263 417.4424 405.7446 403.2251 409.074 400.1657 407.7242 418.1623 403.855 418.9722 399.9857 424.4611 394.1368 426.0808 391.9772 434.1793 385.6784 436.3389 Z" id="PH.II" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.II</code_hasc>
+        <name>Iloilo</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Western Visayas (Region VI)</region>
+        <woe_id>2346685</woe_id>
+        <longitude>122</longitude>
+        <woe_name>Iloilo</woe_name>
+        <fips>RP30</fips>
+        <woe_label/>
+        <latitude>10</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>II</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.II</id>
+      </desc>
+    </path>
+    <path d="M 389.8176 437.5087 390.8974 441.5579 388.7378 447.3169 382.349 451.0962 380.0094 447.4069 383.0688 445.4272 382.349 442.9077 388.0179 436.2489 389.8176 437.5087 Z" id="PH.GU" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.GU</code_hasc>
+        <name>Guimaras</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Western Visayas (Region VI)</region>
+        <woe_id>28350150</woe_id>
+        <longitude>122</longitude>
+        <woe_name>Guimaras</woe_name>
+        <fips>RP30</fips>
+        <woe_label/>
+        <latitude>10</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>GU</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.GU</id>
+      </desc>
+    </path>
+    <path d="M 208.9513 595.8792 208.6813 599.0286 205.082 598.2188 205.3519 596.2391 208.9513 595.8792 Z M 146.9528 552.4173 147.2228 559.256 143.8034 562.3155 141.9138 550.8876 143.3535 552.4173 146.8628 550.6176 146.9528 552.4173 Z M 145.2431 550.2577 143.3535 549.1779 145.6031 547.7382 145.2431 550.2577 Z M 157.4809 539.7297 159.1905 544.3188 156.1311 545.8485 155.3213 542.1592 157.4809 539.7297 Z M 153.8815 539.7297 155.1413 540.7195 151.9019 542.3392 153.8815 539.7297 Z M 204.0922 482.5903 215.0701 488.7092 213.0005 491.8586 208.8613 497.6175 202.6524 503.1965 193.2942 505.2661 187.8052 515.7941 176.5573 524.1626 168.3688 525.3323 166.0293 531.9911 158.7406 533.4308 151.9919 539.0998 155.3213 527.312 159.5505 522.0929 182.6762 499.9571 187.5353 500.7669 193.2042 496.0878 203.1923 482.5903 203.6423 482.7703 204.0922 482.5903 Z M 238.0159 442.8177 239.6356 443.7175 236.4861 444.2574 238.0159 442.8177 Z M 273.4693 444.5274 271.4896 446.3271 270.0499 444.5274 270.2299 447.7668 265.5507 449.2065 263.3011 445.1573 267.5304 440.6581 273.4693 444.5274 Z M 320.4405 433.3695 317.4711 432.9196 320.7105 429.6802 320.4405 433.3695 Z M 244.3147 424.4611 243.7748 427.1606 242.785 424.1912 244.3147 424.4611 Z M 259.0719 423.9212 257.5422 424.8211 256.1925 420.9518 259.0719 423.9212 Z M 239.2756 465.8534 230.7272 455.1454 232.4369 453.0758 230.0073 452.7159 234.1466 451.2761 236.2162 447.1369 237.5659 451.0062 244.7646 442.8177 245.8444 436.5189 240.8053 431.4798 241.2553 427.1606 251.2434 436.6989 250.5235 432.0197 244.9446 427.5206 245.3045 424.1012 246.8342 425.001 245.3945 421.1318 249.1738 422.6615 248.094 416.9925 252.5931 406.9144 253.9429 410.4237 255.8325 413.8431 253.493 420.052 255.8325 424.5511 253.493 424.6411 252.8631 430.1301 254.0329 432.9196 257.0923 432.8296 256.4624 439.3983 259.1619 439.3084 259.5219 443.8075 262.1314 446.0571 255.1127 452.266 246.2943 454.0656 239.2756 465.8534 Z M 269.0601 404.5748 267.1704 408.984 267.1704 406.9144 264.4709 407.7242 262.2213 405.3847 264.5609 406.2845 265.1908 403.945 267.1704 405.3847 267.8903 402.7752 269.0601 404.5748 Z M 286.3369 389.9076 283.1874 384.5086 285.527 383.6987 286.3369 389.9076 Z M 273.0193 384.6885 278.0584 388.1979 276.1688 390.0875 277.2485 393.3269 273.0193 396.6563 274.639 391.5273 271.3996 391.7972 268.3402 384.0587 271.1297 382.8889 273.0193 384.6885 Z M 271.9395 369.8413 282.9175 377.3999 284.4472 372.8108 289.3963 381.989 280.5779 380.9092 279.1382 383.6087 274.639 381.7191 270.2299 373.1707 268.1602 374.8804 271.3996 370.2012 269.6 370.4712 269.7799 368.1316 271.9395 369.8413 Z" id="PH.PL" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.PL</code_hasc>
+        <name>Palawan</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>MIMAROPA (Region IV-B)</region>
+        <woe_id>2346703</woe_id>
+        <longitude>117</longitude>
+        <woe_name>Palawan</woe_name>
+        <fips>RP49</fips>
+        <woe_label/>
+        <latitude>9</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>PL</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.PL</id>
+      </desc>
+    </path>
+    <path d="M 386.2183 370.7411 378.0298 365.1622 378.5697 361.9228 387.0281 362.1027 388.8278 366.062 386.2183 370.7411 Z M 372.8108 361.2029 370.4712 360.753 371.551 356.0739 372.8108 361.2029 Z M 366.332 355.534 360.1231 378.2997 356.8837 366.332 359.4032 363.7224 359.4932 357.1537 364.6223 354.0043 366.332 355.534 Z" id="PH.RO" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.RO</code_hasc>
+        <name>Romblon</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>MIMAROPA (Region IV-B)</region>
+        <woe_id>2346707</woe_id>
+        <longitude>122</longitude>
+        <woe_name>Romblon</woe_name>
+        <fips>RP54</fips>
+        <woe_label/>
+        <latitude>12</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>RO</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.RO</id>
+      </desc>
+    </path>
+    <path d="M 453.2558 331.8684 447.2269 330.5186 450.2863 329.4388 453.2558 331.8684 Z M 442.8177 327.1892 448.0367 328.359 445.5172 329.9787 440.7481 327.9091 442.8177 327.1892 Z M 439.4883 329.7088 438.0486 324.3098 441.108 325.3896 439.4883 329.7088 Z M 414.473 329.0789 421.0418 323.32 426.6207 323.32 425.181 317.831 427.1606 316.7512 438.3186 329.7088 434.6292 329.9787 433.6394 336.9074 435.889 337.2674 439.4883 333.3081 441.7379 334.4779 441.198 335.4677 441.018 336.5475 440.5681 337.2674 429.9501 337.7173 423.1114 340.7767 420.7718 338.0772 415.2828 339.157 414.473 329.0789 Z" id="PH.AL" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.AL</code_hasc>
+        <name>Albay</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Bicol (Region V)</region>
+        <woe_id>2346660</woe_id>
+        <longitude>123</longitude>
+        <woe_name>Albay</woe_name>
+        <fips>RP05</fips>
+        <woe_label/>
+        <latitude>13</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>AL</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.AL</id>
+      </desc>
+    </path>
+    <path d="M 404.2149 304.1535 403.855 303.9736 403.4051 303.2537 401.9653 301.0041 399.8957 299.1145 398.9059 298.0347 394.3167 296.7749 380.1894 289.9362 372.9907 292.9956 372.9907 292.2758 373.4406 292.1858 374.0705 291.5559 374.5204 290.836 376.4101 283.2774 382.259 281.3878 389.0977 283.9073 388.6478 281.3878 396.7463 285.0771 403.855 292.2758 405.8346 300.7342 404.6648 301.9939 404.4849 302.5338 404.2149 304.1535 Z" id="PH.CN" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.CN</code_hasc>
+        <name>Camarines Norte</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Bicol (Region V)</region>
+        <woe_id>2346670</woe_id>
+        <longitude>122</longitude>
+        <woe_name>Camarines Norte</woe_name>
+        <fips>RP15</fips>
+        <woe_label/>
+        <latitude>14</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>CN</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.CN</id>
+      </desc>
+    </path>
+    <path d="M 429.5902 297.4948 430.31 299.1145 427.5206 300.1043 429.5902 297.4948 Z M 427.1606 316.7512 425.181 317.831 426.6207 323.32 421.0418 323.32 414.473 329.0789 409.254 320.2605 396.2064 313.5118 394.3167 311.4422 396.2964 309.6425 392.2471 305.1434 387.478 303.9736 383.5188 299.3844 385.8583 298.0347 391.7972 297.4048 394.3167 296.7749 398.276 297.7647 398.9059 298.0347 399.2658 298.3046 399.8957 299.1145 401.9653 301.0041 402.5952 301.814 403.4051 303.2537 403.855 303.9736 404.2149 304.1535 404.2149 306.2232 406.6445 308.4727 411.1436 308.2028 415.1029 305.0534 413.9331 300.5542 416.2727 297.2248 414.383 299.2944 411.3236 296.7749 416.0927 292.1858 419.692 300.5542 420.8618 298.1247 430.8499 301.454 432.1097 299.2944 442.9977 307.6629 438.4085 307.5729 435.799 309.9125 426.1708 308.4727 424.3711 313.5118 427.1606 316.7512 Z M 407.9942 312.8819 412.0434 315.1315 417.7124 312.8819 414.473 311.0822 411.6835 311.7121 407.9942 312.8819 Z" id="PH.CS" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.CS</code_hasc>
+        <name>Camarines Sur</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Bicol (Region V)</region>
+        <woe_id>2346671</woe_id>
+        <longitude>123</longitude>
+        <woe_name>Camarines Sur</woe_name>
+        <fips>RP16</fips>
+        <woe_label/>
+        <latitude>13</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>CS</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.CS</id>
+      </desc>
+    </path>
+    <path d="M 461.9841 301.814 461.6242 310.7223 459.3746 311.0822 458.4748 315.4914 454.9655 313.6918 452.266 317.0211 446.3271 313.4218 445.4272 310.7223 449.7464 304.2435 450.0164 292.9956 453.3458 292.6357 457.305 300.3742 461.9841 301.814 Z" id="PH.CT" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.CT</code_hasc>
+        <name>Catanduanes</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Bicol (Region V)</region>
+        <woe_id>2346674</woe_id>
+        <longitude>124</longitude>
+        <woe_name>Catanduanes</woe_name>
+        <fips>RP19</fips>
+        <woe_label/>
+        <latitude>13</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>CT</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.CT</id>
+      </desc>
+    </path>
+    <path d="M 417.1725 359.2233 416.0027 363.9024 420.5019 360.483 425.5409 363.0926 427.0706 367.6817 431.2999 368.2216 435.799 374.7004 435.889 372.1809 439.9382 373.8006 446.777 384.0587 444.6174 382.439 447.5868 394.4967 438.4985 386.5782 433.7294 385.9483 433.2795 382.439 422.7515 373.4406 408.894 386.3982 411.3236 377.1299 414.653 373.4406 411.4136 372.9907 413.7531 364.5323 412.0434 357.2437 417.1725 359.2233 Z M 429.5002 354.4542 433.1895 357.2437 435.709 368.2216 426.8007 355.8939 427.9705 353.1044 429.5002 354.4542 Z M 410.6037 343.7462 413.2132 344.1061 418.0723 352.9245 400.9755 338.8871 399.8057 334.8378 403.765 334.118 410.6037 343.7462 Z" id="PH.MB" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.MB</code_hasc>
+        <name>Masbate</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Bicol (Region V)</region>
+        <woe_id>2346694</woe_id>
+        <longitude>123</longitude>
+        <woe_name>Masbate</woe_name>
+        <fips>RP39</fips>
+        <woe_label/>
+        <latitude>12</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>MB</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.MB</id>
+      </desc>
+    </path>
+    <path d="M 423.1114 340.7767 429.9501 337.7173 440.5681 337.2674 441.018 336.5475 441.198 335.4677 441.7379 334.4779 441.8279 334.9278 444.7973 336.1876 447.9468 339.157 449.3865 336.3675 452.266 337.0874 449.3865 343.2063 448.5766 358.6834 443.8075 359.1333 435.709 346.8956 444.6174 344.826 445.5172 341.4966 439.9382 340.6867 437.6887 344.466 432.8296 346.3557 431.6598 342.6664 428.2404 344.466 423.1114 340.7767 Z" id="PH.SR" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.SR</code_hasc>
+        <name>Sorsogon</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Bicol (Region V)</region>
+        <woe_id>2346711</woe_id>
+        <longitude>124</longitude>
+        <woe_name>Sorsogon</woe_name>
+        <fips>RP58</fips>
+        <woe_label/>
+        <latitude>12</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>SR</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.SR</id>
+      </desc>
+    </path>
+    <path d="M 324.5797 137.0547 323.4999 142.9936 319.5407 145.3331 315.5814 155.6812 313.7817 158.6506 311.3522 157.3009 307.8429 159.7304 305.5933 155.0513 299.8343 151.7219 301.9939 145.6031 297.1348 144.7032 300.1943 135.8849 303.5237 130.9358 316.8412 124.727 320.4405 130.3059 323.5899 131.2957 324.5797 137.0547 Z" id="PH.AB" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.AB</code_hasc>
+        <name>Abra</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Cordillera Administrative Region (CAR)</region>
+        <woe_id>2346656</woe_id>
+        <longitude>120</longitude>
+        <woe_name>Abra</woe_name>
+        <fips>RP01</fips>
+        <woe_label/>
+        <latitude>17</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>AB</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.AB</id>
+      </desc>
+    </path>
+    <path d="M 355.7139 25.3855 354.9041 22.236 356.9737 23.6758 355.7139 25.3855 Z M 359.6732 21.8761 358.2335 20.2564 362.1927 16.2072 359.6732 21.8761 Z M 354.5442 7.0289 353.0144 5.6791 356.0739 1 354.5442 7.0289 Z" id="PH.BN" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.BN</code_hasc>
+        <name>Batanes</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Cagayan Valley (Region II)</region>
+        <woe_id>2346663</woe_id>
+        <longitude>121</longitude>
+        <woe_name>Batanes</woe_name>
+        <fips>RP07</fips>
+        <woe_label/>
+        <latitude>21</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>BN</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.BN</id>
+      </desc>
+    </path>
+    <path d="M 368.3116 143.5335 346.2657 144.3433 345.6358 143.8934 345.0059 143.5335 342.6664 142.3637 342.0365 141.6438 340.7767 139.9341 337.8973 136.8747 337.0874 135.7049 336.7275 134.985 336.2776 133.2754 335.9176 132.6455 335.3777 132.1056 334.8378 131.9256 334.2979 132.0156 333.4881 131.8356 332.5882 131.1158 332.4983 130.2159 338.5271 119.238 339.157 117.4383 339.517 115.4587 339.337 111.8594 331.1485 105.6505 329.0789 104.6607 324.8497 103.221 323.7699 102.4111 323.23 100.4315 322.6901 100.1615 322.1502 100.3415 319.6307 103.131 318.9108 103.6709 317.921 104.0308 319.5407 97.1021 326.7393 96.3822 346.3557 109.9697 346.2657 107.6301 356.5238 111.5894 362.4627 109.8797 367.2318 101.2413 370.5612 101.4213 374.2505 109.1599 367.8617 119.328 366.332 135.075 368.3116 143.5335 Z M 338.7071 85.3143 332.9482 87.024 331.1485 85.5842 338.7071 85.3143 Z M 359.4032 80.3652 360.573 82.6148 354.7241 88.0138 355.7139 81.625 359.4032 80.3652 Z M 330.6086 78.2056 327.9991 77.3958 328.629 72.5367 330.6086 78.2056 Z M 338.6171 63.7183 341.3166 63.3584 342.3964 68.3075 336.7275 67.4076 334.4779 64.2582 338.6171 63.7183 Z M 361.1129 56.2497 359.5832 59.2192 356.8837 56.7896 361.1129 56.2497 Z" id="PH.CG" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.CG</code_hasc>
+        <name>Cagayan</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Cagayan Valley (Region II)</region>
+        <woe_id>2346669</woe_id>
+        <longitude>121</longitude>
+        <woe_name>Cagayan</woe_name>
+        <fips>RP14</fips>
+        <woe_label/>
+        <latitude>17</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>CG</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.CG</id>
+      </desc>
+    </path>
+    <path d="M 337.0874 135.7049 324.5797 137.0547 323.5899 131.2957 320.4405 130.3059 316.8412 124.727 318.8208 115.9986 315.7614 112.8492 317.921 104.0308 318.9108 103.6709 319.6307 103.131 322.1502 100.3415 322.6901 100.1615 323.23 100.4315 323.7699 102.4111 324.8497 103.221 329.0789 104.6607 331.1485 105.6505 339.337 111.8594 339.517 115.4587 339.157 117.4383 338.5271 119.238 334.2979 127.9664 332.4983 130.2159 332.5882 131.1158 333.4881 131.8356 334.2979 132.0156 334.8378 131.9256 335.3777 132.1056 335.9176 132.6455 336.2776 133.2754 336.7275 134.985 337.0874 135.7049 Z" id="PH.AP" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.AP</code_hasc>
+        <name>Apayao</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Cordillera Administrative Region (CAR)</region>
+        <woe_id>28350146</woe_id>
+        <longitude>121</longitude>
+        <woe_name>Apayao</woe_name>
+        <fips>RP32</fips>
+        <woe_label/>
+        <latitude>18</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>AP</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.AP</id>
+      </desc>
+    </path>
+    <path d="M 317.921 104.0308 315.7614 112.8492 318.8208 115.9986 316.8412 124.727 303.5237 130.9358 300.1943 135.8849 300.3742 128.8662 295.6051 127.6064 302.1739 109.0699 301.9939 101.4213 310.2724 98.9917 312.8819 95.3024 315.9413 98.8118 319.5407 97.1021 317.921 104.0308 Z" id="PH.IN" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.IN</code_hasc>
+        <name>Ilocos Norte</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Ilocos (Region I)</region>
+        <woe_id>2346683</woe_id>
+        <longitude>120</longitude>
+        <woe_name>Ilocos Norte</woe_name>
+        <fips>RP28</fips>
+        <woe_label/>
+        <latitude>18</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>IN</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.IN</id>
+      </desc>
+    </path>
+    <path d="M 300.1943 135.8849 297.1348 144.7032 301.9939 145.6031 299.8343 151.7219 305.5933 155.0513 307.8429 159.7304 311.3522 157.3009 313.7817 158.6506 310.3624 161.89 309.5525 169.8086 303.8836 172.4181 301.9939 181.3264 299.1145 170.0785 293.8954 169.7186 296.055 149.4723 294.4353 143.8034 291.6459 142.1837 295.6051 127.6064 300.3742 128.8662 300.1943 135.8849 Z" id="PH.IS" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.IS</code_hasc>
+        <name>Ilocos Sur</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Ilocos (Region I)</region>
+        <woe_id>2346684</woe_id>
+        <longitude>120</longitude>
+        <woe_name>Ilocos Sur</woe_name>
+        <fips>RP29</fips>
+        <woe_label/>
+        <latitude>16</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>IS</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.IS</id>
+      </desc>
+    </path>
+    <path d="M 332.0483 251.6933 330.8786 245.2145 333.758 232.7068 329.6188 219.4793 337.2674 213.1805 355.0841 197.8833 362.0128 188.1651 370.6512 188.0752 368.9415 199.863 360.3031 208.6813 366.062 198.7832 362.4627 202.2025 350.045 206.7017 342.6664 212.9105 341.6766 217.3197 345.3659 221.369 343.2962 223.9785 344.736 224.6084 334.6579 236.7561 334.6579 241.6152 335.5577 243.0549 336.8175 244.0447 336.9074 244.1347 336.6375 244.2247 335.8276 244.1347 335.3777 244.4047 335.1978 244.9446 334.9278 245.6644 334.8378 245.7544 334.6579 245.7544 334.4779 245.8444 334.3879 246.1143 334.3879 246.2943 334.5679 246.2943 334.8378 246.1143 335.1078 247.1941 335.1978 247.5541 334.7478 248.6339 333.1281 250.7035 333.1281 251.8733 332.8582 251.8733 332.5882 251.7833 332.3183 251.7833 332.0483 251.6933 Z" id="PH.AU" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.AU</code_hasc>
+        <name>Aurora</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Central Luzon (Region III)</region>
+        <woe_id>2346786</woe_id>
+        <longitude>121</longitude>
+        <woe_name>Aurora</woe_name>
+        <fips>RPG8</fips>
+        <woe_label/>
+        <latitude>16</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>AU</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.AU</id>
+      </desc>
+    </path>
+    <path d="M 339.157 182.7661 338.2572 182.6762 336.6375 182.4062 335.4677 181.7763 335.3777 180.4266 335.1078 179.8867 338.7071 178.7169 339.7869 180.5166 339.157 182.7661 Z M 368.3116 143.5335 371.0111 151.362 378.6597 154.3314 377.9398 160.6303 382.5289 162.16 379.8294 171.4283 370.6512 188.0752 362.0128 188.1651 350.045 192.9343 342.5764 183.576 344.1961 179.0768 338.8871 174.0378 339.8769 173.8578 340.3268 173.6778 340.7767 173.4079 341.7665 171.4283 342.1265 170.9783 342.4864 170.8884 342.6664 170.6184 342.9363 166.2092 342.3964 162.9698 342.6664 161.2602 342.7563 155.9511 342.8463 155.0513 343.8361 152.6218 344.556 148.5725 346.4457 146.6829 346.9856 145.6031 346.2657 144.3433 368.3116 143.5335 Z" id="PH.IB" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.IB</code_hasc>
+        <name>Isabela</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Cagayan Valley (Region II)</region>
+        <woe_id>2346686</woe_id>
+        <longitude>121</longitude>
+        <woe_name>Isabela</woe_name>
+        <fips>RP31</fips>
+        <woe_label/>
+        <latitude>17</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>IB</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.IB</id>
+      </desc>
+    </path>
+    <path d="M 342.3964 162.9698 342.9363 166.2092 342.6664 170.6184 342.4864 170.8884 342.1265 170.9783 341.7665 171.4283 340.7767 173.4079 340.3268 173.6778 339.8769 173.8578 338.8871 174.0378 332.8582 176.8273 330.5186 181.1464 314.7716 183.9359 312.7019 173.1379 316.3013 172.778 321.1604 166.3892 342.3964 162.9698 Z" id="PH.IF" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.IF</code_hasc>
+        <name>Ifugao</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Cordillera Administrative Region (CAR)</region>
+        <woe_id>2346682</woe_id>
+        <longitude>121</longitude>
+        <woe_name>Ifugao</woe_name>
+        <fips>RP32</fips>
+        <woe_label/>
+        <latitude>16</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>IF</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.IF</id>
+      </desc>
+    </path>
+    <path d="M 342.7563 155.9511 342.6664 161.2602 342.3964 162.9698 321.1604 166.3892 316.3013 172.778 312.7019 173.1379 309.5525 169.8086 310.3624 161.89 313.7817 158.6506 315.5814 155.6812 327.0993 159.3705 336.7275 153.7915 338.9771 154.7814 341.8565 155.5912 342.7563 155.9511 Z" id="PH.MT" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.MT</code_hasc>
+        <name>Mountain Province</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Cordillera Administrative Region (CAR)</region>
+        <woe_id>2346699</woe_id>
+        <longitude>121</longitude>
+        <woe_name>Mountain Province</woe_name>
+        <fips>RP44</fips>
+        <woe_label/>
+        <latitude>17</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>MT</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.MT</id>
+      </desc>
+    </path>
+    <path d="M 335.1078 179.8867 335.3777 180.4266 335.4677 181.7763 333.668 191.1346 336.7275 192.4843 336.2776 194.9139 330.6986 198.6032 332.0483 205.262 337.2674 213.1805 329.6188 219.4793 325.5696 206.3418 319.1807 203.9122 316.3013 204.0022 314.8615 204.4521 313.8717 205.3519 313.3318 203.4623 312.9719 202.6524 312.252 202.1125 308.4727 200.9428 309.3726 197.0735 314.2317 192.8443 314.7716 183.9359 330.5186 181.1464 332.8582 176.8273 335.1078 179.8867 Z" id="PH.NV" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.NV</code_hasc>
+        <name>Nueva Vizcaya</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Cagayan Valley (Region II)</region>
+        <woe_id>2346702</woe_id>
+        <longitude>121</longitude>
+        <woe_name>Nueva Vizcaya</woe_name>
+        <fips>RP48</fips>
+        <woe_label/>
+        <latitude>16</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>NV</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.NV</id>
+      </desc>
+    </path>
+    <path d="M 339.157 182.7661 342.5764 183.576 350.045 192.9343 362.0128 188.1651 355.0841 197.8833 337.2674 213.1805 332.0483 205.262 330.6986 198.6032 336.2776 194.9139 336.7275 192.4843 333.668 191.1346 335.4677 181.7763 336.6375 182.4062 338.2572 182.6762 339.157 182.7661 Z" id="PH.QR" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.QR</code_hasc>
+        <name>Quirino</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Cagayan Valley (Region II)</region>
+        <woe_id>2346721</woe_id>
+        <longitude>121</longitude>
+        <woe_name>Quirino</woe_name>
+        <fips>RP68</fips>
+        <woe_label/>
+        <latitude>16</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>QR</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.QR</id>
+      </desc>
+    </path>
+    <path d="M 298.9345 260.2417 301.0041 274.1891 299.5644 276.8886 295.5151 277.6985 291.9158 275.1789 291.3759 269.0601 286.6068 265.6407 287.8666 261.0516 295.2452 256.4624 295.4252 255.2027 298.9345 260.2417 Z" id="PH.BA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.BA</code_hasc>
+        <name>Bataan</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Central Luzon (Region III)</region>
+        <woe_id>2346662</woe_id>
+        <longitude>120</longitude>
+        <woe_name>Bataan</woe_name>
+        <fips>RP07</fips>
+        <woe_label/>
+        <latitude>14</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>BA</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.BA</id>
+      </desc>
+    </path>
+    <path d="M 302.8938 217.4097 304.2435 224.3384 308.4727 226.408 308.8327 241.6152 299.6544 241.7952 292.1858 245.3945 282.3776 234.9564 286.8768 226.0481 289.3963 224.7883 290.3861 223.8885 291.5559 221.6389 292.2758 220.7391 293.1756 220.1092 294.0754 220.2892 297.1348 221.8189 299.0245 220.6491 301.814 215.1601 302.1739 215.7 302.4439 216.2399 302.8938 217.4097 Z" id="PH.TR" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>PH.TR</code_hasc>
+        <name>Tarlac</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Central Luzon (Region III)</region>
+        <woe_id>2346716</woe_id>
+        <longitude>120</longitude>
+        <woe_name>Tarlac</woe_name>
+        <fips>RP63</fips>
+        <woe_label/>
+        <latitude>15</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>TR</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.TR</id>
+      </desc>
+    </path>
+    <path d="M 329.6188 219.4793 333.758 232.7068 330.8786 245.2145 323.23 241.7952 315.5814 243.4149 311.7121 245.6644 308.8327 241.6152 308.4727 226.408 304.2435 224.3384 302.8938 217.4097 307.4829 216.3299 308.7427 216.3299 309.3726 216.7798 310.6323 218.6695 311.0822 218.7594 311.7121 218.1296 312.612 216.5998 313.3318 214.6202 313.6918 214.0803 314.0517 213.6304 314.4116 213.3604 314.7716 213.0905 315.1315 212.4606 315.4914 210.661 315.1315 208.8613 313.8717 205.3519 314.8615 204.4521 316.3013 204.0022 319.1807 203.9122 325.5696 206.3418 329.6188 219.4793 Z" id="PH.NE" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.NE</code_hasc>
+        <name>Nueva Ecija</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Central Luzon (Region III)</region>
+        <woe_id>2346701</woe_id>
+        <longitude>120</longitude>
+        <woe_name>Nueva Ecija</woe_name>
+        <fips>RP47</fips>
+        <woe_label/>
+        <latitude>15</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>NE</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.NE</id>
+      </desc>
+    </path>
+    <path d="M 308.8327 241.6152 311.7121 245.6644 315.5814 243.4149 314.1417 252.2332 306.5831 257.4522 303.9736 262.4013 302.1739 258.2621 301.0041 260.6017 301.3641 257.0923 298.9345 260.2417 295.4252 255.2027 292.1858 245.3945 299.6544 241.7952 308.8327 241.6152 Z M 301.0941 248.3639 302.9838 245.0345 297.6747 246.4743 301.0941 248.3639 Z" id="PH.PM" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.PM</code_hasc>
+        <name>Pampanga</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Central Luzon (Region III)</region>
+        <woe_id>2346704</woe_id>
+        <longitude>120</longitude>
+        <woe_name>Pampanga</woe_name>
+        <fips>RP50</fips>
+        <woe_label/>
+        <latitude>15</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>PM</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.PM</id>
+      </desc>
+    </path>
+    <path d="M 312.7019 173.1379 314.7716 183.9359 314.2317 192.8443 309.3726 197.0735 308.4727 200.9428 304.8734 201.4827 303.7036 201.3027 300.1043 199.773 298.8445 199.503 297.9447 197.2534 297.3148 194.6439 296.7749 189.4249 301.9939 181.3264 303.8836 172.4181 309.5525 169.8086 312.7019 173.1379 Z M 304.2435 194.284 303.8836 190.9546 300.5542 190.7747 301.3641 194.0141 304.2435 194.284 Z" id="PH.BG" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>PH.BG</code_hasc>
+        <name>Benguet</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Cordillera Administrative Region (CAR)</region>
+        <woe_id>2346665</woe_id>
+        <longitude>120</longitude>
+        <woe_name>Benguet</woe_name>
+        <fips>RP10</fips>
+        <woe_label/>
+        <latitude>16</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>BG</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.BG</id>
+      </desc>
+    </path>
+    <path d="M 286.8768 226.0481 282.3776 234.9564 292.1858 245.3945 295.4252 255.2027 295.2452 256.4624 287.8666 255.4726 284.8971 257.8122 283.3674 263.0312 279.4081 260.9616 276.5287 240.8053 271.6696 233.8766 274.909 230.1873 272.4794 226.588 271.9395 217.7696 274.3691 217.7696 275.2689 217.4097 276.9786 215.61 282.4676 217.0498 282.9175 217.4997 284.1773 221.189 286.2469 224.4284 286.8768 226.0481 Z" id="PH.ZM" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.ZM</code_hasc>
+        <name>Zambales</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Central Luzon (Region III)</region>
+        <woe_id>2346717</woe_id>
+        <longitude>120</longitude>
+        <woe_name>Zambales</woe_name>
+        <fips>RP64</fips>
+        <woe_label/>
+        <latitude>15</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>ZM</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.ZM</id>
+      </desc>
+    </path>
+    <path d="M 301.9939 181.3264 296.7749 189.4249 297.3148 194.6439 297.9447 197.2534 298.8445 199.503 298.1247 200.4029 296.9549 200.6728 294.3454 200.4928 293.6255 200.4029 291.016 196.8035 288.6764 182.9461 290.5661 174.0378 293.8954 169.7186 299.1145 170.0785 301.9939 181.3264 Z" id="PH.LU" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.LU</code_hasc>
+        <name>La Union</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Ilocos (Region I)</region>
+        <woe_id>2346691</woe_id>
+        <longitude>120</longitude>
+        <woe_name>La Union</woe_name>
+        <fips>RP36</fips>
+        <woe_label/>
+        <latitude>16</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>LU</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.LU</id>
+      </desc>
+    </path>
+    <path d="M 277.1586 199.2331 273.7392 196.0837 275.8088 194.104 277.1586 199.2331 Z M 287.5966 207.1516 289.1263 210.1211 291.016 209.6711 293.6255 207.6015 292.0958 204.7221 293.6255 202.2925 293.7155 200.5828 293.6255 200.4029 296.9549 200.6728 298.1247 200.4029 298.8445 199.503 300.1043 199.773 303.7036 201.3027 304.8734 201.4827 308.4727 200.9428 312.252 202.1125 312.9719 202.6524 313.3318 203.4623 313.8717 205.3519 315.1315 208.8613 315.4914 210.661 315.1315 212.4606 314.7716 213.0905 314.4116 213.3604 314.0517 213.6304 313.6918 214.0803 313.3318 214.6202 312.612 216.5998 312.252 217.2297 311.7121 218.1296 311.0822 218.7594 310.6323 218.6695 309.3726 216.7798 308.7427 216.3299 307.4829 216.3299 302.8938 217.4097 302.4439 216.2399 302.1739 215.7 301.814 215.1601 301.2741 216.6898 300.8242 218.2195 300.1943 219.5693 299.0245 220.6491 297.1348 221.8189 294.0754 220.2892 293.1756 220.1092 292.2758 220.7391 291.5559 221.6389 290.3861 223.8885 289.3963 224.7883 286.8768 226.0481 286.2469 224.4284 284.1773 221.189 282.9175 217.4997 282.4676 217.0498 281.9277 216.9598 280.128 216.8698 276.9786 215.61 275.2689 217.4097 274.3691 217.7696 271.9395 217.7696 271.1297 212.0107 266.5405 211.4708 267.8003 195.1838 273.4693 192.7543 272.8394 198.3332 280.4879 202.4725 282.5576 207.3316 287.5966 207.1516 Z" id="PH.PN" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.PN</code_hasc>
+        <name>Pangasinan</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Ilocos (Region I)</region>
+        <woe_id>2346705</woe_id>
+        <longitude>120</longitude>
+        <woe_name>Pangasinan</woe_name>
+        <fips>RP51</fips>
+        <woe_label/>
+        <latitude>15</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>PN</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.PN</id>
+      </desc>
+    </path>
+    <path d="M 318.5509 279.0482 318.5509 280.6679 321.0704 282.5576 319.1807 289.9362 318.8208 290.6561 317.1111 291.6459 315.0415 292.3657 312.252 292.8157 305.4133 289.6662 303.7036 286.8768 301.454 286.9667 300.8242 286.5168 301.544 285.797 302.1739 284.3572 316.3013 274.729 318.5509 279.0482 Z" id="PH.CV" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.CV</code_hasc>
+        <name>Cavite</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>CALABARZON (Region IV-A)</region>
+        <woe_id>2346675</woe_id>
+        <longitude>120</longitude>
+        <woe_name>Cavite</woe_name>
+        <fips>RP07</fips>
+        <woe_label/>
+        <latitude>14</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>CV</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.CV</id>
+      </desc>
+    </path>
+    <path d="M 321.2504 314.7716 321.3403 316.4812 319.4507 315.1315 321.2504 314.7716 Z M 328.8989 297.9447 329.2589 298.4846 330.2487 299.1145 331.2385 300.6442 336.9074 304.0636 337.2674 309.4625 329.4388 313.6918 319.2707 312.0721 317.831 305.5933 312.8819 309.3726 314.6816 305.5033 312.522 299.9243 305.3233 299.2045 306.0432 302.2639 303.4337 302.0839 303.5237 305.6833 299.8343 288.4065 301.0041 288.1365 300.4642 287.3267 300.8242 286.6068 300.8242 286.5168 301.454 286.9667 303.7036 286.8768 312.252 292.8157 315.0415 292.3657 317.1111 291.6459 318.8208 290.6561 319.1807 289.9362 320.8904 289.7562 323.32 289.7562 325.4796 290.2061 328.8989 297.9447 Z" id="PH.BT" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>PH.BT</code_hasc>
+        <name>Batangas</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>CALABARZON (Region IV-A)</region>
+        <woe_id>2346664</woe_id>
+        <longitude>121</longitude>
+        <woe_name>Batangas</woe_name>
+        <fips>RP09</fips>
+        <woe_label/>
+        <latitude>13</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>BT</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.BT</id>
+      </desc>
+    </path>
+    <path d="M 330.8786 245.2145 332.0483 251.6933 332.3183 253.133 332.4983 257.8122 331.0585 257.8122 326.7393 260.5117 324.5797 263.4811 323.4999 263.3011 323.23 263.6611 322.96 263.6611 320.5305 263.0312 319.7206 263.2112 319.3607 263.841 318.4609 264.201 315.2215 265.0108 316.0313 266.3606 315.2215 266.1806 314.5016 266.0906 311.3522 263.2112 303.9736 262.4013 306.5831 257.4522 314.1417 252.2332 315.5814 243.4149 323.23 241.7952 330.8786 245.2145 Z" id="PH.BU" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.BU</code_hasc>
+        <name>Bulacan</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Central Luzon (Region III)</region>
+        <woe_id>2346668</woe_id>
+        <longitude>121</longitude>
+        <woe_name>Bulacan</woe_name>
+        <fips>RP13</fips>
+        <woe_label/>
+        <latitude>14</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>BU</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.BU</id>
+      </desc>
+    </path>
+    <path d="M 319.1807 289.9362 321.0704 282.5576 318.5509 280.6679 323.9499 279.4081 323.5899 276.6187 323.23 273.5592 328.0891 283.1874 328.359 274.5491 331.5084 276.1688 330.8786 283.7273 334.2979 281.3878 333.3981 274.639 334.2079 273.2893 337.3574 271.5796 339.9669 275.8988 342.7563 282.8275 343.0263 284.1773 343.2063 285.527 342.9363 286.8768 339.067 293.0856 335.3777 294.0754 332.3183 296.235 328.8989 297.9447 325.4796 290.2061 323.32 289.7562 320.8904 289.7562 319.1807 289.9362 Z" id="PH.LG" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.LG</code_hasc>
+        <name>Laguna</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>CALABARZON (Region IV-A)</region>
+        <woe_id>2346688</woe_id>
+        <longitude>121</longitude>
+        <woe_name>Laguna</woe_name>
+        <fips>RP33</fips>
+        <woe_label/>
+        <latitude>14</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>LG</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.LG</id>
+      </desc>
+    </path>
+    <path d="M 332.4983 257.8122 332.5882 262.0414 332.9482 264.021 333.758 265.9107 337.3574 271.5796 334.2079 273.2893 333.3981 274.639 334.2979 281.3878 330.8786 283.7273 331.5084 276.1688 328.359 274.5491 328.0891 283.1874 323.23 273.5592 322.96 269.8699 323.32 267.5304 324.5797 263.4811 326.7393 260.5117 331.0585 257.8122 332.4983 257.8122 Z" id="PH.RI" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.RI</code_hasc>
+        <name>Rizal</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>CALABARZON (Region IV-A)</region>
+        <woe_id>2346706</woe_id>
+        <longitude>121</longitude>
+        <woe_name>Rizal</woe_name>
+        <fips>RP53</fips>
+        <woe_label/>
+        <latitude>14</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>RI</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.RI</id>
+      </desc>
+    </path>
+    <path d="M 364.1724 321.6103 364.8922 324.2198 360.2131 330.7886 351.9346 324.3998 353.9143 315.1315 355.9839 317.0211 359.7632 315.8514 364.7123 319.5407 364.1724 321.6103 Z" id="PH.MQ" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.MQ</code_hasc>
+        <name>Marinduque</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>MIMAROPA (Region IV-B)</region>
+        <woe_id>2346693</woe_id>
+        <longitude>121</longitude>
+        <woe_name>Marinduque</woe_name>
+        <fips>RP38</fips>
+        <woe_label/>
+        <latitude>13</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>MQ</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.MQ</id>
+      </desc>
+    </path>
+    <path d="M 322.6001 375.6902 319.3607 372.9907 319.7206 370.5612 322.6001 375.6902 Z M 313.0619 317.4711 313.1519 317.741 313.3318 319.9006 313.3318 321.0704 312.9719 321.8802 308.2028 328.269 325.7495 336.0976 327.9091 338.0772 327.7291 373.0807 327.5492 373.3507 321.9702 371.731 321.5203 368.3116 323.23 369.2114 313.6918 360.3931 313.9617 355.8939 308.7427 350.9448 307.213 339.157 303.2537 332.4983 296.9549 329.1689 294.4353 320.9804 288.6764 321.3403 290.3861 316.6612 295.2452 317.0211 307.213 319.0908 313.0619 317.4711 Z M 282.3776 302.8938 286.9667 306.5831 286.6068 309.9125 280.038 305.4133 278.9582 302.0839 282.3776 302.8938 Z" id="PH.MC" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.MC</code_hasc>
+        <name>Mindoro Occidental</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>MIMAROPA (Region IV-B)</region>
+        <woe_id>2346695</woe_id>
+        <longitude>121</longitude>
+        <woe_name>Mindoro Occidental</woe_name>
+        <fips>RP40</fips>
+        <woe_label/>
+        <latitude>12</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>MC</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.MC</id>
+      </desc>
+    </path>
+    <path d="M 327.7291 373.0807 327.9091 338.0772 308.2028 328.269 312.9719 321.8802 313.3318 321.0704 313.3318 319.9006 313.0619 317.4711 314.0517 317.0211 316.6612 316.3913 318.7308 321.1604 322.6901 323.32 325.9295 320.3505 335.7377 329.7988 335.9176 333.1281 340.5068 333.848 337.8073 339.8769 339.6069 352.2946 340.4168 356.2538 334.7478 363.5425 336.0076 367.2318 333.4881 366.6919 334.028 370.1113 332.2283 368.6715 328.8089 371.0111 327.7291 373.0807 Z" id="PH.MR" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.MR</code_hasc>
+        <name>Mindoro Oriental</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>MIMAROPA (Region IV-B)</region>
+        <woe_id>2346696</woe_id>
+        <longitude>121</longitude>
+        <woe_name>Mindoro Oriental</woe_name>
+        <fips>RP41</fips>
+        <woe_label/>
+        <latitude>12</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>MR</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.MR</id>
+      </desc>
+    </path>
+    <path d="M 367.4118 296.145 358.5034 290.2061 356.8837 286.8768 367.4118 296.145 Z M 375.8702 267.0804 373.3507 266.2706 377.6698 265.3708 375.8702 267.0804 Z M 365.882 260.2417 368.6715 260.2417 370.8311 264.291 365.1622 261.5915 365.882 260.2417 Z M 358.8633 251.1534 362.5527 253.9429 360.3931 253.6729 358.7734 257.4522 361.2029 264.6509 357.5136 268.7901 356.7038 261.4115 352.4745 255.5626 353.6443 251.2434 358.8633 251.1534 Z M 394.3167 296.7749 391.7972 297.4048 385.8583 298.0347 383.5188 299.3844 377.3999 298.7545 381.4491 304.2435 380.9092 311.5322 386.7582 316.4812 383.7887 315.3115 388.2879 323.32 389.0077 329.7988 384.6885 332.1383 381.1792 329.3488 380.9992 323.7699 376.59 317.1111 368.0416 312.7019 362.4627 304.8734 348.3353 297.6747 344.646 300.2843 342.3064 296.505 338.7971 298.1247 340.9567 301.544 340.1468 302.1739 339.7869 302.2639 338.6171 302.4439 336.9074 304.0636 331.2385 300.6442 330.2487 299.1145 329.2589 298.4846 328.8989 297.9447 335.3777 294.0754 339.067 293.0856 343.2063 285.527 342.7563 282.8275 339.9669 275.8988 338.8871 273.9192 333.758 265.9107 332.9482 264.021 332.5882 262.0414 332.4983 257.8122 332.3183 253.133 332.0483 251.6933 332.5882 251.7833 332.8582 251.8733 333.1281 251.8733 333.1281 250.7035 334.7478 248.6339 335.1978 247.5541 335.1078 247.1941 334.8378 246.1143 334.5679 246.2943 334.3879 246.2943 334.3879 246.1143 334.4779 245.8444 334.6579 245.7544 334.9278 245.6644 335.1978 244.9446 335.3777 244.4047 335.8276 244.1347 336.6375 244.2247 336.9074 244.1347 338.4372 245.2145 343.1163 259.2519 348.5153 264.8309 343.8361 266.5405 343.5662 269.1501 350.6749 290.926 357.2437 296.5949 369.7513 300.4642 367.6817 296.9549 372.2709 297.7647 373.1707 295.7851 366.8719 289.2163 370.2912 287.9566 370.5612 285.617 371.461 290.5661 372.3608 290.3861 372.6308 292.4557 372.9907 292.2758 372.9907 292.9956 380.1894 289.9362 394.3167 296.7749 Z" id="PH.QZ" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.QZ</code_hasc>
+        <name>Quezon</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>CALABARZON (Region IV-A)</region>
+        <woe_id>2346787</woe_id>
+        <longitude>122</longitude>
+        <woe_name>Quezon</woe_name>
+        <fips>RPH2</fips>
+        <woe_label/>
+        <latitude>13</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>QZ</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.QZ</id>
+      </desc>
+    </path>
+    <path d="M 439.2184 568.2544 428.6004 562.6754 432.3797 559.346 431.7498 556.8265 443.8075 548.1881 455.1454 546.2085 458.0249 546.1185 457.575 551.7874 447.6768 559.616 444.8873 568.3443 439.5783 566.7246 439.2184 568.2544 Z" id="PH.LN" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.LN</code_hasc>
+        <name>Lanao del Norte</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Northern Mindanao (Region X)</region>
+        <woe_id>2346689</woe_id>
+        <longitude>124</longitude>
+        <woe_name>Lanao del Norte</woe_name>
+        <fips>RP34</fips>
+        <woe_label/>
+        <latitude>8</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>LN</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.LN</id>
+      </desc>
+    </path>
+    <path d="M 472.2422 555.0268 474.0419 557.0964 471.1624 558.7161 472.1522 561.5956 479.9808 572.1236 465.2235 569.6941 452.4459 579.9522 447.9468 572.5735 439.2184 568.2544 439.5783 566.7246 444.8873 568.3443 447.6768 559.616 457.575 551.7874 458.0249 546.1185 460.5444 545.6686 472.2422 555.0268 Z" id="PH.LS" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.LS</code_hasc>
+        <name>Lanao del Sur</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Autonomous Region in Muslim Mindanao (ARMM)</region>
+        <woe_id>2346690</woe_id>
+        <longitude>124</longitude>
+        <woe_name>Lanao del Sur</woe_name>
+        <fips>RP35</fips>
+        <woe_label/>
+        <latitude>7</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>LS</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.LS</id>
+      </desc>
+    </path>
+    <path d="M 483.9401 610.1865 484.48 614.0558 481.3305 613.9658 475.2117 608.1169 475.9315 605.1475 472.9621 604.6076 467.6531 610.0966 446.867 609.0168 443.8075 606.3173 444.7074 597.9488 446.507 593.6296 453.1658 588.8605 457.305 591.47 458.3848 588.9505 454.6955 584.7213 455.8653 581.122 452.4459 579.9522 465.2235 569.6941 466.3933 579.8622 459.2846 591.0201 466.3933 588.7705 464.5037 594.3495 474.6718 600.6483 476.3815 598.6687 473.9519 595.1593 476.3815 589.8503 479.6209 595.3393 479.1709 599.3886 481.1506 599.5685 481.4205 608.5668 483.9401 610.1865 Z" id="PH.MG" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.MG</code_hasc>
+        <name>Maguindanao</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Autonomous Region in Muslim Mindanao (ARMM)</region>
+        <woe_id>2346709</woe_id>
+        <longitude>124</longitude>
+        <woe_name>Maguindanao</woe_name>
+        <fips>RP56</fips>
+        <woe_label/>
+        <latitude>6</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>MG</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.MG</id>
+      </desc>
+    </path>
+    <path d="M 479.9808 572.1236 483.5801 580.5821 487.9893 581.6619 499.6871 573.4734 497.9774 590.5702 501.2168 593.1797 501.9367 597.229 501.6668 597.5889 501.3968 597.6789 499.9571 598.3088 499.9571 600.3784 495.5479 605.1475 494.918 607.847 483.9401 610.1865 481.4205 608.5668 481.1506 599.5685 479.1709 599.3886 479.6209 595.3393 476.3815 589.8503 473.9519 595.1593 476.3815 598.6687 474.6718 600.6483 464.5037 594.3495 466.3933 588.7705 459.2846 591.0201 466.3933 579.8622 465.2235 569.6941 479.9808 572.1236 Z" id="PH.NC" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.NC</code_hasc>
+        <name>Cotabato</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>SOCCSKSARGEN (Region XII)</region>
+        <woe_id>2346710</woe_id>
+        <longitude>124</longitude>
+        <woe_name>Cotabato</woe_name>
+        <fips>RP57</fips>
+        <woe_label/>
+        <latitude>7</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>NC</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.NC</id>
+      </desc>
+    </path>
+    <path d="M 483.9401 610.1865 494.918 607.847 495.098 609.9166 496.7177 612.3461 496.8077 613.066 496.0878 617.2952 488.8891 617.0253 485.2898 617.3852 482.2304 618.7349 477.7312 614.2358 474.3118 616.2154 472.6022 614.1458 473.0521 629.083 456.0452 629.173 458.6548 632.2324 461.8942 634.752 461.3543 636.0117 455.2354 633.2223 448.3967 624.4939 446.867 609.0168 467.6531 610.0966 472.9621 604.6076 475.9315 605.1475 475.2117 608.1169 481.3305 613.9658 484.48 614.0558 483.9401 610.1865 Z" id="PH.SK" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.SK</code_hasc>
+        <name>Sultan Kudarat</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>SOCCSKSARGEN (Region XII)</region>
+        <woe_id>2346724</woe_id>
+        <longitude>124</longitude>
+        <woe_name>Sultan Kudarat</woe_name>
+        <fips>RP71</fips>
+        <woe_label/>
+        <latitude>6</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>SK</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.SK</id>
+      </desc>
+    </path>
+    <path d="M 470.2626 401.5154 470.6225 404.8448 464.8636 405.3847 459.5546 396.5663 466.9332 396.2064 470.2626 401.5154 Z" id="PH.BI" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.BI</code_hasc>
+        <name>Biliran</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Eastern Visayas (Region VIII)</region>
+        <woe_id>28350147</woe_id>
+        <longitude>124</longitude>
+        <woe_name>Biliran</woe_name>
+        <fips>RP37</fips>
+        <woe_label/>
+        <latitude>11</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>BI</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.BI</id>
+      </desc>
+    </path>
+    <path d="M 520.0233 436.6989 523.0828 437.5087 520.3833 438.4085 516.694 436.159 516.8739 433.9094 520.0233 436.6989 Z M 500.497 369.3914 508.3255 371.641 509.9452 374.4304 506.6158 376.95 509.4053 379.9194 506.0759 384.6885 508.2355 391.4373 506.3459 393.147 508.5055 395.3066 507.1557 399.1758 509.4953 405.6546 514.5344 409.6139 511.025 416.3626 512.9147 417.3525 514.1744 415.2828 516.9639 417.1725 520.6532 423.2014 519.9334 424.4611 517.5038 420.5019 511.4749 418.7922 509.9452 421.6717 500.9469 419.1521 497.7075 421.5817 502.2067 407.7242 499.2372 401.4254 497.5275 383.8787 495.8178 381.8091 492.3085 382.6189 493.9282 368.8515 495.9078 366.242 498.6073 370.2012 500.497 369.3914 Z" id="PH.ES" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.ES</code_hasc>
+        <name>Eastern Samar</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Eastern Visayas (Region VIII)</region>
+        <woe_id>2346678</woe_id>
+        <longitude>125</longitude>
+        <woe_name>Eastern Samar</woe_name>
+        <fips>RP23</fips>
+        <woe_label/>
+        <latitude>10</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>ES</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.ES</id>
+      </desc>
+    </path>
+    <path d="M 460.9943 441.9179 456.9451 442.9977 459.3746 438.3186 460.9943 441.9179 Z M 466.5733 441.378 462.2541 439.5783 464.6836 438.2286 466.5733 441.378 Z M 494.738 442.0079 483.7601 447.6768 483.4901 457.0351 477.6412 460.9943 478.721 454.8755 476.2915 450.8262 478.991 439.6683 478.0012 433.5494 474.3118 428.4204 472.5122 427.0706 471.9723 426.0808 471.3424 425.7209 473.322 423.0214 470.5326 419.0621 466.0334 421.1318 465.5835 423.0214 468.193 426.5307 468.103 427.2506 468.8229 428.7803 467.8331 430.67 461.7142 428.6903 461.9841 412.8533 459.8245 411.6835 457.485 402.5052 465.1336 409.254 466.1234 406.7344 471.6124 412.6733 476.4714 411.5935 480.7007 407.0944 486.2796 408.804 486.2796 411.3236 483.9401 411.7735 484.48 415.5528 486.7295 417.4424 489.0691 417.1725 488.0793 436.3389 494.738 442.0079 Z" id="PH.LE" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.LE</code_hasc>
+        <name>Leyte</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Eastern Visayas (Region VIII)</region>
+        <woe_id>2346692</woe_id>
+        <longitude>124</longitude>
+        <woe_name>Leyte</woe_name>
+        <fips>RP37</fips>
+        <woe_label/>
+        <latitude>10</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>LE</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.LE</id>
+      </desc>
+    </path>
+    <path d="M 481.1506 399.6258 480.0708 402.5952 475.8416 394.6767 481.1506 399.6258 Z M 452.176 380.9992 451.6361 379.4695 454.3356 379.5595 452.176 380.9992 Z M 493.9282 368.8515 492.3085 382.6189 495.8178 381.8091 497.5275 383.8787 499.2372 401.4254 502.2067 407.7242 497.7075 421.5817 494.738 414.203 487.3594 413.2132 487.6294 407.3643 479.9808 403.855 486.2796 400.1657 489.0691 392.967 482.5903 392.877 478.4511 388.7378 479.7108 386.6682 477.0113 386.8481 473.502 381.3592 465.5835 378.4797 460.2745 370.2012 465.2235 368.4016 473.412 372.7208 480.5207 372.8108 493.9282 368.8515 Z" id="PH.SM" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.SM</code_hasc>
+        <name>Samar</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Eastern Visayas (Region VIII)</region>
+        <woe_id>2346708</woe_id>
+        <longitude>124</longitude>
+        <woe_name>Samar</woe_name>
+        <fips>RP55</fips>
+        <woe_label/>
+        <latitude>11</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>SM</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.SM</id>
+      </desc>
+    </path>
+    <path d="M 500.227 472.2422 493.9282 465.8534 493.5683 461.7142 497.5275 463.6038 500.227 472.2422 Z M 477.6412 460.9943 483.4901 457.0351 483.7601 447.6768 494.738 442.0079 498.7873 457.575 493.6582 456.8551 494.1082 460.9043 492.6684 460.3644 487.1795 452.4459 489.0691 468.013 477.6412 460.9943 Z" id="PH.SL" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.SL</code_hasc>
+        <name>Southern Leyte</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Eastern Visayas (Region VIII)</region>
+        <woe_id>2346712</woe_id>
+        <longitude>125</longitude>
+        <woe_name>Southern Leyte</woe_name>
+        <fips>RP59</fips>
+        <woe_label/>
+        <latitude>10</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>SL</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.SL</id>
+      </desc>
+    </path>
+    <path d="M 500.497 369.3914 498.6073 370.2012 495.9078 366.242 493.9282 368.8515 480.5207 372.8108 473.412 372.7208 465.2235 368.4016 460.2745 370.2012 456.2252 359.6732 457.485 357.5136 473.322 360.3931 481.7805 359.5832 481.6905 357.0637 489.0691 359.6732 494.0182 357.5136 501.8467 365.1622 500.497 369.3914 Z" id="PH.NS" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.NS</code_hasc>
+        <name>Northern Samar</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Eastern Visayas (Region VIII)</region>
+        <woe_id>2346720</woe_id>
+        <longitude>124</longitude>
+        <woe_name>Northern Samar</woe_name>
+        <fips>RP67</fips>
+        <woe_label/>
+        <latitude>12</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>NS</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.NS</id>
+      </desc>
+    </path>
+    <path d="M 501.8467 529.7415 501.8467 516.9639 496.7177 508.5055 500.317 512.0148 506.8858 512.8247 507.8756 517.3238 510.0352 520.7432 516.9639 520.5632 518.4036 523.7126 518.2237 524.3425 516.7839 525.2424 516.514 525.4223 511.025 524.9724 501.8467 529.7415 Z M 507.7856 492.7584 516.9639 493.0284 519.2135 498.3374 519.1235 499.0572 519.2135 500.227 519.4834 501.1269 520.0233 501.8467 520.8332 502.7466 518.4036 511.295 510.1252 511.295 511.205 503.8264 507.7856 492.7584 Z" id="PH.AN" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.AN</code_hasc>
+        <name>Agusan del Norte</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Dinagat Islands (Region XIII)</region>
+        <woe_id>2346657</woe_id>
+        <longitude>125</longitude>
+        <woe_name>Agusan del Norte</woe_name>
+        <fips>RP02</fips>
+        <woe_label/>
+        <latitude>9</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>AN</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.AN</id>
+      </desc>
+    </path>
+    <path d="M 543.7789 555.1168 539.0998 555.2068 517.2339 555.2968 504.2763 555.2968 503.9163 554.037 503.6464 549.8978 502.1167 546.0285 501.8467 529.7415 506.6158 529.3816 511.025 524.9724 516.514 525.4223 516.7839 525.2424 518.2237 524.3425 518.4036 523.7126 516.9639 520.5632 516.8739 519.1235 516.424 517.2339 518.4036 511.295 520.8332 502.7466 521.823 504.8162 522.3629 507.0657 522.4529 513.3646 532.441 526.1422 530.6414 530.4614 534.0607 538.11 540.7195 539.9096 539.9996 545.6686 543.7789 555.1168 Z" id="PH.AS" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.AS</code_hasc>
+        <name>Agusan del Sur</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Dinagat Islands (Region XIII)</region>
+        <woe_id>2346658</woe_id>
+        <longitude>125</longitude>
+        <woe_name>Agusan del Sur</woe_name>
+        <fips>RP03</fips>
+        <woe_label/>
+        <latitude>8</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>AS</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.AS</id>
+      </desc>
+    </path>
+    <path d="M 501.8467 529.7415 502.1167 546.0285 503.6464 549.8978 503.9163 554.037 504.2763 555.2968 506.9758 567.8044 501.3068 569.1542 501.3968 570.144 500.6769 572.6635 499.6871 573.4734 487.9893 581.6619 483.5801 580.5821 479.9808 572.1236 472.1522 561.5956 471.1624 558.7161 474.0419 557.0964 472.2422 555.0268 469.1828 550.2577 469.7227 545.1287 471.7023 537.4801 480.4307 537.5701 480.6107 533.0709 480.8806 532.2611 481.4205 531.4512 482.1404 530.8213 482.7703 530.2814 483.8501 529.7415 501.8467 529.7415 Z" id="PH.BK" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.BK</code_hasc>
+        <name>Bukidnon</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Northern Mindanao (Region X)</region>
+        <woe_id>2346667</woe_id>
+        <longitude>125</longitude>
+        <woe_name>Bukidnon</woe_name>
+        <fips>RP12</fips>
+        <woe_label/>
+        <latitude>7</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>BK</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.BK</id>
+      </desc>
+    </path>
+    <path d="M 478.631 503.5564 478.0911 508.8654 472.3322 504.2763 475.3916 501.3968 478.631 503.5564 Z" id="PH.CM" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.CM</code_hasc>
+        <name>Camiguin</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Northern Mindanao (Region X)</region>
+        <woe_id>2346672</woe_id>
+        <longitude>124</longitude>
+        <woe_name>Camiguin</woe_name>
+        <fips>RP17</fips>
+        <woe_label/>
+        <latitude>9</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>CM</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.CM</id>
+      </desc>
+    </path>
+    <path d="M 522.2729 601.9081 517.4138 595.3393 519.2135 589.8503 522.3629 593.4497 522.2729 601.9081 Z M 521.733 569.964 523.5327 568.7943 524.7025 566.6347 526.1422 564.4751 527.8519 562.5854 528.9317 565.5549 527.222 568.6143 528.5717 571.2238 528.1218 574.0133 527.7619 574.8231 525.0624 575.453 525.7823 576.6228 526.4121 577.3427 525.6023 577.6126 524.9724 578.0625 524.2525 578.6024 523.9826 579.5922 524.6125 580.0422 524.5225 580.762 524.1626 581.4819 524.2525 582.1118 524.1626 582.6517 524.1626 583.0116 523.8926 582.9216 523.0828 583.1016 517.5038 586.8809 515.1642 588.0507 509.9452 587.9607 509.8552 572.8435 500.6769 572.6635 501.3968 570.144 501.3068 569.1542 506.9758 567.8044 504.2763 555.2968 517.2339 555.2968 518.4936 564.0251 521.823 568.1644 521.733 569.964 Z" id="PH.DV" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.DV</code_hasc>
+        <name>Davao del Norte</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Davao (Region XI)</region>
+        <woe_id>28350149</woe_id>
+        <longitude>125</longitude>
+        <woe_name>Davao del Norte</woe_name>
+        <fips>RP24</fips>
+        <woe_label/>
+        <latitude>7</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>DV</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.DV</id>
+      </desc>
+    </path>
+    <path d="M 539.0998 555.2068 540.8095 578.5124 544.1388 585.2612 529.5616 596.2391 525.0624 587.3308 525.1524 583.8215 524.1626 583.0116 524.1626 582.6517 524.2525 582.1118 524.1626 581.4819 524.5225 580.762 524.6125 580.0422 523.9826 579.5922 524.2525 578.6024 524.9724 578.0625 525.6023 577.6126 526.4121 577.3427 525.7823 576.6228 525.0624 575.453 527.7619 574.8231 528.1218 574.0133 528.5717 571.2238 527.222 568.6143 528.9317 565.5549 527.8519 562.5854 526.1422 564.4751 524.7025 566.6347 523.5327 568.7943 521.733 569.964 518.4936 564.0251 517.2339 555.2968 539.0998 555.2068 Z" id="PH.CL" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.CL</code_hasc>
+        <name>Compostela Valley</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Davao (Region XI)</region>
+        <woe_id>28350148</woe_id>
+        <longitude>125</longitude>
+        <woe_name>Compostela Valley</woe_name>
+        <fips>RP24</fips>
+        <woe_label/>
+        <latitude>7</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>CL</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.CL</id>
+      </desc>
+    </path>
+    <path d="M 528.9317 479.1709 530.7313 482.5903 528.7517 487.3594 527.042 485.1098 528.9317 479.1709 Z M 519.2135 498.3374 516.9639 493.0284 507.7856 492.7584 504.8162 481.7805 507.4257 476.4714 513.0046 479.3509 515.4342 485.5598 527.9419 490.5988 527.8519 490.5988 519.2135 498.3374 Z M 536.7602 475.0317 538.2899 477.7312 532.711 479.1709 529.1116 475.1217 531.1813 474.4918 529.8315 472.8721 533.6108 466.0334 536.7602 475.0317 Z M 516.8739 451.4561 514.8943 458.0249 517.8637 465.2235 517.6838 474.1319 512.6447 468.373 513.2746 464.8636 510.0352 466.0334 508.7754 462.524 511.3849 452.7159 513.7245 452.7159 514.8943 448.8466 516.8739 451.4561 Z" id="PH.DI" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.DI</code_hasc>
+        <name>Surigao del Norte</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Dinagat Islands (Region XIII)</region>
+        <woe_id>2346714</woe_id>
+        <longitude>125</longitude>
+        <woe_name>Surigao del Norte</woe_name>
+        <fips>RP61</fips>
+        <woe_label/>
+        <latitude>9</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>DI</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.DI</id>
+      </desc>
+    </path>
+    <path d="M 547.8282 559.256 543.7789 555.1168 539.9996 545.6686 540.7195 539.9096 534.0607 538.11 530.6414 530.4614 532.441 526.1422 522.4529 513.3646 522.3629 507.0657 521.823 504.8162 520.8332 502.7466 520.0233 501.8467 519.4834 501.1269 519.2135 500.227 519.1235 499.0572 519.2135 498.3374 527.8519 490.5988 527.9419 490.5988 528.1218 490.9587 528.2118 491.3187 528.6617 492.2185 529.4716 492.2185 526.952 494.3781 530.5514 494.6481 533.3409 501.1269 540.2696 498.5173 538.5599 507.6956 545.8485 518.0437 541.0794 523.2627 541.9792 525.3323 535.7704 528.7517 537.93 532.1711 547.0183 531.4512 548.548 533.6108 545.4886 539.9096 547.9181 542.2492 545.7585 545.6686 550.9776 544.4988 551.3375 550.7976 547.8282 559.256 Z" id="PH.SS" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.SS</code_hasc>
+        <name>Surigao del Sur</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Dinagat Islands (Region XIII)</region>
+        <woe_id>2346715</woe_id>
+        <longitude>126</longitude>
+        <woe_name>Surigao del Sur</woe_name>
+        <fips>RP62</fips>
+        <woe_label/>
+        <latitude>8</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>SS</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.SS</id>
+      </desc>
+    </path>
+    <path d="M 463.8738 540.2696 461.3543 539.1898 456.4052 541.4393 459.8245 531.7212 464.1437 528.4818 469.6327 532.621 466.6633 537.3901 463.8738 540.2696 Z M 501.8467 529.7415 483.8501 529.7415 482.7703 530.2814 482.1404 530.8213 481.4205 531.4512 480.8806 532.2611 480.6107 533.0709 477.4613 531.0913 479.3509 512.1948 484.3 512.3748 492.9384 519.3935 495.9978 517.4138 496.7177 508.5055 501.8467 516.9639 501.8467 529.7415 Z" id="PH.MN" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.MN</code_hasc>
+        <name>Misamis Oriental</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Northern Mindanao (Region X)</region>
+        <woe_id>2346698</woe_id>
+        <longitude>124</longitude>
+        <woe_name>Misamis Oriental</woe_name>
+        <fips>RP43</fips>
+        <woe_label/>
+        <latitude>8</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>MN</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.MN</id>
+      </desc>
+    </path>
+    <path d="M 506.9758 668.4957 503.1065 667.8658 506.1659 666.1561 506.9758 668.4957 Z M 501.8467 659.5873 509.3153 648.6994 510.5751 632.2324 507.7856 628.0032 499.8671 627.6433 494.5581 622.8742 494.5581 622.5142 494.738 622.2443 495.008 621.9743 495.3679 621.6144 495.6379 620.5346 495.7279 618.285 496.0878 617.2952 496.8077 613.066 496.7177 612.3461 496.3577 611.6263 495.098 609.9166 494.918 607.847 495.5479 605.1475 499.9571 600.3784 499.9571 598.3088 500.407 598.0388 501.3968 597.6789 510.3951 597.6789 509.4053 599.2986 509.1354 602.178 505.806 606.4972 504.9061 613.246 505.9859 616.1254 507.1557 614.9557 513.9945 619.9947 519.2135 636.7316 517.4138 643.6603 506.8858 658.9575 501.8467 659.5873 Z" id="PH.DS" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.DS</code_hasc>
+        <name>Davao del Sur</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Davao (Region XI)</region>
+        <woe_id>2346680</woe_id>
+        <longitude>125</longitude>
+        <woe_name>Davao del Sur</woe_name>
+        <fips>RP25</fips>
+        <woe_label/>
+        <latitude>6</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>DS</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.DS</id>
+      </desc>
+    </path>
+    <path d="M 547.8282 559.256 552.3273 565.8248 556.4665 566.9946 556.0166 585.0812 558.0862 586.071 551.0676 598.8487 545.5786 599.1186 546.2984 607.3971 542.0692 601.6381 539.0098 602.358 542.6991 609.1967 540.3595 629.173 535.7704 619.2748 534.9606 605.0575 530.8213 601.6381 529.5616 596.2391 544.1388 585.2612 540.8095 578.5124 539.0998 555.2068 543.7789 555.1168 547.8282 559.256 Z" id="PH.DO" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.DO</code_hasc>
+        <name>Davao Oriental</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Davao (Region XI)</region>
+        <woe_id>2346681</woe_id>
+        <longitude>126</longitude>
+        <woe_name>Davao Oriental</woe_name>
+        <fips>RP26</fips>
+        <woe_label/>
+        <latitude>7</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>DO</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.DO</id>
+      </desc>
+    </path>
+    <path d="M 481.1506 641.5007 490.5988 641.4107 490.8688 643.4803 491.8586 643.5703 492.9384 643.5703 493.3883 643.6603 491.5886 647.6196 485.9197 647.5296 461.3543 636.0117 461.8942 634.752 462.2541 633.4022 462.2541 632.9523 462.4341 632.5924 466.3033 634.1221 472.6022 637.9914 479.4409 641.2308 481.1506 641.5007 Z M 501.8467 659.5873 501.0369 654.2783 496.4477 650.3191 500.587 642.4905 498.6073 634.752 500.227 630.1628 499.2372 629.443 494.4681 627.8233 491.7686 626.8334 494.5581 622.8742 499.8671 627.6433 507.7856 628.0032 510.5751 632.2324 509.3153 648.6994 501.8467 659.5873 Z" id="PH.SG" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.SG</code_hasc>
+        <name>Sarangani</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>SOCCSKSARGEN (Region XII)</region>
+        <woe_id>28350152</woe_id>
+        <longitude>125</longitude>
+        <woe_name>Sarangani</woe_name>
+        <fips>RP25</fips>
+        <woe_label/>
+        <latitude>5</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>SG</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.SG</id>
+      </desc>
+    </path>
+    <path d="M 496.0878 617.2952 495.7279 618.285 495.6379 620.5346 495.3679 621.6144 495.008 621.9743 494.738 622.2443 494.5581 622.5142 494.5581 622.8742 492.6684 624.7638 491.7686 626.8334 494.4681 627.8233 492.9384 630.7927 493.6582 633.4022 490.0589 633.2223 490.5988 641.4107 488.5292 641.5907 481.1506 641.5007 479.4409 641.2308 472.6022 637.9914 462.4341 632.5924 462.2541 632.9523 461.8942 634.752 458.6548 632.2324 456.0452 629.173 473.0521 629.083 472.6022 614.1458 474.3118 616.2154 477.7312 614.2358 482.2304 618.7349 485.2898 617.3852 488.8891 617.0253 496.0878 617.2952 Z" id="PH.SC" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.SC</code_hasc>
+        <name>South Cotabato</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>SOCCSKSARGEN (Region XII)</region>
+        <woe_id>2346723</woe_id>
+        <longitude>124</longitude>
+        <woe_name>South Cotabato</woe_name>
+        <fips>RP70</fips>
+        <woe_label/>
+        <latitude>6</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>SC</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.SC</id>
+      </desc>
+    </path>
+    <path d="M 342.7563 155.9511 341.8565 155.5912 338.9771 154.7814 336.7275 153.7915 327.0993 159.3705 315.5814 155.6812 319.5407 145.3331 323.4999 142.9936 324.5797 137.0547 337.0874 135.7049 337.8973 136.8747 340.7767 139.9341 342.0365 141.6438 342.6664 142.3637 345.0059 143.5335 345.6358 143.8934 346.2657 144.3433 346.9856 145.6031 346.4457 146.6829 344.556 148.5725 344.1961 149.5623 343.8361 152.6218 342.8463 155.0513 342.7563 155.9511 Z" id="PH.6455" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.AP</code_hasc>
+        <name>Kalinga</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>Cordillera Administrative Region (CAR)</region>
+        <woe_id>28350151</woe_id>
+        <longitude>121</longitude>
+        <woe_name>Kalinga</woe_name>
+        <fips>RP32</fips>
+        <woe_label/>
+        <latitude>17</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>AP</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.6455</id>
+      </desc>
+    </path>
+    <path d="M 354.9041 591.9199 364.2623 592.0999 370.2912 578.3325 374.5204 578.2425 375.3303 581.7518 371.1011 585.8911 369.4814 594.3495 364.3523 602.9879 356.2538 599.5685 354.9041 591.9199 Z" id="PH.6456" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.</code_hasc>
+        <name>Zamboanga</name>
+        <admin>Philippines</admin>
+        <type_en>Highly Urbanized City</type_en>
+        <region>Zamboanga Peninsula (Region IX)</region>
+        <woe_id>2346785</woe_id>
+        <longitude>122</longitude>
+        <woe_name>Zamboanga City</woe_name>
+        <fips>RP65</fips>
+        <woe_label/>
+        <latitude>7</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>ZS</postal>
+        <type>Highly Urbanized City</type>
+        <id>PH.6456</id>
+      </desc>
+    </path>
+    <path d="M 355.534 612.6161 361.1129 609.8266 363.2725 616.4854 357.4236 616.7553 355.534 612.6161 Z" id="PH.6457" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.</code_hasc>
+        <name>Isabela</name>
+        <admin>Philippines</admin>
+        <type_en>Highly Urbanized City</type_en>
+        <region>Zamboanga Peninsula (Region IX)</region>
+        <woe_id>1199250</woe_id>
+        <longitude>122</longitude>
+        <woe_name>Isabela</woe_name>
+        <fips>RP22</fips>
+        <woe_label/>
+        <latitude>6</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>BS</postal>
+        <type>Highly Urbanized City</type>
+        <id>PH.6457</id>
+      </desc>
+    </path>
+    <path d="M 442.0978 451.816 442.0978 455.7753 439.2184 458.3848 438.3186 455.6853 437.8686 453.8857 439.3983 451.4561 440.8381 450.2863 442.0978 451.816 Z" id="PH.6983" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>PH.</code_hasc>
+        <name>Cebu</name>
+        <admin>Philippines</admin>
+        <type_en>Highly Urbanized City</type_en>
+        <region>Central Visayas (Region VII)</region>
+        <woe_id>-23424721</woe_id>
+        <longitude>123</longitude>
+        <woe_name/>
+        <fips/>
+        <woe_label/>
+        <latitude>10</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>CB</postal>
+        <type>Highly Urbanized City</type>
+        <id>PH.6983</id>
+      </desc>
+    </path>
+    <path d="M 442.0978 455.7753 442.0978 451.816 443.9875 452.8059 442.0978 455.7753 Z" id="PH.6984" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>PH.</code_hasc>
+        <name>Mandaue</name>
+        <admin>Philippines</admin>
+        <type_en>Highly Urbanized City</type_en>
+        <region>Central Visayas (Region VII)</region>
+        <woe_id>-23424721</woe_id>
+        <longitude>123</longitude>
+        <woe_name/>
+        <fips/>
+        <woe_label/>
+        <latitude>10</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>CB</postal>
+        <type>Highly Urbanized City</type>
+        <id>PH.6984</id>
+      </desc>
+    </path>
+    <path d="M 446.777 455.1454 442.0079 458.1149 442.6377 455.8653 446.777 455.1454 Z" id="PH.6985" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>PH.</code_hasc>
+        <name>Lapu-Lapu</name>
+        <admin>Philippines</admin>
+        <type_en>Highly Urbanized City</type_en>
+        <region>Central Visayas (Region VII)</region>
+        <woe_id>-23424721</woe_id>
+        <longitude>123</longitude>
+        <woe_name/>
+        <fips/>
+        <woe_label/>
+        <latitude>10</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>CB</postal>
+        <type>Highly Urbanized City</type>
+        <id>PH.6985</id>
+      </desc>
+    </path>
+    <path d="M 398.7259 442.4578 401.0655 437.1488 405.0248 439.7583 403.1351 443.6276 398.7259 442.4578 Z" id="PH.6987" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.</code_hasc>
+        <name>Bacolod</name>
+        <admin>Philippines</admin>
+        <type_en>Highly Urbanized City</type_en>
+        <region>Western Visayas (Region VI)</region>
+        <woe_id>-23424725</woe_id>
+        <longitude>122</longitude>
+        <woe_name/>
+        <fips/>
+        <woe_label/>
+        <latitude>10</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>ND</postal>
+        <type>Highly Urbanized City</type>
+        <id>PH.6987</id>
+      </desc>
+    </path>
+    <path d="M 385.6784 436.3389 384.5986 439.0384 379.5595 439.4883 382.169 434.6292 385.6784 436.3389 Z" id="PH.6986" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.</code_hasc>
+        <name>Iloilo</name>
+        <admin>Philippines</admin>
+        <type_en>Highly Urbanized City</type_en>
+        <region>Western Visayas (Region VI)</region>
+        <woe_id>-23424725</woe_id>
+        <longitude>122</longitude>
+        <woe_name/>
+        <fips/>
+        <woe_label/>
+        <latitude>10</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>II</postal>
+        <type>Highly Urbanized City</type>
+        <id>PH.6986</id>
+      </desc>
+    </path>
+    <path d="M 453.1658 588.8605 454.6955 584.7213 458.3848 588.9505 457.305 591.47 453.1658 588.8605 Z" id="PH.6988" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.</code_hasc>
+        <name>Cotabato</name>
+        <admin>Philippines</admin>
+        <type_en>Independent Component City</type_en>
+        <region>Autonomous Region in Muslim Mindanao (ARMM)</region>
+        <woe_id>2346709</woe_id>
+        <longitude>124</longitude>
+        <woe_name>Maguindanao</woe_name>
+        <fips>RP56</fips>
+        <woe_label/>
+        <latitude>7</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>MG</postal>
+        <type>Independent Component City</type>
+        <id>PH.6988</id>
+      </desc>
+    </path>
+    <path d="M 501.3968 597.6789 501.6668 597.5889 501.9367 597.229 501.2168 593.1797 497.9774 590.5702 499.6871 573.4734 500.6769 572.6635 509.8552 572.8435 509.9452 587.9607 515.1642 588.0507 517.5038 586.8809 514.4444 595.9692 513.1846 596.6891 511.7449 597.049 510.3951 597.6789 501.3968 597.6789 Z" id="PH.6989" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.</code_hasc>
+        <name>Davao</name>
+        <admin>Philippines</admin>
+        <type_en>Highly Urbanized City</type_en>
+        <region>Davao (Region XI)</region>
+        <woe_id>0</woe_id>
+        <longitude>125</longitude>
+        <woe_name/>
+        <fips>RP25</fips>
+        <woe_label/>
+        <latitude>7</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>DS</postal>
+        <type>Highly Urbanized City</type>
+        <id>PH.6989</id>
+      </desc>
+    </path>
+    <path d="M 490.5988 641.4107 490.0589 633.2223 493.6582 633.4022 492.9384 630.7927 494.4681 627.8233 500.227 630.1628 498.6073 634.752 498.8773 637.5414 495.3679 636.9116 495.3679 638.4413 494.828 639.5211 493.3883 643.6603 491.8586 643.5703 490.8688 643.4803 490.5988 641.4107 Z" id="PH.6990" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.</code_hasc>
+        <name>General Santos</name>
+        <admin>Philippines</admin>
+        <type_en>Highly Urbanized City</type_en>
+        <region>SOCCSKSARGEN (Region XII)</region>
+        <woe_id>2346723</woe_id>
+        <longitude>125</longitude>
+        <woe_name>South Cotabato</woe_name>
+        <fips>RP70</fips>
+        <woe_label/>
+        <latitude>6</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>SC</postal>
+        <type>Highly Urbanized City</type>
+        <id>PH.6990</id>
+      </desc>
+    </path>
+    <path d="M 463.8738 540.2696 469.7227 545.1287 469.1828 550.2577 472.2422 555.0268 460.5444 545.6686 458.0249 546.1185 455.1454 546.2085 456.4052 541.4393 461.3543 539.1898 463.8738 540.2696 Z" id="PH.6991" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.</code_hasc>
+        <name>Iligan</name>
+        <admin>Philippines</admin>
+        <type_en>Highly Urbanized City</type_en>
+        <region>Northern Mindanao (Region X)</region>
+        <woe_id>-23424730</woe_id>
+        <longitude>124</longitude>
+        <woe_name/>
+        <fips>RP34</fips>
+        <woe_label/>
+        <latitude>8</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>LN</postal>
+        <type>Highly Urbanized City</type>
+        <id>PH.6991</id>
+      </desc>
+    </path>
+    <path d="M 480.6107 533.0709 480.4307 537.5701 471.7023 537.4801 469.7227 545.1287 463.8738 540.2696 468.193 536.4903 469.6327 532.621 473.322 533.1609 472.4222 536.7602 477.4613 533.7908 477.4613 531.0913 480.6107 533.0709 Z" id="PH.6992" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.</code_hasc>
+        <name>Cagayan de Oro</name>
+        <admin>Philippines</admin>
+        <type_en>Highly Urbanized City</type_en>
+        <region>Northern Mindanao (Region X)</region>
+        <woe_id>-23424730</woe_id>
+        <longitude>124</longitude>
+        <woe_name/>
+        <fips>RP43</fips>
+        <woe_label/>
+        <latitude>8</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>MN</postal>
+        <type>Highly Urbanized City</type>
+        <id>PH.6992</id>
+      </desc>
+    </path>
+    <path d="M 518.4036 511.295 516.424 517.2339 516.8739 519.1235 516.9639 520.5632 510.0352 520.7432 507.8756 517.3238 506.8858 512.8247 507.7856 512.6447 510.1252 511.295 518.4036 511.295 Z" id="PH.6995" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.</code_hasc>
+        <name>Butuan</name>
+        <admin>Philippines</admin>
+        <type_en>Highly Urbanized City</type_en>
+        <region>Dinagat Islands (Region XIII)</region>
+        <woe_id>-23424726</woe_id>
+        <longitude>125</longitude>
+        <woe_name/>
+        <fips>RP02</fips>
+        <woe_label/>
+        <latitude>8</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>AN</postal>
+        <type>Highly Urbanized City</type>
+        <id>PH.6995</id>
+      </desc>
+    </path>
+    <path d="M 239.2756 465.8534 221.099 470.8925 221.189 479.5309 217.8596 477.7312 220.1992 482.4103 215.0701 488.7092 204.0922 482.5903 204.902 481.9604 205.8019 481.6905 210.571 477.6412 221.099 462.3441 220.7391 465.0436 222.8087 465.4935 222.9887 459.9145 228.7476 458.5648 228.8376 455.9553 230.7272 455.1454 239.2756 465.8534 Z" id="PH.6996" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.</code_hasc>
+        <name>Puerto Princesa</name>
+        <admin>Philippines</admin>
+        <type_en>Highly Urbanized City</type_en>
+        <region>MIMAROPA (Region IV-B)</region>
+        <woe_id>-23424725</woe_id>
+        <longitude>118</longitude>
+        <woe_name/>
+        <fips>RP49</fips>
+        <woe_label/>
+        <latitude>9</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>PL</postal>
+        <type>Highly Urbanized City</type>
+        <id>PH.6996</id>
+      </desc>
+    </path>
+    <path d="M 471.3424 425.7209 469.6327 425.8109 468.7329 426.0808 468.193 426.5307 465.5835 423.0214 466.0334 421.1318 468.5529 421.0418 470.5326 419.0621 473.322 423.0214 471.3424 425.7209 Z" id="PH.6997" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.</code_hasc>
+        <name>Ormoc</name>
+        <admin>Philippines</admin>
+        <type_en>Independent Component City</type_en>
+        <region>Eastern Visayas (Region VIII)</region>
+        <woe_id>-23424723</woe_id>
+        <longitude>124</longitude>
+        <woe_name/>
+        <fips>RP37</fips>
+        <woe_label/>
+        <latitude>11</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>LE</postal>
+        <type>Independent Component City</type>
+        <id>PH.6997</id>
+      </desc>
+    </path>
+    <path d="M 489.0691 417.1725 486.7295 417.4424 484.48 415.5528 483.9401 411.7735 486.2796 411.3236 486.2796 413.7531 488.3492 415.9127 489.1591 415.0129 489.1591 416.3626 489.1591 416.8126 489.0691 417.1725 Z" id="PH.6998" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.</code_hasc>
+        <name>Tacloban</name>
+        <admin>Philippines</admin>
+        <type_en>Highly Urbanized City</type_en>
+        <region>Eastern Visayas (Region VIII)</region>
+        <woe_id>-23424723</woe_id>
+        <longitude>124</longitude>
+        <woe_name/>
+        <fips>RP37</fips>
+        <woe_label/>
+        <latitude>11</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>LE</postal>
+        <type>Highly Urbanized City</type>
+        <id>PH.6998</id>
+      </desc>
+    </path>
+    <path d="M 407.9942 312.8819 411.6835 311.7121 414.473 311.0822 417.7124 312.8819 412.0434 315.1315 407.9942 312.8819 Z" id="PH.6999" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.</code_hasc>
+        <name>Naga</name>
+        <admin>Philippines</admin>
+        <type_en>Independent Component City</type_en>
+        <region>Bicol (Region V)</region>
+        <woe_id>-23424720</woe_id>
+        <longitude>123</longitude>
+        <woe_name/>
+        <fips>RP16</fips>
+        <woe_label/>
+        <latitude>13</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>CS</postal>
+        <type>Independent Component City</type>
+        <id>PH.6999</id>
+      </desc>
+    </path>
+    <path d="M 338.8871 174.0378 344.1961 179.0768 342.5764 183.576 339.157 182.7661 339.7869 180.5166 338.7071 178.7169 335.1078 179.8867 332.8582 176.8273 338.8871 174.0378 Z" id="PH.7020" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.</code_hasc>
+        <name>Santiago</name>
+        <admin>Philippines</admin>
+        <type_en>Independent Component City</type_en>
+        <region>Cagayan Valley (Region II)</region>
+        <woe_id>-23424715</woe_id>
+        <longitude>121</longitude>
+        <woe_name/>
+        <fips>RP31</fips>
+        <woe_label/>
+        <latitude>16</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>IB</postal>
+        <type>Independent Component City</type>
+        <id>PH.7020</id>
+      </desc>
+    </path>
+    <path d="M 301.0941 248.3639 297.6747 246.4743 302.9838 245.0345 301.0941 248.3639 Z" id="PH.7017" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.</code_hasc>
+        <name>Angeles</name>
+        <admin>Philippines</admin>
+        <type_en>Highly Urbanized City</type_en>
+        <region>Central Luzon (Region III)</region>
+        <woe_id>-23424722</woe_id>
+        <longitude>120</longitude>
+        <woe_name/>
+        <fips>RP50</fips>
+        <woe_label/>
+        <latitude>15</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>PM</postal>
+        <type>Highly Urbanized City</type>
+        <id>PH.7017</id>
+      </desc>
+    </path>
+    <path d="M 304.2435 194.284 301.3641 194.0141 300.5542 190.7747 303.8836 190.9546 304.2435 194.284 Z" id="PH.7021" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>PH.</code_hasc>
+        <name>Baguio</name>
+        <admin>Philippines</admin>
+        <type_en>Highly Urbanized City</type_en>
+        <region>Cordillera Administrative Region (CAR)</region>
+        <woe_id>-23424716</woe_id>
+        <longitude>120</longitude>
+        <woe_name/>
+        <fips>RP10</fips>
+        <woe_label/>
+        <latitude>16</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>BG</postal>
+        <type>Highly Urbanized City</type>
+        <id>PH.7021</id>
+      </desc>
+    </path>
+    <path d="M 295.2452 256.4624 287.8666 261.0516 284.8971 257.8122 287.8666 255.4726 295.2452 256.4624 Z" id="PH.7018" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.</code_hasc>
+        <name>Olongapo</name>
+        <admin>Philippines</admin>
+        <type_en>Highly Urbanized City</type_en>
+        <region>Central Luzon (Region III)</region>
+        <woe_id>-23424722</woe_id>
+        <longitude>120</longitude>
+        <woe_name/>
+        <fips>RP64</fips>
+        <woe_label/>
+        <latitude>14</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>ZM</postal>
+        <type>Highly Urbanized City</type>
+        <id>PH.7018</id>
+      </desc>
+    </path>
+    <path d="M 287.5966 207.1516 289.0364 206.9716 289.5763 207.5115 289.3063 208.6813 292.0958 204.7221 293.6255 207.6015 291.016 209.6711 289.1263 210.1211 287.5966 207.1516 Z" id="PH.7022" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.</code_hasc>
+        <name>Dagupan</name>
+        <admin>Philippines</admin>
+        <type_en>Independent Component City</type_en>
+        <region>Ilocos (Region I)</region>
+        <woe_id>-23424724</woe_id>
+        <longitude>120</longitude>
+        <woe_name/>
+        <fips>RP51</fips>
+        <woe_label/>
+        <latitude>16</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>PN</postal>
+        <type>Independent Component City</type>
+        <id>PH.7022</id>
+      </desc>
+    </path>
+    <path d="M 320.9804 270.4998 320.9804 270.9497 320.7105 271.7596 319.0908 271.3097 319.5407 270.7698 320.9804 270.4998 Z" id="PH.1852" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>PH.</code_hasc>
+        <name>Mandaluyong City</name>
+        <admin>Philippines</admin>
+        <type_en>Province</type_en>
+        <region>National Capital Region</region>
+        <woe_id>-23424718</woe_id>
+        <longitude>121</longitude>
+        <woe_name/>
+        <fips>RPD9</fips>
+        <woe_label/>
+        <latitude>14</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>MM</postal>
+        <type>Lalawigan|Probinsya</type>
+        <id>PH.1852</id>
+      </desc>
+    </path>
+    <path d="M 318.011 269.0601 319.2707 270.3198 319.5407 270.7698 319.0908 271.3097 318.2809 272.0295 317.1111 272.0295 315.7614 268.9701 317.0211 268.9701 318.011 269.0601 Z" id="PH.7000" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>PH.</code_hasc>
+        <name>Manila</name>
+        <admin>Philippines</admin>
+        <type_en>Highly Urbanized City</type_en>
+        <region>National Capital Region</region>
+        <woe_id>-23424718</woe_id>
+        <longitude>120</longitude>
+        <woe_name/>
+        <fips>RPD9</fips>
+        <woe_label/>
+        <latitude>14</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>MM</postal>
+        <type>Highly Urbanized City</type>
+        <id>PH.7000</id>
+      </desc>
+    </path>
+    <path d="M 315.2215 266.1806 316.6612 268.6102 317.0211 268.9701 315.7614 268.9701 314.5016 266.0906 315.2215 266.1806 Z" id="PH.7001" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>PH.</code_hasc>
+        <name>Navotas</name>
+        <admin>Philippines</admin>
+        <type_en>Highly Urbanized City</type_en>
+        <region>National Capital Region</region>
+        <woe_id>-23424718</woe_id>
+        <longitude>120</longitude>
+        <woe_name/>
+        <fips>RPD9</fips>
+        <woe_label/>
+        <latitude>14</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>MM</postal>
+        <type>Highly Urbanized City</type>
+        <id>PH.7001</id>
+      </desc>
+    </path>
+    <path d="M 322.96 263.6611 322.7801 264.111 322.3302 264.201 322.1502 264.5609 321.7903 264.7409 320.8004 264.7409 320.1706 264.8309 319.5407 265.2808 319.1807 265.5507 319.0908 266.1806 318.9108 266.0006 318.7308 266.0006 318.4609 265.8207 318.8208 264.6509 318.4609 264.201 319.3607 263.841 319.7206 263.2112 320.5305 263.0312 322.96 263.6611 Z" id="PH.7002" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>PH.</code_hasc>
+        <name>Caloocan</name>
+        <admin>Philippines</admin>
+        <type_en>Highly Urbanized City</type_en>
+        <region>National Capital Region</region>
+        <woe_id>-23424718</woe_id>
+        <longitude>120</longitude>
+        <woe_name/>
+        <fips>RPD9</fips>
+        <woe_label/>
+        <latitude>14</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>MM</postal>
+        <type>Highly Urbanized City</type>
+        <id>PH.7002</id>
+      </desc>
+    </path>
+    <path d="M 316.0313 266.3606 318.1909 267.4404 316.6612 268.6102 315.2215 266.1806 316.0313 266.3606 Z" id="PH.7003" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>PH.</code_hasc>
+        <name>Malabon</name>
+        <admin>Philippines</admin>
+        <type_en>Highly Urbanized City</type_en>
+        <region>National Capital Region</region>
+        <woe_id>-23424718</woe_id>
+        <longitude>120</longitude>
+        <woe_name/>
+        <fips>RPD9</fips>
+        <woe_label/>
+        <latitude>14</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>MM</postal>
+        <type>Highly Urbanized City</type>
+        <id>PH.7003</id>
+      </desc>
+    </path>
+    <path d="M 319.0908 266.1806 319.5407 266.8105 318.1909 267.4404 316.0313 266.3606 315.2215 265.0108 318.4609 264.201 318.4609 265.8207 318.7308 266.0006 319.0908 266.1806 Z" id="PH.7004" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>PH.</code_hasc>
+        <name>Valenzuela</name>
+        <admin>Philippines</admin>
+        <type_en>Highly Urbanized City</type_en>
+        <region>National Capital Region</region>
+        <woe_id>-23424718</woe_id>
+        <longitude>120</longitude>
+        <woe_name/>
+        <fips>RPD9</fips>
+        <woe_label/>
+        <latitude>14</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>MM</postal>
+        <type>Highly Urbanized City</type>
+        <id>PH.7004</id>
+      </desc>
+    </path>
+    <path d="M 324.5797 263.4811 323.32 267.5304 321.8802 269.8699 320.9804 270.9497 320.9804 270.4998 319.2707 270.3198 318.011 269.0601 319.5407 266.8105 319.0908 266.1806 319.1807 265.5507 319.5407 265.2808 320.1706 264.8309 320.8004 264.7409 321.7903 264.7409 322.1502 264.5609 322.3302 264.201 322.7801 264.111 322.96 263.6611 323.23 263.6611 323.4999 263.3011 324.5797 263.4811 Z" id="PH.7006" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>PH.</code_hasc>
+        <name>Quezon City</name>
+        <admin>Philippines</admin>
+        <type_en>Highly Urbanized City</type_en>
+        <region>National Capital Region</region>
+        <woe_id>-23424718</woe_id>
+        <longitude>121</longitude>
+        <woe_name/>
+        <fips>RPD9</fips>
+        <woe_label/>
+        <latitude>14</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>MM</postal>
+        <type>Highly Urbanized City</type>
+        <id>PH.7006</id>
+      </desc>
+    </path>
+    <path d="M 322.96 269.8699 321.8802 269.8699 323.32 267.5304 322.96 269.8699 Z" id="PH.7007" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>PH.</code_hasc>
+        <name>Marikina</name>
+        <admin>Philippines</admin>
+        <type_en>Highly Urbanized City</type_en>
+        <region>National Capital Region</region>
+        <woe_id>-23424718</woe_id>
+        <longitude>121</longitude>
+        <woe_name/>
+        <fips>RPD9</fips>
+        <woe_label/>
+        <latitude>14</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>MM</postal>
+        <type>Highly Urbanized City</type>
+        <id>PH.7007</id>
+      </desc>
+    </path>
+    <path d="M 320.9804 270.4998 319.5407 270.7698 319.2707 270.3198 320.9804 270.4998 Z" id="PH.7008" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>PH.</code_hasc>
+        <name>San Juan</name>
+        <admin>Philippines</admin>
+        <type_en>Highly Urbanized City</type_en>
+        <region>National Capital Region</region>
+        <woe_id>-23424718</woe_id>
+        <longitude>121</longitude>
+        <woe_name/>
+        <fips>RPD9</fips>
+        <woe_label/>
+        <latitude>14</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>MM</postal>
+        <type>Highly Urbanized City</type>
+        <id>PH.7008</id>
+      </desc>
+    </path>
+    <path d="M 322.96 269.8699 323.23 273.5592 321.7903 272.7494 321.3403 272.4794 320.7105 271.7596 320.9804 270.9497 321.8802 269.8699 322.96 269.8699 Z" id="PH.7009" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>PH.</code_hasc>
+        <name>Pasig</name>
+        <admin>Philippines</admin>
+        <type_en>Highly Urbanized City</type_en>
+        <region>National Capital Region</region>
+        <woe_id>-23424718</woe_id>
+        <longitude>121</longitude>
+        <woe_name/>
+        <fips>RPD9</fips>
+        <woe_label/>
+        <latitude>14</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>MM</postal>
+        <type>Highly Urbanized City</type>
+        <id>PH.7009</id>
+      </desc>
+    </path>
+    <path d="M 320.7105 271.7596 321.3403 272.4794 321.2504 273.1093 319.3607 273.3793 318.2809 272.0295 319.0908 271.3097 320.7105 271.7596 Z" id="PH.7010" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>PH.</code_hasc>
+        <name>Makati</name>
+        <admin>Philippines</admin>
+        <type_en>Highly Urbanized City</type_en>
+        <region>National Capital Region</region>
+        <woe_id>-23424718</woe_id>
+        <longitude>121</longitude>
+        <woe_name/>
+        <fips>RPD9</fips>
+        <woe_label/>
+        <latitude>14</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>MM</postal>
+        <type>Highly Urbanized City</type>
+        <id>PH.7010</id>
+      </desc>
+    </path>
+    <path d="M 319.3607 273.3793 319.8106 274.2791 317.2911 273.1093 317.1111 272.0295 318.2809 272.0295 319.3607 273.3793 Z" id="PH.7011" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>PH.</code_hasc>
+        <name>Pasay</name>
+        <admin>Philippines</admin>
+        <type_en>Highly Urbanized City</type_en>
+        <region>National Capital Region</region>
+        <woe_id>-23424718</woe_id>
+        <longitude>120</longitude>
+        <woe_name/>
+        <fips>RPD9</fips>
+        <woe_label/>
+        <latitude>14</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>MM</postal>
+        <type>Highly Urbanized City</type>
+        <id>PH.7011</id>
+      </desc>
+    </path>
+    <path d="M 319.8106 274.2791 320.2605 276.0788 319.3607 277.2485 316.8412 274.2791 317.2911 273.1093 319.8106 274.2791 Z" id="PH.7012" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>PH.</code_hasc>
+        <name>Paranaque</name>
+        <admin>Philippines</admin>
+        <type_en>Highly Urbanized City</type_en>
+        <region>National Capital Region</region>
+        <woe_id>-23424718</woe_id>
+        <longitude>121</longitude>
+        <woe_name/>
+        <fips>RPD9</fips>
+        <woe_label/>
+        <latitude>14</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>MM</postal>
+        <type>Highly Urbanized City</type>
+        <id>PH.7012</id>
+      </desc>
+    </path>
+    <path d="M 319.3607 277.2485 318.5509 279.0482 316.3013 274.729 316.8412 274.2791 319.3607 277.2485 Z" id="PH.7013" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>PH.</code_hasc>
+        <name>Las Pinas</name>
+        <admin>Philippines</admin>
+        <type_en>Highly Urbanized City</type_en>
+        <region>National Capital Region</region>
+        <woe_id>-23424718</woe_id>
+        <longitude>120</longitude>
+        <woe_name/>
+        <fips>RPD9</fips>
+        <woe_label/>
+        <latitude>14</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>MM</postal>
+        <type>Highly Urbanized City</type>
+        <id>PH.7013</id>
+      </desc>
+    </path>
+    <path d="M 323.5899 276.6187 323.9499 279.4081 318.5509 280.6679 318.5509 279.0482 319.3607 277.2485 320.2605 276.0788 323.5899 276.6187 Z" id="PH.7014" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>PH.</code_hasc>
+        <name>Muntinlupa</name>
+        <admin>Philippines</admin>
+        <type_en>Highly Urbanized City</type_en>
+        <region>National Capital Region</region>
+        <woe_id>-23424718</woe_id>
+        <longitude>121</longitude>
+        <woe_name/>
+        <fips>RPD9</fips>
+        <woe_label/>
+        <latitude>14</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>MM</postal>
+        <type>Highly Urbanized City</type>
+        <id>PH.7014</id>
+      </desc>
+    </path>
+    <path d="M 321.2504 273.1093 321.7903 272.7494 323.23 273.5592 323.5899 276.6187 320.2605 276.0788 319.8106 274.2791 319.3607 273.3793 321.2504 273.1093 Z" id="PH.7015" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>PH.</code_hasc>
+        <name>Taguig</name>
+        <admin>Philippines</admin>
+        <type_en>Highly Urbanized City</type_en>
+        <region>National Capital Region</region>
+        <woe_id>-23424718</woe_id>
+        <longitude>121</longitude>
+        <woe_name/>
+        <fips>RPD9</fips>
+        <woe_label/>
+        <latitude>14</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>MM</postal>
+        <type>Highly Urbanized City</type>
+        <id>PH.7015</id>
+      </desc>
+    </path>
+    <path d="M 321.7903 272.7494 321.2504 273.1093 321.3403 272.4794 321.7903 272.7494 Z" id="PH.7016" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>PH.</code_hasc>
+        <name>Pateros</name>
+        <admin>Philippines</admin>
+        <type_en>Independent Municipality</type_en>
+        <region>National Capital Region</region>
+        <woe_id>-23424718</woe_id>
+        <longitude>121</longitude>
+        <woe_name/>
+        <fips>RPD9</fips>
+        <woe_label/>
+        <latitude>14</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>MM</postal>
+        <type>Independent Municipality</type>
+        <id>PH.7016</id>
+      </desc>
+    </path>
+    <path d="M 344.646 300.2843 340.9567 301.544 338.7971 298.1247 342.3064 296.505 344.646 300.2843 Z" id="PH.7019" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PH.</code_hasc>
+        <name>Lucena</name>
+        <admin>Philippines</admin>
+        <type_en>Highly Urbanized City</type_en>
+        <region>CALABARZON (Region IV-A)</region>
+        <woe_id>-23424717</woe_id>
+        <longitude>121</longitude>
+        <woe_name/>
+        <fips>RPH2</fips>
+        <woe_label/>
+        <latitude>13</latitude>
+        <iso_a2>PH</iso_a2>
+        <postal>QZ</postal>
+        <type>Highly Urbanized City</type>
+        <id>PH.7019</id>
+      </desc>
+    </path>
+  </g>
+</svg>

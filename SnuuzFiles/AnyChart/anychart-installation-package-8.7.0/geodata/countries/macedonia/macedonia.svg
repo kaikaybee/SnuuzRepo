@@ -1,0 +1,1685 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="macedonia">
+    <path d="M 179.1634 526.9343 181.5603 539.1021 173.8504 547.9333 172.8067 555.6415 180.7049 559.6653 189.5969 580.1497 201.1077 579.9041 209.0076 591.3539 220.0186 593.5289 220.8981 602.7901 224.4079 606.3053 220.2581 622.1502 202.9529 619.6735 183.4303 625.5945 142.9646 627.2625 140.609 610.7973 136.0017 606.3316 107.5474 600.1848 109.0771 579.0325 121.4476 573.5479 118.8017 555.6826 122.4676 553.2684 126.3276 528.3694 135.0137 518.2321 157.4918 504.1264 163.3245 495.7137 166.3294 500.3817 171.4853 500.5844 179.1634 526.9343 Z" id="MK.RE" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.RE</code_hasc>
+        <name>Resen</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Southwestern</region>
+        <woe_id>24550855</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Resen Municipality</woe_name>
+        <fips>MK86</fips>
+        <woe_label>Resen Municipality, MK, Macedonia</woe_label>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>RE</postal>
+        <type>Statistical Region</type>
+        <id>MK.RE</id>
+      </desc>
+    </path>
+    <path d="M 18.9883 495.9793 14.3485 481.3966 34.2473 480.3129 49.0729 483.1625 50.261 485.7494 41.5366 492.0656 18.9883 495.9793 Z" id="MK.VV" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.VV</code_hasc>
+        <name>Vevčani</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Southwestern</region>
+        <woe_id>24550867</woe_id>
+        <longitude>20</longitude>
+        <woe_name>Vevcani</woe_name>
+        <fips>MK99</fips>
+        <woe_label>Vevcani Municipality, MK, Macedonia</woe_label>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>VV</postal>
+        <type>Statistical Region</type>
+        <id>MK.VV</id>
+      </desc>
+    </path>
+    <path d="M 238.58 496.161 241.0287 499.6214 239.58 514.0667 251.5008 524.7283 252.5051 541.1331 258.1946 544.3154 270.6135 541.8383 268.2859 553.4766 272.9577 562.2018 273.8662 573.3646 279.813 574.8528 291.1816 589.8767 291.7804 608.1709 264.0125 605.5167 243.2426 620.962 220.2581 622.1502 224.4079 606.3053 220.8981 602.7901 220.0186 593.5289 209.0076 591.3539 201.1077 579.9041 189.5969 580.1497 180.7049 559.6653 172.8067 555.6415 173.8504 547.9333 181.5603 539.1021 179.1634 526.9343 212.1364 511.7693 231.9703 493.0896 238.58 496.161 Z" id="MK.TL" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.TL</code_hasc>
+        <name>Bitola</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Pelagonia</region>
+        <woe_id>24550747</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Bitola</woe_name>
+        <fips>MK06</fips>
+        <woe_label>Bitola Municipality, MK, Macedonia</woe_label>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>TL</postal>
+        <type>Statistical Region</type>
+        <id>MK.TL</id>
+      </desc>
+    </path>
+    <path d="M 190.5553 432.9089 198.9827 437.7604 198.9928 442.9364 210.4381 442.9112 212.5481 461.5002 220.0662 459.764 226.0775 464.9034 232.8585 479.3591 231.9703 493.0896 212.1364 511.7693 179.1634 526.9343 171.4853 500.5844 166.3294 500.3817 163.3245 495.7137 161.1703 490.9795 150.6663 469.5179 140.7114 462.2388 140.3757 454.9529 154.6532 444.1633 175.9055 444.0018 185.2466 434.3421 190.5553 432.9089 Z" id="MK.DM" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.DM</code_hasc>
+        <name>Demir Hisar</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Southwestern</region>
+        <woe_id>24550759</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Demir Hisar Municipality</woe_name>
+        <fips>MK24</fips>
+        <woe_label/>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>DM</postal>
+        <type>Statistical Region</type>
+        <id>MK.DM</id>
+      </desc>
+    </path>
+    <path d="M 161.1703 490.9795 163.3245 495.7137 157.4918 504.1264 135.0137 518.2321 126.3276 528.3694 122.4676 553.2684 118.8017 555.6826 121.4476 573.5479 109.0771 579.0325 107.5474 600.1848 88.1296 611.0892 74.6912 603.9799 60.2709 550.9715 91.7539 506.4874 96.5188 504.5581 96.1677 497.281 105.3713 483.9581 127.143 481.8066 144.1804 490.07 161.1703 490.9795 Z" id="MK.OD" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.OD</code_hasc>
+        <name>Ohrid</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Southwestern</region>
+        <woe_id>24550834</woe_id>
+        <longitude>20</longitude>
+        <woe_name>Ohrid</woe_name>
+        <fips>MK74</fips>
+        <woe_label>Ohrid Municipality, MK, Macedonia</woe_label>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>OD</postal>
+        <type>Statistical Region</type>
+        <id>MK.OD</id>
+      </desc>
+    </path>
+    <path d="M 140.3757 454.9529 140.7114 462.2388 150.6663 469.5179 161.1703 490.9795 144.1804 490.07 127.143 481.8066 105.3713 483.9581 96.1677 497.281 96.5188 504.5581 91.7539 506.4874 60.2709 550.9715 57.4837 545.1097 81.5694 510.4818 78.7816 495.5364 83.9311 487.5441 86.8875 472.9999 79.4324 458.9036 78.3841 441.4313 67.133 419.095 97.4589 416.9815 122.0997 419.4453 129.2187 443.4768 134.3325 445.1785 140.3757 454.9529 Z" id="MK.3086" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.</code_hasc>
+        <name>Debarca</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Southwestern</region>
+        <woe_id>24550746</woe_id>
+        <longitude>20</longitude>
+        <woe_name>Debarca</woe_name>
+        <fips>MK00</fips>
+        <woe_label>Debarca Municipality, MK, Macedonia</woe_label>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal/>
+        <type>Statistical Region</type>
+        <id>MK.3086</id>
+      </desc>
+    </path>
+    <path d="M 372.7976 229.7306 370.2962 240.7646 361.0285 247.846 352.3857 249.985 352.6138 263.4786 348.3733 279.5608 338.8197 274.7061 333.5352 280.7872 333.0163 275.3895 322.8229 274.4345 325.3475 251.627 311.5538 247.3082 306.8426 246.9179 307.6213 241.8017 310.5398 238.3215 321.2403 230.3404 335.2075 232.8138 333.7733 224.9097 338.4809 214.8469 351.974 224.8824 364.3851 222.4935 372.7976 229.7306 Z" id="MK.PE" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.PE</code_hasc>
+        <name>Skopje</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region/>
+        <woe_id>24550796</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Skopje</woe_name>
+        <fips>MK79</fips>
+        <woe_label>Petrovec Municipality, MK, Macedonia</woe_label>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>PE</postal>
+        <type>Statistical Region</type>
+        <id>MK.PE</id>
+      </desc>
+    </path>
+    <path d="M 205.8577 416.8355 189.0186 425.6067 179.7228 421.1558 176.809 415.5704 171.9833 417.0376 166.9309 418.0071 163.452 403.6904 173.3262 403.2243 191.938 398.1839 194.7196 407.8842 204.9739 412.9085 205.8577 416.8355 Z" id="MK.PN" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.PN</code_hasc>
+        <name>Plasnica</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region/>
+        <woe_id>24550797</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Plasnica Municipality</woe_name>
+        <fips>MK80</fips>
+        <woe_label/>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>PN</postal>
+        <type>Statistical Region</type>
+        <id>MK.PN</id>
+      </desc>
+    </path>
+    <path d="M 363.3636 411.5108 369.463 421.021 375.5692 415.7595 375.0086 431.21 379.265 442.0479 377.6679 467.3641 380.3985 474.7745 394.4425 475.3766 390.0188 494.4016 395.2776 501.7851 396.1011 521.4039 405.1376 523.1669 406.5784 532.5249 399.9632 538.3936 398.717 547.8679 389.6375 544.4999 382.4399 536.9088 380.4767 539.3376 370.3952 538.55 362.7292 531.6232 329.3888 522.9286 321.2408 513.573 316.9199 515.9005 299.6618 507.7146 288.0849 510.0992 280.9095 503.894 273.2259 502.8651 263.9606 490.5985 253.6962 487.4375 252.4038 483.0734 257.9777 482.4211 265.8929 474.18 269.5765 457.9307 262.8397 456.5376 260.2648 449.9481 264.7082 445.0514 276.7178 433.8141 300.537 429.9358 309.7599 423.631 311.8471 414.8774 317.0995 411.0905 322.6915 411.5948 326.7694 417.2666 331.875 416.6939 336.4557 403.1081 349.7173 399.7846 363.3636 411.5108 Z" id="MK.PP" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.PP</code_hasc>
+        <name>Prilep</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Pelagonia</region>
+        <woe_id>24550799</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Prilep</woe_name>
+        <fips>MK82</fips>
+        <woe_label>Prilep Municipality, MK, Macedonia</woe_label>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>PP</postal>
+        <type>Statistical Region</type>
+        <id>MK.PP</id>
+      </desc>
+    </path>
+    <path d="M 514.2832 197.3967 512.1038 206.5858 492.9377 225.9918 488.8602 226.811 484.3345 239.4169 474.7434 247.0368 484.8258 262.0621 473.9405 264.025 469.2687 256.7448 463.7961 258.5538 450.5797 255.866 446.9561 250.9504 449.1803 242.8841 427.2278 220.9344 429.9848 207.9863 440.4923 211.3004 444.5147 201.7768 467.1983 195.1016 472.5045 200.5817 481.3677 198.197 487.7324 203.049 490.4315 188.602 504.6934 188.5957 514.2832 197.3967 Z" id="MK.PT" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.PT</code_hasc>
+        <name>Probistip</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Northeastern</region>
+        <woe_id>24550800</woe_id>
+        <longitude>22</longitude>
+        <woe_name>Probistip</woe_name>
+        <fips>MK83</fips>
+        <woe_label>Probistip Municipality, MK, Macedonia</woe_label>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>PT</postal>
+        <type>Statistical Region</type>
+        <id>MK.PT</id>
+      </desc>
+    </path>
+    <path d="M 593.2215 304.5904 594.5283 315.7386 599.9523 319.951 594.636 330.3992 596.1362 338.3073 587.2765 340.246 582.2748 350.0002 590.097 366.2536 588.8927 377.3171 585.1567 379.6279 571.1001 369.3569 561.5076 376.9453 562.7462 384.9345 548.3548 381.1377 551.7248 373.6612 539.2527 359.199 524.7289 358.2326 513.0641 352.5614 508.491 348.1289 504.8406 328.1678 510.9801 323.0754 525.1372 327.1694 533.537 310.8631 537.9993 295.0406 545.4691 289.8133 555.4655 296.125 565.2504 294.913 569.9329 289.6517 585.2934 303.0122 593.2215 304.5904 Z" id="MK.RV" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.RV</code_hasc>
+        <name>Radovis</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Eastern</region>
+        <woe_id>24550865</woe_id>
+        <longitude>22</longitude>
+        <woe_name>Radovis</woe_name>
+        <fips>MK84</fips>
+        <woe_label>Radovis Municipality, MK, Macedonia</woe_label>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>RV</postal>
+        <type>Statistical Region</type>
+        <id>MK.RV</id>
+      </desc>
+    </path>
+    <path d="M 559.5523 152.056 535.5457 170.3851 516.5495 172.5403 499.1072 162.9592 485.8392 166.8504 478.9371 166.7427 477.7217 163.7582 473.9766 110.5875 460.344 100.5316 459.1082 91.8251 484.6197 80.6622 494.0483 72.7375 496.3767 83.2653 504.7647 91.0928 514.8767 93.074 542.0482 128.5773 552.3879 136.0644 559.5523 152.056 Z" id="MK.KZ" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.KZ</code_hasc>
+        <name>Kriva Palanka</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Northeastern</region>
+        <woe_id>24550831</woe_id>
+        <longitude>22</longitude>
+        <woe_name>Kriva Palanka</woe_name>
+        <fips>MK85</fips>
+        <woe_label>Kriva Palanka Municipality, MK, Macedonia</woe_label>
+        <latitude>42</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>KZ</postal>
+        <type>Statistical Region</type>
+        <id>MK.KZ</id>
+      </desc>
+    </path>
+    <path d="M 420.6226 370.585 420.9397 388.5317 418.9622 403.2218 411.6555 411.1152 401.3933 406.9397 397.6892 414.4246 380.4721 414.7843 373.6137 405.903 375.2277 394.5218 384.9561 388.5105 384.7144 378.2814 398.5936 382.0419 404.3996 373.9809 413.2163 376.117 413.8632 370.9048 420.6226 370.585 Z" id="MK.RM" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.RM</code_hasc>
+        <name>Vardar</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region/>
+        <woe_id>24550801</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Vardar</woe_name>
+        <fips>MK87</fips>
+        <woe_label>Rosoman Municipality, MK, Macedonia</woe_label>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>RM</postal>
+        <type>Statistical Region</type>
+        <id>MK.RM</id>
+      </desc>
+    </path>
+    <path d="M 218.9604 174.7021 220.3023 190.8199 229.4398 189.4034 242.7884 214.4039 249.6476 215.0045 250.0389 228.2164 238.3786 232.8294 211.4322 254.0227 201.4069 245.831 204.1561 221.9024 190.0049 213.3582 200.9908 207.608 198.2535 195.713 203.696 191.0127 202.5917 184.5724 197.3679 186.0461 192.9993 181.3746 210.8735 176.9287 214.5118 171.9361 218.9604 174.7021 Z" id="MK.AJ" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.AJ</code_hasc>
+        <name>Saraj</name>
+        <admin>Macedonia</admin>
+        <type_en>Municipality</type_en>
+        <region>Greater Skopje</region>
+        <woe_id>24550803</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Saraj</woe_name>
+        <fips>MK90</fips>
+        <woe_label>Skopje, Saraj Municipality, Macedonia</woe_label>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>AJ</postal>
+        <type>Municipality</type>
+        <id>MK.AJ</id>
+      </desc>
+    </path>
+    <path d="M 268.6382 229.2281 272.6754 230.1078 273.8007 236.4321 271.8529 249.9277 249.9254 247.9198 243.8285 251.2267 245.0655 259.193 255.5929 261.9621 250.0009 265.9717 246.9165 280.0603 243.0507 281.9512 247.6329 290.5792 244.5804 299.7533 246.7212 308.2315 240.6266 309.0148 235.3553 304.3453 216.0054 275.9637 217.8741 261.9109 211.4322 254.0227 238.3786 232.8294 250.0389 228.2164 268.6382 229.2281 Z" id="MK.SS" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.SS</code_hasc>
+        <name>Sopiste</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Skopje</region>
+        <woe_id>24550804</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Sopiste</woe_name>
+        <fips>MK92</fips>
+        <woe_label>Sopiste Municipality, MK, Macedonia</woe_label>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>SS</postal>
+        <type>Statistical Region</type>
+        <id>MK.SS</id>
+      </desc>
+    </path>
+    <path d="M 434.2103 98.2057 436.0636 115.2892 428.043 120.4893 435.2793 146.7491 428.9669 148.6922 420.1268 149.3969 417.7616 167.0388 415.0992 171.1961 408.2455 172.9425 403.1924 163.0372 396.6443 169.7572 382.7378 164.7509 369.0612 171.6736 364.751 170.832 357.7708 161.8539 356.4644 153.0774 356.9583 133.2366 363.086 129.2797 363.4884 124.5114 346.5302 114.1672 372.7124 97.8909 390.796 96.125 402.7233 86.7028 434.2103 98.2057 Z" id="MK.NA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.NA</code_hasc>
+        <name>Northeastern</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region/>
+        <woe_id>24550856</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Northeastern</woe_name>
+        <fips>MK97</fips>
+        <woe_label>Staro Nagoricane Municipality, MK, Macedonia</woe_label>
+        <latitude>42</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>NA</postal>
+        <type>Statistical Region</type>
+        <id>MK.NA</id>
+      </desc>
+    </path>
+    <path d="M 463.7961 258.5538 457.2894 267.1469 462.4945 287.2627 474.9796 288.4725 487.3771 299.1502 492.756 299.9918 505.5654 312.793 528.2511 309.0819 533.537 310.8631 525.1372 327.1694 510.9801 323.0754 504.8406 328.1678 508.491 348.1289 513.0641 352.5614 496.1531 372.8397 484.0815 372.2624 471.92 364.9929 470.9158 357.4095 456.9307 356.2628 449.0947 337.9053 441.4712 344.997 436.1462 337.6152 427.6599 333.8522 414.1142 330.1994 407.3638 319.9385 408.3255 315.3138 413.7057 308.7081 422.1399 313.8177 428.1926 305.0155 432.6848 309.3702 436.9818 309.1027 433.0831 291.039 438.8936 288.5019 450.0278 274.1532 446.3366 261.857 450.5797 255.866 463.7961 258.5538 Z" id="MK.ST" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.ST</code_hasc>
+        <name>Štip</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Eastern</region>
+        <woe_id>24550807</woe_id>
+        <longitude>22</longitude>
+        <woe_name>Štip</woe_name>
+        <fips>MK98</fips>
+        <woe_label>Stip Municipality, MK, Macedonia</woe_label>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>ST</postal>
+        <type>Statistical Region</type>
+        <id>MK.ST</id>
+      </desc>
+    </path>
+    <path d="M 307.6213 241.8017 306.8426 246.9179 311.5538 247.3082 298.1298 256.4459 290.6176 275.7352 286.576 275.59 285.2292 270.6743 280.9781 273.0894 279.6104 284.6973 285.0251 294.0544 283.8343 302.0416 273.3243 306.8152 262.2129 322.1178 260.1194 331.5801 254.2922 323.9822 254.2384 311.6134 246.7212 308.2315 244.5804 299.7533 247.6329 290.5792 243.0507 281.9512 246.9165 280.0603 250.0009 265.9717 255.5929 261.9621 245.0655 259.193 243.8285 251.2267 249.9254 247.9198 271.8529 249.9277 273.8007 236.4321 282.0872 235.4402 285.2672 247.8107 288.6099 249.0855 297.8511 238.7606 302.7603 235.3908 307.6213 241.8017 Z" id="MK.SU" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.SU</code_hasc>
+        <name>Studenicani</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Skopje</region>
+        <woe_id>24550809</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Studenicani</woe_name>
+        <fips>MKA2</fips>
+        <woe_label>Studenicani Municipality, MK, Macedonia</woe_label>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>SU</postal>
+        <type>Statistical Region</type>
+        <id>MK.SU</id>
+      </desc>
+    </path>
+    <path d="M 273.2453 210.4485 272.8525 215.646 271.2292 215.645 268.2273 214.2253 268.3939 208.3632 273.2453 210.4485 Z" id="MK.CI" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.CI</code_hasc>
+        <name>Cair</name>
+        <admin>Macedonia</admin>
+        <type_en>Municipality</type_en>
+        <region>Greater Skopje</region>
+        <woe_id>24550752</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Cair Municipality</woe_name>
+        <fips>MKA3</fips>
+        <woe_label/>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>CI</postal>
+        <type>Municipality</type>
+        <id>MK.CI</id>
+      </desc>
+    </path>
+    <path d="M 429.9848 207.9863 427.2278 220.9344 449.1803 242.8841 446.9561 250.9504 450.5797 255.866 446.3366 261.857 450.0278 274.1532 438.8936 288.5019 433.0831 291.039 436.9818 309.1027 432.6848 309.3702 428.1926 305.0155 405.0947 281.6983 395.789 277.6705 389.5614 269.7065 382.9558 268.4691 373.3615 256.6981 370.2962 240.7646 372.7976 229.7306 387.3535 209.5266 398.408 209.5714 404.6535 217.7392 416.3912 213.4912 419.4105 208.3075 429.9848 207.9863 Z" id="MK.SL" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.SL</code_hasc>
+        <name>Sveti Nikole</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Northeastern</region>
+        <woe_id>24550811</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Sveti Nikole</woe_name>
+        <fips>MKA4</fips>
+        <woe_label>Sveti Nikole Municipality, MK, Macedonia</woe_label>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>SL</postal>
+        <type>Statistical Region</type>
+        <id>MK.SL</id>
+      </desc>
+    </path>
+    <path d="M 382.9558 268.4691 374.1246 280.9436 380.1585 289.4575 376.1321 303.0013 382.2206 305.0055 386.7972 313.0631 385.8287 323.0701 372.007 345.5987 364.8639 346.3021 363.2091 353.238 351.9086 348.7601 350.1582 338.1215 342.6782 342.1596 335.0989 319.3189 320.0535 314.8174 314.95 316.5976 307.7225 303.4238 318.6263 299.8791 324.0373 290.7809 322.8229 274.4345 333.0163 275.3895 333.5352 280.7872 338.8197 274.7061 348.3733 279.5608 352.6138 263.4786 352.3857 249.985 361.0285 247.846 370.2962 240.7646 373.3615 256.6981 382.9558 268.4691 Z" id="MK.VE" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.VE</code_hasc>
+        <name>Veles</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Vardar</region>
+        <woe_id>24550815</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Veles</woe_name>
+        <fips>MKB1</fips>
+        <woe_label>Veles Municipality, MK, Macedonia</woe_label>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>VE</postal>
+        <type>Statistical Region</type>
+        <id>MK.VE</id>
+      </desc>
+    </path>
+    <path d="M 173.3262 403.2243 163.452 403.6904 166.9309 418.0071 171.9833 417.0376 168.0348 422.376 153.8042 423.103 151.4045 416.558 143.1928 409.5235 145.8475 402.3135 153.9716 389.6274 162.1755 386.7092 167.1019 374.8166 180.1901 362.202 183.4982 372.1376 192.9801 380.8533 173.8569 397.382 173.3262 403.2243 Z" id="MK.VC" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.VC</code_hasc>
+        <name>Vraneštica</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Southwestern</region>
+        <woe_id>24550818</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Vranestica Municipality</woe_name>
+        <fips>MKB6</fips>
+        <woe_label/>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>VC</postal>
+        <type>Statistical Region</type>
+        <id>MK.VC</id>
+      </desc>
+    </path>
+    <path d="M 322.8229 274.4345 324.0373 290.7809 318.6263 299.8791 307.7225 303.4238 283.8343 302.0416 285.0251 294.0544 279.6104 284.6973 280.9781 273.0894 285.2292 270.6743 286.576 275.59 290.6176 275.7352 298.1298 256.4459 311.5538 247.3082 325.3475 251.627 322.8229 274.4345 Z" id="MK.ZK" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.ZK</code_hasc>
+        <name>Zelenikovo</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Skopje</region>
+        <woe_id>24550820</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Zelenikovo Municipality</woe_name>
+        <fips>MKC2</fips>
+        <woe_label/>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>ZK</postal>
+        <type>Statistical Region</type>
+        <id>MK.ZK</id>
+      </desc>
+    </path>
+    <path d="M 190.0049 213.3582 204.1561 221.9024 201.4069 245.831 211.4322 254.0227 217.8741 261.9109 216.0054 275.9637 202.4073 268.0633 200.937 262.4305 196.9562 263.1698 195.8692 266.8104 187.1744 267.0688 181.8953 262.4622 171.7429 261.7507 175.544 248.8812 168.1137 244.2735 167.5478 235.7871 157.9658 226.8731 165.3835 222.4439 156.5073 212.4973 161.0386 207.0007 171.7828 208.3821 172.18 214.8619 175.3995 215.9374 190.0049 213.3582 Z" id="MK.ZE" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.ZE</code_hasc>
+        <name>Želino</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Polog</region>
+        <woe_id>24550821</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Želino</woe_name>
+        <fips>MKC3</fips>
+        <woe_label>Zelino Municipality, MK, Macedonia</woe_label>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>ZE</postal>
+        <type>Statistical Region</type>
+        <id>MK.ZE</id>
+      </desc>
+    </path>
+    <path d="M 315.8133 187.5577 323.6062 190.4275 323.9443 194.5421 311.7118 209.0534 298.7586 213.8278 302.0108 201.6997 298.8203 183.7419 308.0365 195.1046 313.9675 195.4673 315.8133 187.5577 Z" id="MK.AR" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.AR</code_hasc>
+        <name>Aracinovo</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Skopje</region>
+        <woe_id>24550745</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Aracinovo Municipality</woe_name>
+        <fips>MK01</fips>
+        <woe_label/>
+        <latitude>42</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>AR</postal>
+        <type>Statistical Region</type>
+        <id>MK.AR</id>
+      </desc>
+    </path>
+    <path d="M 335.1103 123.7027 337.8065 148.2548 331.9747 151.9868 332.0469 161.2617 325.2271 160.4228 323.0232 175.8201 315.1302 181.8511 315.8133 187.5577 313.9675 195.4673 308.0365 195.1046 298.8203 183.7419 290.6468 172.3881 283.8873 157.8536 291.0625 153.2162 291.7576 143.5334 282.5987 132.389 279.8313 122.5561 282.3857 119.4007 287.199 122.6836 304.0433 119.4932 335.1103 123.7027 Z" id="MK.LI" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.LI</code_hasc>
+        <name>Lipkovo</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Skopje</region>
+        <woe_id>24550842</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Lipkovo</woe_name>
+        <fips>MK01</fips>
+        <woe_label>Lipkovo Municipality, MK, Macedonia</woe_label>
+        <latitude>42</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>LI</postal>
+        <type>Statistical Region</type>
+        <id>MK.LI</id>
+      </desc>
+    </path>
+    <path d="M 283.8873 157.8536 290.6468 172.3881 279.4661 186.529 278.9029 206.2826 273.2453 210.4485 268.3939 208.3632 260.6162 208.4851 255.8287 201.5485 257.6914 199.0361 266.6514 206.7869 267.0274 197.9509 270.8279 197.3503 272.0379 171.751 278.3081 158.7006 283.8873 157.8536 Z" id="MK.BU" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.BU</code_hasc>
+        <name>Butel</name>
+        <admin>Macedonia</admin>
+        <type_en>Municipality</type_en>
+        <region>Greater Skopje</region>
+        <woe_id>55848399</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Butel Municipality</woe_name>
+        <fips>MK13</fips>
+        <woe_label/>
+        <latitude>42</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>BU</postal>
+        <type>Municipality</type>
+        <id>MK.BU</id>
+      </desc>
+    </path>
+    <path d="M 307.7225 303.4238 314.95 316.5976 320.0535 314.8174 335.0989 319.3189 342.6782 342.1596 350.1582 338.1215 351.9086 348.7601 363.2091 353.238 362.8498 360.2935 372.2294 369.417 367.4214 379.7865 367.7693 390.1084 375.2277 394.5218 373.6137 405.903 368.8794 403.5461 363.3636 411.5108 349.7173 399.7846 336.4557 403.1081 331.875 416.6939 326.7694 417.2666 322.6915 411.5948 317.0995 411.0905 312.4569 404.8863 300.8956 401.5672 297.8818 393.2025 282.8769 392.9432 279.2102 387.5994 276.7281 371.3804 267.8305 361.0824 254.5208 357.2241 253.9524 342.9636 260.1194 331.5801 262.2129 322.1178 273.3243 306.8152 283.8343 302.0416 307.7225 303.4238 Z" id="MK.CA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.CA</code_hasc>
+        <name>Caška</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Vardar</region>
+        <woe_id>24550754</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Caška</woe_name>
+        <fips>MK15</fips>
+        <woe_label>Caska Municipality, MK, Macedonia</woe_label>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>CA</postal>
+        <type>Statistical Region</type>
+        <id>MK.CA</id>
+      </desc>
+    </path>
+    <path d="M 271.2292 215.645 270.2138 219.6358 268.4247 225.7218 263.53 220.915 268.2273 214.2253 271.2292 215.645 Z" id="MK.CE" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.CE</code_hasc>
+        <name>Centar</name>
+        <admin>Macedonia</admin>
+        <type_en>Municipality</type_en>
+        <region>Greater Skopje</region>
+        <woe_id>24550756</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Centar Municipality</woe_name>
+        <fips>MK17</fips>
+        <woe_label/>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>CE</postal>
+        <type>Municipality</type>
+        <id>MK.CE</id>
+      </desc>
+    </path>
+    <path d="M 545.4645 282.8624 530.3443 282.0708 521.5083 270.2055 520.6556 262.4147 529.9459 257.4633 534.3647 260.0928 541.9463 253.8137 545.543 264.1939 545.4645 282.8624 Z" id="MK.ZR" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.ZR</code_hasc>
+        <name>Zrnovci</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region/>
+        <woe_id>24550824</woe_id>
+        <longitude>22</longitude>
+        <woe_name>Zrnovci Municipality</woe_name>
+        <fips>MK19</fips>
+        <woe_label/>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>ZR</postal>
+        <type>Statistical Region</type>
+        <id>MK.ZR</id>
+      </desc>
+    </path>
+    <path d="M 492.9377 225.9918 501.862 236.4494 513.0779 236.8878 511.9414 250.3941 515.1068 259.1999 520.6556 262.4147 521.5083 270.2055 530.3443 282.0708 523.7606 283.0018 517.7158 277.1314 500.7696 275.8709 484.8258 262.0621 474.7434 247.0368 484.3345 239.4169 488.8602 226.811 492.9377 225.9918 Z" id="MK.CH" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.CH</code_hasc>
+        <name>Cešinovo-Obleševo</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Eastern</region>
+        <woe_id>24550757</woe_id>
+        <longitude>22</longitude>
+        <woe_name>Cesinovo-Oblesevo Municipality</woe_name>
+        <fips>MK19</fips>
+        <woe_label/>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>CH</postal>
+        <type>Statistical Region</type>
+        <id>MK.CH</id>
+      </desc>
+    </path>
+    <path d="M 279.8313 122.5561 282.5987 132.389 291.7576 143.5334 291.0625 153.2162 283.8873 157.8536 278.3081 158.7006 272.0379 171.751 270.8279 197.3503 267.0274 197.9509 261.9856 190.3884 257.8593 192.9115 257.6914 199.0361 255.8287 201.5485 249.7481 198.9489 245.0159 183.5508 233.8435 173.8349 232.202 155.4919 247.9847 131.1141 256.1962 127.8242 268.5085 131.0667 265.7882 122.2926 270.2076 119.7945 279.8313 122.5561 Z" id="MK.CS" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.CS</code_hasc>
+        <name>Cucer Sandevo</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Skopje</region>
+        <woe_id>24550830</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Cucer Sandevo</woe_name>
+        <fips>MK20</fips>
+        <woe_label>Cucer-Sandevo Municipality, MK, Macedonia</woe_label>
+        <latitude>42</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>CS</postal>
+        <type>Statistical Region</type>
+        <id>MK.CS</id>
+      </desc>
+    </path>
+    <path d="M 515.8384 415.7182 514.4384 423.8809 517.8782 432.6166 521.1346 451.2311 508.305 451.8864 503.3482 459.0226 487.1969 469.1785 477.7465 469.3097 449.1874 443.9958 462.7176 443.1943 464.8572 433.947 460.0742 424.6591 465.3895 420.7723 469.7465 406.6179 476.5819 398.75 482.5233 397.8799 496.3969 405.054 507.2987 392.3807 517.4045 400.1054 514.1272 407.2279 515.8384 415.7182 Z" id="MK.DK" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.DK</code_hasc>
+        <name>Demir Kapija</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Southeastern</region>
+        <woe_id>24550760</woe_id>
+        <longitude>22</longitude>
+        <woe_name>Demir Kapija</woe_name>
+        <fips>MK25</fips>
+        <woe_label>Demir Kapija Municipality, MK, Macedonia</woe_label>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>DK</postal>
+        <type>Statistical Region</type>
+        <id>MK.DK</id>
+      </desc>
+    </path>
+    <path d="M 317.0995 411.0905 311.8471 414.8774 309.7599 423.631 300.537 429.9358 276.7178 433.8141 264.7082 445.0514 261.106 442.2739 248.1944 443.0421 243.9967 431.8251 237.3745 436.2569 224.2844 423.8664 225.4865 419.9337 234.6062 420.0914 234.8749 416.1615 223.4257 401.186 223.5279 397.6505 231.1515 391.5594 242.1041 394.5492 242.5943 382.6008 250.051 372.5844 254.5208 357.2241 267.8305 361.0824 276.7281 371.3804 279.2102 387.5994 282.8769 392.9432 297.8818 393.2025 300.8956 401.5672 312.4569 404.8863 317.0995 411.0905 Z" id="MK.DE" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.DE</code_hasc>
+        <name>Dolneni</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Pelagonia</region>
+        <woe_id>24550763</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Dolneni</woe_name>
+        <fips>MK28</fips>
+        <woe_label>Dolneni Municipality, MK, Macedonia</woe_label>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>DE</postal>
+        <type>Statistical Region</type>
+        <id>MK.DE</id>
+      </desc>
+    </path>
+    <path d="M 298.8203 183.7419 302.0108 201.6997 298.7586 213.8278 296.2463 219.3954 307.5518 227.2003 310.5398 238.3215 307.6213 241.8017 302.7603 235.3908 295.7966 228.1761 272.8525 215.646 273.2453 210.4485 278.9029 206.2826 279.4661 186.529 290.6468 172.3881 298.8203 183.7419 Z" id="MK.GB" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.GB</code_hasc>
+        <name>Gazi Baba</name>
+        <admin>Macedonia</admin>
+        <type_en>Municipality</type_en>
+        <region>Greater Skopje</region>
+        <woe_id>24550766</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Gazi Baba Municipality</woe_name>
+        <fips>MK32</fips>
+        <woe_label/>
+        <latitude>42</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>GB</postal>
+        <type>Municipality</type>
+        <id>MK.GB</id>
+      </desc>
+    </path>
+    <path d="M 414.1142 330.1994 427.6599 333.8522 419.1337 353.5893 421.8392 356.2408 433.3365 354.465 429.377 379.3746 425.9118 379.5651 424.3511 371.3488 420.6226 370.585 413.8632 370.9048 413.2163 376.117 404.3996 373.9809 398.5936 382.0419 384.7144 378.2814 384.9561 388.5105 375.2277 394.5218 367.7693 390.1084 367.4214 379.7865 372.2294 369.417 362.8498 360.2935 363.2091 353.238 364.8639 346.3021 372.007 345.5987 385.8287 323.0701 386.7972 313.0631 387.863 310.0326 393.3328 311.7213 397.5081 334.7115 407.5473 336.8179 414.1142 330.1994 Z" id="MK.GR" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.GR</code_hasc>
+        <name>Gradsko</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Vardar</region>
+        <woe_id>24550768</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Gradsko</woe_name>
+        <fips>MK35</fips>
+        <woe_label>Gradsko Municipality, MK, Macedonia</woe_label>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>GR</postal>
+        <type>Statistical Region</type>
+        <id>MK.GR</id>
+      </desc>
+    </path>
+    <path d="M 428.1926 305.0155 422.1399 313.8177 413.7057 308.7081 408.3255 315.3138 407.3638 319.9385 414.1142 330.1994 407.5473 336.8179 397.5081 334.7115 393.3328 311.7213 387.863 310.0326 386.7972 313.0631 382.2206 305.0055 376.1321 303.0013 380.1585 289.4575 374.1246 280.9436 382.9558 268.4691 389.5614 269.7065 395.789 277.6705 405.0947 281.6983 428.1926 305.0155 Z" id="MK.LO" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.LO</code_hasc>
+        <name>Lozovo</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Vardar</region>
+        <woe_id>24550785</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Lozovo Municipality</woe_name>
+        <fips>MK35</fips>
+        <woe_label/>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>LO</postal>
+        <type>Statistical Region</type>
+        <id>MK.LO</id>
+      </desc>
+    </path>
+    <path d="M 562.7462 384.9345 564.4419 399.6788 562.8683 403.3176 556.2388 401.8841 547.3286 407.4657 525.349 409.98 515.8384 415.7182 514.1272 407.2279 517.4045 400.1054 507.2987 392.3807 496.1531 372.8397 513.0641 352.5614 524.7289 358.2326 539.2527 359.199 551.7248 373.6612 548.3548 381.1377 562.7462 384.9345 Z" id="MK.KN" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.KN</code_hasc>
+        <name>Konce</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Southeastern</region>
+        <woe_id>24550778</woe_id>
+        <longitude>22</longitude>
+        <woe_name>Konce Municipality</woe_name>
+        <fips>MK35</fips>
+        <woe_label/>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>KN</postal>
+        <type>Statistical Region</type>
+        <id>MK.KN</id>
+      </desc>
+    </path>
+    <path d="M 338.4809 214.8469 333.7733 224.9097 335.2075 232.8138 321.2403 230.3404 310.5398 238.3215 307.5518 227.2003 296.2463 219.3954 298.7586 213.8278 311.7118 209.0534 323.9443 194.5421 334.4218 204.0658 338.1144 204.0365 338.4809 214.8469 Z" id="MK.IL" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.IL</code_hasc>
+        <name>Ilinden</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Skopje</region>
+        <woe_id>24550769</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Ilinden</woe_name>
+        <fips>MK36</fips>
+        <woe_label>Ilinden Municipality, MK, Macedonia</woe_label>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>IL</postal>
+        <type>Statistical Region</type>
+        <id>MK.IL</id>
+      </desc>
+    </path>
+    <path d="M 484.8258 262.0621 500.7696 275.8709 517.7158 277.1314 523.7606 283.0018 530.3443 282.0708 545.4645 282.8624 545.4691 289.8133 537.9993 295.0406 533.537 310.8631 528.2511 309.0819 505.5654 312.793 492.756 299.9918 487.3771 299.1502 474.9796 288.4725 462.4945 287.2627 457.2894 267.1469 463.7961 258.5538 469.2687 256.7448 473.9405 264.025 484.8258 262.0621 Z" id="MK.KB" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.KB</code_hasc>
+        <name>Karbinci</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Eastern</region>
+        <woe_id>24550772</woe_id>
+        <longitude>22</longitude>
+        <woe_name>Karbinci Municipality</woe_name>
+        <fips>MK40</fips>
+        <woe_label/>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>KB</postal>
+        <type>Statistical Region</type>
+        <id>MK.KB</id>
+      </desc>
+    </path>
+    <path d="M 255.8287 201.5485 260.6162 208.4851 268.3939 208.3632 268.2273 214.2253 263.53 220.915 268.4247 225.7218 268.6382 229.2281 250.0389 228.2164 249.6476 215.0045 249.7481 198.9489 255.8287 201.5485 Z" id="MK.KX" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.KX</code_hasc>
+        <name>Karpoš</name>
+        <admin>Macedonia</admin>
+        <type_en>Municipality</type_en>
+        <region>Greater Skopje</region>
+        <woe_id>24550773</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Karpoš</woe_name>
+        <fips>MK41</fips>
+        <woe_label>Skopje, Karpos Municipality, Macedonia</woe_label>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>KX</postal>
+        <type>Municipality</type>
+        <id>MK.KX</id>
+      </desc>
+    </path>
+    <path d="M 449.1874 443.9958 477.7465 469.3097 487.1969 469.1785 503.3482 459.0226 505.6244 473.2357 509.1628 477.0189 495.0293 484.4295 498.3662 499.7156 485.5599 501.8862 485.3819 511.9831 470.8049 515.3672 455.3242 526.5972 440.0462 515.7761 434.8586 520.6582 406.5784 532.5249 405.1376 523.1669 396.1011 521.4039 395.2776 501.7851 390.0188 494.4016 394.4425 475.3766 380.3985 474.7745 377.6679 467.3641 379.265 442.0479 375.0086 431.21 375.5692 415.7595 369.463 421.021 363.3636 411.5108 368.8794 403.5461 373.6137 405.903 380.4721 414.7843 397.6892 414.4246 401.3933 406.9397 411.6555 411.1152 418.9622 403.2218 420.9397 388.5317 433.1984 387.7982 437.4379 390.9079 440.5032 424.9147 444.9154 441.4229 449.1874 443.9958 Z" id="MK.AV" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.AV</code_hasc>
+        <name>Kavadartsi</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Vardar</region>
+        <woe_id>24550774</woe_id>
+        <longitude>22</longitude>
+        <woe_name>Kavadartsi</woe_name>
+        <fips>MK42</fips>
+        <woe_label>Kavadarci Municipality, MK, Macedonia</woe_label>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>AV</postal>
+        <type>Statistical Region</type>
+        <id>MK.AV</id>
+      </desc>
+    </path>
+    <path d="M 272.8525 215.646 295.7966 228.1761 302.7603 235.3908 297.8511 238.7606 270.2138 219.6358 271.2292 215.645 272.8525 215.646 Z" id="MK.AD" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.AD</code_hasc>
+        <name>Aerodrom</name>
+        <admin>Macedonia</admin>
+        <type_en>Municipality</type_en>
+        <region>Greater Skopje</region>
+        <woe_id>55848400</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Aerodrom Municipality</woe_name>
+        <fips>MK44</fips>
+        <woe_label/>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>AD</postal>
+        <type>Municipality</type>
+        <id>MK.AD</id>
+      </desc>
+    </path>
+    <path d="M 297.8511 238.7606 288.6099 249.0855 285.2672 247.8107 282.0872 235.4402 273.8007 236.4321 272.6754 230.1078 268.6382 229.2281 268.4247 225.7218 270.2138 219.6358 297.8511 238.7606 Z" id="MK.VD" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.VD</code_hasc>
+        <name>Kisela Voda</name>
+        <admin>Macedonia</admin>
+        <type_en>Municipality</type_en>
+        <region>Greater Skopje</region>
+        <woe_id>24550756</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Skopje</woe_name>
+        <fips>MK44</fips>
+        <woe_label>Skopje, Centar Municipality, Macedonia</woe_label>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>VD</postal>
+        <type>Municipality</type>
+        <id>MK.VD</id>
+      </desc>
+    </path>
+    <path d="M 535.5457 170.3851 538.601 175.9628 542.4993 171.7603 545.9136 175.3235 546.359 186.7044 555.3595 194.4858 563.7786 225.9615 556.5415 228.6308 550.9101 223.7281 546.5447 223.9714 541.9463 253.8137 534.3647 260.0928 529.9459 257.4633 520.6556 262.4147 515.1068 259.1999 511.9414 250.3941 513.0779 236.8878 501.862 236.4494 492.9377 225.9918 512.1038 206.5858 514.2832 197.3967 518.7558 181.2669 516.5495 172.5403 535.5457 170.3851 Z" id="MK.OC" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.OC</code_hasc>
+        <name>Kocani</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Eastern</region>
+        <woe_id>24550777</woe_id>
+        <longitude>22</longitude>
+        <woe_name>Kocani</woe_name>
+        <fips>MK46</fips>
+        <woe_label>Kocani Municipality, MK, Macedonia</woe_label>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>OC</postal>
+        <type>Statistical Region</type>
+        <id>MK.OC</id>
+      </desc>
+    </path>
+    <path d="M 428.9669 148.6922 436.6503 153.8139 438.1098 161.2058 448.6709 163.699 461.199 175.2315 474.2833 171.5918 474.9154 164.8294 477.7217 163.7582 478.9371 166.7427 485.8392 166.8504 499.1072 162.9592 516.5495 172.5403 518.7558 181.2669 514.2832 197.3967 504.6934 188.5957 490.4315 188.602 487.7324 203.049 481.3677 198.197 472.5045 200.5817 467.1983 195.1016 444.5147 201.7768 440.4923 211.3004 429.9848 207.9863 419.4105 208.3075 412.1819 200.0421 410.1287 191.5019 402.1368 189.4416 408.2455 172.9425 415.0992 171.1961 417.7616 167.0388 420.1268 149.3969 428.9669 148.6922 Z" id="MK.KY" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.KY</code_hasc>
+        <name>Kratovo</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Northeastern</region>
+        <woe_id>24550780</woe_id>
+        <longitude>22</longitude>
+        <woe_name>Kratovo</woe_name>
+        <fips>MK51</fips>
+        <woe_label>Kratovo Municipality, MK, Macedonia</woe_label>
+        <latitude>42</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>KY</postal>
+        <type>Statistical Region</type>
+        <id>MK.KY</id>
+      </desc>
+    </path>
+    <path d="M 264.7082 445.0514 260.2648 449.9481 262.8397 456.5376 269.5765 457.9307 265.8929 474.18 257.9777 482.4211 252.4038 483.0734 244.171 477.0116 240.6516 474.2869 243.8337 462.8633 236.942 449.6862 237.3745 436.2569 243.9967 431.8251 248.1944 443.0421 261.106 442.2739 264.7082 445.0514 Z" id="MK.KG" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.KG</code_hasc>
+        <name>Krivogaštani</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Pelagonia</region>
+        <woe_id>24550781</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Krivogastani Municipality</woe_name>
+        <fips>MK53</fips>
+        <woe_label/>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>KG</postal>
+        <type>Statistical Region</type>
+        <id>MK.KG</id>
+      </desc>
+    </path>
+    <path d="M 223.4257 401.186 234.8749 416.1615 234.6062 420.0914 225.4865 419.9337 224.2844 423.8664 237.3745 436.2569 236.942 449.6862 243.8337 462.8633 240.6516 474.2869 244.171 477.0116 240.8063 477.8588 235.8658 489.4663 238.58 496.161 231.9703 493.0896 232.8585 479.3591 226.0775 464.9034 220.0662 459.764 212.5481 461.5002 210.4381 442.9112 198.9928 442.9364 198.9827 437.7604 190.5553 432.9089 189.0186 425.6067 205.8577 416.8355 218.2648 411.9001 219.8431 401.2246 223.4257 401.186 Z" id="MK.KS" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.KS</code_hasc>
+        <name>Kruševo</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Pelagonia</region>
+        <woe_id>24550782</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Kruševo</woe_name>
+        <fips>MK54</fips>
+        <woe_label>Krusevo Municipality, MK, Macedonia</woe_label>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>KS</postal>
+        <type>Statistical Region</type>
+        <id>MK.KS</id>
+      </desc>
+    </path>
+    <path d="M 408.2455 172.9425 402.1368 189.4416 410.1287 191.5019 412.1819 200.0421 419.4105 208.3075 416.3912 213.4912 404.6535 217.7392 398.408 209.5714 387.3535 209.5266 372.7976 229.7306 364.3851 222.4935 351.974 224.8824 338.4809 214.8469 338.1144 204.0365 334.4218 204.0658 323.9443 194.5421 323.6062 190.4275 315.8133 187.5577 315.1302 181.8511 323.0232 175.8201 325.2271 160.4228 332.0469 161.2617 331.9747 151.9868 337.8065 148.2548 335.1103 123.7027 346.5302 114.1672 363.4884 124.5114 363.086 129.2797 356.9583 133.2366 356.4644 153.0774 357.7708 161.8539 364.751 170.832 369.0612 171.6736 382.7378 164.7509 396.6443 169.7572 403.1924 163.0372 408.2455 172.9425 Z" id="MK.UM" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.UM</code_hasc>
+        <name>Kumanovo</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Northeastern</region>
+        <woe_id>24550832</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Kumanovo</woe_name>
+        <fips>MK57</fips>
+        <woe_label>Kumanovo Municipality, MK, Macedonia</woe_label>
+        <latitude>42</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>UM</postal>
+        <type>Statistical Region</type>
+        <id>MK.UM</id>
+      </desc>
+    </path>
+    <path d="M 202.4073 268.0633 216.0054 275.9637 235.3553 304.3453 240.6266 309.0148 246.7212 308.2315 254.2384 311.6134 254.2922 323.9822 260.1194 331.5801 253.9524 342.9636 254.5208 357.2241 250.051 372.5844 242.5943 382.6008 242.1041 394.5492 231.1515 391.5594 223.5279 397.6505 223.4257 401.186 219.8431 401.2246 218.2648 411.9001 205.8577 416.8355 204.9739 412.9085 194.7196 407.8842 191.938 398.1839 173.3262 403.2243 173.8569 397.382 192.9801 380.8533 183.4982 372.1376 180.1901 362.202 179.0995 344.2366 169.4455 342.3044 166.9382 337.5987 167.8028 326.0454 160.6823 308.3445 165.4284 303.7287 166.8536 291.3497 174.0128 290.519 181.56 286.0003 192.4275 271.6647 202.4073 268.0633 Z" id="MK.MD" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.MD</code_hasc>
+        <name>Brod</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Polog</region>
+        <woe_id>24550786</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Brod</woe_name>
+        <fips>MK63</fips>
+        <woe_label>Makedonski Brod Municipality, MK, Macedonia</woe_label>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>MD</postal>
+        <type>Statistical Region</type>
+        <id>MK.MD</id>
+      </desc>
+    </path>
+    <path d="M 252.4038 483.0734 253.6962 487.4375 263.9606 490.5985 273.2259 502.8651 280.9095 503.894 288.0849 510.0992 299.6618 507.7146 316.9199 515.9005 315.6824 521.4883 301.0712 538.4243 277.9495 533.7464 270.6135 541.8383 258.1946 544.3154 252.5051 541.1331 251.5008 524.7283 239.58 514.0667 241.0287 499.6214 238.58 496.161 235.8658 489.4663 240.8063 477.8588 244.171 477.0116 252.4038 483.0734 Z" id="MK.MG" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.MG</code_hasc>
+        <name>Pelagonia</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region/>
+        <woe_id>24550789</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Pelagonia</woe_name>
+        <fips>MK67</fips>
+        <woe_label>Mogila Municipality, MK, Macedonia</woe_label>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>MG</postal>
+        <type>Statistical Region</type>
+        <id>MK.MG</id>
+      </desc>
+    </path>
+    <path d="M 496.1531 372.8397 507.2987 392.3807 496.3969 405.054 482.5233 397.8799 476.5819 398.75 469.7465 406.6179 465.3895 420.7723 460.0742 424.6591 464.8572 433.947 462.7176 443.1943 449.1874 443.9958 444.9154 441.4229 440.5032 424.9147 437.4379 390.9079 433.1984 387.7982 420.9397 388.5317 420.6226 370.585 424.3511 371.3488 425.9118 379.5651 429.377 379.3746 433.3365 354.465 421.8392 356.2408 419.1337 353.5893 427.6599 333.8522 436.1462 337.6152 441.4712 344.997 449.0947 337.9053 456.9307 356.2628 470.9158 357.4095 471.92 364.9929 484.0815 372.2624 496.1531 372.8397 Z" id="MK.NG" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.NG</code_hasc>
+        <name>Negotino</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Vardar</region>
+        <woe_id>24550790</woe_id>
+        <longitude>22</longitude>
+        <woe_name>Negotino</woe_name>
+        <fips>MK69</fips>
+        <woe_label>Negotino Municipality, MK, Macedonia</woe_label>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>NG</postal>
+        <type>Statistical Region</type>
+        <id>MK.NG</id>
+      </desc>
+    </path>
+    <path d="M 398.717 547.8679 381.0893 573.8772 368.1131 584.6495 366.6762 595.7084 363.2374 599.302 355.4006 601.0946 341.0941 598.0041 333.3553 601.6078 331.1966 609.7629 324.2847 610.3195 312.7411 620.6006 305.0443 619.1502 291.7804 608.1709 291.1816 589.8767 279.813 574.8528 273.8662 573.3646 272.9577 562.2018 268.2859 553.4766 270.6135 541.8383 277.9495 533.7464 301.0712 538.4243 315.6824 521.4883 316.9199 515.9005 321.2408 513.573 329.3888 522.9286 362.7292 531.6232 370.3952 538.55 380.4767 539.3376 382.4399 536.9088 389.6375 544.4999 398.717 547.8679 Z" id="MK.NV" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.NV</code_hasc>
+        <name>Novatsi</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Pelagonia</region>
+        <woe_id>24550791</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Novatsi</woe_name>
+        <fips>MK71</fips>
+        <woe_label>Novaci Municipality, MK, Macedonia</woe_label>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>NV</postal>
+        <type>Statistical Region</type>
+        <id>MK.NV</id>
+      </desc>
+    </path>
+    <path d="M 249.7481 198.9489 249.6476 215.0045 242.7884 214.4039 229.4398 189.4034 220.3023 190.8199 218.9604 174.7021 230.6278 177.0108 233.8435 173.8349 245.0159 183.5508 249.7481 198.9489 Z" id="MK.GP" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.GP</code_hasc>
+        <name>Gjorce Petrov</name>
+        <admin>Macedonia</admin>
+        <type_en>Municipality</type_en>
+        <region>Greater Skopje</region>
+        <woe_id>24550839</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Gjorce Petrov Municipality</woe_name>
+        <fips>MK00</fips>
+        <woe_label/>
+        <latitude>42</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>GP</postal>
+        <type>Municipality</type>
+        <id>MK.GP</id>
+      </desc>
+    </path>
+    <path d="M 148.4527 345.986 148.6751 362.6962 143.6299 373.0471 125.7033 378.6879 124.4294 383.4218 113.3277 363.6297 108.7945 362.8996 103.7235 350.0241 100.6564 349.4925 93.7061 348.5477 96.4509 342.4874 102.6422 342.2575 112.6755 333.0588 124.6039 331.435 137.3992 335.0289 148.4527 345.986 Z" id="MK.ZA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.ZA</code_hasc>
+        <name>Zajas</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Southwestern</region>
+        <woe_id>24550864</woe_id>
+        <longitude>20</longitude>
+        <woe_name>Zajas</woe_name>
+        <fips>MKC1</fips>
+        <woe_label>Zajas Municipality, MK, Macedonia</woe_label>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>ZA</postal>
+        <type>Statistical Region</type>
+        <id>MK.ZA</id>
+      </desc>
+    </path>
+    <path d="M 64.6807 418.0452 55.9802 426.31 26.5861 426.0525 22.0248 417.773 13.493 413.9735 11.0299 402.2567 34.6824 381.8874 46.0667 382.6918 50.866 394.0969 56.8341 396.7662 58.769 413.8403 64.6807 418.0452 Z" id="MK.CZ" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.CZ</code_hasc>
+        <name>Centar župa</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Southwestern</region>
+        <woe_id>24550829</woe_id>
+        <longitude>20</longitude>
+        <woe_name>Centar župa</woe_name>
+        <fips>MK18</fips>
+        <woe_label>Centar Zupa Municipality, MK, Macedonia</woe_label>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>CZ</postal>
+        <type>Statistical Region</type>
+        <id>MK.CZ</id>
+      </desc>
+    </path>
+    <path d="M 78.546 398.7478 71.9398 400.4047 66.4303 418.2579 64.6807 418.0452 58.769 413.8403 56.8341 396.7662 50.866 394.0969 46.0667 382.6918 34.6824 381.8874 11.0299 402.2567 1.1294 387.6033 1 372.6548 18.2702 368.1834 25.7498 359.132 42.9854 372.4471 55.2341 374.3951 67.723 388.4716 77.3806 392.6772 78.546 398.7478 Z" id="MK.DB" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.DB</code_hasc>
+        <name>Debar</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Southwestern</region>
+        <woe_id>24550837</woe_id>
+        <longitude>20</longitude>
+        <woe_name>Debar</woe_name>
+        <fips>MK21</fips>
+        <woe_label>Debar Municipality, MK, Macedonia</woe_label>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>DB</postal>
+        <type>Statistical Region</type>
+        <id>MK.DB</id>
+      </desc>
+    </path>
+    <path d="M 124.4294 383.4218 128.621 391.7908 145.8475 402.3135 143.1928 409.5235 151.4045 416.558 153.8042 423.103 168.0348 422.376 171.9833 417.0376 176.809 415.5704 179.7228 421.1558 189.0186 425.6067 190.5553 432.9089 185.2466 434.3421 175.9055 444.0018 154.6532 444.1633 140.3757 454.9529 134.3325 445.1785 129.2187 443.4768 122.0997 419.4453 97.4589 416.9815 67.133 419.095 66.4303 418.2579 71.9398 400.4047 78.546 398.7478 89.4603 399.4828 99.0477 388.5634 99.3476 380.603 102.7942 376.8222 100.6564 349.4925 103.7235 350.0241 108.7945 362.8996 113.3277 363.6297 124.4294 383.4218 Z" id="MK.DR" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.DR</code_hasc>
+        <name>Drugovo</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region/>
+        <woe_id>24550764</woe_id>
+        <longitude>20</longitude>
+        <woe_name>Drugovo Municipality</woe_name>
+        <fips>MK30</fips>
+        <woe_label/>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>DR</postal>
+        <type>Statistical Region</type>
+        <id>MK.DR</id>
+      </desc>
+    </path>
+    <path d="M 143.6299 373.0471 145.5718 380.6432 152.5054 380.6442 153.9716 389.6274 145.8475 402.3135 128.621 391.7908 124.4294 383.4218 125.7033 378.6879 143.6299 373.0471 Z" id="MK.KH" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.KH</code_hasc>
+        <name>Kicevo</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Southwestern</region>
+        <woe_id>24550775</woe_id>
+        <longitude>20</longitude>
+        <woe_name>Kicevo</woe_name>
+        <fips>MK43</fips>
+        <woe_label>Kicevo Municipality, MK, Macedonia</woe_label>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>KH</postal>
+        <type>Statistical Region</type>
+        <id>MK.KH</id>
+      </desc>
+    </path>
+    <path d="M 124.6039 331.435 112.6755 333.0588 102.6422 342.2575 96.4509 342.4874 93.7061 348.5477 100.6564 349.4925 102.7942 376.8222 99.3476 380.603 99.0477 388.5634 89.4603 399.4828 78.546 398.7478 77.3806 392.6772 67.723 388.4716 55.2341 374.3951 42.9854 372.4471 25.7498 359.132 18.7295 332.0825 16.7159 305.8134 30.367 281.9471 62.6547 298.4582 68.2984 298.9669 76.5012 290.0207 96.6558 292.0187 104.7902 309.9946 118.4216 308.3211 114.6189 314.1292 124.6039 331.435 Z" id="MK.MR" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.MR</code_hasc>
+        <name>Mavrovo and Rostusa</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Polog</region>
+        <woe_id>24550858</woe_id>
+        <longitude>20</longitude>
+        <woe_name>Mavrovo and Rostusa</woe_name>
+        <fips>MK64</fips>
+        <woe_label>Mavrovo and Rostusa Municipality, MK, Macedonia</woe_label>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>MR</postal>
+        <type>Statistical Region</type>
+        <id>MK.MR</id>
+      </desc>
+    </path>
+    <path d="M 166.9382 337.5987 169.4455 342.3044 179.0995 344.2366 180.1901 362.202 167.1019 374.8166 162.1755 386.7092 153.9716 389.6274 152.5054 380.6442 145.5718 380.6432 143.6299 373.0471 148.6751 362.6962 148.4527 345.986 152.7024 341.5791 166.9382 337.5987 Z" id="MK.OS" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.OS</code_hasc>
+        <name>Oslomej</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region/>
+        <woe_id>24550795</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Oslomej Municipality</woe_name>
+        <fips>MK77</fips>
+        <woe_label/>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>OS</postal>
+        <type>Statistical Region</type>
+        <id>MK.OS</id>
+      </desc>
+    </path>
+    <path d="M 160.5062 204.6845 155.4147 202.5476 154.3229 191.388 145.9927 187.017 139.1522 173.4254 126.6405 167.3424 153.5943 158.1803 163.592 151.6376 188.0212 178.9538 177.5912 198.1266 160.5062 204.6845 Z" id="MK.TR" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.TR</code_hasc>
+        <name>Tearce</name>
+        <admin>Macedonia</admin>
+        <type_en>Municipality</type_en>
+        <region/>
+        <woe_id>24550861</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Tearce</woe_name>
+        <fips>MKA5</fips>
+        <woe_label>Tearce Municipality, MK, Macedonia</woe_label>
+        <latitude>42</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>TR</postal>
+        <type>Opština</type>
+        <id>MK.TR</id>
+      </desc>
+    </path>
+    <path d="M 160.5062 204.6845 161.0386 207.0007 156.5073 212.4973 165.3835 222.4439 157.9658 226.8731 145.8149 221.715 141.1373 226.9366 130.9536 217.5797 111.227 214.1582 85.1822 231.2574 82.9678 211.9616 89.0827 186.2648 101.3206 175.9137 126.6405 167.3424 139.1522 173.4254 145.9927 187.017 154.3229 191.388 155.4147 202.5476 160.5062 204.6845 Z" id="MK.ET" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.ET</code_hasc>
+        <name>Tetovo</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region/>
+        <woe_id>24550862</woe_id>
+        <longitude>20</longitude>
+        <woe_name>Tetovo</woe_name>
+        <fips>MKA6</fips>
+        <woe_label>Tetovo Municipality, MK, Macedonia</woe_label>
+        <latitude>42</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>ET</postal>
+        <type>Statistical Region</type>
+        <id>MK.ET</id>
+      </desc>
+    </path>
+    <path d="M 138.5159 255.6871 140.558 264.325 136.2642 268.2985 137.5508 274.1228 134.8268 277.2811 114.1166 277.7345 110.8562 280.6453 101.2372 277.2315 96.1804 267.9923 85.2989 267.2413 75.0469 260.6876 85.0457 242.1889 91.5436 239.1067 108.3754 242.0612 138.5159 255.6871 Z" id="MK.VH" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.VH</code_hasc>
+        <name>Polog</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region/>
+        <woe_id>24550819</woe_id>
+        <longitude>20</longitude>
+        <woe_name>Polog</woe_name>
+        <fips>MKB7</fips>
+        <woe_label>Vrapciste Municipality, MK, Macedonia</woe_label>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>VH</postal>
+        <type>Statistical Region</type>
+        <id>MK.VH</id>
+      </desc>
+    </path>
+    <path d="M 141.1373 226.9366 142.4496 235.546 149.1722 235.7917 148.9757 238.4643 145.1632 246.472 138.9956 250.3515 138.5159 255.6871 108.3754 242.0612 91.5436 239.1067 85.0457 242.1889 85.1822 231.2574 111.227 214.1582 130.9536 217.5797 141.1373 226.9366 Z" id="MK.VJ" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.VJ</code_hasc>
+        <name>Bogovinje</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Polog</region>
+        <woe_id>24550828</woe_id>
+        <longitude>20</longitude>
+        <woe_name>Bogovinje</woe_name>
+        <fips>MK10</fips>
+        <woe_label>Bogovinje Municipality, MK, Macedonia</woe_label>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>VJ</postal>
+        <type>Statistical Region</type>
+        <id>MK.VJ</id>
+      </desc>
+    </path>
+    <path d="M 157.9658 226.8731 167.5478 235.7871 168.1137 244.2735 175.544 248.8812 171.7429 261.7507 181.8953 262.4622 187.1744 267.0688 195.8692 266.8104 196.9562 263.1698 200.937 262.4305 202.4073 268.0633 192.4275 271.6647 181.56 286.0003 174.0128 290.519 160.418 274.6139 160.0514 269.0344 148.4382 268.5476 140.558 264.325 138.5159 255.6871 138.9956 250.3515 145.1632 246.472 148.9757 238.4643 149.1722 235.7917 142.4496 235.546 141.1373 226.9366 145.8149 221.715 157.9658 226.8731 Z" id="MK.BN" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.BN</code_hasc>
+        <name>Brvenica</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Polog</region>
+        <woe_id>24550751</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Brvenica</woe_name>
+        <fips>MK12</fips>
+        <woe_label>Brvenica Municipality, MK, Macedonia</woe_label>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>BN</postal>
+        <type>Statistical Region</type>
+        <id>MK.BN</id>
+      </desc>
+    </path>
+    <path d="M 75.0469 260.6876 85.2989 267.2413 96.1804 267.9923 101.2372 277.2315 110.8562 280.6453 114.1166 277.7345 134.8268 277.2811 137.5508 274.1228 136.2642 268.2985 140.558 264.325 148.4382 268.5476 160.0514 269.0344 160.418 274.6139 174.0128 290.519 166.8536 291.3497 165.4284 303.7287 160.6823 308.3445 167.8028 326.0454 166.9382 337.5987 152.7024 341.5791 148.4527 345.986 137.3992 335.0289 124.6039 331.435 114.6189 314.1292 118.4216 308.3211 104.7902 309.9946 96.6558 292.0187 76.5012 290.0207 68.2984 298.9669 62.6547 298.4582 30.367 281.9471 28.2011 259.6073 35.1204 255.4325 44.6414 263.9374 49.0736 263.723 55.8114 255.3589 66.0885 266.1555 75.0469 260.6876 Z" id="MK.GT" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.GT</code_hasc>
+        <name>Gostivar</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Polog</region>
+        <woe_id>24550767</woe_id>
+        <longitude>20</longitude>
+        <woe_name>Gostivar</woe_name>
+        <fips>MK34</fips>
+        <woe_label>Gostivar Municipality, MK, Macedonia</woe_label>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>GT</postal>
+        <type>Statistical Region</type>
+        <id>MK.GT</id>
+      </desc>
+    </path>
+    <path d="M 214.5118 171.9361 210.8735 176.9287 192.9993 181.3746 197.3679 186.0461 202.5917 184.5724 203.696 191.0127 198.2535 195.713 200.9908 207.608 190.0049 213.3582 175.3995 215.9374 172.18 214.8619 171.7828 208.3821 161.0386 207.0007 160.5062 204.6845 177.5912 198.1266 188.0212 178.9538 163.592 151.6376 172.6208 142.7447 183.0224 139.1227 206.5271 158.4079 214.5118 171.9361 Z" id="MK.JG" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.JG</code_hasc>
+        <name>Jegunovce</name>
+        <admin>Macedonia</admin>
+        <type_en>Municipality</type_en>
+        <region/>
+        <woe_id>24550771</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Jegunovce Municipality</woe_name>
+        <fips>MK38</fips>
+        <woe_label/>
+        <latitude>42</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>JG</postal>
+        <type>Opština</type>
+        <id>MK.JG</id>
+      </desc>
+    </path>
+    <path d="M 609.5404 396.5883 615.1349 407.0142 613.098 415.5062 623.9999 415.4697 630.8372 425.3422 640.6596 423.4155 644.0041 445.2139 634.6678 450.6842 616.2086 441.6745 607.0777 453.5959 602.8911 452.1186 598.6545 455.4724 590.9776 454.9306 585.8994 447.9511 572.7713 449.2191 567.2055 434.9937 571.1639 423.8836 568.3667 420.6499 557.0417 419.1203 547.3286 407.4657 556.2388 401.8841 562.8683 403.3176 564.4419 399.6788 573.4826 390.7112 583.9529 395.5313 589.6723 402.6679 597.6048 402.6886 609.5404 396.5883 Z" id="MK.RU" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.RU</code_hasc>
+        <name>Southeastern</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region/>
+        <woe_id>24550808</woe_id>
+        <longitude>22</longitude>
+        <woe_name>Southeastern</woe_name>
+        <fips>MKA1</fips>
+        <woe_label>Strumica Municipality, MK, Macedonia</woe_label>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>RU</postal>
+        <type>Statistical Region</type>
+        <id>MK.RU</id>
+      </desc>
+    </path>
+    <path d="M 547.3286 407.4657 557.0417 419.1203 568.3667 420.6499 571.1639 423.8836 567.2055 434.9937 572.7713 449.2191 585.8994 447.9511 590.9776 454.9306 598.6545 455.4724 602.8911 452.1186 607.0777 453.5959 616.2086 441.6745 634.6678 450.6842 629.3751 463.6694 607.484 461.5148 603.53 469.3854 592.0533 470.2664 581.6052 481.113 571.6249 477.2387 569.8332 488.104 564.8541 491.755 558.3373 483.4158 554.2679 455.4676 548.3572 453.8598 535.35 438.3436 517.8782 432.6166 514.4384 423.8809 515.8384 415.7182 525.349 409.98 547.3286 407.4657 Z" id="MK.VA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.VA</code_hasc>
+        <name>Valandovo</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Southeastern</region>
+        <woe_id>24550813</woe_id>
+        <longitude>22</longitude>
+        <woe_name>Valandovo</woe_name>
+        <fips>MKA8</fips>
+        <woe_label>Valandovo Municipality, MK, Macedonia</woe_label>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>VA</postal>
+        <type>Statistical Region</type>
+        <id>MK.VA</id>
+      </desc>
+    </path>
+    <path d="M 623.5094 361.2558 623.487 382.6926 616.5436 392.4928 609.5404 396.5883 597.6048 402.6886 589.6723 402.6679 583.9529 395.5313 573.4826 390.7112 564.4419 399.6788 562.7462 384.9345 561.5076 376.9453 571.1001 369.3569 585.1567 379.6279 588.8927 377.3171 590.097 366.2536 582.2748 350.0002 587.2765 340.246 596.1362 338.3073 597.0153 344.5947 601.7579 339.3261 612.1889 345.813 613.1292 353.5623 609.3638 359.8461 623.5094 361.2558 Z" id="MK.VL" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.VL</code_hasc>
+        <name>Vasilevo</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Southeastern</region>
+        <woe_id>24550814</woe_id>
+        <longitude>22</longitude>
+        <woe_name>Vasilevo Municipality</woe_name>
+        <fips>MKA9</fips>
+        <woe_label/>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>VL</postal>
+        <type>Statistical Region</type>
+        <id>MK.VL</id>
+      </desc>
+    </path>
+    <path d="M 581.6052 481.113 588.3832 489.3664 599.4185 488.6272 607.4836 492.5925 606.9185 504.0604 599.2846 504.1726 598.1183 513.0681 587.9233 523.6195 575.699 515.3616 568.7887 514.2919 570.7743 501.3787 564.8541 491.755 569.8332 488.104 571.6249 477.2387 581.6052 481.113 Z" id="MK.BG" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.BG</code_hasc>
+        <name>Bogdanci</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Southeastern</region>
+        <woe_id>24550827</woe_id>
+        <longitude>22</longitude>
+        <woe_name>Bogdanci</woe_name>
+        <fips>MK08</fips>
+        <woe_label>Bogdanci Municipality, MK, Macedonia</woe_label>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>BG</postal>
+        <type>Statistical Region</type>
+        <id>MK.BG</id>
+      </desc>
+    </path>
+    <path d="M 659.3557 379.5282 659.154 388.5205 644.4238 404.6965 644.6933 417.6468 640.6596 423.4155 630.8372 425.3422 623.9999 415.4697 613.098 415.5062 615.1349 407.0142 609.5404 396.5883 616.5436 392.4928 623.487 382.6926 623.5094 361.2558 635.67 372.952 653.0152 374.4849 659.3557 379.5282 Z" id="MK.BS" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.BS</code_hasc>
+        <name>Bosilovo</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region/>
+        <woe_id>24550750</woe_id>
+        <longitude>22</longitude>
+        <woe_name>Bosilovo Municipality</woe_name>
+        <fips>MK11</fips>
+        <woe_label/>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>BS</postal>
+        <type>Statistical Region</type>
+        <id>MK.BS</id>
+      </desc>
+    </path>
+    <path d="M 564.8541 491.755 570.7743 501.3787 568.7887 514.2919 575.699 515.3616 587.9233 523.6195 550.8968 528.0468 542.7499 527.8248 531.2204 521.82 511.6615 524.5604 509.8768 517.1404 485.3819 511.9831 485.5599 501.8862 498.3662 499.7156 495.0293 484.4295 509.1628 477.0189 505.6244 473.2357 503.3482 459.0226 508.305 451.8864 521.1346 451.2311 517.8782 432.6166 535.35 438.3436 548.3572 453.8598 554.2679 455.4676 558.3373 483.4158 564.8541 491.755 Z" id="MK.GV" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.GV</code_hasc>
+        <name>Southeastern</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region/>
+        <woe_id>24550840</woe_id>
+        <longitude>22</longitude>
+        <woe_name>Southeastern</woe_name>
+        <fips>MK33</fips>
+        <woe_label>Gevgelija Municipality, MK, Macedonia</woe_label>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>GV</postal>
+        <type>Statistical Region</type>
+        <id>MK.GV</id>
+      </desc>
+    </path>
+    <path d="M 644.0041 445.2139 640.6596 423.4155 644.6933 417.6468 644.4238 404.6965 659.154 388.5205 659.3557 379.5282 682.6368 376.7835 686.3817 409.6681 681.8432 417.6325 683.2987 439.7231 676.8822 444.9697 644.0041 445.2139 Z" id="MK.NS" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.NS</code_hasc>
+        <name>Novo Selo</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Southeastern</region>
+        <woe_id>24550853</woe_id>
+        <longitude>22</longitude>
+        <woe_name>Novo Selo</woe_name>
+        <fips>MK72</fips>
+        <woe_label>Novo Selo Municipality, MK, Macedonia</woe_label>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>NS</postal>
+        <type>Statistical Region</type>
+        <id>MK.NS</id>
+      </desc>
+    </path>
+    <path d="M 629.3751 463.6694 628.531 493.682 623.2014 515.1383 616.6592 515.6416 606.9185 504.0604 607.4836 492.5925 599.4185 488.6272 588.3832 489.3664 581.6052 481.113 592.0533 470.2664 603.53 469.3854 607.484 461.5148 629.3751 463.6694 Z" id="MK.SD" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.SD</code_hasc>
+        <name>Dojran</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Southeastern</region>
+        <woe_id>24550860</woe_id>
+        <longitude>22</longitude>
+        <woe_name>Dojran</woe_name>
+        <fips>MK00</fips>
+        <woe_label>Star Dojran Municipality, MK, Macedonia</woe_label>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>SD</postal>
+        <type>Statistical Region</type>
+        <id>MK.SD</id>
+      </desc>
+    </path>
+    <path d="M 587.4134 211.9935 588.5158 231.9365 617.0752 241.9095 607.212 275.259 604.6344 298.7626 593.2215 304.5904 585.2934 303.0122 569.9329 289.6517 565.2504 294.913 555.4655 296.125 545.4691 289.8133 545.4645 282.8624 545.543 264.1939 541.9463 253.8137 546.5447 223.9714 550.9101 223.7281 556.5415 228.6308 563.7786 225.9615 572.5963 225.5879 578.768 210.8031 587.4134 211.9935 Z" id="MK.NI" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.NI</code_hasc>
+        <name>Vinitsa</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Eastern</region>
+        <woe_id>24550817</woe_id>
+        <longitude>22</longitude>
+        <woe_name>Vinica Municipality</woe_name>
+        <fips>MKB4</fips>
+        <woe_label/>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>NI</postal>
+        <type>Statistical Region</type>
+        <id>MK.NI</id>
+      </desc>
+    </path>
+    <path d="M 629.9434 281.5787 638.2018 303.2684 642.9138 300.0646 658.5802 301.795 663.2473 308.2519 671.2899 308.2533 692.7611 320.6318 687.995 331.6905 682.276 333.9877 679.7525 339.4583 679.4434 354.5617 683.7206 363.0412 682.6368 376.7835 659.3557 379.5282 653.0152 374.4849 635.67 372.952 623.5094 361.2558 609.3638 359.8461 613.1292 353.5623 612.1889 345.813 601.7579 339.3261 597.0153 344.5947 596.1362 338.3073 594.636 330.3992 599.9523 319.951 594.5283 315.7386 593.2215 304.5904 604.6344 298.7626 607.212 275.259 629.9434 281.5787 Z" id="MK.BR" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.BR</code_hasc>
+        <name>Berovo</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Southeastern</region>
+        <woe_id>24550826</woe_id>
+        <longitude>22</longitude>
+        <woe_name>Berovo</woe_name>
+        <fips>MK04</fips>
+        <woe_label>Berovo Municipality, MK, Macedonia</woe_label>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>BR</postal>
+        <type>Statistical Region</type>
+        <id>MK.BR</id>
+      </desc>
+    </path>
+    <path d="M 663.0952 250.6978 649.6289 262.9849 644.549 273.6196 634.6306 281.4261 629.9434 281.5787 607.212 275.259 617.0752 241.9095 588.5158 231.9365 587.4134 211.9935 587.3506 204.1705 592.068 202.0175 592.5115 176.795 619.2453 189.5798 634.34 189.0171 639.4009 196.8769 650.044 197.2887 663.0952 250.6978 Z" id="MK.DL" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.DL</code_hasc>
+        <name>Delcevo</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Eastern</region>
+        <woe_id>24550838</woe_id>
+        <longitude>22</longitude>
+        <woe_name>Delcevo</woe_name>
+        <fips>MK22</fips>
+        <woe_label>Delcevo Municipality, MK, Macedonia</woe_label>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>DL</postal>
+        <type>Statistical Region</type>
+        <id>MK.DL</id>
+      </desc>
+    </path>
+    <path d="M 592.5115 176.795 592.068 202.0175 587.3506 204.1705 587.4134 211.9935 578.768 210.8031 572.5963 225.5879 563.7786 225.9615 555.3595 194.4858 546.359 186.7044 545.9136 175.3235 542.4993 171.7603 538.601 175.9628 535.5457 170.3851 559.5523 152.056 592.5115 176.795 Z" id="MK.MK" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.MK</code_hasc>
+        <name>Makedonska Kamenica</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Eastern</region>
+        <woe_id>24550851</woe_id>
+        <longitude>22</longitude>
+        <woe_name>Makedonska Kamenica</woe_name>
+        <fips>MK52</fips>
+        <woe_label>Makedonska Kamenica Municipality, MK, Macedonia</woe_label>
+        <latitude>42</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>MK</postal>
+        <type>Statistical Region</type>
+        <id>MK.MK</id>
+      </desc>
+    </path>
+    <path d="M 692.7611 320.6318 671.2899 308.2533 663.2473 308.2519 658.5802 301.795 642.9138 300.0646 638.2018 303.2684 629.9434 281.5787 634.6306 281.4261 644.549 273.6196 649.6289 262.9849 663.0952 250.6978 668.4165 254.6479 681.2519 287.4349 693.6223 290.1824 698.6036 297.7138 699 306.262 692.7611 320.6318 Z" id="MK.PH" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.PH</code_hasc>
+        <name>Phecevo</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Eastern</region>
+        <woe_id>24550854</woe_id>
+        <longitude>22</longitude>
+        <woe_name>Pehcevo Municipality</woe_name>
+        <fips>MK78</fips>
+        <woe_label/>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>PH</postal>
+        <type>Statistical Region</type>
+        <id>MK.PH</id>
+      </desc>
+    </path>
+    <path d="M 66.4303 418.2579 67.133 419.095 78.3841 441.4313 79.4324 458.9036 86.8875 472.9999 83.9311 487.5441 78.7816 495.5364 81.5694 510.4818 57.4837 545.1097 36.3999 538.3969 33.348 518.8222 18.9883 495.9793 41.5366 492.0656 50.261 485.7494 49.0729 483.1625 34.2473 480.3129 14.3485 481.3966 10.7751 448.3717 14.697 449.6325 22.2261 442.7736 26.5861 426.0525 55.9802 426.31 64.6807 418.0452 66.4303 418.2579 Z" id="MK.UG" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.UG</code_hasc>
+        <name>Struga</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Southwestern</region>
+        <woe_id>24550846</woe_id>
+        <longitude>20</longitude>
+        <woe_name>Struga Municipality</woe_name>
+        <fips>MKE6</fips>
+        <woe_label>Struga Municipality, MK, Macedonia</woe_label>
+        <latitude>41</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>UG</postal>
+        <type>Statistical Region</type>
+        <id>MK.UG</id>
+      </desc>
+    </path>
+    <path d="M 477.7217 163.7582 474.9154 164.8294 474.2833 171.5918 461.199 175.2315 448.6709 163.699 438.1098 161.2058 436.6503 153.8139 428.9669 148.6922 435.2793 146.7491 428.043 120.4893 436.0636 115.2892 434.2103 98.2057 459.1082 91.8251 460.344 100.5316 473.9766 110.5875 477.7217 163.7582 Z" id="MK.RN" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.RN</code_hasc>
+        <name>Rankovce</name>
+        <admin>Macedonia</admin>
+        <type_en>Statistical Region</type_en>
+        <region>Northeastern</region>
+        <woe_id>24550844</woe_id>
+        <longitude>22</longitude>
+        <woe_name>Rankovce Municipality</woe_name>
+        <fips>MK85</fips>
+        <woe_label>Rankovce Municipality, MK, Macedonia</woe_label>
+        <latitude>42</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>KZ</postal>
+        <type>Statistical Region</type>
+        <id>MK.RN</id>
+      </desc>
+    </path>
+    <path d="M 267.0274 197.9509 266.6514 206.7869 257.6914 199.0361 257.8593 192.9115 261.9856 190.3884 267.0274 197.9509 Z" id="MK.SO" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>10</labelrank>
+        <code_hasc>MK.SO</code_hasc>
+        <name>Šuto Orizari</name>
+        <admin>Macedonia</admin>
+        <type_en>Municipality</type_en>
+        <region>Greater Skopje</region>
+        <woe_id>24550756</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Centar Municipality</woe_name>
+        <fips>MK17</fips>
+        <woe_label/>
+        <latitude>42</latitude>
+        <iso_a2>MK</iso_a2>
+        <postal>SO</postal>
+        <type>Municipality</type>
+        <id>MK.SO</id>
+      </desc>
+    </path>
+  </g>
+</svg>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="gansu">
+    <path d="M 444.2114 443.7473 455.3497 452.5652 491.0851 466.0239 489.6928 490.1569 499.4388 502.2234 515.6822 514.2899 515.6822 536.1024 499.9029 520.7872 476.6981 521.2513 461.8471 515.6822 459.9907 499.9029 421.0066 509.1848 432.1449 530.0691 415.9016 541.6715 391.3045 520.3231 380.1662 521.2513 362.0665 501.2952 365.7793 491.5492 402.9069 505.008 419.1503 495.7261 408.9402 470.2008 424.7194 462.3112 433.0731 441.891 444.2114 443.7473 Z" id="CN.gansu.165639" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>5</admin_leve>
+        <localname>甘南藏族自治州 (Gannan)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.gansu.165639</id>
+        <name>Gannan Tibetan Autonomous Prefecture</name>
+      </desc>
+    </path>
+    <path d="M 304.0545 256.7168 291.5239 260.4295 279.4574 280.3856 257.6449 266.4628 235.8324 263.6782 216.3404 287.8112 199.633 285.0266 183.3896 321.6902 167.6104 330.508 142.5492 320.2979 125.3777 324.0106 112.8471 318.4415 93.8191 321.6902 86.8577 304.5186 65.9734 305.9109 59.4761 297.5572 39.984 298.4854 25.5971 286.883 1 291.0598 13.0665 272.0319 25.133 227.0146 60.8684 223.3019 74.3271 201.9535 121.6649 176.4282 127.234 184.3178 164.3617 167.6104 159.2566 149.0465 173.1795 135.1237 206.5944 132.3391 234.9043 180.6051 225.1582 189.4229 255.3245 213.0918 255.7886 227.0146 292.4521 213.5559 331.9003 214.484 334.2207 238.617 304.0545 256.7168 Z" id="CN.gansu.165655" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>5</admin_leve>
+        <localname>酒泉市 / Jiuquan</localname>
+        <boundary>administrative</boundary>
+        <id>CN.gansu.165655</id>
+        <name>Jiuquan</name>
+      </desc>
+    </path>
+    <path d="M 304.0545 256.7168 338.3976 265.0705 348.6077 277.137 363.4588 277.137 368.5638 296.629 395.9455 309.1596 395.0173 309.6237 384.8072 323.0824 391.3045 334.2207 416.3657 335.1489 416.3657 335.613 417.2939 335.613 414.5093 351.3923 378.3098 343.5027 360.2101 327.2593 330.508 324.9388 308.2314 314.7287 274.3524 290.1316 253.9322 292.9162 246.0426 303.1263 216.3404 287.8112 235.8324 263.6782 257.6449 266.4628 279.4574 280.3856 291.5239 260.4295 304.0545 256.7168 Z" id="CN.gansu.165803" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Zhangye</name>
+        <admin_leve>5</admin_leve>
+        <wikipedia>en:Zhangye</wikipedia>
+        <localname>张掖市 / Zhangye</localname>
+        <boundary>administrative</boundary>
+        <id>CN.gansu.165803</id>
+      </desc>
+    </path>
+    <path d="M 491.5492 352.3205 479.4827 381.0944 452.1011 382.4867 443.7473 389.4481 438.1782 372.2766 414.5093 351.3923 417.2939 335.613 416.3657 335.613 416.3657 335.1489 443.7473 327.2593 436.7859 318.9056 430.2886 299.4136 414.9734 298.4854 433.0731 284.0984 455.3497 289.6676 491.0851 274.8165 506.8644 290.1316 482.7314 317.5133 472.0572 342.1104 491.5492 352.3205 Z" id="CN.gansu.165830" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wuwei</name>
+        <admin_leve>5</admin_leve>
+        <wikipedia>en:Wuwei, Gansu</wikipedia>
+        <localname>武威市 (Wuwei)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.gansu.165830</id>
+      </desc>
+    </path>
+    <path d="M 657.6955 451.637 648.8777 443.7473 628.4574 444.6755 615.4628 435.3936 623.8165 418.2221 605.2527 409.8684 608.0372 382.0226 616.8551 372.7407 664.1928 389.9122 694.8231 403.8351 699 416.3657 690.1822 426.5758 693.8949 451.637 657.6955 451.637 Z" id="CN.gansu.165866" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>5</admin_leve>
+        <localname>庆阳市 (Qingyang)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.gansu.165866</id>
+        <name>Qingyang</name>
+      </desc>
+    </path>
+    <path d="M 561.6277 433.5372 605.2527 449.7806 615.4628 435.3936 628.4574 444.6755 648.8777 443.7473 657.6955 451.637 648.8777 468.3444 621.9601 460.9189 604.3245 463.7035 594.1144 457.6702 567.6609 459.0625 556.0585 444.2114 561.6277 433.5372 Z" id="CN.gansu.2696771" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>5</admin_leve>
+        <localname>平凉市 (Pingliang)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.gansu.2696771</id>
+        <name>Pingliang</name>
+      </desc>
+    </path>
+    <path d="M 499.4388 502.2234 511.0412 491.0851 522.1795 498.9747 540.2793 489.6928 564.4122 498.0465 599.2194 503.1516 603.8604 497.1184 602.4681 523.5718 581.5838 524.5 571.8378 533.7819 580.1915 550.0253 545.3843 567.6609 510.5771 556.9867 515.6822 536.1024 515.6822 514.2899 499.4388 502.2234 Z" id="CN.gansu.2697126" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>5</admin_leve>
+        <localname>陇南市 (Longnan)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.gansu.2697126</id>
+        <name>Longnan City</name>
+      </desc>
+    </path>
+    <path d="M 567.6609 459.0625 594.1144 457.6702 604.3245 463.7035 609.4295 488.3005 603.8604 497.1184 599.2194 503.1516 564.4122 498.0465 540.2793 489.6928 522.6436 476.6981 567.6609 459.0625 Z" id="CN.gansu.2697305" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>5</admin_leve>
+        <localname>天水市 (Tianshui)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.gansu.2697305</id>
+        <name>Tianshui</name>
+      </desc>
+    </path>
+    <path d="M 458.1343 413.5811 481.8032 424.7194 491.5492 444.2114 491.0851 466.0239 455.3497 452.5652 444.2114 443.7473 458.1343 413.5811 Z" id="CN.gansu.2697555" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>5</admin_leve>
+        <localname>临夏回族自治州 (Linxia Hui)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.gansu.2697555</id>
+        <name>Linxia Hui Autonomous Prefecture</name>
+      </desc>
+    </path>
+    <path d="M 481.8032 424.7194 508.7207 440.4987 518.9309 421.4707 556.0585 444.2114 567.6609 459.0625 522.6436 476.6981 540.2793 489.6928 522.1795 498.9747 511.0412 491.0851 499.4388 502.2234 489.6928 490.1569 491.0851 466.0239 491.5492 444.2114 481.8032 424.7194 Z" id="CN.gansu.2701633" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>5</admin_leve>
+        <localname>定西市 (Dingxi)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.gansu.2701633</id>
+        <name>Dingxi</name>
+      </desc>
+    </path>
+    <path d="M 443.7473 389.4481 452.1011 382.4867 479.4827 381.0944 494.7979 391.3045 503.1516 407.5479 519.3949 403.8351 518.9309 421.4707 508.7207 440.4987 481.8032 424.7194 458.1343 413.5811 448.8524 408.012 443.7473 389.4481 Z" id="CN.gansu.2701949" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>5</admin_leve>
+        <localname>兰州市 (Lanzhou)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.gansu.2701949</id>
+        <name>Lanzhou</name>
+      </desc>
+    </path>
+    <path d="M 479.4827 381.0944 491.5492 352.3205 505.4721 362.0665 526.8205 362.0665 555.1303 389.9122 562.0918 415.9016 561.6277 433.5372 556.0585 444.2114 518.9309 421.4707 519.3949 403.8351 503.1516 407.5479 494.7979 391.3045 479.4827 381.0944 Z" id="CN.gansu.2702854" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>5</admin_leve>
+        <localname>白银市</localname>
+        <boundary>administrative</boundary>
+        <id>CN.gansu.2702854</id>
+        <name>Baiyin</name>
+      </desc>
+    </path>
+    <path d="M 395.0173 309.6237 395.9455 309.1596 414.9734 298.4854 430.2886 299.4136 436.7859 318.9056 417.2939 319.8338 395.0173 309.6237 Z" id="CN.gansu.2705763" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>金川区 (Jinchuan)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.gansu.2705763</id>
+        <name>Jinchuan District</name>
+      </desc>
+    </path>
+    <path d="M 395.0173 309.6237 417.2939 319.8338 436.7859 318.9056 443.7473 327.2593 416.3657 335.1489 391.3045 334.2207 384.8072 323.0824 395.0173 309.6237 Z" id="CN.gansu.2705764" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>永昌县 (Yongchang)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.gansu.2705764</id>
+        <name>Yongchang County</name>
+      </desc>
+    </path>
+  </g>
+</svg>

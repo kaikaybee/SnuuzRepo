@@ -1,0 +1,2385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="latvia">
+    <path d="M 619.9052 274.8718 613.0377 295.0007 626.7727 308.4989 628.1936 315.248 635.5347 314.7744 636.3635 318.3265 639.2053 323.2996 616.4714 339.5211 619.7868 347.9279 611.38 353.7298 610.3143 360.5973 593.0271 356.3347 576.332 358.1108 570.7669 353.9666 573.0166 351.1249 575.8584 345.5598 596.3425 347.5727 608.3014 333.9561 606.1701 326.6149 601.3155 328.0358 600.4867 324.4836 606.5254 312.2879 576.2136 304.5915 589.2382 284.581 607.4726 273.5693 612.4456 277.1215 619.9052 274.8718 Z" id="LV.BV" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.BV</code_hasc>
+        <name>Balvu</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Latgale</region>
+        <woe_id>-2346020</woe_id>
+        <longitude>27</longitude>
+        <woe_name>Balvi</woe_name>
+        <fips>LG</fips>
+        <woe_label>Balvu Rajons, LV, Latvia</woe_label>
+        <latitude>57</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>BL</postal>
+        <type>Novads</type>
+        <id>LV.BV</id>
+      </desc>
+    </path>
+    <path d="M 657.7949 498.1844 647.1384 507.7752 643.231 530.3907 628.1936 530.2723 619.1947 525.1808 611.1432 533.114 599.8947 525.7729 583.1995 527.6673 582.7259 521.0366 578.4633 519.6158 577.2792 497.2372 580.713 496.2899 588.0541 500.4341 598.3554 499.4869 602.618 494.7506 601.7891 487.1727 608.8935 483.7389 619.0763 481.8444 619.3131 491.7905 628.1936 489.0672 646.5464 496.6451 647.1384 490.7249 657.7949 498.1844 Z" id="LV.KS" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.KS</code_hasc>
+        <name>Kraslavas</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Latgale</region>
+        <woe_id>-2346028</woe_id>
+        <longitude>27</longitude>
+        <woe_name>Kraslava</woe_name>
+        <fips>LG</fips>
+        <woe_label>Kraslavas Rajons, LV, Latvia</woe_label>
+        <latitude>55</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>KR</postal>
+        <type>Novads</type>
+        <id>LV.KS</id>
+      </desc>
+    </path>
+    <path d="M 684.6729 405.2361 692.6061 417.7871 674.3717 417.7871 678.1606 426.1939 662.2943 437.7976 664.8992 443.9547 669.8723 443.7179 677.9238 435.1927 686.9226 440.5209 689.7644 444.3099 685.5018 456.1505 663.4784 461.9523 646.428 452.8351 650.4538 442.5338 647.4936 431.8774 632.9298 412.1036 629.1408 415.5374 626.7727 408.9067 633.9954 401.2103 633.1666 395.2901 645.5992 396.1189 652.2299 403.8153 657.4397 398.1318 668.2146 409.6171 674.4901 402.1576 684.6729 405.2361 Z" id="LV.LZ" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.LZ</code_hasc>
+        <name>Ludzas</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Latgale</region>
+        <woe_id>-2346032</woe_id>
+        <longitude>27</longitude>
+        <woe_name>Ludza</woe_name>
+        <fips>LG</fips>
+        <woe_label>Ludzas Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>LU</postal>
+        <type>Novads</type>
+        <id>LV.LZ</id>
+      </desc>
+    </path>
+    <path d="M 610.3143 360.5973 621.326 361.8997 623.8126 380.6078 634.5874 387.5937 633.1666 395.2901 633.9954 401.2103 626.7727 408.9067 629.1408 415.5374 632.9298 412.1036 647.4936 431.8774 650.4538 442.5338 646.428 452.8351 633.4034 449.875 625.4702 459.229 610.9064 461.0051 598.0002 460.2947 592.4351 467.5174 586.1596 466.2149 576.4504 445.0204 580.5946 440.1657 571.0037 426.7859 573.3718 420.392 583.6731 419.8 580.1209 400.1447 557.0319 380.6078 570.7669 353.9666 576.332 358.1108 593.0271 356.3347 610.3143 360.5973 Z M 612.8008 413.7613 612.2088 398.9606 606.2885 407.1306 612.8008 413.7613 Z" id="LV.RK" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.RK</code_hasc>
+        <name>Rezeknes</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Latgale</region>
+        <woe_id>-2346036</woe_id>
+        <longitude>27</longitude>
+        <woe_name>Latgale</woe_name>
+        <fips>LG</fips>
+        <woe_label>Rezeknes Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>L</postal>
+        <type>Novads</type>
+        <id>LV.RK</id>
+      </desc>
+    </path>
+    <path d="M 149.7172 354.7954 144.7442 368.6489 149.954 391.7379 156.5847 404.0521 164.3995 397.895 169.7277 404.7625 170.675 429.154 183.3444 434.1271 164.6363 442.1786 149.954 433.6534 121.4183 434.0087 109.933 429.0356 99.1581 433.7718 95.7243 428.6804 100.579 424.8914 96.9084 419.4448 98.2109 413.1693 106.736 413.0509 102.7103 404.9993 113.8404 400.6183 112.0643 384.752 120.4711 374.0955 118.3398 363.7942 135.5086 355.1506 128.4042 346.9807 132.3116 342.5997 140.4816 348.6383 146.5203 343.3101 153.5062 344.9678 149.7172 354.7954 Z" id="LV.SD" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.SD</code_hasc>
+        <name>Saldus</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Kurzeme</region>
+        <woe_id>-2346038</woe_id>
+        <longitude>22</longitude>
+        <woe_name>Saldus</woe_name>
+        <fips>LG</fips>
+        <woe_label>Saldus Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>SA</postal>
+        <type>Novads</type>
+        <id>LV.SD</id>
+      </desc>
+    </path>
+    <path d="M 638.6132 259.5975 626.4175 277.1215 619.9052 274.8718 612.4456 277.1215 607.4726 273.5693 589.2382 284.581 578.7001 280.9104 580.5946 277.5951 572.8982 271.7932 551.4668 269.6619 547.3226 272.5036 535.3637 258.295 537.1398 253.322 545.4282 252.2563 546.6122 240.771 554.6638 238.0477 553.0061 226.3255 559.7552 216.3795 569.9381 219.1028 580.1209 228.9304 602.1444 233.6667 621.4444 230.5881 620.734 247.6385 638.6132 259.5975 Z" id="LV.AE" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.AE</code_hasc>
+        <name>Aluksne</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Vidzeme</region>
+        <woe_id>-2346019</woe_id>
+        <longitude>27</longitude>
+        <woe_name>Aluksne</woe_name>
+        <fips>LG</fips>
+        <woe_label>Aluksnes Rajons, LV, Latvia</woe_label>
+        <latitude>57</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>AL</postal>
+        <type>Novads</type>
+        <id>LV.AE</id>
+      </desc>
+    </path>
+    <path d="M 511.5642 226.4439 512.9851 238.0477 508.3673 240.5342 507.3016 235.6796 502.0918 236.6268 501.4997 233.3115 490.488 229.0489 474.0297 236.2716 469.5303 236.39 467.2806 223.7206 474.9769 220.5237 477.4634 211.6433 465.3861 209.8672 462.3075 206.0782 463.9652 198.0266 449.283 200.9868 436.4952 191.7511 428.4436 177.8977 438.8633 176.0032 445.494 179.2002 446.4412 170.4382 452.3615 168.7805 458.4002 180.2658 478.8843 181.9235 480.1868 193.764 511.5642 226.4439 Z" id="LV.VA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.VA</code_hasc>
+        <name>Valkas</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Vidzeme</region>
+        <woe_id>-2346041</woe_id>
+        <longitude>26</longitude>
+        <woe_name>Valga</woe_name>
+        <fips>LG</fips>
+        <woe_label>Valkas Rajons, LV, Latvia</woe_label>
+        <latitude>57</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>VG</postal>
+        <type>Novads</type>
+        <id>LV.VA</id>
+      </desc>
+    </path>
+    <path d="M 329.3383 411.9852 334.7849 421.5761 338.2187 420.0368 342.0076 424.8914 343.7837 432.7062 335.8506 437.6792 341.534 440.9946 339.1659 449.9934 348.0463 449.9934 335.969 458.5186 323.5364 452.0063 306.2492 459.229 291.0933 449.7566 299.3817 437.4424 305.0651 439.9289 307.7885 436.8504 296.4215 430.1013 294.5271 416.8399 300.4473 411.038 315.248 417.0767 321.6419 411.1564 329.3383 411.9852 Z" id="LV.BK" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.BK</code_hasc>
+        <name>Bauska</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Zemgale</region>
+        <woe_id>-2346021</woe_id>
+        <longitude>24</longitude>
+        <woe_name>Bauska</woe_name>
+        <fips>LG</fips>
+        <woe_label>Bauskas Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>BU</postal>
+        <type>Novads</type>
+        <id>LV.BK</id>
+      </desc>
+    </path>
+    <path d="M 439.4553 290.3829 440.0473 303.4075 422.6417 296.7768 420.6288 289.1988 416.6031 289.3172 416.7215 284.6994 408.3147 278.3055 408.1963 272.3852 417.7871 279.0159 423.589 277.0031 430.4565 281.1472 435.9031 292.9878 439.4553 290.3829 Z" id="LV.CS" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.CS</code_hasc>
+        <name>Cesu</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Vidzeme</region>
+        <woe_id>-2346022</woe_id>
+        <longitude>25</longitude>
+        <woe_name>Vidzeme</woe_name>
+        <fips>LG</fips>
+        <woe_label>Cesu Rajons, LV, Latvia</woe_label>
+        <latitude>57</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>CE</postal>
+        <type>Novads</type>
+        <id>LV.CS</id>
+      </desc>
+    </path>
+    <path d="M 548.8619 475.4506 555.8478 479.3579 572.1878 475.6874 576.8056 487.6463 580.3578 487.1727 580.713 496.2899 577.2792 497.2372 578.4633 519.6158 582.7259 521.0366 583.1995 527.6673 568.754 549.0987 561.1761 553.3613 550.9932 551.5852 546.7306 556.6767 521.7471 549.0987 510.0249 535.4821 521.8655 532.8772 514.4059 520.7998 518.4317 516.0636 515.4716 510.3802 525.1808 503.631 519.8526 483.7389 514.998 468.3462 518.3133 467.1622 529.917 468.3462 535.2453 476.5162 539.8631 472.1352 546.7306 478.0555 548.8619 475.4506 Z M 539.8631 511.9194 529.917 514.4059 538.3238 529.325 544.3625 526.7201 548.8619 516.6556 546.257 506.236 539.8631 511.9194 Z" id="LV.DP" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.DP</code_hasc>
+        <name>Daugavpils</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Latgale</region>
+        <woe_id>-2346023</woe_id>
+        <longitude>26</longitude>
+        <woe_name>Daugavpils</woe_name>
+        <fips>LG</fips>
+        <woe_label>Daugavpils Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>DG</postal>
+        <type>Novads</type>
+        <id>LV.DP</id>
+      </desc>
+    </path>
+    <path d="M 236.8636 418.1423 231.2986 409.0251 223.3654 418.4975 226.6807 423.8258 211.1696 428.3252 205.723 420.1552 205.6046 408.7883 199.4475 400.9735 195.4217 402.9864 193.6456 398.9606 182.7523 409.6171 178.0161 404.4073 176.1216 398.6054 184.0548 391.3827 178.9634 385.344 181.0947 382.0287 209.3936 382.2655 226.2071 379.6606 228.4568 368.0568 244.0863 362.3734 247.7569 371.3722 237.3372 381.1998 243.8495 389.2514 236.1532 398.6054 243.2575 399.7895 238.6397 404.7625 241.1262 411.8668 236.8636 418.1423 Z" id="LV.DB" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.DB</code_hasc>
+        <name>Dobele</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Zemgale</region>
+        <woe_id>-2346024</woe_id>
+        <longitude>23</longitude>
+        <woe_name>Dobele</woe_name>
+        <fips>LG</fips>
+        <woe_label>Dobeles Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>DO</postal>
+        <type>Novads</type>
+        <id>LV.DB</id>
+      </desc>
+    </path>
+    <path d="M 535.3637 258.295 547.3226 272.5036 551.4668 269.6619 572.8982 271.7932 580.5946 277.5951 578.7001 280.9104 589.2382 284.581 576.2136 304.5915 563.0706 321.8787 563.189 327.9174 553.4797 326.6149 535.8373 335.0217 528.4962 316.6689 516.5372 319.037 511.6826 310.0382 498.658 313.1167 492.5009 314.064 497.0003 302.5786 489.1856 291.3301 481.9628 289.554 481.0156 285.6466 481.3708 285.173 481.9628 284.581 486.107 284.2258 485.9886 281.8577 505.0519 278.3055 505.9992 269.7803 519.8526 269.0699 516.8925 265.9913 524.352 261.4919 524.2336 256.2821 535.3637 258.295 Z" id="LV.GU" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.GU</code_hasc>
+        <name>Gulbene</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Vidzeme</region>
+        <woe_id>-2346025</woe_id>
+        <longitude>26</longitude>
+        <woe_name>Gulbene</woe_name>
+        <fips>LG</fips>
+        <woe_label>Gulbenes Rajons, LV, Latvia</woe_label>
+        <latitude>57</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>GU</postal>
+        <type>Novads</type>
+        <id>LV.GU</id>
+      </desc>
+    </path>
+    <path d="M 270.9644 365.2151 270.0171 370.0697 270.4908 370.7802 269.6619 374.9243 261.4919 379.779 267.2938 384.16 256.4005 387.8305 261.4919 399.5527 264.9257 401.2103 271.7932 396.8293 272.9773 391.7379 284.4626 398.487 292.1589 416.8399 277.5951 428.562 280.4368 446.3228 266.465 446.7964 264.6889 442.4154 243.0207 446.4412 233.0746 442.1786 241.2446 434.7191 236.8636 418.1423 241.1262 411.8668 238.6397 404.7625 243.2575 399.7895 236.1532 398.6054 243.8495 389.2514 237.3372 381.1998 247.7569 371.3722 244.0863 362.3734 241.8366 350.5328 246.0992 348.7567 261.4919 352.1905 270.9644 365.2151 Z" id="LV.JL" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.JL</code_hasc>
+        <name>Jelgava</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Zemgale</region>
+        <woe_id>-2346027</woe_id>
+        <longitude>23</longitude>
+        <woe_name>Jelgava</woe_name>
+        <fips>LG</fips>
+        <woe_label>Jelgavas Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>JG</postal>
+        <type>Novads</type>
+        <id>LV.JL</id>
+      </desc>
+    </path>
+    <path d="M 472.6088 415.5374 473.3193 418.9712 467.2806 417.1951 467.6358 410.2092 476.5162 409.6171 472.6088 415.5374 Z" id="LV.JB" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.JB</code_hasc>
+        <name>Jekabpils</name>
+        <admin>Latvia</admin>
+        <type_en>Republican City</type_en>
+        <region>Zemgale</region>
+        <woe_id>-2346026</woe_id>
+        <longitude>25</longitude>
+        <woe_name>Jekabpils</woe_name>
+        <fips>LG</fips>
+        <woe_label>Jekabpils Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>JK</postal>
+        <type>Republikas Pilsētas</type>
+        <id>LV.JB</id>
+      </desc>
+    </path>
+    <path d="M 374.8059 221.9445 376.1084 231.8906 386.2913 232.601 393.514 243.2575 374.6875 258.6502 367.5832 257.9398 370.6617 261.7288 362.7286 259.2422 357.1635 262.9128 358.5844 269.7803 352.5457 274.9902 359.1764 288.37 356.9267 291.6853 344.3757 275.7006 336.0874 279.4896 333.0088 280.0816 330.7591 270.2539 329.8119 261.2551 346.8623 250.0066 342.2444 240.0606 344.3757 236.7452 333.2456 232.2458 331.7064 214.3666 345.2046 213.893 345.0862 206.0782 349.3488 206.5518 348.4015 200.0395 352.9009 196.961 369.7145 205.6046 374.8059 221.9445 Z" id="LV.LI" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.LI</code_hasc>
+        <name>Limbaži</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Riga</region>
+        <woe_id>-2346031</woe_id>
+        <longitude>24</longitude>
+        <woe_name>Limbaži</woe_name>
+        <fips>LG</fips>
+        <woe_label>Limbazu Rajons, LV, Latvia</woe_label>
+        <latitude>57</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>LM</postal>
+        <type>Novads</type>
+        <id>LV.LI</id>
+      </desc>
+    </path>
+    <path d="M 492.5009 314.064 498.658 313.1167 498.3028 335.4953 503.2758 339.6395 516.182 338.6923 520.2078 328.5094 516.5372 319.037 528.4962 316.6689 535.8373 335.0217 527.4305 351.5985 533.706 360.5973 540.5735 357.4003 549.8092 342.3628 563.8994 342.2444 573.0166 351.1249 570.7669 353.9666 557.0319 380.6078 548.2699 373.8587 534.5349 382.0287 520.563 382.5023 519.4974 389.725 511.801 398.6054 510.7354 394.4612 505.2887 394.8165 496.0531 387.4753 487.5279 392.4483 481.9628 385.8176 477.2266 390.7907 477.345 383.2127 467.5174 378.1213 467.991 364.7415 460.5315 358.2292 461.1235 347.4543 477.345 344.2573 471.3064 334.4297 474.5033 331.2327 474.1481 311.2222 492.5009 314.064 Z" id="LV.MD" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.MD</code_hasc>
+        <name>Madona</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Vidzeme</region>
+        <woe_id>-2346033</woe_id>
+        <longitude>26</longitude>
+        <woe_name>Madona</woe_name>
+        <fips>LG</fips>
+        <woe_label>Madonas Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>MA</postal>
+        <type>Novads</type>
+        <id>LV.MD</id>
+      </desc>
+    </path>
+    <path d="M 435.7847 361.4261 425.1282 370.6617 413.5245 373.6219 414.7086 382.0287 404.8809 381.0814 397.303 375.2796 391.8563 366.3992 380.6078 364.6231 370.4249 358.9396 361.8997 375.99 348.6383 362.9654 362.7286 353.493 358.5844 348.4015 369.3593 341.6524 375.99 343.6653 400.9735 338.2187 411.3932 340.8236 419.9184 333.364 425.0098 340.1131 429.6277 330.6407 433.535 330.0487 440.4025 350.7696 433.535 352.1905 435.7847 361.4261 Z" id="LV.OR" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.OR</code_hasc>
+        <name>Ogre</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Riga</region>
+        <woe_id>-2346034</woe_id>
+        <longitude>25</longitude>
+        <woe_name>Ogre</woe_name>
+        <fips>LG</fips>
+        <woe_label>Ogres Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>OG</postal>
+        <type>Novads</type>
+        <id>LV.OR</id>
+      </desc>
+    </path>
+    <path d="M 572.1878 475.6874 555.8478 479.3579 548.8619 475.4506 544.3625 470.2407 550.8748 468.2278 550.7564 461.0051 547.2042 451.1774 543.4153 450.2302 542.1128 443.8363 529.325 437.4424 530.9827 431.6405 537.0214 434.3639 539.9815 424.181 544.4809 421.1025 555.3742 429.9829 547.7963 440.7578 560.9393 449.5198 566.7411 461.1235 563.3074 466.2149 572.1878 475.6874 Z" id="LV.PI" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.PI</code_hasc>
+        <name>Preilu</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Latgale</region>
+        <woe_id>-2346035</woe_id>
+        <longitude>26</longitude>
+        <woe_name>Preili</woe_name>
+        <fips>LG</fips>
+        <woe_label>Preiju Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>PR</postal>
+        <type>Novads</type>
+        <id>LV.PI</id>
+      </desc>
+    </path>
+    <path d="M 198.9739 258.6502 202.2892 261.7288 191.7511 272.1484 194.8297 278.4239 204.3021 281.0288 206.5518 288.7252 192.2248 304.8283 164.8731 312.9983 164.0443 326.6149 151.9669 326.7333 140.1264 325.4309 137.2846 309.683 124.2601 297.6056 123.1944 291.6853 134.3245 278.6607 130.1803 259.7159 136.4558 253.5588 138.5871 257.5846 150.5461 257.4662 157.4136 242.9023 164.7547 242.3103 171.0302 245.9808 171.9774 253.914 175.4112 250.0066 189.5014 264.9257 198.9739 258.6502 Z" id="LV.TL" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.TL</code_hasc>
+        <name>Talsi</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Kurzeme</region>
+        <woe_id>-2346039</woe_id>
+        <longitude>22</longitude>
+        <woe_name>Talsi</woe_name>
+        <fips>LG</fips>
+        <woe_label>Talsu Rajons, LV, Latvia</woe_label>
+        <latitude>57</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>TA</postal>
+        <type>Novads</type>
+        <id>LV.TL</id>
+      </desc>
+    </path>
+    <path d="M 243.3759 341.4156 244.7968 341.7708 246.0992 348.7567 241.8366 350.5328 244.0863 362.3734 228.4568 368.0568 226.2071 379.6606 209.3936 382.2655 201.342 363.439 191.5143 362.7286 192.58 355.0322 190.2119 344.3757 181.0947 334.0745 187.0149 326.3781 183.5812 316.1953 193.172 310.1566 192.2248 304.8283 206.5518 288.7252 209.6304 284.2258 208.2095 303.1707 220.2869 318.8002 212.2353 343.7837 233.4299 345.915 243.3759 341.4156 Z" id="LV.TK" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.TK</code_hasc>
+        <name>Tukums</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Riga</region>
+        <woe_id>-2346040</woe_id>
+        <longitude>23</longitude>
+        <woe_name>Tukums</woe_name>
+        <fips>LG</fips>
+        <woe_label>Tukuma Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>TU</postal>
+        <type>Novads</type>
+        <id>LV.TK</id>
+      </desc>
+    </path>
+    <path d="M 428.562 236.1532 426.3123 241.5998 421.2209 241.2446 421.2209 234.1403 426.9043 232.9562 428.562 236.1532 Z" id="LV.VE" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.VE</code_hasc>
+        <name>Valmiera</name>
+        <admin>Latvia</admin>
+        <type_en>Republican City</type_en>
+        <region>Vidzeme</region>
+        <woe_id>-2346042</woe_id>
+        <longitude>25</longitude>
+        <woe_name>Valmiera</woe_name>
+        <fips>LG</fips>
+        <woe_label>Valmieras Rajons, LV, Latvia</woe_label>
+        <latitude>57</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>VM</postal>
+        <type>Republikas Pilsētas</type>
+        <id>LV.VE</id>
+      </desc>
+    </path>
+    <path d="M 308.1437 321.5235 323.1812 335.969 315.1296 342.7181 317.3793 352.6641 311.5774 351.0064 307.5517 347.5727 303.5259 349.2304 302.3418 351.7169 301.2762 352.0721 299.6185 352.7825 299.1449 350.4144 298.7897 348.2831 295.3559 344.6126 287.4227 341.2972 292.9878 334.1929 288.6068 332.18 286.1203 329.4567 303.5259 315.248 308.1437 321.5235 Z" id="LV.RA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>LV.RA</code_hasc>
+        <name>Riga</name>
+        <admin>Latvia</admin>
+        <type_en>Republican City</type_en>
+        <region>Riga</region>
+        <woe_id>-20070121</woe_id>
+        <longitude>24</longitude>
+        <woe_name>Riga</woe_name>
+        <fips>LG</fips>
+        <woe_label>Riga, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>R</postal>
+        <type>Republikas Pilsētas</type>
+        <id>LV.RA</id>
+      </desc>
+    </path>
+    <path d="M 12.8405 392.922 13.551 400.3815 15.0902 399.4343 15.8007 405.7098 12.7221 407.249 10.8277 409.2619 5.2626 402.5128 8.4595 391.1459 12.8405 392.922 Z" id="LV.LJ" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.LJ</code_hasc>
+        <name>Liepāja</name>
+        <admin>Latvia</admin>
+        <type_en>Republican City</type_en>
+        <region>Kurzeme</region>
+        <woe_id>-20070118</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Liepaja</woe_name>
+        <fips>LG</fips>
+        <woe_label>Liepaja, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>LJ</postal>
+        <type>Republikas Pilsētas</type>
+        <id>LV.LJ</id>
+      </desc>
+    </path>
+    <path d="M 272.9773 391.7379 271.7932 396.8293 264.9257 401.2103 261.4919 399.5527 256.4005 387.8305 267.2938 384.16 273.2141 385.8176 272.9773 391.7379 Z" id="LV.JE" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.JE</code_hasc>
+        <name>Jelgava</name>
+        <admin>Latvia</admin>
+        <type_en>Republican City</type_en>
+        <region>Zemgale</region>
+        <woe_id>-20070120</woe_id>
+        <longitude>23</longitude>
+        <woe_name>Jelgava</woe_name>
+        <fips>LG</fips>
+        <woe_label>Jelgava, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>JE</postal>
+        <type>Republikas Pilsētas</type>
+        <id>LV.JE</id>
+      </desc>
+    </path>
+    <path d="M 539.8631 511.9194 546.257 506.236 548.8619 516.6556 544.3625 526.7201 538.3238 529.325 529.917 514.4059 539.8631 511.9194 Z" id="LV.DV" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.DV</code_hasc>
+        <name>Daugavpils</name>
+        <admin>Latvia</admin>
+        <type_en>Republican City</type_en>
+        <region>Latgale</region>
+        <woe_id>-20070122</woe_id>
+        <longitude>26</longitude>
+        <woe_name>Daugavpils</woe_name>
+        <fips>LG</fips>
+        <woe_label>Daugavpils, LV, Latvia</woe_label>
+        <latitude>55</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>DV</postal>
+        <type>Republikas Pilsētas</type>
+        <id>LV.DV</id>
+      </desc>
+    </path>
+    <path d="M 612.8008 413.7613 606.2885 407.1306 612.2088 398.9606 612.8008 413.7613 Z" id="LV.RE" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.RE</code_hasc>
+        <name>Rezekne</name>
+        <admin>Latvia</admin>
+        <type_en>Republican City</type_en>
+        <region>Latgale</region>
+        <woe_id>-20070123</woe_id>
+        <longitude>27</longitude>
+        <woe_name>Rezekne</woe_name>
+        <fips>LG</fips>
+        <woe_label>Rezeknes, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>RK</postal>
+        <type>Republikas Pilsētas</type>
+        <id>LV.RE</id>
+      </desc>
+    </path>
+    <path d="M 60.0843 260.7815 70.9776 244.7968 75.477 257.4662 70.504 259.3606 70.7408 265.3993 62.8076 267.4122 60.0843 260.7815 Z" id="LV.VS" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.VS</code_hasc>
+        <name>Ventspils</name>
+        <admin>Latvia</admin>
+        <type_en>Republican City</type_en>
+        <region>Kurzeme</region>
+        <woe_id>-20070117</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Ventspils</woe_name>
+        <fips>LG</fips>
+        <woe_label>Ventspils, LV, Latvia</woe_label>
+        <latitude>57</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>VS</postal>
+        <type>Republikas Pilsētas</type>
+        <id>LV.VS</id>
+      </desc>
+    </path>
+    <path d="M 151.9669 326.7333 146.5203 343.3101 140.4816 348.6383 132.3116 342.5997 128.4042 346.9807 135.5086 355.1506 118.3398 363.7942 111.8275 358.7028 101.2894 358.7028 96.6716 362.6102 98.6845 374.0955 85.4231 381.4366 64.4653 353.493 49.783 348.9936 55.4665 342.9549 75.8322 334.5481 64.1101 311.8142 71.9249 306.7228 84.5942 309.2093 83.8838 312.5247 105.9072 308.2621 113.3668 310.5118 122.6024 306.8412 124.2601 297.6056 137.2846 309.683 140.1264 325.4309 151.9669 326.7333 Z" id="LV.KD" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.KD</code_hasc>
+        <name>Kuldigas</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Kurzeme</region>
+        <woe_id>-2346029</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Kurzeme</woe_name>
+        <fips>LG</fips>
+        <woe_label>Kuldigas Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>K</postal>
+        <type>Novads</type>
+        <id>LV.KD</id>
+      </desc>
+    </path>
+    <path d="M 55.4665 342.9549 46.4677 335.969 53.8088 331.2327 57.7162 313.2351 64.1101 311.8142 75.8322 334.5481 55.4665 342.9549 Z" id="LV.AS" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.AS</code_hasc>
+        <name>Alsungas</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Kurzeme</region>
+        <woe_id>-2346029</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Kurzeme</woe_name>
+        <fips>LG</fips>
+        <woe_label>Kuldigas Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>K</postal>
+        <type>Novads</type>
+        <id>LV.AS</id>
+      </desc>
+    </path>
+    <path d="M 177.7793 363.5574 181.0947 382.0287 178.9634 385.344 184.0548 391.3827 176.1216 398.6054 178.0161 404.4073 169.7277 404.7625 164.3995 397.895 156.5847 404.0521 149.954 391.7379 144.7442 368.6489 149.7172 354.7954 163.9259 362.6102 177.7793 363.5574 Z" id="LV.BR" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.BR</code_hasc>
+        <name>Brocenu</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Kurzeme</region>
+        <woe_id>-2346029</woe_id>
+        <longitude>22</longitude>
+        <woe_name>Kurzeme</woe_name>
+        <fips>LG</fips>
+        <woe_label>Kuldigas Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>K</postal>
+        <type>Novads</type>
+        <id>LV.BR</id>
+      </desc>
+    </path>
+    <path d="M 118.3398 363.7942 120.4711 374.0955 112.0643 384.752 113.8404 400.6183 102.7103 404.9993 106.736 413.0509 98.2109 413.1693 85.5415 409.8539 82.2261 401.2103 80.5684 394.106 84.9494 389.8434 85.4231 381.4366 98.6845 374.0955 96.6716 362.6102 101.2894 358.7028 111.8275 358.7028 118.3398 363.7942 Z" id="LV.SK" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.SK</code_hasc>
+        <name>Skrundas</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Kurzeme</region>
+        <woe_id>-2346029</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Kurzeme</woe_name>
+        <fips>LG</fips>
+        <woe_label>Kuldigas Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>K</postal>
+        <type>Novads</type>
+        <id>LV.SK</id>
+      </desc>
+    </path>
+    <path d="M 98.2109 413.1693 96.9084 419.4448 100.579 424.8914 95.7243 428.6804 99.1581 433.7718 75.1218 444.1915 76.7795 434.2455 68.8463 427.6148 70.6224 419.5632 75.7138 418.2607 74.1746 404.9993 82.2261 401.2103 85.5415 409.8539 98.2109 413.1693 Z" id="LV.VD" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.VD</code_hasc>
+        <name>Vainodes</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Kurzeme</region>
+        <woe_id>-2346029</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Kurzeme</woe_name>
+        <fips>LG</fips>
+        <woe_label>Kuldigas Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>K</postal>
+        <type>Novads</type>
+        <id>LV.VD</id>
+      </desc>
+    </path>
+    <path d="M 85.4231 381.4366 84.9494 389.8434 80.5684 394.106 82.2261 401.2103 74.1746 404.9993 60.6763 402.6312 65.4126 398.0134 64.7021 388.4226 61.3868 385.6992 49.9014 387.4753 37.4689 370.7802 38.4161 358.9396 49.9014 353.8482 49.783 348.9936 64.4653 353.493 85.4231 381.4366 Z" id="LV.AZ" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.AZ</code_hasc>
+        <name>Aizputes</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Kurzeme</region>
+        <woe_id>-2346029</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Kurzeme</woe_name>
+        <fips>LG</fips>
+        <woe_label>Kuldigas Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>K</postal>
+        <type>Novads</type>
+        <id>LV.AZ</id>
+      </desc>
+    </path>
+    <path d="M 60.6763 402.6312 74.1746 404.9993 75.7138 418.2607 70.6224 419.5632 68.8463 427.6148 76.7795 434.2455 75.1218 444.1915 61.5052 446.4412 50.6119 453.4271 40.9026 442.1786 46.9413 428.6804 39.6002 411.8668 44.81 409.0251 44.218 402.3944 51.9143 410.8012 56.4137 410.5644 53.8088 403.8153 56.769 400.6183 60.6763 402.6312 Z" id="LV.PK" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.PK</code_hasc>
+        <name>Priekules</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Kurzeme</region>
+        <woe_id>-2346029</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Kurzeme</woe_name>
+        <fips>LG</fips>
+        <woe_label>Kuldigas Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>K</postal>
+        <type>Novads</type>
+        <id>LV.PK</id>
+      </desc>
+    </path>
+    <path d="M 31.4302 384.8704 30.3645 406.657 39.245 404.7625 39.6002 411.8668 46.9413 428.6804 40.9026 442.1786 29.5357 442.0602 26.2204 437.5608 25.3915 423.4706 19.2344 423.589 17.932 411.7484 11.6565 412.2221 15.8007 405.7098 15.0902 399.4343 12.8405 392.922 8.4595 391.1459 11.1829 384.16 18.2872 388.0673 21.7209 380.0158 26.9308 386.5281 31.4302 384.8704 Z" id="LV.GR" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.GR</code_hasc>
+        <name>Grobinas</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Kurzeme</region>
+        <woe_id>-2346029</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Kurzeme</woe_name>
+        <fips>LG</fips>
+        <woe_label>Kuldigas Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>K</postal>
+        <type>Novads</type>
+        <id>LV.GR</id>
+      </desc>
+    </path>
+    <path d="M 26.2204 437.5608 21.8394 436.6136 21.2473 448.4541 14.0246 459.9394 11.8933 458.4002 11.1829 469.0567 7.1571 451.5327 1 452.4799 1.9472 430.1013 8.8148 415.6558 7.8675 427.0227 12.2485 429.3908 11.6565 412.2221 17.932 411.7484 19.2344 423.589 25.3915 423.4706 26.2204 437.5608 Z" id="LV.NI" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.NI</code_hasc>
+        <name>Nicas</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Kurzeme</region>
+        <woe_id>-2346029</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Kurzeme</woe_name>
+        <fips>LG</fips>
+        <woe_label>Kuldigas Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>K</postal>
+        <type>Novads</type>
+        <id>LV.NI</id>
+      </desc>
+    </path>
+    <path d="M 26.2204 437.5608 29.5357 442.0602 40.9026 442.1786 50.6119 453.4271 27.878 466.4517 20.8921 483.6205 7.6307 485.1598 1 452.4799 7.1571 451.5327 11.1829 469.0567 11.8933 458.4002 14.0246 459.9394 21.2473 448.4541 21.8394 436.6136 26.2204 437.5608 Z" id="LV.RC" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.RC</code_hasc>
+        <name>Rucavas</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Kurzeme</region>
+        <woe_id>-2346029</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Kurzeme</woe_name>
+        <fips>LG</fips>
+        <woe_label>Kuldigas Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>K</postal>
+        <type>Novads</type>
+        <id>LV.RC</id>
+      </desc>
+    </path>
+    <path d="M 46.4677 335.969 55.4665 342.9549 49.783 348.9936 49.9014 353.8482 38.4161 358.9396 37.4689 370.7802 35.3376 367.7016 32.259 370.5433 34.5087 380.6078 31.4302 384.8704 26.9308 386.5281 21.7209 380.0158 18.2872 388.0673 11.1829 384.16 14.4982 351.2433 40.1922 330.2855 46.4677 335.969 Z" id="LV.PT" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.PT</code_hasc>
+        <name>Pavilostas</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Kurzeme</region>
+        <woe_id>-2346029</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Kurzeme</woe_name>
+        <fips>LG</fips>
+        <woe_label>Kuldigas Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>K</postal>
+        <type>Novads</type>
+        <id>LV.PT</id>
+      </desc>
+    </path>
+    <path d="M 37.4689 370.7802 49.9014 387.4753 61.3868 385.6992 64.7021 388.4226 65.4126 398.0134 60.6763 402.6312 56.769 400.6183 53.8088 403.8153 56.4137 410.5644 51.9143 410.8012 44.218 402.3944 44.81 409.0251 39.6002 411.8668 39.245 404.7625 30.3645 406.657 31.4302 384.8704 34.5087 380.6078 32.259 370.5433 35.3376 367.7016 37.4689 370.7802 Z" id="LV.DR" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.DR</code_hasc>
+        <name>Durbes</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Kurzeme</region>
+        <woe_id>-2346030</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Liepaja</woe_name>
+        <fips>LG</fips>
+        <woe_label>Liepajas Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>LP</postal>
+        <type>Novads</type>
+        <id>LV.DR</id>
+      </desc>
+    </path>
+    <path d="M 161.7946 214.1298 160.0185 222.4182 164.7547 242.3103 157.4136 242.9023 150.5461 257.4662 138.5871 257.5846 136.4558 253.5588 130.1803 259.7159 113.3668 254.8612 131.838 240.771 125.3257 214.6034 161.913 197.6714 161.7946 214.1298 Z" id="LV.DN" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.DN</code_hasc>
+        <name>Dundagas</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Kurzeme</region>
+        <woe_id>-2346039</woe_id>
+        <longitude>22</longitude>
+        <woe_name>Talsi</woe_name>
+        <fips>LG</fips>
+        <woe_label>Talsu Rajons, LV, Latvia</woe_label>
+        <latitude>57</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>TA</postal>
+        <type>Novads</type>
+        <id>LV.DN</id>
+      </desc>
+    </path>
+    <path d="M 161.7946 214.1298 167.8332 227.9832 198.9739 258.6502 189.5014 264.9257 175.4112 250.0066 171.9774 253.914 171.0302 245.9808 164.7547 242.3103 160.0185 222.4182 161.7946 214.1298 Z" id="LV.RR" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.RR</code_hasc>
+        <name>Rojas</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Kurzeme</region>
+        <woe_id>-2346039</woe_id>
+        <longitude>22</longitude>
+        <woe_name>Talsi</woe_name>
+        <fips>LG</fips>
+        <woe_label>Talsu Rajons, LV, Latvia</woe_label>
+        <latitude>57</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>TA</postal>
+        <type>Novads</type>
+        <id>LV.RR</id>
+      </desc>
+    </path>
+    <path d="M 214.2482 274.9902 209.6304 284.2258 206.5518 288.7252 204.3021 281.0288 194.8297 278.4239 191.7511 272.1484 202.2892 261.7288 211.5249 265.8729 214.2482 274.9902 Z" id="LV.ME" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.ME</code_hasc>
+        <name>Mersraga</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Kurzeme</region>
+        <woe_id>-2346039</woe_id>
+        <longitude>23</longitude>
+        <woe_name>Talsi</woe_name>
+        <fips>LG</fips>
+        <woe_label>Talsu Rajons, LV, Latvia</woe_label>
+        <latitude>57</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>TA</postal>
+        <type>Novads</type>
+        <id>LV.ME</id>
+      </desc>
+    </path>
+    <path d="M 417.0767 431.9958 417.5503 444.3099 424.6546 445.8492 419.0896 452.8351 428.2068 462.3075 428.9172 471.5432 423.2338 474.8585 396.4741 468.7014 376.4636 426.6675 381.0814 418.9712 389.9618 417.3135 396.0005 433.2982 417.0767 431.9958 Z" id="LV.NE" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.NE</code_hasc>
+        <name>Neretas</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Zemgale</region>
+        <woe_id>-2346018</woe_id>
+        <longitude>25</longitude>
+        <woe_name>Zemgale</woe_name>
+        <fips>LG</fips>
+        <woe_label>Aizjrayjkes Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>Z</postal>
+        <type>Novads</type>
+        <id>LV.NE</id>
+      </desc>
+    </path>
+    <path d="M 493.3298 430.3381 500.0789 434.7191 504.4599 461.2419 514.998 468.3462 519.8526 483.7389 516.4188 474.0297 509.5513 471.3064 499.7237 477.9371 501.1445 481.6076 492.2641 489.0672 488.9488 487.1727 473.9113 462.8996 456.2689 462.1891 454.7296 451.059 459.821 449.7566 459.5842 440.8762 465.2677 439.2185 469.7671 429.8645 467.2806 417.1951 473.3193 418.9712 472.6088 415.5374 489.896 422.7601 493.3298 430.3381 Z" id="LV.JP" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.JP</code_hasc>
+        <name>Jekabpils</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Zemgale</region>
+        <woe_id>-2346026</woe_id>
+        <longitude>25</longitude>
+        <woe_name>Jekabpils</woe_name>
+        <fips>LG</fips>
+        <woe_label>Jekabpils Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>JK</postal>
+        <type>Novads</type>
+        <id>LV.JP</id>
+      </desc>
+    </path>
+    <path d="M 519.4974 389.725 540.5735 396.1189 540.2183 403.6969 544.2441 404.8809 541.5208 414.4718 536.1925 414.4718 529.917 413.9981 519.379 421.8129 514.5243 411.3932 508.9593 411.63 493.3298 430.3381 489.896 422.7601 472.6088 415.5374 476.5162 409.6171 467.6358 410.2092 459.9394 403.5785 460.6499 395.6453 477.2266 390.7907 481.9628 385.8176 487.5279 392.4483 496.0531 387.4753 505.2887 394.8165 510.7354 394.4612 511.801 398.6054 519.4974 389.725 Z" id="LV.KT" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.KT</code_hasc>
+        <name>Krustpils</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Zemgale</region>
+        <woe_id>-2346026</woe_id>
+        <longitude>26</longitude>
+        <woe_name>Jekabpils</woe_name>
+        <fips>LG</fips>
+        <woe_label>Jekabpils Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>JK</postal>
+        <type>Novads</type>
+        <id>LV.KT</id>
+      </desc>
+    </path>
+    <path d="M 460.6499 395.6453 459.9394 403.5785 467.6358 410.2092 467.2806 417.1951 469.7671 429.8645 465.2677 439.2185 459.5842 440.8762 458.8738 437.916 453.9008 438.3897 445.7308 421.1025 442.0602 413.6429 446.5596 403.6969 442.8891 402.276 460.6499 395.6453 Z" id="LV.SC" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.SC</code_hasc>
+        <name>Salas</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Zemgale</region>
+        <woe_id>-2346026</woe_id>
+        <longitude>25</longitude>
+        <woe_name>Jekabpils</woe_name>
+        <fips>LG</fips>
+        <woe_label>Jekabpils Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>JK</postal>
+        <type>Novads</type>
+        <id>LV.SC</id>
+      </desc>
+    </path>
+    <path d="M 477.2266 390.7907 460.6499 395.6453 442.8891 402.276 437.0872 402.0392 435.6663 396.3557 443.7179 384.9888 442.297 378.8317 446.678 378.0029 445.0204 369.5961 453.7824 368.412 460.5315 358.2292 467.991 364.7415 467.5174 378.1213 477.345 383.2127 477.2266 390.7907 Z" id="LV.PL" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.PL</code_hasc>
+        <name>Plavinu</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Zemgale</region>
+        <woe_id>-2346026</woe_id>
+        <longitude>25</longitude>
+        <woe_name>Jekabpils</woe_name>
+        <fips>LG</fips>
+        <woe_label>Jekabpils Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>JK</postal>
+        <type>Novads</type>
+        <id>LV.PL</id>
+      </desc>
+    </path>
+    <path d="M 453.7824 368.412 445.0204 369.5961 446.678 378.0029 442.297 378.8317 443.7179 384.9888 435.6663 396.3557 426.3123 393.2772 416.4846 400.2631 414.7086 382.0287 413.5245 373.6219 425.1282 370.6617 435.7847 361.4261 453.7824 368.412 Z" id="LV.KO" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.KO</code_hasc>
+        <name>Kokneses</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Zemgale</region>
+        <woe_id>-2346026</woe_id>
+        <longitude>25</longitude>
+        <woe_name>Jekabpils</woe_name>
+        <fips>LG</fips>
+        <woe_label>Jekabpils Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>JK</postal>
+        <type>Novads</type>
+        <id>LV.KO</id>
+      </desc>
+    </path>
+    <path d="M 414.7086 382.0287 416.4846 400.2631 409.0251 400.8551 401.5656 395.7637 405.4729 391.9747 404.8809 381.0814 414.7086 382.0287 Z" id="LV.AK" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.AK</code_hasc>
+        <name>Aizkraukles</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Zemgale</region>
+        <woe_id>-2346026</woe_id>
+        <longitude>25</longitude>
+        <woe_name>Jekabpils</woe_name>
+        <fips>LG</fips>
+        <woe_label>Jekabpils Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>JK</postal>
+        <type>Novads</type>
+        <id>LV.AK</id>
+      </desc>
+    </path>
+    <path d="M 404.8809 381.0814 405.4729 391.9747 401.5656 395.7637 393.0404 397.0662 390.6723 394.9349 389.8434 385.1072 393.3956 381.555 390.7907 377.174 397.303 375.2796 404.8809 381.0814 Z" id="LV.SR" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.SR</code_hasc>
+        <name>Skriveru</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Zemgale</region>
+        <woe_id>-2346026</woe_id>
+        <longitude>25</longitude>
+        <woe_name>Jekabpils</woe_name>
+        <fips>LG</fips>
+        <woe_label>Jekabpils Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>JK</postal>
+        <type>Novads</type>
+        <id>LV.SR</id>
+      </desc>
+    </path>
+    <path d="M 435.6663 396.3557 437.0872 402.0392 442.8891 402.276 446.5596 403.6969 442.0602 413.6429 445.7308 421.1025 432.5878 430.8117 417.0767 431.9958 396.0005 433.2982 389.9618 417.3135 383.6863 402.9864 392.4483 400.8551 393.0404 397.0662 401.5656 395.7637 409.0251 400.8551 416.4846 400.2631 426.3123 393.2772 435.6663 396.3557 Z" id="LV.JJ" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.JJ</code_hasc>
+        <name>Jaunjelgavas</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Zemgale</region>
+        <woe_id>-2346026</woe_id>
+        <longitude>25</longitude>
+        <woe_name>Jekabpils</woe_name>
+        <fips>LG</fips>
+        <woe_label>Jekabpils Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>JK</postal>
+        <type>Novads</type>
+        <id>LV.JJ</id>
+      </desc>
+    </path>
+    <path d="M 459.5842 440.8762 459.821 449.7566 454.7296 451.059 456.2689 462.1891 452.3615 476.9898 423.2338 474.8585 428.9172 471.5432 428.2068 462.3075 419.0896 452.8351 424.6546 445.8492 417.5503 444.3099 417.0767 431.9958 432.5878 430.8117 445.7308 421.1025 453.9008 438.3897 458.8738 437.916 459.5842 440.8762 Z" id="LV.VT" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.VT</code_hasc>
+        <name>Viesites</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Zemgale</region>
+        <woe_id>-2346026</woe_id>
+        <longitude>25</longitude>
+        <woe_name>Jekabpils</woe_name>
+        <fips>LG</fips>
+        <woe_label>Jekabpils Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>JK</postal>
+        <type>Novads</type>
+        <id>LV.VT</id>
+      </desc>
+    </path>
+    <path d="M 488.9488 487.1727 480.8972 490.488 470.0039 480.1868 472.964 487.1727 466.9254 494.6322 452.3615 476.9898 456.2689 462.1891 473.9113 462.8996 488.9488 487.1727 Z" id="LV.AN" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.AN</code_hasc>
+        <name>Aknistes</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Zemgale</region>
+        <woe_id>-2346026</woe_id>
+        <longitude>25</longitude>
+        <woe_name>Jekabpils</woe_name>
+        <fips>LG</fips>
+        <woe_label>Jekabpils Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>JK</postal>
+        <type>Novads</type>
+        <id>LV.AN</id>
+      </desc>
+    </path>
+    <path d="M 383.6863 402.9864 389.9618 417.3135 381.0814 418.9712 376.4636 426.6675 374.0955 433.1798 358.1108 438.1528 348.0463 449.9934 339.1659 449.9934 341.534 440.9946 335.8506 437.6792 343.7837 432.7062 342.0076 424.8914 338.2187 420.0368 334.7849 421.5761 329.3383 411.9852 329.9303 407.9595 323.6548 406.1834 322.3523 397.7766 328.0358 396.4741 326.7333 389.133 342.5997 380.0158 350.0592 381.0814 353.2561 386.2913 349.4672 392.2115 359.5316 403.2232 355.7427 409.3803 383.6863 402.9864 Z" id="LV.VC" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.VC</code_hasc>
+        <name>Vecumnieku</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Zemgale</region>
+        <woe_id>-2346026</woe_id>
+        <longitude>24</longitude>
+        <woe_name>Jekabpils</woe_name>
+        <fips>LG</fips>
+        <woe_label>Jekabpils Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>JK</postal>
+        <type>Novads</type>
+        <id>LV.VC</id>
+      </desc>
+    </path>
+    <path d="M 326.7333 389.133 328.0358 396.4741 322.3523 397.7766 323.6548 406.1834 329.9303 407.9595 329.3383 411.9852 321.6419 411.1564 315.248 417.0767 300.4473 411.038 303.4075 404.2889 295.3559 399.4343 298.316 396.5925 293.4614 388.6594 296.8952 389.3698 296.0663 384.6336 301.1578 385.6992 307.078 388.0673 308.1437 387.7121 309.3277 386.2913 310.5118 383.9232 312.7615 383.6863 314.7744 382.6207 326.7333 389.133 Z" id="LV.IE" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.IE</code_hasc>
+        <name>Iecavas</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Zemgale</region>
+        <woe_id>-2346026</woe_id>
+        <longitude>24</longitude>
+        <woe_name>Jekabpils</woe_name>
+        <fips>LG</fips>
+        <woe_label>Jekabpils Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>JK</postal>
+        <type>Novads</type>
+        <id>LV.IE</id>
+      </desc>
+    </path>
+    <path d="M 292.5142 377.2925 292.751 378.8317 293.6982 380.8446 292.9878 383.3311 296.0663 384.6336 296.8952 389.3698 293.4614 388.6594 298.316 396.5925 295.3559 399.4343 303.4075 404.2889 300.4473 411.038 294.5271 416.8399 292.1589 416.8399 284.4626 398.487 272.9773 391.7379 273.2141 385.8176 267.2938 384.16 261.4919 379.779 269.6619 374.9243 270.7276 375.99 272.2668 377.0556 273.9245 377.4109 283.3969 374.6875 284.581 374.6875 287.3043 377.6477 292.5142 377.2925 Z" id="LV.OZ" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.OZ</code_hasc>
+        <name>Ozolnieku</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Zemgale</region>
+        <woe_id>-2346026</woe_id>
+        <longitude>23</longitude>
+        <woe_name>Jekabpils</woe_name>
+        <fips>LG</fips>
+        <woe_label>Jekabpils Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>JK</postal>
+        <type>Novads</type>
+        <id>LV.OZ</id>
+      </desc>
+    </path>
+    <path d="M 294.5271 416.8399 296.4215 430.1013 307.7885 436.8504 305.0651 439.9289 299.3817 437.4424 291.0933 449.7566 280.4368 446.3228 277.5951 428.562 292.1589 416.8399 294.5271 416.8399 Z" id="LV.RD" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.RD</code_hasc>
+        <name>Rundales</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Zemgale</region>
+        <woe_id>-2346026</woe_id>
+        <longitude>23</longitude>
+        <woe_name>Jekabpils</woe_name>
+        <fips>LG</fips>
+        <woe_label>Jekabpils Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>JK</postal>
+        <type>Novads</type>
+        <id>LV.RD</id>
+      </desc>
+    </path>
+    <path d="M 236.8636 418.1423 241.2446 434.7191 233.0746 442.1786 224.5494 438.8633 213.3009 441.3498 208.2095 432.351 211.1696 428.3252 226.6807 423.8258 223.3654 418.4975 231.2986 409.0251 236.8636 418.1423 Z" id="LV.TE" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.TE</code_hasc>
+        <name>Tervetes</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Zemgale</region>
+        <woe_id>-2346026</woe_id>
+        <longitude>23</longitude>
+        <woe_name>Jekabpils</woe_name>
+        <fips>LG</fips>
+        <woe_label>Jekabpils Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>JK</postal>
+        <type>Novads</type>
+        <id>LV.TE</id>
+      </desc>
+    </path>
+    <path d="M 211.1696 428.3252 208.2095 432.351 213.3009 441.3498 202.6444 450.5854 192.6984 433.4166 183.3444 434.1271 170.675 429.154 169.7277 404.7625 178.0161 404.4073 182.7523 409.6171 193.6456 398.9606 195.4217 402.9864 199.4475 400.9735 205.6046 408.7883 205.723 420.1552 211.1696 428.3252 Z" id="LV.AU" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.AU</code_hasc>
+        <name>Auces</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Zemgale</region>
+        <woe_id>-2346026</woe_id>
+        <longitude>22</longitude>
+        <woe_name>Jekabpils</woe_name>
+        <fips>LG</fips>
+        <woe_label>Jekabpils Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>JK</postal>
+        <type>Novads</type>
+        <id>LV.AU</id>
+      </desc>
+    </path>
+    <path d="M 575.8584 345.5598 568.162 329.3383 563.189 327.9174 563.0706 321.8787 576.2136 304.5915 606.5254 312.2879 600.4867 324.4836 601.3155 328.0358 606.1701 326.6149 608.3014 333.9561 596.3425 347.5727 575.8584 345.5598 Z" id="LV.RJ" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.RJ</code_hasc>
+        <name>Rugaju</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Latgale</region>
+        <woe_id>-2346042</woe_id>
+        <longitude>27</longitude>
+        <woe_name>Balvi</woe_name>
+        <fips>LG</fips>
+        <woe_label>Balvu Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>BL</postal>
+        <type>Novads</type>
+        <id>LV.RJ</id>
+      </desc>
+    </path>
+    <path d="M 646.428 315.4848 636.3635 318.3265 635.5347 314.7744 628.1936 315.248 626.7727 308.4989 613.0377 295.0007 619.9052 274.8718 626.4175 277.1215 638.6132 259.5975 651.5194 267.7674 653.6507 274.1613 652.5851 292.9878 639.7973 303.2891 646.0728 309.2093 646.428 315.4848 Z" id="LV.VL" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.VL</code_hasc>
+        <name>Vilakas</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Latgale</region>
+        <woe_id>-2346042</woe_id>
+        <longitude>27</longitude>
+        <woe_name>Balvi</woe_name>
+        <fips>LG</fips>
+        <woe_label>Balvu Rajons, LV, Latvia</woe_label>
+        <latitude>57</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>BL</postal>
+        <type>Novads</type>
+        <id>LV.VL</id>
+      </desc>
+    </path>
+    <path d="M 638.6132 348.8751 630.5617 344.2573 619.7868 347.9279 616.4714 339.5211 639.2053 323.2996 636.3635 318.3265 646.428 315.4848 638.6132 348.8751 Z" id="LV.BA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.BA</code_hasc>
+        <name>Baltinavas</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Latgale</region>
+        <woe_id>-2346042</woe_id>
+        <longitude>27</longitude>
+        <woe_name>Balvi</woe_name>
+        <fips>LG</fips>
+        <woe_label>Balvu Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>BL</postal>
+        <type>Novads</type>
+        <id>LV.BA</id>
+      </desc>
+    </path>
+    <path d="M 660.5182 364.8599 656.4925 367.7016 655.3084 378.4765 651.1642 374.2139 640.0341 375.7532 634.5874 387.5937 623.8126 380.6078 621.326 361.8997 610.3143 360.5973 611.38 353.7298 619.7868 347.9279 630.5617 344.2573 638.6132 348.8751 656.1372 344.0205 665.0176 353.6114 660.5182 364.8599 Z" id="LV.KA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.KA</code_hasc>
+        <name>Karsavas</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Latgale</region>
+        <woe_id>-2346042</woe_id>
+        <longitude>27</longitude>
+        <woe_name>Balvi</woe_name>
+        <fips>LG</fips>
+        <woe_label>Balvu Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>BL</postal>
+        <type>Novads</type>
+        <id>LV.KA</id>
+      </desc>
+    </path>
+    <path d="M 660.5182 364.8599 672.122 373.8587 676.0293 390.9091 687.3963 397.0662 684.6729 405.2361 674.4901 402.1576 668.2146 409.6171 657.4397 398.1318 652.2299 403.8153 645.5992 396.1189 633.1666 395.2901 634.5874 387.5937 640.0341 375.7532 651.1642 374.2139 655.3084 378.4765 656.4925 367.7016 660.5182 364.8599 Z" id="LV.CI" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.CI</code_hasc>
+        <name>Ciblas</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Latgale</region>
+        <woe_id>-2346042</woe_id>
+        <longitude>27</longitude>
+        <woe_name>Balvi</woe_name>
+        <fips>LG</fips>
+        <woe_label>Balvu Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>BL</postal>
+        <type>Novads</type>
+        <id>LV.CI</id>
+      </desc>
+    </path>
+    <path d="M 692.6061 417.7871 699 447.0332 693.7902 467.0438 690.0012 464.7941 684.3177 467.991 685.5018 456.1505 689.7644 444.3099 686.9226 440.5209 677.9238 435.1927 669.8723 443.7179 664.8992 443.9547 662.2943 437.7976 678.1606 426.1939 674.3717 417.7871 692.6061 417.7871 Z" id="LV.ZI" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.ZI</code_hasc>
+        <name>Zilupes</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Latgale</region>
+        <woe_id>-2346042</woe_id>
+        <longitude>28</longitude>
+        <woe_name>Balvi</woe_name>
+        <fips>LG</fips>
+        <woe_label>Balvu Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>BL</postal>
+        <type>Novads</type>
+        <id>LV.ZI</id>
+      </desc>
+    </path>
+    <path d="M 646.428 452.8351 663.4784 461.9523 685.5018 456.1505 684.3177 467.991 672.714 474.0297 657.7949 498.1844 647.1384 490.7249 646.5464 496.6451 628.1936 489.0672 619.3131 491.7905 619.0763 481.8444 608.8935 483.7389 606.2885 477.1082 615.6426 471.78 610.9064 461.0051 625.4702 459.229 633.4034 449.875 646.428 452.8351 Z" id="LV.DD" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.DD</code_hasc>
+        <name>Dagdas</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Latgale</region>
+        <woe_id>-2346042</woe_id>
+        <longitude>27</longitude>
+        <woe_name>Balvi</woe_name>
+        <fips>LG</fips>
+        <woe_label>Balvu Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>BL</postal>
+        <type>Novads</type>
+        <id>LV.DD</id>
+      </desc>
+    </path>
+    <path d="M 610.9064 461.0051 615.6426 471.78 606.2885 477.1082 608.8935 483.7389 601.7891 487.1727 602.618 494.7506 598.3554 499.4869 588.0541 500.4341 580.713 496.2899 580.3578 487.1727 576.8056 487.6463 572.1878 475.6874 576.0952 476.2794 576.0952 470.5959 586.1596 466.2149 592.4351 467.5174 598.0002 460.2947 610.9064 461.0051 Z" id="LV.AG" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.AG</code_hasc>
+        <name>Aglonas</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Latgale</region>
+        <woe_id>-2346042</woe_id>
+        <longitude>27</longitude>
+        <woe_name>Balvi</woe_name>
+        <fips>LG</fips>
+        <woe_label>Balvu Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>BL</postal>
+        <type>Novads</type>
+        <id>LV.AG</id>
+      </desc>
+    </path>
+    <path d="M 519.8526 483.7389 525.1808 503.631 515.4716 510.3802 518.4317 516.0636 514.4059 520.7998 521.8655 532.8772 510.0249 535.4821 505.0519 526.4833 466.9254 494.6322 472.964 487.1727 470.0039 480.1868 480.8972 490.488 488.9488 487.1727 492.2641 489.0672 501.1445 481.6076 499.7237 477.9371 509.5513 471.3064 516.4188 474.0297 519.8526 483.7389 Z" id="LV.IL" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.IL</code_hasc>
+        <name>Ilukstes</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Latgale</region>
+        <woe_id>-2346042</woe_id>
+        <longitude>26</longitude>
+        <woe_name>Balvi</woe_name>
+        <fips>LG</fips>
+        <woe_label>Balvu Rajons, LV, Latvia</woe_label>
+        <latitude>55</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>BL</postal>
+        <type>Novads</type>
+        <id>LV.IL</id>
+      </desc>
+    </path>
+    <path d="M 536.1925 414.4718 536.1925 422.1681 539.9815 424.181 537.0214 434.3639 530.9827 431.6405 529.325 437.4424 542.1128 443.8363 543.4153 450.2302 528.141 453.664 519.4974 446.086 519.4974 452.4799 513.6955 450.9406 518.3133 467.1622 514.998 468.3462 504.4599 461.2419 500.0789 434.7191 493.3298 430.3381 508.9593 411.63 514.5243 411.3932 519.379 421.8129 529.917 413.9981 536.1925 414.4718 Z" id="LV.LV" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.LV</code_hasc>
+        <name>Livanu</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Latgale</region>
+        <woe_id>-2346042</woe_id>
+        <longitude>26</longitude>
+        <woe_name>Balvi</woe_name>
+        <fips>LG</fips>
+        <woe_label>Balvu Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>BL</postal>
+        <type>Novads</type>
+        <id>LV.LV</id>
+      </desc>
+    </path>
+    <path d="M 543.4153 450.2302 547.2042 451.1774 550.7564 461.0051 550.8748 468.2278 544.3625 470.2407 548.8619 475.4506 546.7306 478.0555 539.8631 472.1352 535.2453 476.5162 529.917 468.3462 518.3133 467.1622 513.6955 450.9406 519.4974 452.4799 519.4974 446.086 528.141 453.664 543.4153 450.2302 Z" id="LV.VV" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.VV</code_hasc>
+        <name>Varkavas</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Latgale</region>
+        <woe_id>-2346042</woe_id>
+        <longitude>26</longitude>
+        <woe_name>Balvi</woe_name>
+        <fips>LG</fips>
+        <woe_label>Balvu Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>BL</postal>
+        <type>Novads</type>
+        <id>LV.VV</id>
+      </desc>
+    </path>
+    <path d="M 573.3718 420.392 571.0037 426.7859 580.5946 440.1657 576.4504 445.0204 586.1596 466.2149 576.0952 470.5959 576.0952 476.2794 572.1878 475.6874 563.3074 466.2149 566.7411 461.1235 560.9393 449.5198 547.7963 440.7578 555.3742 429.9829 544.4809 421.1025 539.9815 424.181 536.1925 422.1681 536.1925 414.4718 541.5208 414.4718 544.2441 404.8809 555.1374 401.8024 562.2417 404.7625 558.5712 409.7355 561.7681 411.9852 575.7399 415.1822 573.3718 420.392 Z" id="LV.RB" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.RB</code_hasc>
+        <name>Riebinu</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Latgale</region>
+        <woe_id>-2346042</woe_id>
+        <longitude>26</longitude>
+        <woe_name>Balvi</woe_name>
+        <fips>LG</fips>
+        <woe_label>Balvu Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>BL</postal>
+        <type>Novads</type>
+        <id>LV.RB</id>
+      </desc>
+    </path>
+    <path d="M 573.3718 420.392 575.7399 415.1822 561.7681 411.9852 558.5712 409.7355 562.2417 404.7625 555.1374 401.8024 554.3086 396.9478 559.5184 392.6852 557.0319 380.6078 580.1209 400.1447 583.6731 419.8 573.3718 420.392 Z" id="LV.VI" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.VI</code_hasc>
+        <name>Vilanu</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Latgale</region>
+        <woe_id>-2346042</woe_id>
+        <longitude>26</longitude>
+        <woe_name>Balvi</woe_name>
+        <fips>LG</fips>
+        <woe_label>Balvu Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>BL</postal>
+        <type>Novads</type>
+        <id>LV.VI</id>
+      </desc>
+    </path>
+    <path d="M 327.9174 299.0265 336.7978 298.9081 340.8236 312.1695 323.1812 325.6677 316.1953 320.221 317.8529 313.4719 324.7204 308.3805 325.6677 298.7897 327.9174 299.0265 Z" id="LV.AD" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.AD</code_hasc>
+        <name>Ādaži</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Riga</region>
+        <woe_id>-2346037</woe_id>
+        <longitude>24</longitude>
+        <woe_name>Riga</woe_name>
+        <fips>LG</fips>
+        <woe_label>Rigas Rajons, LV, Latvia</woe_label>
+        <latitude>57</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>R</postal>
+        <type>Novads</type>
+        <id>LV.AD</id>
+      </desc>
+    </path>
+    <path d="M 369.0041 160.1369 376.1084 187.1333 387.0017 191.988 394.698 202.4076 394.4612 216.7347 391.5011 221.8261 374.8059 221.9445 369.7145 205.6046 352.9009 196.961 345.7966 177.6609 346.507 166.6492 355.9795 166.294 360.3605 158.4792 369.0041 160.1369 Z" id="LV.AJ" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.AJ</code_hasc>
+        <name>Alojas</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Riga</region>
+        <woe_id>-2346037</woe_id>
+        <longitude>24</longitude>
+        <woe_name>Riga</woe_name>
+        <fips>LG</fips>
+        <woe_label>Rigas Rajons, LV, Latvia</woe_label>
+        <latitude>57</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>R</postal>
+        <type>Novads</type>
+        <id>LV.AJ</id>
+      </desc>
+    </path>
+    <path d="M 287.4227 341.2972 276.0558 350.7696 278.0687 356.9267 279.1344 360.7157 276.1742 364.7415 272.1484 361.6629 270.9644 365.2151 261.4919 352.1905 246.0992 348.7567 244.7968 341.7708 265.0441 342.3628 283.7522 337.153 288.6068 332.18 292.9878 334.1929 287.4227 341.2972 Z" id="LV.BB" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.BB</code_hasc>
+        <name>Babites</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Riga</region>
+        <woe_id>-2346037</woe_id>
+        <longitude>23</longitude>
+        <woe_name>Riga</woe_name>
+        <fips>LG</fips>
+        <woe_label>Rigas Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>R</postal>
+        <type>Novads</type>
+        <id>LV.BB</id>
+      </desc>
+    </path>
+    <path d="M 342.8365 373.3851 342.5997 380.0158 326.7333 389.133 314.7744 382.6207 312.4063 380.1342 310.7486 379.4237 311.459 375.5164 318.5634 374.5691 317.0241 367.82 342.8365 373.3851 Z" id="LV.BD" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.BD</code_hasc>
+        <name>Baldones</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Riga</region>
+        <woe_id>-2346037</woe_id>
+        <longitude>24</longitude>
+        <woe_name>Riga</woe_name>
+        <fips>LG</fips>
+        <woe_label>Rigas Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>R</postal>
+        <type>Novads</type>
+        <id>LV.BD</id>
+      </desc>
+    </path>
+    <path d="M 325.6677 298.7897 324.7204 308.3805 317.8529 313.4719 316.1953 320.221 308.1437 321.5235 303.5259 315.248 324.01 295.9479 325.6677 298.7897 Z" id="LV.CR" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.CR</code_hasc>
+        <name>Carnikavas</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Riga</region>
+        <woe_id>-2346037</woe_id>
+        <longitude>24</longitude>
+        <woe_name>Riga</woe_name>
+        <fips>LG</fips>
+        <woe_label>Rigas Rajons, LV, Latvia</woe_label>
+        <latitude>57</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>R</postal>
+        <type>Novads</type>
+        <id>LV.CR</id>
+      </desc>
+    </path>
+    <path d="M 253.0852 333.6008 243.3759 341.4156 233.4299 345.915 212.2353 343.7837 220.2869 318.8002 208.2095 303.1707 209.6304 284.2258 214.2482 274.9902 223.247 313.1167 230.5881 320.221 246.4545 325.0757 253.0852 333.6008 Z" id="LV.EN" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.EN</code_hasc>
+        <name>Engures</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Riga</region>
+        <woe_id>-2346037</woe_id>
+        <longitude>23</longitude>
+        <woe_name>Riga</woe_name>
+        <fips>LG</fips>
+        <woe_label>Rigas Rajons, LV, Latvia</woe_label>
+        <latitude>57</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>R</postal>
+        <type>Novads</type>
+        <id>LV.EN</id>
+      </desc>
+    </path>
+    <path d="M 346.2702 320.1026 342.0076 321.4051 343.0733 330.1671 330.7591 331.4696 328.0358 340.2316 323.1812 335.969 308.1437 321.5235 316.1953 320.221 323.1812 325.6677 340.8236 312.1695 346.2702 320.1026 Z" id="LV.GA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.GA</code_hasc>
+        <name>Garkalnes</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Riga</region>
+        <woe_id>-2346037</woe_id>
+        <longitude>24</longitude>
+        <woe_name>Riga</woe_name>
+        <fips>LG</fips>
+        <woe_label>Rigas Rajons, LV, Latvia</woe_label>
+        <latitude>57</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>R</postal>
+        <type>Novads</type>
+        <id>LV.GA</id>
+      </desc>
+    </path>
+    <path d="M 358.5844 348.4015 362.7286 353.493 348.6383 362.9654 341.534 362.1366 335.0217 358.5844 336.2058 350.0592 340.2316 352.9009 342.126 347.8095 358.5844 348.4015 Z" id="LV.IK" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.IK</code_hasc>
+        <name>Ikskiles</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Riga</region>
+        <woe_id>-2346037</woe_id>
+        <longitude>24</longitude>
+        <woe_name>Riga</woe_name>
+        <fips>LG</fips>
+        <woe_label>Rigas Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>R</postal>
+        <type>Novads</type>
+        <id>LV.IK</id>
+      </desc>
+    </path>
+    <path d="M 366.2807 306.8412 364.5047 316.7873 352.3089 319.8658 346.2702 320.1026 340.8236 312.1695 346.3886 306.6044 355.6243 308.6173 362.255 304.7099 366.2807 306.8412 Z" id="LV.IN" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.IN</code_hasc>
+        <name>Incukalna</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Riga</region>
+        <woe_id>-2346037</woe_id>
+        <longitude>24</longitude>
+        <woe_name>Riga</woe_name>
+        <fips>LG</fips>
+        <woe_label>Rigas Rajons, LV, Latvia</woe_label>
+        <latitude>57</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>R</postal>
+        <type>Novads</type>
+        <id>LV.IN</id>
+      </desc>
+    </path>
+    <path d="M 192.58 355.0322 191.5143 362.7286 201.342 363.439 209.3936 382.2655 181.0947 382.0287 177.7793 363.5574 183.3444 359.5316 182.3971 355.7427 192.58 355.0322 Z" id="LV.JU" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.JU</code_hasc>
+        <name>Jaunpils</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Riga</region>
+        <woe_id>-2346037</woe_id>
+        <longitude>22</longitude>
+        <woe_name>Riga</woe_name>
+        <fips>LG</fips>
+        <woe_label>Rigas Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>R</postal>
+        <type>Novads</type>
+        <id>LV.JU</id>
+      </desc>
+    </path>
+    <path d="M 288.6068 332.18 283.7522 337.153 265.0441 342.3628 244.7968 341.7708 243.3759 341.4156 253.0852 333.6008 264.0969 336.2058 286.1203 329.4567 288.6068 332.18 Z" id="LV.JM" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.JM</code_hasc>
+        <name>Jurmala</name>
+        <admin>Latvia</admin>
+        <type_en>Republican City</type_en>
+        <region>Riga</region>
+        <woe_id>-2346037</woe_id>
+        <longitude>23</longitude>
+        <woe_name>Riga</woe_name>
+        <fips>LG</fips>
+        <woe_label>Rigas Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>R</postal>
+        <type>Republikas Pilsētas</type>
+        <id>LV.JM</id>
+      </desc>
+    </path>
+    <path d="M 192.58 355.0322 182.3971 355.7427 183.3444 359.5316 177.7793 363.5574 163.9259 362.6102 149.7172 354.7954 153.5062 344.9678 146.5203 343.3101 151.9669 326.7333 164.0443 326.6149 164.8731 312.9983 192.2248 304.8283 193.172 310.1566 183.5812 316.1953 187.0149 326.3781 181.0947 334.0745 190.2119 344.3757 192.58 355.0322 Z" id="LV.KN" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.KN</code_hasc>
+        <name>Kandavas</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Riga</region>
+        <woe_id>-2346037</woe_id>
+        <longitude>22</longitude>
+        <woe_name>Riga</woe_name>
+        <fips>LG</fips>
+        <woe_label>Rigas Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>R</postal>
+        <type>Novads</type>
+        <id>LV.KN</id>
+      </desc>
+    </path>
+    <path d="M 380.6078 364.6231 369.0041 379.5422 375.6348 382.8575 380.6078 392.3299 390.6723 394.9349 393.0404 397.0662 392.4483 400.8551 383.6863 402.9864 355.7427 409.3803 359.5316 403.2232 349.4672 392.2115 353.2561 386.2913 350.0592 381.0814 342.5997 380.0158 342.8365 373.3851 341.534 362.1366 348.6383 362.9654 361.8997 375.99 370.4249 358.9396 380.6078 364.6231 Z" id="LV.KG" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.KG</code_hasc>
+        <name>Keguma</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Riga</region>
+        <woe_id>-2346037</woe_id>
+        <longitude>24</longitude>
+        <woe_name>Riga</woe_name>
+        <fips>LG</fips>
+        <woe_label>Rigas Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>R</postal>
+        <type>Novads</type>
+        <id>LV.KG</id>
+      </desc>
+    </path>
+    <path d="M 311.5774 351.0064 313.5903 360.3605 322.3523 360.9525 325.3125 356.3347 335.0217 358.5844 341.534 362.1366 342.8365 373.3851 317.0241 367.82 318.5634 374.5691 311.459 375.5164 310.7486 379.4237 306.7228 377.7661 296.3031 378.9501 293.6982 380.8446 292.751 378.8317 292.5142 377.2925 293.343 371.8458 301.0394 371.8458 303.7627 365.0967 304.5915 361.6629 302.697 359.1764 301.513 357.2819 301.2762 352.0721 302.3418 351.7169 303.5259 349.2304 307.5517 347.5727 311.5774 351.0064 Z" id="LV.KK" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.KK</code_hasc>
+        <name>Kekavas</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Riga</region>
+        <woe_id>-2346037</woe_id>
+        <longitude>24</longitude>
+        <woe_name>Riga</woe_name>
+        <fips>LG</fips>
+        <woe_label>Rigas Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>R</postal>
+        <type>Novads</type>
+        <id>LV.KK</id>
+      </desc>
+    </path>
+    <path d="M 370.6617 261.7288 380.4894 287.4227 377.4109 292.2774 366.2807 306.8412 362.255 304.7099 355.6243 308.6173 356.3347 300.9209 351.2433 299.7369 350.7696 295.2375 356.9267 291.6853 359.1764 288.37 352.5457 274.9902 358.5844 269.7803 357.1635 262.9128 362.7286 259.2422 370.6617 261.7288 Z" id="LV.KM" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.KM</code_hasc>
+        <name>Krimuldas</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Riga</region>
+        <woe_id>-2346037</woe_id>
+        <longitude>24</longitude>
+        <woe_name>Riga</woe_name>
+        <fips>LG</fips>
+        <woe_label>Rigas Rajons, LV, Latvia</woe_label>
+        <latitude>57</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>R</postal>
+        <type>Novads</type>
+        <id>LV.KM</id>
+      </desc>
+    </path>
+    <path d="M 397.303 375.2796 390.7907 377.174 393.3956 381.555 389.8434 385.1072 390.6723 394.9349 380.6078 392.3299 375.6348 382.8575 369.0041 379.5422 380.6078 364.6231 391.8563 366.3992 397.303 375.2796 Z" id="LV.LL" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.LL</code_hasc>
+        <name>Lielvardes</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Riga</region>
+        <woe_id>-2346037</woe_id>
+        <longitude>24</longitude>
+        <woe_name>Riga</woe_name>
+        <fips>LG</fips>
+        <woe_label>Rigas Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>R</postal>
+        <type>Novads</type>
+        <id>LV.LL</id>
+      </desc>
+    </path>
+    <path d="M 401.3288 331.588 400.9735 338.2187 375.99 343.6653 369.3593 341.6524 370.1881 332.0616 376.9372 328.1542 375.6348 312.0511 385.6992 316.1953 401.3288 331.588 Z" id="LV.ML" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.ML</code_hasc>
+        <name>Malpils</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Riga</region>
+        <woe_id>-2346037</woe_id>
+        <longitude>24</longitude>
+        <woe_name>Riga</woe_name>
+        <fips>LG</fips>
+        <woe_label>Rigas Rajons, LV, Latvia</woe_label>
+        <latitude>57</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>R</postal>
+        <type>Novads</type>
+        <id>LV.ML</id>
+      </desc>
+    </path>
+    <path d="M 299.1449 350.4144 294.0534 356.3347 289.7908 356.6899 281.9761 357.874 279.1344 360.7157 278.0687 356.9267 276.0558 350.7696 287.4227 341.2972 295.3559 344.6126 298.7897 348.2831 299.1449 350.4144 Z" id="LV.MR" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.MR</code_hasc>
+        <name>Marupes</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Riga</region>
+        <woe_id>-2346037</woe_id>
+        <longitude>23</longitude>
+        <woe_name>Riga</woe_name>
+        <fips>LG</fips>
+        <woe_label>Rigas Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>R</postal>
+        <type>Novads</type>
+        <id>LV.MR</id>
+      </desc>
+    </path>
+    <path d="M 310.5118 383.9232 309.9198 384.2784 309.3277 386.2913 308.1437 387.7121 307.078 388.0673 305.4204 388.0673 301.1578 385.6992 296.0663 384.6336 292.9878 383.3311 293.6982 380.8446 296.3031 378.9501 306.7228 377.7661 310.7486 379.4237 312.4063 380.1342 314.7744 382.6207 312.7615 383.6863 310.5118 383.9232 Z M 299.1449 350.4144 299.6185 352.7825 301.2762 352.0721 301.513 357.2819 302.697 359.1764 304.5915 361.6629 303.7627 365.0967 301.1578 368.7673 301.0394 371.8458 293.343 371.8458 292.5142 377.2925 287.3043 377.6477 284.581 374.6875 283.3969 374.6875 273.9245 377.4109 272.2668 377.0556 270.7276 375.99 269.6619 374.9243 270.4908 370.7802 270.0171 370.0697 272.1484 361.6629 276.1742 364.7415 279.1344 360.7157 281.9761 357.874 289.7908 356.6899 294.0534 356.3347 296.3031 353.6114 299.1449 350.4144 Z" id="LV.OL" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.OL</code_hasc>
+        <name>Olaines</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Riga</region>
+        <woe_id>-2346037</woe_id>
+        <longitude>23</longitude>
+        <woe_name>Riga</woe_name>
+        <fips>LG</fips>
+        <woe_label>Rigas Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>R</postal>
+        <type>Novads</type>
+        <id>LV.OL</id>
+      </desc>
+    </path>
+    <path d="M 370.1881 332.0616 369.3593 341.6524 358.5844 348.4015 342.126 347.8095 340.2316 352.9009 336.2058 350.0592 331.2327 343.3101 328.0358 340.2316 330.7591 331.4696 343.0733 330.1671 342.0076 321.4051 346.2702 320.1026 352.3089 319.8658 361.5445 332.0616 370.1881 332.0616 Z" id="LV.RP" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.RP</code_hasc>
+        <name>Ropazu</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Riga</region>
+        <woe_id>-2346037</woe_id>
+        <longitude>24</longitude>
+        <woe_name>Riga</woe_name>
+        <fips>LG</fips>
+        <woe_label>Rigas Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>R</postal>
+        <type>Novads</type>
+        <id>LV.RP</id>
+      </desc>
+    </path>
+    <path d="M 346.507 166.6492 345.7966 177.6609 352.9009 196.961 348.4015 200.0395 349.3488 206.5518 345.0862 206.0782 345.2046 213.893 331.7064 214.3666 333.2456 232.2458 344.3757 236.7452 342.2444 240.0606 346.8623 250.0066 329.8119 261.2551 326.6149 214.1298 320.5763 201.8156 319.5106 184.1732 321.1683 180.2658 329.9303 180.5026 333.6008 173.2799 346.507 166.6492 Z" id="LV.SL" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.SL</code_hasc>
+        <name>Salacgrivas</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Riga</region>
+        <woe_id>-2346037</woe_id>
+        <longitude>24</longitude>
+        <woe_name>Riga</woe_name>
+        <fips>LG</fips>
+        <woe_label>Rigas Rajons, LV, Latvia</woe_label>
+        <latitude>57</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>R</postal>
+        <type>Novads</type>
+        <id>LV.SL</id>
+      </desc>
+    </path>
+    <path d="M 331.2327 343.3101 336.2058 350.0592 335.0217 358.5844 325.3125 356.3347 322.3523 360.9525 313.5903 360.3605 311.5774 351.0064 317.3793 352.6641 315.1296 342.7181 324.7204 348.5199 331.2327 343.3101 Z" id="LV.SS" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.SS</code_hasc>
+        <name>Salaspils</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Riga</region>
+        <woe_id>-2346037</woe_id>
+        <longitude>24</longitude>
+        <woe_name>Riga</woe_name>
+        <fips>LG</fips>
+        <woe_label>Rigas Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>R</postal>
+        <type>Novads</type>
+        <id>LV.SS</id>
+      </desc>
+    </path>
+    <path d="M 336.0874 279.4896 338.6923 289.3172 327.9174 299.0265 325.6677 298.7897 324.01 295.9479 330.5223 285.8835 330.7591 270.2539 333.0088 280.0816 336.0874 279.4896 Z" id="LV.SU" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.SU</code_hasc>
+        <name>Saulkrastu</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Riga</region>
+        <woe_id>-2346037</woe_id>
+        <longitude>24</longitude>
+        <woe_name>Riga</woe_name>
+        <fips>LG</fips>
+        <woe_label>Rigas Rajons, LV, Latvia</woe_label>
+        <latitude>57</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>R</postal>
+        <type>Novads</type>
+        <id>LV.SU</id>
+      </desc>
+    </path>
+    <path d="M 356.9267 291.6853 350.7696 295.2375 351.2433 299.7369 356.3347 300.9209 355.6243 308.6173 346.3886 306.6044 340.8236 312.1695 336.7978 298.9081 327.9174 299.0265 338.6923 289.3172 336.0874 279.4896 344.3757 275.7006 356.9267 291.6853 Z" id="LV.SE" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.SE</code_hasc>
+        <name>Sejas</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Riga</region>
+        <woe_id>-2346037</woe_id>
+        <longitude>24</longitude>
+        <woe_name>Riga</woe_name>
+        <fips>LG</fips>
+        <woe_label>Rigas Rajons, LV, Latvia</woe_label>
+        <latitude>57</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>R</postal>
+        <type>Novads</type>
+        <id>LV.SE</id>
+      </desc>
+    </path>
+    <path d="M 397.6582 310.7486 403.1048 317.9713 399.7895 320.8131 403.3416 327.207 401.3288 331.588 385.6992 316.1953 375.6348 312.0511 376.9372 328.1542 370.1881 332.0616 361.5445 332.0616 352.3089 319.8658 364.5047 316.7873 366.2807 306.8412 377.4109 292.2774 383.8047 297.9608 385.8176 308.3805 397.6582 310.7486 Z" id="LV.SI" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.SI</code_hasc>
+        <name>Siguldas</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Riga</region>
+        <woe_id>-2346037</woe_id>
+        <longitude>24</longitude>
+        <woe_name>Riga</woe_name>
+        <fips>LG</fips>
+        <woe_label>Rigas Rajons, LV, Latvia</woe_label>
+        <latitude>57</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>R</postal>
+        <type>Novads</type>
+        <id>LV.SI</id>
+      </desc>
+    </path>
+    <path d="M 328.0358 340.2316 331.2327 343.3101 324.7204 348.5199 315.1296 342.7181 323.1812 335.969 328.0358 340.2316 Z" id="LV.SP" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.SP</code_hasc>
+        <name>Stopinu</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Riga</region>
+        <woe_id>-2346037</woe_id>
+        <longitude>24</longitude>
+        <woe_name>Riga</woe_name>
+        <fips>LG</fips>
+        <woe_label>Rigas Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>R</postal>
+        <type>Novads</type>
+        <id>LV.SP</id>
+      </desc>
+    </path>
+    <path d="M 440.0473 303.4075 438.0344 307.7885 443.1259 309.9198 445.3756 317.3793 439.1001 325.4309 435.1927 322.826 435.0743 330.0487 433.535 330.0487 429.6277 330.6407 425.0098 340.1131 419.9184 333.364 411.3932 340.8236 400.9735 338.2187 401.3288 331.588 403.3416 327.207 399.7895 320.8131 403.1048 317.9713 397.6582 310.7486 407.0122 304.3547 401.8024 290.3829 395.2901 286.9491 406.065 283.7522 408.3147 278.3055 416.7215 284.6994 416.6031 289.3172 420.6288 289.1988 422.6417 296.7768 440.0473 303.4075 Z" id="LV.AM" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.AM</code_hasc>
+        <name>Amatas</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Vidzeme</region>
+        <woe_id>-2346042</woe_id>
+        <longitude>25</longitude>
+        <woe_name>Valmiera</woe_name>
+        <fips>LG</fips>
+        <woe_label>Valmieras Rajons, LV, Latvia</woe_label>
+        <latitude>57</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>VM</postal>
+        <type>Novads</type>
+        <id>LV.AM</id>
+      </desc>
+    </path>
+    <path d="M 553.0061 226.3255 554.6638 238.0477 546.6122 240.771 545.4282 252.2563 537.1398 253.322 535.3637 258.295 524.2336 256.2821 524.352 261.4919 516.8925 265.9913 519.8526 269.0699 505.9992 269.7803 508.3673 240.5342 512.9851 238.0477 511.5642 226.4439 525.7729 237.1004 534.1796 235.9164 541.0472 227.9832 553.0061 226.3255 Z" id="LV.AP" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.AP</code_hasc>
+        <name>Apes</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Vidzeme</region>
+        <woe_id>-2346042</woe_id>
+        <longitude>26</longitude>
+        <woe_name>Valmiera</woe_name>
+        <fips>LG</fips>
+        <woe_label>Valmieras Rajons, LV, Latvia</woe_label>
+        <latitude>57</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>VM</postal>
+        <type>Novads</type>
+        <id>LV.AP</id>
+      </desc>
+    </path>
+    <path d="M 458.5186 241.955 453.0719 242.6655 449.6382 245.6256 449.1645 246.9281 447.6253 248.3489 442.4154 247.7569 435.4295 253.2036 423.4706 252.8483 421.2209 241.2446 426.3123 241.5998 428.562 236.1532 440.7578 222.5366 450.3486 222.0629 452.0063 228.812 458.7554 232.7194 455.2032 236.0348 462.5444 237.4556 458.5186 241.955 Z" id="LV.BE" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.BE</code_hasc>
+        <name>Beverinas</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Vidzeme</region>
+        <woe_id>-2346042</woe_id>
+        <longitude>25</longitude>
+        <woe_name>Valmiera</woe_name>
+        <fips>LG</fips>
+        <woe_label>Valmieras Rajons, LV, Latvia</woe_label>
+        <latitude>57</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>VM</postal>
+        <type>Novads</type>
+        <id>LV.BE</id>
+      </desc>
+    </path>
+    <path d="M 408.0779 191.0407 410.446 194.7113 427.4964 192.4616 436.4952 191.7511 449.283 200.9868 443.1259 204.4205 441.4682 213.0641 433.0614 217.2083 440.7578 222.5366 428.562 236.1532 426.9043 232.9562 421.2209 234.1403 403.2232 213.0641 394.4612 216.7347 394.698 202.4076 387.0017 191.988 388.4226 188.9094 397.1846 191.5143 395.6453 184.7652 398.3686 183.5812 408.0779 191.0407 Z" id="LV.BT" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.BT</code_hasc>
+        <name>Burtnieku</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Vidzeme</region>
+        <woe_id>-2346042</woe_id>
+        <longitude>25</longitude>
+        <woe_name>Valmiera</woe_name>
+        <fips>LG</fips>
+        <woe_label>Valmieras Rajons, LV, Latvia</woe_label>
+        <latitude>57</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>VM</postal>
+        <type>Novads</type>
+        <id>LV.BT</id>
+      </desc>
+    </path>
+    <path d="M 516.5372 319.037 520.2078 328.5094 516.182 338.6923 503.2758 339.6395 498.3028 335.4953 498.658 313.1167 511.6826 310.0382 516.5372 319.037 Z" id="LV.CV" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.CV</code_hasc>
+        <name>Cesvaines</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Vidzeme</region>
+        <woe_id>-2346042</woe_id>
+        <longitude>26</longitude>
+        <woe_name>Valmiera</woe_name>
+        <fips>LG</fips>
+        <woe_label>Valmieras Rajons, LV, Latvia</woe_label>
+        <latitude>57</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>VM</postal>
+        <type>Novads</type>
+        <id>LV.CV</id>
+      </desc>
+    </path>
+    <path d="M 471.3064 334.4297 477.345 344.2573 461.1235 347.4543 460.5315 358.2292 453.7824 368.412 435.7847 361.4261 433.535 352.1905 440.4025 350.7696 433.535 330.0487 435.0743 330.0487 447.7437 329.6935 447.0332 335.2585 456.0321 328.8646 471.3064 334.4297 Z" id="LV.ER" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.ER</code_hasc>
+        <name>Erglu</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Vidzeme</region>
+        <woe_id>-2346042</woe_id>
+        <longitude>25</longitude>
+        <woe_name>Valmiera</woe_name>
+        <fips>LG</fips>
+        <woe_label>Valmieras Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>VM</postal>
+        <type>Novads</type>
+        <id>LV.ER</id>
+      </desc>
+    </path>
+    <path d="M 492.5009 314.064 474.1481 311.2222 459.9394 301.8682 459.3474 294.0534 463.7284 292.5142 468.583 296.1847 470.9511 296.1847 475.8058 294.8823 479.8316 292.1589 481.9628 289.554 489.1856 291.3301 497.0003 302.5786 492.5009 314.064 Z" id="LV.JA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.JA</code_hasc>
+        <name>Jaunpiebalgas</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Vidzeme</region>
+        <woe_id>-2346042</woe_id>
+        <longitude>26</longitude>
+        <woe_name>Valmiera</woe_name>
+        <fips>LG</fips>
+        <woe_label>Valmieras Rajons, LV, Latvia</woe_label>
+        <latitude>57</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>VM</postal>
+        <type>Novads</type>
+        <id>LV.JA</id>
+      </desc>
+    </path>
+    <path d="M 421.2209 234.1403 421.2209 241.2446 423.4706 252.8483 422.5233 262.4392 406.065 257.4662 397.5398 244.0863 393.514 243.2575 386.2913 232.601 376.1084 231.8906 374.8059 221.9445 391.5011 221.8261 394.4612 216.7347 403.2232 213.0641 421.2209 234.1403 Z" id="LV.VR" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.VR</code_hasc>
+        <name>Kocenu</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Vidzeme</region>
+        <woe_id>-2346042</woe_id>
+        <longitude>25</longitude>
+        <woe_name>Valmiera</woe_name>
+        <fips>LG</fips>
+        <woe_label>Valmieras Rajons, LV, Latvia</woe_label>
+        <latitude>57</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>VM</postal>
+        <type>Novads</type>
+        <id>LV.VR</id>
+      </desc>
+    </path>
+    <path d="M 397.6582 310.7486 385.8176 308.3805 383.8047 297.9608 377.4109 292.2774 380.4894 287.4227 395.2901 286.9491 401.8024 290.3829 407.0122 304.3547 397.6582 310.7486 Z" id="LV.LG" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.LG</code_hasc>
+        <name>Ligatnes</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Vidzeme</region>
+        <woe_id>-2346042</woe_id>
+        <longitude>25</longitude>
+        <woe_name>Valmiera</woe_name>
+        <fips>LG</fips>
+        <woe_label>Valmieras Rajons, LV, Latvia</woe_label>
+        <latitude>57</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>VM</postal>
+        <type>Novads</type>
+        <id>LV.LG</id>
+      </desc>
+    </path>
+    <path d="M 563.189 327.9174 568.162 329.3383 575.8584 345.5598 573.0166 351.1249 563.8994 342.2444 549.8092 342.3628 540.5735 357.4003 533.706 360.5973 527.4305 351.5985 535.8373 335.0217 553.4797 326.6149 563.189 327.9174 Z" id="LV.LB" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.LB</code_hasc>
+        <name>Lubanas</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Vidzeme</region>
+        <woe_id>-2346042</woe_id>
+        <longitude>26</longitude>
+        <woe_name>Valmiera</woe_name>
+        <fips>LG</fips>
+        <woe_label>Valmieras Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>VM</postal>
+        <type>Novads</type>
+        <id>LV.LB</id>
+      </desc>
+    </path>
+    <path d="M 408.0779 191.0407 398.3686 183.5812 395.6453 184.7652 397.1846 191.5143 388.4226 188.9094 387.0017 191.988 376.1084 187.1333 369.0041 160.1369 393.2772 144.981 394.4612 159.7817 408.0779 182.0419 408.0779 191.0407 Z" id="LV.MZ" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.MZ</code_hasc>
+        <name>Mazsalacas</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Vidzeme</region>
+        <woe_id>-2346042</woe_id>
+        <longitude>25</longitude>
+        <woe_name>Valmiera</woe_name>
+        <fips>LG</fips>
+        <woe_label>Valmieras Rajons, LV, Latvia</woe_label>
+        <latitude>57</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>VM</postal>
+        <type>Novads</type>
+        <id>LV.MZ</id>
+      </desc>
+    </path>
+    <path d="M 446.4412 170.4382 445.494 179.2002 438.8633 176.0032 428.4436 177.8977 436.4952 191.7511 427.4964 192.4616 420.392 176.3584 409.9723 171.3854 409.0251 167.1228 414.9454 157.7688 416.7215 162.1498 422.0497 161.2025 423.3522 154.6902 434.7191 162.2682 438.3897 169.7277 446.4412 170.4382 Z" id="LV.NA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.NA</code_hasc>
+        <name>Nauksenu</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Vidzeme</region>
+        <woe_id>-2346042</woe_id>
+        <longitude>25</longitude>
+        <woe_name>Valmiera</woe_name>
+        <fips>LG</fips>
+        <woe_label>Valmieras Rajons, LV, Latvia</woe_label>
+        <latitude>57</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>VM</postal>
+        <type>Novads</type>
+        <id>LV.NA</id>
+      </desc>
+    </path>
+    <path d="M 422.5233 262.4392 419.8 267.5306 413.2877 267.1754 408.1963 272.3852 408.3147 278.3055 406.065 283.7522 395.2901 286.9491 380.4894 287.4227 370.6617 261.7288 367.5832 257.9398 374.6875 258.6502 393.514 243.2575 397.5398 244.0863 406.065 257.4662 422.5233 262.4392 Z" id="LV.PG" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.PG</code_hasc>
+        <name>Pargaujas</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Vidzeme</region>
+        <woe_id>-2346042</woe_id>
+        <longitude>25</longitude>
+        <woe_name>Valmiera</woe_name>
+        <fips>LG</fips>
+        <woe_label>Valmieras Rajons, LV, Latvia</woe_label>
+        <latitude>57</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>VM</postal>
+        <type>Novads</type>
+        <id>LV.PG</id>
+      </desc>
+    </path>
+    <path d="M 447.6253 248.3489 446.9148 252.6115 444.902 258.5318 442.7707 263.5048 437.4424 263.6232 434.3639 266.7018 434.6007 269.0699 438.6265 276.0558 443.1259 283.0417 439.4553 290.3829 435.9031 292.9878 430.4565 281.1472 423.589 277.0031 417.7871 279.0159 408.1963 272.3852 413.2877 267.1754 419.8 267.5306 422.5233 262.4392 423.4706 252.8483 435.4295 253.2036 442.4154 247.7569 447.6253 248.3489 Z" id="LV.PU" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.PU</code_hasc>
+        <name>Priekulu</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Vidzeme</region>
+        <woe_id>-2346042</woe_id>
+        <longitude>25</longitude>
+        <woe_name>Valmiera</woe_name>
+        <fips>LG</fips>
+        <woe_label>Valmieras Rajons, LV, Latvia</woe_label>
+        <latitude>57</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>VM</postal>
+        <type>Novads</type>
+        <id>LV.PU</id>
+      </desc>
+    </path>
+    <path d="M 474.0297 236.2716 473.4377 245.6256 458.5186 241.955 462.5444 237.4556 455.2032 236.0348 458.7554 232.7194 452.0063 228.812 450.3486 222.0629 440.7578 222.5366 433.0614 217.2083 441.4682 213.0641 443.1259 204.4205 449.283 200.9868 463.9652 198.0266 462.3075 206.0782 465.3861 209.8672 477.4634 211.6433 474.9769 220.5237 467.2806 223.7206 469.5303 236.39 474.0297 236.2716 Z" id="LV.ST" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.ST</code_hasc>
+        <name>Strencu</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Vidzeme</region>
+        <woe_id>-2346042</woe_id>
+        <longitude>25</longitude>
+        <woe_name>Valmiera</woe_name>
+        <fips>LG</fips>
+        <woe_label>Valmieras Rajons, LV, Latvia</woe_label>
+        <latitude>57</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>VM</postal>
+        <type>Novads</type>
+        <id>LV.ST</id>
+      </desc>
+    </path>
+    <path d="M 423.3522 154.6902 422.0497 161.2025 416.7215 162.1498 414.9454 157.7688 409.0251 167.1228 409.9723 171.3854 420.392 176.3584 427.4964 192.4616 410.446 194.7113 408.0779 191.0407 408.0779 182.0419 394.4612 159.7817 393.2772 144.981 400.0263 146.4019 404.7625 158.9528 410.9196 154.9271 408.7883 143.3233 423.3522 154.6902 Z" id="LV.RU" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.RU</code_hasc>
+        <name>Rujienas</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Vidzeme</region>
+        <woe_id>-2346042</woe_id>
+        <longitude>25</longitude>
+        <woe_name>Valmiera</woe_name>
+        <fips>LG</fips>
+        <woe_label>Valmieras Rajons, LV, Latvia</woe_label>
+        <latitude>57</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>VM</postal>
+        <type>Novads</type>
+        <id>LV.RU</id>
+      </desc>
+    </path>
+    <path d="M 459.3474 294.0534 459.9394 301.8682 474.1481 311.2222 474.5033 331.2327 471.3064 334.4297 456.0321 328.8646 447.0332 335.2585 447.7437 329.6935 435.0743 330.0487 435.1927 322.826 439.1001 325.4309 445.3756 317.3793 443.1259 309.9198 438.0344 307.7885 440.0473 303.4075 439.4553 290.3829 443.1259 283.0417 449.5198 281.2656 453.1903 282.5681 456.5057 280.9104 458.8738 280.2 458.1634 284.3442 457.4529 286.2387 456.8609 291.6853 459.3474 294.0534 Z" id="LV.VB" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.VB</code_hasc>
+        <name>Vecpiebalgas</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Vidzeme</region>
+        <woe_id>-2346042</woe_id>
+        <longitude>25</longitude>
+        <woe_name>Valmiera</woe_name>
+        <fips>LG</fips>
+        <woe_label>Valmieras Rajons, LV, Latvia</woe_label>
+        <latitude>57</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>VM</postal>
+        <type>Novads</type>
+        <id>LV.VB</id>
+      </desc>
+    </path>
+    <path d="M 508.3673 240.5342 505.9992 269.7803 505.0519 278.3055 485.9886 281.8577 484.5678 279.2528 483.0285 279.0159 481.6076 278.0687 479.5947 277.7135 472.0168 278.5423 470.2407 278.3055 469.1751 278.6607 458.8738 280.2 456.5057 280.9104 455.7953 279.2528 455.3216 277.2399 455.7953 274.3981 455.5584 273.3325 455.9137 272.03 457.0977 271.438 456.8609 270.0171 454.0192 266.1098 452.3615 262.2024 447.6253 248.3489 449.1645 246.9281 449.6382 245.6256 453.0719 242.6655 458.5186 241.955 473.4377 245.6256 474.0297 236.2716 490.488 229.0489 501.4997 233.3115 502.0918 236.6268 507.3016 235.6796 508.3673 240.5342 Z" id="LV.SM" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.SM</code_hasc>
+        <name>Smiltenes</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Vidzeme</region>
+        <woe_id>-2346042</woe_id>
+        <longitude>26</longitude>
+        <woe_name>Valmiera</woe_name>
+        <fips>LG</fips>
+        <woe_label>Valmieras Rajons, LV, Latvia</woe_label>
+        <latitude>57</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>VM</postal>
+        <type>Novads</type>
+        <id>LV.SM</id>
+      </desc>
+    </path>
+    <path d="M 481.6076 278.0687 484.5678 279.2528 485.9886 281.8577 486.107 284.2258 481.9628 284.581 481.3708 285.173 481.0156 285.6466 481.9628 289.554 479.8316 292.1589 475.8058 294.8823 468.583 296.1847 463.7284 292.5142 459.3474 294.0534 456.8609 291.6853 457.4529 286.2387 458.1634 284.3442 458.8738 280.2 469.1751 278.6607 470.2407 278.3055 472.0168 278.5423 479.5947 277.7135 481.6076 278.0687 Z M 452.3615 262.2024 454.0192 266.1098 456.8609 270.0171 457.0977 271.438 455.9137 272.03 455.5584 273.3325 455.3216 277.2399 455.7953 279.2528 456.5057 280.9104 453.1903 282.5681 449.5198 281.2656 443.1259 283.0417 442.6522 279.4896 438.6265 276.0558 434.3639 266.7018 437.4424 263.6232 442.7707 263.5048 443.0075 260.3079 444.902 258.5318 446.9148 252.6115 447.6253 248.3489 448.4541 250.3618 453.0719 259.2422 452.3615 262.2024 Z" id="LV.RN" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.RN</code_hasc>
+        <name>Raunas</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Vidzeme</region>
+        <woe_id>-2346042</woe_id>
+        <longitude>25</longitude>
+        <woe_name>Valmiera</woe_name>
+        <fips>LG</fips>
+        <woe_label>Valmieras Rajons, LV, Latvia</woe_label>
+        <latitude>57</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>VM</postal>
+        <type>Novads</type>
+        <id>LV.RN</id>
+      </desc>
+    </path>
+    <path d="M 557.0319 380.6078 559.5184 392.6852 554.3086 396.9478 555.1374 401.8024 544.2441 404.8809 540.2183 403.6969 540.5735 396.1189 519.4974 389.725 520.563 382.5023 534.5349 382.0287 548.2699 373.8587 557.0319 380.6078 Z" id="LV.VX" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.VX</code_hasc>
+        <name>Varaklanu</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Vidzeme</region>
+        <woe_id>-2346042</woe_id>
+        <longitude>26</longitude>
+        <woe_name>Valmiera</woe_name>
+        <fips>LG</fips>
+        <woe_label>Valmieras Rajons, LV, Latvia</woe_label>
+        <latitude>56</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>VM</postal>
+        <type>Novads</type>
+        <id>LV.VX</id>
+      </desc>
+    </path>
+    <path d="M 130.1803 259.7159 134.3245 278.6607 123.1944 291.6853 124.2601 297.6056 122.6024 306.8412 113.3668 310.5118 105.9072 308.2621 83.8838 312.5247 84.5942 309.2093 71.9249 306.7228 64.1101 311.8142 57.7162 313.2351 53.8088 331.2327 46.4677 335.969 40.1922 330.2855 48.9542 313.3535 51.0855 276.0558 60.0843 260.7815 62.8076 267.4122 70.7408 265.3993 70.504 259.3606 75.477 257.4662 70.9776 244.7968 81.6341 227.7464 106.8545 223.9574 125.3257 214.6034 131.838 240.771 113.3668 254.8612 130.1803 259.7159 Z" id="LV.VN" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>8</labelrank>
+        <code_hasc>LV.VN</code_hasc>
+        <name>Ventspils</name>
+        <admin>Latvia</admin>
+        <type_en>Municipality</type_en>
+        <region>Kurzeme</region>
+        <woe_id>-2346043</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Ventspils</woe_name>
+        <fips>LG</fips>
+        <woe_label>Ventspils Rajons, LV, Latvia</woe_label>
+        <latitude>57</latitude>
+        <iso_a2>LV</iso_a2>
+        <postal>VN</postal>
+        <type>Novads</type>
+        <id>LV.VN</id>
+      </desc>
+    </path>
+  </g>
+</svg>

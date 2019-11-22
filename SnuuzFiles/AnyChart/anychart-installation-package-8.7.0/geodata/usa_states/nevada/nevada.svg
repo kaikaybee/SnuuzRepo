@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="nevada">
+    <path d="M 52.482 288.3413 97.9777 290.7358 119.5283 345.8096 52.482 299.1166 52.482 288.3413 Z" id="US.NV.005" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Douglas County</name>
+        <stateAbbrev>NV</stateAbbrev>
+        <state>Nevada</state>
+        <fips>005</fips>
+        <incits>32005</incits>
+        <id>US.NV.005</id>
+        <population>47118</population>
+      </desc>
+    </path>
+    <path d="M 81.2161 275.1715 125.5146 236.8593 133.8954 236.8593 141.0789 260.8045 176.9966 291.9331 162.6295 314.681 161.4322 357.7822 137.4871 357.7822 119.5283 345.8096 97.9777 290.7358 81.2161 275.1715 Z" id="US.NV.019" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lyon County</name>
+        <stateAbbrev>NV</stateAbbrev>
+        <state>Nevada</state>
+        <fips>019</fips>
+        <incits>32019</incits>
+        <id>US.NV.019</id>
+        <population>51557</population>
+      </desc>
+    </path>
+    <path d="M 120.7256 1 121.9228 103.964 119.5283 199.7444 130.3036 199.7444 133.8954 236.8593 125.5146 236.8593 88.3997 248.8319 81.2161 275.1715 52.482 283.5523 53.6792 198.5472 52.482 1 120.7256 1 Z" id="US.NV.031" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Washoe County</name>
+        <stateAbbrev>NV</stateAbbrev>
+        <state>Nevada</state>
+        <fips>031</fips>
+        <incits>32031</incits>
+        <id>US.NV.031</id>
+        <population>433731</population>
+      </desc>
+    </path>
+    <path d="M 393.6998 100.3722 436.801 100.3722 436.801 133.8954 452.3654 186.5746 467.9297 186.5746 472.7187 214.1115 460.7461 283.5523 392.5026 283.5523 393.6998 100.3722 Z" id="US.NV.011" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Eureka County</name>
+        <stateAbbrev>NV</stateAbbrev>
+        <state>Nevada</state>
+        <fips>011</fips>
+        <incits>32011</incits>
+        <id>US.NV.011</id>
+        <population>2076</population>
+      </desc>
+    </path>
+    <path d="M 120.7256 1 350.5986 1 350.5986 100.3722 350.5986 136.2899 321.8645 147.0652 288.3413 114.7393 228.4786 114.7393 173.4048 113.542 173.4048 108.753 163.8268 103.964 121.9228 103.964 120.7256 1 Z" id="US.NV.013" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Humboldt County</name>
+        <stateAbbrev>NV</stateAbbrev>
+        <state>Nevada</state>
+        <fips>013</fips>
+        <incits>32013</incits>
+        <id>US.NV.013</id>
+        <population>17363</population>
+      </desc>
+    </path>
+    <path d="M 121.9228 103.964 163.8268 103.964 173.4048 108.753 173.4048 113.542 228.4786 114.7393 288.3413 114.7393 321.8645 147.0652 297.9194 199.7444 130.3036 199.7444 119.5283 199.7444 121.9228 103.964 Z" id="US.NV.027" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pershing County</name>
+        <stateAbbrev>NV</stateAbbrev>
+        <state>Nevada</state>
+        <fips>027</fips>
+        <incits>32027</incits>
+        <id>US.NV.027</id>
+        <population>6877</population>
+      </desc>
+    </path>
+    <path d="M 52.482 283.5523 81.2161 275.1715 97.9777 290.7358 52.482 288.3413 52.482 283.5523 Z" id="US.NV.510" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Carson City</name>
+        <stateAbbrev>NV</stateAbbrev>
+        <state>Nevada</state>
+        <fips>510</fips>
+        <incits>32510</incits>
+        <id>US.NV.510</id>
+        <population>54080</population>
+      </desc>
+    </path>
+    <path d="M 137.4871 357.7822 161.4322 357.7822 162.6295 314.681 176.9966 291.9331 266.7907 291.9331 233.2676 307.4974 283.5523 351.7959 209.3225 409.2642 137.4871 357.7822 Z" id="US.NV.021" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Mineral County</name>
+        <stateAbbrev>NV</stateAbbrev>
+        <state>Nevada</state>
+        <fips>021</fips>
+        <incits>32021</incits>
+        <id>US.NV.021</id>
+        <population>4614</population>
+      </desc>
+    </path>
+    <path d="M 350.5986 1 647.518 1 646.3208 187.7719 467.9297 186.5746 452.3654 186.5746 436.801 133.8954 436.801 100.3722 393.6998 100.3722 350.5986 100.3722 350.5986 1 Z" id="US.NV.007" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Elko County</name>
+        <stateAbbrev>NV</stateAbbrev>
+        <state>Nevada</state>
+        <fips>007</fips>
+        <incits>32007</incits>
+        <id>US.NV.007</id>
+        <population>52384</population>
+      </desc>
+    </path>
+    <path d="M 551.7376 331.4425 646.3208 331.4425 646.3208 514.6226 461.9434 514.6226 463.1407 394.8971 551.7376 394.8971 551.7376 331.4425 Z" id="US.NV.017" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lincoln County</name>
+        <stateAbbrev>NV</stateAbbrev>
+        <state>Nevada</state>
+        <fips>017</fips>
+        <incits>32017</incits>
+        <id>US.NV.017</id>
+        <population>5245</population>
+      </desc>
+    </path>
+    <path d="M 130.3036 199.7444 297.9194 199.7444 302.7084 246.4374 276.3688 265.5935 275.1715 290.7358 266.7907 291.9331 176.9966 291.9331 141.0789 260.8045 133.8954 236.8593 130.3036 199.7444 Z" id="US.NV.001" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Churchill County</name>
+        <stateAbbrev>NV</stateAbbrev>
+        <state>Nevada</state>
+        <fips>001</fips>
+        <incits>32001</incits>
+        <id>US.NV.001</id>
+        <population>24063</population>
+      </desc>
+    </path>
+    <path d="M 266.7907 291.9331 275.1715 290.7358 319.47 283.5523 392.5026 283.5523 460.7461 283.5523 551.7376 331.4425 551.7376 394.8971 463.1407 394.8971 461.9434 514.6226 466.7324 603.2196 336.2316 501.4528 336.2316 399.6861 283.5523 351.7959 233.2676 307.4974 266.7907 291.9331 Z" id="US.NV.023" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Nye County</name>
+        <stateAbbrev>NV</stateAbbrev>
+        <state>Nevada</state>
+        <fips>023</fips>
+        <incits>32023</incits>
+        <id>US.NV.023</id>
+        <population>42297</population>
+      </desc>
+    </path>
+    <path d="M 297.9194 199.7444 321.8645 147.0652 350.5986 136.2899 350.5986 100.3722 393.6998 100.3722 392.5026 283.5523 319.47 283.5523 275.1715 290.7358 276.3688 265.5935 302.7084 246.4374 297.9194 199.7444 Z" id="US.NV.015" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lander County</name>
+        <stateAbbrev>NV</stateAbbrev>
+        <state>Nevada</state>
+        <fips>015</fips>
+        <incits>32015</incits>
+        <id>US.NV.015</id>
+        <population>6032</population>
+      </desc>
+    </path>
+    <path d="M 460.7461 283.5523 472.7187 214.1115 467.9297 186.5746 646.3208 187.7719 646.3208 331.4425 551.7376 331.4425 460.7461 283.5523 Z" id="US.NV.033" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>White Pine County</name>
+        <stateAbbrev>NV</stateAbbrev>
+        <state>Nevada</state>
+        <fips>033</fips>
+        <incits>32033</incits>
+        <id>US.NV.033</id>
+        <population>10057</population>
+      </desc>
+    </path>
+    <path d="M 461.9434 514.6226 646.3208 514.6226 647.518 579.2744 578.0772 588.8525 588.8525 699 466.7324 603.2196 461.9434 514.6226 Z" id="US.NV.003" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Clark County</name>
+        <stateAbbrev>NV</stateAbbrev>
+        <state>Nevada</state>
+        <fips>003</fips>
+        <incits>32003</incits>
+        <id>US.NV.003</id>
+        <population>2027868</population>
+      </desc>
+    </path>
+    <path d="M 209.3225 409.2642 283.5523 351.7959 336.2316 399.6861 336.2316 501.4528 209.3225 409.2642 Z" id="US.NV.009" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Esmeralda County</name>
+        <stateAbbrev>NV</stateAbbrev>
+        <state>Nevada</state>
+        <fips>009</fips>
+        <incits>32009</incits>
+        <id>US.NV.009</id>
+        <population>832</population>
+      </desc>
+    </path>
+    <path d="M 125.5146 236.8593 81.2161 275.1715 88.3997 248.8319 125.5146 236.8593 Z" id="US.NV.029" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Storey County</name>
+        <stateAbbrev>NV</stateAbbrev>
+        <state>Nevada</state>
+        <fips>029</fips>
+        <incits>32029</incits>
+        <id>US.NV.029</id>
+        <population>3942</population>
+      </desc>
+    </path>
+  </g>
+</svg>

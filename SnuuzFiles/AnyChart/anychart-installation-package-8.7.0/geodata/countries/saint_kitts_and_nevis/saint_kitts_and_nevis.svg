@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="saint_kitts_and_nevis">
+    <path d="M 282.018 120.9293 266.8481 128.9783 258.4705 142.9409 248.6966 165.2812 250.0929 193.2066 230.5451 193.2066 177.487 183.4327 174.6944 169.47 159.3355 152.7148 185.8646 115.0156 183.072 99.6566 198.2616 72.7557 282.018 120.9293 Z" id="KN.CC" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>KN.CC</code_hasc>
+        <name>Christ Church Nichola Town</name>
+        <admin>Saint Kitts and Nevis</admin>
+        <type_en>Parish</type_en>
+        <region>Saint Kitts</region>
+        <woe_id>2346964</woe_id>
+        <longitude>-62</longitude>
+        <woe_name>Christ Church Nichola Town</woe_name>
+        <fips>SC01</fips>
+        <woe_label>Christ Church Nichola Town, KN, Saint Kitts and Nevis</woe_label>
+        <latitude>17</latitude>
+        <iso_a2>KN</iso_a2>
+        <postal>CC</postal>
+        <type>Parish</type>
+        <id>KN.CC</id>
+      </desc>
+    </path>
+    <path d="M 116.0512 116.4118 100.6922 145.7335 90.9184 145.7335 79.7482 170.8663 64.4068 195.1176 1 125.9306 10.5498 86.899 36.4639 94.0716 44.8415 82.9014 57.4079 88.4865 54.6154 103.8454 116.0512 116.4118 Z" id="KN.AS" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>KN.AS</code_hasc>
+        <name>Saint Anne Sandy Point</name>
+        <admin>Saint Kitts and Nevis</admin>
+        <type_en>Parish</type_en>
+        <region>Saint Kitts</region>
+        <woe_id>2346965</woe_id>
+        <longitude>-62</longitude>
+        <woe_name>Saint Anne Sandy Point</woe_name>
+        <fips>SC02</fips>
+        <woe_label>Saint Anne Sandy Point, KN, Saint Kitts and Nevis</woe_label>
+        <latitude>17</latitude>
+        <iso_a2>KN</iso_a2>
+        <postal>AS</postal>
+        <type>Parish</type>
+        <id>KN.AS</id>
+      </desc>
+    </path>
+    <path d="M 388.2236 261.2919 394.7526 276.7407 419.0118 317.0267 454.3059 334.0169 483.6447 349.9562 509.4803 385.1627 509.6555 420.8072 461.6625 438.2353 434.338 420.3693 411.2173 339.2716 368.5666 313.8739 340.454 283.3966 320.6612 276.5655 296.4457 277.8795 279.4145 247.661 284.9996 240.6797 273.8294 219.7357 287.7921 215.5469 297.566 230.9058 326.8876 236.4909 349.2279 247.661 368.7757 263.02 388.2236 261.2919 Z" id="KN.GB" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>KN.GB</code_hasc>
+        <name>Saint George Basseterre</name>
+        <admin>Saint Kitts and Nevis</admin>
+        <type_en>Parish</type_en>
+        <region>Saint Kitts</region>
+        <woe_id>2346966</woe_id>
+        <longitude>-62</longitude>
+        <woe_name>Saint George Basseterre</woe_name>
+        <fips>SC03</fips>
+        <woe_label>Saint George Basseterre, KN, Saint Kitts and Nevis</woe_label>
+        <latitude>17</latitude>
+        <iso_a2>KN</iso_a2>
+        <postal>GB</postal>
+        <type>Parish</type>
+        <id>KN.GB</id>
+      </desc>
+    </path>
+    <path d="M 698.6064 607.8328 699 626.5289 695.4093 645.2706 684.3744 671.369 675.7041 680.4772 636.6442 689.3226 608.9337 592.5392 643.8404 582.7653 673.162 592.5392 698.6064 607.8328 Z" id="KN.GG" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>KN.GG</code_hasc>
+        <name>Saint George Gingerland</name>
+        <admin>Saint Kitts and Nevis</admin>
+        <type_en>Parish</type_en>
+        <region>Nevis</region>
+        <woe_id>2346967</woe_id>
+        <longitude>-62</longitude>
+        <woe_name>Saint George Gingerland</woe_name>
+        <fips>SC04</fips>
+        <woe_label>Saint George Gingerland, KN, Saint Kitts and Nevis</woe_label>
+        <latitude>17</latitude>
+        <iso_a2>KN</iso_a2>
+        <postal>GG</postal>
+        <type>Parish</type>
+        <id>KN.GG</id>
+      </desc>
+    </path>
+    <path d="M 698.6064 607.8328 673.162 592.5392 643.8404 582.7653 608.9337 592.5392 572.6308 524.122 535.9044 498.632 564.5671 468.8877 609.3197 469.7635 648.2045 482.2872 678.0688 510.1371 695.4093 557.1668 697.9491 576.6092 698.6064 607.8328 Z" id="KN.JW" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>KN.JW</code_hasc>
+        <name>Saint James Windward</name>
+        <admin>Saint Kitts and Nevis</admin>
+        <type_en>Parish</type_en>
+        <region>Nevis</region>
+        <woe_id>2346968</woe_id>
+        <longitude>-62</longitude>
+        <woe_name>Saint James Windward</woe_name>
+        <fips>SC05</fips>
+        <woe_label>Saint James Windward, KN, Saint Kitts and Nevis</woe_label>
+        <latitude>17</latitude>
+        <iso_a2>KN</iso_a2>
+        <postal>JW</postal>
+        <type>Parish</type>
+        <id>KN.JW</id>
+      </desc>
+    </path>
+    <path d="M 198.2616 72.7557 183.072 99.6566 185.8646 115.0156 159.3355 152.7148 116.0512 116.4118 114.6549 103.8454 100.6922 99.6566 93.7109 87.0902 92.3146 61.9574 92.3146 41.0134 84.3747 23.026 90.33 10.6774 198.2616 72.7557 Z" id="KN.JC" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>KN.JC</code_hasc>
+        <name>Saint John Capesterre</name>
+        <admin>Saint Kitts and Nevis</admin>
+        <type_en>Parish</type_en>
+        <region>Saint Kitts</region>
+        <woe_id>2346969</woe_id>
+        <longitude>-62</longitude>
+        <woe_name>Saint John Capesterre</woe_name>
+        <fips>SC06</fips>
+        <woe_label>Saint John Capesterre, KN, Saint Kitts and Nevis</woe_label>
+        <latitude>17</latitude>
+        <iso_a2>KN</iso_a2>
+        <postal>JC</postal>
+        <type>Parish</type>
+        <id>KN.JC</id>
+      </desc>
+    </path>
+    <path d="M 636.6442 689.3226 536.7172 681.5281 516.4952 629.4955 544.7054 627.4458 579.6121 620.4645 608.9337 592.5392 636.6442 689.3226 Z" id="KN.JF" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>KN.JF</code_hasc>
+        <name>Saint John Figtree</name>
+        <admin>Saint Kitts and Nevis</admin>
+        <type_en>Parish</type_en>
+        <region>Nevis</region>
+        <woe_id>2346970</woe_id>
+        <longitude>-62</longitude>
+        <woe_name>Saint John Figtree</woe_name>
+        <fips>SC07</fips>
+        <woe_label>Saint John Figtree, KN, Saint Kitts and Nevis</woe_label>
+        <latitude>17</latitude>
+        <iso_a2>KN</iso_a2>
+        <postal>JF</postal>
+        <type>Parish</type>
+        <id>KN.JF</id>
+      </desc>
+    </path>
+    <path d="M 340.0173 170.4558 322.6988 179.2439 300.3585 179.2439 279.4145 176.4514 265.4518 194.6028 250.0929 193.2066 248.6966 165.2812 258.4705 142.9409 266.8481 128.9783 282.018 120.9293 304.722 133.9878 340.0173 170.4558 Z" id="KN.MC" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>KN.MC</code_hasc>
+        <name>Saint Mary Cayon</name>
+        <admin>Saint Kitts and Nevis</admin>
+        <type_en>Parish</type_en>
+        <region>Saint Kitts</region>
+        <woe_id>2346971</woe_id>
+        <longitude>-62</longitude>
+        <woe_name>Saint Mary Cayon</woe_name>
+        <fips>SC08</fips>
+        <woe_label>Saint Mary Cayon, KN, Saint Kitts and Nevis</woe_label>
+        <latitude>17</latitude>
+        <iso_a2>KN</iso_a2>
+        <postal>MC</postal>
+        <type>Parish</type>
+        <id>KN.MC</id>
+      </desc>
+    </path>
+    <path d="M 116.0512 116.4118 54.6154 103.8454 57.4079 88.4865 44.8415 82.9014 36.4639 94.0716 10.5498 86.899 18.0778 56.1306 26.4853 48.774 32.2655 44.833 38.6587 42.4684 48.8178 40.1038 75.0913 29.3316 84.3747 23.026 92.3146 41.0134 92.3146 61.9574 93.7109 87.0902 100.6922 99.6566 114.6549 103.8454 116.0512 116.4118 Z" id="KN.PP" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>KN.PP</code_hasc>
+        <name>Saint Paul Capesterre</name>
+        <admin>Saint Kitts and Nevis</admin>
+        <type_en>Parish</type_en>
+        <region>Saint Kitts</region>
+        <woe_id>2346972</woe_id>
+        <longitude>-62</longitude>
+        <woe_name>Saint Paul Capesterre</woe_name>
+        <fips>SC09</fips>
+        <woe_label>Saint Paul Capesterre, KN, Saint Kitts and Nevis</woe_label>
+        <latitude>17</latitude>
+        <iso_a2>KN</iso_a2>
+        <postal>PP</postal>
+        <type>Parish</type>
+        <id>KN.PP</id>
+      </desc>
+    </path>
+    <path d="M 516.4952 629.4955 506.1523 602.8827 569.8382 607.8981 608.9337 592.5392 579.6121 620.4645 544.7054 627.4458 516.4952 629.4955 Z" id="KN.PL" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>KN.PL</code_hasc>
+        <name>Saint Paul Charlestown</name>
+        <admin>Saint Kitts and Nevis</admin>
+        <type_en>Parish</type_en>
+        <region>Nevis</region>
+        <woe_id>2346973</woe_id>
+        <longitude>-62</longitude>
+        <woe_name>Saint Paul Charlestown</woe_name>
+        <fips>SC10</fips>
+        <woe_label/>
+        <latitude>17</latitude>
+        <iso_a2>KN</iso_a2>
+        <postal>PL</postal>
+        <type>Parish</type>
+        <id>KN.PL</id>
+      </desc>
+    </path>
+    <path d="M 388.2236 261.2919 368.7757 263.02 349.2279 247.661 326.8876 236.4909 297.566 230.9058 287.7921 215.5469 273.8294 219.7357 265.4518 194.6028 279.4145 176.4514 300.3585 179.2439 322.6988 179.2439 340.0173 170.4558 357.4442 188.4616 388.2236 261.2919 Z" id="KN.PB" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>KN.PB</code_hasc>
+        <name>Saint Peter Basseterre</name>
+        <admin>Saint Kitts and Nevis</admin>
+        <type_en>Parish</type_en>
+        <region>Saint Kitts</region>
+        <woe_id>2346974</woe_id>
+        <longitude>-62</longitude>
+        <woe_name>Saint Peter Basseterre</woe_name>
+        <fips>SC11</fips>
+        <woe_label>Saint Peter Basseterre, KN, Saint Kitts and Nevis</woe_label>
+        <latitude>17</latitude>
+        <iso_a2>KN</iso_a2>
+        <postal>PB</postal>
+        <type>Parish</type>
+        <id>KN.PB</id>
+      </desc>
+    </path>
+    <path d="M 608.9337 592.5392 569.8382 607.8981 506.1523 602.8827 522.7922 512.239 535.9044 498.632 572.6308 524.122 608.9337 592.5392 Z" id="KN.TL" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>KN.TL</code_hasc>
+        <name>Saint Thomas Lowland</name>
+        <admin>Saint Kitts and Nevis</admin>
+        <type_en>Parish</type_en>
+        <region>Nevis</region>
+        <woe_id>2346975</woe_id>
+        <longitude>-62</longitude>
+        <woe_name>Saint Thomas Lowland</woe_name>
+        <fips>SC12</fips>
+        <woe_label>Saint Thomas Lowland, KN, Saint Kitts and Nevis</woe_label>
+        <latitude>17</latitude>
+        <iso_a2>KN</iso_a2>
+        <postal>TL</postal>
+        <type>Parish</type>
+        <id>KN.TL</id>
+      </desc>
+    </path>
+    <path d="M 159.3355 152.7148 174.6944 169.47 177.487 183.4327 230.5451 193.2066 222.1675 222.5282 205.4123 230.9058 198.431 249.0573 193.5219 264.2688 156.7144 249.9417 64.4068 195.1176 79.7482 170.8663 90.9184 145.7335 100.6922 145.7335 116.0512 116.4118 159.3355 152.7148 Z" id="KN.TM" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>KN.TM</code_hasc>
+        <name>Saint Thomas Middle Island</name>
+        <admin>Saint Kitts and Nevis</admin>
+        <type_en>Parish</type_en>
+        <region>Saint Kitts</region>
+        <woe_id>2346976</woe_id>
+        <longitude>-62</longitude>
+        <woe_name>Saint Thomas Middle Island</woe_name>
+        <fips>SC13</fips>
+        <woe_label>Saint Thomas Middle Island, KN, Saint Kitts and Nevis</woe_label>
+        <latitude>17</latitude>
+        <iso_a2>KN</iso_a2>
+        <postal>TM</postal>
+        <type>Parish</type>
+        <id>KN.TM</id>
+      </desc>
+    </path>
+    <path d="M 265.4518 194.6028 273.8294 219.7357 284.9996 240.6797 279.4145 247.661 296.4457 277.8795 252.8755 280.2438 225.1132 276.5655 193.5219 264.2688 198.431 249.0573 205.4123 230.9058 222.1675 222.5282 230.5451 193.2066 250.0929 193.2066 265.4518 194.6028 Z" id="KN.TP" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>KN.TP</code_hasc>
+        <name>Trinity Palmetto Point</name>
+        <admin>Saint Kitts and Nevis</admin>
+        <type_en>Parish</type_en>
+        <region>Saint Kitts</region>
+        <woe_id>2346977</woe_id>
+        <longitude>-62</longitude>
+        <woe_name>Trinity Palmetto Point</woe_name>
+        <fips>SC14</fips>
+        <woe_label>Trinity Palmetto Point, KN, Saint Kitts and Nevis</woe_label>
+        <latitude>17</latitude>
+        <iso_a2>KN</iso_a2>
+        <postal>TP</postal>
+        <type>Parish</type>
+        <id>KN.TP</id>
+      </desc>
+    </path>
+  </g>
+</svg>

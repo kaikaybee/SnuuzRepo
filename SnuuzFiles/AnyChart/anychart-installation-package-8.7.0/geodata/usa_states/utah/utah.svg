@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="utah">
+    <path d="M 368.2847 698.205 392.1344 695.0251 403.2642 683.8952 428.7039 682.3052 441.4237 671.1754 444.6036 658.4556 463.6834 650.5057 465.2733 631.426 476.4032 623.4761 497.0729 604.3964 509.7927 575.7768 535.2323 574.1868 546.3622 558.287 555.9021 558.287 563.8519 543.9772 576.5718 537.6173 578.1617 521.7175 560.672 505.8178 562.262 489.918 697.41 489.918 699 536.0273 699 620.2961 699 698.205 617.9112 698.205 500.2528 698.205 495.4829 698.205 368.2847 698.205 Z" id="US.UT.037" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>San Juan County</name>
+        <stateAbbrev>UT</stateAbbrev>
+        <state>Utah</state>
+        <fips>037</fips>
+        <incits>49037</incits>
+        <id>US.UT.037</id>
+        <population>14973</population>
+      </desc>
+    </path>
+    <path d="M 318.9954 489.918 384.1845 488.328 384.1845 489.918 562.262 489.918 560.672 505.8178 578.1617 521.7175 576.5718 537.6173 470.0433 537.6173 309.4556 537.6173 307.8656 499.4579 318.9954 489.918 Z" id="US.UT.055" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wayne County</name>
+        <stateAbbrev>UT</stateAbbrev>
+        <state>Utah</state>
+        <fips>055</fips>
+        <incits>49055</incits>
+        <id>US.UT.055</id>
+        <population>2747</population>
+      </desc>
+    </path>
+    <path d="M 562.262 354.7699 691.0501 354.7699 697.41 350 697.41 489.918 562.262 489.918 567.0319 480.3781 551.1321 462.8884 552.7221 451.7585 543.1822 439.0387 546.3622 429.4989 546.3622 407.2392 555.9021 381.7995 562.262 370.6697 562.262 354.7699 Z" id="US.UT.019" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Grand County</name>
+        <stateAbbrev>UT</stateAbbrev>
+        <state>Utah</state>
+        <fips>019</fips>
+        <incits>49019</incits>
+        <id>US.UT.019</id>
+        <population>9360</population>
+      </desc>
+    </path>
+    <path d="M 565.4419 167.1526 565.4419 141.713 699 140.123 699 189.4123 683.1002 184.6424 676.7403 160.7927 649.7107 160.7927 649.7107 170.3326 638.5809 176.6925 630.631 165.5626 584.5216 173.5125 568.6219 167.1526 565.4419 167.1526 Z" id="US.UT.009" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Daggett County</name>
+        <stateAbbrev>UT</stateAbbrev>
+        <state>Utah</state>
+        <fips>009</fips>
+        <incits>49009</incits>
+        <id>US.UT.009</id>
+        <population>1127</population>
+      </desc>
+    </path>
+    <path d="M 570.2118 307.0706 568.6219 167.1526 584.5216 173.5125 630.631 165.5626 638.5809 176.6925 649.7107 170.3326 649.7107 160.7927 676.7403 160.7927 683.1002 184.6424 699 189.4123 697.41 278.451 697.41 350 691.0501 354.7699 562.262 354.7699 560.672 340.4601 570.2118 321.3804 570.2118 307.0706 Z" id="US.UT.047" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Uintah County</name>
+        <stateAbbrev>UT</stateAbbrev>
+        <state>Utah</state>
+        <fips>047</fips>
+        <incits>49047</incits>
+        <id>US.UT.047</id>
+        <population>35555</population>
+      </desc>
+    </path>
+    <path d="M 355.5649 81.2938 365.1048 66.9841 366.6948 46.3144 360.3349 11.3349 355.5649 1.795 420.754 1.795 419.164 105.1435 388.9544 121.0433 395.3144 114.6834 379.4146 90.8337 368.2847 90.8337 355.5649 81.2938 Z" id="US.UT.033" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Rich County</name>
+        <stateAbbrev>UT</stateAbbrev>
+        <state>Utah</state>
+        <fips>033</fips>
+        <incits>49033</incits>
+        <id>US.UT.033</id>
+        <population>2288</population>
+      </desc>
+    </path>
+    <path d="M 336.4852 168.7426 353.9749 170.3326 358.7449 160.7927 352.385 133.7631 373.0547 128.9932 388.9544 121.0433 419.164 105.1435 419.164 141.713 565.4419 141.713 565.4419 167.1526 528.8724 163.9727 512.9727 170.3326 474.8132 176.6925 460.5034 176.6925 439.8337 186.2323 430.2938 197.3622 409.6241 197.3622 406.4442 203.7221 374.6446 192.5923 349.205 195.7722 336.4852 168.7426 Z" id="US.UT.043" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Summit County</name>
+        <stateAbbrev>UT</stateAbbrev>
+        <state>Utah</state>
+        <fips>043</fips>
+        <incits>49043</incits>
+        <id>US.UT.043</id>
+        <population>38486</population>
+      </desc>
+    </path>
+    <path d="M 264.9362 1.795 279.246 20.8747 280.836 38.3645 287.1959 63.8041 298.3257 65.3941 303.0957 81.2938 282.426 94.0137 253.8064 94.0137 218.8269 130.5831 175.8975 140.123 2.59 141.713 2.59 1.795 23.2597 3.385 164.7677 1.795 264.9362 1.795 Z" id="US.UT.003" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Box Elder County</name>
+        <stateAbbrev>UT</stateAbbrev>
+        <state>Utah</state>
+        <fips>003</fips>
+        <incits>49003</incits>
+        <id>US.UT.003</id>
+        <population>50794</population>
+      </desc>
+    </path>
+    <path d="M 264.9362 1.795 355.5649 1.795 360.3349 11.3349 366.6948 46.3144 365.1048 66.9841 355.5649 81.2938 333.3052 81.2938 325.3554 89.2437 303.0957 81.2938 298.3257 65.3941 287.1959 63.8041 280.836 38.3645 279.246 20.8747 264.9362 1.795 Z" id="US.UT.005" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cache County</name>
+        <stateAbbrev>UT</stateAbbrev>
+        <state>Utah</state>
+        <fips>005</fips>
+        <incits>49005</incits>
+        <id>US.UT.005</id>
+        <population>116909</population>
+      </desc>
+    </path>
+    <path d="M 1 478.7882 78.9089 478.7882 215.6469 478.7882 215.6469 488.328 217.2369 494.6879 239.4966 512.1777 226.7768 537.6173 220.4169 539.2073 109.1185 537.6173 1 537.6173 1 478.7882 Z" id="US.UT.001" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Beaver County</name>
+        <stateAbbrev>UT</stateAbbrev>
+        <state>Utah</state>
+        <fips>001</fips>
+        <incits>49001</incits>
+        <id>US.UT.001</id>
+        <population>6459</population>
+      </desc>
+    </path>
+    <path d="M 392.1344 321.3804 392.1344 305.4806 446.1936 307.0706 570.2118 307.0706 570.2118 321.3804 560.672 340.4601 562.262 354.7699 415.9841 354.7699 408.0342 334.1002 392.1344 321.3804 Z" id="US.UT.007" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Carbon County</name>
+        <stateAbbrev>UT</stateAbbrev>
+        <state>Utah</state>
+        <fips>007</fips>
+        <incits>49007</incits>
+        <id>US.UT.007</id>
+        <population>20988</population>
+      </desc>
+    </path>
+    <path d="M 218.8269 130.5831 260.1663 119.4533 307.8656 121.0433 309.4556 136.9431 323.7654 160.7927 304.6856 165.5626 291.9658 160.7927 285.6059 151.2528 250.6264 173.5125 218.8269 130.5831 Z" id="US.UT.011" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Davis County</name>
+        <stateAbbrev>UT</stateAbbrev>
+        <state>Utah</state>
+        <fips>011</fips>
+        <incits>49011</incits>
+        <id>US.UT.011</id>
+        <population>322094</population>
+      </desc>
+    </path>
+    <path d="M 565.4419 167.1526 568.6219 167.1526 570.2118 307.0706 446.1936 307.0706 441.4237 294.3508 439.8337 186.2323 460.5034 176.6925 474.8132 176.6925 512.9727 170.3326 528.8724 163.9727 565.4419 167.1526 Z" id="US.UT.013" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Duchesne County</name>
+        <stateAbbrev>UT</stateAbbrev>
+        <state>Utah</state>
+        <fips>013</fips>
+        <incits>49013</incits>
+        <id>US.UT.013</id>
+        <population>20308</population>
+      </desc>
+    </path>
+    <path d="M 384.1845 415.1891 384.1845 354.7699 392.1344 354.7699 392.1344 321.3804 408.0342 334.1002 415.9841 354.7699 562.262 354.7699 562.262 370.6697 555.9021 381.7995 546.3622 407.2392 546.3622 429.4989 543.1822 439.0387 552.7221 451.7585 551.1321 462.8884 567.0319 480.3781 562.262 489.918 384.1845 489.918 384.1845 488.328 384.1845 415.1891 Z" id="US.UT.015" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Emery County</name>
+        <stateAbbrev>UT</stateAbbrev>
+        <state>Utah</state>
+        <fips>015</fips>
+        <incits>49015</incits>
+        <id>US.UT.015</id>
+        <population>10749</population>
+      </desc>
+    </path>
+    <path d="M 220.4169 539.2073 226.7768 537.6173 309.4556 537.6173 470.0433 537.6173 576.5718 537.6173 563.8519 543.9772 555.9021 558.287 546.3622 558.287 535.2323 574.1868 509.7927 575.7768 497.0729 604.3964 476.4032 623.4761 326.9453 623.4761 236.3166 623.4761 191.7973 623.4761 190.2073 585.3166 206.1071 585.3166 206.1071 575.7768 222.0068 572.5968 220.4169 539.2073 Z" id="US.UT.017" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Garfield County</name>
+        <stateAbbrev>UT</stateAbbrev>
+        <state>Utah</state>
+        <fips>017</fips>
+        <incits>49017</incits>
+        <id>US.UT.017</id>
+        <population>5083</population>
+      </desc>
+    </path>
+    <path d="M 1 537.6173 109.1185 537.6173 220.4169 539.2073 222.0068 572.5968 206.1071 575.7768 206.1071 585.3166 190.2073 585.3166 191.7973 623.4761 161.5877 621.8861 161.5877 628.246 142.508 633.0159 112.2984 631.426 112.2984 625.0661 80.4989 625.0661 80.4989 612.3462 64.5991 613.9362 1 613.9362 1 537.6173 Z" id="US.UT.021" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Iron County</name>
+        <stateAbbrev>UT</stateAbbrev>
+        <state>Utah</state>
+        <fips>021</fips>
+        <incits>49021</incits>
+        <id>US.UT.021</id>
+        <population>46780</population>
+      </desc>
+    </path>
+    <path d="M 1 292.7608 175.8975 294.3508 239.4966 292.7608 261.7563 278.451 274.4761 286.4009 280.836 311.8405 290.3759 307.0706 299.9157 294.3508 311.0456 289.5809 336.4852 307.0706 344.4351 310.2506 326.9453 322.9704 326.9453 356.3599 322.1754 365.8998 298.3257 365.8998 284.0159 375.4396 260.1663 372.2597 256.9863 342.0501 204.5171 342.0501 34.3895 342.0501 1 343.6401 1 292.7608 Z" id="US.UT.023" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Juab County</name>
+        <stateAbbrev>UT</stateAbbrev>
+        <state>Utah</state>
+        <fips>023</fips>
+        <incits>49023</incits>
+        <id>US.UT.023</id>
+        <population>10348</population>
+      </desc>
+    </path>
+    <path d="M 191.7973 623.4761 236.3166 623.4761 326.9453 623.4761 476.4032 623.4761 465.2733 631.426 463.6834 650.5057 444.6036 658.4556 441.4237 671.1754 428.7039 682.3052 403.2642 683.8952 392.1344 695.0251 368.2847 698.205 287.1959 698.205 161.5877 698.205 161.5877 628.246 161.5877 621.8861 191.7973 623.4761 Z" id="US.UT.025" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Kane County</name>
+        <stateAbbrev>UT</stateAbbrev>
+        <state>Utah</state>
+        <fips>025</fips>
+        <incits>49025</incits>
+        <id>US.UT.025</id>
+        <population>7260</population>
+      </desc>
+    </path>
+    <path d="M 1 478.7882 1 343.6401 34.3895 342.0501 204.5171 342.0501 256.9863 342.0501 260.1663 372.2597 284.0159 375.4396 285.6059 413.5991 277.656 424.7289 268.1162 426.3189 255.3964 439.0387 253.8064 458.1185 244.2665 464.4784 225.1868 464.4784 215.6469 478.7882 78.9089 478.7882 1 478.7882 Z" id="US.UT.027" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Millard County</name>
+        <stateAbbrev>UT</stateAbbrev>
+        <state>Utah</state>
+        <fips>027</fips>
+        <incits>49027</incits>
+        <id>US.UT.027</id>
+        <population>12662</population>
+      </desc>
+    </path>
+    <path d="M 368.2847 90.8337 379.4146 90.8337 395.3144 114.6834 388.9544 121.0433 373.0547 128.9932 352.385 133.7631 358.7449 160.7927 353.9749 170.3326 336.4852 168.7426 323.7654 160.7927 309.4556 136.9431 307.8656 121.0433 318.9954 109.9134 334.8952 114.6834 342.8451 108.3235 357.1549 109.9134 368.2847 90.8337 Z" id="US.UT.029" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Morgan County</name>
+        <stateAbbrev>UT</stateAbbrev>
+        <state>Utah</state>
+        <fips>029</fips>
+        <incits>49029</incits>
+        <id>US.UT.029</id>
+        <population>10173</population>
+      </desc>
+    </path>
+    <path d="M 215.6469 488.328 277.656 488.328 318.9954 489.918 307.8656 499.4579 309.4556 537.6173 226.7768 537.6173 239.4966 512.1777 217.2369 494.6879 215.6469 488.328 Z" id="US.UT.031" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Piute County</name>
+        <stateAbbrev>UT</stateAbbrev>
+        <state>Utah</state>
+        <fips>031</fips>
+        <incits>49031</incits>
+        <id>US.UT.031</id>
+        <population>1510</population>
+      </desc>
+    </path>
+    <path d="M 250.6264 173.5125 285.6059 151.2528 291.9658 160.7927 304.6856 165.5626 323.7654 160.7927 336.4852 168.7426 349.205 195.7722 342.8451 198.9522 320.5854 206.9021 290.3759 222.8018 263.3462 214.8519 260.1663 183.0524 250.6264 173.5125 Z" id="US.UT.035" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Salt Lake County</name>
+        <stateAbbrev>UT</stateAbbrev>
+        <state>Utah</state>
+        <fips>035</fips>
+        <incits>49035</incits>
+        <id>US.UT.035</id>
+        <population>1079721</population>
+      </desc>
+    </path>
+    <path d="M 284.0159 375.4396 298.3257 365.8998 322.1754 365.8998 326.9453 356.3599 326.9453 322.9704 344.4351 310.2506 336.4852 307.0706 392.1344 305.4806 392.1344 321.3804 392.1344 354.7699 384.1845 354.7699 384.1845 415.1891 307.8656 415.1891 285.6059 413.5991 284.0159 375.4396 Z" id="US.UT.039" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Sanpete County</name>
+        <stateAbbrev>UT</stateAbbrev>
+        <state>Utah</state>
+        <fips>039</fips>
+        <incits>49039</incits>
+        <id>US.UT.039</id>
+        <population>28237</population>
+      </desc>
+    </path>
+    <path d="M 215.6469 478.7882 225.1868 464.4784 244.2665 464.4784 253.8064 458.1185 255.3964 439.0387 268.1162 426.3189 277.656 424.7289 285.6059 413.5991 307.8656 415.1891 384.1845 415.1891 384.1845 488.328 318.9954 489.918 277.656 488.328 215.6469 488.328 215.6469 478.7882 Z" id="US.UT.041" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Sevier County</name>
+        <stateAbbrev>UT</stateAbbrev>
+        <state>Utah</state>
+        <fips>041</fips>
+        <incits>49041</incits>
+        <id>US.UT.041</id>
+        <population>20852</population>
+      </desc>
+    </path>
+    <path d="M 2.59 141.713 175.8975 140.123 218.8269 130.5831 250.6264 173.5125 260.1663 183.0524 263.3462 214.8519 260.1663 243.4715 266.5262 256.1913 261.7563 278.451 239.4966 292.7608 175.8975 294.3508 1 292.7608 2.59 224.3918 2.59 141.713 Z" id="US.UT.045" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Tooele County</name>
+        <stateAbbrev>UT</stateAbbrev>
+        <state>Utah</state>
+        <fips>045</fips>
+        <incits>49045</incits>
+        <id>US.UT.045</id>
+        <population>60762</population>
+      </desc>
+    </path>
+    <path d="M 263.3462 214.8519 290.3759 222.8018 320.5854 206.9021 342.8451 198.9522 344.4351 219.6219 384.1845 241.8815 395.3144 256.1913 392.1344 272.0911 414.3941 287.9909 414.3941 294.3508 441.4237 294.3508 446.1936 307.0706 392.1344 305.4806 336.4852 307.0706 311.0456 289.5809 299.9157 294.3508 290.3759 307.0706 280.836 311.8405 274.4761 286.4009 261.7563 278.451 266.5262 256.1913 260.1663 243.4715 263.3462 214.8519 Z" id="US.UT.049" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Utah County</name>
+        <stateAbbrev>UT</stateAbbrev>
+        <state>Utah</state>
+        <fips>049</fips>
+        <incits>49049</incits>
+        <id>US.UT.049</id>
+        <population>551891</population>
+      </desc>
+    </path>
+    <path d="M 342.8451 198.9522 349.205 195.7722 374.6446 192.5923 406.4442 203.7221 409.6241 197.3622 430.2938 197.3622 439.8337 186.2323 441.4237 294.3508 414.3941 294.3508 414.3941 287.9909 392.1344 272.0911 395.3144 256.1913 384.1845 241.8815 344.4351 219.6219 342.8451 198.9522 Z" id="US.UT.051" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wasatch County</name>
+        <stateAbbrev>UT</stateAbbrev>
+        <state>Utah</state>
+        <fips>051</fips>
+        <incits>49051</incits>
+        <id>US.UT.051</id>
+        <population>26437</population>
+      </desc>
+    </path>
+    <path d="M 1 613.9362 64.5991 613.9362 80.4989 612.3462 80.4989 625.0661 112.2984 625.0661 112.2984 631.426 142.508 633.0159 161.5877 628.246 161.5877 698.205 1 698.205 1 613.9362 Z" id="US.UT.053" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Washington County</name>
+        <stateAbbrev>UT</stateAbbrev>
+        <state>Utah</state>
+        <fips>053</fips>
+        <incits>49053</incits>
+        <id>US.UT.053</id>
+        <population>147800</population>
+      </desc>
+    </path>
+    <path d="M 218.8269 130.5831 253.8064 94.0137 282.426 94.0137 303.0957 81.2938 325.3554 89.2437 333.3052 81.2938 355.5649 81.2938 368.2847 90.8337 357.1549 109.9134 342.8451 108.3235 334.8952 114.6834 318.9954 109.9134 307.8656 121.0433 260.1663 119.4533 218.8269 130.5831 Z" id="US.UT.057" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Weber County</name>
+        <stateAbbrev>UT</stateAbbrev>
+        <state>Utah</state>
+        <fips>057</fips>
+        <incits>49057</incits>
+        <id>US.UT.057</id>
+        <population>238519</population>
+      </desc>
+    </path>
+  </g>
+</svg>

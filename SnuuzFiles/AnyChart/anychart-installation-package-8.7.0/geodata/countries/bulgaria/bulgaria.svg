@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="bulgaria">
+    <path d="M 475.4532 318.6367 475.4532 328.6463 476.1205 351.3346 466.7782 357.3403 477.4551 366.0153 484.7954 362.6788 482.7935 374.0229 472.7839 380.696 456.1013 382.6979 449.4283 398.0459 438.7514 397.3786 437.4168 404.0516 430.0765 406.0535 430.7438 412.0593 436.0822 413.3939 425.4054 443.4226 413.3939 444.0899 407.3881 437.4168 408.0554 426.0727 392.0402 386.0344 398.0459 381.3633 390.7055 348.6654 408.0554 348.6654 418.065 343.9943 420.7342 333.3174 430.7438 323.9751 441.4207 317.9694 442.7553 311.2964 449.4283 310.6291 452.0975 315.3002 466.7782 313.9656 475.4532 318.6367 Z" id="BG.SL" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>BG.SL</code_hasc>
+        <name>Sliven</name>
+        <admin>Bulgaria</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>20070049</woe_id>
+        <longitude>26</longitude>
+        <woe_name>Sliven</woe_name>
+        <fips>BU39</fips>
+        <woe_label>Sliven, BG, Bulgaria</woe_label>
+        <latitude>42</latitude>
+        <iso_a2>BG</iso_a2>
+        <postal>SL</postal>
+        <type>Oblast</type>
+        <id>BG.SL</id>
+      </desc>
+    </path>
+    <path d="M 426.0727 460.7725 446.0918 466.7782 451.4302 476.7878 459.4379 471.4493 464.109 484.1281 472.1166 485.4627 469.4474 494.1377 447.4264 499.4761 447.4264 510.8203 435.4149 505.4818 422.0688 508.8184 416.0631 512.1549 416.0631 520.8298 400.0478 533.5086 384.6998 517.4933 377.3595 524.1663 368.6845 524.1663 364.6807 522.1644 368.0172 512.1549 362.6788 502.8126 356.673 498.8088 350 500.8107 340.6577 489.4665 324.6424 493.4704 322.6405 480.1243 331.9828 470.1147 329.9809 446.0918 335.3193 447.4264 348.6654 451.4302 351.3346 441.4207 364.6807 437.4168 368.0172 439.4187 366.0153 446.7591 372.6883 446.0918 382.6979 457.4359 396.044 448.0937 404.7189 450.7629 416.7304 464.109 426.0727 460.7725 Z" id="BG.KK" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>BG.KK</code_hasc>
+        <name>Haskovo</name>
+        <admin>Bulgaria</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>20070073</woe_id>
+        <longitude>25</longitude>
+        <woe_name>Haskovo</woe_name>
+        <fips>BU43</fips>
+        <woe_label>Khaskovo, BG, Bulgaria</woe_label>
+        <latitude>41</latitude>
+        <iso_a2>BG</iso_a2>
+        <postal>KK</postal>
+        <type>Oblast</type>
+        <id>BG.KK</id>
+      </desc>
+    </path>
+    <path d="M 390.7055 348.6654 398.0459 381.3633 392.0402 386.0344 408.0554 426.0727 407.3881 437.4168 413.3939 444.0899 425.4054 443.4226 426.0727 460.7725 416.7304 464.109 404.7189 450.7629 396.044 448.0937 382.6979 457.4359 372.6883 446.0918 366.0153 446.7591 368.0172 439.4187 364.6807 437.4168 351.3346 441.4207 348.6654 451.4302 335.3193 447.4264 327.979 440.086 316.6348 444.0899 307.9598 437.4168 307.9598 426.0727 315.3002 422.7361 311.2964 404.7189 321.3059 402.717 317.3021 388.7036 308.6272 389.3709 302.6214 383.3652 301.2868 352.6692 324.6424 349.3327 327.979 354.0038 343.9943 355.3384 362.6788 350 368.6845 355.3384 369.3518 350.6673 390.7055 348.6654 Z" id="BG.SZ" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>BG.SZ</code_hasc>
+        <name>Stara Zagora</name>
+        <admin>Bulgaria</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>20070054</woe_id>
+        <longitude>25</longitude>
+        <woe_name>Stara Zagora</woe_name>
+        <fips>BU43</fips>
+        <woe_label>Stara Zagora, BG, Bulgaria</woe_label>
+        <latitude>42</latitude>
+        <iso_a2>BG</iso_a2>
+        <postal>SZ</postal>
+        <type>Oblast</type>
+        <id>BG.SZ</id>
+      </desc>
+    </path>
+    <path d="M 233.2218 378.6941 231.2199 393.3748 243.8987 438.0841 236.5583 443.4226 235.2237 471.4493 214.5373 502.1453 203.8604 503.4799 205.195 498.1415 200.5239 494.1377 191.1816 493.4704 194.5182 501.478 191.1816 509.4857 161.153 482.1262 157.8164 470.1147 165.1568 444.0899 159.1511 434.0803 173.8317 417.3977 181.8394 421.4015 182.5067 402.717 191.1816 400.7151 193.1836 394.7094 179.1702 385.3671 177.1683 375.3576 191.8489 378.6941 213.87 368.0172 233.2218 378.6941 Z" id="BG.PZ" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>BG.PZ</code_hasc>
+        <name>Pazardzhik</name>
+        <admin>Bulgaria</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>20070066</woe_id>
+        <longitude>24</longitude>
+        <woe_name>Pazardzhik</woe_name>
+        <fips>BU51</fips>
+        <woe_label>Pazardzhik, BG, Bulgaria</woe_label>
+        <latitude>42</latitude>
+        <iso_a2>BG</iso_a2>
+        <postal>PZ</postal>
+        <type>Oblast</type>
+        <id>BG.PZ</id>
+      </desc>
+    </path>
+    <path d="M 301.2868 350.6673 301.2868 352.6692 302.6214 383.3652 308.6272 389.3709 317.3021 388.7036 321.3059 402.717 311.2964 404.7189 315.3002 422.7361 307.9598 426.0727 307.9598 437.4168 316.6348 444.0899 327.979 440.086 335.3193 447.4264 329.9809 446.0918 331.9828 470.1147 322.6405 480.1243 313.9656 483.4608 304.6233 496.1396 296.6157 489.4665 289.2753 490.8011 275.9293 475.4532 264.5851 474.1185 247.9025 481.4589 235.2237 471.4493 236.5583 443.4226 243.8987 438.0841 231.2199 393.3748 233.2218 378.6941 240.5621 373.3556 229.8853 363.3461 233.2218 349.3327 254.5755 345.3289 272.5927 357.3403 291.9446 357.3403 301.2868 350.6673 Z" id="BG.PD" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>BG.PD</code_hasc>
+        <name>Plovdiv</name>
+        <admin>Bulgaria</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>20070068</woe_id>
+        <longitude>24</longitude>
+        <woe_name>Plovdiv</woe_name>
+        <fips>BU51</fips>
+        <woe_label>Plovdiv, BG, Bulgaria</woe_label>
+        <latitude>42</latitude>
+        <iso_a2>BG</iso_a2>
+        <postal>PD</postal>
+        <type>Oblast</type>
+        <id>BG.PD</id>
+      </desc>
+    </path>
+    <path d="M 304.6233 496.1396 301.2868 501.478 306.6252 521.4971 295.2811 528.8375 303.956 542.1836 311.9637 537.5124 312.631 570.2103 282.6023 555.5296 273.26 556.1969 269.9235 562.87 261.2486 553.5277 247.9025 548.8566 240.5621 530.1721 215.8719 536.1778 211.2008 528.8375 205.195 530.8394 191.8489 518.8279 197.1874 514.8241 191.1816 509.4857 194.5182 501.478 191.1816 493.4704 200.5239 494.1377 205.195 498.1415 203.8604 503.4799 214.5373 502.1453 235.2237 471.4493 247.9025 481.4589 264.5851 474.1185 275.9293 475.4532 289.2753 490.8011 296.6157 489.4665 304.6233 496.1396 Z" id="BG.SM" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>BG.SM</code_hasc>
+        <name>Smolyan</name>
+        <admin>Bulgaria</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>20070067</woe_id>
+        <longitude>24</longitude>
+        <woe_name>Smolyan</woe_name>
+        <fips>BU51</fips>
+        <woe_label>Smolyan, BG, Bulgaria</woe_label>
+        <latitude>41</latitude>
+        <iso_a2>BG</iso_a2>
+        <postal>SM</postal>
+        <type>Oblast</type>
+        <id>BG.SM</id>
+      </desc>
+    </path>
+    <path d="M 322.6405 480.1243 324.6424 493.4704 340.6577 489.4665 350 500.8107 356.673 498.8088 362.6788 502.8126 368.0172 512.1549 364.6807 522.1644 368.6845 524.1663 377.3595 524.1663 384.6998 517.4933 400.0478 533.5086 416.0631 520.8298 428.0746 538.847 429.4092 553.5277 422.0688 564.8719 395.3767 572.2122 387.369 566.2065 372.6883 572.8795 358.0076 570.2103 352.6692 574.8815 324.6424 580.8872 312.631 570.2103 311.9637 537.5124 303.956 542.1836 295.2811 528.8375 306.6252 521.4971 301.2868 501.478 304.6233 496.1396 313.9656 483.4608 322.6405 480.1243 Z" id="BG.KZ" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>BG.KZ</code_hasc>
+        <name>Kardzhali</name>
+        <admin>Bulgaria</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>20070053</woe_id>
+        <longitude>25</longitude>
+        <woe_name>Kardzhali</woe_name>
+        <fips>GR01</fips>
+        <woe_label>Kurdzhali, BG, Bulgaria</woe_label>
+        <latitude>41</latitude>
+        <iso_a2>BG</iso_a2>
+        <postal>KZ</postal>
+        <type>Oblast</type>
+        <id>BG.KZ</id>
+      </desc>
+    </path>
+    <path d="M 107.1013 378.6941 95.0899 369.3518 93.7553 358.0076 83.7457 350.6673 87.7495 345.9962 99.0937 347.3308 109.1033 323.3078 123.1166 331.3155 145.805 330.6482 133.1262 360.6769 148.4742 394.7094 135.1281 394.7094 133.7935 380.696 129.1224 379.3614 123.7839 388.0363 107.1013 378.6941 Z" id="BG.SG" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>BG.SG</code_hasc>
+        <name>Grad Sofiya</name>
+        <admin>Bulgaria</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>20069794</woe_id>
+        <longitude>23</longitude>
+        <woe_name>Grad Sofiya</woe_name>
+        <fips>BU42</fips>
+        <woe_label>Sofiya-Grad, BG, Bulgaria</woe_label>
+        <latitude>42</latitude>
+        <iso_a2>BG</iso_a2>
+        <postal>SG</postal>
+        <type>Oblast</type>
+        <id>BG.SG</id>
+      </desc>
+    </path>
+    <path d="M 124.4512 283.9369 131.7916 285.9388 128.4551 291.9446 140.4665 307.9598 149.8088 301.2868 156.4818 305.2906 164.4895 299.9522 183.174 306.6252 187.8451 301.9541 206.5296 325.3098 206.5296 344.6616 233.2218 349.3327 229.8853 363.3461 240.5621 373.3556 233.2218 378.6941 213.87 368.0172 191.8489 378.6941 177.1683 375.3576 179.1702 385.3671 193.1836 394.7094 191.1816 400.7151 182.5067 402.717 181.8394 421.4015 173.8317 417.3977 159.1511 434.0803 141.1338 437.4168 134.4608 447.4264 128.4551 444.7572 132.4589 439.4187 121.782 431.4111 111.7725 432.7457 119.1128 420.0669 107.7686 402.717 99.0937 402.0497 107.1013 378.6941 123.7839 388.0363 129.1224 379.3614 133.7935 380.696 135.1281 394.7094 148.4742 394.7094 133.1262 360.6769 145.805 330.6482 123.1166 331.3155 109.1033 323.3078 99.0937 347.3308 87.7495 345.9962 83.7457 350.6673 80.4092 342.6597 63.7266 334.652 61.0574 327.3117 55.7189 329.3136 49.7132 319.9713 54.3843 307.9598 75.0707 289.9426 79.0746 277.9312 83.7457 277.2639 94.4226 289.2753 104.4321 290.6099 124.4512 283.9369 Z" id="BG.SF" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>BG.SF</code_hasc>
+        <name>Sofia</name>
+        <admin>Bulgaria</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>20070061</woe_id>
+        <longitude>23</longitude>
+        <woe_name>Sofia</woe_name>
+        <fips>BU42</fips>
+        <woe_label>Sofiya, BG, Bulgaria</woe_label>
+        <latitude>42</latitude>
+        <iso_a2>BG</iso_a2>
+        <postal>SF</postal>
+        <type>Oblast</type>
+        <id>BG.SF</id>
+      </desc>
+    </path>
+    <path d="M 83.7457 350.6673 93.7553 358.0076 95.0899 369.3518 107.1013 378.6941 99.0937 402.0497 86.4149 397.3786 85.0803 401.3824 75.0707 397.3786 57.7208 402.0497 31.696 361.3442 14.3461 358.675 19.6845 343.9943 15.6807 329.9809 23.6883 323.3078 49.7132 319.9713 55.7189 329.3136 61.0574 327.3117 63.7266 334.652 80.4092 342.6597 83.7457 350.6673 Z" id="BG.PN" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>BG.PN</code_hasc>
+        <name>Pernik</name>
+        <admin>Bulgaria</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>20070058</woe_id>
+        <longitude>22</longitude>
+        <woe_name>Pernik</woe_name>
+        <fips>BU58</fips>
+        <woe_label>Pernik, BG, Bulgaria</woe_label>
+        <latitude>42</latitude>
+        <iso_a2>BG</iso_a2>
+        <postal>PN</postal>
+        <type>Oblast</type>
+        <id>BG.PN</id>
+      </desc>
+    </path>
+    <path d="M 309.9618 287.2734 317.3021 297.9503 332.6501 298.6176 337.9885 307.2925 363.3461 310.6291 362.0115 324.6424 370.6864 332.6501 369.3518 350.6673 368.6845 355.3384 362.6788 350 343.9943 355.3384 327.979 354.0038 324.6424 349.3327 301.2868 352.6692 301.2868 350.6673 297.9503 336.6539 287.9407 329.3136 286.6061 315.9675 299.9522 284.6042 309.9618 287.2734 Z" id="BG.GB" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>BG.GB</code_hasc>
+        <name>Gabrovo</name>
+        <admin>Bulgaria</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>20070062</woe_id>
+        <longitude>25</longitude>
+        <woe_name>Gabrovo</woe_name>
+        <fips>BU46</fips>
+        <woe_label>Gabrovo, BG, Bulgaria</woe_label>
+        <latitude>42</latitude>
+        <iso_a2>BG</iso_a2>
+        <postal>GB</postal>
+        <type>Oblast</type>
+        <id>BG.GB</id>
+      </desc>
+    </path>
+    <path d="M 314.6329 272.5927 314.6329 281.935 309.9618 287.2734 299.9522 284.6042 286.6061 315.9675 287.9407 329.3136 297.9503 336.6539 301.2868 350.6673 291.9446 357.3403 272.5927 357.3403 254.5755 345.3289 233.2218 349.3327 206.5296 344.6616 206.5296 325.3098 187.8451 301.9541 186.5105 293.2792 192.5163 294.6138 194.5182 279.2658 206.5296 273.26 217.2065 277.9312 235.2237 270.5908 240.5621 277.9312 254.5755 282.6023 275.262 267.2543 293.9465 269.2562 305.9579 259.2467 314.6329 272.5927 Z" id="BG.LV" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>BG.LV</code_hasc>
+        <name>Lovech</name>
+        <admin>Bulgaria</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>20070064</woe_id>
+        <longitude>24</longitude>
+        <woe_name>Lovech</woe_name>
+        <fips>BU46</fips>
+        <woe_label>Lovech, BG, Bulgaria</woe_label>
+        <latitude>43</latitude>
+        <iso_a2>BG</iso_a2>
+        <postal>LV</postal>
+        <type>Oblast</type>
+        <id>BG.LV</id>
+      </desc>
+    </path>
+    <path d="M 334.652 210.5335 328.6463 215.8719 323.9751 225.8815 327.3117 232.5545 317.9694 245.2333 323.9751 247.9025 327.3117 263.9178 314.6329 272.5927 305.9579 259.2467 293.9465 269.2562 275.262 267.2543 254.5755 282.6023 240.5621 277.9312 235.2237 270.5908 217.2065 277.9312 206.5296 273.26 194.5182 279.2658 185.8432 273.9273 189.1797 266.587 217.2065 259.914 217.8738 238.5602 212.5354 237.2256 206.5296 222.5449 225.2141 211.8681 231.2199 197.8547 245.9006 191.1816 271.2581 201.1912 299.9522 201.1912 334.652 210.5335 Z" id="BG.PV" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>BG.PV</code_hasc>
+        <name>Pleven</name>
+        <admin>Bulgaria</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>20070065</woe_id>
+        <longitude>24</longitude>
+        <woe_name>Pleven</woe_name>
+        <fips>BU46</fips>
+        <woe_label>Pleven, BG, Bulgaria</woe_label>
+        <latitude>43</latitude>
+        <iso_a2>BG</iso_a2>
+        <postal>PV</postal>
+        <type>Oblast</type>
+        <id>BG.PV</id>
+      </desc>
+    </path>
+    <path d="M 356.673 214.5373 359.3423 222.5449 354.6711 233.2218 365.348 238.5602 363.3461 247.2352 369.3518 253.2409 379.3614 253.2409 390.0382 259.914 405.3862 259.2467 406.7208 266.587 414.7285 267.9216 422.0688 273.26 419.3996 279.2658 424.0707 289.2753 418.7323 301.2868 424.738 312.631 422.7361 319.9713 430.7438 323.9751 420.7342 333.3174 418.065 343.9943 408.0554 348.6654 390.7055 348.6654 369.3518 350.6673 370.6864 332.6501 362.0115 324.6424 363.3461 310.6291 337.9885 307.2925 332.6501 298.6176 317.3021 297.9503 309.9618 287.2734 314.6329 281.935 314.6329 272.5927 327.3117 263.9178 323.9751 247.9025 317.9694 245.2333 327.3117 232.5545 323.9751 225.8815 328.6463 215.8719 334.652 210.5335 342.6597 216.5392 356.673 214.5373 Z" id="BG.VT" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>BG.VT</code_hasc>
+        <name>Veliko Tarnovo</name>
+        <admin>Bulgaria</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>20070063</woe_id>
+        <longitude>25</longitude>
+        <woe_name>Veliko Tarnovo</woe_name>
+        <fips>BU46</fips>
+        <woe_label>Veliko Turnovo, BG, Bulgaria</woe_label>
+        <latitude>42</latitude>
+        <iso_a2>BG</iso_a2>
+        <postal>VT</postal>
+        <type>Oblast</type>
+        <id>BG.VT</id>
+      </desc>
+    </path>
+    <path d="M 153.1453 183.174 152.478 201.8585 144.4704 221.2103 151.8107 229.8853 131.7916 234.5564 118.4455 262.5832 117.7782 266.587 132.4589 273.9273 124.4512 283.9369 104.4321 290.6099 94.4226 289.2753 83.7457 277.2639 79.0746 277.9312 68.3977 270.5908 51.7151 246.5679 60.3901 231.2199 79.7419 226.5488 79.0746 210.5335 89.7514 200.5239 82.4111 190.5143 89.7514 188.5124 91.086 179.1702 121.1147 173.8317 138.4646 175.8337 153.1453 183.174 Z" id="BG.MT" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>BG.MT</code_hasc>
+        <name>Montana</name>
+        <admin>Bulgaria</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>20070056</woe_id>
+        <longitude>23</longitude>
+        <woe_name>Montana</woe_name>
+        <fips>BU47</fips>
+        <woe_label>Montana, BG, Bulgaria</woe_label>
+        <latitude>43</latitude>
+        <iso_a2>BG</iso_a2>
+        <postal>MT</postal>
+        <type>Oblast</type>
+        <id>BG.MT</id>
+      </desc>
+    </path>
+    <path d="M 231.2199 197.8547 225.2141 211.8681 206.5296 222.5449 212.5354 237.2256 217.8738 238.5602 217.2065 259.914 189.1797 266.587 185.8432 273.9273 194.5182 279.2658 192.5163 294.6138 186.5105 293.2792 187.8451 301.9541 183.174 306.6252 164.4895 299.9522 156.4818 305.2906 149.8088 301.2868 140.4665 307.9598 128.4551 291.9446 131.7916 285.9388 124.4512 283.9369 132.4589 273.9273 117.7782 266.587 118.4455 262.5832 131.7916 234.5564 151.8107 229.8853 144.4704 221.2103 152.478 201.8585 153.1453 183.174 166.4914 182.5067 211.8681 197.8547 231.2199 197.8547 Z" id="BG.VR" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>BG.VR</code_hasc>
+        <name>Vratsa</name>
+        <admin>Bulgaria</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>20070057</woe_id>
+        <longitude>23</longitude>
+        <woe_name>Vratsa</woe_name>
+        <fips>BU47</fips>
+        <woe_label>Vratsa, BG, Bulgaria</woe_label>
+        <latitude>43</latitude>
+        <iso_a2>BG</iso_a2>
+        <postal>VR</postal>
+        <type>Oblast</type>
+        <id>BG.VR</id>
+      </desc>
+    </path>
+    <path d="M 99.0937 402.0497 107.7686 402.717 119.1128 420.0669 111.7725 432.7457 121.782 431.4111 132.4589 439.4187 128.4551 444.7572 116.4436 450.0956 95.7572 444.7572 79.7419 450.0956 65.7285 444.0899 55.0516 455.434 20.3518 435.4149 1 406.0535 10.3423 404.7189 23.021 385.3671 23.021 378.0268 12.3442 367.3499 14.3461 358.675 31.696 361.3442 57.7208 402.0497 75.0707 397.3786 85.0803 401.3824 86.4149 397.3786 99.0937 402.0497 Z" id="BG.KY" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>BG.KY</code_hasc>
+        <name>Kyustendil</name>
+        <admin>Bulgaria</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>20070059</woe_id>
+        <longitude>22</longitude>
+        <woe_name>Kyustendil</woe_name>
+        <fips>BU58</fips>
+        <woe_label>Kyustendil, BG, Bulgaria</woe_label>
+        <latitude>42</latitude>
+        <iso_a2>BG</iso_a2>
+        <postal>KY</postal>
+        <type>Oblast</type>
+        <id>BG.KY</id>
+      </desc>
+    </path>
+    <path d="M 91.086 179.1702 89.7514 188.5124 82.4111 190.5143 89.7514 200.5239 79.0746 210.5335 79.7419 226.5488 60.3901 231.2199 51.7151 246.5679 29.6941 231.8872 25.6902 205.195 18.3499 197.1874 14.3461 180.5048 21.0191 153.1453 43.0402 143.1358 45.0421 126.4532 55.0516 119.1128 90.4187 141.1338 89.7514 150.4761 74.4034 155.8145 69.7323 173.1644 76.4054 179.8375 91.086 179.1702 Z" id="BG.VD" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>BG.VD</code_hasc>
+        <name>Vidin</name>
+        <admin>Bulgaria</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>20070055</woe_id>
+        <longitude>22</longitude>
+        <woe_name>Vidin</woe_name>
+        <fips>BU47</fips>
+        <woe_label>Vidin, BG, Bulgaria</woe_label>
+        <latitude>43</latitude>
+        <iso_a2>BG</iso_a2>
+        <postal>VD</postal>
+        <type>Oblast</type>
+        <id>BG.VD</id>
+      </desc>
+    </path>
+    <path d="M 620.9254 339.3231 622.26 360.0096 604.2428 360.0096 605.5774 368.0172 592.8987 372.6883 595.5679 383.3652 580.2199 384.0325 573.5468 397.3786 574.8815 403.3843 575.5488 398.0459 580.2199 402.0497 592.8987 398.7132 595.5679 404.7189 603.5755 404.7189 602.9082 414.7285 610.2486 416.0631 610.9159 420.7342 607.5793 428.7419 633.6042 456.1013 637.608 471.4493 614.2524 468.1128 614.9197 475.4532 600.239 472.1166 584.2237 482.7935 553.5277 454.0994 546.8547 453.4321 542.1836 459.4379 528.1702 455.434 524.8337 440.086 532.8413 416.7304 508.1511 396.7113 491.4685 364.0134 484.7954 362.6788 477.4551 366.0153 466.7782 357.3403 476.1205 351.3346 475.4532 328.6463 483.4608 326.6444 488.1319 333.9847 500.8107 324.6424 525.501 327.979 536.1778 323.9751 548.8566 318.6367 572.2122 334.652 591.5641 330.6482 612.2505 343.327 620.9254 339.3231 Z" id="BG.BR" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>BG.BR</code_hasc>
+        <name>Burgas</name>
+        <admin>Bulgaria</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>20070075</woe_id>
+        <longitude>27</longitude>
+        <woe_name>Burgas</woe_name>
+        <fips>BU39</fips>
+        <woe_label>Burgas, BG, Bulgaria</woe_label>
+        <latitude>42</latitude>
+        <iso_a2>BG</iso_a2>
+        <postal>BR</postal>
+        <type>Oblast</type>
+        <id>BG.BR</id>
+      </desc>
+    </path>
+    <path d="M 528.1702 455.434 516.1587 468.7801 502.8126 472.7839 478.1224 472.7839 471.4493 480.1243 472.1166 485.4627 464.109 484.1281 459.4379 471.4493 451.4302 476.7878 446.0918 466.7782 426.0727 460.7725 425.4054 443.4226 436.0822 413.3939 430.7438 412.0593 430.0765 406.0535 437.4168 404.0516 438.7514 397.3786 449.4283 398.0459 456.1013 382.6979 472.7839 380.696 482.7935 374.0229 484.7954 362.6788 491.4685 364.0134 508.1511 396.7113 532.8413 416.7304 524.8337 440.086 528.1702 455.434 Z" id="BG.YA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>BG.YA</code_hasc>
+        <name>Yambol</name>
+        <admin>Bulgaria</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>20070074</woe_id>
+        <longitude>26</longitude>
+        <woe_name>Yambol</woe_name>
+        <fips>BU39</fips>
+        <woe_label>Yambol, BG, Bulgaria</woe_label>
+        <latitude>42</latitude>
+        <iso_a2>BG</iso_a2>
+        <postal>YA</postal>
+        <type>Oblast</type>
+        <id>BG.YA</id>
+      </desc>
+    </path>
+    <path d="M 522.8317 211.2008 524.1663 215.8719 514.1568 227.8834 508.8184 225.8815 500.1434 233.8891 500.1434 239.8948 492.1358 243.8987 492.1358 254.5755 487.4646 253.9082 487.4646 259.914 478.7897 265.2524 466.1109 263.9178 466.1109 253.9082 452.7648 249.9044 452.7648 243.8987 442.7553 235.2237 433.413 235.2237 432.7457 216.5392 445.4245 217.2065 452.7648 201.1912 440.7533 197.1874 441.4207 191.1816 456.7686 173.1644 475.4532 175.1663 480.7916 185.8432 494.1377 189.1797 497.4742 195.1855 504.8145 189.1797 513.4895 205.195 522.8317 211.2008 Z" id="BG.RG" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>BG.RG</code_hasc>
+        <name>Razgrad</name>
+        <admin>Bulgaria</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>20070071</woe_id>
+        <longitude>26</longitude>
+        <woe_name>Razgrad</woe_name>
+        <fips>BU52</fips>
+        <woe_label>Razgrad, BG, Bulgaria</woe_label>
+        <latitude>43</latitude>
+        <iso_a2>BG</iso_a2>
+        <postal>RG</postal>
+        <type>Oblast</type>
+        <id>BG.RG</id>
+      </desc>
+    </path>
+    <path d="M 492.1358 254.5755 497.4742 255.9101 498.8088 261.2486 493.4704 271.9254 496.8069 285.2715 484.7954 298.6176 488.1319 301.9541 480.1243 311.2964 482.1262 315.9675 475.4532 318.6367 466.7782 313.9656 452.0975 315.3002 449.4283 310.6291 442.7553 311.2964 441.4207 317.9694 430.7438 323.9751 422.7361 319.9713 424.738 312.631 418.7323 301.2868 424.0707 289.2753 419.3996 279.2658 422.0688 273.26 414.7285 267.9216 414.7285 261.2486 406.7208 253.2409 414.7285 247.9025 417.3977 239.8948 433.413 235.2237 442.7553 235.2237 452.7648 243.8987 452.7648 249.9044 466.1109 253.9082 466.1109 263.9178 478.7897 265.2524 487.4646 259.914 487.4646 253.9082 492.1358 254.5755 Z" id="BG.TU" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>BG.TU</code_hasc>
+        <name>Targovishte</name>
+        <admin>Bulgaria</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>20070072</woe_id>
+        <longitude>26</longitude>
+        <woe_name>Targovishte</woe_name>
+        <fips>BU52</fips>
+        <woe_label>Turgovishte, BG, Bulgaria</woe_label>
+        <latitude>43</latitude>
+        <iso_a2>BG</iso_a2>
+        <postal>TU</postal>
+        <type>Oblast</type>
+        <id>BG.TU</id>
+      </desc>
+    </path>
+    <path d="M 544.8528 215.8719 553.5277 225.2141 564.8719 224.5468 568.8757 230.5526 554.195 238.5602 559.5335 239.8948 559.5335 248.5698 552.8604 259.914 556.1969 268.5889 550.1912 271.9254 550.1912 278.5985 540.1816 281.935 546.1874 289.9426 540.1816 304.6233 546.1874 309.9618 531.5067 316.6348 536.1778 323.9751 525.501 327.979 500.8107 324.6424 488.1319 333.9847 483.4608 326.6444 475.4532 328.6463 475.4532 318.6367 482.1262 315.9675 480.1243 311.2964 488.1319 301.9541 484.7954 298.6176 496.8069 285.2715 493.4704 271.9254 498.8088 261.2486 497.4742 255.9101 492.1358 254.5755 492.1358 243.8987 500.1434 239.8948 500.1434 233.8891 508.8184 225.8815 514.1568 227.8834 524.1663 215.8719 522.8317 211.2008 528.8375 207.8642 537.5124 215.8719 544.8528 215.8719 Z" id="BG.SH" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>BG.SH</code_hasc>
+        <name>Shumen</name>
+        <admin>Bulgaria</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>20070052</woe_id>
+        <longitude>26</longitude>
+        <woe_name>Shumen</woe_name>
+        <fips>BU61</fips>
+        <woe_label>Shumen, BG, Bulgaria</woe_label>
+        <latitude>43</latitude>
+        <iso_a2>BG</iso_a2>
+        <postal>SH</postal>
+        <type>Oblast</type>
+        <id>BG.SH</id>
+      </desc>
+    </path>
+    <path d="M 642.9465 262.5832 634.2715 263.2505 625.5966 256.5774 618.2562 261.2486 588.8948 234.5564 580.2199 241.2294 568.8757 230.5526 564.8719 224.5468 553.5277 225.2141 544.8528 215.8719 548.8566 215.8719 546.1874 204.5277 552.8604 197.1874 564.8719 199.8566 563.5373 192.5163 575.5488 191.1816 580.8872 178.5029 588.8948 179.8375 592.2314 169.1606 597.5698 167.826 601.5736 173.1644 622.26 166.4914 630.2677 187.8451 656.2925 201.1912 695.6635 203.1931 699 233.8891 684.9866 259.914 668.304 251.239 650.2868 254.5755 642.9465 262.5832 Z" id="BG.DO" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>BG.DO</code_hasc>
+        <name>Dobrich</name>
+        <admin>Bulgaria</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>20070050</woe_id>
+        <longitude>27</longitude>
+        <woe_name>Dobrich</woe_name>
+        <fips>BU61</fips>
+        <woe_label>Dobrich, BG, Bulgaria</woe_label>
+        <latitude>43</latitude>
+        <iso_a2>BG</iso_a2>
+        <postal>DO</postal>
+        <type>Oblast</type>
+        <id>BG.DO</id>
+      </desc>
+    </path>
+    <path d="M 642.9465 262.5832 634.9388 281.2677 622.9273 285.9388 627.5985 290.6099 620.9254 311.9637 620.9254 339.3231 612.2505 343.327 591.5641 330.6482 572.2122 334.652 548.8566 318.6367 536.1778 323.9751 531.5067 316.6348 546.1874 309.9618 540.1816 304.6233 546.1874 289.9426 540.1816 281.935 550.1912 278.5985 550.1912 271.9254 556.1969 268.5889 552.8604 259.914 559.5335 248.5698 559.5335 239.8948 554.195 238.5602 568.8757 230.5526 580.2199 241.2294 588.8948 234.5564 618.2562 261.2486 625.5966 256.5774 634.2715 263.2505 642.9465 262.5832 Z" id="BG.VN" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>BG.VN</code_hasc>
+        <name>Varna</name>
+        <admin>Bulgaria</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>20070051</woe_id>
+        <longitude>27</longitude>
+        <woe_name>Varna</woe_name>
+        <fips>BU61</fips>
+        <woe_label>Varna, BG, Bulgaria</woe_label>
+        <latitude>43</latitude>
+        <iso_a2>BG</iso_a2>
+        <postal>VN</postal>
+        <type>Oblast</type>
+        <id>BG.VN</id>
+      </desc>
+    </path>
+    <path d="M 597.5698 167.826 592.2314 169.1606 588.8948 179.8375 580.8872 178.5029 575.5488 191.1816 563.5373 192.5163 564.8719 199.8566 552.8604 197.1874 546.1874 204.5277 548.8566 215.8719 544.8528 215.8719 537.5124 215.8719 528.8375 207.8642 522.8317 211.2008 513.4895 205.195 504.8145 189.1797 497.4742 195.1855 494.1377 189.1797 480.7916 185.8432 475.4532 175.1663 456.7686 173.1644 450.0956 157.1491 496.1396 149.8088 525.501 139.1319 550.1912 147.1396 564.8719 163.8222 591.5641 161.153 597.5698 167.826 Z" id="BG.SI" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>BG.SI</code_hasc>
+        <name>Silistra</name>
+        <admin>Bulgaria</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>20070070</woe_id>
+        <longitude>27</longitude>
+        <woe_name>Silistra</woe_name>
+        <fips>RO41</fips>
+        <woe_label>Silistra, BG, Bulgaria</woe_label>
+        <latitude>43</latitude>
+        <iso_a2>BG</iso_a2>
+        <postal>SI</postal>
+        <type>Oblast</type>
+        <id>BG.SI</id>
+      </desc>
+    </path>
+    <path d="M 456.7686 173.1644 441.4207 191.1816 440.7533 197.1874 452.7648 201.1912 445.4245 217.2065 432.7457 216.5392 433.413 235.2237 417.3977 239.8948 414.7285 247.9025 406.7208 253.2409 414.7285 261.2486 414.7285 267.9216 406.7208 266.587 405.3862 259.2467 390.0382 259.914 379.3614 253.2409 369.3518 253.2409 363.3461 247.2352 365.348 238.5602 354.6711 233.2218 359.3423 222.5449 356.673 214.5373 389.3709 205.195 426.74 165.8241 450.0956 157.1491 456.7686 173.1644 Z" id="BG.RS" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>BG.RS</code_hasc>
+        <name>Ruse</name>
+        <admin>Bulgaria</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>20070069</woe_id>
+        <longitude>25</longitude>
+        <woe_name>Ruse</woe_name>
+        <fips>BU52</fips>
+        <woe_label>Ruse, BG, Bulgaria</woe_label>
+        <latitude>43</latitude>
+        <iso_a2>BG</iso_a2>
+        <postal>RS</postal>
+        <type>Oblast</type>
+        <id>BG.RS</id>
+      </desc>
+    </path>
+    <path d="M 159.1511 434.0803 165.1568 444.0899 157.8164 470.1147 161.153 482.1262 191.1816 509.4857 197.1874 514.8241 191.8489 518.8279 205.195 530.8394 201.8585 536.1778 187.8451 533.5086 185.8432 544.8528 176.501 546.8547 169.8279 542.1836 137.7973 555.5296 115.109 550.1912 105.0994 554.195 101.0956 549.5239 85.0803 561.5354 58.3881 557.5315 63.0593 542.8509 62.392 513.4895 71.7342 496.8069 64.3939 492.1358 57.7208 476.1205 55.0516 455.434 65.7285 444.0899 79.7419 450.0956 95.7572 444.7572 116.4436 450.0956 128.4551 444.7572 134.4608 447.4264 141.1338 437.4168 159.1511 434.0803 Z" id="BG.BL" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>BG.BL</code_hasc>
+        <name>Blagoevgrad</name>
+        <admin>Bulgaria</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>20070060</woe_id>
+        <longitude>23</longitude>
+        <woe_name>Blagoevgrad</woe_name>
+        <fips>MK78</fips>
+        <woe_label>Blagoevgrad, BG, Bulgaria</woe_label>
+        <latitude>41</latitude>
+        <iso_a2>BG</iso_a2>
+        <postal>BL</postal>
+        <type>Oblast</type>
+        <id>BG.BL</id>
+      </desc>
+    </path>
+  </g>
+</svg>

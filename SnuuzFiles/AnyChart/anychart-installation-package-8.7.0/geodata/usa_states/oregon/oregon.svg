@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="oregon">
+    <path d="M 321.4455 221.5045 343.6545 214.1015 364.8061 225.7348 358.4606 236.3106 352.1152 255.347 359.5182 261.6924 357.403 269.0955 312.9848 258.5197 325.6758 242.6561 328.8485 232.0803 321.4455 221.5045 Z" id="US.OR.055" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Sherman County</name>
+        <stateAbbrev>OR</stateAbbrev>
+        <state>Oregon</state>
+        <fips>055</fips>
+        <incits>41055</incits>
+        <id>US.OR.055</id>
+        <population>1731</population>
+      </desc>
+    </path>
+    <path d="M 343.6545 214.1015 356.3455 217.2742 381.7273 214.1015 399.7061 206.6985 398.6485 254.2894 409.2242 254.2894 419.8 261.6924 417.6848 270.153 357.403 270.153 357.403 269.0955 359.5182 261.6924 352.1152 255.347 358.4606 236.3106 364.8061 225.7348 343.6545 214.1015 Z" id="US.OR.021" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Gilliam County</name>
+        <stateAbbrev>OR</stateAbbrev>
+        <state>Oregon</state>
+        <fips>021</fips>
+        <incits>41021</incits>
+        <id>US.OR.021</id>
+        <population>1947</population>
+      </desc>
+    </path>
+    <path d="M 549.8818 338.8955 556.2273 337.8379 572.0909 323.0318 603.8182 323.0318 612.2788 335.7227 635.5455 335.7227 663.0424 347.3561 659.8697 362.1621 651.4091 374.853 651.4091 443.5955 651.4091 530.3167 551.997 531.3742 549.8818 453.1136 549.8818 357.9318 549.8818 338.8955 Z" id="US.OR.045" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Malheur County</name>
+        <stateAbbrev>OR</stateAbbrev>
+        <state>Oregon</state>
+        <fips>045</fips>
+        <incits>41045</incits>
+        <id>US.OR.045</id>
+        <population>30479</population>
+      </desc>
+    </path>
+    <path d="M 548.8242 279.6712 558.3424 272.2682 572.0909 276.4985 605.9333 276.4985 605.9333 269.0955 631.3152 269.0955 672.5606 269.0955 659.8697 294.4773 650.3515 297.65 641.8909 314.5712 634.4879 319.8591 635.5455 335.7227 612.2788 335.7227 603.8182 323.0318 572.0909 323.0318 556.2273 337.8379 549.8818 338.8955 526.6152 338.8955 534.0182 321.9742 543.5364 311.3985 537.1909 306.1106 548.8242 279.6712 Z" id="US.OR.001" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Baker County</name>
+        <stateAbbrev>OR</stateAbbrev>
+        <state>Oregon</state>
+        <fips>001</fips>
+        <incits>41001</incits>
+        <id>US.OR.001</id>
+        <population>16018</population>
+      </desc>
+    </path>
+    <path d="M 94.0667 299.7652 132.1394 299.7652 122.6212 313.5136 130.0242 336.7803 79.2606 336.7803 84.5485 324.0894 94.0667 324.0894 94.0667 299.7652 Z" id="US.OR.003" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Benton County</name>
+        <stateAbbrev>OR</stateAbbrev>
+        <state>Oregon</state>
+        <fips>003</fips>
+        <incits>41003</incits>
+        <id>US.OR.003</id>
+        <population>86591</population>
+      </desc>
+    </path>
+    <path d="M 156.4636 249.0015 167.0394 247.9439 167.0394 239.4833 175.5 237.3682 245.3 237.3682 255.8758 244.7712 255.8758 254.2894 255.8758 256.4045 255.8758 257.4621 259.0485 270.153 246.3576 275.4409 252.703 286.0167 195.5939 286.0167 162.8091 264.8652 157.5212 254.2894 156.4636 249.0015 Z" id="US.OR.005" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Clackamas County</name>
+        <stateAbbrev>OR</stateAbbrev>
+        <state>Oregon</state>
+        <fips>005</fips>
+        <incits>41005</incits>
+        <id>US.OR.005</id>
+        <population>388263</population>
+      </desc>
+    </path>
+    <path d="M 114.1606 179.2015 114.1606 209.8712 54.9364 209.8712 59.1667 184.4894 47.5333 169.6833 70.8 171.7985 104.6424 168.6258 114.1606 179.2015 Z" id="US.OR.007" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Clatsop County</name>
+        <stateAbbrev>OR</stateAbbrev>
+        <state>Oregon</state>
+        <fips>007</fips>
+        <incits>41007</incits>
+        <id>US.OR.007</id>
+        <population>37244</population>
+      </desc>
+    </path>
+    <path d="M 114.1606 179.2015 135.3121 176.0288 153.2909 184.4894 163.8667 202.4682 164.9242 214.1015 151.1758 215.1591 145.8879 214.1015 145.8879 213.0439 142.7152 209.8712 114.1606 209.8712 114.1606 179.2015 Z" id="US.OR.009" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Columbia County</name>
+        <stateAbbrev>OR</stateAbbrev>
+        <state>Oregon</state>
+        <fips>009</fips>
+        <incits>41009</incits>
+        <id>US.OR.009</id>
+        <population>49344</population>
+      </desc>
+    </path>
+    <path d="M 13.6909 449.9409 21.0939 428.7894 20.0364 418.2136 28.497 411.8682 35.9 393.8894 70.8 393.8894 80.3182 408.6955 85.6061 423.5015 85.6061 438.3076 76.0879 445.7106 76.0879 463.6894 60.2242 472.15 48.5909 473.2076 47.5333 457.3439 39.0727 449.9409 13.6909 449.9409 Z" id="US.OR.011" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Coos County</name>
+        <stateAbbrev>OR</stateAbbrev>
+        <state>Oregon</state>
+        <fips>011</fips>
+        <incits>41011</incits>
+        <id>US.OR.011</id>
+        <population>62282</population>
+      </desc>
+    </path>
+    <path d="M 305.5818 328.3197 316.1576 320.9167 329.9061 320.9167 329.9061 313.5136 366.9212 313.5136 366.9212 324.0894 397.5909 324.0894 408.1667 328.3197 408.1667 334.6652 429.3182 334.6652 428.2606 364.2773 418.7424 364.2773 418.7424 386.4864 408.1667 386.4864 377.497 386.4864 367.9788 379.0833 367.9788 371.6803 336.2515 371.6803 336.2515 364.2773 316.1576 364.2773 316.1576 349.4712 305.5818 349.4712 305.5818 328.3197 Z" id="US.OR.013" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Crook County</name>
+        <stateAbbrev>OR</stateAbbrev>
+        <state>Oregon</state>
+        <fips>013</fips>
+        <incits>41013</incits>
+        <id>US.OR.013</id>
+        <population>20815</population>
+      </desc>
+    </path>
+    <path d="M 13.6909 449.9409 39.0727 449.9409 47.5333 457.3439 48.5909 473.2076 60.2242 472.15 76.0879 463.6894 84.5485 463.6894 69.7424 488.0136 60.2242 488.0136 58.1091 499.647 69.7424 500.7045 76.0879 509.1652 75.0303 531.3742 32.7273 530.3167 20.0364 513.3955 18.9788 497.5318 12.6333 490.1288 20.0364 478.4955 1 463.6894 13.6909 449.9409 Z" id="US.OR.015" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Curry County</name>
+        <stateAbbrev>OR</stateAbbrev>
+        <state>Oregon</state>
+        <fips>015</fips>
+        <incits>41015</incits>
+        <id>US.OR.015</id>
+        <population>22339</population>
+      </desc>
+    </path>
+    <path d="M 229.4364 393.8894 231.5515 372.7379 242.1273 364.2773 249.5303 351.5864 247.4152 338.8955 243.1848 327.2621 305.5818 328.3197 305.5818 349.4712 316.1576 349.4712 316.1576 364.2773 336.2515 364.2773 336.2515 371.6803 367.9788 371.6803 367.9788 379.0833 377.497 386.4864 408.1667 386.4864 408.1667 393.8894 286.5455 393.8894 229.4364 393.8894 Z" id="US.OR.017" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Deschutes County</name>
+        <stateAbbrev>OR</stateAbbrev>
+        <state>Oregon</state>
+        <fips>017</fips>
+        <incits>41017</incits>
+        <id>US.OR.017</id>
+        <population>165954</population>
+      </desc>
+    </path>
+    <path d="M 35.9 393.8894 41.1879 372.7379 65.5121 372.7379 75.0303 365.3348 93.0091 367.45 100.4121 375.9106 115.2182 380.1409 133.197 380.1409 136.3697 400.2348 167.0394 399.1773 167.0394 408.6955 218.8606 408.6955 231.5515 423.5015 222.0333 439.3652 206.1697 440.4227 206.1697 445.7106 182.903 450.9985 162.8091 464.747 132.1394 466.8621 125.7939 471.0924 107.8152 471.0924 84.5485 463.6894 76.0879 463.6894 76.0879 445.7106 85.6061 438.3076 85.6061 423.5015 80.3182 408.6955 70.8 393.8894 35.9 393.8894 Z" id="US.OR.019" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Douglas County</name>
+        <stateAbbrev>OR</stateAbbrev>
+        <state>Oregon</state>
+        <fips>019</fips>
+        <incits>41019</incits>
+        <id>US.OR.019</id>
+        <population>106940</population>
+      </desc>
+    </path>
+    <path d="M 427.203 276.4985 470.5636 276.4985 525.5576 276.4985 548.8242 279.6712 537.1909 306.1106 543.5364 311.3985 534.0182 321.9742 526.6152 338.8955 549.8818 338.8955 549.8818 357.9318 500.1758 356.8742 500.1758 364.2773 428.2606 364.2773 429.3182 334.6652 429.3182 291.3045 427.203 276.4985 Z" id="US.OR.023" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Grant County</name>
+        <stateAbbrev>OR</stateAbbrev>
+        <state>Oregon</state>
+        <fips>023</fips>
+        <incits>41023</incits>
+        <id>US.OR.023</id>
+        <population>7283</population>
+      </desc>
+    </path>
+    <path d="M 408.1667 393.8894 408.1667 386.4864 418.7424 386.4864 418.7424 364.2773 428.2606 364.2773 500.1758 364.2773 500.1758 356.8742 549.8818 357.9318 549.8818 453.1136 551.997 531.3742 453.6424 531.3742 453.6424 466.8621 403.9364 466.8621 404.9939 430.9045 408.1667 430.9045 408.1667 393.8894 Z" id="US.OR.025" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Harney County</name>
+        <stateAbbrev>OR</stateAbbrev>
+        <state>Oregon</state>
+        <fips>025</fips>
+        <incits>41025</incits>
+        <id>US.OR.025</id>
+        <population>7146</population>
+      </desc>
+    </path>
+    <path d="M 236.8394 221.5045 241.0697 217.2742 269.6242 214.1015 277.0273 217.2742 273.8545 232.0803 273.8545 254.2894 255.8758 254.2894 255.8758 244.7712 245.3 237.3682 236.8394 229.9652 236.8394 221.5045 Z" id="US.OR.027" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hood River County</name>
+        <stateAbbrev>OR</stateAbbrev>
+        <state>Oregon</state>
+        <fips>027</fips>
+        <incits>41027</incits>
+        <id>US.OR.027</id>
+        <population>22675</population>
+      </desc>
+    </path>
+    <path d="M 125.7939 471.0924 132.1394 466.8621 162.8091 464.747 182.903 450.9985 206.1697 445.7106 205.1121 530.3167 125.7939 530.3167 125.7939 471.0924 Z" id="US.OR.029" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jackson County</name>
+        <stateAbbrev>OR</stateAbbrev>
+        <state>Oregon</state>
+        <fips>029</fips>
+        <incits>41029</incits>
+        <id>US.OR.029</id>
+        <population>208545</population>
+      </desc>
+    </path>
+    <path d="M 247.4152 302.9379 250.5879 291.3045 367.9788 291.3045 366.9212 313.5136 329.9061 313.5136 329.9061 320.9167 316.1576 320.9167 305.5818 328.3197 243.1848 327.2621 246.3576 309.2833 247.4152 302.9379 Z" id="US.OR.031" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jefferson County</name>
+        <stateAbbrev>OR</stateAbbrev>
+        <state>Oregon</state>
+        <fips>031</fips>
+        <incits>41031</incits>
+        <id>US.OR.031</id>
+        <population>21145</population>
+      </desc>
+    </path>
+    <path d="M 84.5485 463.6894 107.8152 471.0924 125.7939 471.0924 125.7939 530.3167 75.0303 531.3742 76.0879 509.1652 69.7424 500.7045 58.1091 499.647 60.2242 488.0136 69.7424 488.0136 84.5485 463.6894 Z" id="US.OR.033" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Josephine County</name>
+        <stateAbbrev>OR</stateAbbrev>
+        <state>Oregon</state>
+        <fips>033</fips>
+        <incits>41033</incits>
+        <id>US.OR.033</id>
+        <population>83306</population>
+      </desc>
+    </path>
+    <path d="M 206.1697 445.7106 206.1697 440.4227 222.0333 439.3652 231.5515 423.5015 218.8606 408.6955 218.8606 398.1197 229.4364 393.8894 286.5455 393.8894 285.4879 415.0409 285.4879 466.8621 324.6182 467.9197 324.6182 531.3742 205.1121 530.3167 206.1697 445.7106 Z" id="US.OR.035" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Klamath County</name>
+        <stateAbbrev>OR</stateAbbrev>
+        <state>Oregon</state>
+        <fips>035</fips>
+        <incits>41035</incits>
+        <id>US.OR.035</id>
+        <population>65910</population>
+      </desc>
+    </path>
+    <path d="M 286.5455 393.8894 408.1667 393.8894 408.1667 430.9045 404.9939 430.9045 403.9364 466.8621 453.6424 466.8621 453.6424 531.3742 324.6182 531.3742 324.6182 467.9197 285.4879 466.8621 285.4879 415.0409 286.5455 393.8894 Z" id="US.OR.037" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lake County</name>
+        <stateAbbrev>OR</stateAbbrev>
+        <state>Oregon</state>
+        <fips>037</fips>
+        <incits>41037</incits>
+        <id>US.OR.037</id>
+        <population>7820</population>
+      </desc>
+    </path>
+    <path d="M 41.1879 372.7379 44.3606 337.8379 79.2606 336.7803 130.0242 336.7803 130.0242 337.8379 131.0818 344.1833 153.2909 344.1833 156.4636 336.7803 198.7667 343.1258 201.9394 339.953 247.4152 338.8955 249.5303 351.5864 242.1273 364.2773 231.5515 372.7379 229.4364 393.8894 218.8606 398.1197 218.8606 408.6955 167.0394 408.6955 167.0394 399.1773 136.3697 400.2348 133.197 380.1409 115.2182 380.1409 100.4121 375.9106 93.0091 367.45 75.0303 365.3348 65.5121 372.7379 41.1879 372.7379 Z" id="US.OR.039" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lane County</name>
+        <stateAbbrev>OR</stateAbbrev>
+        <state>Oregon</state>
+        <fips>039</fips>
+        <incits>41039</incits>
+        <id>US.OR.039</id>
+        <population>356212</population>
+      </desc>
+    </path>
+    <path d="M 51.7636 272.2682 83.4909 272.2682 83.4909 298.7076 94.0667 299.7652 94.0667 324.0894 84.5485 324.0894 79.2606 336.7803 44.3606 337.8379 47.5333 321.9742 47.5333 295.5348 51.7636 272.2682 Z" id="US.OR.041" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lincoln County</name>
+        <stateAbbrev>OR</stateAbbrev>
+        <state>Oregon</state>
+        <fips>041</fips>
+        <incits>41041</incits>
+        <id>US.OR.041</id>
+        <population>46350</population>
+      </desc>
+    </path>
+    <path d="M 132.1394 299.7652 133.197 297.65 144.8303 302.9379 162.8091 293.4197 177.6152 294.4773 217.803 299.7652 227.3212 302.9379 247.4152 302.9379 246.3576 309.2833 243.1848 327.2621 247.4152 338.8955 201.9394 339.953 198.7667 343.1258 156.4636 336.7803 153.2909 344.1833 131.0818 344.1833 130.0242 337.8379 130.0242 336.7803 122.6212 313.5136 132.1394 299.7652 Z" id="US.OR.043" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Linn County</name>
+        <stateAbbrev>OR</stateAbbrev>
+        <state>Oregon</state>
+        <fips>043</fips>
+        <incits>41043</incits>
+        <id>US.OR.043</id>
+        <population>118765</population>
+      </desc>
+    </path>
+    <path d="M 139.5424 270.153 141.6576 257.4621 157.5212 254.2894 162.8091 264.8652 195.5939 286.0167 252.703 286.0167 250.5879 291.3045 247.4152 302.9379 227.3212 302.9379 217.803 299.7652 177.6152 294.4773 162.8091 293.4197 144.8303 302.9379 133.197 297.65 134.2545 283.9015 141.6576 280.7288 139.5424 270.153 Z" id="US.OR.047" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Marion County</name>
+        <stateAbbrev>OR</stateAbbrev>
+        <state>Oregon</state>
+        <fips>047</fips>
+        <incits>41047</incits>
+        <id>US.OR.047</id>
+        <population>323614</population>
+      </desc>
+    </path>
+    <path d="M 399.7061 206.6985 427.203 203.5258 435.6636 198.2379 447.297 198.2379 447.297 224.6773 463.1606 224.6773 471.6212 232.0803 470.5636 276.4985 427.203 276.4985 417.6848 270.153 419.8 261.6924 409.2242 254.2894 398.6485 254.2894 399.7061 206.6985 Z" id="US.OR.049" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Morrow County</name>
+        <stateAbbrev>OR</stateAbbrev>
+        <state>Oregon</state>
+        <fips>049</fips>
+        <incits>41049</incits>
+        <id>US.OR.049</id>
+        <population>11336</population>
+      </desc>
+    </path>
+    <path d="M 151.1758 215.1591 164.9242 214.1015 172.3273 223.6197 207.2273 229.9652 236.8394 221.5045 236.8394 229.9652 245.3 237.3682 175.5 237.3682 167.0394 239.4833 167.0394 232.0803 151.1758 222.5621 151.1758 215.1591 Z" id="US.OR.051" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Multnomah County</name>
+        <stateAbbrev>OR</stateAbbrev>
+        <state>Oregon</state>
+        <fips>051</fips>
+        <incits>41051</incits>
+        <id>US.OR.051</id>
+        <population>766135</population>
+      </desc>
+    </path>
+    <path d="M 83.4909 272.2682 83.4909 270.153 139.5424 270.153 141.6576 280.7288 134.2545 283.9015 133.197 297.65 132.1394 299.7652 94.0667 299.7652 83.4909 298.7076 83.4909 272.2682 Z" id="US.OR.053" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Polk County</name>
+        <stateAbbrev>OR</stateAbbrev>
+        <state>Oregon</state>
+        <fips>053</fips>
+        <incits>41053</incits>
+        <id>US.OR.053</id>
+        <population>76794</population>
+      </desc>
+    </path>
+    <path d="M 51.7636 272.2682 57.0515 253.2318 53.8788 246.8864 59.1667 216.2167 54.9364 209.8712 114.1606 209.8712 103.5848 216.2167 114.1606 226.7924 105.7 239.4833 105.7 257.4621 78.203 257.4621 83.4909 270.153 83.4909 272.2682 51.7636 272.2682 Z" id="US.OR.057" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Tillamook County</name>
+        <stateAbbrev>OR</stateAbbrev>
+        <state>Oregon</state>
+        <fips>057</fips>
+        <incits>41057</incits>
+        <id>US.OR.057</id>
+        <population>25317</population>
+      </desc>
+    </path>
+    <path d="M 447.297 198.2379 473.7364 197.1803 485.3697 191.8924 571.0333 190.8348 571.0333 203.5258 559.4 218.3318 559.4 236.3106 551.997 239.4833 532.9606 239.4833 532.9606 245.8288 509.6939 246.8864 513.9242 259.5773 522.3848 259.5773 525.5576 276.4985 470.5636 276.4985 471.6212 232.0803 463.1606 224.6773 447.297 224.6773 447.297 198.2379 Z" id="US.OR.059" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Umatilla County</name>
+        <stateAbbrev>OR</stateAbbrev>
+        <state>Oregon</state>
+        <fips>059</fips>
+        <incits>41059</incits>
+        <id>US.OR.059</id>
+        <population>76720</population>
+      </desc>
+    </path>
+    <path d="M 571.0333 203.5258 591.1273 203.5258 586.897 217.2742 599.5879 247.9439 610.1636 253.2318 613.3364 261.6924 631.3152 261.6924 631.3152 269.0955 605.9333 269.0955 605.9333 276.4985 572.0909 276.4985 558.3424 272.2682 548.8242 279.6712 525.5576 276.4985 522.3848 259.5773 513.9242 259.5773 509.6939 246.8864 532.9606 245.8288 532.9606 239.4833 551.997 239.4833 559.4 236.3106 559.4 218.3318 571.0333 203.5258 Z" id="US.OR.061" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Union County</name>
+        <stateAbbrev>OR</stateAbbrev>
+        <state>Oregon</state>
+        <fips>061</fips>
+        <incits>41061</incits>
+        <id>US.OR.061</id>
+        <population>25652</population>
+      </desc>
+    </path>
+    <path d="M 571.0333 190.8348 660.9273 191.8924 672.5606 206.6985 688.4242 209.8712 699 224.6773 682.0788 249.0015 672.5606 269.0955 631.3152 269.0955 631.3152 261.6924 613.3364 261.6924 610.1636 253.2318 599.5879 247.9439 586.897 217.2742 591.1273 203.5258 571.0333 203.5258 571.0333 190.8348 Z" id="US.OR.063" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wallowa County</name>
+        <stateAbbrev>OR</stateAbbrev>
+        <state>Oregon</state>
+        <fips>063</fips>
+        <incits>41063</incits>
+        <id>US.OR.063</id>
+        <population>6814</population>
+      </desc>
+    </path>
+    <path d="M 255.8758 254.2894 273.8545 254.2894 273.8545 232.0803 277.0273 217.2742 321.4455 221.5045 328.8485 232.0803 325.6758 242.6561 312.9848 258.5197 357.403 269.0955 357.403 270.153 360.5758 287.0742 367.9788 291.3045 250.5879 291.3045 252.703 286.0167 246.3576 275.4409 259.0485 270.153 255.8758 257.4621 255.8758 256.4045 255.8758 254.2894 Z" id="US.OR.065" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wasco County</name>
+        <stateAbbrev>OR</stateAbbrev>
+        <state>Oregon</state>
+        <fips>065</fips>
+        <incits>41065</incits>
+        <id>US.OR.065</id>
+        <population>25477</population>
+      </desc>
+    </path>
+    <path d="M 114.1606 209.8712 142.7152 209.8712 145.8879 213.0439 145.8879 214.1015 151.1758 215.1591 151.1758 222.5621 167.0394 232.0803 167.0394 239.4833 167.0394 247.9439 156.4636 249.0015 133.197 239.4833 105.7 239.4833 114.1606 226.7924 103.5848 216.2167 114.1606 209.8712 Z" id="US.OR.067" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Washington County</name>
+        <stateAbbrev>OR</stateAbbrev>
+        <state>Oregon</state>
+        <fips>067</fips>
+        <incits>41067</incits>
+        <id>US.OR.067</id>
+        <population>554996</population>
+      </desc>
+    </path>
+    <path d="M 357.403 270.153 417.6848 270.153 427.203 276.4985 429.3182 291.3045 429.3182 334.6652 408.1667 334.6652 408.1667 328.3197 397.5909 324.0894 366.9212 324.0894 366.9212 313.5136 367.9788 291.3045 360.5758 287.0742 357.403 270.153 Z" id="US.OR.069" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wheeler County</name>
+        <stateAbbrev>OR</stateAbbrev>
+        <state>Oregon</state>
+        <fips>069</fips>
+        <incits>41069</incits>
+        <id>US.OR.069</id>
+        <population>1381</population>
+      </desc>
+    </path>
+    <path d="M 105.7 239.4833 133.197 239.4833 156.4636 249.0015 157.5212 254.2894 141.6576 257.4621 139.5424 270.153 83.4909 270.153 78.203 257.4621 105.7 257.4621 105.7 239.4833 Z" id="US.OR.071" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Yamhill County</name>
+        <stateAbbrev>OR</stateAbbrev>
+        <state>Oregon</state>
+        <fips>071</fips>
+        <incits>41071</incits>
+        <id>US.OR.071</id>
+        <population>100725</population>
+      </desc>
+    </path>
+  </g>
+</svg>

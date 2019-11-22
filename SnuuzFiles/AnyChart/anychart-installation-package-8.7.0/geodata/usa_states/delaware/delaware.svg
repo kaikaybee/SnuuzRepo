@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="delaware">
+    <path d="M 304.2295 229.8525 254.6448 264.1803 163.1038 275.623 147.847 58.2131 220.3169 4.8142 285.1585 1 311.8579 39.1421 266.0874 103.9836 285.1585 130.6831 262.2732 195.5246 304.2295 229.8525 Z" id="US.DE.003" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>New Castle County</name>
+        <stateAbbrev>DE</stateAbbrev>
+        <state>Delaware</state>
+        <fips>003</fips>
+        <incits>10003</incits>
+        <id>US.DE.003</id>
+        <population>549684</population>
+      </desc>
+    </path>
+    <path d="M 163.1038 275.623 254.6448 264.1803 304.2295 229.8525 369.071 287.0656 475.8689 424.377 353.8142 443.4481 266.0874 504.4754 182.1749 508.2896 163.1038 275.623 Z" id="US.DE.001" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Kent County</name>
+        <stateAbbrev>DE</stateAbbrev>
+        <state>Delaware</state>
+        <fips>001</fips>
+        <incits>10001</incits>
+        <id>US.DE.001</id>
+        <population>169416</population>
+      </desc>
+    </path>
+    <path d="M 182.1749 508.2896 266.0874 504.4754 353.8142 443.4481 475.8689 424.377 536.8962 527.3607 552.153 699 197.4317 695.1858 182.1749 508.2896 Z" id="US.DE.005" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Sussex County</name>
+        <stateAbbrev>DE</stateAbbrev>
+        <state>Delaware</state>
+        <fips>005</fips>
+        <incits>10005</incits>
+        <id>US.DE.005</id>
+        <population>206649</population>
+      </desc>
+    </path>
+  </g>
+</svg>

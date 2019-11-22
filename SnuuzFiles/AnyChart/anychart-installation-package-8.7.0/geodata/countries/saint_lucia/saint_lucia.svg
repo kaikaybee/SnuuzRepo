@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="saint_lucia">
+    <path d="M 350.6535 386.5083 346.6317 419.5631 333.8394 432.8791 299.356 424.3622 275.3719 384.9374 247.2548 365.3575 221.3984 358.9654 202.424 359.2703 205.6564 344.6644 214.8112 320.1474 255.3663 260.637 270.3927 221.0603 299.8862 230.6387 330.036 236.9885 343.1207 258.8915 347.7195 294.0747 350.1871 331.4775 350.3738 353.4898 350.6535 386.5083 Z" id="LC.AR" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>LC.AR</code_hasc>
+        <name>Anse-la-Raye</name>
+        <admin>Saint Lucia</admin>
+        <type_en>Quarter</type_en>
+        <region/>
+        <woe_id>2347023</woe_id>
+        <longitude>-61</longitude>
+        <woe_name>Ansela-Raye</woe_name>
+        <fips>SF01</fips>
+        <woe_label>Ansela-Raye, LC, St. Lucia</woe_label>
+        <latitude>13</latitude>
+        <iso_a2>LC</iso_a2>
+        <postal/>
+        <type>Quarter</type>
+        <id>LC.AR</id>
+      </desc>
+    </path>
+    <path d="M 426.0227 165.9986 424.1406 181.144 418.1519 234.0313 407.7846 278.1501 390.9829 324.525 384.9473 373.008 385.2672 410.4293 365.8561 403.9905 350.6535 386.5083 350.3738 353.4898 350.1871 331.4775 347.7195 294.0747 343.1207 258.8915 330.036 236.9885 299.8862 230.6387 270.3927 221.0603 311.5954 157.891 320.4669 150.7401 337.1329 141.1641 345.5734 132.6582 349.5273 121.7604 374.3264 137.5468 387.4113 159.4483 426.0227 165.9986 Z" id="LC.CN" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>LC.CN</code_hasc>
+        <name>Castries</name>
+        <admin>Saint Lucia</admin>
+        <type_en>Quarter</type_en>
+        <region/>
+        <woe_id>2347025</woe_id>
+        <longitude>-60</longitude>
+        <woe_name>Castries</woe_name>
+        <fips>ST03</fips>
+        <woe_label>Castries, LC, St. Lucia</woe_label>
+        <latitude>14</latitude>
+        <iso_a2>LC</iso_a2>
+        <postal/>
+        <type>Quarter</type>
+        <id>LC.CN</id>
+      </desc>
+    </path>
+    <path d="M 351.0315 495.4022 342.9823 500.6804 337.675 515.5486 316.9525 563.898 298.5471 601.1091 286.9275 626.887 236.5647 607.848 207.5085 573.635 201.9864 564.46 233.6214 539.3712 274.33 519.2265 332.2244 496.7322 349.8679 486.6882 351.0315 495.4022 Z" id="LC.CS" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>LC.CS</code_hasc>
+        <name>Choiseul</name>
+        <admin>Saint Lucia</admin>
+        <type_en>Quarter</type_en>
+        <region/>
+        <woe_id>2347026</woe_id>
+        <longitude>-61</longitude>
+        <woe_name>Choiseul</woe_name>
+        <fips>ST04</fips>
+        <woe_label>Choiseul, LC, St. Lucia</woe_label>
+        <latitude>13</latitude>
+        <iso_a2>LC</iso_a2>
+        <postal/>
+        <type>Quarter</type>
+        <id>LC.CS</id>
+      </desc>
+    </path>
+    <path d="M 516.857 230.7982 484.7334 226.8429 452.5079 229.3284 418.1519 234.0313 424.1406 181.144 426.0227 165.9986 430.1652 132.6589 438.5104 103.9665 459.8251 83.9651 484.4207 68.1192 498.3712 83.2908 503.3112 105.1188 509.8345 179.1112 516.857 230.7982 Z" id="LC.6585" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>LC.</code_hasc>
+        <name>Dauphin</name>
+        <admin>Saint Lucia</admin>
+        <type_en>Quarter</type_en>
+        <region/>
+        <woe_id>2347024</woe_id>
+        <longitude>-60</longitude>
+        <woe_name>Dauphin</woe_name>
+        <fips/>
+        <woe_label>Dauphin, LC, St. Lucia</woe_label>
+        <latitude>14</latitude>
+        <iso_a2>LC</iso_a2>
+        <postal/>
+        <type>Quarter</type>
+        <id>LC.6585</id>
+      </desc>
+    </path>
+    <path d="M 516.857 230.7982 517.1281 276.8272 505.5278 357.6259 477.3369 363.4013 451.6476 376.8349 421.4466 366.0898 384.9473 373.008 390.9829 324.525 407.7846 278.1501 418.1519 234.0313 452.5079 229.3284 484.7334 226.8429 516.857 230.7982 Z" id="LC.DE" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>LC.DE</code_hasc>
+        <name>Dennery</name>
+        <admin>Saint Lucia</admin>
+        <type_en>Quarter</type_en>
+        <region/>
+        <woe_id>2347027</woe_id>
+        <longitude>-60</longitude>
+        <woe_name>Dennery</woe_name>
+        <fips>ST05</fips>
+        <woe_label>Dennery, LC, St. Lucia</woe_label>
+        <latitude>13</latitude>
+        <iso_a2>LC</iso_a2>
+        <postal/>
+        <type>Quarter</type>
+        <id>LC.DE</id>
+      </desc>
+    </path>
+    <path d="M 484.4207 68.1192 459.8251 83.9651 438.5104 103.9665 430.1652 132.6589 426.0227 165.9986 387.4113 159.4483 374.3264 137.5468 349.5273 121.7604 355.9592 90.6858 362.6918 78.4773 404.0972 18.0797 428.2237 1 461.453 11.5708 454.0482 41.9425 465.6284 57.5647 484.4207 68.1192 Z" id="LC.GI" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>LC.GI</code_hasc>
+        <name>Gros Islet</name>
+        <admin>Saint Lucia</admin>
+        <type_en>Quarter</type_en>
+        <region/>
+        <woe_id>2347028</woe_id>
+        <longitude>-60</longitude>
+        <woe_name>Gros Islet</woe_name>
+        <fips>ST06</fips>
+        <woe_label>Gros Islet, LC, St. Lucia</woe_label>
+        <latitude>14</latitude>
+        <iso_a2>LC</iso_a2>
+        <postal/>
+        <type>Quarter</type>
+        <id>LC.GI</id>
+      </desc>
+    </path>
+    <path d="M 376.2983 671.1186 365.3743 656.5278 286.9275 626.887 298.5471 601.1091 316.9525 563.898 337.675 515.5486 342.9823 500.6804 351.0315 495.4022 352.0559 503.0747 358.284 525.8753 370.0858 565.3055 381.1759 591.7709 383.2901 627.577 384.0975 651.6587 376.2983 671.1186 Z" id="LC.LB" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>LC.LB</code_hasc>
+        <name>Laborie</name>
+        <admin>Saint Lucia</admin>
+        <type_en>Quarter</type_en>
+        <region/>
+        <woe_id>2347029</woe_id>
+        <longitude>-60</longitude>
+        <woe_name>Laborie</woe_name>
+        <fips>ST07</fips>
+        <woe_label>Laborie, LC, St. Lucia</woe_label>
+        <latitude>13</latitude>
+        <iso_a2>LC</iso_a2>
+        <postal/>
+        <type>Quarter</type>
+        <id>LC.LB</id>
+      </desc>
+    </path>
+    <path d="M 503.3042 489.8789 482.7543 576.0442 478.2498 588.2343 473.0991 590.4233 459.8595 594.2416 440.4019 568.459 418.6801 544.4299 383.9418 507.3025 360.7234 480.5078 379.3216 469.918 415.9622 478.4104 463.3982 491.2089 503.3042 489.8789 Z" id="LC.MI" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>LC.MI</code_hasc>
+        <name>Micoud</name>
+        <admin>Saint Lucia</admin>
+        <type_en>Quarter</type_en>
+        <region/>
+        <woe_id>2347030</woe_id>
+        <longitude>-60</longitude>
+        <woe_name>Micoud</woe_name>
+        <fips>ST08</fips>
+        <woe_label>Micoud, LC, St. Lucia</woe_label>
+        <latitude>13</latitude>
+        <iso_a2>LC</iso_a2>
+        <postal/>
+        <type>Quarter</type>
+        <id>LC.MI</id>
+      </desc>
+    </path>
+    <path d="M 503.3042 489.8789 463.3982 491.2089 415.9622 478.4104 379.3216 469.918 385.4175 428.0394 385.2672 410.4293 384.9473 373.008 421.4466 366.0898 451.6476 376.8349 477.3369 363.4013 505.5278 357.6259 497.6631 412.3768 503.3042 489.8789 Z" id="LC.6587" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>LC.</code_hasc>
+        <name>Praslin</name>
+        <admin>Saint Lucia</admin>
+        <type_en>Quarter</type_en>
+        <region/>
+        <woe_id>2347033</woe_id>
+        <longitude>-60</longitude>
+        <woe_name>Praslin</woe_name>
+        <fips/>
+        <woe_label>Praslin, LC, St. Lucia</woe_label>
+        <latitude>13</latitude>
+        <iso_a2>LC</iso_a2>
+        <postal/>
+        <type>Quarter</type>
+        <id>LC.6587</id>
+      </desc>
+    </path>
+    <path d="M 350.6535 386.5083 365.8561 403.9905 385.2672 410.4293 385.4175 428.0394 379.3216 469.918 360.7234 480.5078 349.8679 486.6882 332.2244 496.7322 274.33 519.2265 233.6214 539.3712 201.9864 564.46 191.4176 553.0385 184.6063 539.8001 196.3277 512.1908 198.0699 494.3812 195.9058 459.8079 193.0916 448.5386 188.1325 439.7165 183.7139 428.603 182.8719 410.7427 187.1905 392.1262 202.424 359.2703 221.3984 358.9654 247.2548 365.3575 275.3719 384.9374 299.356 424.3622 333.8394 432.8791 346.6317 419.5631 350.6535 386.5083 Z" id="LC.CO" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>LC.CO</code_hasc>
+        <name>Soufrière</name>
+        <admin>Saint Lucia</admin>
+        <type_en>Quarter</type_en>
+        <region/>
+        <woe_id>2347031</woe_id>
+        <longitude>-61</longitude>
+        <woe_name>Soufriere</woe_name>
+        <fips>ST09</fips>
+        <woe_label>Soufriere, LC, St. Lucia</woe_label>
+        <latitude>13</latitude>
+        <iso_a2>LC</iso_a2>
+        <postal/>
+        <type>Quarter</type>
+        <id>LC.CO</id>
+      </desc>
+    </path>
+    <path d="M 459.8595 594.2416 451.6357 596.6131 444.3428 601.5362 436.5241 618.4714 421.5887 685.713 410.9855 696.0239 405.6995 698.9277 397.1752 699 376.2983 671.1186 384.0975 651.6587 383.2901 627.577 381.1759 591.7709 370.0858 565.3055 358.284 525.8753 352.0559 503.0747 351.0315 495.4022 349.8679 486.6882 360.7234 480.5078 383.9418 507.3025 418.6801 544.4299 440.4019 568.459 459.8595 594.2416 Z" id="LC.VF" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>LC.VF</code_hasc>
+        <name>Vieux Fort</name>
+        <admin>Saint Lucia</admin>
+        <type_en>Quarter</type_en>
+        <region/>
+        <woe_id>2347032</woe_id>
+        <longitude>-60</longitude>
+        <woe_name>Vieux Fort</woe_name>
+        <fips>ST10</fips>
+        <woe_label>Vieux Fort, LC, St. Lucia</woe_label>
+        <latitude>13</latitude>
+        <iso_a2>LC</iso_a2>
+        <postal/>
+        <type>Quarter</type>
+        <id>LC.VF</id>
+      </desc>
+    </path>
+  </g>
+</svg>

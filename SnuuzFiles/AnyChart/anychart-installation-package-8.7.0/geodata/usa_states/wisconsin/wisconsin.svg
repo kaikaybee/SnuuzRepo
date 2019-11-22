@@ -1,0 +1,797 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="wisconsin">
+    <path d="M 502.788 574.0891 502.788 533.3456 516.7266 533.3456 557.47 533.3456 557.47 574.0891 529.5929 574.0891 502.788 574.0891 Z" id="US.WI.133" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Waukesha County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>133</fips>
+        <incits>55133</incits>
+        <id>US.WI.133</id>
+        <population>393843</population>
+      </desc>
+    </path>
+    <path d="M 557.47 574.0891 557.47 533.3456 577.8418 534.4178 576.7696 540.851 581.0584 547.2842 578.914 555.8618 583.2028 560.1505 582.1306 568.7281 585.3472 574.0891 557.47 574.0891 Z" id="US.WI.079" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Milwaukee County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>079</fips>
+        <incits>55079</incits>
+        <id>US.WI.079</id>
+        <population>956023</population>
+      </desc>
+    </path>
+    <path d="M 518.871 493.6743 546.7481 493.6743 560.6866 493.6743 560.6866 514.0461 557.47 514.0461 557.47 533.3456 516.7266 533.3456 516.7266 512.9739 518.871 512.9739 518.871 493.6743 Z" id="US.WI.131" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Washington County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>131</fips>
+        <incits>55131</incits>
+        <id>US.WI.131</id>
+        <population>132739</population>
+      </desc>
+    </path>
+    <path d="M 546.7481 452.9309 560.6866 452.9309 596.0691 452.9309 597.1413 462.5806 600.3579 467.9416 598.2135 471.1582 599.2857 476.5192 589.6359 490.4578 589.6359 493.6743 560.6866 493.6743 546.7481 493.6743 546.7481 452.9309 Z" id="US.WI.117" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Sheboygan County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>117</fips>
+        <incits>55117</incits>
+        <id>US.WI.117</id>
+        <population>114922</population>
+      </desc>
+    </path>
+    <path d="M 463.1167 482.9524 463.1167 452.9309 518.871 452.9309 518.871 447.5699 546.7481 447.5699 546.7481 452.9309 546.7481 493.6743 518.871 493.6743 518.871 482.9524 463.1167 482.9524 Z" id="US.WI.039" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Fond du Lac County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>039</fips>
+        <incits>55039</incits>
+        <id>US.WI.039</id>
+        <population>101798</population>
+      </desc>
+    </path>
+    <path d="M 430.9508 442.2089 463.1167 442.2089 463.1167 452.9309 463.1167 482.9524 449.1782 482.9524 435.2396 482.9524 421.3011 481.8802 421.3011 469.0138 429.8786 467.9416 426.6621 462.5806 426.6621 455.0753 430.9508 455.0753 430.9508 442.2089 Z" id="US.WI.047" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Green Lake County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>047</fips>
+        <incits>55047</incits>
+        <id>US.WI.047</id>
+        <population>18959</population>
+      </desc>
+    </path>
+    <path d="M 448.106 523.6959 449.1782 512.9739 449.1782 482.9524 463.1167 482.9524 518.871 482.9524 518.871 493.6743 518.871 512.9739 516.7266 512.9739 516.7266 533.3456 502.788 533.3456 489.9217 533.3456 448.106 533.3456 448.106 523.6959 Z" id="US.WI.027" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dodge County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>027</fips>
+        <incits>55027</incits>
+        <id>US.WI.027</id>
+        <population>88344</population>
+      </desc>
+    </path>
+    <path d="M 463.1167 412.1874 479.1997 412.1874 518.871 412.1874 518.871 447.5699 518.871 452.9309 463.1167 452.9309 463.1167 442.2089 463.1167 412.1874 Z" id="US.WI.139" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Winnebago County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>139</fips>
+        <incits>55139</incits>
+        <id>US.WI.139</id>
+        <population>169541</population>
+      </desc>
+    </path>
+    <path d="M 380.5576 412.1874 423.4455 412.1874 463.1167 412.1874 463.1167 442.2089 430.9508 442.2089 380.5576 442.2089 380.5576 412.1874 Z" id="US.WI.137" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Waushara County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>137</fips>
+        <incits>55137</incits>
+        <id>US.WI.137</id>
+        <population>24329</population>
+      </desc>
+    </path>
+    <path d="M 479.1997 412.1874 480.2719 372.5161 495.2826 372.5161 537.0983 373.5883 543.5315 372.5161 542.4593 412.1874 518.871 412.1874 479.1997 412.1874 Z" id="US.WI.087" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Outagamie County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>087</fips>
+        <incits>55087</incits>
+        <id>US.WI.087</id>
+        <population>180345</population>
+      </desc>
+    </path>
+    <path d="M 518.871 412.1874 542.4593 412.1874 559.6144 413.2596 560.6866 452.9309 546.7481 452.9309 546.7481 447.5699 518.871 447.5699 518.871 412.1874 Z" id="US.WI.015" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Calumet County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>015</fips>
+        <incits>55015</incits>
+        <id>US.WI.015</id>
+        <population>49617</population>
+      </desc>
+    </path>
+    <path d="M 297.9985 321.0507 310.8648 321.0507 311.937 311.4009 329.0922 311.4009 400.9293 311.4009 423.4455 311.4009 423.4455 322.1229 423.4455 361.7942 393.424 361.7942 351.6083 361.7942 297.9985 361.7942 297.9985 321.0507 Z" id="US.WI.073" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Marathon County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>073</fips>
+        <incits>55073</incits>
+        <id>US.WI.073</id>
+        <population>135416</population>
+      </desc>
+    </path>
+    <path d="M 423.4455 412.1874 423.4455 361.7942 495.2826 362.8664 495.2826 372.5161 480.2719 372.5161 479.1997 412.1874 463.1167 412.1874 423.4455 412.1874 Z" id="US.WI.135" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Waupaca County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>135</fips>
+        <incits>55135</incits>
+        <id>US.WI.135</id>
+        <population>52285</population>
+      </desc>
+    </path>
+    <path d="M 351.6083 361.7942 393.424 361.7942 423.4455 361.7942 423.4455 412.1874 380.5576 412.1874 365.5469 412.1874 365.5469 381.0937 351.6083 381.0937 351.6083 361.7942 Z" id="US.WI.097" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Portage County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>097</fips>
+        <incits>55097</incits>
+        <id>US.WI.097</id>
+        <population>70380</population>
+      </desc>
+    </path>
+    <path d="M 423.4455 322.1229 451.3226 322.1229 451.3226 331.7727 480.2719 331.7727 480.2719 341.4224 508.149 341.4224 536.0261 342.4946 536.0261 352.1444 537.0983 361.7942 537.0983 373.5883 495.2826 372.5161 495.2826 362.8664 423.4455 361.7942 423.4455 322.1229 Z" id="US.WI.115" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Shawano County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>115</fips>
+        <incits>55115</incits>
+        <id>US.WI.115</id>
+        <population>41643</population>
+      </desc>
+    </path>
+    <path d="M 297.9985 391.8157 297.9985 361.7942 351.6083 361.7942 351.6083 381.0937 365.5469 381.0937 365.5469 412.1874 345.1751 412.1874 297.9985 412.1874 297.9985 391.8157 Z" id="US.WI.141" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wood County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>141</fips>
+        <incits>55141</incits>
+        <id>US.WI.141</id>
+        <population>73959</population>
+      </desc>
+    </path>
+    <path d="M 345.1751 412.1874 365.5469 412.1874 380.5576 412.1874 380.5576 442.2089 380.5576 481.8802 359.1137 481.8802 352.6805 472.2304 350.5361 466.8694 338.7419 455.0753 337.6697 450.7865 339.8141 445.4255 331.2366 431.4869 333.381 427.1982 337.6697 421.8372 345.1751 419.6928 345.1751 412.1874 Z" id="US.WI.001" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Adams County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>001</fips>
+        <incits>55001</incits>
+        <id>US.WI.001</id>
+        <population>20480</population>
+      </desc>
+    </path>
+    <path d="M 227.2335 371.4439 227.2335 341.4224 227.2335 322.1229 284.0599 322.1229 297.9985 321.0507 297.9985 361.7942 297.9985 391.8157 270.1214 391.8157 241.172 391.8157 241.172 382.1659 227.2335 382.1659 227.2335 371.4439 Z" id="US.WI.019" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Clark County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>019</fips>
+        <incits>55019</incits>
+        <id>US.WI.019</id>
+        <population>34615</population>
+      </desc>
+    </path>
+    <path d="M 227.2335 291.0292 227.2335 281.3794 256.1828 281.3794 284.0599 281.3794 329.0922 281.3794 329.0922 291.0292 329.0922 311.4009 311.937 311.4009 310.8648 321.0507 297.9985 321.0507 284.0599 322.1229 227.2335 322.1229 227.2335 311.4009 227.2335 291.0292 Z" id="US.WI.119" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Taylor County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>119</fips>
+        <incits>55119</incits>
+        <id>US.WI.119</id>
+        <population>20610</population>
+      </desc>
+    </path>
+    <path d="M 329.0922 281.3794 329.0922 261.0077 399.8571 261.0077 400.9293 271.7296 400.9293 311.4009 329.0922 311.4009 329.0922 291.0292 329.0922 281.3794 Z" id="US.WI.069" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lincoln County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>069</fips>
+        <incits>55069</incits>
+        <id>US.WI.069</id>
+        <population>28684</population>
+      </desc>
+    </path>
+    <path d="M 329.0922 221.3364 407.3625 221.3364 414.8679 221.3364 414.8679 225.6252 429.8786 225.6252 428.8065 221.3364 443.8172 222.4086 443.8172 271.7296 407.3625 270.6575 400.9293 271.7296 399.8571 261.0077 329.0922 261.0077 329.0922 221.3364 Z" id="US.WI.085" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Oneida County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>085</fips>
+        <incits>55085</incits>
+        <id>US.WI.085</id>
+        <population>35689</population>
+      </desc>
+    </path>
+    <path d="M 329.0922 211.6866 341.9585 211.6866 341.9585 175.232 396.6406 185.9539 439.5284 193.4593 457.7558 200.9647 457.7558 211.6866 443.8172 211.6866 443.8172 222.4086 428.8065 221.3364 429.8786 225.6252 414.8679 225.6252 414.8679 221.3364 407.3625 221.3364 329.0922 221.3364 329.0922 211.6866 Z" id="US.WI.125" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Vilas County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>125</fips>
+        <incits>55125</incits>
+        <id>US.WI.125</id>
+        <population>21368</population>
+      </desc>
+    </path>
+    <path d="M 457.7558 200.9647 474.9109 207.3978 479.1997 206.3257 486.7051 208.47 486.7051 211.6866 486.7051 241.7081 515.6544 241.7081 515.6544 281.3794 486.7051 281.3794 457.7558 281.3794 458.828 278.1628 458.828 271.7296 455.6114 271.7296 453.467 271.7296 449.1782 271.7296 445.9616 271.7296 443.8172 271.7296 443.8172 222.4086 443.8172 211.6866 457.7558 211.6866 457.7558 200.9647 Z" id="US.WI.041" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Forest County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>041</fips>
+        <incits>55041</incits>
+        <id>US.WI.041</id>
+        <population>9126</population>
+      </desc>
+    </path>
+    <path d="M 537.0983 361.7942 538.1705 362.8664 566.0476 362.8664 564.9754 363.9386 561.7588 375.7327 566.0476 378.9493 573.553 378.9493 578.914 371.4439 592.8525 366.0829 591.7803 372.5161 591.7803 402.5376 577.8418 402.5376 577.8418 413.2596 559.6144 413.2596 542.4593 412.1874 543.5315 372.5161 537.0983 373.5883 537.0983 361.7942 Z" id="US.WI.009" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Brown County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>009</fips>
+        <incits>55009</incits>
+        <id>US.WI.009</id>
+        <population>254586</population>
+      </desc>
+    </path>
+    <path d="M 559.6144 413.2596 577.8418 413.2596 577.8418 402.5376 591.7803 402.5376 617.5131 402.5376 618.5853 406.8264 621.8018 414.3318 620.7296 419.6928 616.4409 423.9816 606.7911 428.2704 596.0691 452.9309 560.6866 452.9309 559.6144 413.2596 Z" id="US.WI.071" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Manitowoc County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>071</fips>
+        <incits>55071</incits>
+        <id>US.WI.071</id>
+        <population>80654</population>
+      </desc>
+    </path>
+    <path d="M 591.7803 402.5376 591.7803 372.5161 592.8525 366.0829 594.9969 362.8664 636.8126 362.8664 626.0906 377.8771 617.5131 402.5376 591.7803 402.5376 Z" id="US.WI.061" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Kewaunee County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>061</fips>
+        <incits>55061</incits>
+        <id>US.WI.061</id>
+        <population>20505</population>
+      </desc>
+    </path>
+    <path d="M 594.9969 362.8664 597.1413 357.5054 610.0077 343.5668 623.9462 342.4946 631.4516 339.278 635.7404 344.639 644.318 348.9278 641.1014 357.5054 636.8126 362.8664 594.9969 362.8664 Z M 644.318 348.9278 635.7404 343.5668 635.7404 338.2058 633.596 336.0614 638.957 326.4117 648.6068 315.6897 652.8955 306.0399 658.2565 306.0399 663.6175 302.8233 667.9063 295.318 672.1951 291.0292 682.9171 291.0292 682.9171 300.679 677.5561 298.5346 675.4117 304.9677 671.1229 308.1843 675.4117 312.4731 673.2673 315.6897 666.8341 317.8341 664.6897 323.1951 659.3287 328.5561 660.4009 333.9171 656.1121 336.0614 657.1843 340.3502 649.679 342.4946 644.318 348.9278 Z M 685.0614 285.6682 687.2058 277.0906 696.8556 277.0906 699 280.3072 695.7834 286.7404 685.0614 285.6682 Z" id="US.WI.029" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Door County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>029</fips>
+        <incits>55029</incits>
+        <id>US.WI.029</id>
+        <population>27896</population>
+      </desc>
+    </path>
+    <path d="M 256.1828 251.3579 256.1828 211.6866 299.0707 211.6866 329.0922 211.6866 329.0922 221.3364 329.0922 261.0077 329.0922 281.3794 284.0599 281.3794 256.1828 281.3794 256.1828 251.3579 Z" id="US.WI.099" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Price County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>099</fips>
+        <incits>55099</incits>
+        <id>US.WI.099</id>
+        <population>13802</population>
+      </desc>
+    </path>
+    <path d="M 271.1935 141.9939 275.4823 141.9939 288.3487 148.427 297.9985 148.427 303.3594 151.6436 309.7926 151.6436 320.5146 168.7988 320.5146 170.9432 341.9585 175.232 341.9585 211.6866 329.0922 211.6866 299.0707 211.6866 299.0707 192.3871 285.1321 191.3149 285.1321 181.6651 270.1214 181.6651 271.1935 141.9939 Z" id="US.WI.051" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Iron County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>051</fips>
+        <incits>55051</incits>
+        <id>US.WI.051</id>
+        <population>5886</population>
+      </desc>
+    </path>
+    <path d="M 227.2335 192.3871 227.2335 151.6436 227.2335 141.9939 229.3779 141.9939 248.6774 134.4885 254.0384 133.4163 271.1935 141.9939 270.1214 181.6651 285.1321 181.6651 285.1321 191.3149 299.0707 192.3871 299.0707 211.6866 256.1828 211.6866 227.2335 211.6866 227.2335 192.3871 Z M 243.3164 119.4777 249.7496 117.3333 262.616 108.7558 266.9048 110.9002 256.1828 115.1889 245.4608 122.6943 243.3164 119.4777 Z M 258.3272 103.3948 260.4716 101.2504 273.3379 98.0338 273.3379 102.3226 260.4716 105.5392 258.3272 103.3948 Z M 279.7711 95.8894 284.0599 86.2396 288.3487 85.1674 287.2765 91.6006 279.7711 95.8894 Z" id="US.WI.003" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ashland County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>003</fips>
+        <incits>55003</incits>
+        <id>US.WI.003</id>
+        <population>16016</population>
+      </desc>
+    </path>
+    <path d="M 155.3963 191.3149 169.3349 191.3149 227.2335 192.3871 227.2335 211.6866 256.1828 211.6866 256.1828 251.3579 156.4685 251.3579 156.4685 211.6866 155.3963 211.6866 155.3963 191.3149 Z" id="US.WI.113" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Sawyer County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>113</fips>
+        <incits>55113</incits>
+        <id>US.WI.113</id>
+        <population>16513</population>
+      </desc>
+    </path>
+    <path d="M 155.3963 122.6943 176.8402 118.4055 180.0568 115.1889 188.6344 113.0445 191.851 110.9002 198.2842 111.9724 207.9339 107.6836 213.2949 107.6836 221.8725 101.2504 227.2335 102.3226 235.8111 99.106 243.3164 102.3226 247.6052 107.6836 242.2442 115.1889 234.7389 119.4777 232.5945 123.7665 235.8111 129.1275 228.3057 133.4163 224.0169 140.9217 227.2335 141.9939 227.2335 151.6436 227.2335 192.3871 169.3349 191.3149 155.3963 191.3149 154.3241 141.9939 155.3963 122.6943 Z" id="US.WI.007" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Bayfield County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>007</fips>
+        <incits>55007</incits>
+        <id>US.WI.007</id>
+        <population>15156</population>
+      </desc>
+    </path>
+    <path d="M 141.4578 301.7512 156.4685 301.7512 156.4685 291.0292 227.2335 291.0292 227.2335 311.4009 227.2335 322.1229 227.2335 341.4224 143.6022 341.4224 143.6022 311.4009 141.4578 301.7512 Z" id="US.WI.017" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Chippewa County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>017</fips>
+        <incits>55017</incits>
+        <id>US.WI.017</id>
+        <population>63132</population>
+      </desc>
+    </path>
+    <path d="M 156.4685 291.0292 156.4685 251.3579 256.1828 251.3579 256.1828 281.3794 227.2335 281.3794 227.2335 291.0292 156.4685 291.0292 Z" id="US.WI.107" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Rusk County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>107</fips>
+        <incits>55107</incits>
+        <id>US.WI.107</id>
+        <population>14395</population>
+      </desc>
+    </path>
+    <path d="M 297.9985 422.9094 297.9985 412.1874 345.1751 412.1874 345.1751 419.6928 337.6697 421.8372 333.381 427.1982 331.2366 431.4869 339.8141 445.4255 337.6697 450.7865 338.7419 455.0753 350.5361 466.8694 352.6805 472.2304 359.1137 481.8802 297.9985 481.8802 297.9985 471.1582 297.9985 422.9094 Z" id="US.WI.057" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Juneau County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>057</fips>
+        <incits>55057</incits>
+        <id>US.WI.057</id>
+        <population>26547</population>
+      </desc>
+    </path>
+    <path d="M 221.8725 432.5591 221.8725 426.126 228.3057 421.8372 284.0599 421.8372 297.9985 422.9094 297.9985 471.1582 284.0599 472.2304 229.3779 472.2304 228.3057 432.5591 221.8725 432.5591 Z" id="US.WI.081" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Monroe County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>081</fips>
+        <incits>55081</incits>
+        <id>US.WI.081</id>
+        <population>45298</population>
+      </desc>
+    </path>
+    <path d="M 199.3564 371.4439 227.2335 371.4439 227.2335 382.1659 241.172 382.1659 241.172 391.8157 270.1214 391.8157 297.9985 391.8157 297.9985 412.1874 297.9985 422.9094 284.0599 421.8372 228.3057 421.8372 221.8725 426.126 221.8725 432.5591 201.5008 432.5591 201.5008 431.4869 201.5008 412.1874 199.3564 412.1874 199.3564 371.4439 Z" id="US.WI.053" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jackson County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>053</fips>
+        <incits>55053</incits>
+        <id>US.WI.053</id>
+        <population>20644</population>
+      </desc>
+    </path>
+    <path d="M 486.7051 208.47 494.2104 211.6866 499.5714 208.47 506.0046 207.3978 515.6544 211.6866 521.0154 210.6144 530.6651 214.9032 536.0261 213.831 544.6037 215.9754 549.9647 219.192 556.3978 224.553 549.9647 229.914 554.2535 234.2028 558.5422 235.275 558.5422 242.7803 515.6544 241.7081 486.7051 241.7081 486.7051 211.6866 486.7051 208.47 Z" id="US.WI.037" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Florence County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>037</fips>
+        <incits>55037</incits>
+        <id>US.WI.037</id>
+        <population>4520</population>
+      </desc>
+    </path>
+    <path d="M 195.0676 506.5407 257.255 507.6129 257.255 536.5622 254.0384 536.5622 245.4608 542.9954 235.8111 547.2842 225.0891 548.3564 222.9447 551.573 211.1505 556.9339 200.4286 556.9339 198.2842 548.3564 198.2842 540.851 204.7174 533.3456 212.2227 526.9124 203.6452 518.3349 195.0676 516.1905 195.0676 506.5407 Z" id="US.WI.023" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Crawford County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>023</fips>
+        <incits>55023</incits>
+        <id>US.WI.023</id>
+        <population>16397</population>
+      </desc>
+    </path>
+    <path d="M 200.4286 556.9339 211.1505 556.9339 222.9447 551.573 225.0891 548.3564 235.8111 547.2842 245.4608 542.9954 254.0384 536.5622 257.255 536.5622 271.1935 531.2012 285.1321 533.3456 285.1321 577.3057 285.1321 612.6882 260.4716 612.6882 258.3272 606.255 250.8218 597.6774 224.0169 592.3164 213.2949 585.8833 211.1505 583.7389 206.8618 569.8003 201.5008 566.5837 200.4286 556.9339 Z" id="US.WI.043" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Grant County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>043</fips>
+        <incits>55043</incits>
+        <id>US.WI.043</id>
+        <population>51069</population>
+      </desc>
+    </path>
+    <path d="M 169.3349 442.2089 181.129 442.2089 178.9846 436.8479 182.2012 433.6313 193.9954 433.6313 196.1398 430.4147 201.5008 431.4869 201.5008 432.5591 221.8725 432.5591 228.3057 432.5591 229.3779 472.2304 188.6344 472.2304 190.7788 466.8694 186.49 458.2919 176.8402 448.6421 169.3349 442.2089 Z" id="US.WI.063" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>La Crosse County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>063</fips>
+        <incits>55063</incits>
+        <id>US.WI.063</id>
+        <population>116713</population>
+      </desc>
+    </path>
+    <path d="M 188.6344 472.2304 229.3779 472.2304 284.0599 472.2304 297.9985 471.1582 297.9985 481.8802 297.9985 492.6022 256.1828 492.6022 257.255 507.6129 195.0676 506.5407 191.851 503.3241 193.9954 496.8909 190.7788 492.6022 191.851 489.3856 187.5622 485.0968 187.5622 474.3748 188.6344 472.2304 Z" id="US.WI.123" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Vernon County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>123</fips>
+        <incits>55123</incits>
+        <id>US.WI.123</id>
+        <population>30329</population>
+      </desc>
+    </path>
+    <path d="M 14.9386 341.4224 59.9708 341.4224 87.8479 341.4224 87.8479 361.7942 87.8479 377.8771 66.404 377.8771 63.1874 376.8049 50.321 375.7327 43.8879 374.6605 32.0937 369.2995 32.0937 367.1551 18.1551 357.5054 10.6498 354.2888 14.9386 343.5668 14.9386 341.4224 Z" id="US.WI.093" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pierce County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>093</fips>
+        <incits>55093</incits>
+        <id>US.WI.093</id>
+        <population>40976</population>
+      </desc>
+    </path>
+    <path d="M 66.404 377.8771 87.8479 377.8771 87.8479 361.7942 143.6022 361.7942 143.6022 371.4439 101.7865 371.4439 99.6421 373.5883 97.4977 381.0937 94.2811 393.9601 78.1982 389.6713 71.765 386.4547 66.404 377.8771 Z" id="US.WI.091" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pepin County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>091</fips>
+        <incits>55091</incits>
+        <id>US.WI.091</id>
+        <population>7360</population>
+      </desc>
+    </path>
+    <path d="M 1 251.3579 3.1444 242.7803 12.7942 237.4194 21.3717 222.4086 29.9493 218.1198 39.5991 214.9032 42.8157 211.6866 49.2488 212.7588 54.6098 206.3257 61.043 208.47 65.3318 202.0369 69.6206 200.9647 69.6206 191.3149 97.4977 191.3149 97.4977 211.6866 99.6421 211.6866 99.6421 251.3579 85.7035 251.3579 85.7035 241.7081 42.8157 240.6359 41.7435 251.3579 1 251.3579 Z" id="US.WI.013" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Burnett County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>013</fips>
+        <incits>55013</incits>
+        <id>US.WI.013</id>
+        <population>15333</population>
+      </desc>
+    </path>
+    <path d="M 155.3963 122.6943 154.3241 141.9939 155.3963 191.3149 97.4977 191.3149 69.6206 191.3149 69.6206 137.7051 72.8372 134.4885 78.1982 134.4885 86.7757 126.9831 93.2089 123.7665 99.6421 128.0553 110.3641 131.2719 127.5192 129.1275 152.1797 122.6943 155.3963 122.6943 Z" id="US.WI.031" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Douglas County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>031</fips>
+        <incits>55031</incits>
+        <id>US.WI.031</id>
+        <population>43887</population>
+      </desc>
+    </path>
+    <path d="M 1 251.3579 41.7435 251.3579 42.8157 240.6359 85.7035 241.7081 85.7035 251.3579 85.7035 300.679 16.0108 300.679 14.9386 292.1014 21.3717 287.8126 22.4439 284.596 27.8049 279.235 28.8771 273.874 19.2273 266.3687 19.2273 263.1521 14.9386 259.9355 8.5054 261.0077 1 258.8633 1 251.3579 Z" id="US.WI.095" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Polk County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>095</fips>
+        <incits>55095</incits>
+        <id>US.WI.095</id>
+        <population>43476</population>
+      </desc>
+    </path>
+    <path d="M 97.4977 191.3149 155.3963 191.3149 155.3963 211.6866 156.4685 211.6866 156.4685 251.3579 99.6421 251.3579 99.6421 211.6866 97.4977 211.6866 97.4977 191.3149 Z" id="US.WI.129" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Washburn County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>129</fips>
+        <incits>55129</incits>
+        <id>US.WI.129</id>
+        <population>15686</population>
+      </desc>
+    </path>
+    <path d="M 94.2811 393.9601 97.4977 381.0937 99.6421 373.5883 101.7865 371.4439 143.6022 371.4439 157.5407 371.4439 157.5407 412.1874 148.9631 415.404 148.9631 421.8372 153.2519 422.9094 156.4685 429.3425 153.2519 435.7757 154.3241 437.9201 144.6743 433.6313 137.169 427.1982 124.3026 421.8372 117.8694 417.5484 115.725 408.9708 112.5084 407.8986 111.4363 402.5376 108.2197 399.321 94.2811 393.9601 Z" id="US.WI.011" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Buffalo County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>011</fips>
+        <incits>55011</incits>
+        <id>US.WI.011</id>
+        <population>13357</population>
+      </desc>
+    </path>
+    <path d="M 157.5407 371.4439 199.3564 371.4439 199.3564 412.1874 201.5008 412.1874 201.5008 431.4869 196.1398 430.4147 193.9954 433.6313 182.2012 433.6313 178.9846 436.8479 181.129 442.2089 169.3349 442.2089 168.2627 440.0645 154.3241 437.9201 153.2519 435.7757 156.4685 429.3425 153.2519 422.9094 148.9631 421.8372 148.9631 415.404 157.5407 412.1874 157.5407 371.4439 Z" id="US.WI.121" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Trempealeau County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>121</fips>
+        <incits>55121</incits>
+        <id>US.WI.121</id>
+        <population>29582</population>
+      </desc>
+    </path>
+    <path d="M 85.7035 251.3579 99.6421 251.3579 156.4685 251.3579 156.4685 291.0292 156.4685 301.7512 141.4578 301.7512 85.7035 300.679 85.7035 251.3579 Z" id="US.WI.005" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Barron County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>005</fips>
+        <incits>55005</incits>
+        <id>US.WI.005</id>
+        <population>45676</population>
+      </desc>
+    </path>
+    <path d="M 85.7035 300.679 141.4578 301.7512 143.6022 311.4009 143.6022 341.4224 143.6022 361.7942 87.8479 361.7942 87.8479 341.4224 87.8479 311.4009 84.6313 311.4009 85.7035 300.679 Z" id="US.WI.033" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dunn County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>033</fips>
+        <incits>55033</incits>
+        <id>US.WI.033</id>
+        <population>44122</population>
+      </desc>
+    </path>
+    <path d="M 143.6022 371.4439 143.6022 361.7942 143.6022 341.4224 227.2335 341.4224 227.2335 371.4439 199.3564 371.4439 157.5407 371.4439 143.6022 371.4439 Z" id="US.WI.035" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Eau Claire County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>035</fips>
+        <incits>55035</incits>
+        <id>US.WI.035</id>
+        <population>101438</population>
+      </desc>
+    </path>
+    <path d="M 515.6544 281.3794 515.6544 241.7081 558.5422 242.7803 558.5422 235.275 566.0476 233.1306 569.2642 237.4194 578.914 238.4916 586.4194 242.7803 590.7081 247.0691 585.3472 249.2135 590.7081 255.6467 587.4916 262.0799 588.5637 267.4409 586.4194 271.7296 581.0584 274.9462 582.1306 278.1628 577.8418 283.5238 593.9247 284.596 600.3579 280.3072 605.7189 285.6682 601.4301 291.0292 596.0691 304.9677 601.4301 308.1843 604.6467 312.4731 612.1521 314.6175 608.9355 319.9785 607.8633 327.4839 604.6467 328.5561 592.8525 329.6283 592.8525 326.4117 571.4086 326.4117 571.4086 323.1951 551.0369 322.1229 551.0369 312.4731 543.5315 312.4731 543.5315 302.8233 529.5929 301.7512 529.5929 282.4516 515.6544 281.3794 Z" id="US.WI.075" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Marinette County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>075</fips>
+        <incits>55075</incits>
+        <id>US.WI.075</id>
+        <population>41610</population>
+      </desc>
+    </path>
+    <path d="M 16.0108 300.679 85.7035 300.679 84.6313 311.4009 87.8479 311.4009 87.8479 341.4224 59.9708 341.4224 14.9386 341.4224 16.0108 330.7005 14.9386 322.1229 11.722 315.6897 17.0829 312.4731 14.9386 303.8955 16.0108 300.679 Z" id="US.WI.109" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>St. Croix County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>109</fips>
+        <incits>55109</incits>
+        <id>US.WI.109</id>
+        <population>85930</population>
+      </desc>
+    </path>
+    <path d="M 359.1137 481.8802 380.5576 481.8802 421.3011 481.8802 435.2396 482.9524 449.1782 482.9524 449.1782 512.9739 448.106 523.6959 407.3625 523.6959 407.3625 522.6237 366.619 522.6237 365.5469 519.4071 370.9078 515.1183 380.5576 511.9017 380.5576 492.6022 369.8356 490.4578 366.619 487.2412 361.2581 486.169 359.1137 481.8802 Z" id="US.WI.021" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Columbia County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>021</fips>
+        <incits>55021</incits>
+        <id>US.WI.021</id>
+        <population>56653</population>
+      </desc>
+    </path>
+    <path d="M 352.6805 532.2734 356.9693 527.9846 362.3303 527.9846 366.619 522.6237 407.3625 522.6237 407.3625 523.6959 448.106 523.6959 448.106 533.3456 448.106 574.0891 407.3625 574.0891 407.3625 573.0169 352.6805 571.9447 352.6805 532.2734 Z" id="US.WI.025" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dane County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>025</fips>
+        <incits>55025</incits>
+        <id>US.WI.025</id>
+        <population>509939</population>
+      </desc>
+    </path>
+    <path d="M 352.6805 577.3057 352.6805 571.9447 407.3625 573.0169 407.3625 574.0891 407.3625 613.7604 352.6805 612.6882 352.6805 577.3057 Z" id="US.WI.045" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Green County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>045</fips>
+        <incits>55045</incits>
+        <id>US.WI.045</id>
+        <population>37090</population>
+      </desc>
+    </path>
+    <path d="M 285.1321 533.3456 293.7097 532.2734 304.4316 533.3456 311.937 537.6344 328.02 537.6344 334.4531 533.3456 345.1751 534.4178 352.6805 532.2734 352.6805 571.9447 352.6805 577.3057 285.1321 577.3057 285.1321 533.3456 Z" id="US.WI.049" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Iowa County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>049</fips>
+        <incits>55049</incits>
+        <id>US.WI.049</id>
+        <population>23749</population>
+      </desc>
+    </path>
+    <path d="M 448.106 533.3456 489.9217 533.3456 502.788 533.3456 502.788 574.0891 475.9831 574.0891 448.106 574.0891 448.106 533.3456 Z" id="US.WI.055" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jefferson County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>055</fips>
+        <incits>55055</incits>
+        <id>US.WI.055</id>
+        <population>84509</population>
+      </desc>
+    </path>
+    <path d="M 529.5929 600.894 543.5315 600.894 543.5315 594.4608 587.4916 594.4608 586.4194 599.8218 588.5637 614.8326 529.5929 614.8326 529.5929 600.894 Z" id="US.WI.059" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Kenosha County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>059</fips>
+        <incits>55059</incits>
+        <id>US.WI.059</id>
+        <population>167757</population>
+      </desc>
+    </path>
+    <path d="M 285.1321 577.3057 352.6805 577.3057 352.6805 612.6882 285.1321 612.6882 285.1321 577.3057 Z" id="US.WI.065" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lafayette County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>065</fips>
+        <incits>55065</incits>
+        <id>US.WI.065</id>
+        <population>16766</population>
+      </desc>
+    </path>
+    <path d="M 380.5576 481.8802 380.5576 442.2089 430.9508 442.2089 430.9508 455.0753 426.6621 455.0753 426.6621 462.5806 429.8786 467.9416 421.3011 469.0138 421.3011 481.8802 380.5576 481.8802 Z" id="US.WI.077" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Marquette County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>077</fips>
+        <incits>55077</incits>
+        <id>US.WI.077</id>
+        <population>15176</population>
+      </desc>
+    </path>
+    <path d="M 490.9939 311.4009 509.2212 311.4009 508.149 341.4224 480.2719 341.4224 480.2719 331.7727 451.3226 331.7727 451.3226 322.1229 451.3226 311.4009 490.9939 311.4009 Z" id="US.WI.078" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Menominee County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>078</fips>
+        <incits>55078</incits>
+        <id>US.WI.078</id>
+        <population>4317</population>
+      </desc>
+    </path>
+    <path d="M 557.47 533.3456 557.47 514.0461 560.6866 514.0461 560.6866 493.6743 589.6359 493.6743 589.6359 499.0353 586.4194 505.4685 579.9862 512.9739 575.6974 526.9124 577.8418 534.4178 557.47 533.3456 Z" id="US.WI.089" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ozaukee County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>089</fips>
+        <incits>55089</incits>
+        <id>US.WI.089</id>
+        <population>87054</population>
+      </desc>
+    </path>
+    <path d="M 529.5929 574.0891 557.47 574.0891 585.3472 574.0891 592.8525 581.5945 590.7081 584.8111 590.7081 590.172 587.4916 594.4608 543.5315 594.4608 543.5315 600.894 529.5929 600.894 529.5929 574.0891 Z" id="US.WI.101" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Racine County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>101</fips>
+        <incits>55101</incits>
+        <id>US.WI.101</id>
+        <population>195041</population>
+      </desc>
+    </path>
+    <path d="M 297.9985 492.6022 311.937 491.53 311.937 537.6344 304.4316 533.3456 293.7097 532.2734 285.1321 533.3456 271.1935 531.2012 257.255 536.5622 257.255 507.6129 256.1828 492.6022 297.9985 492.6022 Z" id="US.WI.103" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Richland County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>103</fips>
+        <incits>55103</incits>
+        <id>US.WI.103</id>
+        <population>17717</population>
+      </desc>
+    </path>
+    <path d="M 407.3625 574.0891 448.106 574.0891 475.9831 574.0891 475.9831 614.8326 407.3625 613.7604 407.3625 574.0891 Z" id="US.WI.105" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Rock County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>105</fips>
+        <incits>55105</incits>
+        <id>US.WI.105</id>
+        <population>160739</population>
+      </desc>
+    </path>
+    <path d="M 297.9985 481.8802 359.1137 481.8802 361.2581 486.169 366.619 487.2412 369.8356 490.4578 380.5576 492.6022 380.5576 511.9017 370.9078 515.1183 365.5469 519.4071 366.619 522.6237 362.3303 527.9846 356.9693 527.9846 352.6805 532.2734 345.1751 534.4178 334.4531 533.3456 328.02 537.6344 311.937 537.6344 311.937 491.53 297.9985 492.6022 297.9985 481.8802 Z" id="US.WI.111" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Sauk County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>111</fips>
+        <incits>55111</incits>
+        <id>US.WI.111</id>
+        <population>63162</population>
+      </desc>
+    </path>
+    <path d="M 475.9831 574.0891 502.788 574.0891 529.5929 574.0891 529.5929 600.894 529.5929 614.8326 475.9831 614.8326 475.9831 574.0891 Z" id="US.WI.127" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Walworth County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>127</fips>
+        <incits>55127</incits>
+        <id>US.WI.127</id>
+        <population>102945</population>
+      </desc>
+    </path>
+    <path d="M 400.9293 311.4009 400.9293 271.7296 407.3625 270.6575 443.8172 271.7296 445.9616 271.7296 449.1782 271.7296 458.828 271.7296 458.828 278.1628 457.7558 281.3794 486.7051 281.3794 486.7051 301.7512 490.9939 301.7512 490.9939 311.4009 451.3226 311.4009 451.3226 322.1229 423.4455 322.1229 423.4455 311.4009 400.9293 311.4009 Z" id="US.WI.067" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Langlade County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>067</fips>
+        <incits>55067</incits>
+        <id>US.WI.067</id>
+        <population>19575</population>
+      </desc>
+    </path>
+    <path d="M 486.7051 281.3794 515.6544 281.3794 529.5929 282.4516 529.5929 301.7512 543.5315 302.8233 543.5315 312.4731 551.0369 312.4731 551.0369 322.1229 571.4086 323.1951 571.4086 326.4117 592.8525 326.4117 592.8525 329.6283 586.4194 330.7005 583.2028 334.9892 585.3472 337.1336 581.0584 343.5668 577.8418 344.639 572.4808 353.2166 567.1198 358.5776 566.0476 362.8664 538.1705 362.8664 537.0983 361.7942 536.0261 352.1444 536.0261 342.4946 508.149 341.4224 509.2212 311.4009 490.9939 311.4009 490.9939 301.7512 486.7051 301.7512 486.7051 281.3794 Z" id="US.WI.083" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Oconto County</name>
+        <stateAbbrev>WI</stateAbbrev>
+        <state>Wisconsin</state>
+        <fips>083</fips>
+        <incits>55083</incits>
+        <id>US.WI.083</id>
+        <population>37318</population>
+      </desc>
+    </path>
+  </g>
+</svg>

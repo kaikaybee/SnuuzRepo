@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="chad">
+    <path d="M 215.4779 445.1074 224.5893 449.4072 229.1962 448.7929 234.1103 455.0378 253.2546 455.2426 276.8011 449.919 282.5342 451.6594 274.2417 461.7947 278.3368 465.2754 281.9199 474.3869 287.5506 479.1986 292.7718 492.6099 300.3476 494.9645 298.3001 504.6902 302.907 514.2112 295.7407 516.2587 287.2435 523.7322 275.5726 515.1326 266.7683 512.7779 260.9328 491.279 236.1578 480.6319 232.5747 484.5221 221.2109 485.2388 211.8947 488.6172 203.6022 485.3412 186.4031 488.9243 183.0246 471.8275 172.6847 466.9135 168.8967 455.6521 191.829 456.0616 191.3171 444.8002 198.8929 447.462 202.8856 451.9666 207.7996 447.8715 201.4523 439.7838 207.3901 438.8624 215.4779 445.1074 Z" id="TD.HD" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>TD.HD</code_hasc>
+        <name>Hadjer-Lamis</name>
+        <admin>Chad</admin>
+        <type_en>Prefecture</type_en>
+        <region/>
+        <woe_id>-2344948</woe_id>
+        <longitude>15</longitude>
+        <woe_name>Hadjer-Lamis</woe_name>
+        <fips>CD18</fips>
+        <woe_label>Chari-Baguirmi, TD, Chad</woe_label>
+        <latitude>12</latitude>
+        <iso_a2>TD</iso_a2>
+        <postal>HD</postal>
+        <type>Préfecture</type>
+        <id>TD.HD</id>
+      </desc>
+    </path>
+    <path d="M 265.5397 311.8137 257.5544 324.9179 241.2766 378.1534 240.2529 388.391 225.4083 406.7163 217.5254 409.6852 217.6278 423.8131 224.3846 422.3799 228.582 424.4274 229.1962 448.7929 224.5893 449.4072 215.4779 445.1074 208.1068 423.7108 183.5365 426.9868 170.1253 407.3306 164.9041 405.795 153.8475 393.1003 133.4746 388.0839 136.034 386.0364 135.4198 382.3508 140.4362 379.4843 140.2314 373.8536 143.8146 366.3802 167.5659 335.1555 215.5802 286.015 265.5397 311.8137 Z" id="TD.KM" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>TD.KM</code_hasc>
+        <name>Kanem</name>
+        <admin>Chad</admin>
+        <type_en>Prefecture</type_en>
+        <region/>
+        <woe_id>2344950</woe_id>
+        <longitude>15</longitude>
+        <woe_name>Kanem</woe_name>
+        <fips>CD06</fips>
+        <woe_label/>
+        <latitude>15</latitude>
+        <iso_a2>TD</iso_a2>
+        <postal>KM</postal>
+        <type>Préfecture</type>
+        <id>TD.KM</id>
+      </desc>
+    </path>
+    <path d="M 215.4779 445.1074 207.3901 438.8624 201.4523 439.7838 207.7996 447.8715 202.8856 451.9666 198.8929 447.462 191.3171 444.8002 191.829 456.0616 168.8967 455.6521 166.3373 451.9666 151.1857 451.7618 132.3485 423.7108 126.5131 393.9193 128.0487 389.4148 133.4746 388.0839 153.8475 393.1003 164.9041 405.795 170.1253 407.3306 183.5365 426.9868 208.1068 423.7108 215.4779 445.1074 Z" id="TD.LC" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>TD.LC</code_hasc>
+        <name>Lac</name>
+        <admin>Chad</admin>
+        <type_en>Prefecture</type_en>
+        <region/>
+        <woe_id>2344951</woe_id>
+        <longitude>14</longitude>
+        <woe_name>Lac</woe_name>
+        <fips>CD07</fips>
+        <woe_label/>
+        <latitude>13</latitude>
+        <iso_a2>TD</iso_a2>
+        <postal>LC</postal>
+        <type>Préfecture</type>
+        <id>TD.LC</id>
+      </desc>
+    </path>
+    <path d="M 405.4878 337.9196 405.1807 408.7639 405.1807 415.1112 415.2136 420.6395 417.5682 455.1402 404.5664 460.3614 392.3837 456.6759 366.9944 469.6776 338.022 468.961 318.7753 481.0414 311.8137 481.9627 300.5524 491.4837 300.3476 494.9645 292.7718 492.6099 287.5506 479.1986 281.9199 474.3869 278.3368 465.2754 274.2417 461.7947 282.5342 451.6594 285.6055 447.0525 287.4482 426.5773 300.8595 422.4823 320.7204 344.4717 329.8319 351.5356 341.1957 354.8117 358.702 350.2048 368.8372 340.0695 372.8299 320.4133 379.0748 322.5632 380.7128 329.1153 386.753 333.4151 405.4878 337.9196 Z" id="TD.BA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>TD.BA</code_hasc>
+        <name>Batha</name>
+        <admin>Chad</admin>
+        <type_en>Prefecture</type_en>
+        <region/>
+        <woe_id>2344945</woe_id>
+        <longitude>18</longitude>
+        <woe_name>Batha</woe_name>
+        <fips>CD01</fips>
+        <woe_label/>
+        <latitude>14</latitude>
+        <iso_a2>TD</iso_a2>
+        <postal>BA</postal>
+        <type>Préfecture</type>
+        <id>TD.BA</id>
+      </desc>
+    </path>
+    <path d="M 536.9387 340.9909 528.1344 348.2596 531.1033 355.5283 530.6938 362.0804 517.8967 378.1534 518.6134 385.4221 505.4069 391.8718 508.0686 395.0455 508.2734 403.9522 512.6756 405.8973 513.2898 409.3781 497.831 419.0015 477.4582 410.8114 465.5826 409.071 454.7307 411.3233 445.824 406.8187 441.0123 400.2666 428.6248 395.2502 417.4658 396.4787 405.1807 408.7639 405.4878 337.9196 417.773 343.0384 425.8607 341.1957 429.3414 342.3218 440.6028 337.4077 451.6594 329.32 460.7709 333.5175 478.482 328.6034 486.1602 330.9581 497.2168 328.501 501.1071 331.4699 509.6043 332.3913 512.9827 336.5887 530.7961 336.0769 536.9387 340.9909 Z" id="TD.BI" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>TD.BI</code_hasc>
+        <name>Wadi Fira</name>
+        <admin>Chad</admin>
+        <type_en>Prefecture</type_en>
+        <region/>
+        <woe_id>2344946</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Wadi Fira</woe_name>
+        <fips>CD02</fips>
+        <woe_label>Wadi Fira, TD, Chad</woe_label>
+        <latitude>15</latitude>
+        <iso_a2>TD</iso_a2>
+        <postal>BI</postal>
+        <type>Préfecture</type>
+        <id>TD.BI</id>
+      </desc>
+    </path>
+    <path d="M 404.5664 460.3614 412.347 467.6301 407.0235 473.5679 408.8662 476.7416 401.2904 484.9317 397.093 498.8548 378.6653 495.5788 371.2942 502.5403 374.4679 508.0686 370.0657 516.6682 364.435 519.1253 361.978 515.1326 356.0402 516.2587 355.7331 530.8985 391.2576 549.1214 389.9267 562.7375 384.5007 568.061 377.8463 569.1872 373.6489 574.306 374.4679 576.4559 363.5136 587.922 352.5594 589.6624 351.1261 594.474 348.2596 595.1907 344.0622 593.1432 344.4717 588.4339 337.8172 581.4723 324.6107 574.306 315.3969 572.4632 310.9947 568.4705 298.3001 568.7776 288.0625 563.3517 287.2435 523.7322 295.7407 516.2587 302.907 514.2112 298.3001 504.6902 300.3476 494.9645 300.5524 491.4837 311.8137 481.9627 318.7753 481.0414 338.022 468.961 366.9944 469.6776 392.3837 456.6759 404.5664 460.3614 Z" id="TD.GR" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>TD.GR</code_hasc>
+        <name>Guéra</name>
+        <admin>Chad</admin>
+        <type_en>Prefecture</type_en>
+        <region/>
+        <woe_id>2344949</woe_id>
+        <longitude>18</longitude>
+        <woe_name>Guéra</woe_name>
+        <fips>CD05</fips>
+        <woe_label>Guera, TD, Chad</woe_label>
+        <latitude>11</latitude>
+        <iso_a2>TD</iso_a2>
+        <postal>GR</postal>
+        <type>Préfecture</type>
+        <id>TD.GR</id>
+      </desc>
+    </path>
+    <path d="M 497.831 419.0015 493.3265 425.5535 501.6189 444.4931 488.7196 454.8331 482.1675 468.142 472.1346 464.3541 457.802 473.2608 446.8478 473.6703 441.2171 471.418 440.8076 464.3541 434.2555 463.0232 433.846 457.1877 417.5682 455.1402 415.2136 420.6395 405.1807 415.1112 405.1807 408.7639 417.4658 396.4787 428.6248 395.2502 441.0123 400.2666 445.824 406.8187 454.7307 411.3233 465.5826 409.071 477.4582 410.8114 497.831 419.0015 Z" id="TD.OA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>TD.OA</code_hasc>
+        <name>Ouaddaï</name>
+        <admin>Chad</admin>
+        <type_en>Prefecture</type_en>
+        <region/>
+        <woe_id>2344956</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Ouaddaï</woe_name>
+        <fips>CD12</fips>
+        <woe_label>Ouaddai, TD, Chad</woe_label>
+        <latitude>13</latitude>
+        <iso_a2>TD</iso_a2>
+        <postal>OA</postal>
+        <type>Préfecture</type>
+        <id>TD.OA</id>
+      </desc>
+    </path>
+    <path d="M 250.081 626.4154 256.9402 636.3458 253.2546 642.7955 231.039 653.1355 222.6442 661.5304 211.9971 663.885 199.2001 655.3878 200.7357 645.6621 207.902 630.2033 212.4066 631.8413 223.2584 630.5104 231.2438 626.7225 237.5911 627.951 246.8049 621.5013 250.081 626.4154 Z" id="TD.LO" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>TD.LO</code_hasc>
+        <name>Logone Occidental</name>
+        <admin>Chad</admin>
+        <type_en>Prefecture</type_en>
+        <region/>
+        <woe_id>2344952</woe_id>
+        <longitude>15</longitude>
+        <woe_name>Logone Occidental</woe_name>
+        <fips>CD08</fips>
+        <woe_label>Logone Occidental, TD, Chad</woe_label>
+        <latitude>8</latitude>
+        <iso_a2>TD</iso_a2>
+        <postal>LO</postal>
+        <type>Préfecture</type>
+        <id>TD.LO</id>
+      </desc>
+    </path>
+    <path d="M 279.0534 629.2819 279.4629 641.7718 275.7774 648.3238 284.9912 663.5779 281.408 669.0038 277.6201 669.9252 284.1722 684.2578 278.3368 689.9909 268.7134 691.8337 265.4374 695.724 257.1449 689.6838 254.3808 681.3913 247.5216 685.0769 246.4978 689.8885 232.2675 693.5741 227.0463 697.6691 219.7776 699 215.8874 696.3382 209.2329 696.4406 207.6973 695.9287 211.3828 684.2578 206.1616 682.1079 196.4359 656.5139 199.2001 655.3878 211.9971 663.885 222.6442 661.5304 231.039 653.1355 253.2546 642.7955 256.9402 636.3458 250.081 626.4154 271.0681 630.7152 279.0534 629.2819 Z" id="TD.LR" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>TD.LR</code_hasc>
+        <name>Logone Oriental</name>
+        <admin>Chad</admin>
+        <type_en>Prefecture</type_en>
+        <region/>
+        <woe_id>2344953</woe_id>
+        <longitude>16</longitude>
+        <woe_name>Logone Oriental</woe_name>
+        <fips>CD09</fips>
+        <woe_label/>
+        <latitude>8</latitude>
+        <iso_a2>TD</iso_a2>
+        <postal>LR</postal>
+        <type>Préfecture</type>
+        <id>TD.LR</id>
+      </desc>
+    </path>
+    <path d="M 241.379 579.6295 242.3004 585.1578 238.5125 594.474 230.4248 601.9475 224.2822 599.2857 206.8783 623.2417 191.829 613.9255 187.9387 601.7427 176.7797 601.7427 176.7797 590.4814 195.2074 588.0243 207.4925 590.6861 217.9349 588.2291 209.2329 581.8818 201.7595 573.9988 198.2787 566.2182 194.9003 564.6826 190.6005 540.1123 199.4048 535.8126 204.2165 536.4268 212.9185 547.2787 221.3133 552.4999 238.103 555.5711 237.4887 574.4083 241.379 579.6295 Z" id="TD.ME" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>TD.ME</code_hasc>
+        <name>Mayo-Kebbi Est</name>
+        <admin>Chad</admin>
+        <type_en>Prefecture</type_en>
+        <region/>
+        <woe_id>56013483</woe_id>
+        <longitude>15</longitude>
+        <woe_name>Mayo-Kebbi Est</woe_name>
+        <fips>CD16</fips>
+        <woe_label>Mayo-Kebbi Est, TD, Chad</woe_label>
+        <latitude>9</latitude>
+        <iso_a2>TD</iso_a2>
+        <postal>ME</postal>
+        <type>Préfecture</type>
+        <id>TD.ME</id>
+      </desc>
+    </path>
+    <path d="M 289.1886 596.8287 298.4025 602.6641 297.993 606.9639 294.0003 604.4045 283.6603 607.5782 283.7627 615.5635 277.4154 620.7847 282.6366 625.494 279.0534 629.2819 271.0681 630.7152 250.081 626.4154 246.8049 621.5013 237.5911 627.951 231.2438 626.7225 223.2584 630.5104 212.4066 631.8413 207.902 630.2033 206.8783 623.2417 224.2822 599.2857 230.4248 601.9475 238.5125 594.474 242.3004 585.1578 241.379 579.6295 250.9 579.9366 256.5307 577.4796 259.1924 584.3388 263.7994 587.4101 289.1886 596.8287 Z" id="TD.TA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>TD.TA</code_hasc>
+        <name>Tandjilé</name>
+        <admin>Chad</admin>
+        <type_en>Prefecture</type_en>
+        <region/>
+        <woe_id>2344958</woe_id>
+        <longitude>16</longitude>
+        <woe_name>Tandjile</woe_name>
+        <fips>CD14</fips>
+        <woe_label/>
+        <latitude>9</latitude>
+        <iso_a2>TD</iso_a2>
+        <postal>TA</postal>
+        <type>Préfecture</type>
+        <id>TD.TA</id>
+      </desc>
+    </path>
+    <path d="M 297.993 606.9639 301.7809 612.7994 306.4902 613.8231 309.0496 619.9657 325.0202 625.8011 321.8466 630.9199 316.4207 632.3532 315.0898 638.8029 318.3658 641.2599 318.2634 649.1429 323.1775 659.79 325.1226 675.3511 311.3018 677.9105 301.8833 676.7844 284.1722 684.2578 277.6201 669.9252 281.408 669.0038 284.9912 663.5779 275.7774 648.3238 279.4629 641.7718 279.0534 629.2819 282.6366 625.494 277.4154 620.7847 283.7627 615.5635 283.6603 607.5782 294.0003 604.4045 297.993 606.9639 Z" id="TD.MA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>TD.MA</code_hasc>
+        <name>Mandoul</name>
+        <admin>Chad</admin>
+        <type_en>Prefecture</type_en>
+        <region/>
+        <woe_id>56013482</woe_id>
+        <longitude>17</longitude>
+        <woe_name>Mandoul</woe_name>
+        <fips>CD11</fips>
+        <woe_label/>
+        <latitude>8</latitude>
+        <iso_a2>TD</iso_a2>
+        <postal>MA</postal>
+        <type>Préfecture</type>
+        <id>TD.MA</id>
+      </desc>
+    </path>
+    <path d="M 397.093 498.8548 399.1405 503.7688 402.7237 503.6665 402.6213 499.6738 415.5207 499.4691 448.8953 517.9991 458.8258 520.2514 482.8841 515.8492 492.5075 518.9205 506.3282 548.0977 498.2405 554.1379 492.7122 553.2165 490.7671 557.3115 478.6867 562.0208 478.5843 576.763 469.78 580.9604 463.7398 590.8909 459.3376 590.2766 452.1713 599.5928 448.4858 600.719 446.9501 606.9639 440.0909 615.0516 432.7199 618.3277 433.2317 620.0681 427.8058 619.249 423.1989 627.2344 409.1734 626.6201 401.4952 630.408 386.0364 586.284 389.1077 579.8343 387.572 573.9988 389.9267 562.7375 391.2576 549.1214 355.7331 530.8985 356.0402 516.2587 361.978 515.1326 364.435 519.1253 370.0657 516.6682 374.4679 508.0686 371.2942 502.5403 378.6653 495.5788 397.093 498.8548 Z" id="TD.SA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>TD.SA</code_hasc>
+        <name>Salamat</name>
+        <admin>Chad</admin>
+        <type_en>Prefecture</type_en>
+        <region/>
+        <woe_id>2344957</woe_id>
+        <longitude>20</longitude>
+        <woe_name>Salamat</woe_name>
+        <fips>CD13</fips>
+        <woe_label>Salamat, TD, Chad</woe_label>
+        <latitude>10</latitude>
+        <iso_a2>TD</iso_a2>
+        <postal>SA</postal>
+        <type>Préfecture</type>
+        <id>TD.SA</id>
+      </desc>
+    </path>
+    <path d="M 192.0337 497.5239 190.8052 495.1693 192.5456 491.9956 195.4121 494.1455 192.0337 497.5239 Z" id="TD.NJ" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>TD.NJ</code_hasc>
+        <name>Ville de N'Djamena</name>
+        <admin>Chad</admin>
+        <type_en>Capital</type_en>
+        <region/>
+        <woe_id>56013485</woe_id>
+        <longitude>15</longitude>
+        <woe_name>Ville de N'Djamena</woe_name>
+        <fips>CD21</fips>
+        <woe_label>Ville de N'Djamena, TD, Chad</woe_label>
+        <latitude>12</latitude>
+        <iso_a2>TD</iso_a2>
+        <postal>NJ</postal>
+        <type>Préfecture</type>
+        <id>TD.NJ</id>
+      </desc>
+    </path>
+    <path d="M 176.7797 590.4814 176.7797 601.7427 187.9387 601.7427 191.829 613.9255 206.8783 623.2417 207.902 630.2033 200.7357 645.6621 199.2001 655.3878 196.4359 656.5139 189.6791 646.6858 159.5805 623.2417 142.4837 602.357 152.9261 587.6148 164.1874 587.103 176.7797 590.4814 Z" id="TD.MW" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>TD.MW</code_hasc>
+        <name>Mayo-Kebbi Ouest</name>
+        <admin>Chad</admin>
+        <type_en>Prefecture</type_en>
+        <region/>
+        <woe_id>56013484</woe_id>
+        <longitude>14</longitude>
+        <woe_name>Mayo-Kebbi Ouest</woe_name>
+        <fips>CD20</fips>
+        <woe_label>Mayo-Kebbi Ouest, TD, Chad</woe_label>
+        <latitude>9</latitude>
+        <iso_a2>TD</iso_a2>
+        <postal>MO</postal>
+        <type>Préfecture</type>
+        <id>TD.MW</id>
+      </desc>
+    </path>
+    <path d="M 443.2646 110.0305 406.5116 185.7888 412.4494 211.6899 423.6084 242.9146 422.4823 277.313 418.2848 295.5359 432.3104 335.4626 425.8607 341.1957 417.773 343.0384 405.4878 337.9196 386.753 333.4151 380.7128 329.1153 379.0748 322.5632 372.8299 320.4133 368.8372 340.0695 358.702 350.2048 341.1957 354.8117 329.8319 351.5356 320.7204 344.4717 314.5779 336.6911 265.5397 311.8137 215.5802 286.015 216.7064 276.3916 298.0953 134.7031 300.45 122.9299 317.6492 122.2133 331.0604 112.7947 355.4259 104.5022 354.9141 73.2775 363.0018 67.0326 443.2646 110.0305 Z" id="TD.BR" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>TD.BR</code_hasc>
+        <name>Borkou</name>
+        <admin>Chad</admin>
+        <type_en>Préfecture</type_en>
+        <region/>
+        <woe_id>-2344947</woe_id>
+        <longitude>19</longitude>
+        <woe_name>Bet</woe_name>
+        <fips>CD23</fips>
+        <woe_label>Borkou-Ennedi-Tibesti, TD, Chad</woe_label>
+        <latitude>18</latitude>
+        <iso_a2>TD</iso_a2>
+        <postal>BR</postal>
+        <type>Préfecture</type>
+        <id>TD.BR</id>
+      </desc>
+    </path>
+    <path d="M 363.0018 67.0326 354.9141 73.2775 355.4259 104.5022 331.0604 112.7947 317.6492 122.2133 300.45 122.9299 298.0953 134.7031 216.7064 276.3916 230.6295 155.2807 240.8671 136.7507 224.9988 118.0158 224.0774 111.9757 226.8416 109.4163 210.359 85.1531 210.6662 63.2446 204.5236 19.1206 245.8835 1 363.0018 67.0326 Z" id="TD.TI" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>TD.TI</code_hasc>
+        <name>Tibesti</name>
+        <admin>Chad</admin>
+        <type_en>Préfecture</type_en>
+        <region/>
+        <woe_id>-2344947</woe_id>
+        <longitude>16</longitude>
+        <woe_name>Bet</woe_name>
+        <fips>CD26</fips>
+        <woe_label>Borkou-Ennedi-Tibesti, TD, Chad</woe_label>
+        <latitude>21</latitude>
+        <iso_a2>TD</iso_a2>
+        <postal>TI</postal>
+        <type>Préfecture</type>
+        <id>TD.TI</id>
+      </desc>
+    </path>
+    <path d="M 536.9387 340.9909 530.7961 336.0769 512.9827 336.5887 509.6043 332.3913 501.1071 331.4699 497.2168 328.501 486.1602 330.9581 478.482 328.6034 460.7709 333.5175 451.6594 329.32 440.6028 337.4077 429.3414 342.3218 425.8607 341.1957 432.3104 335.4626 418.2848 295.5359 422.4823 277.313 423.6084 242.9146 412.4494 211.6899 406.5116 185.7888 443.2646 110.0305 570.7228 175.4488 573.4869 339.8648 536.9387 340.9909 Z" id="TD.EN" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>TD.EN</code_hasc>
+        <name>Ennedi</name>
+        <admin>Chad</admin>
+        <type_en>Préfecture</type_en>
+        <region/>
+        <woe_id>-2344947</woe_id>
+        <longitude>22</longitude>
+        <woe_name>Bet</woe_name>
+        <fips>CD24</fips>
+        <woe_label>Borkou-Ennedi-Tibesti, TD, Chad</woe_label>
+        <latitude>18</latitude>
+        <iso_a2>TD</iso_a2>
+        <postal>EN</postal>
+        <type>Préfecture</type>
+        <id>TD.EN</id>
+      </desc>
+    </path>
+    <path d="M 287.2435 523.7322 288.0625 563.3517 298.3001 568.7776 289.1886 596.8287 263.7994 587.4101 259.1924 584.3388 256.5307 577.4796 250.9 579.9366 241.379 579.6295 237.4887 574.4083 238.103 555.5711 221.3133 552.4999 212.9185 547.2787 204.2165 536.4268 199.4048 535.8126 190.6005 540.1123 192.2385 525.4726 195.6169 520.5585 192.8527 514.8255 194.7979 509.5019 192.0337 505.3045 193.6718 501.2094 192.0337 497.5239 195.4121 494.1455 192.5456 491.9956 190.8052 495.1693 186.1983 493.4289 186.4031 488.9243 203.6022 485.3412 211.8947 488.6172 221.2109 485.2388 232.5747 484.5221 236.1578 480.6319 260.9328 491.279 266.7683 512.7779 275.5726 515.1326 287.2435 523.7322 Z" id="TD.CG" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>TD.CG</code_hasc>
+        <name>Chari-Baguirmi</name>
+        <admin>Chad</admin>
+        <type_en>Prefecture</type_en>
+        <region/>
+        <woe_id>-2344948</woe_id>
+        <longitude>16</longitude>
+        <woe_name>Hadjer-Lamis</woe_name>
+        <fips>CD15</fips>
+        <woe_label>Chari-Baguirmi, TD, Chad</woe_label>
+        <latitude>11</latitude>
+        <iso_a2>TD</iso_a2>
+        <postal>CG</postal>
+        <type>Préfecture</type>
+        <id>TD.CG</id>
+      </desc>
+    </path>
+    <path d="M 320.7204 344.4717 300.8595 422.4823 287.4482 426.5773 285.6055 447.0525 282.5342 451.6594 276.8011 449.919 253.2546 455.2426 234.1103 455.0378 229.1962 448.7929 228.582 424.4274 224.3846 422.3799 217.6278 423.8131 217.5254 409.6852 225.4083 406.7163 240.2529 388.391 241.2766 378.1534 257.5544 324.9179 265.5397 311.8137 314.5779 336.6911 320.7204 344.4717 Z" id="TD.BG" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>TD.BG</code_hasc>
+        <name>Barh El Gazel</name>
+        <admin>Chad</admin>
+        <type_en>Prefecture</type_en>
+        <region/>
+        <woe_id>-2344950</woe_id>
+        <longitude>16</longitude>
+        <woe_name>Kanem</woe_name>
+        <fips>CD22</fips>
+        <woe_label/>
+        <latitude>14</latitude>
+        <iso_a2>TD</iso_a2>
+        <postal>BG</postal>
+        <type>Préfecture</type>
+        <id>TD.BG</id>
+      </desc>
+    </path>
+    <path d="M 482.1675 468.142 487.5934 474.7964 494.8621 474.2845 499.0595 470.2919 509.3995 475.9226 506.3282 482.3722 511.1399 495.374 510.1162 501.2094 516.6682 499.3667 513.8017 518.511 523.7322 528.4415 529.8747 528.7486 531.7175 536.8363 527.6225 549.5309 512.5732 546.0502 506.3282 548.0977 492.5075 518.9205 482.8841 515.8492 458.8258 520.2514 448.8953 517.9991 415.5207 499.4691 402.6213 499.6738 402.7237 503.6665 399.1405 503.7688 397.093 498.8548 401.2904 484.9317 408.8662 476.7416 407.0235 473.5679 412.347 467.6301 404.5664 460.3614 417.5682 455.1402 433.846 457.1877 434.2555 463.0232 440.8076 464.3541 441.2171 471.418 446.8478 473.6703 457.802 473.2608 472.1346 464.3541 482.1675 468.142 Z" id="TD.SI" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>TD.SI</code_hasc>
+        <name>Sila</name>
+        <admin>Chad</admin>
+        <type_en>Prefecture</type_en>
+        <region/>
+        <woe_id>-2344956</woe_id>
+        <longitude>21</longitude>
+        <woe_name>Ouaddaï</woe_name>
+        <fips>CD25</fips>
+        <woe_label>Ouaddai, TD, Chad</woe_label>
+        <latitude>12</latitude>
+        <iso_a2>TD</iso_a2>
+        <postal>SI</postal>
+        <type>Préfecture</type>
+        <id>TD.SI</id>
+      </desc>
+    </path>
+    <path d="M 401.4952 630.408 362.0804 633.6841 355.4259 639.5195 366.3802 647.1977 352.8665 664.3969 345.2907 668.6967 343.0384 674.3274 325.1226 675.3511 323.1775 659.79 318.2634 649.1429 318.3658 641.2599 315.0898 638.8029 316.4207 632.3532 321.8466 630.9199 325.0202 625.8011 309.0496 619.9657 306.4902 613.8231 301.7809 612.7994 297.993 606.9639 298.4025 602.6641 289.1886 596.8287 298.3001 568.7776 310.9947 568.4705 315.3969 572.4632 324.6107 574.306 337.8172 581.4723 344.4717 588.4339 344.0622 593.1432 348.2596 595.1907 351.1261 594.474 352.5594 589.6624 363.5136 587.922 374.4679 576.4559 373.6489 574.306 377.8463 569.1872 384.5007 568.061 389.9267 562.7375 387.572 573.9988 389.1077 579.8343 386.0364 586.284 401.4952 630.408 Z" id="TD.MO" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>TD.MO</code_hasc>
+        <name>Moyen-Chari</name>
+        <admin>Chad</admin>
+        <type_en>Prefecture</type_en>
+        <region/>
+        <woe_id>-56013482</woe_id>
+        <longitude>18</longitude>
+        <woe_name>Mandoul</woe_name>
+        <fips>CD17</fips>
+        <woe_label/>
+        <latitude>9</latitude>
+        <iso_a2>TD</iso_a2>
+        <postal>MA</postal>
+        <type>Préfecture</type>
+        <id>TD.MO</id>
+      </desc>
+    </path>
+  </g>
+</svg>

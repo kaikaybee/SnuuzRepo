@@ -1,0 +1,1325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="kentucky">
+    <path d="M 446.7815 332.4034 450.1333 322.3481 471.0816 313.1309 472.7575 322.3481 481.9748 326.5378 476.9472 343.2965 467.7299 347.4862 463.5402 338.2689 446.7815 332.4034 Z" id="US.KY.067" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Fayette County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>067</fips>
+        <incits>21067</incits>
+        <id>US.KY.067</id>
+        <population>308428</population>
+      </desc>
+    </path>
+    <path d="M 450.1333 232.6891 452.6471 250.2857 450.9712 257.8271 446.7815 260.3409 434.2125 252.7995 427.509 248.6098 430.0228 240.2305 424.1573 234.3649 437.5642 225.9856 450.1333 232.6891 Z" id="US.KY.015" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Boone County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>015</fips>
+        <incits>21015</incits>
+        <id>US.KY.015</id>
+        <population>124442</population>
+      </desc>
+    </path>
+    <path d="M 450.1333 232.6891 461.0264 230.1753 468.5678 241.0684 469.4058 256.9892 458.5126 258.6651 450.9712 257.8271 452.6471 250.2857 450.1333 232.6891 Z" id="US.KY.117" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Kenton County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>117</fips>
+        <incits>21117</incits>
+        <id>US.KY.117</id>
+        <population>163145</population>
+      </desc>
+    </path>
+    <path d="M 461.0264 230.1753 479.461 238.5546 487.0024 251.1236 469.4058 256.9892 468.5678 241.0684 461.0264 230.1753 Z" id="US.KY.037" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Campbell County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>037</fips>
+        <incits>21037</incits>
+        <id>US.KY.037</id>
+        <population>90988</population>
+      </desc>
+    </path>
+    <path d="M 458.5126 258.6651 469.4058 256.9892 487.0024 251.1236 487.0024 255.3133 489.5162 278.7755 463.5402 282.1273 458.5126 258.6651 Z" id="US.KY.191" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pendleton County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>191</fips>
+        <incits>21191</incits>
+        <id>US.KY.191</id>
+        <population>14570</population>
+      </desc>
+    </path>
+    <path d="M 487.0024 255.3133 500.4094 260.3409 518.006 261.1789 509.6267 277.0996 493.7059 281.2893 489.5162 278.7755 487.0024 255.3133 Z" id="US.KY.023" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Bracken County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>023</fips>
+        <incits>21023</incits>
+        <id>US.KY.023</id>
+        <population>8416</population>
+      </desc>
+    </path>
+    <path d="M 99.8764 388.545 109.9316 384.3553 125.0144 382.6795 127.5282 379.3277 140.0972 381.8415 152.6663 391.0588 129.2041 404.4658 125.0144 409.4934 115.7971 412.8451 113.2833 401.114 99.8764 388.545 Z" id="US.KY.055" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Crittenden County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>055</fips>
+        <incits>21055</incits>
+        <id>US.KY.055</id>
+        <population>9255</population>
+      </desc>
+    </path>
+    <path d="M 80.6038 419.5486 90.6591 419.5486 94.0108 412.0072 85.6315 399.4382 88.9832 390.2209 99.8764 388.545 113.2833 401.114 115.7971 412.8451 111.6074 428.7659 99.8764 420.3866 88.1453 424.5762 80.6038 419.5486 Z" id="US.KY.139" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Livingston County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>139</fips>
+        <incits>21139</incits>
+        <id>US.KY.139</id>
+        <population>9359</population>
+      </desc>
+    </path>
+    <path d="M 140.9352 342.4586 158.5318 366.7587 140.0972 381.8415 127.5282 379.3277 121.6627 372.6242 119.1489 364.2449 132.5558 351.6759 142.611 350.8379 140.9352 342.4586 Z" id="US.KY.225" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Union County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>225</fips>
+        <incits>21225</incits>
+        <id>US.KY.225</id>
+        <population>15029</population>
+      </desc>
+    </path>
+    <path d="M 326.9568 333.2413 331.9844 329.0516 347.9052 324.8619 362.988 325.6999 374.7191 321.5102 368.8535 334.0792 359.6363 344.9724 345.3914 350.8379 330.3085 338.2689 326.9568 333.2413 Z" id="US.KY.029" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Bullitt County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>029</fips>
+        <incits>21029</incits>
+        <id>US.KY.029</id>
+        <population>76854</population>
+      </desc>
+    </path>
+    <path d="M 383.9364 263.6927 400.6951 267.8824 412.4262 262.0168 420.8055 271.2341 408.2365 277.0996 399.0192 277.9376 383.9364 263.6927 Z" id="US.KY.041" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Carroll County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>041</fips>
+        <incits>21041</incits>
+        <id>US.KY.041</id>
+        <population>10953</population>
+      </desc>
+    </path>
+    <path d="M 412.4262 262.0168 424.9952 258.6651 434.2125 252.7995 446.7815 260.3409 435.0504 265.3685 420.8055 271.2341 412.4262 262.0168 Z" id="US.KY.077" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Gallatin County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>077</fips>
+        <incits>21077</incits>
+        <id>US.KY.077</id>
+        <population>8474</population>
+      </desc>
+    </path>
+    <path d="M 295.1152 370.9484 306.8463 351.6759 320.2533 350 323.605 344.9724 321.0912 333.2413 326.1188 332.4034 326.9568 333.2413 330.3085 338.2689 345.3914 350.8379 351.2569 358.3794 332.8223 375.976 331.1465 385.1933 316.9016 384.3553 310.1981 373.4622 295.1152 370.9484 Z" id="US.KY.093" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hardin County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>093</fips>
+        <incits>21093</incits>
+        <id>US.KY.093</id>
+        <population>108191</population>
+      </desc>
+    </path>
+    <path d="M 326.1188 332.4034 330.3085 317.3205 341.2017 305.5894 353.7707 302.2377 355.4466 297.2101 371.3673 306.4274 377.2329 308.1032 375.557 318.9964 374.7191 321.5102 362.988 325.6999 347.9052 324.8619 331.9844 329.0516 326.9568 333.2413 326.1188 332.4034 Z" id="US.KY.111" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jefferson County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>111</fips>
+        <incits>21111</incits>
+        <id>US.KY.111</id>
+        <population>756832</population>
+      </desc>
+    </path>
+    <path d="M 355.4466 297.2101 359.6363 290.5066 374.7191 283.8031 385.6122 287.1549 388.1261 299.7239 384.7743 303.9136 371.3673 306.4274 355.4466 297.2101 Z" id="US.KY.185" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Oldham County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>185</fips>
+        <incits>21185</incits>
+        <id>US.KY.185</id>
+        <population>62364</population>
+      </desc>
+    </path>
+    <path d="M 371.3673 306.4274 384.7743 303.9136 388.1261 299.7239 414.94 301.3998 412.4262 320.6723 405.7227 329.8896 375.557 318.9964 377.2329 308.1032 371.3673 306.4274 Z" id="US.KY.211" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Shelby County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>211</fips>
+        <incits>21211</incits>
+        <id>US.KY.211</id>
+        <population>44216</population>
+      </desc>
+    </path>
+    <path d="M 374.7191 321.5102 375.557 318.9964 405.7227 329.8896 399.0192 335.7551 377.2329 338.2689 368.8535 334.0792 374.7191 321.5102 Z" id="US.KY.215" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Spencer County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>215</fips>
+        <incits>21215</incits>
+        <id>US.KY.215</id>
+        <population>17637</population>
+      </desc>
+    </path>
+    <path d="M 383.9364 263.6927 399.0192 277.9376 385.6122 287.1549 374.7191 283.8031 372.2053 268.7203 383.9364 263.6927 Z" id="US.KY.223" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Trimble County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>223</fips>
+        <incits>21223</incits>
+        <id>US.KY.223</id>
+        <population>8816</population>
+      </desc>
+    </path>
+    <path d="M 229.7563 339.1068 246.515 334.0792 259.922 347.4862 257.4082 352.5138 261.5978 365.0828 244.0012 357.5414 235.6218 342.4586 229.7563 339.1068 Z" id="US.KY.091" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hancock County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>091</fips>
+        <incits>21091</incits>
+        <id>US.KY.091</id>
+        <population>8687</population>
+      </desc>
+    </path>
+    <path d="M 365.5018 416.1969 381.4226 408.6555 399.8571 397.7623 409.9124 402.7899 410.7503 409.4934 395.6675 426.2521 393.1537 433.7935 372.2053 432.1176 365.5018 416.1969 Z" id="US.KY.001" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Adair County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>001</fips>
+        <incits>21001</incits>
+        <id>US.KY.001</id>
+        <population>18732</population>
+      </desc>
+    </path>
+    <path d="M 283.3842 448.0384 306.0084 432.9556 323.605 453.066 323.605 461.4454 282.5462 459.7695 283.3842 448.0384 Z" id="US.KY.003" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Allen County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>003</fips>
+        <incits>21003</incits>
+        <id>US.KY.003</id>
+        <population>20311</population>
+      </desc>
+    </path>
+    <path d="M 46.2485 405.3037 57.1417 431.2797 41.2209 433.7935 30.3277 432.1176 22.7863 422.9004 31.1657 412.0072 46.2485 405.3037 Z" id="US.KY.007" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ballard County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>007</fips>
+        <incits>21007</incits>
+        <id>US.KY.007</id>
+        <population>8332</population>
+      </desc>
+    </path>
+    <path d="M 306.0084 432.9556 310.1981 421.2245 316.0636 411.1693 330.3085 412.8451 345.3914 411.1693 343.7155 416.1969 345.3914 441.3349 323.605 453.066 306.0084 432.9556 Z" id="US.KY.009" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Barren County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>009</fips>
+        <incits>21009</incits>
+        <id>US.KY.009</id>
+        <population>43027</population>
+      </desc>
+    </path>
+    <path d="M 519.6819 455.5798 533.0888 444.6867 548.1717 435.4694 547.3337 430.4418 554.8752 432.1176 556.551 436.3073 555.7131 451.3902 559.0648 458.0936 552.3613 458.0936 537.2785 465.6351 515.4922 465.6351 519.6819 455.5798 Z" id="US.KY.013" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Bell County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>013</fips>
+        <incits>21013</incits>
+        <id>US.KY.013</id>
+        <population>27885</population>
+      </desc>
+    </path>
+    <path d="M 466.892 306.4274 472.7575 307.2653 490.3541 298.048 498.7335 308.1032 510.4646 314.8067 501.2473 322.3481 481.9748 326.5378 472.7575 322.3481 471.0816 313.1309 466.892 306.4274 Z" id="US.KY.017" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Bourbon County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>017</fips>
+        <incits>21017</incits>
+        <id>US.KY.017</id>
+        <population>19998</population>
+      </desc>
+    </path>
+    <path d="M 633.6411 285.479 638.6687 288.8307 639.5066 309.7791 621.91 309.7791 619.3962 298.048 633.6411 285.479 Z" id="US.KY.019" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Boyd County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>019</fips>
+        <incits>21019</incits>
+        <id>US.KY.019</id>
+        <population>48886</population>
+      </desc>
+    </path>
+    <path d="M 411.5882 375.976 412.4262 367.5966 412.4262 363.407 438.4022 360.0552 446.7815 367.5966 429.1849 375.1381 411.5882 375.976 Z" id="US.KY.021" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Boyle County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>021</fips>
+        <incits>21021</incits>
+        <id>US.KY.021</id>
+        <population>29013</population>
+      </desc>
+    </path>
+    <path d="M 548.1717 379.3277 553.1993 366.7587 562.4166 362.569 579.1753 364.2449 594.2581 367.5966 606.8271 379.3277 597.6098 377.6519 590.9064 388.545 583.3649 387.7071 565.7683 395.2485 557.389 391.0588 550.6855 395.2485 548.1717 379.3277 Z" id="US.KY.025" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Breathitt County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>025</fips>
+        <incits>21025</incits>
+        <id>US.KY.025</id>
+        <population>13545</population>
+      </desc>
+    </path>
+    <path d="M 259.922 347.4862 270.8151 340.7827 275.0048 329.0516 306.8463 351.6759 295.1152 370.9484 280.0324 372.6242 273.3289 368.4346 265.7875 373.4622 261.5978 365.0828 257.4082 352.5138 259.922 347.4862 Z" id="US.KY.027" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Breckinridge County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>027</fips>
+        <incits>21027</incits>
+        <id>US.KY.027</id>
+        <population>20040</population>
+      </desc>
+    </path>
+    <path d="M 237.2977 406.9796 264.1116 389.383 277.5186 396.9244 283.3842 411.1693 263.2737 409.4934 258.2461 427.09 233.108 420.3866 237.2977 406.9796 Z" id="US.KY.031" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Butler County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>031</fips>
+        <incits>21031</incits>
+        <id>US.KY.031</id>
+        <population>12793</population>
+      </desc>
+    </path>
+    <path d="M 125.0144 409.4934 129.2041 404.4658 152.6663 391.0588 150.9904 393.5726 152.6663 404.4658 163.5594 412.8451 158.5318 426.2521 145.1248 430.4418 130.042 410.3313 125.0144 409.4934 Z" id="US.KY.033" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Caldwell County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>033</fips>
+        <incits>21033</incits>
+        <id>US.KY.033</id>
+        <population>12823</population>
+      </desc>
+    </path>
+    <path d="M 88.1453 473.1765 88.1453 449.7143 123.3385 450.5522 127.5282 457.2557 130.88 469.8247 128.3661 474.0144 88.1453 473.1765 Z" id="US.KY.035" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Calloway County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>035</fips>
+        <incits>21035</incits>
+        <id>US.KY.035</id>
+        <population>37657</population>
+      </desc>
+    </path>
+    <path d="M 30.3277 432.1176 41.2209 433.7935 57.1417 431.2797 57.9796 431.2797 57.9796 448.0384 28.6519 447.2005 30.3277 432.1176 Z" id="US.KY.039" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Carlisle County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>039</fips>
+        <incits>21039</incits>
+        <id>US.KY.039</id>
+        <population>5001</population>
+      </desc>
+    </path>
+    <path d="M 569.958 303.0756 580.8511 300.5618 580.0132 293.0204 586.7167 285.479 597.6098 289.6687 605.1513 296.3721 619.3962 298.048 621.91 309.7791 609.3409 316.4826 604.3133 316.4826 586.7167 308.1032 579.1753 314.8067 574.1477 313.1309 569.958 303.0756 Z" id="US.KY.043" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Carter County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>043</fips>
+        <incits>21043</incits>
+        <id>US.KY.043</id>
+        <population>27202</population>
+      </desc>
+    </path>
+    <path d="M 399.8571 397.7623 408.2365 387.7071 411.5882 375.976 429.1849 375.1381 429.1849 386.8691 440.916 392.7347 440.916 404.4658 424.1573 415.3589 410.7503 409.4934 409.9124 402.7899 399.8571 397.7623 Z" id="US.KY.045" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Casey County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>045</fips>
+        <incits>21045</incits>
+        <id>US.KY.045</id>
+        <population>16067</population>
+      </desc>
+    </path>
+    <path d="M 158.5318 426.2521 163.5594 412.8451 178.6423 417.0348 196.2389 412.0072 202.9424 419.5486 196.2389 460.6074 162.7215 460.6074 166.0732 429.6038 158.5318 426.2521 Z" id="US.KY.047" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Christian County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>047</fips>
+        <incits>21047</incits>
+        <id>US.KY.047</id>
+        <population>74167</population>
+      </desc>
+    </path>
+    <path d="M 481.9748 326.5378 501.2473 322.3481 512.1405 339.1068 508.7887 348.3241 501.2473 346.6483 476.9472 343.2965 481.9748 326.5378 Z" id="US.KY.049" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Clark County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>049</fips>
+        <incits>21049</incits>
+        <id>US.KY.049</id>
+        <population>35614</population>
+      </desc>
+    </path>
+    <path d="M 513.8163 403.6279 528.8992 393.5726 538.9544 395.2485 553.1993 402.7899 554.8752 404.4658 549.8475 419.5486 554.8752 432.1176 547.3337 430.4418 532.2509 424.5762 520.5198 421.2245 511.3025 411.1693 513.8163 403.6279 Z" id="US.KY.051" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Clay County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>051</fips>
+        <incits>21051</incits>
+        <id>US.KY.051</id>
+        <population>21364</population>
+      </desc>
+    </path>
+    <path d="M 387.2881 461.4454 394.8295 440.497 409.0744 439.6591 414.94 449.7143 415.7779 462.2833 387.2881 461.4454 Z" id="US.KY.053" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Clinton County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>053</fips>
+        <incits>21053</incits>
+        <id>US.KY.053</id>
+        <population>10146</population>
+      </desc>
+    </path>
+    <path d="M 372.2053 432.1176 393.1537 433.7935 394.8295 440.497 387.2881 461.4454 373.8812 462.2833 358.7983 443.8487 372.2053 432.1176 Z" id="US.KY.057" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cumberland County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>057</fips>
+        <incits>21057</incits>
+        <id>US.KY.057</id>
+        <population>6789</population>
+      </desc>
+    </path>
+    <path d="M 189.5354 362.569 200.4286 355.0276 199.5906 342.4586 220.539 352.5138 224.7287 341.6206 229.7563 339.1068 235.6218 342.4586 244.0012 357.5414 244.8391 363.407 232.2701 367.5966 223.8908 374.3001 203.7803 368.4346 189.5354 362.569 Z" id="US.KY.059" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Daviess County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>059</fips>
+        <incits>21059</incits>
+        <id>US.KY.059</id>
+        <population>98218</population>
+      </desc>
+    </path>
+    <path d="M 277.5186 396.9244 306.8463 395.2485 316.9016 406.1417 316.0636 411.1693 310.1981 421.2245 295.1152 418.7107 283.3842 411.1693 277.5186 396.9244 Z" id="US.KY.061" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Edmonson County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>061</fips>
+        <incits>21061</incits>
+        <id>US.KY.061</id>
+        <population>12062</population>
+      </desc>
+    </path>
+    <path d="M 577.4994 322.3481 579.1753 314.8067 586.7167 308.1032 604.3133 316.4826 609.3409 316.4826 612.6927 322.3481 600.1236 332.4034 588.3926 333.2413 577.4994 327.3758 577.4994 322.3481 Z" id="US.KY.063" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Elliott County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>063</fips>
+        <incits>21063</incits>
+        <id>US.KY.063</id>
+        <population>7637</population>
+      </desc>
+    </path>
+    <path d="M 501.2473 346.6483 508.7887 348.3241 518.006 355.8655 529.7371 355.8655 534.7647 359.2173 525.5474 365.0828 517.1681 375.976 512.1405 371.7863 500.4094 373.4622 501.2473 346.6483 Z" id="US.KY.065" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Estill County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>065</fips>
+        <incits>21065</incits>
+        <id>US.KY.065</id>
+        <population>14488</population>
+      </desc>
+    </path>
+    <path d="M 515.4922 287.1549 522.1957 290.5066 542.3061 283.8031 548.1717 293.0204 559.9028 297.2101 553.1993 308.9412 543.1441 315.6447 530.575 305.5894 523.0336 304.7515 510.4646 292.1825 515.4922 287.1549 Z" id="US.KY.069" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Fleming County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>069</fips>
+        <incits>21069</incits>
+        <id>US.KY.069</id>
+        <population>14508</population>
+      </desc>
+    </path>
+    <path d="M 607.6651 359.2173 624.4238 355.8655 636.1549 359.2173 642.8583 362.569 637.8307 379.3277 641.1825 385.1933 629.4514 400.2761 624.4238 386.8691 609.3409 381.0036 612.6927 375.976 607.6651 359.2173 Z" id="US.KY.071" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Floyd County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>071</fips>
+        <incits>21071</incits>
+        <id>US.KY.071</id>
+        <population>38728</population>
+      </desc>
+    </path>
+    <path d="M 412.4262 320.6723 414.94 301.3998 427.509 299.7239 439.2401 299.7239 440.916 314.8067 427.509 322.3481 412.4262 320.6723 Z" id="US.KY.073" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Franklin County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>073</fips>
+        <incits>21073</incits>
+        <id>US.KY.073</id>
+        <population>49648</population>
+      </desc>
+    </path>
+    <path d="M 405.7227 329.8896 412.4262 320.6723 427.509 322.3481 434.2125 335.7551 420.8055 337.431 412.4262 343.2965 400.6951 342.4586 399.0192 335.7551 405.7227 329.8896 Z" id="US.KY.005" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Anderson County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>005</fips>
+        <incits>21005</incits>
+        <id>US.KY.005</id>
+        <population>21811</population>
+      </desc>
+    </path>
+    <path d="M 23.6242 459.7695 37.8691 464.7971 48.7623 466.473 55.4658 473.1765 1 474.0144 5.1897 462.2833 16.0828 467.3109 23.6242 459.7695 Z" id="US.KY.075" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Fulton County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>075</fips>
+        <incits>21075</incits>
+        <id>US.KY.075</id>
+        <population>6385</population>
+      </desc>
+    </path>
+    <path d="M 441.7539 350 451.8091 355.0276 459.3505 354.1897 476.1092 375.976 466.892 381.0036 446.7815 367.5966 438.4022 360.0552 441.7539 350 Z" id="US.KY.079" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Garrard County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>079</fips>
+        <incits>21079</incits>
+        <id>US.KY.079</id>
+        <population>16915</population>
+      </desc>
+    </path>
+    <path d="M 265.7875 373.4622 273.3289 368.4346 280.0324 372.6242 295.1152 370.9484 310.1981 373.4622 316.9016 384.3553 313.5498 394.4106 306.8463 395.2485 277.5186 396.9244 264.1116 389.383 259.084 375.976 265.7875 373.4622 Z" id="US.KY.085" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Grayson County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>085</fips>
+        <incits>21085</incits>
+        <id>US.KY.085</id>
+        <population>25997</population>
+      </desc>
+    </path>
+    <path d="M 352.9328 386.8691 360.4742 382.6795 369.6915 392.7347 381.4226 408.6555 365.5018 416.1969 355.4466 415.3589 350.419 409.4934 349.581 398.6002 352.9328 386.8691 Z" id="US.KY.087" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Green County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>087</fips>
+        <incits>21087</incits>
+        <id>US.KY.087</id>
+        <population>11180</population>
+      </desc>
+    </path>
+    <path d="M 586.7167 285.479 595.934 277.0996 599.2857 265.3685 611.8547 262.0168 616.8824 277.9376 633.6411 285.479 619.3962 298.048 605.1513 296.3721 597.6098 289.6687 586.7167 285.479 Z" id="US.KY.089" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Greenup County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>089</fips>
+        <incits>21089</incits>
+        <id>US.KY.089</id>
+        <population>36519</population>
+      </desc>
+    </path>
+    <path d="M 556.551 436.3073 574.9856 431.2797 585.0408 424.5762 590.9064 426.2521 607.6651 425.4142 614.3685 428.7659 613.5306 437.1453 595.096 440.497 584.2029 451.3902 559.0648 458.0936 555.7131 451.3902 556.551 436.3073 Z" id="US.KY.095" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Harlan County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>095</fips>
+        <incits>21095</incits>
+        <id>US.KY.095</id>
+        <population>28499</population>
+      </desc>
+    </path>
+    <path d="M 456.8367 287.1549 463.5402 282.1273 489.5162 278.7755 493.7059 281.2893 498.7335 289.6687 490.3541 298.048 472.7575 307.2653 466.892 306.4274 465.2161 297.2101 456.8367 287.1549 Z" id="US.KY.097" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Harrison County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>097</fips>
+        <incits>21097</incits>
+        <id>US.KY.097</id>
+        <population>18518</population>
+      </desc>
+    </path>
+    <path d="M 306.8463 395.2485 313.5498 394.4106 316.9016 384.3553 331.1465 385.1933 352.9328 386.8691 349.581 398.6002 350.419 409.4934 345.3914 411.1693 330.3085 412.8451 316.0636 411.1693 316.9016 406.1417 306.8463 395.2485 Z" id="US.KY.099" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hart County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>099</fips>
+        <incits>21099</incits>
+        <id>US.KY.099</id>
+        <population>18573</population>
+      </desc>
+    </path>
+    <path d="M 140.9352 342.4586 149.3145 344.1345 163.5594 341.6206 169.425 348.3241 175.2905 339.9448 185.3457 338.2689 199.5906 342.4586 200.4286 355.0276 189.5354 362.569 181.1561 365.9208 158.5318 366.7587 140.9352 342.4586 Z" id="US.KY.101" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Henderson County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>101</fips>
+        <incits>21101</incits>
+        <id>US.KY.101</id>
+        <population>46347</population>
+      </desc>
+    </path>
+    <path d="M 385.6122 287.1549 399.0192 277.9376 408.2365 277.0996 412.4262 285.479 425.8331 293.8583 427.509 299.7239 414.94 301.3998 388.1261 299.7239 385.6122 287.1549 Z" id="US.KY.103" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Henry County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>103</fips>
+        <incits>21103</incits>
+        <id>US.KY.103</id>
+        <population>15445</population>
+      </desc>
+    </path>
+    <path d="M 28.6519 447.2005 57.9796 448.0384 57.1417 473.1765 55.4658 473.1765 48.7623 466.473 37.8691 464.7971 23.6242 459.7695 21.1104 453.066 28.6519 447.2005 Z" id="US.KY.105" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hickman County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>105</fips>
+        <incits>21105</incits>
+        <id>US.KY.105</id>
+        <population>4745</population>
+      </desc>
+    </path>
+    <path d="M 150.9904 393.5726 171.9388 383.5174 181.1561 381.0036 192.0492 373.4622 194.563 386.8691 199.5906 390.2209 191.2113 402.7899 196.2389 412.0072 178.6423 417.0348 163.5594 412.8451 152.6663 404.4658 150.9904 393.5726 Z" id="US.KY.107" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hopkins County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>107</fips>
+        <incits>21107</incits>
+        <id>US.KY.107</id>
+        <population>46634</population>
+      </desc>
+    </path>
+    <path d="M 489.5162 377.6519 500.4094 373.4622 512.1405 371.7863 517.1681 375.976 519.6819 378.4898 528.8992 393.5726 513.8163 403.6279 495.3818 396.9244 489.5162 377.6519 Z" id="US.KY.109" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jackson County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>109</fips>
+        <incits>21109</incits>
+        <id>US.KY.109</id>
+        <population>13427</population>
+      </desc>
+    </path>
+    <path d="M 441.7539 345.8103 446.7815 332.4034 463.5402 338.2689 467.7299 347.4862 459.3505 354.1897 451.8091 355.0276 441.7539 350 441.7539 345.8103 Z" id="US.KY.113" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jessamine County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>113</fips>
+        <incits>21113</incits>
+        <id>US.KY.113</id>
+        <population>50173</population>
+      </desc>
+    </path>
+    <path d="M 601.7995 345.8103 603.4754 336.593 606.8271 333.2413 638.6687 344.1345 632.8031 353.3517 636.1549 359.2173 624.4238 355.8655 607.6651 359.2173 601.7995 345.8103 Z" id="US.KY.115" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Johnson County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>115</fips>
+        <incits>21115</incits>
+        <id>US.KY.115</id>
+        <population>23449</population>
+      </desc>
+    </path>
+    <path d="M 606.8271 379.3277 609.3409 381.0036 624.4238 386.8691 629.4514 400.2761 627.7755 401.114 618.5582 401.952 601.7995 408.6555 590.0684 402.7899 590.9064 388.545 597.6098 377.6519 606.8271 379.3277 Z" id="US.KY.119" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Knott County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>119</fips>
+        <incits>21119</incits>
+        <id>US.KY.119</id>
+        <population>15976</population>
+      </desc>
+    </path>
+    <path d="M 499.5714 430.4418 512.1405 428.7659 520.5198 421.2245 532.2509 424.5762 547.3337 430.4418 548.1717 435.4694 533.0888 444.6867 519.6819 455.5798 512.1405 452.2281 499.5714 430.4418 Z" id="US.KY.121" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Knox County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>121</fips>
+        <incits>21121</incits>
+        <id>US.KY.121</id>
+        <population>31790</population>
+      </desc>
+    </path>
+    <path d="M 351.2569 358.3794 366.3397 375.1381 371.3673 382.6795 360.4742 382.6795 352.9328 386.8691 331.1465 385.1933 332.8223 375.976 351.2569 358.3794 Z" id="US.KY.123" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Larue County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>123</fips>
+        <incits>21123</incits>
+        <id>US.KY.123</id>
+        <population>14064</population>
+      </desc>
+    </path>
+    <path d="M 475.2713 430.4418 481.1369 412.8451 485.3265 404.4658 495.3818 396.9244 513.8163 403.6279 511.3025 411.1693 520.5198 421.2245 512.1405 428.7659 499.5714 430.4418 480.2989 432.1176 475.2713 430.4418 Z" id="US.KY.125" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Laurel County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>125</fips>
+        <incits>21125</incits>
+        <id>US.KY.125</id>
+        <population>59563</population>
+      </desc>
+    </path>
+    <path d="M 600.1236 332.4034 612.6927 322.3481 609.3409 316.4826 621.91 309.7791 639.5066 309.7791 636.1549 319.8343 644.5342 326.5378 649.5618 338.2689 641.1825 337.431 638.6687 344.1345 606.8271 333.2413 603.4754 336.593 600.1236 332.4034 Z" id="US.KY.127" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lawrence County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>127</fips>
+        <incits>21127</incits>
+        <id>US.KY.127</id>
+        <population>15856</population>
+      </desc>
+    </path>
+    <path d="M 517.1681 375.976 525.5474 365.0828 534.7647 359.2173 535.6026 359.2173 553.1993 366.7587 548.1717 379.3277 540.6303 376.8139 533.0888 380.1657 519.6819 378.4898 517.1681 375.976 Z" id="US.KY.129" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lee County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>129</fips>
+        <incits>21129</incits>
+        <id>US.KY.129</id>
+        <population>7260</population>
+      </desc>
+    </path>
+    <path d="M 554.8752 404.4658 564.9304 396.9244 570.7959 404.4658 583.3649 410.3313 585.0408 424.5762 574.9856 431.2797 556.551 436.3073 554.8752 432.1176 549.8475 419.5486 554.8752 404.4658 Z" id="US.KY.131" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Leslie County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>131</fips>
+        <incits>21131</incits>
+        <id>US.KY.131</id>
+        <population>11019</population>
+      </desc>
+    </path>
+    <path d="M 590.9064 426.2521 596.7719 424.5762 596.7719 416.1969 601.7995 408.6555 618.5582 401.952 627.7755 401.114 642.8583 408.6555 628.6134 415.3589 628.6134 421.2245 614.3685 428.7659 607.6651 425.4142 590.9064 426.2521 Z" id="US.KY.133" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Letcher County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>133</fips>
+        <incits>21133</incits>
+        <id>US.KY.133</id>
+        <population>23619</population>
+      </desc>
+    </path>
+    <path d="M 541.4682 273.7479 553.1993 267.0444 568.2821 271.2341 575.8235 277.0996 587.5546 274.5858 599.2857 265.3685 595.934 277.0996 586.7167 285.479 580.0132 293.0204 580.8511 300.5618 569.958 303.0756 559.9028 297.2101 548.1717 293.0204 542.3061 283.8031 541.4682 273.7479 Z" id="US.KY.135" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lewis County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>135</fips>
+        <incits>21135</incits>
+        <id>US.KY.135</id>
+        <population>13806</population>
+      </desc>
+    </path>
+    <path d="M 429.1849 375.1381 446.7815 367.5966 466.892 381.0036 461.8643 396.0864 456.8367 393.5726 440.916 404.4658 440.916 392.7347 429.1849 386.8691 429.1849 375.1381 Z" id="US.KY.137" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lincoln County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>137</fips>
+        <incits>21137</incits>
+        <id>US.KY.137</id>
+        <population>24370</population>
+      </desc>
+    </path>
+    <path d="M 222.2149 459.7695 222.2149 421.2245 233.108 420.3866 258.2461 427.09 264.1116 437.9832 256.5702 441.3349 249.8667 459.7695 222.2149 459.7695 Z" id="US.KY.141" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Logan County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>141</fips>
+        <incits>21141</incits>
+        <id>US.KY.141</id>
+        <population>26876</population>
+      </desc>
+    </path>
+    <path d="M 111.6074 428.7659 115.7971 412.8451 125.0144 409.4934 130.042 410.3313 145.1248 430.4418 119.1489 438.8211 111.6074 428.7659 Z" id="US.KY.143" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lyon County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>143</fips>
+        <incits>21143</incits>
+        <id>US.KY.143</id>
+        <population>8451</population>
+      </desc>
+    </path>
+    <path d="M 459.3505 354.1897 467.7299 347.4862 476.9472 343.2965 501.2473 346.6483 500.4094 373.4622 489.5162 377.6519 476.1092 375.976 459.3505 354.1897 Z" id="US.KY.151" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Madison County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>151</fips>
+        <incits>21151</incits>
+        <id>US.KY.151</id>
+        <population>85590</population>
+      </desc>
+    </path>
+    <path d="M 601.7995 345.8103 607.6651 359.2173 612.6927 375.976 609.3409 381.0036 606.8271 379.3277 594.2581 367.5966 579.1753 364.2449 577.4994 360.0552 582.527 350 598.4478 344.1345 601.7995 345.8103 Z" id="US.KY.153" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Magoffin County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>153</fips>
+        <incits>21153</incits>
+        <id>US.KY.153</id>
+        <population>12950</population>
+      </desc>
+    </path>
+    <path d="M 366.3397 375.1381 377.2329 358.3794 382.2605 365.0828 390.6399 367.5966 412.4262 367.5966 411.5882 375.976 408.2365 387.7071 399.8571 383.5174 391.4778 386.8691 382.2605 382.6795 371.3673 382.6795 366.3397 375.1381 Z" id="US.KY.155" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Marion County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>155</fips>
+        <incits>21155</incits>
+        <id>US.KY.155</id>
+        <population>20045</population>
+      </desc>
+    </path>
+    <path d="M 88.1453 449.7143 88.1453 432.1176 88.1453 424.5762 99.8764 420.3866 111.6074 428.7659 119.1489 438.8211 123.3385 450.5522 88.1453 449.7143 Z" id="US.KY.157" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Marshall County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>157</fips>
+        <incits>21157</incits>
+        <id>US.KY.157</id>
+        <population>31107</population>
+      </desc>
+    </path>
+    <path d="M 57.9796 448.0384 57.9796 431.2797 88.1453 432.1176 88.1453 449.7143 88.1453 473.1765 57.1417 473.1765 57.9796 448.0384 Z" id="US.KY.083" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Graves County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>083</fips>
+        <incits>21083</incits>
+        <id>US.KY.083</id>
+        <population>37451</population>
+      </desc>
+    </path>
+    <path d="M 638.6687 344.1345 641.1825 337.431 649.5618 338.2689 656.2653 343.2965 664.6447 357.5414 657.1032 362.569 642.8583 362.569 636.1549 359.2173 632.8031 353.3517 638.6687 344.1345 Z" id="US.KY.159" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Martin County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>159</fips>
+        <incits>21159</incits>
+        <id>US.KY.159</id>
+        <population>12647</population>
+      </desc>
+    </path>
+    <path d="M 509.6267 277.0996 518.006 261.1789 530.575 272.072 541.4682 273.7479 542.3061 283.8031 522.1957 290.5066 515.4922 287.1549 509.6267 277.0996 Z" id="US.KY.161" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Mason County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>161</fips>
+        <incits>21161</incits>
+        <id>US.KY.161</id>
+        <population>17278</population>
+      </desc>
+    </path>
+    <path d="M 46.2485 405.3037 57.9796 408.6555 80.6038 419.5486 88.1453 424.5762 88.1453 432.1176 57.9796 431.2797 57.1417 431.2797 46.2485 405.3037 Z" id="US.KY.145" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>McCracken County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>145</fips>
+        <incits>21145</incits>
+        <id>US.KY.145</id>
+        <population>65373</population>
+      </desc>
+    </path>
+    <path d="M 435.8884 463.9592 454.3229 438.8211 475.2713 430.4418 480.2989 432.1176 476.1092 447.2005 487.0024 464.7971 435.8884 463.9592 Z" id="US.KY.147" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>McCreary County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>147</fips>
+        <incits>21147</incits>
+        <id>US.KY.147</id>
+        <population>17989</population>
+      </desc>
+    </path>
+    <path d="M 181.1561 365.9208 189.5354 362.569 203.7803 368.4346 223.8908 374.3001 218.0252 387.7071 199.5906 390.2209 194.563 386.8691 192.0492 373.4622 181.1561 365.9208 Z" id="US.KY.149" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>McLean County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>149</fips>
+        <incits>21149</incits>
+        <id>US.KY.149</id>
+        <population>9496</population>
+      </desc>
+    </path>
+    <path d="M 275.0048 329.0516 290.9256 318.1585 295.9532 327.3758 304.3325 331.5654 321.0912 333.2413 323.605 344.9724 320.2533 350 306.8463 351.6759 275.0048 329.0516 Z" id="US.KY.163" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Meade County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>163</fips>
+        <incits>21163</incits>
+        <id>US.KY.163</id>
+        <population>29210</population>
+      </desc>
+    </path>
+    <path d="M 531.413 333.2413 548.1717 331.5654 555.7131 328.2137 561.5786 329.8896 555.7131 345.8103 543.1441 349.1621 530.575 340.7827 531.413 333.2413 Z" id="US.KY.165" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Menifee County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>165</fips>
+        <incits>21165</incits>
+        <id>US.KY.165</id>
+        <population>6288</population>
+      </desc>
+    </path>
+    <path d="M 412.4262 343.2965 420.8055 337.431 434.2125 335.7551 434.2125 342.4586 441.7539 345.8103 441.7539 350 438.4022 360.0552 412.4262 363.407 414.94 346.6483 412.4262 343.2965 Z" id="US.KY.167" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Mercer County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>167</fips>
+        <incits>21167</incits>
+        <id>US.KY.167</id>
+        <population>21349</population>
+      </desc>
+    </path>
+    <path d="M 345.3914 411.1693 350.419 409.4934 355.4466 415.3589 365.5018 416.1969 372.2053 432.1176 358.7983 443.8487 345.3914 441.3349 343.7155 416.1969 345.3914 411.1693 Z" id="US.KY.169" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Metcalfe County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>169</fips>
+        <incits>21169</incits>
+        <id>US.KY.169</id>
+        <population>9983</population>
+      </desc>
+    </path>
+    <path d="M 501.2473 322.3481 510.4646 314.8067 519.6819 319.8343 531.413 333.2413 530.575 340.7827 512.1405 339.1068 501.2473 322.3481 Z" id="US.KY.173" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Montgomery County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>173</fips>
+        <incits>21173</incits>
+        <id>US.KY.173</id>
+        <population>27251</population>
+      </desc>
+    </path>
+    <path d="M 510.4646 314.8067 523.0336 304.7515 530.575 305.5894 543.1441 315.6447 549.8475 318.9964 555.7131 328.2137 548.1717 331.5654 531.413 333.2413 519.6819 319.8343 510.4646 314.8067 Z" id="US.KY.011" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Bath County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>011</fips>
+        <incits>21011</incits>
+        <id>US.KY.011</id>
+        <population>11961</population>
+      </desc>
+    </path>
+    <path d="M 561.5786 329.8896 577.4994 322.3481 577.4994 327.3758 588.3926 333.2413 600.1236 332.4034 603.4754 336.593 601.7995 345.8103 598.4478 344.1345 582.527 350 577.4994 360.0552 565.7683 350.8379 555.7131 345.8103 561.5786 329.8896 Z" id="US.KY.175" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Morgan County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>175</fips>
+        <incits>21175</incits>
+        <id>US.KY.175</id>
+        <population>13380</population>
+      </desc>
+    </path>
+    <path d="M 199.5906 390.2209 218.0252 387.7071 226.4046 393.5726 228.9184 401.114 237.2977 406.9796 233.108 420.3866 222.2149 421.2245 202.9424 419.5486 196.2389 412.0072 191.2113 402.7899 199.5906 390.2209 Z" id="US.KY.177" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Muhlenberg County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>177</fips>
+        <incits>21177</incits>
+        <id>US.KY.177</id>
+        <population>31179</population>
+      </desc>
+    </path>
+    <path d="M 345.3914 350.8379 359.6363 344.9724 368.8535 334.0792 377.2329 338.2689 399.0192 335.7551 400.6951 342.4586 387.2881 348.3241 377.2329 358.3794 366.3397 375.1381 351.2569 358.3794 345.3914 350.8379 Z" id="US.KY.179" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Nelson County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>179</fips>
+        <incits>21179</incits>
+        <id>US.KY.179</id>
+        <population>44540</population>
+      </desc>
+    </path>
+    <path d="M 490.3541 298.048 498.7335 289.6687 510.4646 292.1825 523.0336 304.7515 510.4646 314.8067 498.7335 308.1032 490.3541 298.048 Z" id="US.KY.181" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Nicholas County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>181</fips>
+        <incits>21181</incits>
+        <id>US.KY.181</id>
+        <population>7039</population>
+      </desc>
+    </path>
+    <path d="M 218.0252 387.7071 223.8908 374.3001 232.2701 367.5966 244.8391 363.407 244.0012 357.5414 261.5978 365.0828 265.7875 373.4622 259.084 375.976 264.1116 389.383 237.2977 406.9796 228.9184 401.114 226.4046 393.5726 218.0252 387.7071 Z" id="US.KY.183" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ohio County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>183</fips>
+        <incits>21183</incits>
+        <id>US.KY.183</id>
+        <population>23988</population>
+      </desc>
+    </path>
+    <path d="M 408.2365 277.0996 420.8055 271.2341 435.0504 265.3685 435.8884 275.4238 454.3229 288.8307 439.2401 299.7239 427.509 299.7239 425.8331 293.8583 412.4262 285.479 408.2365 277.0996 Z" id="US.KY.187" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Owen County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>187</fips>
+        <incits>21187</incits>
+        <id>US.KY.187</id>
+        <population>10662</population>
+      </desc>
+    </path>
+    <path d="M 435.0504 265.3685 446.7815 260.3409 450.9712 257.8271 458.5126 258.6651 463.5402 282.1273 456.8367 287.1549 454.3229 288.8307 435.8884 275.4238 435.0504 265.3685 Z" id="US.KY.081" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Grant County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>081</fips>
+        <incits>21081</incits>
+        <id>US.KY.081</id>
+        <population>24753</population>
+      </desc>
+    </path>
+    <path d="M 519.6819 378.4898 533.0888 380.1657 540.6303 376.8139 548.1717 379.3277 550.6855 395.2485 553.1993 402.7899 538.9544 395.2485 528.8992 393.5726 519.6819 378.4898 Z" id="US.KY.189" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Owsley County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>189</fips>
+        <incits>21189</incits>
+        <id>US.KY.189</id>
+        <population>4654</population>
+      </desc>
+    </path>
+    <path d="M 550.6855 395.2485 557.389 391.0588 565.7683 395.2485 583.3649 387.7071 590.9064 388.545 590.0684 402.7899 601.7995 408.6555 596.7719 416.1969 596.7719 424.5762 590.9064 426.2521 585.0408 424.5762 583.3649 410.3313 570.7959 404.4658 564.9304 396.9244 554.8752 404.4658 553.1993 402.7899 550.6855 395.2485 Z" id="US.KY.193" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Perry County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>193</fips>
+        <incits>21193</incits>
+        <id>US.KY.193</id>
+        <population>28010</population>
+      </desc>
+    </path>
+    <path d="M 627.7755 401.114 629.4514 400.2761 641.1825 385.1933 637.8307 379.3277 642.8583 362.569 657.1032 362.569 664.6447 357.5414 684.7551 375.1381 699 375.976 662.9688 401.952 642.8583 408.6555 627.7755 401.114 Z" id="US.KY.195" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pike County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>195</fips>
+        <incits>21195</incits>
+        <id>US.KY.195</id>
+        <population>63380</population>
+      </desc>
+    </path>
+    <path d="M 512.1405 339.1068 530.575 340.7827 543.1441 349.1621 535.6026 359.2173 534.7647 359.2173 529.7371 355.8655 518.006 355.8655 508.7887 348.3241 512.1405 339.1068 Z" id="US.KY.197" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Powell County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>197</fips>
+        <incits>21197</incits>
+        <id>US.KY.197</id>
+        <population>12494</population>
+      </desc>
+    </path>
+    <path d="M 424.1573 415.3589 440.916 404.4658 456.8367 393.5726 461.8643 396.0864 481.1369 412.8451 475.2713 430.4418 454.3229 438.8211 444.2677 427.928 430.0228 427.09 424.1573 422.0624 424.1573 415.3589 Z" id="US.KY.199" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pulaski County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>199</fips>
+        <incits>21199</incits>
+        <id>US.KY.199</id>
+        <population>63907</population>
+      </desc>
+    </path>
+    <path d="M 493.7059 281.2893 509.6267 277.0996 515.4922 287.1549 510.4646 292.1825 498.7335 289.6687 493.7059 281.2893 Z" id="US.KY.201" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Robertson County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>201</fips>
+        <incits>21201</incits>
+        <id>US.KY.201</id>
+        <population>2235</population>
+      </desc>
+    </path>
+    <path d="M 461.8643 396.0864 466.892 381.0036 476.1092 375.976 489.5162 377.6519 495.3818 396.9244 485.3265 404.4658 481.1369 412.8451 461.8643 396.0864 Z" id="US.KY.203" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Rockcastle County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>203</fips>
+        <incits>21203</incits>
+        <id>US.KY.203</id>
+        <population>16693</population>
+      </desc>
+    </path>
+    <path d="M 543.1441 315.6447 553.1993 308.9412 559.9028 297.2101 569.958 303.0756 574.1477 313.1309 579.1753 314.8067 577.4994 322.3481 561.5786 329.8896 555.7131 328.2137 549.8475 318.9964 543.1441 315.6447 Z" id="US.KY.205" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Rowan County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>205</fips>
+        <incits>21205</incits>
+        <id>US.KY.205</id>
+        <population>23527</population>
+      </desc>
+    </path>
+    <path d="M 393.1537 433.7935 395.6675 426.2521 410.7503 409.4934 424.1573 415.3589 424.1573 422.0624 430.0228 427.09 409.0744 439.6591 394.8295 440.497 393.1537 433.7935 Z" id="US.KY.207" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Russell County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>207</fips>
+        <incits>21207</incits>
+        <id>US.KY.207</id>
+        <population>17752</population>
+      </desc>
+    </path>
+    <path d="M 439.2401 299.7239 454.3229 288.8307 456.8367 287.1549 465.2161 297.2101 466.892 306.4274 471.0816 313.1309 450.1333 322.3481 440.916 314.8067 439.2401 299.7239 Z" id="US.KY.209" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Scott County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>209</fips>
+        <incits>21209</incits>
+        <id>US.KY.209</id>
+        <population>49947</population>
+      </desc>
+    </path>
+    <path d="M 249.8667 459.7695 256.5702 441.3349 264.1116 437.9832 266.6255 443.0108 283.3842 448.0384 282.5462 459.7695 249.8667 459.7695 Z" id="US.KY.213" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Simpson County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>213</fips>
+        <incits>21213</incits>
+        <id>US.KY.213</id>
+        <population>17793</population>
+      </desc>
+    </path>
+    <path d="M 360.4742 382.6795 371.3673 382.6795 382.2605 382.6795 391.4778 386.8691 399.8571 383.5174 408.2365 387.7071 399.8571 397.7623 381.4226 408.6555 369.6915 392.7347 360.4742 382.6795 Z" id="US.KY.217" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Taylor County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>217</fips>
+        <incits>21217</incits>
+        <id>US.KY.217</id>
+        <population>24649</population>
+      </desc>
+    </path>
+    <path d="M 196.2389 460.6074 202.9424 419.5486 222.2149 421.2245 222.2149 459.7695 196.2389 460.6074 Z" id="US.KY.219" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Todd County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>219</fips>
+        <incits>21219</incits>
+        <id>US.KY.219</id>
+        <population>12503</population>
+      </desc>
+    </path>
+    <path d="M 119.1489 438.8211 145.1248 430.4418 158.5318 426.2521 166.0732 429.6038 162.7215 460.6074 127.5282 457.2557 123.3385 450.5522 119.1489 438.8211 Z" id="US.KY.221" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Trigg County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>221</fips>
+        <incits>21221</incits>
+        <id>US.KY.221</id>
+        <population>14293</population>
+      </desc>
+    </path>
+    <path d="M 258.2461 427.09 263.2737 409.4934 283.3842 411.1693 295.1152 418.7107 310.1981 421.2245 306.0084 432.9556 283.3842 448.0384 266.6255 443.0108 264.1116 437.9832 258.2461 427.09 Z" id="US.KY.227" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Warren County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>227</fips>
+        <incits>21227</incits>
+        <id>US.KY.227</id>
+        <population>118370</population>
+      </desc>
+    </path>
+    <path d="M 377.2329 358.3794 387.2881 348.3241 400.6951 342.4586 412.4262 343.2965 414.94 346.6483 412.4262 363.407 412.4262 367.5966 390.6399 367.5966 382.2605 365.0828 377.2329 358.3794 Z" id="US.KY.229" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Washington County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>229</fips>
+        <incits>21229</incits>
+        <id>US.KY.229</id>
+        <population>11875</population>
+      </desc>
+    </path>
+    <path d="M 409.0744 439.6591 430.0228 427.09 444.2677 427.928 454.3229 438.8211 435.8884 463.9592 415.7779 462.2833 414.94 449.7143 409.0744 439.6591 Z" id="US.KY.231" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wayne County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>231</fips>
+        <incits>21231</incits>
+        <id>US.KY.231</id>
+        <population>20678</population>
+      </desc>
+    </path>
+    <path d="M 140.0972 381.8415 158.5318 366.7587 181.1561 365.9208 192.0492 373.4622 181.1561 381.0036 171.9388 383.5174 150.9904 393.5726 152.6663 391.0588 140.0972 381.8415 Z" id="US.KY.233" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Webster County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>233</fips>
+        <incits>21233</incits>
+        <id>US.KY.233</id>
+        <population>13452</population>
+      </desc>
+    </path>
+    <path d="M 480.2989 432.1176 499.5714 430.4418 512.1405 452.2281 519.6819 455.5798 515.4922 465.6351 487.0024 464.7971 476.1092 447.2005 480.2989 432.1176 Z" id="US.KY.235" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Whitley County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>235</fips>
+        <incits>21235</incits>
+        <id>US.KY.235</id>
+        <population>35766</population>
+      </desc>
+    </path>
+    <path d="M 535.6026 359.2173 543.1441 349.1621 555.7131 345.8103 565.7683 350.8379 577.4994 360.0552 579.1753 364.2449 562.4166 362.569 553.1993 366.7587 535.6026 359.2173 Z" id="US.KY.237" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wolfe County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>237</fips>
+        <incits>21237</incits>
+        <id>US.KY.237</id>
+        <population>7248</population>
+      </desc>
+    </path>
+    <path d="M 440.916 314.8067 450.1333 322.3481 446.7815 332.4034 441.7539 345.8103 434.2125 342.4586 434.2125 335.7551 427.509 322.3481 440.916 314.8067 Z" id="US.KY.239" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Woodford County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>239</fips>
+        <incits>21239</incits>
+        <id>US.KY.239</id>
+        <population>25275</population>
+      </desc>
+    </path>
+    <path d="M 323.605 453.066 345.3914 441.3349 358.7983 443.8487 373.8812 462.2833 323.605 461.4454 323.605 453.066 Z" id="US.KY.171" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Monroe County</name>
+        <stateAbbrev>KY</stateAbbrev>
+        <state>Kentucky</state>
+        <fips>171</fips>
+        <incits>21171</incits>
+        <id>US.KY.171</id>
+        <population>10681</population>
+      </desc>
+    </path>
+  </g>
+</svg>

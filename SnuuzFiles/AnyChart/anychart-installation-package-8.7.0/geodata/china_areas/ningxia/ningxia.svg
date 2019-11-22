@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="ningxia">
+    <path d="M 352.8221 625.6253 375.3989 627.5067 397.9757 638.7951 409.2642 699 362.2291 689.593 352.8221 625.6253 Z" id="CN.ningxia.2700340" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jingyuan County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>zh:泾源县</wikipedia>
+        <localname>泾源县 (Jingyuan)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.ningxia.2700340</id>
+      </desc>
+    </path>
+    <path d="M 288.8544 661.372 326.4825 625.6253 352.8221 625.6253 362.2291 689.593 288.8544 661.372 Z" id="CN.ningxia.2700341" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Longde County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>zh:隆德县</wikipedia>
+        <localname>隆德县 (Longde)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.ningxia.2700341</id>
+      </desc>
+    </path>
+    <path d="M 411.1456 539.0809 471.3504 550.3693 486.4016 569.1833 482.6388 619.9811 463.8248 636.9137 397.9757 638.7951 375.3989 627.5067 379.1617 595.5229 411.1456 539.0809 Z" id="CN.ningxia.2793580" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pengyang County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>zh:彭阳县</wikipedia>
+        <localname>彭阳县 / Pengyang</localname>
+        <boundary>administrative</boundary>
+        <id>CN.ningxia.2793580</id>
+      </desc>
+    </path>
+    <path d="M 230.531 554.1321 320.8383 552.2507 326.4825 625.6253 288.8544 661.372 264.3962 631.2695 232.4124 633.1509 204.1914 604.9299 230.531 554.1321 Z" id="CN.ningxia.2793581" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Xiji County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>zh:西吉县</wikipedia>
+        <localname>西吉县 / Xiji</localname>
+        <boundary>administrative</boundary>
+        <id>CN.ningxia.2793581</id>
+      </desc>
+    </path>
+    <path d="M 350.9407 486.4016 397.9757 476.9946 411.1456 539.0809 379.1617 595.5229 375.3989 627.5067 352.8221 625.6253 326.4825 625.6253 320.8383 552.2507 313.3127 533.4367 350.9407 486.4016 Z" id="CN.ningxia.2793582" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Yuanzhou District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>zh:原州区</wikipedia>
+        <localname>原州区 / Yuanzhou</localname>
+        <boundary>administrative</boundary>
+        <id>CN.ningxia.2793582</id>
+      </desc>
+    </path>
+    <path d="M 175.9704 414.9084 192.903 405.5013 226.7682 424.3154 277.566 429.9596 324.6011 443.1294 350.9407 486.4016 313.3127 533.4367 320.8383 552.2507 230.531 554.1321 207.9542 497.69 206.0728 452.5364 175.9704 414.9084 Z" id="CN.ningxia.2793619" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Haiyuan County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>zh:海原县</wikipedia>
+        <localname>海原县 / Haiyuan</localname>
+        <boundary>administrative</boundary>
+        <id>CN.ningxia.2793619</id>
+      </desc>
+    </path>
+    <path d="M 221.124 292.6173 247.4636 352.8221 224.8868 392.3315 192.903 405.5013 175.9704 414.9084 136.4609 405.5013 91.3073 322.7197 143.9865 317.0755 196.6658 288.8544 221.124 292.6173 Z" id="CN.ningxia.2793620" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Shapotou District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>zh:沙坡头区</wikipedia>
+        <localname>沙坡头区</localname>
+        <boundary>administrative</boundary>
+        <id>CN.ningxia.2793620</id>
+      </desc>
+    </path>
+    <path d="M 221.124 292.6173 249.345 286.973 303.9057 281.3288 322.7197 305.7871 334.0081 320.8383 275.6846 362.2291 283.2102 377.2803 277.566 429.9596 226.7682 424.3154 192.903 405.5013 224.8868 392.3315 247.4636 352.8221 221.124 292.6173 Z" id="CN.ningxia.2793621" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Zhongning County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>zh:中宁县</wikipedia>
+        <localname>中宁县 / Zhongning</localname>
+        <boundary>administrative</boundary>
+        <id>CN.ningxia.2793621</id>
+      </desc>
+    </path>
+    <path d="M 335.8895 49.9164 409.2642 14.1698 405.5013 64.9677 384.8059 87.5445 335.8895 49.9164 Z" id="CN.ningxia.3307095" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dawukou District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Dawukou District</wikipedia>
+        <localname>大武口区 (Dawukou)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.ningxia.3307095</id>
+      </desc>
+    </path>
+    <path d="M 409.2642 14.1698 460.062 1 473.2318 46.1536 405.5013 64.9677 409.2642 14.1698 Z" id="CN.ningxia.3307096" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Huinong District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Huinong District</wikipedia>
+        <localname>惠农区 (Huinong)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.ningxia.3307096</id>
+      </desc>
+    </path>
+    <path d="M 335.8895 49.9164 384.8059 87.5445 405.5013 64.9677 473.2318 46.1536 486.4016 72.4933 437.4852 130.8167 424.3154 121.4097 320.8383 83.7817 335.8895 49.9164 Z" id="CN.ningxia.3307097" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pingluo County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Pingluo County</wikipedia>
+        <localname>平罗县 (Pingluo)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.ningxia.3307097</id>
+      </desc>
+    </path>
+    <path d="M 300.1429 113.8841 320.8383 83.7817 424.3154 121.4097 414.9084 145.8679 365.9919 149.6307 358.4663 125.1725 300.1429 113.8841 Z" id="CN.ningxia.3307199" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Helan County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Helan County</wikipedia>
+        <localname>贺兰县 (Helan)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.ningxia.3307199</id>
+      </desc>
+    </path>
+    <path d="M 330.2453 181.6146 358.4663 125.1725 365.9919 149.6307 367.8733 166.5633 330.2453 181.6146 Z" id="CN.ningxia.3307200" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jinfeng District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Jinfeng District</wikipedia>
+        <localname>金凤区 (Jinfeng)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.ningxia.3307200</id>
+      </desc>
+    </path>
+    <path d="M 356.5849 224.8868 358.4663 215.4798 384.8059 177.8518 403.6199 181.6146 463.8248 207.9542 452.5364 239.938 475.1132 260.6334 409.2642 324.6011 386.6873 318.9569 356.5849 224.8868 Z" id="CN.ningxia.3307201" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lingwu City</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>zh:灵武市</wikipedia>
+        <localname>灵武市 (Lingwu)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.ningxia.3307201</id>
+      </desc>
+    </path>
+    <path d="M 365.9919 149.6307 414.9084 145.8679 424.3154 121.4097 437.4852 130.8167 403.6199 181.6146 384.8059 177.8518 367.8733 166.5633 365.9919 149.6307 Z" id="CN.ningxia.3307202" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Xingqing District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Xingqing District</wikipedia>
+        <localname>兴庆区 (Xingqing)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.ningxia.3307202</id>
+      </desc>
+    </path>
+    <path d="M 292.6173 153.3935 300.1429 113.8841 358.4663 125.1725 330.2453 181.6146 292.6173 153.3935 Z" id="CN.ningxia.3307203" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Xixia District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Xixia District</wikipedia>
+        <localname>西夏区 (Xixia)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.ningxia.3307203</id>
+      </desc>
+    </path>
+    <path d="M 292.6173 153.3935 330.2453 181.6146 367.8733 166.5633 384.8059 177.8518 358.4663 215.4798 294.4987 191.0216 292.6173 153.3935 Z" id="CN.ningxia.3307204" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Yongning County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Yongning County</wikipedia>
+        <localname>永宁县 (Yongning)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.ningxia.3307204</id>
+      </desc>
+    </path>
+    <path d="M 409.2642 324.6011 475.1132 260.6334 452.5364 239.938 463.8248 207.9542 524.0296 209.8356 567.3019 245.5822 608.6927 260.6334 552.2507 309.5499 539.0809 352.8221 554.1321 382.9245 476.9946 394.2129 428.0782 386.6873 443.1294 360.3477 413.027 330.2453 409.2642 324.6011 Z" id="CN.ningxia.3924669" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Yanchi County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Yanchi County</wikipedia>
+        <localname>盐池县 (Yanchi)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.ningxia.3924669</id>
+      </desc>
+    </path>
+    <path d="M 249.345 286.973 281.3288 268.159 294.4987 191.0216 358.4663 215.4798 356.5849 224.8868 332.1267 302.0243 322.7197 305.7871 303.9057 281.3288 249.345 286.973 Z" id="CN.ningxia.4429427" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Qingtongxia City</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Qingtongxia</wikipedia>
+        <localname>青铜峡市 (Qingtongxia)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.ningxia.4429427</id>
+      </desc>
+    </path>
+    <path d="M 283.2102 377.2803 381.0431 388.5687 364.1105 354.7035 413.027 330.2453 443.1294 360.3477 428.0782 386.6873 435.6038 443.1294 397.9757 476.9946 350.9407 486.4016 324.6011 443.1294 277.566 429.9596 283.2102 377.2803 Z" id="CN.ningxia.4562843" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Tongxin County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Tongxin County</wikipedia>
+        <localname>同心县 / Tongxin / ﺗْﻮسٍ ﺷِﯿًﺎ‎</localname>
+        <boundary>administrative</boundary>
+        <id>CN.ningxia.4562843</id>
+      </desc>
+    </path>
+    <path d="M 356.5849 224.8868 386.6873 318.9569 350.9407 330.2453 332.1267 302.0243 356.5849 224.8868 Z" id="CN.ningxia.4563635" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Litong District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Litong District</wikipedia>
+        <localname>利通区 / Litong / لِتْو ٿُو‎</localname>
+        <boundary>administrative</boundary>
+        <id>CN.ningxia.4563635</id>
+      </desc>
+    </path>
+    <path d="M 322.7197 305.7871 332.1267 302.0243 350.9407 330.2453 386.6873 318.9569 409.2642 324.6011 413.027 330.2453 364.1105 354.7035 381.0431 388.5687 283.2102 377.2803 275.6846 362.2291 334.0081 320.8383 322.7197 305.7871 Z" id="CN.ningxia.4563684" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hongsibao District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>zh:红寺堡区</wikipedia>
+        <localname>红寺堡区 / Hongsibao</localname>
+        <boundary>administrative</boundary>
+        <id>CN.ningxia.4563684</id>
+      </desc>
+    </path>
+  </g>
+</svg>

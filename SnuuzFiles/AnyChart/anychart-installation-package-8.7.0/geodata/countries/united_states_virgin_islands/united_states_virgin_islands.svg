@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="united_states_virgin_islands">
+    <path d="M 214.0347 82.956 209.9526 84.6438 207.205 84.2513 203.594 89.5894 196.9998 97.5574 195.0765 94.8883 195.2727 91.081 197.4708 85.3503 204.6537 77.4609 208.1078 74.9488 212.7787 78.4029 214.0347 82.956 Z M 226.4696 26.0694 262.2269 45.7492 297.3903 64.8863 311.7674 86.7258 300.8395 88.3728 292.2505 85.663 281.3261 89.4906 274.3787 99.313 243.8396 88.396 232.8805 81.8395 224.223 65.4449 220.182 74.1886 210.9574 68.1807 190.2088 72.0189 175.2107 69.2957 163.6564 57.271 133.0893 66.0471 117.4772 51.8362 146.052 37.4249 170.3876 31.4195 205.7324 32.6439 220.2235 42.5159 228.8672 39.7826 213.2097 28.2595 205.7073 20.0607 226.4696 26.0694 Z M 250.5381 17.0536 246.8485 20.6255 242.0599 14.5023 239.6656 7.3587 235.8583 3.0411 243.2374 1 250.2241 5.9064 250.5381 17.0536 Z" id="VI.ST" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>VI.ST</code_hasc>
+        <name>Saint Thomas</name>
+        <admin>United States Virgin Islands</admin>
+        <type_en/>
+        <region/>
+        <woe_id>24549909</woe_id>
+        <longitude>-64</longitude>
+        <woe_name>Saint Thomas Island</woe_name>
+        <fips>010</fips>
+        <woe_label>Saint Thomas Island, VI, US Virgin Islands</woe_label>
+        <latitude>18</latitude>
+        <iso_a2>VI</iso_a2>
+        <postal/>
+        <type/>
+        <id>VI.ST</id>
+      </desc>
+    </path>
+    <path d="M 445.9343 62.1404 439.0206 64.8713 449.3784 77.9951 443.0292 100.4035 411.9436 84.5419 363.5801 88.913 349.1899 76.3427 363.5818 55.5847 379.7071 49.0089 396.9861 44.0891 392.9567 36.9821 401.5979 32.6092 433.8522 40.8151 449.4037 43.554 463.8004 49.5741 481.0778 58.329 485.1014 68.1721 471.8477 70.3524 445.9343 62.1404 Z" id="VI.SJ" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>VI.SJ</code_hasc>
+        <name>Saint John</name>
+        <admin>United States Virgin Islands</admin>
+        <type_en/>
+        <region/>
+        <woe_id>24549908</woe_id>
+        <longitude>-64</longitude>
+        <woe_name>Saint John Island</woe_name>
+        <fips>020</fips>
+        <woe_label>Saint John Island, VI, US Virgin Islands</woe_label>
+        <latitude>18</latitude>
+        <iso_a2>VI</iso_a2>
+        <postal/>
+        <type/>
+        <id>VI.SJ</id>
+      </desc>
+    </path>
+    <path d="M 582.5228 632.5874 557.6377 635.1387 536.9132 641.6151 496.2884 659.5135 475.3284 665.7544 276.7578 692.8768 258.6238 699 265.689 682.4753 266.8665 668.4627 265.846 629.0548 268.7898 616.887 276.6793 609.1938 313.1042 619.8308 333.5932 610.8816 354.7887 597.9288 377.7898 593.0224 380.1841 595.5344 417.1977 619.399 437.5297 626.2287 447.8135 631.4098 456.7627 639.1815 478.8218 621.7148 513.4804 614.5319 551.279 616.4945 582.5228 625.9932 582.5228 632.5874 Z" id="VI.SC" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>VI.SC</code_hasc>
+        <name>Saint Croix</name>
+        <admin>United States Virgin Islands</admin>
+        <type_en/>
+        <region/>
+        <woe_id>24549907</woe_id>
+        <longitude>-64</longitude>
+        <woe_name>Saint Croix Island</woe_name>
+        <fips>030</fips>
+        <woe_label>Saint Croix Island, VI, US Virgin Islands</woe_label>
+        <latitude>17</latitude>
+        <iso_a2>VI</iso_a2>
+        <postal/>
+        <type/>
+        <id>VI.SC</id>
+      </desc>
+    </path>
+  </g>
+</svg>

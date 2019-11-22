@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="anguilla">
+    <path d="M 362.398 521.0509 358.1202 521.5856 354.3771 520.7835 354.1097 517.3078 356.7834 517.3078 358.3875 515.971 361.3285 516.2383 362.398 521.0509 Z M 346.8909 514.6341 341.2763 516.5057 336.4638 516.2383 332.7207 513.2973 329.2449 511.4258 332.1859 510.8911 337.2658 511.9605 339.9395 512.4952 346.8909 514.6341 Z M 268.4519 491.7633 246.2607 505.6662 233.1599 501.121 231.5558 493.1001 244.1218 486.416 255.174 491.4601 268.4519 491.7633 Z M 8.2819 51.9216 2.1854 61.9131 1 50.2281 8.2819 51.9216 Z" id="AI.3618" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>-99</code_hasc>
+        <name/>
+        <admin>Anguilla</admin>
+        <type_en/>
+        <region/>
+        <woe_id>-99</woe_id>
+        <longitude>-63</longitude>
+        <woe_name/>
+        <fips/>
+        <woe_label/>
+        <latitude>18</latitude>
+        <iso_a2>AI</iso_a2>
+        <postal/>
+        <type/>
+        <id>AI.3618</id>
+      </desc>
+    </path>
+    <path d="M 510.7374 608.4902 457.8409 639.9497 453.8895 634.0791 444.519 627.6439 437.9709 620.9829 437.9266 611.2637 453.3949 611.2637 454.4998 605.1869 474.3877 604.6344 483.2267 597.4527 495.1422 590.0651 495.8494 603.067 505.0996 598.8273 510.8122 589.5768 510.7374 608.4902 Z" id="AI.BP" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>AI.BP</code_hasc>
+        <name>Blowing Point</name>
+        <admin>Anguilla</admin>
+        <type_en>District</type_en>
+        <region/>
+        <woe_id>24549648</woe_id>
+        <longitude>-63</longitude>
+        <woe_name>Blowing Point</woe_name>
+        <fips/>
+        <woe_label/>
+        <latitude>18</latitude>
+        <iso_a2>AI</iso_a2>
+        <postal/>
+        <type>District</type>
+        <id>AI.BP</id>
+      </desc>
+    </path>
+    <path d="M 633.5099 510.7947 605.737 555.728 603.1079 559.0003 603.6588 546.0757 593.1624 546.0757 600.8966 534.4745 602.5539 528.9501 591.5051 522.3208 577.1416 522.3208 577.1764 507.055 585.6412 505.6014 585.4283 513.4817 595.9246 513.4817 603.4985 502.9927 618.0993 500.8597 633.8485 501.65 633.5099 510.7947 Z M 668.9216 495.3756 655.9712 503.7307 651.3759 499.1354 656.8067 492.4513 653.8824 482.843 664.3263 479.0832 668.5039 471.9813 687.7206 475.7411 699 482.4252 690.2271 485.7673 672.2637 490.7803 668.9216 495.3756 Z" id="AI.EE" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>AI.EE</code_hasc>
+        <name>East End</name>
+        <admin>Anguilla</admin>
+        <type_en>District</type_en>
+        <region/>
+        <woe_id>24549654</woe_id>
+        <longitude>-62</longitude>
+        <woe_name>East End</woe_name>
+        <fips/>
+        <woe_label/>
+        <latitude>18</latitude>
+        <iso_a2>AI</iso_a2>
+        <postal/>
+        <type>District</type>
+        <id>AI.EE</id>
+      </desc>
+    </path>
+    <path d="M 510.8122 589.5768 505.0996 598.8273 495.8494 603.067 495.1422 590.0651 510.8488 580.327 510.8122 589.5768 Z" id="AI.GH" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>AI.GH</code_hasc>
+        <name>George Hill</name>
+        <admin>Anguilla</admin>
+        <type_en>District</type_en>
+        <region/>
+        <woe_id>24549657</woe_id>
+        <longitude>-63</longitude>
+        <woe_name>George Hill</woe_name>
+        <fips/>
+        <woe_label/>
+        <latitude>18</latitude>
+        <iso_a2>AI</iso_a2>
+        <postal/>
+        <type>District</type>
+        <id>AI.GH</id>
+      </desc>
+    </path>
+    <path d="M 585.4283 513.4817 585.6412 505.6014 603.4985 502.9927 595.9246 513.4817 585.4283 513.4817 Z" id="AI.IH" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>AI.IH</code_hasc>
+        <name>Island Harbour</name>
+        <admin>Anguilla</admin>
+        <type_en>District</type_en>
+        <region/>
+        <woe_id>24549653</woe_id>
+        <longitude>-63</longitude>
+        <woe_name>Island Harbour</woe_name>
+        <fips/>
+        <woe_label/>
+        <latitude>18</latitude>
+        <iso_a2>AI</iso_a2>
+        <postal/>
+        <type>District</type>
+        <id>AI.IH</id>
+      </desc>
+    </path>
+    <path d="M 530.7366 569.8307 510.8488 580.327 499.8 579.7746 490.7 584.3246 491.1288 578.4422 487.8282 570.873 495.0196 563.4063 530.7366 569.8307 Z" id="AI.NH" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>AI.NH</code_hasc>
+        <name>North Hill</name>
+        <admin>Anguilla</admin>
+        <type_en>District</type_en>
+        <region/>
+        <woe_id>24549651</woe_id>
+        <longitude>-63</longitude>
+        <woe_name>North Hill</woe_name>
+        <fips/>
+        <woe_label/>
+        <latitude>18</latitude>
+        <iso_a2>AI</iso_a2>
+        <postal/>
+        <type>District</type>
+        <id>AI.NH</id>
+      </desc>
+    </path>
+    <path d="M 529.1524 557.7294 511.047 543.3814 519.4831 531.5114 542.9094 512.9397 564.0971 509.3012 564.988 520.111 560.016 533.3696 541.7854 533.922 529.1524 557.7294 Z" id="AI.NS" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>AI.NS</code_hasc>
+        <name>North Side</name>
+        <admin>Anguilla</admin>
+        <type_en>District</type_en>
+        <region/>
+        <woe_id>24549652</woe_id>
+        <longitude>-63</longitude>
+        <woe_name>North Side</woe_name>
+        <fips/>
+        <woe_label/>
+        <latitude>18</latitude>
+        <iso_a2>AI</iso_a2>
+        <postal/>
+        <type>District</type>
+        <id>AI.NS</id>
+      </desc>
+    </path>
+    <path d="M 490.7 584.3246 486.5414 586.4039 461.002 589.5973 476.8077 582.3154 487.8282 570.873 491.1288 578.4422 490.7 584.3246 Z" id="AI.SG" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>AI.SG</code_hasc>
+        <name>Sandy Ground</name>
+        <admin>Anguilla</admin>
+        <type_en>District</type_en>
+        <region/>
+        <woe_id>24549650</woe_id>
+        <longitude>-63</longitude>
+        <woe_name>Sandy Ground</woe_name>
+        <fips/>
+        <woe_label/>
+        <latitude>18</latitude>
+        <iso_a2>AI</iso_a2>
+        <postal/>
+        <type>District</type>
+        <id>AI.SG</id>
+      </desc>
+    </path>
+    <path d="M 553.6777 586.044 552.2818 572.5929 548.4147 568.1733 555.2559 558.1128 563.8831 536.1318 580.4563 537.2367 602.5539 528.9501 600.8966 534.4745 593.1624 546.0757 603.6588 546.0757 603.1079 559.0003 595.1246 568.937 579.8834 578.5333 553.6777 586.044 Z" id="AI.SH" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>AI.SH</code_hasc>
+        <name>Sandy Hill</name>
+        <admin>Anguilla</admin>
+        <type_en>District</type_en>
+        <region/>
+        <woe_id>24549655</woe_id>
+        <longitude>-63</longitude>
+        <woe_name>Sandy Hill</woe_name>
+        <fips/>
+        <woe_label/>
+        <latitude>18</latitude>
+        <iso_a2>AI</iso_a2>
+        <postal/>
+        <type>District</type>
+        <id>AI.SH</id>
+      </desc>
+    </path>
+    <path d="M 510.8488 580.327 495.1422 590.0651 483.2267 597.4527 474.3877 604.6344 454.4998 605.1869 453.3949 611.2637 437.9266 611.2637 437.9709 620.9829 425.8196 629.6716 425.5521 595.6938 461.002 589.5973 486.5414 586.4039 490.7 584.3246 499.8 579.7746 510.8488 580.327 Z" id="AI.SO" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>AI.SO</code_hasc>
+        <name>South Hill</name>
+        <admin>Anguilla</admin>
+        <type_en>District</type_en>
+        <region/>
+        <woe_id>24549649</woe_id>
+        <longitude>-63</longitude>
+        <woe_name>South Hill</woe_name>
+        <fips/>
+        <woe_label/>
+        <latitude>18</latitude>
+        <iso_a2>AI</iso_a2>
+        <postal/>
+        <type>District</type>
+        <id>AI.SO</id>
+      </desc>
+    </path>
+    <path d="M 602.5539 528.9501 580.4563 537.2367 563.8831 536.1318 555.2559 558.1128 536.5895 558.4908 534.7095 562.1333 529.1524 557.7294 541.7854 533.922 560.016 533.3696 564.988 520.111 564.0971 509.3012 577.1764 507.055 577.1416 522.3208 591.5051 522.3208 602.5539 528.9501 Z" id="AI.ST" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>AI.ST</code_hasc>
+        <name>Stoney Ground</name>
+        <admin>Anguilla</admin>
+        <type_en>District</type_en>
+        <region/>
+        <woe_id>24549656</woe_id>
+        <longitude>-63</longitude>
+        <woe_name>Stoney Ground</woe_name>
+        <fips/>
+        <woe_label/>
+        <latitude>18</latitude>
+        <iso_a2>AI</iso_a2>
+        <postal/>
+        <type>District</type>
+        <id>AI.ST</id>
+      </desc>
+    </path>
+    <path d="M 553.6777 586.044 543.6432 588.9199 510.7374 608.4902 510.8122 589.5768 510.8488 580.327 530.7366 569.8307 548.4147 568.1733 552.2818 572.5929 553.6777 586.044 Z" id="AI.TF" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>AI.TF</code_hasc>
+        <name>The Farrington</name>
+        <admin>Anguilla</admin>
+        <type_en>District</type_en>
+        <region/>
+        <woe_id>24549658</woe_id>
+        <longitude>-63</longitude>
+        <woe_name>The Farrington</woe_name>
+        <fips/>
+        <woe_label/>
+        <latitude>18</latitude>
+        <iso_a2>AI</iso_a2>
+        <postal/>
+        <type>District</type>
+        <id>AI.TF</id>
+      </desc>
+    </path>
+    <path d="M 548.4147 568.1733 530.7366 569.8307 534.7095 562.1333 536.5895 558.4908 555.2559 558.1128 548.4147 568.1733 Z" id="AI.TQ" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>AI.TQ</code_hasc>
+        <name>The Quarter</name>
+        <admin>Anguilla</admin>
+        <type_en>District</type_en>
+        <region/>
+        <woe_id>24549660</woe_id>
+        <longitude>-63</longitude>
+        <woe_name>The Quarter</woe_name>
+        <fips/>
+        <woe_label/>
+        <latitude>18</latitude>
+        <iso_a2>AI</iso_a2>
+        <postal/>
+        <type>District</type>
+        <id>AI.TQ</id>
+      </desc>
+    </path>
+    <path d="M 529.1524 557.7294 534.7095 562.1333 530.7366 569.8307 495.0196 563.4063 501.871 556.2925 511.047 543.3814 529.1524 557.7294 Z" id="AI.TV" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>AI.TV</code_hasc>
+        <name>The Valley</name>
+        <admin>Anguilla</admin>
+        <type_en>District</type_en>
+        <region/>
+        <woe_id>24549659</woe_id>
+        <longitude>-63</longitude>
+        <woe_name>The Valley</woe_name>
+        <fips/>
+        <woe_label/>
+        <latitude>18</latitude>
+        <iso_a2>AI</iso_a2>
+        <postal/>
+        <type>District</type>
+        <id>AI.TV</id>
+      </desc>
+    </path>
+    <path d="M 425.8196 629.6716 406.0773 643.7883 387.1104 649.7719 363.0632 649.4332 398.7954 609.4673 409.5206 601.2258 425.5521 595.6938 425.8196 629.6716 Z" id="AI.WE" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>20</labelrank>
+        <code_hasc>AI.WE</code_hasc>
+        <name>West End</name>
+        <admin>Anguilla</admin>
+        <type_en>District</type_en>
+        <region/>
+        <woe_id>24549647</woe_id>
+        <longitude>-63</longitude>
+        <woe_name>West End</woe_name>
+        <fips/>
+        <woe_label/>
+        <latitude>18</latitude>
+        <iso_a2>AI</iso_a2>
+        <postal/>
+        <type>District</type>
+        <id>AI.WE</id>
+      </desc>
+    </path>
+  </g>
+</svg>

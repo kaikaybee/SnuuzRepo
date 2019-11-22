@@ -1,0 +1,1127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="illinois">
+    <path d="M 509.7413 46.1443 514.3715 46.1443 571.0912 46.1443 581.5091 55.4046 600.0299 95.9187 600.0299 131.8027 566.461 131.8027 566.461 121.3847 536.3648 105.1791 550.2554 101.7065 550.2554 65.8226 506.2687 66.9801 509.7413 46.1443 Z" id="US.IL.031" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cook County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>031</fips>
+        <incits>17031</incits>
+        <id>US.IL.031</id>
+        <population>5240700</population>
+      </desc>
+    </path>
+    <path d="M 333.7944 77.398 420.6103 78.5556 421.7678 112.1244 391.6716 117.9121 333.7944 117.9121 333.7944 77.398 Z" id="US.IL.103" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lee County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>103</fips>
+        <incits>17103</incits>
+        <id>US.IL.103</id>
+        <population>34858</population>
+      </desc>
+    </path>
+    <path d="M 150.9022 149.1658 154.3748 139.9055 204.1493 132.9602 243.5058 117.9121 256.2388 92.4461 263.1841 117.9121 231.9303 134.1177 231.9303 150.3234 150.9022 149.1658 Z" id="US.IL.161" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Rock Island County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>161</fips>
+        <incits>17161</incits>
+        <id>US.IL.161</id>
+        <population>147258</population>
+      </desc>
+    </path>
+    <path d="M 326.8491 40.3566 362.733 40.3566 420.6103 46.1443 420.6103 78.5556 333.7944 77.398 326.8491 73.9254 326.8491 40.3566 Z" id="US.IL.141" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ogle County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>141</fips>
+        <incits>17141</incits>
+        <id>US.IL.141</id>
+        <population>52385</population>
+      </desc>
+    </path>
+    <path d="M 514.3715 2.1575 565.3035 3.3151 561.8308 28.7811 571.0912 46.1443 514.3715 46.1443 514.3715 2.1575 Z" id="US.IL.097" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lake County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>097</fips>
+        <incits>17097</incits>
+        <id>US.IL.097</id>
+        <population>703019</population>
+      </desc>
+    </path>
+    <path d="M 506.2687 100.5489 521.3167 99.3914 524.7894 99.3914 527.1045 99.3914 528.262 99.3914 532.8922 99.3914 536.3648 105.1791 566.461 121.3847 566.461 131.8027 600.0299 131.8027 600.0299 153.796 537.5224 154.9536 508.5837 166.529 507.4262 132.9602 506.2687 100.5489 Z" id="US.IL.197" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Will County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>197</fips>
+        <incits>17197</incits>
+        <id>US.IL.197</id>
+        <population>682829</population>
+      </desc>
+    </path>
+    <path d="M 507.4262 176.9469 508.5837 166.529 537.5224 154.9536 600.0299 153.796 600.0299 190.8375 523.6318 191.995 508.5837 191.995 507.4262 176.9469 Z" id="US.IL.091" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Kankakee County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>091</fips>
+        <incits>17091</incits>
+        <id>US.IL.091</id>
+        <population>112120</population>
+      </desc>
+    </path>
+    <path d="M 256.2388 92.4461 267.8143 73.9254 326.8491 73.9254 333.7944 77.398 333.7944 117.9121 304.8557 117.9121 263.1841 117.9121 256.2388 92.4461 Z" id="US.IL.195" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Whiteside County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>195</fips>
+        <incits>17195</incits>
+        <id>US.IL.195</id>
+        <population>57557</population>
+      </desc>
+    </path>
+    <path d="M 463.4395 100.5489 465.7546 46.1443 509.7413 46.1443 506.2687 66.9801 506.2687 100.5489 463.4395 100.5489 Z" id="US.IL.089" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Kane County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>089</fips>
+        <incits>17089</incits>
+        <id>US.IL.089</id>
+        <population>523643</population>
+      </desc>
+    </path>
+    <path d="M 450.7065 3.3151 514.3715 2.1575 514.3715 46.1443 509.7413 46.1443 465.7546 46.1443 450.7065 46.1443 450.7065 3.3151 Z" id="US.IL.111" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>McHenry County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>111</fips>
+        <incits>17111</incits>
+        <id>US.IL.111</id>
+        <population>307409</population>
+      </desc>
+    </path>
+    <path d="M 137.0116 237.1393 172.8955 237.1393 171.738 282.2836 171.738 293.859 96.4975 292.7015 112.7032 268.393 116.1758 240.6119 137.0116 237.1393 Z" id="US.IL.067" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hancock County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>067</fips>
+        <incits>17067</incits>
+        <id>US.IL.067</id>
+        <population>18618</population>
+      </desc>
+    </path>
+    <path d="M 137.0116 237.1393 148.5871 215.1459 164.7927 201.2554 167.1078 182.7347 187.9436 182.7347 186.7861 204.728 186.7861 216.3035 186.7861 238.2968 172.8955 237.1393 137.0116 237.1393 Z" id="US.IL.071" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Henderson County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>071</fips>
+        <incits>17071</incits>
+        <id>US.IL.071</id>
+        <population>6990</population>
+      </desc>
+    </path>
+    <path d="M 150.9022 149.1658 231.9303 150.3234 230.7728 172.3167 230.7728 183.8922 187.9436 182.7347 167.1078 182.7347 146.272 160.7413 150.9022 149.1658 Z" id="US.IL.131" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Mercer County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>131</fips>
+        <incits>17131</incits>
+        <id>US.IL.131</id>
+        <population>16178</population>
+      </desc>
+    </path>
+    <path d="M 245.8209 40.3566 296.7529 40.3566 326.8491 40.3566 326.8491 73.9254 267.8143 73.9254 266.6567 50.7745 245.8209 40.3566 Z" id="US.IL.015" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Carroll County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>015</fips>
+        <incits>17015</incits>
+        <id>US.IL.015</id>
+        <population>14910</population>
+      </desc>
+    </path>
+    <path d="M 296.7529 1 296.7529 40.3566 245.8209 40.3566 205.3068 1 296.7529 1 Z" id="US.IL.085" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jo Daviess County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>085</fips>
+        <incits>17085</incits>
+        <id>US.IL.085</id>
+        <population>22407</population>
+      </desc>
+    </path>
+    <path d="M 420.6103 2.1575 450.7065 3.3151 450.7065 46.1443 420.6103 46.1443 420.6103 2.1575 Z" id="US.IL.007" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Boone County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>007</fips>
+        <incits>17007</incits>
+        <id>US.IL.007</id>
+        <population>53957</population>
+      </desc>
+    </path>
+    <path d="M 296.7529 1 362.733 2.1575 362.733 40.3566 326.8491 40.3566 296.7529 40.3566 296.7529 1 Z" id="US.IL.177" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Stephenson County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>177</fips>
+        <incits>17177</incits>
+        <id>US.IL.177</id>
+        <population>46740</population>
+      </desc>
+    </path>
+    <path d="M 362.733 2.1575 420.6103 2.1575 420.6103 46.1443 362.733 40.3566 362.733 2.1575 Z" id="US.IL.201" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Winnebago County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>201</fips>
+        <incits>17201</incits>
+        <id>US.IL.201</id>
+        <population>290666</population>
+      </desc>
+    </path>
+    <path d="M 420.6103 46.1443 450.7065 46.1443 465.7546 46.1443 463.4395 100.5489 463.4395 112.1244 421.7678 112.1244 420.6103 78.5556 420.6103 46.1443 Z" id="US.IL.037" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>DeKalb County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>037</fips>
+        <incits>17037</incits>
+        <id>US.IL.037</id>
+        <population>104741</population>
+      </desc>
+    </path>
+    <path d="M 506.2687 66.9801 550.2554 65.8226 550.2554 101.7065 536.3648 105.1791 532.8922 99.3914 528.262 99.3914 527.1045 99.3914 524.7894 99.3914 521.3167 99.3914 506.2687 100.5489 506.2687 66.9801 Z" id="US.IL.043" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>DuPage County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>043</fips>
+        <incits>17043</incits>
+        <id>US.IL.043</id>
+        <population>932126</population>
+      </desc>
+    </path>
+    <path d="M 464.597 134.1177 507.4262 132.9602 508.5837 166.529 507.4262 176.9469 465.7546 178.1045 464.597 134.1177 Z" id="US.IL.063" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Grundy County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>063</fips>
+        <incits>17063</incits>
+        <id>US.IL.063</id>
+        <population>50228</population>
+      </desc>
+    </path>
+    <path d="M 463.4395 100.5489 506.2687 100.5489 507.4262 132.9602 464.597 134.1177 463.4395 112.1244 463.4395 100.5489 Z" id="US.IL.093" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Kendall County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>093</fips>
+        <incits>17093</incits>
+        <id>US.IL.093</id>
+        <population>119348</population>
+      </desc>
+    </path>
+    <path d="M 481.9602 268.393 481.9602 240.6119 509.7413 240.6119 508.5837 191.995 523.6318 191.995 524.7894 256.8176 547.9403 256.8176 547.9403 267.2355 481.9602 268.393 Z" id="US.IL.053" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ford County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>053</fips>
+        <incits>17053</incits>
+        <id>US.IL.053</id>
+        <population>13832</population>
+      </desc>
+    </path>
+    <path d="M 523.6318 191.995 600.0299 190.8375 600.0299 255.66 547.9403 256.8176 524.7894 256.8176 523.6318 191.995 Z" id="US.IL.075" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Iroquois County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>075</fips>
+        <incits>17075</incits>
+        <id>US.IL.075</id>
+        <population>28982</population>
+      </desc>
+    </path>
+    <path d="M 421.7678 201.2554 421.7678 178.1045 465.7546 178.1045 507.4262 176.9469 508.5837 191.995 509.7413 240.6119 481.9602 240.6119 466.9121 222.0912 422.9254 223.2488 421.7678 201.2554 Z" id="US.IL.105" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Livingston County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>105</fips>
+        <incits>17105</incits>
+        <id>US.IL.105</id>
+        <population>38186</population>
+      </desc>
+    </path>
+    <path d="M 378.9386 242.927 414.8226 233.6667 422.9254 223.2488 466.9121 222.0912 481.9602 240.6119 481.9602 268.393 481.9602 282.2836 466.9121 282.2836 393.9867 282.2836 380.0962 276.4959 378.9386 242.927 Z" id="US.IL.113" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>McLean County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>113</fips>
+        <incits>17113</incits>
+        <id>US.IL.113</id>
+        <population>174647</population>
+      </desc>
+    </path>
+    <path d="M 353.4726 201.2554 406.7197 201.2554 421.7678 201.2554 422.9254 223.2488 414.8226 233.6667 378.9386 242.927 371.9934 223.2488 344.2123 223.2488 353.4726 201.2554 Z" id="US.IL.203" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Woodford County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>203</fips>
+        <incits>17203</incits>
+        <id>US.IL.203</id>
+        <population>39273</population>
+      </desc>
+    </path>
+    <path d="M 213.4096 334.3731 221.5124 320.4826 242.3483 301.9619 251.6086 311.2222 287.4925 304.2769 287.4925 330.9005 287.4925 334.3731 213.4096 334.3731 Z" id="US.IL.017" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cass County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>017</fips>
+        <incits>17017</incits>
+        <id>US.IL.017</id>
+        <population>13324</population>
+      </desc>
+    </path>
+    <path d="M 385.8839 342.476 395.1443 362.1542 410.1924 362.1542 410.1924 401.5108 395.1443 400.3532 346.5274 401.5108 345.3698 378.3599 360.4179 349.4212 385.8839 342.476 Z" id="US.IL.021" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Christian County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>021</fips>
+        <incits>17021</incits>
+        <id>US.IL.021</id>
+        <population>34298</population>
+      </desc>
+    </path>
+    <path d="M 337.267 277.6534 380.0962 276.4959 393.9867 282.2836 395.1443 312.3798 385.8839 328.5854 340.7396 321.6401 337.267 303.1194 337.267 277.6534 Z" id="US.IL.107" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Logan County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>107</fips>
+        <incits>17107</incits>
+        <id>US.IL.107</id>
+        <population>29964</population>
+      </desc>
+    </path>
+    <path d="M 385.8839 342.476 385.8839 328.5854 395.1443 312.3798 446.0763 311.2222 446.0763 344.791 436.8159 362.1542 410.1924 362.1542 395.1443 362.1542 385.8839 342.476 Z" id="US.IL.115" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Macon County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>115</fips>
+        <incits>17115</incits>
+        <id>US.IL.115</id>
+        <population>109278</population>
+      </desc>
+    </path>
+    <path d="M 242.3483 301.9619 260.869 295.0166 296.7529 262.6053 322.2189 263.7629 337.267 277.6534 337.267 303.1194 287.4925 304.2769 251.6086 311.2222 242.3483 301.9619 Z" id="US.IL.125" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Mason County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>125</fips>
+        <incits>17125</incits>
+        <id>US.IL.125</id>
+        <population>14248</population>
+      </desc>
+    </path>
+    <path d="M 287.4925 304.2769 337.267 303.1194 340.7396 321.6401 316.4312 330.9005 287.4925 330.9005 287.4925 304.2769 Z" id="US.IL.129" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Menard County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>129</fips>
+        <incits>17129</incits>
+        <id>US.IL.129</id>
+        <population>12607</population>
+      </desc>
+    </path>
+    <path d="M 324.534 378.3599 345.3698 378.3599 346.5274 401.5108 395.1443 400.3532 395.1443 417.7164 381.2537 417.7164 381.2537 442.0249 332.6368 444.34 324.534 444.34 324.534 378.3599 Z" id="US.IL.135" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Montgomery County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>135</fips>
+        <incits>17135</incits>
+        <id>US.IL.135</id>
+        <population>29654</population>
+      </desc>
+    </path>
+    <path d="M 211.0945 344.791 214.5672 339.0033 213.4096 334.3731 287.4925 334.3731 296.7529 378.3599 266.6567 379.5174 248.136 379.5174 240.0332 349.4212 211.0945 344.791 Z" id="US.IL.137" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Morgan County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>137</fips>
+        <incits>17137</incits>
+        <id>US.IL.137</id>
+        <population>35067</population>
+      </desc>
+    </path>
+    <path d="M 446.0763 344.791 479.6451 344.791 479.6451 362.1542 479.6451 388.7778 465.7546 387.6202 436.8159 362.1542 446.0763 344.791 Z" id="US.IL.139" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Moultrie County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>139</fips>
+        <incits>17139</incits>
+        <id>US.IL.139</id>
+        <population>14876</population>
+      </desc>
+    </path>
+    <path d="M 287.4925 330.9005 316.4312 330.9005 340.7396 321.6401 385.8839 328.5854 385.8839 342.476 360.4179 349.4212 345.3698 378.3599 324.534 378.3599 296.7529 378.3599 287.4925 334.3731 287.4925 330.9005 Z" id="US.IL.167" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Sangamon County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>167</fips>
+        <incits>17167</incits>
+        <id>US.IL.167</id>
+        <population>199145</population>
+      </desc>
+    </path>
+    <path d="M 211.0945 344.791 240.0332 349.4212 248.136 379.5174 213.4096 378.3599 205.3068 356.3665 211.0945 344.791 Z" id="US.IL.171" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Scott County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>171</fips>
+        <incits>17171</incits>
+        <id>US.IL.171</id>
+        <population>5222</population>
+      </desc>
+    </path>
+    <path d="M 395.1443 400.3532 410.1924 401.5108 410.1924 362.1542 436.8159 362.1542 465.7546 387.6202 479.6451 388.7778 479.6451 396.8806 480.8027 417.7164 437.9735 417.7164 395.1443 417.7164 395.1443 400.3532 Z" id="US.IL.173" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Shelby County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>173</fips>
+        <incits>17173</incits>
+        <id>US.IL.173</id>
+        <population>22119</population>
+      </desc>
+    </path>
+    <path d="M 296.7529 262.6053 302.5406 253.3449 330.3217 246.3997 344.2123 226.7214 344.2123 223.2488 371.9934 223.2488 378.9386 242.927 380.0962 276.4959 337.267 277.6534 322.2189 263.7629 296.7529 262.6053 Z" id="US.IL.179" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Tazewell County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>179</fips>
+        <incits>17179</incits>
+        <id>US.IL.179</id>
+        <population>136352</population>
+      </desc>
+    </path>
+    <path d="M 96.4975 292.7015 171.738 293.859 171.738 305.4345 170.5804 337.8458 170.5804 349.4212 113.8607 348.2637 103.4428 333.2156 96.4975 292.7015 Z" id="US.IL.001" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Adams County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>001</fips>
+        <incits>17001</incits>
+        <id>US.IL.001</id>
+        <population>67130</population>
+      </desc>
+    </path>
+    <path d="M 171.738 305.4345 198.3615 305.4345 221.5124 320.4826 213.4096 334.3731 214.5672 339.0033 170.5804 337.8458 171.738 305.4345 Z" id="US.IL.009" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Brown County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>009</fips>
+        <incits>17009</incits>
+        <id>US.IL.009</id>
+        <population>6860</population>
+      </desc>
+    </path>
+    <path d="M 304.8557 117.9121 333.7944 117.9121 391.6716 117.9121 392.8292 152.6385 370.8358 153.796 354.6302 173.4743 332.6368 173.4743 304.8557 161.8988 304.8557 117.9121 Z" id="US.IL.011" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Bureau County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>011</fips>
+        <incits>17011</incits>
+        <id>US.IL.011</id>
+        <population>34056</population>
+      </desc>
+    </path>
+    <path d="M 168.2653 394.5655 208.7794 394.5655 211.0945 429.2919 229.6153 448.9701 202.9917 454.7579 194.8889 413.0862 168.2653 394.5655 Z" id="US.IL.013" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Calhoun County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>013</fips>
+        <incits>17013</incits>
+        <id>US.IL.013</id>
+        <population>5059</population>
+      </desc>
+    </path>
+    <path d="M 229.6153 283.4411 230.7728 238.2968 230.7728 227.8789 288.6501 227.8789 302.5406 253.3449 296.7529 262.6053 260.869 295.0166 229.6153 293.859 229.6153 283.4411 Z" id="US.IL.057" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Fulton County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>057</fips>
+        <incits>17057</incits>
+        <id>US.IL.057</id>
+        <population>36346</population>
+      </desc>
+    </path>
+    <path d="M 208.7794 394.5655 213.4096 378.3599 248.136 379.5174 266.6567 379.5174 267.8143 411.9287 246.9784 422.3466 215.7247 421.1891 211.0945 429.2919 208.7794 394.5655 Z" id="US.IL.061" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Greene County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>061</fips>
+        <incits>17061</incits>
+        <id>US.IL.061</id>
+        <population>13629</population>
+      </desc>
+    </path>
+    <path d="M 230.7728 172.3167 231.9303 150.3234 231.9303 134.1177 263.1841 117.9121 304.8557 117.9121 304.8557 161.8988 288.6501 172.3167 230.7728 172.3167 Z" id="US.IL.073" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Henry County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>073</fips>
+        <incits>17073</incits>
+        <id>US.IL.073</id>
+        <population>49860</population>
+      </desc>
+    </path>
+    <path d="M 230.7728 227.8789 230.7728 183.8922 230.7728 172.3167 288.6501 172.3167 288.6501 195.4677 288.6501 227.8789 230.7728 227.8789 Z" id="US.IL.095" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Knox County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>095</fips>
+        <incits>17095</incits>
+        <id>US.IL.095</id>
+        <population>52078</population>
+      </desc>
+    </path>
+    <path d="M 332.6368 173.4743 354.6302 173.4743 392.8292 178.1045 406.7197 201.2554 353.4726 201.2554 332.6368 195.4677 332.6368 173.4743 Z" id="US.IL.123" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Marshall County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>123</fips>
+        <incits>17123</incits>
+        <id>US.IL.123</id>
+        <population>12153</population>
+      </desc>
+    </path>
+    <path d="M 171.738 282.2836 172.8955 237.1393 186.7861 238.2968 230.7728 238.2968 229.6153 283.4411 171.738 282.2836 Z" id="US.IL.109" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>McDonough County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>109</fips>
+        <incits>17109</incits>
+        <id>US.IL.109</id>
+        <population>32464</population>
+      </desc>
+    </path>
+    <path d="M 288.6501 227.8789 288.6501 195.4677 332.6368 195.4677 353.4726 201.2554 344.2123 223.2488 344.2123 226.7214 330.3217 246.3997 302.5406 253.3449 288.6501 227.8789 Z" id="US.IL.143" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Peoria County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>143</fips>
+        <incits>17143</incits>
+        <id>US.IL.143</id>
+        <population>188429</population>
+      </desc>
+    </path>
+    <path d="M 113.8607 348.2637 170.5804 349.4212 170.5804 337.8458 214.5672 339.0033 211.0945 344.791 205.3068 356.3665 213.4096 378.3599 208.7794 394.5655 168.2653 394.5655 113.8607 348.2637 Z" id="US.IL.149" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pike County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>149</fips>
+        <incits>17149</incits>
+        <id>US.IL.149</id>
+        <population>16150</population>
+      </desc>
+    </path>
+    <path d="M 392.8292 152.6385 392.8292 178.1045 354.6302 173.4743 370.8358 153.796 392.8292 152.6385 Z" id="US.IL.155" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Putnam County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>155</fips>
+        <incits>17155</incits>
+        <id>US.IL.155</id>
+        <population>5801</population>
+      </desc>
+    </path>
+    <path d="M 171.738 305.4345 171.738 293.859 171.738 282.2836 229.6153 283.4411 229.6153 293.859 260.869 295.0166 242.3483 301.9619 221.5124 320.4826 198.3615 305.4345 171.738 305.4345 Z" id="US.IL.169" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Schuyler County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>169</fips>
+        <incits>17169</incits>
+        <id>US.IL.169</id>
+        <population>7444</population>
+      </desc>
+    </path>
+    <path d="M 288.6501 172.3167 304.8557 161.8988 332.6368 173.4743 332.6368 195.4677 288.6501 195.4677 288.6501 172.3167 Z" id="US.IL.175" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Stark County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>175</fips>
+        <incits>17175</incits>
+        <id>US.IL.175</id>
+        <population>5907</population>
+      </desc>
+    </path>
+    <path d="M 186.7861 238.2968 186.7861 216.3035 186.7861 204.728 187.9436 182.7347 230.7728 183.8922 230.7728 227.8789 230.7728 238.2968 186.7861 238.2968 Z" id="US.IL.187" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Warren County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>187</fips>
+        <incits>17187</incits>
+        <id>US.IL.187</id>
+        <population>17726</population>
+      </desc>
+    </path>
+    <path d="M 211.0945 429.2919 215.7247 421.1891 246.9784 422.3466 267.8143 411.9287 268.9718 444.34 251.6086 454.7579 229.6153 448.9701 211.0945 429.2919 Z" id="US.IL.083" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jersey County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>083</fips>
+        <incits>17083</incits>
+        <id>US.IL.083</id>
+        <population>22641</population>
+      </desc>
+    </path>
+    <path d="M 266.6567 379.5174 296.7529 378.3599 324.534 378.3599 324.534 444.34 268.9718 444.34 267.8143 411.9287 266.6567 379.5174 Z" id="US.IL.117" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Macoupin County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>117</fips>
+        <incits>17117</incits>
+        <id>US.IL.117</id>
+        <population>46880</population>
+      </desc>
+    </path>
+    <path d="M 251.6086 454.7579 268.9718 444.34 324.534 444.34 332.6368 444.34 338.4245 477.9088 323.3765 488.3267 264.3416 487.1692 272.4444 464.0182 251.6086 454.7579 Z" id="US.IL.119" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Madison County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>119</fips>
+        <incits>17119</incits>
+        <id>US.IL.119</id>
+        <population>267225</population>
+      </desc>
+    </path>
+    <path d="M 352.3151 655.0133 382.4113 655.0133 380.0962 683.9519 391.6716 688.5821 376.6235 699 347.6849 661.9585 352.3151 655.0133 Z" id="US.IL.003" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Alexander County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>003</fips>
+        <incits>17003</incits>
+        <id>US.IL.003</id>
+        <population>7629</population>
+      </desc>
+    </path>
+    <path d="M 323.3765 488.3267 338.4245 477.9088 381.2537 477.9088 395.1443 477.9088 395.1443 508.005 375.466 506.8474 374.3085 506.8474 339.5821 510.3201 324.534 518.4229 323.3765 488.3267 Z" id="US.IL.027" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Clinton County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>027</fips>
+        <incits>17027</incits>
+        <id>US.IL.027</id>
+        <population>37907</population>
+      </desc>
+    </path>
+    <path d="M 338.4245 577.4577 390.5141 577.4577 393.9867 587.8756 393.9867 621.4444 347.6849 624.9171 348.8425 611.0265 328.0066 595.9784 338.4245 577.4577 Z" id="US.IL.077" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jackson County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>077</fips>
+        <incits>17077</incits>
+        <id>US.IL.077</id>
+        <population>59814</population>
+      </desc>
+    </path>
+    <path d="M 407.8773 622.602 450.7065 621.4444 450.7065 655.0133 422.9254 659.6434 407.8773 656.1708 407.8773 622.602 Z" id="US.IL.087" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Johnson County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>087</fips>
+        <incits>17087</incits>
+        <id>US.IL.087</id>
+        <population>12677</population>
+      </desc>
+    </path>
+    <path d="M 422.9254 668.9038 422.9254 659.6434 450.7065 655.0133 477.33 678.1642 477.33 689.7396 422.9254 668.9038 Z" id="US.IL.127" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Massac County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>127</fips>
+        <incits>17127</incits>
+        <id>US.IL.127</id>
+        <population>15073</population>
+      </desc>
+    </path>
+    <path d="M 252.7662 505.6899 299.068 542.7313 260.869 560.0945 242.3483 545.0464 240.0332 529.9983 252.7662 505.6899 Z" id="US.IL.133" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Monroe County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>133</fips>
+        <incits>17133</incits>
+        <id>US.IL.133</id>
+        <population>33493</population>
+      </desc>
+    </path>
+    <path d="M 338.4245 577.4577 338.4245 543.8889 393.9867 543.8889 396.3018 555.4643 390.5141 577.4577 338.4245 577.4577 Z" id="US.IL.145" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Perry County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>145</fips>
+        <incits>17145</incits>
+        <id>US.IL.145</id>
+        <population>21887</population>
+      </desc>
+    </path>
+    <path d="M 382.4113 655.0133 407.8773 656.1708 422.9254 659.6434 422.9254 668.9038 391.6716 688.5821 380.0962 683.9519 382.4113 655.0133 Z" id="US.IL.153" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pulaski County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>153</fips>
+        <incits>17153</incits>
+        <id>US.IL.153</id>
+        <population>5908</population>
+      </desc>
+    </path>
+    <path d="M 260.869 560.0945 299.068 542.7313 324.534 543.8889 338.4245 543.8889 338.4245 577.4577 328.0066 595.9784 260.869 560.0945 Z" id="US.IL.157" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Randolph County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>157</fips>
+        <incits>17157</incits>
+        <id>US.IL.157</id>
+        <population>32890</population>
+      </desc>
+    </path>
+    <path d="M 252.7662 505.6899 264.3416 487.1692 323.3765 488.3267 324.534 518.4229 324.534 543.8889 299.068 542.7313 252.7662 505.6899 Z" id="US.IL.163" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>St. Clair County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>163</fips>
+        <incits>17163</incits>
+        <id>US.IL.163</id>
+        <population>266955</population>
+      </desc>
+    </path>
+    <path d="M 347.6849 624.9171 393.9867 621.4444 407.8773 622.602 407.8773 656.1708 382.4113 655.0133 352.3151 655.0133 358.1028 643.4378 347.6849 624.9171 Z" id="US.IL.181" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Union County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>181</fips>
+        <incits>17181</incits>
+        <id>US.IL.181</id>
+        <population>17583</population>
+      </desc>
+    </path>
+    <path d="M 324.534 518.4229 339.5821 510.3201 374.3085 506.8474 375.466 506.8474 395.1443 508.005 395.1443 511.4776 393.9867 543.8889 338.4245 543.8889 324.534 543.8889 324.534 518.4229 Z" id="US.IL.189" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Washington County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>189</fips>
+        <incits>17189</incits>
+        <id>US.IL.189</id>
+        <population>14448</population>
+      </desc>
+    </path>
+    <path d="M 393.9867 587.8756 450.7065 587.8756 450.7065 621.4444 407.8773 622.602 393.9867 621.4444 393.9867 587.8756 Z" id="US.IL.199" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Williamson County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>199</fips>
+        <incits>17199</incits>
+        <id>US.IL.199</id>
+        <population>66924</population>
+      </desc>
+    </path>
+    <path d="M 390.5141 577.4577 396.3018 555.4643 450.7065 555.4643 450.7065 583.2454 450.7065 587.8756 393.9867 587.8756 390.5141 577.4577 Z" id="US.IL.055" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Franklin County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>055</fips>
+        <incits>17055</incits>
+        <id>US.IL.055</id>
+        <population>39202</population>
+      </desc>
+    </path>
+    <path d="M 492.3781 583.2454 528.262 584.403 536.3648 597.136 520.1592 613.3416 523.6318 624.9171 492.3781 621.4444 492.3781 583.2454 Z" id="US.IL.059" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Gallatin County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>059</fips>
+        <incits>17059</incits>
+        <id>US.IL.059</id>
+        <population>5415</population>
+      </desc>
+    </path>
+    <path d="M 450.7065 555.4643 450.7065 539.2587 492.3781 539.2587 492.3781 583.2454 450.7065 583.2454 450.7065 555.4643 Z" id="US.IL.065" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hamilton County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>065</fips>
+        <incits>17065</incits>
+        <id>US.IL.065</id>
+        <population>8368</population>
+      </desc>
+    </path>
+    <path d="M 487.7479 644.5954 487.7479 621.4444 492.3781 621.4444 523.6318 624.9171 528.262 637.6501 487.7479 644.5954 Z" id="US.IL.069" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hardin County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>069</fips>
+        <incits>17069</incits>
+        <id>US.IL.069</id>
+        <population>4181</population>
+      </desc>
+    </path>
+    <path d="M 450.7065 621.4444 487.7479 621.4444 487.7479 644.5954 475.0149 660.801 486.5904 678.1642 477.33 689.7396 477.33 678.1642 450.7065 655.0133 450.7065 621.4444 Z" id="US.IL.151" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pope County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>151</fips>
+        <incits>17151</incits>
+        <id>US.IL.151</id>
+        <population>4312</population>
+      </desc>
+    </path>
+    <path d="M 450.7065 621.4444 450.7065 587.8756 450.7065 583.2454 492.3781 583.2454 492.3781 621.4444 487.7479 621.4444 450.7065 621.4444 Z" id="US.IL.165" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Saline County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>165</fips>
+        <incits>17165</incits>
+        <id>US.IL.165</id>
+        <population>24939</population>
+      </desc>
+    </path>
+    <path d="M 492.3781 539.2587 521.3167 539.2587 540.995 538.1012 540.995 539.2587 550.2554 550.8342 528.262 584.403 492.3781 583.2454 492.3781 539.2587 Z" id="US.IL.193" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>White County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>193</fips>
+        <incits>17193</incits>
+        <id>US.IL.193</id>
+        <population>14549</population>
+      </desc>
+    </path>
+    <path d="M 332.6368 444.34 381.2537 442.0249 381.2537 477.9088 338.4245 477.9088 332.6368 444.34 Z" id="US.IL.005" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Bond County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>005</fips>
+        <incits>17005</incits>
+        <id>US.IL.005</id>
+        <population>17470</population>
+      </desc>
+    </path>
+    <path d="M 481.9602 282.2836 481.9602 268.393 547.9403 267.2355 547.9403 333.2156 481.9602 333.2156 481.9602 282.2836 Z" id="US.IL.019" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Champaign County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>019</fips>
+        <incits>17019</incits>
+        <id>US.IL.019</id>
+        <population>204897</population>
+      </desc>
+    </path>
+    <path d="M 544.4677 384.1476 598.8723 384.1476 598.8723 400.3532 587.2968 424.6617 545.6252 422.3466 538.6799 422.3466 537.5224 396.8806 544.4677 384.1476 Z" id="US.IL.023" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Clark County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>023</fips>
+        <incits>17023</incits>
+        <id>US.IL.023</id>
+        <population>16182</population>
+      </desc>
+    </path>
+    <path d="M 451.864 494.1144 451.864 466.3333 451.864 455.9154 493.5357 455.9154 507.4262 464.0182 507.4262 495.272 451.864 494.1144 Z" id="US.IL.025" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Clay County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>025</fips>
+        <incits>17025</incits>
+        <id>US.IL.025</id>
+        <population>13566</population>
+      </desc>
+    </path>
+    <path d="M 479.6451 362.1542 536.3648 357.524 544.4677 357.524 544.4677 384.1476 537.5224 396.8806 479.6451 396.8806 479.6451 388.7778 479.6451 362.1542 Z" id="US.IL.029" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Coles County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>029</fips>
+        <incits>17029</incits>
+        <id>US.IL.029</id>
+        <population>53697</population>
+      </desc>
+    </path>
+    <path d="M 545.6252 422.3466 587.2968 424.6617 601.1874 450.1277 598.8723 462.8607 551.4129 464.0182 546.7828 464.0182 545.6252 422.3466 Z" id="US.IL.033" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Crawford County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>033</fips>
+        <incits>17033</incits>
+        <id>US.IL.033</id>
+        <population>19505</population>
+      </desc>
+    </path>
+    <path d="M 479.6451 396.8806 537.5224 396.8806 538.6799 422.3466 494.6932 423.5041 480.8027 417.7164 479.6451 396.8806 Z" id="US.IL.035" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cumberland County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>035</fips>
+        <incits>17035</incits>
+        <id>US.IL.035</id>
+        <population>10939</population>
+      </desc>
+    </path>
+    <path d="M 393.9867 282.2836 466.9121 282.2836 446.0763 311.2222 395.1443 312.3798 393.9867 282.2836 Z" id="US.IL.039" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>De Witt County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>039</fips>
+        <incits>17039</incits>
+        <id>US.IL.039</id>
+        <population>16420</population>
+      </desc>
+    </path>
+    <path d="M 479.6451 362.1542 479.6451 344.791 481.9602 333.2156 547.9403 333.2156 544.4677 357.524 536.3648 357.524 479.6451 362.1542 Z" id="US.IL.041" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Douglas County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>041</fips>
+        <incits>17041</incits>
+        <id>US.IL.041</id>
+        <population>19887</population>
+      </desc>
+    </path>
+    <path d="M 547.9403 333.2156 598.8723 333.2156 598.8723 384.1476 544.4677 384.1476 544.4677 357.524 547.9403 333.2156 Z" id="US.IL.045" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Edgar County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>045</fips>
+        <incits>17045</incits>
+        <id>US.IL.045</id>
+        <population>17960</population>
+      </desc>
+    </path>
+    <path d="M 521.3167 539.2587 521.3167 498.7446 545.6252 498.7446 540.995 538.1012 521.3167 539.2587 Z" id="US.IL.047" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Edwards County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>047</fips>
+        <incits>17047</incits>
+        <id>US.IL.047</id>
+        <population>6672</population>
+      </desc>
+    </path>
+    <path d="M 437.9735 417.7164 480.8027 417.7164 494.6932 423.5041 493.5357 455.9154 451.864 455.9154 437.9735 455.9154 437.9735 417.7164 Z" id="US.IL.049" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Effingham County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>049</fips>
+        <incits>17049</incits>
+        <id>US.IL.049</id>
+        <population>34307</population>
+      </desc>
+    </path>
+    <path d="M 381.2537 442.0249 381.2537 417.7164 395.1443 417.7164 437.9735 417.7164 437.9735 455.9154 451.864 455.9154 451.864 466.3333 396.3018 467.4909 395.1443 477.9088 381.2537 477.9088 381.2537 442.0249 Z" id="US.IL.051" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Fayette County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>051</fips>
+        <incits>17051</incits>
+        <id>US.IL.051</id>
+        <population>22060</population>
+      </desc>
+    </path>
+    <path d="M 493.5357 455.9154 494.6932 423.5041 538.6799 422.3466 545.6252 422.3466 546.7828 464.0182 507.4262 464.0182 493.5357 455.9154 Z" id="US.IL.079" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jasper County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>079</fips>
+        <incits>17079</incits>
+        <id>US.IL.079</id>
+        <population>9592</population>
+      </desc>
+    </path>
+    <path d="M 393.9867 543.8889 395.1443 511.4776 450.7065 511.4776 450.7065 539.2587 450.7065 555.4643 396.3018 555.4643 393.9867 543.8889 Z" id="US.IL.081" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jefferson County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>081</fips>
+        <incits>17081</incits>
+        <id>US.IL.081</id>
+        <population>38644</population>
+      </desc>
+    </path>
+    <path d="M 391.6716 117.9121 421.7678 112.1244 463.4395 112.1244 464.597 134.1177 465.7546 178.1045 421.7678 178.1045 421.7678 201.2554 406.7197 201.2554 392.8292 178.1045 392.8292 152.6385 391.6716 117.9121 Z" id="US.IL.099" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>LaSalle County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>099</fips>
+        <incits>17099</incits>
+        <id>US.IL.099</id>
+        <population>112183</population>
+      </desc>
+    </path>
+    <path d="M 551.4129 498.7446 551.4129 464.0182 598.8723 462.8607 603.5025 476.7512 583.8242 499.9022 551.4129 498.7446 Z" id="US.IL.101" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lawrence County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>101</fips>
+        <incits>17101</incits>
+        <id>US.IL.101</id>
+        <population>16558</population>
+      </desc>
+    </path>
+    <path d="M 395.1443 511.4776 395.1443 508.005 395.1443 477.9088 396.3018 467.4909 451.864 466.3333 451.864 494.1144 450.7065 511.4776 395.1443 511.4776 Z" id="US.IL.121" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Marion County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>121</fips>
+        <incits>17121</incits>
+        <id>US.IL.121</id>
+        <population>38622</population>
+      </desc>
+    </path>
+    <path d="M 446.0763 344.791 446.0763 311.2222 466.9121 282.2836 481.9602 282.2836 481.9602 333.2156 479.6451 344.791 446.0763 344.791 Z" id="US.IL.147" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Piatt County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>147</fips>
+        <incits>17147</incits>
+        <id>US.IL.147</id>
+        <population>16433</population>
+      </desc>
+    </path>
+    <path d="M 507.4262 464.0182 546.7828 464.0182 551.4129 464.0182 551.4129 498.7446 545.6252 498.7446 521.3167 498.7446 507.4262 495.272 507.4262 464.0182 Z" id="US.IL.159" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Richland County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>159</fips>
+        <incits>17159</incits>
+        <id>US.IL.159</id>
+        <population>16182</population>
+      </desc>
+    </path>
+    <path d="M 547.9403 267.2355 547.9403 256.8176 600.0299 255.66 598.8723 333.2156 547.9403 333.2156 547.9403 267.2355 Z" id="US.IL.183" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Vermilion County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>183</fips>
+        <incits>17183</incits>
+        <id>US.IL.183</id>
+        <population>80329</population>
+      </desc>
+    </path>
+    <path d="M 545.6252 498.7446 551.4129 498.7446 583.8242 499.9022 561.8308 528.8408 540.995 539.2587 540.995 538.1012 545.6252 498.7446 Z" id="US.IL.185" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wabash County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>185</fips>
+        <incits>17185</incits>
+        <id>US.IL.185</id>
+        <population>11665</population>
+      </desc>
+    </path>
+    <path d="M 450.7065 539.2587 450.7065 511.4776 451.864 494.1144 507.4262 495.272 521.3167 498.7446 521.3167 539.2587 492.3781 539.2587 450.7065 539.2587 Z" id="US.IL.191" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wayne County</name>
+        <stateAbbrev>IL</stateAbbrev>
+        <state>Illinois</state>
+        <fips>191</fips>
+        <incits>17191</incits>
+        <id>US.IL.191</id>
+        <population>16612</population>
+      </desc>
+    </path>
+  </g>
+</svg>

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="anhui">
+    <path d="M 445.0366 553.6499 489.7597 572.8169 488.1625 596.7757 521.7048 628.7208 566.4279 607.9565 569.6224 628.7208 547.2609 660.6659 491.357 699 454.6201 679.833 387.5355 676.6384 369.9657 649.4851 342.8124 631.9153 429.0641 596.7757 445.0366 553.6499 Z" id="CN.anhui.2992498" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Huangshan City</name>
+        <admin_leve>5</admin_leve>
+        <wikidata>Q180470</wikidata>
+        <localname>黄山市 / Huangshan</localname>
+        <boundary>administrative</boundary>
+        <id>CN.anhui.2992498</id>
+      </desc>
+    </path>
+    <path d="M 336.4233 480.1762 365.1739 492.9542 384.341 488.1625 403.508 494.5515 427.4668 470.5927 468.9954 492.9542 446.6339 510.524 401.9108 518.5103 344.4096 539.2746 330.0343 521.7048 336.4233 480.1762 Z" id="CN.anhui.3077734" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Tongling City</name>
+        <admin_leve>5</admin_leve>
+        <wikidata>Q360326</wikidata>
+        <localname>铜陵市 / Tongling</localname>
+        <boundary>administrative</boundary>
+        <id>CN.anhui.3077734</id>
+      </desc>
+    </path>
+    <path d="M 282.1167 614.3455 307.6728 583.9977 301.2838 568.0252 344.4096 539.2746 401.9108 518.5103 446.6339 510.524 462.6064 536.0801 445.0366 553.6499 429.0641 596.7757 342.8124 631.9153 331.6316 659.0686 288.5057 681.4302 270.9359 662.2632 302.881 635.1098 282.1167 614.3455 Z" id="CN.anhui.3164669" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Chizhou City</name>
+        <admin_leve>5</admin_leve>
+        <wikidata>Q360870</wikidata>
+        <localname>池州市 / Chizhou</localname>
+        <boundary>administrative</boundary>
+        <id>CN.anhui.3164669</id>
+      </desc>
+    </path>
+    <path d="M 187.8787 486.5652 229.4073 465.8009 288.5057 480.1762 320.4508 454.6201 336.4233 480.1762 330.0343 521.7048 344.4096 539.2746 301.2838 568.0252 307.6728 583.9977 282.1167 614.3455 218.2265 651.0824 192.6705 627.1236 191.0732 595.1785 167.1144 571.2197 165.5172 545.6636 151.1419 531.2883 187.8787 486.5652 Z" id="CN.anhui.3220387" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Anqing City</name>
+        <admin_leve>5</admin_leve>
+        <wikipedia>en:Anqing</wikipedia>
+        <wikidata>Q360374</wikidata>
+        <localname>安庆市 / Anqing</localname>
+        <boundary>administrative</boundary>
+        <id>CN.anhui.3220387</id>
+      </desc>
+    </path>
+    <path d="M 445.0366 553.6499 462.6064 536.0801 484.968 528.0938 542.4691 478.5789 537.6773 448.2311 545.6636 446.6339 556.8444 459.4119 604.762 449.8284 667.0549 476.9817 659.0686 510.524 643.0961 536.0801 619.1373 545.6636 630.3181 566.4279 614.3455 583.9977 568.0252 580.8032 566.4279 607.9565 521.7048 628.7208 488.1625 596.7757 489.7597 572.8169 445.0366 553.6499 Z" id="CN.anhui.3222248" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Xuancheng City</name>
+        <admin_leve>5</admin_leve>
+        <wikipedia>en:Xuancheng</wikipedia>
+        <wikidata>Q360942</wikidata>
+        <localname>宣城市 / Xuancheng</localname>
+        <boundary>administrative</boundary>
+        <id>CN.anhui.3222248</id>
+      </desc>
+    </path>
+    <path d="M 341.2151 258.1579 419.4805 216.6293 438.6476 224.6156 459.4119 202.254 478.5789 199.0595 483.3707 242.1854 497.746 259.7551 550.4554 256.5606 563.2334 227.8101 585.595 227.8101 607.9565 245.3799 612.7483 278.9222 595.1785 293.2975 568.0252 278.9222 542.4691 293.2975 536.0801 328.4371 500.9405 347.6041 472.1899 368.3684 443.4394 368.3684 425.8696 355.5904 430.6613 330.0343 373.1602 307.6728 341.2151 283.714 341.2151 258.1579 Z" id="CN.anhui.3231588" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Chuzhou City</name>
+        <admin_leve>5</admin_leve>
+        <wikipedia>en:Chuzhou</wikipedia>
+        <wikidata>Q114045</wikidata>
+        <localname>滁州市 / Chuzhou</localname>
+        <boundary>administrative</boundary>
+        <id>CN.anhui.3231588</id>
+      </desc>
+    </path>
+    <path d="M 446.6339 178.2952 414.6888 186.2815 379.5492 176.6979 349.2014 155.9336 307.6728 181.4897 312.4645 85.6545 261.3524 85.6545 250.1716 48.9176 210.2403 37.7368 219.8238 7.389 238.9908 1 261.3524 20.167 320.4508 55.3066 322.0481 68.0847 341.2151 79.2654 384.341 80.8627 416.286 103.2243 414.6888 120.7941 473.7872 123.9886 446.6339 178.2952 Z" id="CN.anhui.3231858" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Suzhou City</name>
+        <admin_leve>5</admin_leve>
+        <wikipedia>en:Suzhou, Anhui</wikipedia>
+        <wikidata>Q360643</wikidata>
+        <localname>宿州市 / Suzhou</localname>
+        <boundary>administrative</boundary>
+        <id>CN.anhui.3231858</id>
+      </desc>
+    </path>
+    <path d="M 234.1991 117.5995 267.7414 100.0297 261.3524 85.6545 312.4645 85.6545 307.6728 181.4897 290.103 181.4897 288.5057 165.5172 254.9634 160.7254 234.1991 117.5995 Z" id="CN.anhui.3231910" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Huaibei City</name>
+        <admin_leve>5</admin_leve>
+        <wikipedia>en:Huaibei</wikipedia>
+        <wikidata>Q360268</wikidata>
+        <localname>淮北市 / Huaibei</localname>
+        <boundary>administrative</boundary>
+        <id>CN.anhui.3231910</id>
+      </desc>
+    </path>
+    <path d="M 171.9062 280.5195 203.8513 296.492 226.2128 286.9085 251.7689 294.8947 254.9634 352.3959 285.3112 366.7712 283.714 409.897 341.2151 414.6888 320.4508 454.6201 288.5057 480.1762 229.4073 465.8009 187.8787 486.5652 109.6133 451.4256 98.4325 422.6751 114.405 400.3135 168.7117 377.9519 175.1007 333.2288 162.3227 286.9085 171.9062 280.5195 Z" id="CN.anhui.3243393" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lu'an City</name>
+        <admin_leve>5</admin_leve>
+        <wikipedia>en:Lu'an</wikipedia>
+        <wikidata>Q360702</wikidata>
+        <localname>六安市 / Lu'an</localname>
+        <boundary>administrative</boundary>
+        <id>CN.anhui.3243393</id>
+      </desc>
+    </path>
+    <path d="M 234.1991 117.5995 254.9634 160.7254 288.5057 165.5172 290.103 181.4897 280.5195 231.0046 235.7963 235.7963 221.4211 240.5881 159.1281 203.8513 168.7117 168.7117 135.1693 144.7529 128.7803 84.0572 146.3501 77.6682 179.8924 100.0297 203.8513 127.1831 234.1991 117.5995 Z" id="CN.anhui.3245950" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Bozhou City</name>
+        <admin_leve>5</admin_leve>
+        <wikipedia>en:Bozhou</wikipedia>
+        <wikidata>Q360769</wikidata>
+        <localname>亳州市 / Bozhou</localname>
+        <boundary>administrative</boundary>
+        <id>CN.anhui.3245950</id>
+      </desc>
+    </path>
+    <path d="M 135.1693 144.7529 168.7117 168.7117 159.1281 203.8513 221.4211 240.5881 235.7963 235.7963 258.1579 283.714 251.7689 294.8947 226.2128 286.9085 203.8513 296.492 171.9062 280.5195 122.3913 299.6865 103.2243 278.9222 74.4737 275.7277 74.4737 245.3799 32.9451 224.6156 53.7094 210.2403 87.2517 203.8513 103.2243 149.5446 135.1693 144.7529 Z" id="CN.anhui.3246004" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Fuyang City</name>
+        <admin_leve>5</admin_leve>
+        <wikipedia>en:Fuyang</wikipedia>
+        <wikidata>Q360584</wikidata>
+        <localname>阜阳市 / Fuyang</localname>
+        <boundary>administrative</boundary>
+        <id>CN.anhui.3246004</id>
+      </desc>
+    </path>
+    <path d="M 443.4394 368.3684 472.1899 368.3684 500.9405 347.6041 497.746 365.1739 536.0801 401.9108 564.8307 406.7025 563.2334 437.0503 545.6636 446.6339 537.6773 448.2311 483.3707 417.8833 445.0366 424.2723 437.0503 382.7437 443.4394 368.3684 Z" id="CN.anhui.3260816" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ma'anshan City</name>
+        <admin_leve>5</admin_leve>
+        <wikipedia>en:Ma'anshan</wikipedia>
+        <wikidata>Q360235</wikidata>
+        <localname>马鞍山市 / Ma'anshan</localname>
+        <boundary>administrative</boundary>
+        <id>CN.anhui.3260816</id>
+      </desc>
+    </path>
+    <path d="M 445.0366 424.2723 483.3707 417.8833 537.6773 448.2311 542.4691 478.5789 484.968 528.0938 462.6064 536.0801 446.6339 510.524 468.9954 492.9542 427.4668 470.5927 403.508 494.5515 384.341 488.1625 392.3272 453.0229 413.0915 427.4668 445.0366 424.2723 Z" id="CN.anhui.3262036" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wuhu City</name>
+        <admin_leve>5</admin_leve>
+        <wikipedia>en:Wuhu City</wikipedia>
+        <wikidata>Q359990</wikidata>
+        <localname>芜湖市 / Wuhu</localname>
+        <boundary>administrative</boundary>
+        <id>CN.anhui.3262036</id>
+      </desc>
+    </path>
+    <path d="M 280.5195 231.0046 290.103 181.4897 307.6728 181.4897 349.2014 155.9336 379.5492 176.6979 414.6888 186.2815 446.6339 178.2952 459.4119 202.254 438.6476 224.6156 419.4805 216.6293 341.2151 258.1579 320.4508 258.1579 280.5195 231.0046 Z" id="CN.anhui.3262334" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Bengbu City</name>
+        <admin_leve>5</admin_leve>
+        <wikipedia>en:Bengbu</wikipedia>
+        <wikidata>Q360069</wikidata>
+        <localname>蚌埠市 / Bengbu</localname>
+        <boundary>administrative</boundary>
+        <id>CN.anhui.3262334</id>
+      </desc>
+    </path>
+    <path d="M 280.5195 231.0046 320.4508 258.1579 341.2151 258.1579 341.2151 283.714 328.4371 285.3112 312.4645 334.8261 320.4508 355.5904 285.3112 366.7712 254.9634 352.3959 251.7689 294.8947 258.1579 283.714 235.7963 235.7963 280.5195 231.0046 Z" id="CN.anhui.3262360" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Huainan City</name>
+        <admin_leve>5</admin_leve>
+        <wikipedia>en:Huainan</wikipedia>
+        <wikidata>Q360178</wikidata>
+        <localname>淮南市 / Huainan</localname>
+        <boundary>administrative</boundary>
+        <id>CN.anhui.3262360</id>
+      </desc>
+    </path>
+    <path d="M 285.3112 366.7712 320.4508 355.5904 312.4645 334.8261 328.4371 285.3112 341.2151 283.714 373.1602 307.6728 430.6613 330.0343 425.8696 355.5904 443.4394 368.3684 437.0503 382.7437 445.0366 424.2723 413.0915 427.4668 392.3272 453.0229 384.341 488.1625 365.1739 492.9542 336.4233 480.1762 320.4508 454.6201 341.2151 414.6888 283.714 409.897 285.3112 366.7712 Z" id="CN.anhui.3288965" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hefei City</name>
+        <admin_leve>5</admin_leve>
+        <wikipedia>zh:合肥市</wikipedia>
+        <wikidata>Q185684</wikidata>
+        <localname>合肥市</localname>
+        <boundary>administrative</boundary>
+        <id>CN.anhui.3288965</id>
+      </desc>
+    </path>
+  </g>
+</svg>

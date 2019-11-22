@@ -1,0 +1,1810 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="sichuan">
+    <path d="M 380.1856 306.2478 395.1088 275.723 401.8921 301.4995 397.8222 307.6045 398.5005 314.3878 380.1856 306.2478 Z" id="CN.sichuan.2110257" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dujiangyan City</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Dujiangyan</wikipedia>
+        <localname>都江堰市 / Dujiangyan</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2110257</id>
+      </desc>
+    </path>
+    <path d="M 327.9543 260.7998 332.7026 245.1983 333.381 243.8416 349.6608 243.8416 363.2274 250.6249 382.8989 255.3732 382.8989 267.5831 357.8008 281.828 346.2692 286.5763 334.0593 275.0447 327.9543 260.7998 Z" id="CN.sichuan.2110258" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Li County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Li (Ngawa)</wikipedia>
+        <localname>བཀྲ་ཤིང་གླིང་༼ལི་རྫོང་༽ / 理县 / Li</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2110258</id>
+      </desc>
+    </path>
+    <path d="M 372.0457 344.9125 379.5073 340.8426 395.1088 344.2342 394.4305 345.5909 383.5773 353.0525 377.4723 355.0875 372.0457 344.9125 Z" id="CN.sichuan.2110259" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pujiang County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Pujiang (Chengdu)</wikipedia>
+        <localname>蒲江县 / Pujiang</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2110259</id>
+      </desc>
+    </path>
+    <path d="M 346.2692 304.8912 346.2692 286.5763 357.8008 281.828 382.8989 267.5831 382.8989 255.3732 399.8571 273.0097 395.1088 275.723 380.1856 306.2478 360.5141 311.6744 354.4091 311.6744 347.6259 313.7094 346.2692 304.8912 Z" id="CN.sichuan.2110260" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wenchuan County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Wenchuan</wikipedia>
+        <localname>ཝུན་ཁྲོན་རྫོང་ /汶川县 / Wenchuan</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2110260</id>
+      </desc>
+    </path>
+    <path d="M 386.2906 131.2391 418.172 130.5607 432.4169 148.8756 440.5569 171.9388 432.4169 180.757 414.7804 171.2604 412.0671 179.4004 393.0739 165.1555 384.2556 165.1555 388.3256 146.1623 386.2906 131.2391 Z" id="CN.sichuan.2111958" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jiuzhaigou County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Jiuzhaigou (Kreis)</wikipedia>
+        <localname>གཟི་རྩ་སྡེ་དགུ་རྫོང༌། / 九寨沟县 / Jiuzhaigou</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2111958</id>
+      </desc>
+    </path>
+    <path d="M 455.4801 194.3236 479.8999 195.6803 484.6482 199.0719 506.3547 190.2536 517.208 192.2886 517.208 194.3236 513.138 203.8202 502.2847 208.5685 502.9631 224.1701 495.5015 227.5617 490.7532 216.7085 477.1866 220.7784 463.62 211.2818 455.4801 194.3236 Z" id="CN.sichuan.2116385" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Qingchuan County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Qingchuan</wikipedia>
+        <localname>青川县 / Qingchuan</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2116385</id>
+      </desc>
+    </path>
+    <path d="M 300.8212 290.6463 306.9261 289.2896 304.8912 273.688 310.3178 268.9397 303.5345 257.4082 310.9961 254.0165 327.9543 260.7998 334.0593 275.0447 346.2692 286.5763 346.2692 304.8912 319.8144 313.0311 301.4995 323.8844 294.0379 319.1361 295.3946 306.2478 302.8562 304.2128 300.8212 290.6463 Z" id="CN.sichuan.2116633" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Xiaojin County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Xiaojin</wikipedia>
+        <localname>བཙན་ལྷ་རྫོང་ / 小金县 / Xiaojin</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2116633</id>
+      </desc>
+    </path>
+    <path d="M 349.6608 243.8416 361.8707 238.415 372.0457 243.1633 384.2556 235.7017 376.794 224.8484 382.8989 220.1001 393.0739 221.4568 403.9271 228.9184 401.8921 239.0933 424.9553 247.9116 426.312 252.6599 421.5637 254.6948 410.7104 260.1215 403.2488 271.6531 399.8571 273.0097 382.8989 255.3732 363.2274 250.6249 349.6608 243.8416 Z" id="CN.sichuan.2139336" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Mao County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Mao (Ngawa)</wikipedia>
+        <localname>茂县 / Mao</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2139336</id>
+      </desc>
+    </path>
+    <path d="M 412.0671 179.4004 414.7804 171.2604 432.4169 180.757 455.4801 194.3236 463.62 211.2818 477.1866 220.7784 471.0816 232.31 460.9067 237.0583 431.7386 222.8134 420.207 222.1351 409.3537 215.3518 409.3537 204.4985 416.137 196.3586 426.312 192.967 420.207 183.4704 412.0671 179.4004 Z" id="CN.sichuan.2167812" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pingwu</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Pingwu</wikipedia>
+        <localname>平武县 / Pingwu</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2167812</id>
+      </desc>
+    </path>
+    <path d="M 447.3401 256.0515 450.0534 245.1983 460.9067 237.0583 471.0816 232.31 477.1866 220.7784 490.7532 216.7085 495.5015 227.5617 489.3965 241.8066 477.1866 247.2332 476.5083 253.3382 460.2284 260.7998 455.4801 264.8698 447.3401 256.0515 Z" id="CN.sichuan.2172152" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jiangyou</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Jiangyou</wikipedia>
+        <localname>江油市</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2172152</id>
+      </desc>
+    </path>
+    <path d="M 101.3926 337.4509 119.0292 325.241 132.5957 321.8494 142.7707 327.276 142.0923 338.1293 149.5539 346.9475 129.8824 361.1924 131.2391 372.0457 140.0573 384.2556 133.2741 384.2556 132.5957 404.6054 126.4908 412.7454 118.3508 421.5637 110.2109 419.5287 106.1409 388.3256 102.7493 382.2206 106.1409 367.9757 101.3926 337.4509 Z" id="CN.sichuan.2186990" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Batang County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Batang (Garzê)</wikipedia>
+        <localname>འབའ་ཐང་རྫོང་ / 巴塘县 / Batang</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2186990</id>
+      </desc>
+    </path>
+    <path d="M 329.9893 557.9077 337.4509 553.8377 348.3042 556.551 356.4441 578.9359 353.0525 587.7541 329.311 595.8941 323.8844 590.4674 317.1011 569.4393 326.5977 567.4043 329.9893 557.9077 Z" id="CN.sichuan.2189948" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Huidong County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Huidong (Liangshan)</wikipedia>
+        <localname>会东县 / Huidong</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2189948</id>
+      </desc>
+    </path>
+    <path d="M 285.898 584.3625 294.0379 579.6142 290.6463 567.4043 302.1778 564.691 305.5695 541.6278 319.8144 537.5578 329.9893 557.9077 326.5977 567.4043 317.1011 569.4393 323.8844 590.4674 306.2478 597.2507 295.3946 606.7473 280.4713 608.104 284.5413 599.2857 285.898 584.3625 Z" id="CN.sichuan.2189949" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Huili County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Huili</wikipedia>
+        <localname>会理县 / Huili</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2189949</id>
+      </desc>
+    </path>
+    <path d="M 336.0943 530.7745 345.5909 532.1312 344.9125 547.0544 348.3042 556.551 337.4509 553.8377 329.9893 557.9077 319.8144 537.5578 319.8144 534.8445 336.0943 530.7745 Z" id="CN.sichuan.2189950" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ningnan County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Ningnan</wikipedia>
+        <localname>宁南县 / Ningnan</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2189950</id>
+      </desc>
+    </path>
+    <path d="M 519.9213 467.0117 526.7046 465.655 532.8095 478.5432 548.4111 475.8299 559.9427 486.0049 560.621 498.2148 519.9213 505.6764 520.5996 490.7532 515.173 488.7182 519.9213 467.0117 Z" id="CN.sichuan.2194146" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Gulin County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Gulin</wikipedia>
+        <localname>古蔺县 / Gulin</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2194146</id>
+      </desc>
+    </path>
+    <path d="M 304.2128 151.5889 312.3528 159.7289 326.5977 162.4422 320.4927 167.8688 315.0661 183.4704 302.1778 187.5403 308.9611 203.1419 302.8562 205.1769 293.3596 197.7153 285.898 202.4636 281.1497 215.3518 254.0165 213.3168 235.7017 196.3586 243.1633 185.5053 235.7017 179.4004 237.7366 163.7988 258.7648 159.7289 267.5831 167.1905 274.3664 157.0155 268.9397 153.6239 276.4014 140.0573 285.2196 148.1973 276.4014 158.3722 280.4713 162.4422 302.8562 159.7289 304.2128 151.5889 Z" id="CN.sichuan.2785343" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ngawa County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Ngawa County</wikipedia>
+        <localname>རྔ་བ་རྫོང་ / 阿坝县 / Ngawa</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2785343</id>
+      </desc>
+    </path>
+    <path d="M 254.0165 213.3168 281.1497 215.3518 296.0729 214.6735 319.8144 229.5967 332.7026 245.1983 327.9543 260.7998 310.9961 254.0165 303.5345 257.4082 290.6463 251.9815 254.6948 239.7716 245.8766 235.0233 258.0865 218.7434 254.0165 213.3168 Z" id="CN.sichuan.2785344" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Barkam County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Barkam</wikipedia>
+        <localname>འབར་ཁམས་རྫོང་ / 马尔康县 / Barkam</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2785344</id>
+      </desc>
+    </path>
+    <path d="M 332.0243 216.7085 342.8776 209.9252 363.9057 210.6035 376.794 213.9951 376.794 224.8484 384.2556 235.7017 372.0457 243.1633 361.8707 238.415 349.6608 243.8416 333.381 243.8416 327.9543 222.1351 332.0243 216.7085 Z" id="CN.sichuan.2785345" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Heishui County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Heishui</wikipedia>
+        <localname>ཁྲོ་ཆུ་རྫོང་ / 黑水县 / Heishui</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2785345</id>
+      </desc>
+    </path>
+    <path d="M 281.1497 215.3518 285.898 202.4636 293.3596 197.7153 302.8562 205.1769 308.9611 203.1419 302.1778 187.5403 315.0661 183.4704 320.4927 167.8688 326.5977 162.4422 338.8076 153.6239 363.9057 157.6939 374.759 169.2255 372.0457 180.757 351.0175 182.1137 350.3392 190.932 332.7026 211.2818 332.0243 216.7085 327.9543 222.1351 333.381 243.8416 332.7026 245.1983 319.8144 229.5967 296.0729 214.6735 281.1497 215.3518 Z" id="CN.sichuan.2785346" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hongyuan County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Hongyuan</wikipedia>
+        <localname>རྔ་བ་རྫོང་ / 红原县 / Hongyuan</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2785346</id>
+      </desc>
+    </path>
+    <path d="M 241.8066 265.5481 258.0865 251.3032 254.6948 239.7716 290.6463 251.9815 303.5345 257.4082 310.3178 268.9397 304.8912 273.688 306.9261 289.2896 300.8212 290.6463 292.0029 294.0379 280.4713 281.1497 266.9048 274.3664 254.6948 277.0797 243.1633 273.688 241.8066 265.5481 Z" id="CN.sichuan.2785347" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jinchuan County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Jinchuan (Ngawa)</wikipedia>
+        <localname>ཆུ་ཆེན་རྫོང / 金川县 / Jinchuan</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2785347</id>
+      </desc>
+    </path>
+    <path d="M 374.759 169.2255 384.2556 165.1555 393.0739 165.1555 412.0671 179.4004 420.207 183.4704 426.312 192.967 416.137 196.3586 409.3537 204.4985 409.3537 215.3518 420.207 222.1351 431.7386 222.8134 424.9553 227.5617 403.9271 228.9184 393.0739 221.4568 382.8989 220.1001 376.794 224.8484 376.794 213.9951 363.9057 210.6035 342.8776 209.9252 332.0243 216.7085 332.7026 211.2818 350.3392 190.932 351.0175 182.1137 372.0457 180.757 374.759 169.2255 Z" id="CN.sichuan.2785348" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Songpan County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Sungqu</wikipedia>
+        <localname>ཟུང་ཆུ་རྫོང་ / 松潘县 / Songpan</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2785348</id>
+      </desc>
+    </path>
+    <path d="M 207.2119 203.1419 218.0651 195.6803 235.7017 196.3586 254.0165 213.3168 258.0865 218.7434 245.8766 235.0233 254.6948 239.7716 258.0865 251.3032 241.8066 265.5481 232.31 266.9048 230.9534 258.7648 219.4218 249.9466 226.8834 244.5199 202.4636 221.4568 199.0719 212.6385 207.2119 203.1419 Z" id="CN.sichuan.2785349" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Zamtang County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>zh:壤塘县</wikipedia>
+        <localname>འཛམ་ཐང་རྫོང་ / 壤塘县 / Zamtang</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2785349</id>
+      </desc>
+    </path>
+    <path d="M 386.2906 131.2391 388.3256 146.1623 384.2556 165.1555 374.759 169.2255 363.9057 157.6939 338.8076 153.6239 326.5977 162.4422 312.3528 159.7289 304.2128 151.5889 319.8144 144.1273 312.3528 135.9874 310.9961 126.4908 302.8562 113.6025 315.0661 112.9242 317.7794 105.4626 331.346 104.1059 339.4859 93.2527 348.3042 91.896 359.8358 100.036 362.5491 123.0991 386.2906 131.2391 Z" id="CN.sichuan.2785350" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Zoigê County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>zh:若尔盖县</wikipedia>
+        <localname>མཛོད་དགེ་རྫོང་ / 若尔盖县 / Zoigê</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2785350</id>
+      </desc>
+    </path>
+    <path d="M 94.6093 273.688 108.8542 271.6531 105.4626 261.4781 127.1691 259.4431 141.414 271.6531 156.3372 279.1147 159.7289 293.3596 150.2323 301.4995 150.2323 317.1011 142.7707 327.276 132.5957 321.8494 119.0292 325.241 101.3926 337.4509 97.3226 317.7794 89.1827 304.2128 91.2177 298.7862 79.6861 285.898 94.6093 273.688 Z" id="CN.sichuan.2785519" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Baiyü County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Baiyü</wikipedia>
+        <localname>དཔལ་ཡུལ་རྫོང་ / 白玉县 / Baiyü</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2785519</id>
+      </desc>
+    </path>
+    <path d="M 254.6948 277.0797 266.9048 274.3664 280.4713 281.1497 292.0029 294.0379 300.8212 290.6463 302.8562 304.2128 295.3946 306.2478 294.0379 319.1361 286.5763 321.171 274.3664 336.0943 264.1914 322.5277 267.5831 306.2478 248.5899 299.4645 246.5549 292.6812 254.6948 277.0797 Z" id="CN.sichuan.2785520" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Danba County</name>
+        <admin_leve>6</admin_leve>
+        <wikidata>Q1200054</wikidata>
+        <localname>རོང་བྲག་རྫོང་ / 丹巴县 / Danba</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2785520</id>
+      </desc>
+    </path>
+    <path d="M 156.3372 393.0739 161.0855 382.8989 173.9738 384.2556 193.6453 414.7804 203.8202 420.207 198.3936 426.312 197.0369 452.7668 191.6103 458.8717 188.2187 471.76 191.6103 484.6482 177.3654 486.6832 169.2255 480.5782 176.6871 466.3333 169.2255 462.2634 163.1205 450.7318 169.9038 436.4869 169.9038 424.9553 165.1555 406.6404 157.6939 402.5705 156.3372 393.0739 Z" id="CN.sichuan.2785521" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Daocheng County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Dabba (Garzê)</wikipedia>
+        <localname>འདབ་པ་རྫོང་ / 稻城县 / Daocheng</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2785521</id>
+      </desc>
+    </path>
+    <path d="M 201.1069 287.9329 214.6735 298.1079 228.9184 280.4713 232.31 266.9048 241.8066 265.5481 243.1633 273.688 254.6948 277.0797 246.5549 292.6812 248.5899 299.4645 267.5831 306.2478 264.1914 322.5277 274.3664 336.0943 256.7298 335.4159 247.9116 339.4859 242.4849 332.0243 228.24 335.4159 220.1001 329.311 220.7784 310.9961 207.8902 303.5345 201.1069 287.9329 Z" id="CN.sichuan.2785522" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dawu County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Dawu (Garzê)</wikipedia>
+        <localname>རྟ་འུ་རྫོང་ / 道孚县 / Dawu</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2785522</id>
+      </desc>
+    </path>
+    <path d="M 53.9096 214.6735 58.6579 207.2119 85.1127 215.3518 104.1059 195.0019 114.2809 190.932 123.7775 203.8202 135.9874 215.3518 138.0224 228.24 132.5957 239.7716 137.344 258.7648 127.1691 259.4431 105.4626 261.4781 108.8542 271.6531 94.6093 273.688 75.6161 257.4082 66.7979 245.8766 67.4762 235.7017 54.5879 221.4568 53.9096 214.6735 Z" id="CN.sichuan.2785523" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dêgê County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>zh:德格县</wikipedia>
+        <localname>སྡེ་དགེ་རྫོང་ / 德格县 / Dêgê</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2785523</id>
+      </desc>
+    </path>
+    <path d="M 110.2109 419.5287 118.3508 421.5637 126.4908 412.7454 137.344 423.5986 130.5607 435.8086 138.7007 441.2352 128.5258 452.0884 130.5607 460.9067 125.8124 474.4733 113.6025 459.55 110.2109 438.5219 110.2109 419.5287 Z" id="CN.sichuan.2785524" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dêrong County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:dêrong</wikipedia>
+        <localname>སྡེ་རོང་རྫོང་ / 得荣县 / Dêrong</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2785524</id>
+      </desc>
+    </path>
+    <path d="M 120.3858 180.757 125.8124 180.0787 126.4908 185.5053 140.0573 200.4286 149.5539 202.4636 158.3722 224.8484 160.4072 239.7716 167.8688 236.38 188.2187 238.415 189.5753 245.1983 178.7221 257.4082 182.792 268.9397 167.8688 266.9048 141.414 271.6531 127.1691 259.4431 137.344 258.7648 132.5957 239.7716 138.0224 228.24 135.9874 215.3518 123.7775 203.8202 114.2809 190.932 120.3858 180.757 Z" id="CN.sichuan.2785525" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Garzê County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Garzê (Kreis)</wikipedia>
+        <localname>དཀར་མཛེས་རྫོང / 甘孜县 / Garzê</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2785525</id>
+      </desc>
+    </path>
+    <path d="M 234.345 415.4587 249.9466 411.3887 259.4431 402.5705 273.688 411.3887 288.6113 403.9271 298.1079 408.6754 300.1429 421.5637 290.6463 429.7036 291.3246 439.8785 285.898 448.0185 275.0447 452.0884 269.6181 464.2983 258.0865 466.3333 254.0165 453.4451 242.4849 443.9485 234.345 415.4587 Z" id="CN.sichuan.2785526" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jiulong County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Jiulong (Garzê)</wikipedia>
+        <localname>བརྒྱད་ཟུར་རྫོང་ / 九龙县 / Jiulong</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2785526</id>
+      </desc>
+    </path>
+    <path d="M 247.9116 339.4859 256.7298 335.4159 274.3664 336.0943 286.5763 321.171 294.0379 319.1361 301.4995 323.8844 319.8144 313.0311 316.4227 341.5209 307.6045 355.7658 294.0379 361.1924 280.4713 384.2556 286.5763 392.3955 288.6113 403.9271 273.688 411.3887 259.4431 402.5705 249.9466 411.3887 234.345 415.4587 232.9883 413.4237 232.31 400.5355 244.5199 393.7522 243.1633 377.4723 255.3732 368.654 250.6249 359.8358 247.9116 339.4859 Z" id="CN.sichuan.2785527" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Kangding County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Kangding</wikipedia>
+        <localname>དར་མདོ་རྫོང་ / 康定县 / Kangding</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2785527</id>
+      </desc>
+    </path>
+    <path d="M 142.7707 327.276 150.2323 317.1011 162.4422 316.4227 176.0087 327.276 191.6103 329.311 203.8202 335.4159 213.3168 346.9475 221.4568 349.6608 218.7434 361.1924 196.3586 346.2692 186.1837 354.4091 197.7153 360.5141 202.4636 372.724 216.7085 392.3955 222.8134 414.7804 218.7434 420.207 198.3936 426.312 203.8202 420.207 193.6453 414.7804 173.9738 384.2556 161.0855 382.8989 156.3372 393.0739 148.1973 383.5773 140.0573 384.2556 131.2391 372.0457 129.8824 361.1924 149.5539 346.9475 142.0923 338.1293 142.7707 327.276 Z" id="CN.sichuan.2785528" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Litang County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Litang</wikipedia>
+        <localname>ལི་ཐང་རྫོང་ / 理塘县 / Litang</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2785528</id>
+      </desc>
+    </path>
+    <path d="M 307.6045 355.7658 310.3178 372.0457 310.9961 378.829 309.6395 391.0389 286.5763 392.3955 280.4713 384.2556 294.0379 361.1924 307.6045 355.7658 Z" id="CN.sichuan.2785529" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Luding County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Luding (Garzê)</wikipedia>
+        <localname>ལྕགས་ཟམ་རྫོང་ / 泸定县 / Luding</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2785529</id>
+      </desc>
+    </path>
+    <path d="M 189.5753 245.1983 195.0019 254.6948 206.5335 249.2682 219.4218 249.9466 230.9534 258.7648 232.31 266.9048 228.9184 280.4713 214.6735 298.1079 201.1069 287.9329 194.3236 275.0447 182.792 268.9397 178.7221 257.4082 189.5753 245.1983 Z" id="CN.sichuan.2785530" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>བྲག་འགོ་རྫོང་ / 炉霍县 / Luhuo</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2785530</id>
+        <name>Luhuo County</name>
+      </desc>
+    </path>
+    <path d="M 125.8124 180.0787 147.519 188.897 157.6939 173.9738 173.2954 184.1487 171.2604 194.3236 190.932 189.5753 199.7502 200.4286 207.2119 203.1419 199.0719 212.6385 202.4636 221.4568 226.8834 244.5199 219.4218 249.9466 206.5335 249.2682 195.0019 254.6948 189.5753 245.1983 188.2187 238.415 167.8688 236.38 160.4072 239.7716 158.3722 224.8484 149.5539 202.4636 140.0573 200.4286 126.4908 185.5053 125.8124 180.0787 Z" id="CN.sichuan.2785531" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Sêrtar County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Sêrtar</wikipedia>
+        <localname>གསེར་ཐར་རྫོང་ / 色达县 / Sêrtar</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2785531</id>
+      </desc>
+    </path>
+    <path d="M 120.3858 180.757 114.2809 190.932 104.1059 195.0019 85.1127 215.3518 58.6579 207.2119 53.9096 214.6735 39.6647 207.2119 22.7065 203.1419 8.4616 195.0019 2.3567 187.5403 1 176.6871 11.8533 170.5821 8.4616 163.7988 24.7415 148.1973 13.2099 144.1273 3.7133 133.9524 2.3567 117.6725 19.3149 113.6025 19.3149 103.4276 36.9514 98.6793 53.9096 106.1409 64.7629 104.7843 66.1195 119.7075 78.3294 128.5258 85.7911 142.0923 88.5044 156.3372 98.001 166.5121 114.9592 171.2604 120.3858 180.757 Z" id="CN.sichuan.2785532" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Sêrxü County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Sêrxü County</wikipedia>
+        <localname>སེར་ཤུལ་རྫོང་ / 石渠县 / Sêrxü</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2785532</id>
+      </desc>
+    </path>
+    <path d="M 140.0573 384.2556 148.1973 383.5773 156.3372 393.0739 157.6939 402.5705 165.1555 406.6404 169.9038 424.9553 169.9038 436.4869 163.1205 450.7318 148.8756 441.9135 138.7007 441.2352 130.5607 435.8086 137.344 423.5986 126.4908 412.7454 132.5957 404.6054 133.2741 384.2556 140.0573 384.2556 Z" id="CN.sichuan.2785533" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>ཕྱག་འཕྲེང་རྫོང / 乡城县 / Xiangcheng</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2785533</id>
+        <name>Xiangcheng County</name>
+      </desc>
+    </path>
+    <path d="M 141.414 271.6531 167.8688 266.9048 182.792 268.9397 194.3236 275.0447 201.1069 287.9329 207.8902 303.5345 220.7784 310.9961 220.1001 329.311 213.3168 336.7726 203.8202 335.4159 191.6103 329.311 176.0087 327.276 162.4422 316.4227 150.2323 317.1011 150.2323 301.4995 159.7289 293.3596 156.3372 279.1147 141.414 271.6531 Z" id="CN.sichuan.2785534" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Xinlong County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Xinlong County</wikipedia>
+        <localname>ཉག་རོང་རྫོང་ / 新龙县 / Xinlong</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2785534</id>
+      </desc>
+    </path>
+    <path d="M 203.8202 335.4159 213.3168 336.7726 220.1001 329.311 228.24 335.4159 242.4849 332.0243 247.9116 339.4859 250.6249 359.8358 255.3732 368.654 243.1633 377.4723 244.5199 393.7522 232.31 400.5355 232.9883 413.4237 222.8134 414.7804 216.7085 392.3955 202.4636 372.724 197.7153 360.5141 186.1837 354.4091 196.3586 346.2692 218.7434 361.1924 221.4568 349.6608 213.3168 346.9475 203.8202 335.4159 Z" id="CN.sichuan.2785535" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Yajiang County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Yajiang</wikipedia>
+        <localname>ཉག་ཆུ་རྫོང་ / 雅江县 / Yajiang</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2785535</id>
+      </desc>
+    </path>
+    <path d="M 269.6181 574.8659 269.6181 574.1876 277.0797 570.1176 279.1147 573.5092 269.6181 574.8659 Z" id="CN.sichuan.2785684" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dong District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Dong (Panzhihua)</wikipedia>
+        <localname>东区 / Dong</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2785684</id>
+      </desc>
+    </path>
+    <path d="M 279.1147 542.3061 283.863 532.1312 287.2546 539.5928 305.5695 541.6278 302.1778 564.691 290.6463 567.4043 287.2546 569.4393 272.3314 556.551 279.1147 542.3061 Z" id="CN.sichuan.2785685" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Miyi County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Miyi</wikipedia>
+        <localname>米易县 / Miyi</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2785685</id>
+      </desc>
+    </path>
+    <path d="M 257.4082 573.5092 269.6181 574.8659 279.1147 573.5092 285.898 584.3625 284.5413 599.2857 280.4713 608.104 273.688 597.2507 264.8698 593.1808 266.9048 585.0408 256.7298 579.6142 257.4082 573.5092 Z M 259.4431 565.3693 264.1914 562.656 277.0797 570.1176 269.6181 574.1876 258.7648 568.7609 259.4431 565.3693 Z" id="CN.sichuan.2785686" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Renhe District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Renhe</wikipedia>
+        <localname>仁和区 / Renhe</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2785686</id>
+      </desc>
+    </path>
+    <path d="M 257.4082 573.5092 258.7648 568.7609 269.6181 574.1876 269.6181 574.8659 257.4082 573.5092 Z" id="CN.sichuan.2785687" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Xi District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Xi (Panzhihua)</wikipedia>
+        <localname>西区 / Xi</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2785687</id>
+      </desc>
+    </path>
+    <path d="M 239.0933 538.2362 260.1215 534.1662 279.1147 542.3061 272.3314 556.551 287.2546 569.4393 290.6463 567.4043 294.0379 579.6142 285.898 584.3625 279.1147 573.5092 277.0797 570.1176 264.1914 562.656 259.4431 565.3693 237.0583 546.3761 239.0933 538.2362 Z" id="CN.sichuan.2785688" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Yanbian County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Yanbian (Panzhihua)</wikipedia>
+        <localname>盐边县 / Yanbian</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2785688</id>
+      </desc>
+    </path>
+    <path d="M 336.0943 496.8581 350.3392 491.4315 355.7658 500.9281 355.7658 513.138 349.6608 522.6346 345.5909 532.1312 336.0943 530.7745 338.8076 520.5996 336.0943 496.8581 Z" id="CN.sichuan.2786737" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Butuo County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Butuo</wikipedia>
+        <localname>布拖县 / Butuo</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2786737</id>
+      </desc>
+    </path>
+    <path d="M 283.863 532.1312 290.6463 513.138 312.3528 513.138 319.1361 526.7046 319.8144 534.8445 319.8144 537.5578 305.5695 541.6278 287.2546 539.5928 283.863 532.1312 Z" id="CN.sichuan.2786738" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dechang County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Dechang</wikipedia>
+        <localname>德昌县 / Dechang</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2786738</id>
+      </desc>
+    </path>
+    <path d="M 319.1361 431.0603 322.5277 418.172 335.4159 414.102 351.0175 405.2838 351.0175 419.5287 348.3042 435.8086 351.6958 444.6268 344.9125 446.6618 333.381 442.5918 331.346 432.4169 319.1361 431.0603 Z" id="CN.sichuan.2786739" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ganluo County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Ganluo</wikipedia>
+        <localname>甘洛县 / Ganluo</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2786739</id>
+      </desc>
+    </path>
+    <path d="M 355.7658 500.9281 362.5491 488.7182 367.9757 491.4315 384.2556 495.5015 364.5841 515.8513 359.8358 523.3129 349.6608 522.6346 355.7658 513.138 355.7658 500.9281 Z" id="CN.sichuan.2786740" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jinyang County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Jinyang</wikipedia>
+        <localname>金阳县 / Jinyang</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2786740</id>
+      </desc>
+    </path>
+    <path d="M 368.654 458.8717 378.1506 460.2284 384.2556 448.6968 391.7172 449.3751 401.8921 453.4451 407.3188 467.0117 401.2138 471.76 389.0039 471.76 380.1856 481.9349 384.2556 495.5015 367.9757 491.4315 371.3673 482.6132 368.654 458.8717 Z" id="CN.sichuan.2786741" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Leibo County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Leibo</wikipedia>
+        <localname>雷波县 / Leibo</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2786741</id>
+      </desc>
+    </path>
+    <path d="M 344.9125 446.6618 351.6958 444.6268 361.1924 435.1302 367.9757 435.8086 374.0807 439.8785 368.654 449.3751 368.654 458.8717 371.3673 482.6132 359.1574 484.6482 346.2692 464.9767 344.9125 446.6618 Z" id="CN.sichuan.2786742" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Meigu County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Meigu</wikipedia>
+        <localname>美姑县 / Meigu</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2786742</id>
+      </desc>
+    </path>
+    <path d="M 268.9397 469.0466 269.6181 464.2983 275.0447 452.0884 285.898 448.0185 291.3246 439.8785 290.6463 429.7036 300.1429 421.5637 306.9261 430.3819 317.1011 433.0952 311.6744 454.1234 306.2478 462.9417 310.9961 469.0466 302.8562 475.1516 296.7512 478.5432 286.5763 475.8299 277.758 477.8649 268.9397 469.0466 Z" id="CN.sichuan.2786743" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Mianning County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Mianning</wikipedia>
+        <localname>冕宁县 / Mianning</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2786743</id>
+      </desc>
+    </path>
+    <path d="M 177.3654 486.6832 191.6103 484.6482 188.2187 471.76 191.6103 458.8717 197.0369 452.7668 198.3936 426.312 218.7434 420.207 222.8134 414.7804 232.9883 413.4237 234.345 415.4587 242.4849 443.9485 254.0165 453.4451 258.0865 466.3333 269.6181 464.2983 268.9397 469.0466 256.0515 498.8931 241.1283 506.3547 235.0233 499.5714 221.4568 492.7881 210.6035 495.5015 199.7502 497.5364 176.6871 492.1098 177.3654 486.6832 Z" id="CN.sichuan.2786744" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Muli Tibetan Autonomous County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Muli (Liangshan)</wikipedia>
+        <localname>སྨི་ལི་རང་སྐྱོང་རྫོང / 木里藏族自治县 / Muli</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2786744</id>
+      </desc>
+    </path>
+    <path d="M 316.4227 500.9281 336.0943 496.8581 338.8076 520.5996 336.0943 530.7745 319.8144 534.8445 319.1361 526.7046 312.3528 513.138 316.4227 500.9281 Z" id="CN.sichuan.2786745" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Puge County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Puge</wikipedia>
+        <localname>普格县 / Puge</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2786745</id>
+      </desc>
+    </path>
+    <path d="M 277.758 477.8649 286.5763 475.8299 296.7512 478.5432 302.8562 475.1516 304.2128 488.0398 314.3878 493.4665 316.4227 500.9281 312.3528 513.138 290.6463 513.138 291.3246 505.6764 280.4713 494.1448 277.758 477.8649 Z" id="CN.sichuan.2786746" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Xichang City</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Xichang</wikipedia>
+        <localname>西昌市 / Xichang</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2786746</id>
+      </desc>
+    </path>
+    <path d="M 311.6744 454.1234 319.1361 460.2284 335.4159 464.9767 331.346 479.2216 325.9193 487.3615 314.3878 493.4665 304.2128 488.0398 302.8562 475.1516 310.9961 469.0466 306.2478 462.9417 311.6744 454.1234 Z" id="CN.sichuan.2786747" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Xide County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Xide</wikipedia>
+        <localname>喜德县 / Xide</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2786747</id>
+      </desc>
+    </path>
+    <path d="M 210.6035 495.5015 221.4568 492.7881 235.0233 499.5714 241.1283 506.3547 256.0515 498.8931 268.9397 469.0466 277.758 477.8649 280.4713 494.1448 291.3246 505.6764 290.6463 513.138 283.863 532.1312 279.1147 542.3061 260.1215 534.1662 239.0933 538.2362 231.6317 530.7745 210.6035 495.5015 Z" id="CN.sichuan.2786748" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Yanyuan County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Yanyuan</wikipedia>
+        <localname>盐源县 / Yanyuan</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2786748</id>
+      </desc>
+    </path>
+    <path d="M 317.1011 433.0952 319.1361 431.0603 331.346 432.4169 333.381 442.5918 344.9125 446.6618 346.2692 464.9767 335.4159 464.9767 319.1361 460.2284 311.6744 454.1234 317.1011 433.0952 Z" id="CN.sichuan.2786749" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Yuexi County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Yuexi (Liangshan)</wikipedia>
+        <localname>越西县 / Yuexi</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2786749</id>
+      </desc>
+    </path>
+    <path d="M 314.3878 493.4665 325.9193 487.3615 331.346 479.2216 335.4159 464.9767 346.2692 464.9767 359.1574 484.6482 371.3673 482.6132 367.9757 491.4315 362.5491 488.7182 355.7658 500.9281 350.3392 491.4315 336.0943 496.8581 316.4227 500.9281 314.3878 493.4665 Z" id="CN.sichuan.2786750" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Zhaojue County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Zhaojue</wikipedia>
+        <localname>昭觉县 / Zhaojue</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2786750</id>
+      </desc>
+    </path>
+    <path d="M 421.5637 254.6948 426.312 252.6599 432.4169 249.9466 447.3401 256.0515 455.4801 264.8698 448.6968 271.6531 437.1652 274.3664 424.9553 262.8348 421.5637 254.6948 Z" id="CN.sichuan.2787456" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>An County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:An (Mianyang)</wikipedia>
+        <localname>安县 / An</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2787456</id>
+      </desc>
+    </path>
+    <path d="M 403.9271 228.9184 424.9553 227.5617 431.7386 222.8134 460.9067 237.0583 450.0534 245.1983 447.3401 256.0515 432.4169 249.9466 426.312 252.6599 424.9553 247.9116 401.8921 239.0933 403.9271 228.9184 Z" id="CN.sichuan.2787457" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Beichuan Qiang Autonomous County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Beichuan Qiang Autonomous County</wikipedia>
+        <localname>北川羌族自治县 / Beichuan</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2787457</id>
+      </desc>
+    </path>
+    <path d="M 455.4801 264.8698 460.2284 260.7998 468.3683 276.4014 462.2634 281.1497 459.55 282.5063 448.6968 271.6531 455.4801 264.8698 Z" id="CN.sichuan.2787458" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Fucheng District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Fucheng (Mianyang)</wikipedia>
+        <localname>涪城区 / Fucheng</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2787458</id>
+      </desc>
+    </path>
+    <path d="M 462.2634 281.1497 468.3683 276.4014 487.3615 271.6531 491.4315 271.6531 496.8581 292.0029 490.0748 293.3596 491.4315 315.7444 488.7182 317.1011 477.8649 310.9961 467.0117 298.7862 462.2634 281.1497 Z" id="CN.sichuan.2787459" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Santai County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Santai</wikipedia>
+        <localname>三台县 / Santai</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2787459</id>
+      </desc>
+    </path>
+    <path d="M 491.4315 271.6531 506.3547 268.2614 519.9213 283.1846 521.9563 296.0729 516.5296 299.4645 496.8581 292.0029 491.4315 271.6531 Z" id="CN.sichuan.2787460" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Yanting County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Yanting</wikipedia>
+        <localname>盐亭县 / Yanting</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2787460</id>
+      </desc>
+    </path>
+    <path d="M 460.2284 260.7998 476.5083 253.3382 487.3615 271.6531 468.3683 276.4014 460.2284 260.7998 Z" id="CN.sichuan.2787461" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Youxian District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Youxian</wikipedia>
+        <localname>游仙区 / Youxian</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2787461</id>
+      </desc>
+    </path>
+    <path d="M 489.3965 241.8066 499.5714 259.4431 506.3547 265.5481 506.3547 268.2614 491.4315 271.6531 487.3615 271.6531 476.5083 253.3382 477.1866 247.2332 489.3965 241.8066 Z" id="CN.sichuan.2787462" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Zitong County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Zitong</wikipedia>
+        <localname>梓潼县 / Zitong</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2787462</id>
+      </desc>
+    </path>
+    <path d="M 422.9203 296.7512 433.0952 289.9679 443.2702 297.4295 445.9835 302.8562 437.8435 304.2128 426.9903 304.2128 424.277 304.2128 422.9203 296.7512 Z" id="CN.sichuan.2787555" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Guanghan City</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Guanghan</wikipedia>
+        <localname>广汉市 / Guanghan</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2787555</id>
+      </desc>
+    </path>
+    <path d="M 437.1652 277.0797 451.4101 286.5763 443.2702 297.4295 433.0952 289.9679 437.1652 277.0797 Z" id="CN.sichuan.2787556" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jingyang District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Jingyang (Deyang)</wikipedia>
+        <localname>旌阳区 / Jingyang</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2787556</id>
+      </desc>
+    </path>
+    <path d="M 437.1652 274.3664 448.6968 271.6531 459.55 282.5063 451.4101 286.5763 437.1652 277.0797 437.1652 274.3664 Z" id="CN.sichuan.2787557" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Luojiang County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Luojiang (Deyang)</wikipedia>
+        <localname>罗江县 / Luojiang</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2787557</id>
+      </desc>
+    </path>
+    <path d="M 410.7104 260.1215 421.5637 254.6948 424.9553 262.8348 437.1652 274.3664 437.1652 277.0797 433.0952 289.9679 420.207 283.863 410.7104 260.1215 Z" id="CN.sichuan.2787558" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Mianzhu City</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Mianzhu</wikipedia>
+        <localname>绵竹市 / Mianzhu</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2787558</id>
+      </desc>
+    </path>
+    <path d="M 410.7104 260.1215 420.207 283.863 433.0952 289.9679 422.9203 296.7512 403.2488 271.6531 410.7104 260.1215 Z" id="CN.sichuan.2787559" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>什邡市 / Shifang</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2787559</id>
+        <name>Shifang City</name>
+      </desc>
+    </path>
+    <path d="M 443.2702 297.4295 451.4101 286.5763 459.55 282.5063 462.2634 281.1497 467.0117 298.7862 477.8649 310.9961 488.7182 317.1011 481.9349 327.276 469.0466 324.5627 459.55 309.6395 445.9835 302.8562 443.2702 297.4295 Z" id="CN.sichuan.2787560" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Zhongjiang County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Zhongjiang</wikipedia>
+        <localname>中江县 / Zhongjiang</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2787560</id>
+      </desc>
+    </path>
+    <path d="M 523.3129 253.3382 529.4179 239.0933 538.9145 236.38 543.6628 226.8834 561.9776 226.2051 569.4393 236.38 568.7609 239.0933 565.3693 248.5899 563.3343 245.8766 530.7745 259.4431 523.3129 253.3382 Z" id="CN.sichuan.2787600" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cangxi County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Cangxi</wikipedia>
+        <localname>苍溪县 / Cangxi</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2787600</id>
+      </desc>
+    </path>
+    <path d="M 517.208 192.2886 529.4179 184.827 540.9495 184.1487 558.586 194.3236 551.1244 204.4985 530.7745 203.1419 521.9563 204.4985 517.208 194.3236 517.208 192.2886 Z" id="CN.sichuan.2787601" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Chaotian District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Chaotian</wikipedia>
+        <localname>朝天区 / Chaotian</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2787601</id>
+      </desc>
+    </path>
+    <path d="M 495.5015 227.5617 502.9631 224.1701 514.4947 218.7434 520.5996 227.5617 521.9563 238.415 529.4179 239.0933 523.3129 253.3382 521.9563 261.4781 506.3547 265.5481 499.5714 259.4431 489.3965 241.8066 495.5015 227.5617 Z" id="CN.sichuan.2787602" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jiange County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Jiange</wikipedia>
+        <localname>剑阁县 / Jiange</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2787602</id>
+      </desc>
+    </path>
+    <path d="M 517.208 194.3236 521.9563 204.4985 530.7745 203.1419 551.1244 204.4985 543.6628 218.0651 529.4179 217.3868 519.9213 212.6385 514.4947 218.7434 502.9631 224.1701 502.2847 208.5685 513.138 203.8202 517.208 194.3236 Z" id="CN.sichuan.2787603" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lizhou District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Lizhou</wikipedia>
+        <localname>利州区 / Lizhou</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2787603</id>
+      </desc>
+    </path>
+    <path d="M 543.6628 218.0651 551.1244 204.4985 558.586 194.3236 568.0826 197.7153 579.6142 194.3236 587.0758 218.0651 575.5442 222.1351 569.4393 236.38 561.9776 226.2051 543.6628 226.8834 543.6628 218.0651 Z" id="CN.sichuan.2787604" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wangcang County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Wangcang</wikipedia>
+        <localname>旺苍县 / Wangcang</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2787604</id>
+      </desc>
+    </path>
+    <path d="M 543.6628 218.0651 543.6628 226.8834 538.9145 236.38 529.4179 239.0933 521.9563 238.415 520.5996 227.5617 514.4947 218.7434 519.9213 212.6385 529.4179 217.3868 543.6628 218.0651 Z" id="CN.sichuan.2787605" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Zhaohua District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>zh:元坝区</wikipedia>
+        <localname>元坝区 / Zhaohua</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2787605</id>
+      </desc>
+    </path>
+    <path d="M 565.3693 248.5899 568.7609 239.0933 598.6074 235.7017 601.999 232.31 610.8173 245.8766 598.6074 250.6249 597.9291 262.8348 593.1808 266.9048 576.9009 266.2264 566.0476 257.4082 565.3693 248.5899 Z" id="CN.sichuan.2787654" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Bazhou District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Bazhou (Bazhong)</wikipedia>
+        <localname>巴州区 / Bazhou</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2787654</id>
+      </desc>
+    </path>
+    <path d="M 569.4393 236.38 575.5442 222.1351 587.0758 218.0651 579.6142 194.3236 585.0408 190.932 604.034 190.932 610.8173 205.8552 609.4606 218.0651 601.999 232.31 598.6074 235.7017 568.7609 239.0933 569.4393 236.38 Z" id="CN.sichuan.2787655" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Nanjiang County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Nanjiang</wikipedia>
+        <localname>南江县 / Nanjiang</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2787655</id>
+      </desc>
+    </path>
+    <path d="M 593.1808 266.9048 597.9291 262.8348 598.6074 250.6249 610.8173 245.8766 614.8873 252.6599 626.4189 256.0515 626.4189 245.8766 633.8805 244.5199 635.9155 256.7298 625.7405 264.8698 602.6774 282.5063 600.6424 283.1846 594.5374 273.688 593.1808 266.9048 Z" id="CN.sichuan.2787656" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pingchang County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Pingchang</wikipedia>
+        <localname>平昌县 / Pingchang</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2787656</id>
+      </desc>
+    </path>
+    <path d="M 610.8173 205.8552 618.2789 209.9252 626.4189 202.4636 635.9155 212.6385 647.447 215.3518 640.6638 235.7017 633.8805 244.5199 626.4189 245.8766 626.4189 256.0515 614.8873 252.6599 610.8173 245.8766 601.999 232.31 609.4606 218.0651 610.8173 205.8552 Z" id="CN.sichuan.2787657" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Tongjiang County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Tongjiang (Bazhong)</wikipedia>
+        <localname>通江县 (Tongjiang)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2787657</id>
+      </desc>
+    </path>
+    <path d="M 602.6774 282.5063 625.7405 264.8698 635.2371 273.0097 626.4189 286.5763 640.6638 287.9329 646.7687 290.6463 652.8737 300.1429 648.1254 305.5695 635.2371 308.2828 619.6356 299.4645 602.6774 282.5063 Z" id="CN.sichuan.2787734" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>达县 / Da</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2787734</id>
+        <name>Da County</name>
+      </desc>
+    </path>
+    <path d="M 605.3907 321.171 615.5656 300.1429 619.6356 299.4645 635.2371 308.2828 629.1322 315.0661 634.5588 321.171 622.3489 338.8076 612.8523 328.6327 601.999 329.311 605.3907 321.171 Z" id="CN.sichuan.2787735" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dazhu County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Dazhu (Dazhou)</wikipedia>
+        <localname>大竹县 / Dazhu</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2787735</id>
+      </desc>
+    </path>
+    <path d="M 646.7687 290.6463 652.1953 283.1846 667.1186 283.1846 671.1885 286.5763 655.587 311.6744 648.1254 305.5695 652.8737 300.1429 646.7687 290.6463 Z" id="CN.sichuan.2787736" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Kaijiang County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Kaijiang</wikipedia>
+        <localname>开江县 / Kaijiang</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2787736</id>
+      </desc>
+    </path>
+    <path d="M 581.6492 304.2128 589.1108 300.1429 600.6424 283.1846 602.6774 282.5063 619.6356 299.4645 615.5656 300.1429 605.3907 321.171 582.3275 308.9611 581.6492 304.2128 Z" id="CN.sichuan.2787737" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Qu County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Qu (Dazhou)</wikipedia>
+        <localname>渠县 / Qu</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2787737</id>
+      </desc>
+    </path>
+    <path d="M 635.2371 273.0097 640.6638 287.9329 626.4189 286.5763 635.2371 273.0097 Z" id="CN.sichuan.2787738" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Tongchuan District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Tongchuan (Dazhou)</wikipedia>
+        <localname>通川区 / Tongchuan</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2787738</id>
+      </desc>
+    </path>
+    <path d="M 633.8805 244.5199 640.6638 235.7017 647.447 215.3518 656.2653 223.4917 680.0068 218.7434 695.6084 219.4218 683.3984 240.45 693.5734 249.2682 679.3285 254.6948 670.5102 247.9116 660.3353 248.5899 654.2303 257.4082 644.7337 251.9815 635.9155 256.7298 633.8805 244.5199 Z" id="CN.sichuan.2787739" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wanyuan City</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Wanyuan</wikipedia>
+        <localname>万源市 / Wanyuan</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2787739</id>
+      </desc>
+    </path>
+    <path d="M 625.7405 264.8698 635.9155 256.7298 644.7337 251.9815 654.2303 257.4082 660.3353 248.5899 670.5102 247.9116 679.3285 254.6948 693.5734 249.2682 699 256.7298 680.0068 266.9048 677.2935 277.758 667.1186 283.1846 652.1953 283.1846 646.7687 290.6463 640.6638 287.9329 635.2371 273.0097 625.7405 264.8698 Z" id="CN.sichuan.2787740" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Xuanhan County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Xuanhan</wikipedia>
+        <localname>宣汉县 / Xuanhan</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2787740</id>
+      </desc>
+    </path>
+    <path d="M 576.9009 315.0661 582.3275 308.9611 605.3907 321.171 601.999 329.311 597.2507 335.4159 590.4674 331.346 582.3275 338.8076 574.8659 335.4159 576.9009 315.0661 Z" id="CN.sichuan.2787846" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Guang'an District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Guang’an (Stadtbezirk)</wikipedia>
+        <localname>广安区 / Guang'an</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2787846</id>
+      </desc>
+    </path>
+    <path d="M 580.2925 344.9125 582.3275 338.8076 590.4674 331.346 597.2507 335.4159 595.2157 338.1293 589.7891 342.8776 584.3625 353.0525 580.2925 344.9125 Z" id="CN.sichuan.2787847" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Huaying City</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Huaying</wikipedia>
+        <localname>华蓥市 / Huaying</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2787847</id>
+      </desc>
+    </path>
+    <path d="M 584.3625 353.0525 589.7891 342.8776 595.2157 338.1293 597.2507 335.4159 601.999 329.311 612.8523 328.6327 622.3489 338.8076 607.4257 357.8008 588.4325 360.5141 584.3625 353.0525 Z" id="CN.sichuan.2787848" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Linshui County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Linshui</wikipedia>
+        <localname>邻水县 / Linshui</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2787848</id>
+      </desc>
+    </path>
+    <path d="M 538.2362 331.346 547.0544 329.9893 547.7328 327.9543 552.481 333.381 564.691 332.0243 568.0826 342.8776 555.8727 348.9825 540.2711 337.4509 538.2362 331.346 Z" id="CN.sichuan.2787849" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wusheng County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>zh:武胜县</wikipedia>
+        <localname>武胜县 / Wusheng</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2787849</id>
+      </desc>
+    </path>
+    <path d="M 570.7959 311.6744 576.9009 315.0661 574.8659 335.4159 582.3275 338.8076 580.2925 344.9125 568.0826 342.8776 564.691 332.0243 552.481 333.381 547.7328 327.9543 550.4461 320.4927 566.7259 317.7794 570.7959 311.6744 Z" id="CN.sichuan.2787850" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Yuechi County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>zh:岳池县</wikipedia>
+        <localname>岳池县 / Yuechi</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2787850</id>
+      </desc>
+    </path>
+    <path d="M 546.3761 312.3528 557.9077 300.1429 570.7959 311.6744 566.7259 317.7794 550.4461 320.4927 547.7328 327.9543 547.0544 329.9893 546.3761 312.3528 Z" id="CN.sichuan.2787928" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Gaoping District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Gaoping (Nanchong)</wikipedia>
+        <localname>高坪区 / Gaoping</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2787928</id>
+      </desc>
+    </path>
+    <path d="M 523.9913 305.5695 537.5578 305.5695 546.3761 312.3528 547.0544 329.9893 538.2362 331.346 532.1312 328.6327 523.9913 305.5695 Z" id="CN.sichuan.2787929" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jialing District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Jialing</wikipedia>
+        <localname>嘉陵区 / Jialing</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2787929</id>
+      </desc>
+    </path>
+    <path d="M 523.3129 253.3382 530.7745 259.4431 563.3343 245.8766 565.3693 248.5899 566.0476 257.4082 557.9077 258.7648 559.2643 269.6181 536.2012 276.4014 521.9563 261.4781 523.3129 253.3382 Z" id="CN.sichuan.2787930" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Langzhong City</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Langzhong</wikipedia>
+        <localname>阆中市 / Langzhong</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2787930</id>
+      </desc>
+    </path>
+    <path d="M 506.3547 265.5481 521.9563 261.4781 536.2012 276.4014 559.2643 269.6181 563.3343 273.688 556.551 285.2196 551.8027 294.0379 545.0194 292.6812 519.9213 283.1846 506.3547 268.2614 506.3547 265.5481 Z" id="CN.sichuan.2787931" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Nanbu County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Nanbu</wikipedia>
+        <localname>南部县 / Nanbu</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2787931</id>
+      </desc>
+    </path>
+    <path d="M 556.551 285.2196 572.1526 282.5063 567.4043 289.9679 571.4742 298.1079 581.6492 304.2128 582.3275 308.9611 576.9009 315.0661 570.7959 311.6744 557.9077 300.1429 551.8027 294.0379 556.551 285.2196 Z" id="CN.sichuan.2787932" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Peng'an County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Peng’an</wikipedia>
+        <localname>蓬安县 / Peng'an</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2787932</id>
+      </desc>
+    </path>
+    <path d="M 537.5578 305.5695 545.0194 292.6812 551.8027 294.0379 557.9077 300.1429 546.3761 312.3528 537.5578 305.5695 Z" id="CN.sichuan.2787933" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Shunqing District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Shunqing</wikipedia>
+        <localname>顺庆区 / Shunqing</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2787933</id>
+      </desc>
+    </path>
+    <path d="M 519.9213 283.1846 545.0194 292.6812 537.5578 305.5695 523.9913 305.5695 517.208 304.2128 516.5296 299.4645 521.9563 296.0729 519.9213 283.1846 Z" id="CN.sichuan.2787934" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Xichong County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Xichong County</wikipedia>
+        <localname>西充县 / Xichong</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2787934</id>
+      </desc>
+    </path>
+    <path d="M 559.2643 269.6181 557.9077 258.7648 566.0476 257.4082 576.9009 266.2264 593.1808 266.9048 594.5374 273.688 585.7191 279.793 572.1526 282.5063 556.551 285.2196 563.3343 273.688 559.2643 269.6181 Z" id="CN.sichuan.2787935" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Yilong County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Yilong</wikipedia>
+        <localname>仪陇县 / Yilong</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2787935</id>
+      </desc>
+    </path>
+    <path d="M 572.1526 282.5063 585.7191 279.793 594.5374 273.688 600.6424 283.1846 589.1108 300.1429 581.6492 304.2128 571.4742 298.1079 567.4043 289.9679 572.1526 282.5063 Z" id="CN.sichuan.2787936" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Yingshan County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Yingshan (Nanchong)</wikipedia>
+        <localname>营山县 / Yingshan</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2787936</id>
+      </desc>
+    </path>
+    <path d="M 483.2915 334.7376 494.8231 333.381 502.9631 327.276 522.6346 342.1992 513.138 349.6608 503.6414 343.5559 494.8231 342.8776 483.2915 334.7376 Z" id="CN.sichuan.2788705" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Anju District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Anju (Suining)</wikipedia>
+        <localname>安居区 / Anju</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2788705</id>
+      </desc>
+    </path>
+    <path d="M 508.3897 321.171 523.9913 321.171 518.5646 333.381 526.0262 336.7726 522.6346 342.1992 502.9631 327.276 508.3897 321.171 Z" id="CN.sichuan.2788706" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Chuanshan District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Chuanshan</wikipedia>
+        <localname>船山区 / Chuanshan</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2788706</id>
+      </desc>
+    </path>
+    <path d="M 481.9349 327.276 488.7182 317.1011 491.4315 315.7444 505.6764 317.7794 508.3897 321.171 502.9631 327.276 494.8231 333.381 483.2915 334.7376 481.9349 327.276 Z" id="CN.sichuan.2788707" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Daying County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Daying</wikipedia>
+        <localname>大英县 / Daying</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2788707</id>
+      </desc>
+    </path>
+    <path d="M 505.6764 317.7794 517.208 304.2128 523.9913 305.5695 532.1312 328.6327 538.2362 331.346 540.2711 337.4509 526.0262 336.7726 518.5646 333.381 523.9913 321.171 508.3897 321.171 505.6764 317.7794 Z" id="CN.sichuan.2788708" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pengxi County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Pengxi</wikipedia>
+        <localname>蓬溪县 / Pengxi</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2788708</id>
+      </desc>
+    </path>
+    <path d="M 496.8581 292.0029 516.5296 299.4645 517.208 304.2128 505.6764 317.7794 491.4315 315.7444 490.0748 293.3596 496.8581 292.0029 Z" id="CN.sichuan.2788709" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Shehong County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Shehong</wikipedia>
+        <localname>射洪县 / Shehong</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2788709</id>
+      </desc>
+    </path>
+    <path d="M 476.5083 361.1924 479.8999 357.8008 493.4665 355.0875 494.8231 342.8776 503.6414 343.5559 513.138 349.6608 521.2779 358.4791 523.3129 370.689 504.3197 380.8639 500.9281 371.3673 485.3265 372.0457 476.5083 361.1924 Z" id="CN.sichuan.2788720" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Anyue County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Anyue</wikipedia>
+        <localname>安岳县 / Anyue</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2788720</id>
+      </desc>
+    </path>
+    <path d="M 427.6686 340.1642 431.0603 332.7026 441.9135 323.8844 451.4101 321.171 462.9417 329.9893 470.4033 329.311 464.9767 342.8776 445.9835 350.3392 443.9485 355.0875 427.6686 340.1642 Z" id="CN.sichuan.2788721" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jianyang City</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Jianyang (Ziyang)</wikipedia>
+        <localname>简阳市 / Jianyang</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2788721</id>
+      </desc>
+    </path>
+    <path d="M 464.9767 342.8776 470.4033 329.311 469.0466 324.5627 481.9349 327.276 483.2915 334.7376 494.8231 342.8776 493.4665 355.0875 479.8999 357.8008 464.9767 342.8776 Z" id="CN.sichuan.2788722" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lezhi County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Lezhi</wikipedia>
+        <localname>乐至县 / Lezhi</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2788722</id>
+      </desc>
+    </path>
+    <path d="M 464.9767 342.8776 479.8999 357.8008 476.5083 361.1924 464.2983 368.654 443.9485 359.1574 443.9485 355.0875 445.9835 350.3392 464.9767 342.8776 Z" id="CN.sichuan.2788723" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Yanjiang District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Yanjiang</wikipedia>
+        <localname>雁江区 / Yanjiang</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2788723</id>
+      </desc>
+    </path>
+    <path d="M 509.7464 454.1234 515.8513 440.5569 518.5646 429.0253 526.0262 422.242 556.551 433.0952 561.2993 446.6618 558.586 452.7668 538.9145 439.2002 532.1312 449.3751 523.9913 448.0185 516.5296 457.5151 509.7464 454.1234 Z" id="CN.sichuan.2789337" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hejiang County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Hejiang</wikipedia>
+        <localname>合江县 / Hejiang</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2789337</id>
+      </desc>
+    </path>
+    <path d="M 488.0398 428.3469 494.1448 426.9903 498.8931 427.6686 512.4597 427.6686 518.5646 429.0253 515.8513 440.5569 503.6414 434.4519 491.4315 439.2002 488.0398 428.3469 Z" id="CN.sichuan.2789338" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jiangyang District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Jiangyang</wikipedia>
+        <localname>江阳区 / Jiangyang</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2789338</id>
+      </desc>
+    </path>
+    <path d="M 512.4597 427.6686 498.8931 427.6686 506.3547 419.5287 512.4597 427.6686 Z" id="CN.sichuan.2789339" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Longmatan District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Longmatan</wikipedia>
+        <localname>龙马潭区 / Longmatan</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2789339</id>
+      </desc>
+    </path>
+    <path d="M 494.1448 411.3887 504.3197 403.9271 521.2779 405.2838 526.0262 422.242 518.5646 429.0253 512.4597 427.6686 506.3547 419.5287 498.8931 427.6686 494.1448 426.9903 489.3965 421.5637 494.1448 411.3887 Z" id="CN.sichuan.2789340" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lu County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Lu (Luzhou)</wikipedia>
+        <localname>泸县 / Lu</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2789340</id>
+      </desc>
+    </path>
+    <path d="M 491.4315 439.2002 503.6414 434.4519 515.8513 440.5569 509.7464 454.1234 492.7881 457.5151 490.0748 457.5151 491.4315 439.2002 Z" id="CN.sichuan.2789341" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Naxi District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Naxi (Luzhou)</wikipedia>
+        <localname>纳溪区 / Naxi</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2789341</id>
+      </desc>
+    </path>
+    <path d="M 489.3965 481.9349 499.5714 476.5083 497.5364 458.8717 492.7881 457.5151 509.7464 454.1234 516.5296 457.5151 519.9213 467.0117 515.173 488.7182 520.5996 490.7532 519.9213 505.6764 507.7114 500.2498 499.5714 502.2847 489.3965 481.9349 Z" id="CN.sichuan.2789342" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Xuyong County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Xuyong</wikipedia>
+        <localname>叙永县 / Xuyong</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2789342</id>
+      </desc>
+    </path>
+    <path d="M 477.1866 381.5423 485.3265 372.0457 500.9281 371.3673 504.3197 380.8639 496.1798 390.3605 481.2566 394.4305 479.8999 393.7522 477.1866 381.5423 Z" id="CN.sichuan.2789476" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dongxing District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Dongxing (Neijiang)</wikipedia>
+        <localname>东兴区 / Dongxing</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2789476</id>
+      </desc>
+    </path>
+    <path d="M 481.2566 394.4305 496.1798 390.3605 504.3197 403.9271 494.1448 411.3887 483.9699 403.2488 481.2566 394.4305 Z" id="CN.sichuan.2789477" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Longchang County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Longchang</wikipedia>
+        <localname>隆昌县 / Longchang</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2789477</id>
+      </desc>
+    </path>
+    <path d="M 469.0466 388.3256 477.1866 381.5423 479.8999 393.7522 468.3683 394.4305 469.0466 388.3256 Z" id="CN.sichuan.2789478" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Shizhong District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Shizhong (Neijiang)</wikipedia>
+        <localname>市中区 / Shizhong</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2789478</id>
+      </desc>
+    </path>
+    <path d="M 431.7386 384.2556 445.9835 374.0807 458.1934 378.1506 469.0466 388.3256 468.3683 394.4305 462.2634 400.5355 460.2284 401.2138 448.6968 397.1438 445.9835 385.6122 431.7386 384.2556 Z" id="CN.sichuan.2789479" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Weiyuan County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Weiyuan (Neijiang)</wikipedia>
+        <localname>威远县 / Weiyuan</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2789479</id>
+      </desc>
+    </path>
+    <path d="M 443.9485 359.1574 464.2983 368.654 476.5083 361.1924 485.3265 372.0457 477.1866 381.5423 469.0466 388.3256 458.1934 378.1506 445.9835 374.0807 443.9485 359.1574 Z" id="CN.sichuan.2789480" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Zizhong County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Zizhong</wikipedia>
+        <localname>资中县 / Zizhong</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2789480</id>
+      </desc>
+    </path>
+    <path d="M 316.4227 341.5209 319.8144 313.0311 346.2692 304.8912 347.6259 313.7094 355.0875 323.206 346.2692 336.7726 343.5559 348.9825 325.9193 339.4859 316.4227 341.5209 Z" id="CN.sichuan.2789723" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Baoxing County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Baoxing</wikipedia>
+        <localname>宝兴县 / Baoxing</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2789723</id>
+      </desc>
+    </path>
+    <path d="M 310.9961 378.829 329.9893 382.8989 342.1992 394.4305 351.0175 398.5005 351.0175 405.2838 335.4159 414.102 322.5277 418.172 321.171 407.3188 325.241 401.2138 309.6395 391.0389 310.9961 378.829 Z" id="CN.sichuan.2789724" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hanyuan County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Hanyuan</wikipedia>
+        <localname>汉源县 / Hanyuan</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2789724</id>
+      </desc>
+    </path>
+    <path d="M 343.5559 348.9825 346.2692 336.7726 355.0875 323.206 347.6259 313.7094 354.4091 311.6744 365.2624 328.6327 357.1224 346.2692 346.2692 359.8358 343.5559 348.9825 Z" id="CN.sichuan.2789725" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lushan County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Lushan (Ya’an)</wikipedia>
+        <localname>芦山县 / Lushan</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2789725</id>
+      </desc>
+    </path>
+    <path d="M 361.1924 348.3042 372.0457 344.9125 377.4723 355.0875 367.9757 361.1924 365.9407 363.2274 355.7658 357.1224 361.1924 348.3042 Z" id="CN.sichuan.2789726" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Mingshan District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Mingshan (Ya’an)</wikipedia>
+        <localname>名山区 / Mingshan</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2789726</id>
+      </desc>
+    </path>
+    <path d="M 286.5763 392.3955 309.6395 391.0389 325.241 401.2138 321.171 407.3188 322.5277 418.172 319.1361 431.0603 317.1011 433.0952 306.9261 430.3819 300.1429 421.5637 298.1079 408.6754 288.6113 403.9271 286.5763 392.3955 Z" id="CN.sichuan.2789727" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Shimian County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Shimian</wikipedia>
+        <localname>石棉县 / Shimian</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2789727</id>
+      </desc>
+    </path>
+    <path d="M 307.6045 355.7658 316.4227 341.5209 325.9193 339.4859 343.5559 348.9825 346.2692 359.8358 345.5909 365.9407 338.1293 370.0107 326.5977 364.5841 310.3178 372.0457 307.6045 355.7658 Z" id="CN.sichuan.2789728" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Tianquan County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Tianquan</wikipedia>
+        <localname>天全县 / Tianquan</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2789728</id>
+      </desc>
+    </path>
+    <path d="M 310.3178 372.0457 326.5977 364.5841 338.1293 370.0107 345.5909 365.9407 348.9825 378.1506 347.6259 389.0039 342.1992 394.4305 329.9893 382.8989 310.9961 378.829 310.3178 372.0457 Z" id="CN.sichuan.2789729" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Yingjing County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Yingjing</wikipedia>
+        <localname>荥经县 / Yingjing</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2789729</id>
+      </desc>
+    </path>
+    <path d="M 345.5909 365.9407 346.2692 359.8358 357.1224 346.2692 361.1924 348.3042 355.7658 357.1224 365.9407 363.2274 359.8358 366.619 361.1924 380.8639 348.9825 378.1506 345.5909 365.9407 Z" id="CN.sichuan.2789730" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Yucheng District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Yucheng (Ya’an)</wikipedia>
+        <localname>雨城区 / Yucheng</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2789730</id>
+      </desc>
+    </path>
+    <path d="M 351.0175 419.5287 365.2624 403.9271 380.1856 405.9621 388.3256 410.0321 387.6472 420.207 380.8639 419.5287 368.654 426.312 367.9757 435.8086 361.1924 435.1302 351.6958 444.6268 348.3042 435.8086 351.0175 419.5287 Z" id="CN.sichuan.2789881" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ebian Yi Autonomous County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>zh:峨边彝族自治县</wikipedia>
+        <localname>峨边彝族自治县 / Ebian</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2789881</id>
+      </desc>
+    </path>
+    <path d="M 364.5841 396.4655 376.1156 381.5423 391.0389 384.2556 383.5773 396.4655 380.1856 405.9621 365.2624 403.9271 364.5841 396.4655 Z" id="CN.sichuan.2789882" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Emeishan City</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Emeishan</wikipedia>
+        <localname>峨眉山市 / Emeishan</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2789882</id>
+      </desc>
+    </path>
+    <path d="M 384.9339 367.9757 389.6822 367.2974 397.8222 370.0107 397.8222 378.829 391.0389 384.2556 376.1156 381.5423 372.724 375.4373 384.9339 367.9757 Z" id="CN.sichuan.2789883" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jiajiang County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Jiajiang</wikipedia>
+        <localname>夹江县 / Jiajiang</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2789883</id>
+      </desc>
+    </path>
+    <path d="M 407.9971 393.0739 414.102 385.6122 408.6754 376.794 413.4237 370.0107 431.7386 384.2556 418.8503 395.1088 411.3887 395.7872 407.9971 393.0739 Z" id="CN.sichuan.2789884" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jingyan County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Jingyan</wikipedia>
+        <localname>井研县 / Jingyan</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2789884</id>
+      </desc>
+    </path>
+    <path d="M 351.0175 405.2838 351.0175 398.5005 364.5841 396.4655 365.2624 403.9271 351.0175 419.5287 351.0175 405.2838 Z" id="CN.sichuan.2789885" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jinkouhe District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Jinkouhe</wikipedia>
+        <localname>金口河区 / Jinkouhe</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2789885</id>
+      </desc>
+    </path>
+    <path d="M 387.6472 420.207 392.3955 432.4169 404.6054 433.7736 391.7172 449.3751 384.2556 448.6968 378.1506 460.2284 368.654 458.8717 368.654 449.3751 374.0807 439.8785 367.9757 435.8086 368.654 426.312 380.8639 419.5287 387.6472 420.207 Z" id="CN.sichuan.2789886" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Mabian Yi Autonomous County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Mabian</wikipedia>
+        <localname>马边彝族自治县 / Mabian</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2789886</id>
+      </desc>
+    </path>
+    <path d="M 388.3256 410.0321 398.5005 407.9971 409.3537 420.8853 424.9553 422.242 417.4937 433.0952 404.6054 433.7736 392.3955 432.4169 387.6472 420.207 388.3256 410.0321 Z" id="CN.sichuan.2789887" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Muchuan County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Muchuan</wikipedia>
+        <localname>沐川县 / Muchuan</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2789887</id>
+      </desc>
+    </path>
+    <path d="M 399.1788 404.6054 410.7104 402.5705 411.3887 395.7872 418.8503 395.1088 425.6336 400.5355 426.312 412.0671 424.9553 422.242 409.3537 420.8853 398.5005 407.9971 399.1788 404.6054 Z" id="CN.sichuan.2789888" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Qianwei County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Qianwei</wikipedia>
+        <localname>犍为县 / Qianwei</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2789888</id>
+      </desc>
+    </path>
+    <path d="M 383.5773 396.4655 395.7872 395.7872 399.1788 404.6054 398.5005 407.9971 388.3256 410.0321 380.1856 405.9621 383.5773 396.4655 Z" id="CN.sichuan.2789889" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Shawan District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Shawan (Leshan)</wikipedia>
+        <localname>沙湾区 / Shawan</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2789889</id>
+      </desc>
+    </path>
+    <path d="M 383.5773 396.4655 391.0389 384.2556 397.8222 378.829 408.6754 376.794 414.102 385.6122 407.9971 393.0739 395.7872 395.7872 383.5773 396.4655 Z" id="CN.sichuan.2789890" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Shizhong District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Shizhong (Leshan)</wikipedia>
+        <localname>市中区 / Shizhong</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2789890</id>
+      </desc>
+    </path>
+    <path d="M 395.7872 395.7872 407.9971 393.0739 411.3887 395.7872 410.7104 402.5705 399.1788 404.6054 395.7872 395.7872 Z" id="CN.sichuan.2789891" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wutongqiao District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Wutongqiao</wikipedia>
+        <localname>五通桥区 / Wutongqiao</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2789891</id>
+      </desc>
+    </path>
+    <path d="M 367.9757 361.1924 377.4723 355.0875 383.5773 353.0525 389.6822 367.2974 384.9339 367.9757 367.9757 361.1924 Z" id="CN.sichuan.2789920" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Danleng County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Danleng</wikipedia>
+        <localname>丹棱县 / Danleng</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2789920</id>
+      </desc>
+    </path>
+    <path d="M 383.5773 353.0525 394.4305 345.5909 396.4655 342.8776 397.8222 342.1992 398.5005 348.9825 413.4237 353.0525 412.7454 366.619 397.8222 370.0107 389.6822 367.2974 383.5773 353.0525 Z" id="CN.sichuan.2789921" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dongpo District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Dongpo</wikipedia>
+        <localname>东坡区 / Dongpo</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2789921</id>
+      </desc>
+    </path>
+    <path d="M 342.1992 394.4305 347.6259 389.0039 348.9825 378.1506 361.1924 380.8639 359.8358 366.619 365.9407 363.2274 367.9757 361.1924 384.9339 367.9757 372.724 375.4373 376.1156 381.5423 364.5841 396.4655 351.0175 398.5005 342.1992 394.4305 Z" id="CN.sichuan.2789922" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hongya County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Hongya (Meishan)</wikipedia>
+        <localname>洪雅县 / Hongya</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2789922</id>
+      </desc>
+    </path>
+    <path d="M 397.8222 342.1992 401.2138 340.8426 410.0321 339.4859 414.7804 343.5559 413.4237 353.0525 398.5005 348.9825 397.8222 342.1992 Z M 394.4305 345.5909 395.1088 344.2342 396.4655 342.8776 394.4305 345.5909 Z" id="CN.sichuan.2789923" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pengshan County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Pengshan</wikipedia>
+        <localname>彭山县 / Pengshan</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2789923</id>
+      </desc>
+    </path>
+    <path d="M 397.8222 370.0107 412.7454 366.619 413.4237 370.0107 408.6754 376.794 397.8222 378.829 397.8222 370.0107 Z" id="CN.sichuan.2789924" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Qingshen County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Qingshen</wikipedia>
+        <localname>青神县 / Qingshen</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2789924</id>
+      </desc>
+    </path>
+    <path d="M 413.4237 353.0525 414.7804 343.5559 427.6686 340.1642 443.9485 355.0875 443.9485 359.1574 445.9835 374.0807 431.7386 384.2556 413.4237 370.0107 412.7454 366.619 413.4237 353.0525 Z" id="CN.sichuan.2789925" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Renshou County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Renshou</wikipedia>
+        <localname>仁寿县 / Renshou</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2789925</id>
+      </desc>
+    </path>
+    <path d="M 462.2634 454.8017 464.2983 447.3401 471.76 442.5918 478.5432 438.5219 480.5782 450.0534 479.2216 461.585 470.4033 466.3333 462.2634 454.8017 Z" id="CN.sichuan.2791219" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Changning County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Changning (Yibin)</wikipedia>
+        <localname>长宁县 / Changning</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2791219</id>
+      </desc>
+    </path>
+    <path d="M 459.55 422.9203 461.585 424.277 471.76 442.5918 464.2983 447.3401 450.0534 446.6618 445.3052 434.4519 459.55 422.9203 Z" id="CN.sichuan.2791220" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cuiping District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Cuiping</wikipedia>
+        <localname>翠屏区 / Cuiping</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2791220</id>
+      </desc>
+    </path>
+    <path d="M 437.8435 464.9767 444.6268 450.7318 450.0534 446.6618 464.2983 447.3401 462.2634 454.8017 454.1234 471.76 441.2352 473.1166 437.8435 464.9767 Z" id="CN.sichuan.2791221" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Gao County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Gao (Yibin)</wikipedia>
+        <localname>高县 / Gao</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2791221</id>
+      </desc>
+    </path>
+    <path d="M 462.2634 454.8017 470.4033 466.3333 472.4383 479.2216 479.8999 481.2566 473.1166 489.3965 464.2983 492.7881 464.2983 479.8999 454.1234 471.76 462.2634 454.8017 Z" id="CN.sichuan.2791222" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Gong County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Gong (Yibin)</wikipedia>
+        <localname>珙县 / Gong</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2791222</id>
+      </desc>
+    </path>
+    <path d="M 478.5432 438.5219 483.2915 428.3469 488.0398 428.3469 491.4315 439.2002 490.0748 457.5151 479.2216 461.585 480.5782 450.0534 478.5432 438.5219 Z" id="CN.sichuan.2791223" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jiang'an County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Jiang’an (Yibin)</wikipedia>
+        <localname>江安县 / Jiang'an</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2791223</id>
+      </desc>
+    </path>
+    <path d="M 441.2352 473.1166 454.1234 471.76 464.2983 479.8999 464.2983 492.7881 451.4101 496.1798 440.5569 488.7182 441.2352 473.1166 Z" id="CN.sichuan.2791224" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Yunlian County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Junlian</wikipedia>
+        <localname>筠连县 / Yunlian</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2791224</id>
+      </desc>
+    </path>
+    <path d="M 461.585 424.277 473.7949 420.207 483.2915 428.3469 478.5432 438.5219 471.76 442.5918 461.585 424.277 Z" id="CN.sichuan.2791225" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Nanxi District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Nanxi</wikipedia>
+        <localname>南溪区 / Nanxi</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2791225</id>
+      </desc>
+    </path>
+    <path d="M 404.6054 433.7736 417.4937 433.0952 437.1652 435.8086 439.8785 445.9835 412.0671 448.6968 401.8921 453.4451 391.7172 449.3751 404.6054 433.7736 Z" id="CN.sichuan.2791226" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pingshan County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Pingshan (Yibin)</wikipedia>
+        <localname>屏山县 / Pingshan</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2791226</id>
+      </desc>
+    </path>
+    <path d="M 470.4033 466.3333 479.2216 461.585 490.0748 457.5151 492.7881 457.5151 497.5364 458.8717 499.5714 476.5083 489.3965 481.9349 479.8999 481.2566 472.4383 479.2216 470.4033 466.3333 Z" id="CN.sichuan.2791227" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Xingwen County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Xingwen</wikipedia>
+        <localname>兴文县 / Xingwen</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2791227</id>
+      </desc>
+    </path>
+    <path d="M 424.9553 422.242 426.312 412.0671 442.5918 408.6754 454.1234 411.3887 456.8367 412.0671 459.55 412.7454 459.55 422.9203 445.3052 434.4519 450.0534 446.6618 444.6268 450.7318 437.8435 464.9767 431.7386 460.9067 439.8785 445.9835 437.1652 435.8086 417.4937 433.0952 424.9553 422.242 Z" id="CN.sichuan.2791228" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Yibin County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Yibin (Kreis)</wikipedia>
+        <localname>宜宾县 / Yibin</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2791228</id>
+      </desc>
+    </path>
+    <path d="M 468.3683 394.4305 479.8999 393.7522 481.2566 394.4305 483.9699 403.2488 477.8649 405.9621 464.9767 401.8921 462.2634 400.5355 468.3683 394.4305 Z" id="CN.sichuan.2791313" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Da'an District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Da’an (Zigong)</wikipedia>
+        <localname>沿滩区 / Da'an</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2791313</id>
+      </desc>
+    </path>
+    <path d="M 459.55 412.7454 472.4383 414.7804 477.8649 405.9621 483.9699 403.2488 494.1448 411.3887 489.3965 421.5637 494.1448 426.9903 488.0398 428.3469 483.2915 428.3469 473.7949 420.207 461.585 424.277 459.55 422.9203 459.55 412.7454 Z" id="CN.sichuan.2791314" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Fushun County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Fushun (Zigong)</wikipedia>
+        <localname>富顺县 / Fushun</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2791314</id>
+      </desc>
+    </path>
+    <path d="M 442.5918 408.6754 448.6968 397.1438 460.2284 401.2138 454.1234 411.3887 442.5918 408.6754 Z" id="CN.sichuan.2791315" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Gongjing District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Gongjing</wikipedia>
+        <localname>贡井区 / Gongjing</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2791315</id>
+      </desc>
+    </path>
+    <path d="M 418.8503 395.1088 431.7386 384.2556 445.9835 385.6122 448.6968 397.1438 442.5918 408.6754 426.312 412.0671 425.6336 400.5355 418.8503 395.1088 Z" id="CN.sichuan.2791316" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Rong County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Rong (Zigong)</wikipedia>
+        <localname>荣县 / Rong</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2791316</id>
+      </desc>
+    </path>
+    <path d="M 456.8367 412.0671 464.9767 401.8921 477.8649 405.9621 472.4383 414.7804 459.55 412.7454 456.8367 412.0671 Z" id="CN.sichuan.2791317" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Yantan District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Yantan District</wikipedia>
+        <localname>沿滩区 / Yantan</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2791317</id>
+      </desc>
+    </path>
+    <path d="M 460.2284 401.2138 462.2634 400.5355 464.9767 401.8921 456.8367 412.0671 454.1234 411.3887 460.2284 401.2138 Z" id="CN.sichuan.2791318" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ziliujing District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Ziliujing</wikipedia>
+        <localname>自流井区 / Ziliujing</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2791318</id>
+      </desc>
+    </path>
+    <path d="M 360.5141 311.6744 380.1856 306.2478 398.5005 314.3878 403.9271 323.206 404.6054 328.6327 400.5355 329.9893 387.6472 327.9543 382.8989 315.7444 365.9407 315.0661 360.5141 311.6744 Z" id="CN.sichuan.2791680" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>崇州市 / Chongzhou</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2791680</id>
+        <name>Chongzhou City</name>
+      </desc>
+    </path>
+    <path d="M 354.4091 311.6744 360.5141 311.6744 365.9407 315.0661 382.8989 315.7444 387.6472 327.9543 400.5355 329.9893 397.1438 334.0593 389.6822 334.7376 374.759 326.5977 365.2624 328.6327 354.4091 311.6744 Z" id="CN.sichuan.2791681" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dayi County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Dayi</wikipedia>
+        <localname>大邑县 / Dayi</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2791681</id>
+      </desc>
+    </path>
+    <path d="M 437.8435 304.2128 445.9835 302.8562 459.55 309.6395 469.0466 324.5627 470.4033 329.311 462.9417 329.9893 451.4101 321.171 441.9135 323.8844 442.5918 319.8144 437.8435 304.2128 Z" id="CN.sichuan.2791682" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jintang County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Jintang</wikipedia>
+        <localname>金堂县 / Jintang</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2791682</id>
+      </desc>
+    </path>
+    <path d="M 395.1088 275.723 399.8571 273.0097 403.2488 271.6531 422.9203 296.7512 424.277 304.2128 409.3537 303.5345 401.8921 301.4995 395.1088 275.723 Z" id="CN.sichuan.2791685" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pengzhou City</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Pengzhou</wikipedia>
+        <localname>彭州市 / Pengzhou</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2791685</id>
+      </desc>
+    </path>
+    <path d="M 365.2624 328.6327 374.759 326.5977 389.6822 334.7376 397.1438 334.0593 401.2138 340.8426 397.8222 342.1992 396.4655 342.8776 395.1088 344.2342 379.5073 340.8426 372.0457 344.9125 361.1924 348.3042 357.1224 346.2692 365.2624 328.6327 Z" id="CN.sichuan.2791689" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Qionglai City</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Qionglai</wikipedia>
+        <localname>邛崃市 / Qionglai</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2791689</id>
+      </desc>
+    </path>
+    <path d="M 403.9271 323.206 410.7104 319.1361 412.0671 319.8144 420.8853 325.9193 424.9553 325.9193 431.0603 332.7026 427.6686 340.1642 414.7804 343.5559 410.0321 339.4859 404.6054 328.6327 403.9271 323.206 Z" id="CN.sichuan.2791690" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Shuangliu County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Shuangliu</wikipedia>
+        <localname>双流县 / Shuangliu</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2791690</id>
+      </desc>
+    </path>
+    <path d="M 397.1438 334.0593 400.5355 329.9893 404.6054 328.6327 410.0321 339.4859 401.2138 340.8426 397.1438 334.0593 Z" id="CN.sichuan.2791692" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Xinjin County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>de:Xinjin</wikipedia>
+        <localname>新津县 / Xinjin</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2791692</id>
+      </desc>
+    </path>
+    <path d="M 424.277 322.5277 430.3819 318.4577 435.8086 316.4227 442.5918 319.8144 441.9135 323.8844 431.0603 332.7026 424.9553 325.9193 424.277 322.5277 Z" id="CN.sichuan.2791742" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Longquanyi District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Longquanyi District</wikipedia>
+        <localname>龙泉驿区 (Longquanyi)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.2791742</id>
+      </desc>
+    </path>
+    <path d="M 412.7454 315.7444 418.8503 314.3878 424.277 314.3878 420.8853 319.1361 412.7454 315.7444 Z" id="CN.sichuan.3579975" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jinniu District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Jinniu District</wikipedia>
+        <localname>金牛区 (Jinniu)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.3579975</id>
+      </desc>
+    </path>
+    <path d="M 397.8222 307.6045 412.0671 315.7444 410.7104 319.1361 403.9271 323.206 398.5005 314.3878 397.8222 307.6045 Z" id="CN.sichuan.3581602" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wenjiang District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Wenjiang District</wikipedia>
+        <localname>温江区 (Wenjiang)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.3581602</id>
+      </desc>
+    </path>
+    <path d="M 397.8222 307.6045 401.8921 301.4995 409.3537 303.5345 418.8503 314.3878 412.7454 315.7444 412.0671 315.7444 397.8222 307.6045 Z" id="CN.sichuan.3581605" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pi County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Pi County</wikipedia>
+        <localname>郫县 (Pi)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.3581605</id>
+      </desc>
+    </path>
+    <path d="M 409.3537 303.5345 424.277 304.2128 426.9903 304.2128 435.8086 316.4227 430.3819 318.4577 424.277 314.3878 418.8503 314.3878 409.3537 303.5345 Z" id="CN.sichuan.3581618" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Xindu District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Xindu District</wikipedia>
+        <localname>新都区 (Xindu)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.3581618</id>
+      </desc>
+    </path>
+    <path d="M 426.9903 304.2128 437.8435 304.2128 442.5918 319.8144 435.8086 316.4227 426.9903 304.2128 Z" id="CN.sichuan.3581622" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Qingbaijiang District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Qingbaijiang District</wikipedia>
+        <localname>青白江区 (Qingbaijiang)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.3581622</id>
+      </desc>
+    </path>
+    <path d="M 412.0671 315.7444 412.7454 315.7444 420.8853 319.1361 419.5287 320.4927 412.0671 319.8144 410.7104 319.1361 412.0671 315.7444 Z" id="CN.sichuan.4734707" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Qingyang District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Qingyang District</wikipedia>
+        <localname>青羊区 (Qingyang)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.4734707</id>
+      </desc>
+    </path>
+    <path d="M 412.0671 319.8144 419.5287 320.4927 420.8853 325.9193 412.0671 319.8144 Z" id="CN.sichuan.4734743" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wuhou District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Wuhou District</wikipedia>
+        <localname>武侯区 (Wuhou)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.4734743</id>
+      </desc>
+    </path>
+    <path d="M 419.5287 320.4927 420.8853 319.1361 424.277 322.5277 424.9553 325.9193 420.8853 325.9193 419.5287 320.4927 Z" id="CN.sichuan.4734760" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jinjiang District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Jinjiang District</wikipedia>
+        <localname>锦江区 (Jinjiang)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.4734760</id>
+      </desc>
+    </path>
+    <path d="M 424.277 314.3878 430.3819 318.4577 424.277 322.5277 420.8853 319.1361 424.277 314.3878 Z" id="CN.sichuan.4734807" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Chenghua District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Chenghua District</wikipedia>
+        <localname>成华区 (Chenghua)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.sichuan.4734807</id>
+      </desc>
+    </path>
+  </g>
+</svg>

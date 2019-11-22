@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="north_dakota">
+    <path d="M 35.9 363.0875 89.2194 363.0875 96.0056 363.0875 96.0056 395.0792 77.5861 395.0792 77.5861 428.0403 41.7167 428.0403 41.7167 395.0792 35.9 395.0792 35.9 363.0875 Z" id="US.ND.007" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Billings County</name>
+        <stateAbbrev>ND</stateAbbrev>
+        <state>North Dakota</state>
+        <fips>007</fips>
+        <incits>38007</incits>
+        <id>US.ND.007</id>
+        <population>874</population>
+      </desc>
+    </path>
+    <path d="M 77.5861 428.0403 77.5861 395.0792 96.0056 395.0792 142.5389 395.0792 142.5389 392.1708 178.4083 392.1708 178.4083 395.0792 183.2556 395.0792 183.2556 420.2847 183.2556 428.0403 105.7 428.0403 77.5861 428.0403 Z" id="US.ND.089" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Stark County</name>
+        <stateAbbrev>ND</stateAbbrev>
+        <state>North Dakota</state>
+        <fips>089</fips>
+        <incits>38089</incits>
+        <id>US.ND.089</id>
+        <population>28212</population>
+      </desc>
+    </path>
+    <path d="M 1 301.0431 4.8778 302.9819 8.7556 302.0125 11.6639 304.9208 16.5111 302.9819 20.3889 299.1042 24.2667 300.0736 25.2361 295.2264 33.9611 289.4097 41.7167 290.3792 47.5333 293.2875 45.5944 297.1653 53.35 299.1042 59.1667 297.1653 63.0444 298.1347 71.7694 296.1958 77.5861 292.3181 76.6167 290.3792 79.525 288.4403 89.2194 286.5014 92.1278 288.4403 101.8222 287.4708 106.6694 288.4403 109.5778 287.4708 114.425 288.4403 121.2111 288.4403 121.2111 291.3486 129.9361 293.2875 129.9361 296.1958 134.7833 296.1958 138.6611 302.9819 132.8444 307.8292 130.9056 313.6458 131.875 316.5542 131.875 330.1264 89.2194 331.0958 89.2194 363.0875 35.9 363.0875 1 363.0875 1.9694 324.3097 1 301.0431 Z" id="US.ND.053" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>McKenzie County</name>
+        <stateAbbrev>ND</stateAbbrev>
+        <state>North Dakota</state>
+        <fips>053</fips>
+        <incits>38053</incits>
+        <id>US.ND.053</id>
+        <population>9314</population>
+      </desc>
+    </path>
+    <path d="M 89.2194 363.0875 89.2194 331.0958 131.875 330.1264 131.875 316.5542 139.6306 320.4319 145.4472 320.4319 154.1722 323.3403 156.1111 322.3708 159.9889 318.4931 167.7444 320.4319 164.8361 324.3097 167.7444 326.2486 166.775 334.0042 172.5917 339.8208 172.5917 363.0875 178.4083 363.0875 178.4083 392.1708 142.5389 392.1708 142.5389 395.0792 96.0056 395.0792 96.0056 363.0875 89.2194 363.0875 Z" id="US.ND.025" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dunn County</name>
+        <stateAbbrev>ND</stateAbbrev>
+        <state>North Dakota</state>
+        <fips>025</fips>
+        <incits>38025</incits>
+        <id>US.ND.025</id>
+        <population>4162</population>
+      </desc>
+    </path>
+    <path d="M 1 363.0875 35.9 363.0875 35.9 395.0792 41.7167 395.0792 41.7167 428.0403 24.2667 428.0403 24.2667 435.7958 1 435.7958 1 409.6208 1 363.0875 Z" id="US.ND.033" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Golden Valley County</name>
+        <stateAbbrev>ND</stateAbbrev>
+        <state>North Dakota</state>
+        <fips>033</fips>
+        <incits>38033</incits>
+        <id>US.ND.033</id>
+        <population>1823</population>
+      </desc>
+    </path>
+    <path d="M 1 435.7958 24.2667 435.7958 24.2667 428.0403 41.7167 428.0403 77.5861 428.0403 105.7 428.0403 105.7 461.0014 98.9139 460.0319 53.35 461.0014 1 460.0319 1 435.7958 Z" id="US.ND.087" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Slope County</name>
+        <stateAbbrev>ND</stateAbbrev>
+        <state>North Dakota</state>
+        <fips>087</fips>
+        <incits>38087</incits>
+        <id>US.ND.087</id>
+        <population>761</population>
+      </desc>
+    </path>
+    <path d="M 98.9139 460.0319 105.7 461.0014 145.4472 460.0319 145.4472 467.7875 191.9806 467.7875 191.9806 481.3597 191.9806 492.0236 160.9583 492.0236 98.9139 492.0236 98.9139 460.0319 Z" id="US.ND.001" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Adams County</name>
+        <stateAbbrev>ND</stateAbbrev>
+        <state>North Dakota</state>
+        <fips>001</fips>
+        <incits>38001</incits>
+        <id>US.ND.001</id>
+        <population>2360</population>
+      </desc>
+    </path>
+    <path d="M 1 460.0319 53.35 461.0014 98.9139 460.0319 98.9139 492.0236 46.5639 492.0236 1 492.0236 1 460.0319 Z" id="US.ND.011" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Bowman County</name>
+        <stateAbbrev>ND</stateAbbrev>
+        <state>North Dakota</state>
+        <fips>011</fips>
+        <incits>38011</incits>
+        <id>US.ND.011</id>
+        <population>3214</population>
+      </desc>
+    </path>
+    <path d="M 471.1806 460.0319 491.5389 460.0319 561.3389 460.0319 563.2778 460.0319 563.2778 492.9931 525.4694 492.9931 471.1806 492.0236 471.1806 460.0319 Z" id="US.ND.021" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dickey County</name>
+        <stateAbbrev>ND</stateAbbrev>
+        <state>North Dakota</state>
+        <fips>021</fips>
+        <incits>38021</incits>
+        <id>US.ND.021</id>
+        <population>5248</population>
+      </desc>
+    </path>
+    <path d="M 317.0389 427.0708 370.3583 428.0403 386.8389 428.0403 385.8694 460.0319 389.7472 460.0319 389.7472 492.0236 330.6111 492.0236 330.6111 489.1153 325.7639 485.2375 320.9167 479.4208 319.9472 472.6347 325.7639 465.8486 323.825 461.0014 327.7028 455.1847 322.8556 446.4597 322.8556 443.5514 324.7944 439.6736 327.7028 436.7653 323.825 433.8569 325.7639 430.9486 317.0389 427.0708 Z" id="US.ND.029" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Emmons County</name>
+        <stateAbbrev>ND</stateAbbrev>
+        <state>North Dakota</state>
+        <fips>029</fips>
+        <incits>38029</incits>
+        <id>US.ND.029</id>
+        <population>3486</population>
+      </desc>
+    </path>
+    <path d="M 389.7472 460.0319 436.2806 460.0319 467.3028 460.0319 471.1806 460.0319 471.1806 492.0236 425.6167 492.0236 389.7472 492.0236 389.7472 460.0319 Z" id="US.ND.051" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>McIntosh County</name>
+        <stateAbbrev>ND</stateAbbrev>
+        <state>North Dakota</state>
+        <fips>051</fips>
+        <incits>38051</incits>
+        <id>US.ND.051</id>
+        <population>2754</population>
+      </desc>
+    </path>
+    <path d="M 631.1389 428.0403 677.6722 428.0403 681.55 433.8569 681.55 441.6125 684.4583 445.4903 688.3361 451.3069 695.1222 456.1542 696.0917 469.7264 699 475.5431 699 480.3903 697.0611 484.2681 699 492.9931 635.9861 492.9931 635.9861 487.1764 633.0778 487.1764 633.0778 460.0319 631.1389 460.0319 631.1389 428.0403 Z" id="US.ND.077" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Richland County</name>
+        <stateAbbrev>ND</stateAbbrev>
+        <state>North Dakota</state>
+        <fips>077</fips>
+        <incits>38077</incits>
+        <id>US.ND.077</id>
+        <population>16339</population>
+      </desc>
+    </path>
+    <path d="M 563.2778 460.0319 631.1389 460.0319 633.0778 460.0319 633.0778 487.1764 635.9861 487.1764 635.9861 492.9931 563.2778 492.9931 563.2778 460.0319 Z" id="US.ND.081" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Sargent County</name>
+        <stateAbbrev>ND</stateAbbrev>
+        <state>North Dakota</state>
+        <fips>081</fips>
+        <incits>38081</incits>
+        <id>US.ND.081</id>
+        <population>3890</population>
+      </desc>
+    </path>
+    <path d="M 191.9806 481.3597 206.5222 480.3903 207.4917 483.2986 217.1861 483.2986 223.0028 485.2375 226.8806 483.2986 229.7889 485.2375 238.5139 484.2681 238.5139 482.3292 253.0556 479.4208 258.8722 473.6042 267.5972 471.6653 267.5972 468.7569 274.3833 466.8181 276.3222 461.0014 280.2 460.0319 286.9861 456.1542 290.8639 451.3069 294.7417 449.3681 311.2222 451.3069 315.1 448.3986 322.8556 446.4597 327.7028 455.1847 323.825 461.0014 325.7639 465.8486 319.9472 472.6347 320.9167 479.4208 325.7639 485.2375 330.6111 489.1153 330.6111 492.0236 275.3528 492.0236 246.2694 492.0236 191.9806 492.0236 191.9806 481.3597 Z" id="US.ND.085" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Sioux County</name>
+        <stateAbbrev>ND</stateAbbrev>
+        <state>North Dakota</state>
+        <fips>085</fips>
+        <incits>38085</incits>
+        <id>US.ND.085</id>
+        <population>4430</population>
+      </desc>
+    </path>
+    <path d="M 520.6222 370.8431 568.125 370.8431 592.3611 370.8431 592.3611 395.0792 594.3 395.0792 594.3 428.0403 561.3389 428.0403 523.5306 428.0403 523.5306 395.0792 520.6222 395.0792 520.6222 370.8431 Z" id="US.ND.003" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Barnes County</name>
+        <stateAbbrev>ND</stateAbbrev>
+        <state>North Dakota</state>
+        <fips>003</fips>
+        <incits>38003</incits>
+        <id>US.ND.003</id>
+        <population>11190</population>
+      </desc>
+    </path>
+    <path d="M 425.6167 266.1431 452.7611 266.1431 452.7611 285.5319 458.5778 287.4708 460.5167 290.3792 464.3944 290.3792 468.2722 296.1958 474.0889 300.0736 481.8444 299.1042 487.6611 294.2569 495.4167 302.9819 502.2028 300.0736 507.05 307.8292 515.775 307.8292 515.775 314.6153 444.0361 314.6153 395.5639 314.6153 395.5639 298.1347 392.6556 298.1347 392.6556 266.1431 425.6167 266.1431 Z" id="US.ND.005" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Benson County</name>
+        <stateAbbrev>ND</stateAbbrev>
+        <state>North Dakota</state>
+        <fips>005</fips>
+        <incits>38005</incits>
+        <id>US.ND.005</id>
+        <population>6877</population>
+      </desc>
+    </path>
+    <path d="M 238.5139 207.0069 314.1306 207.0069 361.6333 207.0069 361.6333 233.1819 364.5417 233.1819 364.5417 249.6625 351.9389 249.6625 340.3056 249.6625 340.3056 241.9069 279.2306 241.9069 279.2306 249.6625 242.3917 249.6625 242.3917 233.1819 238.5139 233.1819 238.5139 207.0069 Z" id="US.ND.009" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Bottineau County</name>
+        <stateAbbrev>ND</stateAbbrev>
+        <state>North Dakota</state>
+        <fips>009</fips>
+        <incits>38009</incits>
+        <id>US.ND.009</id>
+        <population>6736</population>
+      </desc>
+    </path>
+    <path d="M 104.7306 207.0069 149.325 207.0069 190.0417 207.0069 190.0417 225.4264 177.4389 225.4264 177.4389 233.1819 169.6833 233.1819 169.6833 249.6625 147.3861 249.6625 109.5778 249.6625 109.5778 240.9375 109.5778 233.1819 104.7306 233.1819 104.7306 207.0069 Z" id="US.ND.013" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Burke County</name>
+        <stateAbbrev>ND</stateAbbrev>
+        <state>North Dakota</state>
+        <fips>013</fips>
+        <incits>38013</incits>
+        <id>US.ND.013</id>
+        <population>2306</population>
+      </desc>
+    </path>
+    <path d="M 288.925 378.5986 308.3139 378.5986 308.3139 363.0875 315.1 363.0875 367.45 363.0875 367.45 395.0792 371.3278 395.0792 370.3583 428.0403 317.0389 427.0708 308.3139 422.2236 304.4361 422.2236 299.5889 415.4375 301.5278 412.5292 293.7722 401.8653 293.7722 397.9875 290.8639 395.0792 294.7417 393.1403 295.7111 389.2625 290.8639 385.3847 288.925 378.5986 Z" id="US.ND.015" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Burleigh County</name>
+        <stateAbbrev>ND</stateAbbrev>
+        <state>North Dakota</state>
+        <fips>015</fips>
+        <incits>38015</incits>
+        <id>US.ND.015</id>
+        <population>88457</population>
+      </desc>
+    </path>
+    <path d="M 592.3611 370.8431 615.6278 370.8431 672.825 370.8431 672.825 374.7208 674.7639 386.3542 673.7944 396.0486 676.7028 399.9264 680.5806 400.8958 677.6722 408.6514 676.7028 409.6208 677.6722 419.3153 676.7028 425.1319 677.6722 428.0403 631.1389 428.0403 594.3 428.0403 594.3 395.0792 592.3611 395.0792 592.3611 370.8431 Z" id="US.ND.017" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cass County</name>
+        <stateAbbrev>ND</stateAbbrev>
+        <state>North Dakota</state>
+        <fips>017</fips>
+        <incits>38017</incits>
+        <id>US.ND.017</id>
+        <population>162829</population>
+      </desc>
+    </path>
+    <path d="M 471.1806 207.0069 520.6222 207.0069 569.0944 207.0069 569.0944 233.1819 571.0333 233.1819 571.0333 249.6625 535.1639 249.6625 474.0889 249.6625 474.0889 233.1819 471.1806 233.1819 471.1806 207.0069 Z" id="US.ND.019" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cavalier County</name>
+        <stateAbbrev>ND</stateAbbrev>
+        <state>North Dakota</state>
+        <fips>019</fips>
+        <incits>38019</incits>
+        <id>US.ND.019</id>
+        <population>3896</population>
+      </desc>
+    </path>
+    <path d="M 104.7306 207.0069 104.7306 233.1819 109.5778 233.1819 109.5778 240.9375 72.7389 240.9375 48.5028 240.9375 1 240.9375 1 207.0069 45.5944 207.0069 104.7306 207.0069 Z" id="US.ND.023" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Divide County</name>
+        <stateAbbrev>ND</stateAbbrev>
+        <state>North Dakota</state>
+        <fips>023</fips>
+        <incits>38023</incits>
+        <id>US.ND.023</id>
+        <population>2314</population>
+      </desc>
+    </path>
+    <path d="M 444.0361 314.6153 515.775 314.6153 515.775 331.0958 517.7139 331.0958 517.7139 338.8514 445.975 338.8514 445.975 331.0958 444.0361 331.0958 444.0361 314.6153 Z" id="US.ND.027" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Eddy County</name>
+        <stateAbbrev>ND</stateAbbrev>
+        <state>North Dakota</state>
+        <fips>027</fips>
+        <incits>38027</incits>
+        <id>US.ND.027</id>
+        <population>2404</population>
+      </desc>
+    </path>
+    <path d="M 445.975 338.8514 517.7139 338.8514 517.7139 363.0875 446.9444 363.0875 445.975 338.8514 Z" id="US.ND.031" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Foster County</name>
+        <stateAbbrev>ND</stateAbbrev>
+        <state>North Dakota</state>
+        <fips>031</fips>
+        <incits>38031</incits>
+        <id>US.ND.031</id>
+        <population>3366</population>
+      </desc>
+    </path>
+    <path d="M 572.9722 282.6236 644.7111 282.6236 643.7417 287.4708 647.6194 293.2875 650.5278 295.2264 652.4667 305.8903 660.2222 318.4931 664.1 322.3708 664.1 325.2792 667.9778 331.0958 613.6889 331.0958 574.9111 331.0958 574.9111 298.1347 572.9722 298.1347 572.9722 282.6236 Z" id="US.ND.035" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Grand Forks County</name>
+        <stateAbbrev>ND</stateAbbrev>
+        <state>North Dakota</state>
+        <fips>035</fips>
+        <incits>38035</incits>
+        <id>US.ND.035</id>
+        <population>69179</population>
+      </desc>
+    </path>
+    <path d="M 183.2556 420.2847 218.1556 420.2847 218.1556 428.0403 256.9333 428.0403 256.9333 452.2764 280.2 452.2764 280.2 460.0319 276.3222 461.0014 274.3833 466.8181 267.5972 468.7569 267.5972 471.6653 258.8722 473.6042 253.0556 479.4208 238.5139 482.3292 238.5139 484.2681 229.7889 485.2375 226.8806 483.2986 223.0028 485.2375 217.1861 483.2986 207.4917 483.2986 206.5222 480.3903 191.9806 481.3597 191.9806 467.7875 191.9806 460.0319 187.1333 460.0319 187.1333 428.0403 183.2556 428.0403 183.2556 420.2847 Z" id="US.ND.037" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Grant County</name>
+        <stateAbbrev>ND</stateAbbrev>
+        <state>North Dakota</state>
+        <fips>037</fips>
+        <incits>38037</incits>
+        <id>US.ND.037</id>
+        <population>2377</population>
+      </desc>
+    </path>
+    <path d="M 517.7139 331.0958 565.2167 331.0958 566.1861 363.0875 568.125 363.0875 568.125 370.8431 520.6222 370.8431 520.6222 363.0875 517.7139 363.0875 517.7139 338.8514 517.7139 331.0958 Z" id="US.ND.039" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Griggs County</name>
+        <stateAbbrev>ND</stateAbbrev>
+        <state>North Dakota</state>
+        <fips>039</fips>
+        <incits>38039</incits>
+        <id>US.ND.039</id>
+        <population>2296</population>
+      </desc>
+    </path>
+    <path d="M 105.7 428.0403 183.2556 428.0403 187.1333 428.0403 187.1333 460.0319 191.9806 460.0319 191.9806 467.7875 145.4472 467.7875 145.4472 460.0319 105.7 461.0014 105.7 428.0403 Z" id="US.ND.041" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hettinger County</name>
+        <stateAbbrev>ND</stateAbbrev>
+        <state>North Dakota</state>
+        <fips>041</fips>
+        <incits>38041</incits>
+        <id>US.ND.041</id>
+        <population>2660</population>
+      </desc>
+    </path>
+    <path d="M 367.45 363.0875 375.2056 363.0875 426.5861 363.0875 426.5861 395.0792 429.4944 395.0792 429.4944 428.0403 386.8389 428.0403 370.3583 428.0403 371.3278 395.0792 367.45 395.0792 367.45 363.0875 Z" id="US.ND.043" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Kidder County</name>
+        <stateAbbrev>ND</stateAbbrev>
+        <state>North Dakota</state>
+        <fips>043</fips>
+        <incits>38043</incits>
+        <id>US.ND.043</id>
+        <population>2428</population>
+      </desc>
+    </path>
+    <path d="M 467.3028 460.0319 468.2722 428.0403 523.5306 428.0403 561.3389 428.0403 561.3389 460.0319 491.5389 460.0319 471.1806 460.0319 467.3028 460.0319 Z" id="US.ND.045" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>LaMoure County</name>
+        <stateAbbrev>ND</stateAbbrev>
+        <state>North Dakota</state>
+        <fips>045</fips>
+        <incits>38045</incits>
+        <id>US.ND.045</id>
+        <population>4166</population>
+      </desc>
+    </path>
+    <path d="M 386.8389 428.0403 429.4944 428.0403 468.2722 428.0403 467.3028 460.0319 436.2806 460.0319 389.7472 460.0319 385.8694 460.0319 386.8389 428.0403 Z" id="US.ND.047" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Logan County</name>
+        <stateAbbrev>ND</stateAbbrev>
+        <state>North Dakota</state>
+        <fips>047</fips>
+        <incits>38047</incits>
+        <id>US.ND.047</id>
+        <population>1946</population>
+      </desc>
+    </path>
+    <path d="M 279.2306 257.4181 279.2306 249.6625 279.2306 241.9069 340.3056 241.9069 340.3056 249.6625 351.9389 249.6625 351.9389 266.1431 355.8167 266.1431 355.8167 298.1347 359.6944 298.1347 359.6944 314.6153 323.825 314.6153 287.9556 314.6153 287.9556 298.1347 284.0778 298.1347 284.0778 266.1431 279.2306 266.1431 279.2306 257.4181 Z" id="US.ND.049" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>McHenry County</name>
+        <stateAbbrev>ND</stateAbbrev>
+        <state>North Dakota</state>
+        <fips>049</fips>
+        <incits>38049</incits>
+        <id>US.ND.049</id>
+        <population>5922</population>
+      </desc>
+    </path>
+    <path d="M 203.6139 314.6153 239.4833 314.6153 287.9556 314.6153 323.825 314.6153 323.825 331.0958 315.1 331.0958 315.1 363.0875 308.3139 363.0875 308.3139 378.5986 288.925 378.5986 286.0167 375.6903 286.9861 371.8125 286.0167 368.9042 280.2 365.9958 273.4139 365.9958 267.5972 367.9347 265.6583 370.8431 260.8111 368.9042 253.0556 366.9653 251.1167 359.2097 247.2389 356.3014 244.3306 348.5458 250.1472 345.6375 245.3 340.7903 242.3917 340.7903 229.7889 343.6986 220.0944 343.6986 216.2167 343.6986 208.4611 347.5764 202.6444 346.6069 198.7667 344.6681 190.0417 343.6986 189.0722 339.8208 177.4389 340.7903 172.5917 339.8208 166.775 334.0042 167.7444 326.2486 164.8361 324.3097 167.7444 320.4319 159.9889 318.4931 156.1111 322.3708 156.1111 314.6153 203.6139 314.6153 Z" id="US.ND.055" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>McLean County</name>
+        <stateAbbrev>ND</stateAbbrev>
+        <state>North Dakota</state>
+        <fips>055</fips>
+        <incits>38055</incits>
+        <id>US.ND.055</id>
+        <population>9517</population>
+      </desc>
+    </path>
+    <path d="M 172.5917 339.8208 177.4389 340.7903 189.0722 339.8208 190.0417 343.6986 198.7667 344.6681 202.6444 346.6069 208.4611 347.5764 216.2167 343.6986 220.0944 343.6986 229.7889 343.6986 242.3917 340.7903 245.3 340.7903 250.1472 345.6375 244.3306 348.5458 247.2389 356.3014 251.1167 359.2097 253.0556 366.9653 260.8111 368.9042 260.8111 370.8431 214.2778 370.8431 214.2778 395.0792 183.2556 395.0792 178.4083 395.0792 178.4083 392.1708 178.4083 363.0875 172.5917 363.0875 172.5917 339.8208 Z" id="US.ND.057" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Mercer County</name>
+        <stateAbbrev>ND</stateAbbrev>
+        <state>North Dakota</state>
+        <fips>057</fips>
+        <incits>38057</incits>
+        <id>US.ND.057</id>
+        <population>8592</population>
+      </desc>
+    </path>
+    <path d="M 183.2556 395.0792 214.2778 395.0792 249.1778 395.0792 290.8639 395.0792 293.7722 397.9875 293.7722 401.8653 301.5278 412.5292 299.5889 415.4375 304.4361 422.2236 308.3139 422.2236 317.0389 427.0708 325.7639 430.9486 323.825 433.8569 327.7028 436.7653 324.7944 439.6736 322.8556 443.5514 322.8556 446.4597 315.1 448.3986 311.2222 451.3069 294.7417 449.3681 290.8639 451.3069 286.9861 456.1542 280.2 460.0319 280.2 452.2764 256.9333 452.2764 256.9333 428.0403 218.1556 428.0403 218.1556 420.2847 183.2556 420.2847 183.2556 395.0792 Z" id="US.ND.059" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Morton County</name>
+        <stateAbbrev>ND</stateAbbrev>
+        <state>North Dakota</state>
+        <fips>059</fips>
+        <incits>38059</incits>
+        <id>US.ND.059</id>
+        <population>28990</population>
+      </desc>
+    </path>
+    <path d="M 109.5778 249.6625 147.3861 249.6625 169.6833 249.6625 193.9194 249.6625 194.8889 266.1431 198.7667 266.1431 198.7667 298.1347 203.6139 298.1347 203.6139 314.6153 156.1111 314.6153 156.1111 322.3708 154.1722 323.3403 145.4472 320.4319 139.6306 320.4319 131.875 316.5542 130.9056 313.6458 132.8444 307.8292 138.6611 302.9819 134.7833 296.1958 129.9361 296.1958 129.9361 293.2875 121.2111 291.3486 121.2111 288.4403 114.425 288.4403 114.425 265.1736 109.5778 265.1736 109.5778 249.6625 Z" id="US.ND.061" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Mountrail County</name>
+        <stateAbbrev>ND</stateAbbrev>
+        <state>North Dakota</state>
+        <fips>061</fips>
+        <incits>38061</incits>
+        <id>US.ND.061</id>
+        <population>9376</population>
+      </desc>
+    </path>
+    <path d="M 515.775 314.6153 515.775 307.8292 515.775 298.1347 525.4694 298.1347 525.4694 282.6236 537.1028 281.6542 572.9722 282.6236 572.9722 298.1347 574.9111 298.1347 574.9111 331.0958 565.2167 331.0958 517.7139 331.0958 515.775 331.0958 515.775 314.6153 Z" id="US.ND.063" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Nelson County</name>
+        <stateAbbrev>ND</stateAbbrev>
+        <state>North Dakota</state>
+        <fips>063</fips>
+        <incits>38063</incits>
+        <id>US.ND.063</id>
+        <population>3095</population>
+      </desc>
+    </path>
+    <path d="M 260.8111 368.9042 265.6583 370.8431 267.5972 367.9347 273.4139 365.9958 280.2 365.9958 286.0167 368.9042 286.9861 371.8125 286.0167 375.6903 288.925 378.5986 290.8639 385.3847 295.7111 389.2625 294.7417 393.1403 290.8639 395.0792 249.1778 395.0792 214.2778 395.0792 214.2778 370.8431 260.8111 370.8431 260.8111 368.9042 Z" id="US.ND.065" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Oliver County</name>
+        <stateAbbrev>ND</stateAbbrev>
+        <state>North Dakota</state>
+        <fips>065</fips>
+        <incits>38065</incits>
+        <id>US.ND.065</id>
+        <population>1874</population>
+      </desc>
+    </path>
+    <path d="M 569.0944 207.0069 635.9861 207.0069 635.9861 211.8542 640.8333 218.6403 640.8333 224.4569 643.7417 230.2736 647.6194 234.1514 648.5889 238.9986 644.7111 243.8458 642.7722 249.6625 571.0333 249.6625 571.0333 233.1819 569.0944 233.1819 569.0944 207.0069 Z" id="US.ND.067" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pembina County</name>
+        <stateAbbrev>ND</stateAbbrev>
+        <state>North Dakota</state>
+        <fips>067</fips>
+        <incits>38067</incits>
+        <id>US.ND.067</id>
+        <population>7181</population>
+      </desc>
+    </path>
+    <path d="M 351.9389 249.6625 364.5417 249.6625 388.7778 249.6625 425.6167 249.6625 425.6167 266.1431 392.6556 266.1431 392.6556 298.1347 395.5639 298.1347 395.5639 314.6153 371.3278 314.6153 359.6944 314.6153 359.6944 298.1347 355.8167 298.1347 355.8167 266.1431 351.9389 266.1431 351.9389 249.6625 Z" id="US.ND.069" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pierce County</name>
+        <stateAbbrev>ND</stateAbbrev>
+        <state>North Dakota</state>
+        <fips>069</fips>
+        <incits>38069</incits>
+        <id>US.ND.069</id>
+        <population>4451</population>
+      </desc>
+    </path>
+    <path d="M 452.7611 266.1431 474.0889 266.1431 474.0889 249.6625 535.1639 249.6625 535.1639 266.1431 537.1028 266.1431 537.1028 281.6542 525.4694 282.6236 525.4694 298.1347 515.775 298.1347 515.775 307.8292 507.05 307.8292 502.2028 300.0736 495.4167 302.9819 487.6611 294.2569 481.8444 299.1042 474.0889 300.0736 468.2722 296.1958 464.3944 290.3792 460.5167 290.3792 458.5778 287.4708 452.7611 285.5319 452.7611 266.1431 Z" id="US.ND.071" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ramsey County</name>
+        <stateAbbrev>ND</stateAbbrev>
+        <state>North Dakota</state>
+        <fips>071</fips>
+        <incits>38071</incits>
+        <id>US.ND.071</id>
+        <population>11554</population>
+      </desc>
+    </path>
+    <path d="M 561.3389 460.0319 561.3389 428.0403 594.3 428.0403 631.1389 428.0403 631.1389 460.0319 563.2778 460.0319 561.3389 460.0319 Z" id="US.ND.073" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ransom County</name>
+        <stateAbbrev>ND</stateAbbrev>
+        <state>North Dakota</state>
+        <fips>073</fips>
+        <incits>38073</incits>
+        <id>US.ND.073</id>
+        <population>5516</population>
+      </desc>
+    </path>
+    <path d="M 190.0417 207.0069 238.5139 207.0069 238.5139 233.1819 242.3917 233.1819 242.3917 249.6625 279.2306 249.6625 279.2306 257.4181 243.3611 257.4181 206.5222 257.4181 206.5222 233.1819 190.0417 233.1819 190.0417 225.4264 190.0417 207.0069 Z" id="US.ND.075" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Renville County</name>
+        <stateAbbrev>ND</stateAbbrev>
+        <state>North Dakota</state>
+        <fips>075</fips>
+        <incits>38075</incits>
+        <id>US.ND.075</id>
+        <population>2608</population>
+      </desc>
+    </path>
+    <path d="M 361.6333 207.0069 421.7389 207.0069 421.7389 233.1819 425.6167 233.1819 425.6167 249.6625 388.7778 249.6625 364.5417 249.6625 364.5417 233.1819 361.6333 233.1819 361.6333 207.0069 Z" id="US.ND.079" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Rolette County</name>
+        <stateAbbrev>ND</stateAbbrev>
+        <state>North Dakota</state>
+        <fips>079</fips>
+        <incits>38079</incits>
+        <id>US.ND.079</id>
+        <population>14582</population>
+      </desc>
+    </path>
+    <path d="M 323.825 314.6153 359.6944 314.6153 371.3278 314.6153 371.3278 331.0958 375.2056 331.0958 375.2056 363.0875 367.45 363.0875 315.1 363.0875 315.1 331.0958 323.825 331.0958 323.825 314.6153 Z" id="US.ND.083" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Sheridan County</name>
+        <stateAbbrev>ND</stateAbbrev>
+        <state>North Dakota</state>
+        <fips>083</fips>
+        <incits>38083</incits>
+        <id>US.ND.083</id>
+        <population>1304</population>
+      </desc>
+    </path>
+    <path d="M 565.2167 331.0958 574.9111 331.0958 613.6889 331.0958 613.6889 363.0875 615.6278 363.0875 615.6278 370.8431 592.3611 370.8431 568.125 370.8431 568.125 363.0875 566.1861 363.0875 565.2167 331.0958 Z" id="US.ND.091" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Steele County</name>
+        <stateAbbrev>ND</stateAbbrev>
+        <state>North Dakota</state>
+        <fips>091</fips>
+        <incits>38091</incits>
+        <id>US.ND.091</id>
+        <population>1960</population>
+      </desc>
+    </path>
+    <path d="M 426.5861 363.0875 446.9444 363.0875 517.7139 363.0875 520.6222 363.0875 520.6222 370.8431 520.6222 395.0792 523.5306 395.0792 523.5306 428.0403 468.2722 428.0403 429.4944 428.0403 429.4944 395.0792 426.5861 395.0792 426.5861 363.0875 Z" id="US.ND.093" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Stutsman County</name>
+        <stateAbbrev>ND</stateAbbrev>
+        <state>North Dakota</state>
+        <fips>093</fips>
+        <incits>38093</incits>
+        <id>US.ND.093</id>
+        <population>21120</population>
+      </desc>
+    </path>
+    <path d="M 421.7389 207.0069 471.1806 207.0069 471.1806 233.1819 474.0889 233.1819 474.0889 249.6625 474.0889 266.1431 452.7611 266.1431 425.6167 266.1431 425.6167 249.6625 425.6167 233.1819 421.7389 233.1819 421.7389 207.0069 Z" id="US.ND.095" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Towner County</name>
+        <stateAbbrev>ND</stateAbbrev>
+        <state>North Dakota</state>
+        <fips>095</fips>
+        <incits>38095</incits>
+        <id>US.ND.095</id>
+        <population>2317</population>
+      </desc>
+    </path>
+    <path d="M 613.6889 331.0958 667.9778 331.0958 668.9472 335.9431 671.8556 338.8514 670.8861 342.7292 670.8861 355.3319 673.7944 362.1181 671.8556 365.9958 672.825 370.8431 615.6278 370.8431 615.6278 363.0875 613.6889 363.0875 613.6889 331.0958 Z" id="US.ND.097" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Traill County</name>
+        <stateAbbrev>ND</stateAbbrev>
+        <state>North Dakota</state>
+        <fips>097</fips>
+        <incits>38097</incits>
+        <id>US.ND.097</id>
+        <population>8245</population>
+      </desc>
+    </path>
+    <path d="M 535.1639 249.6625 571.0333 249.6625 642.7722 249.6625 642.7722 255.4792 645.6806 257.4181 645.6806 262.2653 642.7722 263.2347 646.65 272.9292 644.7111 278.7458 644.7111 282.6236 572.9722 282.6236 537.1028 281.6542 537.1028 266.1431 535.1639 266.1431 535.1639 249.6625 Z" id="US.ND.099" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Walsh County</name>
+        <stateAbbrev>ND</stateAbbrev>
+        <state>North Dakota</state>
+        <fips>099</fips>
+        <incits>38099</incits>
+        <id>US.ND.099</id>
+        <population>11104</population>
+      </desc>
+    </path>
+    <path d="M 190.0417 225.4264 190.0417 233.1819 206.5222 233.1819 206.5222 257.4181 243.3611 257.4181 279.2306 257.4181 279.2306 266.1431 284.0778 266.1431 284.0778 298.1347 287.9556 298.1347 287.9556 314.6153 239.4833 314.6153 203.6139 314.6153 203.6139 298.1347 198.7667 298.1347 198.7667 266.1431 194.8889 266.1431 193.9194 249.6625 169.6833 249.6625 169.6833 233.1819 177.4389 233.1819 177.4389 225.4264 190.0417 225.4264 Z" id="US.ND.101" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ward County</name>
+        <stateAbbrev>ND</stateAbbrev>
+        <state>North Dakota</state>
+        <fips>101</fips>
+        <incits>38101</incits>
+        <id>US.ND.101</id>
+        <population>67990</population>
+      </desc>
+    </path>
+    <path d="M 371.3278 314.6153 395.5639 314.6153 444.0361 314.6153 444.0361 331.0958 445.975 331.0958 445.975 338.8514 446.9444 363.0875 426.5861 363.0875 375.2056 363.0875 375.2056 331.0958 371.3278 331.0958 371.3278 314.6153 Z" id="US.ND.103" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wells County</name>
+        <stateAbbrev>ND</stateAbbrev>
+        <state>North Dakota</state>
+        <fips>103</fips>
+        <incits>38103</incits>
+        <id>US.ND.103</id>
+        <population>4206</population>
+      </desc>
+    </path>
+    <path d="M 1 240.9375 48.5028 240.9375 72.7389 240.9375 109.5778 240.9375 109.5778 249.6625 109.5778 265.1736 114.425 265.1736 114.425 288.4403 109.5778 287.4708 106.6694 288.4403 101.8222 287.4708 92.1278 288.4403 89.2194 286.5014 79.525 288.4403 76.6167 290.3792 77.5861 292.3181 71.7694 296.1958 63.0444 298.1347 59.1667 297.1653 53.35 299.1042 45.5944 297.1653 47.5333 293.2875 41.7167 290.3792 33.9611 289.4097 25.2361 295.2264 24.2667 300.0736 20.3889 299.1042 16.5111 302.9819 11.6639 304.9208 8.7556 302.0125 4.8778 302.9819 1 301.0431 1 240.9375 Z" id="US.ND.105" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Williams County</name>
+        <stateAbbrev>ND</stateAbbrev>
+        <state>North Dakota</state>
+        <fips>105</fips>
+        <incits>38105</incits>
+        <id>US.ND.105</id>
+        <population>29595</population>
+      </desc>
+    </path>
+  </g>
+</svg>

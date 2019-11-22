@@ -1,0 +1,1017 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="indiana">
+    <path d="M 575.7329 492.5276 586.5188 429.3532 629.6623 430.894 629.6623 464.7925 620.4172 478.66 575.7329 492.5276 Z" id="US.IN.029" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dearborn County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>029</fips>
+        <incits>18029</incits>
+        <id>US.IN.029</id>
+        <population>49904</population>
+      </desc>
+    </path>
+    <path d="M 209.0132 22.5717 210.5541 91.9095 199.7682 94.9912 175.1148 105.777 156.6247 104.2362 156.6247 8.7042 175.1148 19.4901 209.0132 22.5717 Z" id="US.IN.089" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lake County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>089</fips>
+        <incits>18089</incits>
+        <id>US.IN.089</id>
+        <population>491456</population>
+      </desc>
+    </path>
+    <path d="M 156.6247 104.2362 175.1148 105.777 199.7682 94.9912 201.3091 179.7373 156.6247 179.7373 156.6247 104.2362 Z" id="US.IN.111" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Newton County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>111</fips>
+        <incits>18111</incits>
+        <id>US.IN.111</id>
+        <population>14087</population>
+      </desc>
+    </path>
+    <path d="M 238.2892 454.0066 238.2892 423.1898 258.3201 423.1898 258.3201 401.6181 303.0044 401.6181 312.2494 423.1898 303.0044 424.7307 304.5453 454.0066 238.2892 454.0066 Z" id="US.IN.119" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Owen County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>119</fips>
+        <incits>18119</incits>
+        <id>US.IN.119</id>
+        <population>21201</population>
+      </desc>
+    </path>
+    <path d="M 205.9316 454.0066 205.9316 438.5982 207.4724 392.3731 213.6358 376.9647 245.9934 378.5055 245.9934 401.6181 258.3201 401.6181 258.3201 423.1898 238.2892 423.1898 238.2892 454.0066 205.9316 454.0066 Z" id="US.IN.021" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Clay County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>021</fips>
+        <incits>18021</incits>
+        <id>US.IN.021</id>
+        <population>26803</population>
+      </desc>
+    </path>
+    <path d="M 205.9316 500.2318 205.9316 454.0066 238.2892 454.0066 304.5453 454.0066 303.0044 484.8234 303.0044 500.2318 264.4834 500.2318 230.585 500.2318 205.9316 500.2318 Z" id="US.IN.055" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Greene County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>055</fips>
+        <incits>18055</incits>
+        <id>US.IN.055</id>
+        <population>32781</population>
+      </desc>
+    </path>
+    <path d="M 303.0044 484.8234 304.5453 454.0066 303.0044 424.7307 312.2494 423.1898 356.9338 424.7307 358.4746 475.5784 367.7196 475.5784 367.7196 484.8234 303.0044 484.8234 Z" id="US.IN.105" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Monroe County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>105</fips>
+        <incits>18105</incits>
+        <id>US.IN.105</id>
+        <population>141888</population>
+      </desc>
+    </path>
+    <path d="M 142.7572 438.5982 205.9316 438.5982 205.9316 454.0066 205.9316 500.2318 155.0839 500.2318 147.3797 474.0375 136.5938 454.0066 142.7572 438.5982 Z" id="US.IN.153" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Sullivan County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>153</fips>
+        <incits>18153</incits>
+        <id>US.IN.153</id>
+        <population>21223</population>
+      </desc>
+    </path>
+    <path d="M 356.9338 424.7307 380.0464 424.7307 407.7815 423.1898 409.3223 475.5784 367.7196 475.5784 358.4746 475.5784 356.9338 424.7307 Z" id="US.IN.013" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Brown County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>013</fips>
+        <incits>18013</incits>
+        <id>US.IN.013</id>
+        <population>15023</population>
+      </desc>
+    </path>
+    <path d="M 407.7815 423.1898 432.4349 423.1898 478.66 423.1898 478.66 461.7108 458.6291 472.4967 447.8433 477.1192 409.3223 475.5784 407.7815 423.1898 Z" id="US.IN.005" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Bartholomew County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>005</fips>
+        <incits>18005</incits>
+        <id>US.IN.005</id>
+        <population>79587</population>
+      </desc>
+    </path>
+    <path d="M 367.7196 475.5784 409.3223 475.5784 447.8433 477.1192 458.6291 472.4967 458.6291 517.181 443.2208 531.0486 435.5166 526.426 375.4238 524.8852 373.883 484.8234 367.7196 484.8234 367.7196 475.5784 Z" id="US.IN.071" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jackson County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>071</fips>
+        <incits>18071</incits>
+        <id>US.IN.071</id>
+        <population>43466</population>
+      </desc>
+    </path>
+    <path d="M 478.66 461.7108 498.6909 460.17 521.8035 449.3841 520.2627 498.6909 478.66 515.6402 458.6291 517.181 458.6291 472.4967 478.66 461.7108 Z" id="US.IN.079" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jennings County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>079</fips>
+        <incits>18079</incits>
+        <id>US.IN.079</id>
+        <population>28241</population>
+      </desc>
+    </path>
+    <path d="M 478.66 423.1898 487.9051 404.6998 546.457 404.6998 546.457 437.0574 521.8035 449.3841 498.6909 460.17 478.66 461.7108 478.66 423.1898 Z" id="US.IN.031" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Decatur County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>031</fips>
+        <incits>18031</incits>
+        <id>US.IN.031</id>
+        <population>26277</population>
+      </desc>
+    </path>
+    <path d="M 432.4349 361.5563 487.9051 361.5563 487.9051 404.6998 478.66 423.1898 432.4349 423.1898 432.4349 372.3422 432.4349 361.5563 Z" id="US.IN.145" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Shelby County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>145</fips>
+        <incits>18145</incits>
+        <id>US.IN.145</id>
+        <population>44729</population>
+      </desc>
+    </path>
+    <path d="M 245.9934 378.5055 247.5342 332.2804 301.4636 332.2804 303.0044 373.883 309.1678 378.5055 303.0044 401.6181 258.3201 401.6181 245.9934 401.6181 245.9934 378.5055 Z" id="US.IN.133" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Putnam County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>133</fips>
+        <incits>18133</incits>
+        <id>US.IN.133</id>
+        <population>37505</population>
+      </desc>
+    </path>
+    <path d="M 309.1678 378.5055 341.5254 378.5055 366.1788 373.883 380.0464 372.3422 380.0464 424.7307 356.9338 424.7307 312.2494 423.1898 303.0044 401.6181 309.1678 378.5055 Z" id="US.IN.109" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Morgan County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>109</fips>
+        <incits>18109</incits>
+        <id>US.IN.109</id>
+        <population>69782</population>
+      </desc>
+    </path>
+    <path d="M 380.0464 372.3422 432.4349 372.3422 432.4349 423.1898 407.7815 423.1898 380.0464 424.7307 380.0464 372.3422 Z" id="US.IN.081" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Johnson County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>081</fips>
+        <incits>18081</incits>
+        <id>US.IN.081</id>
+        <population>145535</population>
+      </desc>
+    </path>
+    <path d="M 520.2627 498.6909 521.8035 449.3841 546.457 437.0574 560.3245 429.3532 586.5188 429.3532 575.7329 492.5276 574.1921 495.6093 563.4062 498.6909 520.2627 498.6909 Z" id="US.IN.137" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ripley County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>137</fips>
+        <incits>18137</incits>
+        <id>US.IN.137</id>
+        <population>28419</population>
+      </desc>
+    </path>
+    <path d="M 230.585 500.2318 264.4834 500.2318 261.4018 571.1104 235.2075 568.0287 205.9316 563.4062 205.9316 515.6402 230.585 500.2318 Z" id="US.IN.027" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Daviess County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>027</fips>
+        <incits>18027</incits>
+        <id>US.IN.027</id>
+        <population>32407</population>
+      </desc>
+    </path>
+    <path d="M 261.4018 571.1104 264.4834 500.2318 303.0044 500.2318 303.0044 538.7528 304.5453 566.4879 261.4018 571.1104 Z" id="US.IN.101" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Martin County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>101</fips>
+        <incits>18101</incits>
+        <id>US.IN.101</id>
+        <population>10160</population>
+      </desc>
+    </path>
+    <path d="M 303.0044 484.8234 367.7196 484.8234 373.883 484.8234 375.4238 524.8852 369.2605 538.7528 303.0044 538.7528 303.0044 500.2318 303.0044 484.8234 Z" id="US.IN.093" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lawrence County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>093</fips>
+        <incits>18093</incits>
+        <id>US.IN.093</id>
+        <population>45844</population>
+      </desc>
+    </path>
+    <path d="M 303.0044 538.7528 369.2605 538.7528 369.2605 584.9779 304.5453 589.6004 304.5453 566.4879 303.0044 538.7528 Z" id="US.IN.117" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Orange County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>117</fips>
+        <incits>18117</incits>
+        <id>US.IN.117</id>
+        <population>19773</population>
+      </desc>
+    </path>
+    <path d="M 235.2075 618.8764 235.2075 568.0287 261.4018 571.1104 304.5453 566.4879 304.5453 589.6004 304.5453 612.713 284.5143 621.9581 245.9934 623.4989 235.2075 618.8764 Z" id="US.IN.037" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dubois County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>037</fips>
+        <incits>18037</incits>
+        <id>US.IN.037</id>
+        <population>42361</population>
+      </desc>
+    </path>
+    <path d="M 375.4238 524.8852 435.5166 526.426 443.2208 531.0486 449.3841 560.3245 424.7307 572.6512 424.7307 584.9779 417.0265 586.5188 378.5055 584.9779 369.2605 584.9779 369.2605 538.7528 375.4238 524.8852 Z" id="US.IN.175" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Washington County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>175</fips>
+        <incits>18175</incits>
+        <id>US.IN.175</id>
+        <population>27780</population>
+      </desc>
+    </path>
+    <path d="M 167.4106 564.947 205.9316 563.4062 235.2075 568.0287 235.2075 618.8764 193.6049 615.7947 193.6049 592.6821 176.6556 592.6821 167.4106 564.947 Z" id="US.IN.125" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pike County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>125</fips>
+        <incits>18125</incits>
+        <id>US.IN.125</id>
+        <population>12683</population>
+      </desc>
+    </path>
+    <path d="M 443.2208 531.0486 458.6291 517.181 478.66 515.6402 478.66 529.5077 498.6909 540.2936 498.6909 552.6203 458.6291 552.6203 449.3841 560.3245 443.2208 531.0486 Z" id="US.IN.143" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Scott County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>143</fips>
+        <incits>18143</incits>
+        <id>US.IN.143</id>
+        <population>23972</population>
+      </desc>
+    </path>
+    <path d="M 118.1038 586.5188 144.298 541.8344 161.2472 529.5077 155.0839 500.2318 205.9316 500.2318 230.585 500.2318 205.9316 515.6402 205.9316 563.4062 167.4106 564.947 141.2163 580.3554 118.1038 586.5188 Z" id="US.IN.083" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Knox County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>083</fips>
+        <incits>18083</incits>
+        <id>US.IN.083</id>
+        <population>37954</population>
+      </desc>
+    </path>
+    <path d="M 544.9161 87.287 564.947 87.287 632.7439 85.7461 632.7439 147.3797 584.9779 148.9205 540.2936 148.9205 540.2936 133.5121 544.9161 87.287 Z" id="US.IN.003" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Allen County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>003</fips>
+        <incits>18003</incits>
+        <id>US.IN.003</id>
+        <population>363014</population>
+      </desc>
+    </path>
+    <path d="M 584.9779 148.9205 632.7439 147.3797 632.7439 209.0132 586.5188 209.0132 584.9779 148.9205 Z" id="US.IN.001" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Adams County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>001</fips>
+        <incits>18001</incits>
+        <id>US.IN.001</id>
+        <population>34614</population>
+      </desc>
+    </path>
+    <path d="M 520.2627 193.6049 540.2936 193.6049 540.2936 148.9205 584.9779 148.9205 586.5188 209.0132 563.4062 209.0132 520.2627 209.0132 520.2627 193.6049 Z" id="US.IN.179" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wells County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>179</fips>
+        <incits>18179</incits>
+        <id>US.IN.179</id>
+        <population>27814</population>
+      </desc>
+    </path>
+    <path d="M 484.8234 82.6645 503.3135 87.287 544.9161 87.287 540.2936 133.5121 486.3642 133.5121 478.66 125.8079 484.8234 82.6645 Z" id="US.IN.183" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Whitley County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>183</fips>
+        <incits>18183</incits>
+        <id>US.IN.183</id>
+        <population>33294</population>
+      </desc>
+    </path>
+    <path d="M 486.3642 133.5121 540.2936 133.5121 540.2936 148.9205 540.2936 193.6049 520.2627 193.6049 486.3642 193.6049 486.3642 133.5121 Z" id="US.IN.069" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Huntington County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>069</fips>
+        <incits>18069</incits>
+        <id>US.IN.069</id>
+        <population>36791</population>
+      </desc>
+    </path>
+    <path d="M 483.2826 42.6026 564.947 41.0618 564.947 87.287 544.9161 87.287 503.3135 87.287 484.8234 82.6645 483.2826 56.4702 483.2826 42.6026 Z" id="US.IN.113" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Noble County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>113</fips>
+        <incits>18113</incits>
+        <id>US.IN.113</id>
+        <population>47570</population>
+      </desc>
+    </path>
+    <path d="M 564.947 41.0618 632.7439 41.0618 632.7439 85.7461 564.947 87.287 564.947 41.0618 Z" id="US.IN.033" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>DeKalb County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>033</fips>
+        <incits>18033</incits>
+        <id>US.IN.033</id>
+        <population>42307</population>
+      </desc>
+    </path>
+    <path d="M 156.6247 224.4216 156.6247 179.7373 201.3091 179.7373 232.1258 179.7373 232.1258 210.5541 232.1258 225.9625 156.6247 224.4216 Z" id="US.IN.007" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Benton County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>007</fips>
+        <incits>18007</incits>
+        <id>US.IN.007</id>
+        <population>8767</population>
+      </desc>
+    </path>
+    <path d="M 412.404 1 483.2826 1 483.2826 42.6026 483.2826 56.4702 412.404 58.011 412.404 50.3068 412.404 1 Z" id="US.IN.039" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Elkhart County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>039</fips>
+        <incits>18039</incits>
+        <id>US.IN.039</id>
+        <population>200563</population>
+      </desc>
+    </path>
+    <path d="M 199.7682 94.9912 210.5541 91.9095 225.9625 84.2053 259.8609 91.9095 259.8609 104.2362 261.4018 148.9205 250.6159 161.2472 230.585 161.2472 232.1258 179.7373 201.3091 179.7373 199.7682 94.9912 Z" id="US.IN.073" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jasper County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>073</fips>
+        <incits>18073</incits>
+        <id>US.IN.073</id>
+        <population>33389</population>
+      </desc>
+    </path>
+    <path d="M 409.3223 102.6954 412.404 58.011 483.2826 56.4702 484.8234 82.6645 478.66 125.8079 432.4349 125.8079 409.3223 119.6446 409.3223 102.6954 Z" id="US.IN.085" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Kosciusko County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>085</fips>
+        <incits>18085</incits>
+        <id>US.IN.085</id>
+        <population>77963</population>
+      </desc>
+    </path>
+    <path d="M 483.2826 1 563.4062 1 564.947 41.0618 483.2826 42.6026 483.2826 1 Z" id="US.IN.087" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>LaGrange County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>087</fips>
+        <incits>18087</incits>
+        <id>US.IN.087</id>
+        <population>37996</population>
+      </desc>
+    </path>
+    <path d="M 259.8609 8.7042 278.351 1 332.2804 1 338.4437 33.3576 332.2804 58.011 299.9227 64.1744 286.0552 84.2053 259.8609 91.9095 259.8609 8.7042 Z" id="US.IN.091" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>LaPorte County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>091</fips>
+        <incits>18091</incits>
+        <id>US.IN.091</id>
+        <population>111281</population>
+      </desc>
+    </path>
+    <path d="M 209.0132 22.5717 259.8609 8.7042 259.8609 91.9095 225.9625 84.2053 210.5541 91.9095 209.0132 22.5717 Z" id="US.IN.127" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Porter County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>127</fips>
+        <incits>18127</incits>
+        <id>US.IN.127</id>
+        <population>166557</population>
+      </desc>
+    </path>
+    <path d="M 259.8609 104.2362 341.5254 104.2362 341.5254 150.4614 321.4945 148.9205 261.4018 148.9205 259.8609 104.2362 Z" id="US.IN.131" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pulaski County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>131</fips>
+        <incits>18131</incits>
+        <id>US.IN.131</id>
+        <population>13007</population>
+      </desc>
+    </path>
+    <path d="M 332.2804 1 412.404 1 412.404 50.3068 341.5254 50.3068 341.5254 58.011 332.2804 58.011 338.4437 33.3576 332.2804 1 Z" id="US.IN.141" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>St. Joseph County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>141</fips>
+        <incits>18141</incits>
+        <id>US.IN.141</id>
+        <population>266709</population>
+      </desc>
+    </path>
+    <path d="M 259.8609 104.2362 259.8609 91.9095 286.0552 84.2053 299.9227 64.1744 332.2804 58.011 341.5254 58.011 341.5254 104.2362 259.8609 104.2362 Z" id="US.IN.149" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Starke County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>149</fips>
+        <incits>18149</incits>
+        <id>US.IN.149</id>
+        <population>23197</population>
+      </desc>
+    </path>
+    <path d="M 563.4062 1 632.7439 1 632.7439 41.0618 564.947 41.0618 563.4062 1 Z" id="US.IN.151" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Steuben County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>151</fips>
+        <incits>18151</incits>
+        <id>US.IN.151</id>
+        <population>34358</population>
+      </desc>
+    </path>
+    <path d="M 432.4349 133.5121 432.4349 125.8079 478.66 125.8079 486.3642 133.5121 486.3642 193.6049 446.3024 195.1457 433.9757 195.1457 432.4349 133.5121 Z" id="US.IN.169" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wabash County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>169</fips>
+        <incits>18169</incits>
+        <id>US.IN.169</id>
+        <population>32358</population>
+      </desc>
+    </path>
+    <path d="M 261.4018 148.9205 321.4945 148.9205 321.4945 179.7373 292.2185 179.7373 289.1369 210.5541 232.1258 210.5541 232.1258 179.7373 230.585 161.2472 250.6159 161.2472 261.4018 148.9205 Z" id="US.IN.181" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>White County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>181</fips>
+        <incits>18181</incits>
+        <id>US.IN.181</id>
+        <population>24466</population>
+      </desc>
+    </path>
+    <path d="M 341.5254 104.2362 409.3223 102.6954 409.3223 119.6446 432.4349 125.8079 432.4349 133.5121 393.9139 135.053 393.9139 148.9205 341.5254 150.4614 341.5254 104.2362 Z" id="US.IN.049" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Fulton County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>049</fips>
+        <incits>18049</incits>
+        <id>US.IN.049</id>
+        <population>20449</population>
+      </desc>
+    </path>
+    <path d="M 341.5254 104.2362 341.5254 58.011 341.5254 50.3068 412.404 50.3068 412.404 58.011 409.3223 102.6954 341.5254 104.2362 Z" id="US.IN.099" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Marshall County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>099</fips>
+        <incits>18099</incits>
+        <id>US.IN.099</id>
+        <population>47109</population>
+      </desc>
+    </path>
+    <path d="M 520.2627 209.0132 563.4062 209.0132 560.3245 242.9117 520.2627 242.9117 520.2627 209.0132 Z" id="US.IN.009" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Blackford County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>009</fips>
+        <incits>18009</incits>
+        <id>US.IN.009</id>
+        <population>12481</population>
+      </desc>
+    </path>
+    <path d="M 321.4945 179.7373 330.7395 187.4415 358.4746 187.4415 358.4746 210.5541 356.9338 233.6667 301.4636 233.6667 301.4636 210.5541 289.1369 210.5541 292.2185 179.7373 321.4945 179.7373 Z" id="US.IN.015" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Carroll County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>015</fips>
+        <incits>18015</incits>
+        <id>US.IN.015</id>
+        <population>20086</population>
+      </desc>
+    </path>
+    <path d="M 321.4945 179.7373 321.4945 148.9205 341.5254 150.4614 393.9139 148.9205 393.9139 210.5541 358.4746 210.5541 358.4746 187.4415 330.7395 187.4415 321.4945 179.7373 Z" id="US.IN.017" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cass County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>017</fips>
+        <incits>18017</incits>
+        <id>US.IN.017</id>
+        <population>38463</population>
+      </desc>
+    </path>
+    <path d="M 560.3245 346.1479 566.4879 358.4746 592.6821 358.4746 592.6821 390.8322 546.457 392.3731 544.9161 346.1479 555.702 346.1479 560.3245 346.1479 Z" id="US.IN.041" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Fayette County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>041</fips>
+        <incits>18041</incits>
+        <id>US.IN.041</id>
+        <population>23861</population>
+      </desc>
+    </path>
+    <path d="M 176.6556 286.0552 207.4724 253.6976 232.1258 244.4525 232.1258 270.6468 232.1258 316.872 175.1148 316.872 176.6556 286.0552 Z" id="US.IN.045" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Fountain County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>045</fips>
+        <incits>18045</incits>
+        <id>US.IN.045</id>
+        <population>16880</population>
+      </desc>
+    </path>
+    <path d="M 446.3024 195.1457 486.3642 193.6049 520.2627 193.6049 520.2627 209.0132 520.2627 242.9117 497.1501 242.9117 447.8433 242.9117 447.8433 238.2892 447.8433 209.0132 446.3024 195.1457 Z" id="US.IN.053" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Grant County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>053</fips>
+        <incits>18053</incits>
+        <id>US.IN.053</id>
+        <population>69126</population>
+      </desc>
+    </path>
+    <path d="M 560.3245 242.9117 563.4062 209.0132 586.5188 209.0132 632.7439 209.0132 632.7439 255.2384 560.3245 255.2384 560.3245 242.9117 Z" id="US.IN.075" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jay County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>075</fips>
+        <incits>18075</incits>
+        <id>US.IN.075</id>
+        <population>21330</population>
+      </desc>
+    </path>
+    <path d="M 393.9139 148.9205 393.9139 135.053 432.4349 133.5121 433.9757 195.1457 446.3024 195.1457 447.8433 209.0132 393.9139 210.5541 393.9139 148.9205 Z" id="US.IN.103" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Miami County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>103</fips>
+        <incits>18103</incits>
+        <id>US.IN.103</id>
+        <population>36140</population>
+      </desc>
+    </path>
+    <path d="M 232.1258 270.6468 301.4636 270.6468 301.4636 278.351 301.4636 323.0353 301.4636 332.2804 247.5342 332.2804 232.1258 316.872 232.1258 270.6468 Z" id="US.IN.107" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Montgomery County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>107</fips>
+        <incits>18107</incits>
+        <id>US.IN.107</id>
+        <population>38177</population>
+      </desc>
+    </path>
+    <path d="M 560.3245 255.2384 632.7439 255.2384 631.2031 307.6269 563.4062 307.6269 560.3245 307.6269 560.3245 295.3002 560.3245 255.2384 Z" id="US.IN.135" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Randolph County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>135</fips>
+        <incits>18135</incits>
+        <id>US.IN.135</id>
+        <population>25627</population>
+      </desc>
+    </path>
+    <path d="M 232.1258 210.5541 289.1369 210.5541 301.4636 210.5541 301.4636 233.6667 301.4636 270.6468 232.1258 270.6468 232.1258 244.4525 232.1258 225.9625 232.1258 210.5541 Z" id="US.IN.157" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Tippecanoe County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>157</fips>
+        <incits>18157</incits>
+        <id>US.IN.157</id>
+        <population>180174</population>
+      </desc>
+    </path>
+    <path d="M 155.0839 282.9735 156.6247 224.4216 232.1258 225.9625 232.1258 244.4525 207.4724 253.6976 176.6556 286.0552 155.0839 282.9735 Z" id="US.IN.171" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Warren County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>171</fips>
+        <incits>18171</incits>
+        <id>US.IN.171</id>
+        <population>8415</population>
+      </desc>
+    </path>
+    <path d="M 560.3245 346.1479 563.4062 330.7395 563.4062 307.6269 631.2031 307.6269 631.2031 356.9338 592.6821 358.4746 566.4879 358.4746 560.3245 346.1479 Z" id="US.IN.177" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wayne County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>177</fips>
+        <incits>18177</incits>
+        <id>US.IN.177</id>
+        <population>67893</population>
+      </desc>
+    </path>
+    <path d="M 546.457 392.3731 592.6821 390.8322 631.2031 392.3731 629.6623 430.894 586.5188 429.3532 560.3245 429.3532 546.457 437.0574 546.457 404.6998 546.457 392.3731 Z" id="US.IN.047" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Franklin County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>047</fips>
+        <incits>18047</incits>
+        <id>US.IN.047</id>
+        <population>22951</population>
+      </desc>
+    </path>
+    <path d="M 592.6821 390.8322 592.6821 358.4746 631.2031 356.9338 631.2031 392.3731 592.6821 390.8322 Z" id="US.IN.161" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Union County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>161</fips>
+        <incits>18161</incits>
+        <id>US.IN.161</id>
+        <population>7277</population>
+      </desc>
+    </path>
+    <path d="M 424.7307 584.9779 424.7307 572.6512 449.3841 560.3245 458.6291 552.6203 498.6909 552.6203 523.3444 555.702 511.0177 577.2737 489.4459 584.9779 483.2826 601.9272 460.17 608.0905 457.0883 588.0596 424.7307 584.9779 Z" id="US.IN.019" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Clark County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>019</fips>
+        <incits>18019</incits>
+        <id>US.IN.019</id>
+        <population>112938</population>
+      </desc>
+    </path>
+    <path d="M 417.0265 586.5188 424.7307 584.9779 457.0883 588.0596 460.17 608.0905 440.1391 628.1214 417.0265 600.3863 417.0265 586.5188 Z" id="US.IN.043" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Floyd County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>043</fips>
+        <incits>18043</incits>
+        <id>US.IN.043</id>
+        <population>76244</population>
+      </desc>
+    </path>
+    <path d="M 364.638 626.5806 375.4238 618.8764 378.5055 584.9779 417.0265 586.5188 417.0265 600.3863 440.1391 628.1214 433.9757 657.3974 392.3731 657.3974 376.9647 648.1523 364.638 626.5806 Z" id="US.IN.061" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Harrison County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>061</fips>
+        <incits>18061</incits>
+        <id>US.IN.061</id>
+        <population>39163</population>
+      </desc>
+    </path>
+    <path d="M 478.66 515.6402 520.2627 498.6909 563.4062 498.6909 563.4062 537.2119 547.9978 529.5077 521.8035 531.0486 523.3444 555.702 498.6909 552.6203 498.6909 540.2936 478.66 529.5077 478.66 515.6402 Z" id="US.IN.077" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jefferson County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>077</fips>
+        <incits>18077</incits>
+        <id>US.IN.077</id>
+        <population>32458</population>
+      </desc>
+    </path>
+    <path d="M 574.1921 495.6093 575.7329 492.5276 620.4172 478.66 620.4172 501.7726 574.1921 495.6093 Z" id="US.IN.115" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ohio County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>115</fips>
+        <incits>18115</incits>
+        <id>US.IN.115</id>
+        <population>5994</population>
+      </desc>
+    </path>
+    <path d="M 574.1921 495.6093 620.4172 501.7726 631.2031 521.8035 600.3863 523.3444 563.4062 537.2119 563.4062 498.6909 574.1921 495.6093 Z" id="US.IN.155" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Switzerland County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>155</fips>
+        <incits>18155</incits>
+        <id>US.IN.155</id>
+        <population>10526</population>
+      </desc>
+    </path>
+    <path d="M 304.5453 589.6004 369.2605 584.9779 378.5055 584.9779 375.4238 618.8764 364.638 626.5806 343.0662 637.3664 343.0662 621.9581 323.0353 621.9581 304.5453 612.713 304.5453 589.6004 Z" id="US.IN.025" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Crawford County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>025</fips>
+        <incits>18025</incits>
+        <id>US.IN.025</id>
+        <population>10621</population>
+      </desc>
+    </path>
+    <path d="M 118.1038 586.5188 141.2163 580.3554 167.4106 564.947 176.6556 592.6821 193.6049 592.6821 193.6049 615.7947 165.8698 629.6623 127.3488 629.6623 108.8587 618.8764 76.5011 618.8764 87.287 606.5497 118.1038 586.5188 Z" id="US.IN.051" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Gibson County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>051</fips>
+        <incits>18051</incits>
+        <id>US.IN.051</id>
+        <population>33612</population>
+      </desc>
+    </path>
+    <path d="M 175.1148 316.872 232.1258 316.872 247.5342 332.2804 245.9934 378.5055 213.6358 376.9647 181.2781 376.9647 185.9007 333.8212 175.1148 316.872 Z" id="US.IN.121" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Parke County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>121</fips>
+        <incits>18121</incits>
+        <id>US.IN.121</id>
+        <population>17202</population>
+      </desc>
+    </path>
+    <path d="M 279.8918 658.9382 287.596 648.1523 284.5143 621.9581 304.5453 612.713 323.0353 621.9581 343.0662 621.9581 343.0662 637.3664 332.2804 651.234 329.1987 672.8057 316.872 683.5916 292.2185 674.3466 279.8918 658.9382 Z" id="US.IN.123" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Perry County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>123</fips>
+        <incits>18123</incits>
+        <id>US.IN.123</id>
+        <population>19558</population>
+      </desc>
+    </path>
+    <path d="M 76.5011 618.8764 108.8587 618.8764 127.3488 629.6623 125.8079 677.4283 102.6954 680.5099 79.5828 699 67.2561 689.755 67.2561 652.7748 88.8278 631.2031 76.5011 618.8764 Z" id="US.IN.129" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Posey County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>129</fips>
+        <incits>18129</incits>
+        <id>US.IN.129</id>
+        <population>25486</population>
+      </desc>
+    </path>
+    <path d="M 201.3091 680.5099 207.4724 665.1015 245.9934 637.3664 245.9934 623.4989 284.5143 621.9581 287.596 648.1523 279.8918 658.9382 242.9117 675.8874 235.2075 694.3775 201.3091 680.5099 Z" id="US.IN.147" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Spencer County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>147</fips>
+        <incits>18147</incits>
+        <id>US.IN.147</id>
+        <population>20944</population>
+      </desc>
+    </path>
+    <path d="M 125.8079 677.4283 127.3488 629.6623 165.8698 629.6623 168.9514 669.7241 150.4614 671.2649 141.2163 688.2141 125.8079 677.4283 Z" id="US.IN.163" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Vanderburgh County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>163</fips>
+        <incits>18163</incits>
+        <id>US.IN.163</id>
+        <population>181398</population>
+      </desc>
+    </path>
+    <path d="M 155.0839 282.9735 176.6556 286.0552 175.1148 316.872 185.9007 333.8212 181.2781 376.9647 155.0839 376.9647 155.0839 282.9735 Z" id="US.IN.165" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Vermillion County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>165</fips>
+        <incits>18165</incits>
+        <id>US.IN.165</id>
+        <population>15878</population>
+      </desc>
+    </path>
+    <path d="M 155.0839 376.9647 181.2781 376.9647 213.6358 376.9647 207.4724 392.3731 205.9316 438.5982 142.7572 438.5982 155.0839 423.1898 155.0839 376.9647 Z" id="US.IN.167" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Vigo County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>167</fips>
+        <incits>18167</incits>
+        <id>US.IN.167</id>
+        <population>108291</population>
+      </desc>
+    </path>
+    <path d="M 165.8698 629.6623 193.6049 615.7947 235.2075 618.8764 245.9934 623.4989 245.9934 637.3664 207.4724 665.1015 201.3091 680.5099 168.9514 669.7241 165.8698 629.6623 Z" id="US.IN.173" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Warrick County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>173</fips>
+        <incits>18173</incits>
+        <id>US.IN.173</id>
+        <population>61049</population>
+      </desc>
+    </path>
+    <path d="M 301.4636 278.351 381.5872 276.8102 381.5872 321.4945 366.1788 321.4945 301.4636 323.0353 301.4636 278.351 Z" id="US.IN.011" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Boone County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>011</fips>
+        <incits>18011</incits>
+        <id>US.IN.011</id>
+        <population>60477</population>
+      </desc>
+    </path>
+    <path d="M 301.4636 278.351 301.4636 270.6468 301.4636 233.6667 356.9338 233.6667 381.5872 242.9117 380.0464 270.6468 381.5872 276.8102 301.4636 278.351 Z" id="US.IN.023" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Clinton County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>023</fips>
+        <incits>18023</incits>
+        <id>US.IN.023</id>
+        <population>32916</population>
+      </desc>
+    </path>
+    <path d="M 497.1501 242.9117 520.2627 242.9117 560.3245 242.9117 560.3245 255.2384 560.3245 295.3002 497.1501 295.3002 497.1501 242.9117 Z" id="US.IN.035" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Delaware County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>035</fips>
+        <incits>18035</incits>
+        <id>US.IN.035</id>
+        <population>117484</population>
+      </desc>
+    </path>
+    <path d="M 380.0464 270.6468 447.8433 270.6468 447.8433 318.4128 433.9757 321.4945 407.7815 321.4945 406.2406 321.4945 381.5872 321.4945 381.5872 276.8102 380.0464 270.6468 Z" id="US.IN.057" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hamilton County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>057</fips>
+        <incits>18057</incits>
+        <id>US.IN.057</id>
+        <population>296693</population>
+      </desc>
+    </path>
+    <path d="M 433.9757 321.4945 447.8433 318.4128 497.1501 318.4128 494.0684 346.1479 487.9051 361.5563 432.4349 361.5563 433.9757 321.4945 Z" id="US.IN.059" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hancock County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>059</fips>
+        <incits>18059</incits>
+        <id>US.IN.059</id>
+        <population>71575</population>
+      </desc>
+    </path>
+    <path d="M 301.4636 323.0353 366.1788 321.4945 366.1788 373.883 341.5254 378.5055 309.1678 378.5055 303.0044 373.883 301.4636 332.2804 301.4636 323.0353 Z" id="US.IN.063" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hendricks County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>063</fips>
+        <incits>18063</incits>
+        <id>US.IN.063</id>
+        <population>153879</population>
+      </desc>
+    </path>
+    <path d="M 497.1501 318.4128 497.1501 295.3002 560.3245 295.3002 560.3245 307.6269 563.4062 330.7395 560.3245 346.1479 555.702 346.1479 544.9161 346.1479 494.0684 346.1479 497.1501 318.4128 Z" id="US.IN.065" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Henry County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>065</fips>
+        <incits>18065</incits>
+        <id>US.IN.065</id>
+        <population>49044</population>
+      </desc>
+    </path>
+    <path d="M 356.9338 233.6667 358.4746 210.5541 393.9139 210.5541 447.8433 209.0132 447.8433 238.2892 381.5872 238.2892 381.5872 242.9117 356.9338 233.6667 Z" id="US.IN.067" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Howard County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>067</fips>
+        <incits>18067</incits>
+        <id>US.IN.067</id>
+        <population>82760</population>
+      </desc>
+    </path>
+    <path d="M 447.8433 270.6468 447.8433 242.9117 497.1501 242.9117 497.1501 295.3002 497.1501 318.4128 447.8433 318.4128 447.8433 270.6468 Z" id="US.IN.095" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Madison County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>095</fips>
+        <incits>18095</incits>
+        <id>US.IN.095</id>
+        <population>130482</population>
+      </desc>
+    </path>
+    <path d="M 366.1788 321.4945 381.5872 321.4945 406.2406 321.4945 407.7815 321.4945 433.9757 321.4945 432.4349 361.5563 432.4349 372.3422 380.0464 372.3422 366.1788 373.883 366.1788 321.4945 Z" id="US.IN.097" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Marion County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>097</fips>
+        <incits>18097</incits>
+        <id>US.IN.097</id>
+        <population>928281</population>
+      </desc>
+    </path>
+    <path d="M 487.9051 361.5563 494.0684 346.1479 544.9161 346.1479 546.457 392.3731 546.457 404.6998 487.9051 404.6998 487.9051 361.5563 Z" id="US.IN.139" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Rush County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>139</fips>
+        <incits>18139</incits>
+        <id>US.IN.139</id>
+        <population>17004</population>
+      </desc>
+    </path>
+    <path d="M 380.0464 270.6468 381.5872 242.9117 381.5872 238.2892 447.8433 238.2892 447.8433 242.9117 447.8433 270.6468 380.0464 270.6468 Z" id="US.IN.159" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Tipton County</name>
+        <stateAbbrev>IN</stateAbbrev>
+        <state>Indiana</state>
+        <fips>159</fips>
+        <incits>18159</incits>
+        <id>US.IN.159</id>
+        <population>15650</population>
+      </desc>
+    </path>
+  </g>
+</svg>

@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="mauritania">
+    <path d="M 583.0971 167.639 362.5321 321.6699 279.4405 329.7208 245.5658 316.0494 240.4011 250.5787 242.9835 243.2873 248.6039 235.9959 269.4148 222.4764 300.5552 212.4507 303.7452 71.1798 471.4474 72.6988 471.5993 1 668.0115 125.4096 577.9323 127.6881 583.0971 167.639 Z" id="MR.TZ" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>MR.TZ</code_hasc>
+        <name>Tiris Zemmour</name>
+        <admin>Mauritania</admin>
+        <type_en>Region</type_en>
+        <region/>
+        <woe_id>2346251</woe_id>
+        <longitude>-8</longitude>
+        <woe_name>Tiris Zemmour</woe_name>
+        <fips>MR11</fips>
+        <woe_label>Tiris Zemmour, MR, Mauritania</woe_label>
+        <latitude>24</latitude>
+        <iso_a2>MR</iso_a2>
+        <postal>TZ</postal>
+        <type>Wilayat|Région</type>
+        <id>MR.TZ</id>
+      </desc>
+    </path>
+    <path d="M 278.5291 557.1214 255.8953 569.4257 250.5787 579.9071 244.5025 593.2746 234.9325 595.4013 230.8311 604.2118 206.3745 610.7436 201.6655 617.8831 194.8298 619.5541 188.4498 613.6298 187.8422 607.5536 168.5504 590.3885 136.0429 587.5023 170.5251 565.1724 190.7284 536.9182 203.0326 526.2849 260.7563 485.2707 270.63 501.2207 266.2248 544.8172 278.5291 557.1214 Z" id="MR.BR" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>MR.BR</code_hasc>
+        <name>Brakna</name>
+        <admin>Mauritania</admin>
+        <type_en>Region</type_en>
+        <region/>
+        <woe_id>2346245</woe_id>
+        <longitude>-13</longitude>
+        <woe_name>Brakna</woe_name>
+        <fips>MR05</fips>
+        <woe_label>Brakna, MR, Mauritania</woe_label>
+        <latitude>17</latitude>
+        <iso_a2>MR</iso_a2>
+        <postal>BR</postal>
+        <type>Wilayat|Région</type>
+        <id>MR.BR</id>
+      </desc>
+    </path>
+    <path d="M 68.2936 406.5843 62.6731 420.5595 63.4326 410.23 68.2936 406.5843 Z M 179.0318 328.0498 185.1079 338.835 97.763 335.0374 110.523 358.8864 73.4583 421.6229 70.2683 426.7876 68.2936 429.0662 67.9898 429.0662 70.4202 424.509 69.5088 423.9014 64.496 428.3066 66.7745 423.7495 60.3946 431.0409 73.6102 410.23 73.1545 404.002 69.6607 404.6096 74.6736 398.5334 73.0026 390.9382 76.3445 385.6215 63.4326 361.7726 66.6226 360.4054 60.3946 356.6078 59.1793 366.4816 52.6474 359.6459 41.1027 331.9993 35.4823 338.835 32.5961 353.5697 31.9885 345.8226 38.8242 322.5813 179.0318 328.0498 Z" id="MR.DN" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>6</labelrank>
+        <code_hasc>MR.DN</code_hasc>
+        <name>Dakhlet Nouadhibou</name>
+        <admin>Mauritania</admin>
+        <type_en>Region</type_en>
+        <region/>
+        <woe_id>2346248</woe_id>
+        <longitude>-16</longitude>
+        <woe_name>Dakhlet Nouadhibou</woe_name>
+        <fips>MR08</fips>
+        <woe_label>Dakhlet Nouadhibou, MR, Mauritania</woe_label>
+        <latitude>20</latitude>
+        <iso_a2>MR</iso_a2>
+        <postal>DN</postal>
+        <type>Wilayat|Région</type>
+        <id>MR.DN</id>
+      </desc>
+    </path>
+    <path d="M 185.1079 338.835 178.8799 458.5356 73.0026 455.0418 56.597 432.7119 63.4326 432.56 66.015 431.0409 67.9898 429.0662 68.2936 429.0662 70.2683 426.7876 73.4583 421.6229 110.523 358.8864 97.763 335.0374 185.1079 338.835 Z" id="MR.IN" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>MR.IN</code_hasc>
+        <name>Inchiri</name>
+        <admin>Mauritania</admin>
+        <type_en>Region</type_en>
+        <region/>
+        <woe_id>2346252</woe_id>
+        <longitude>-15</longitude>
+        <woe_name>Inchiri</woe_name>
+        <fips>MR12</fips>
+        <woe_label>Inchiri, MR, Mauritania</woe_label>
+        <latitude>20</latitude>
+        <iso_a2>MR</iso_a2>
+        <postal>IN</postal>
+        <type>Wilayat|Région</type>
+        <id>MR.IN</id>
+      </desc>
+    </path>
+    <path d="M 80.1421 517.4744 79.6864 489.2202 94.573 489.676 93.5097 518.082 80.1421 517.4744 Z" id="MR.NO" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>MR.NO</code_hasc>
+        <name>Nouakchott</name>
+        <admin>Mauritania</admin>
+        <type_en>District</type_en>
+        <region/>
+        <woe_id>24550716</woe_id>
+        <longitude>-15</longitude>
+        <woe_name>Nouakchott</woe_name>
+        <fips>MR06</fips>
+        <woe_label>Nouakchott, MR, Mauritania</woe_label>
+        <latitude>18</latitude>
+        <iso_a2>MR</iso_a2>
+        <postal>NO</postal>
+        <type>District</type>
+        <id>MR.NO</id>
+      </desc>
+    </path>
+    <path d="M 260.7563 485.2707 203.0326 526.2849 190.7284 536.9182 170.5251 565.1724 136.0429 587.5023 127.3843 587.5023 126.321 592.2113 108.0925 591.6037 96.6997 596.9203 76.0407 595.4013 71.9393 591.9075 64.1922 593.4266 57.6603 609.3765 53.5589 611.5032 48.2422 632.9217 54.4703 586.2871 71.1798 552.2605 80.1421 517.4744 93.5097 518.082 94.573 489.676 79.6864 489.2202 73.0026 455.0418 178.8799 458.5356 230.8311 459.9027 260.7563 485.2707 Z" id="MR.TR" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>MR.TR</code_hasc>
+        <name>Trarza</name>
+        <admin>Mauritania</admin>
+        <type_en>Region</type_en>
+        <region/>
+        <woe_id>2346246</woe_id>
+        <longitude>-14</longitude>
+        <woe_name>Trarza</woe_name>
+        <fips>MR06</fips>
+        <woe_label>Trarza, MR, Mauritania</woe_label>
+        <latitude>17</latitude>
+        <iso_a2>MR</iso_a2>
+        <postal>TR</postal>
+        <type>Wilayat|Région</type>
+        <id>MR.TR</id>
+      </desc>
+    </path>
+    <path d="M 344.7593 533.1206 349.4683 553.6276 349.0126 583.7047 357.0635 594.9456 364.5069 596.1608 355.0888 603.3003 358.4307 605.7308 356.4559 612.4146 361.0131 618.9465 359.9497 626.6936 365.874 632.7697 370.1273 661.1758 361.9245 661.4797 352.2026 679.1005 324.4041 649.9349 319.3913 648.7197 314.5304 654.3402 309.8213 654.4921 321.0622 630.4912 304.2009 625.4783 302.9856 633.6812 293.8714 631.8583 293.5676 625.6303 282.3267 621.5288 280.5038 614.997 271.2376 616.6679 271.3896 603.4522 253.4649 602.237 250.5787 579.9071 255.8953 569.4257 278.5291 557.1214 299.7956 568.0585 318.0242 566.2357 323.7965 544.8172 321.3661 542.0829 326.8346 537.9815 318.1761 518.2339 323.3408 513.0692 337.9236 512.1578 342.025 504.2588 350.8355 500.4612 344.7593 533.1206 Z" id="MR.AS" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>MR.AS</code_hasc>
+        <name>Assaba</name>
+        <admin>Mauritania</admin>
+        <type_en>Region</type_en>
+        <region/>
+        <woe_id>2346243</woe_id>
+        <longitude>-11</longitude>
+        <woe_name>Assaba</woe_name>
+        <fips>MR03</fips>
+        <woe_label>Assaba, MR, Mauritania</woe_label>
+        <latitude>16</latitude>
+        <iso_a2>MR</iso_a2>
+        <postal>AS</postal>
+        <type>Wilayat|Région</type>
+        <id>MR.AS</id>
+      </desc>
+    </path>
+    <path d="M 309.8213 654.4921 301.7704 674.3915 302.9856 689.8857 289.3143 699 278.8329 696.5695 268.9591 688.9743 267.1362 682.8982 253.0091 676.2144 268.8072 647.2007 281.2633 634.8964 293.8714 631.8583 302.9856 633.6812 304.2009 625.4783 321.0622 630.4912 309.8213 654.4921 Z" id="MR.GD" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>MR.GD</code_hasc>
+        <name>Guidimaka</name>
+        <admin>Mauritania</admin>
+        <type_en>Region</type_en>
+        <region/>
+        <woe_id>2346250</woe_id>
+        <longitude>-12</longitude>
+        <woe_name>Guidimaka</woe_name>
+        <fips>MR10</fips>
+        <woe_label>Guidimaka, MR, Mauritania</woe_label>
+        <latitude>15</latitude>
+        <iso_a2>MR</iso_a2>
+        <postal>GD</postal>
+        <type>Wilayat|Région</type>
+        <id>MR.GD</id>
+      </desc>
+    </path>
+    <path d="M 293.8714 631.8583 281.2633 634.8964 268.8072 647.2007 253.0091 676.2144 245.4139 669.5306 248.7558 667.7077 241.6163 654.9478 235.0844 655.8592 233.8692 649.9349 226.8816 648.264 223.084 631.0988 216.5521 621.3769 213.2102 621.6807 214.2736 618.3388 204.2479 620.9212 201.6655 617.8831 206.3745 610.7436 230.8311 604.2118 234.9325 595.4013 244.5025 593.2746 250.5787 579.9071 253.4649 602.237 271.3896 603.4522 271.2376 616.6679 280.5038 614.997 282.3267 621.5288 293.5676 625.6303 293.8714 631.8583 Z" id="MR.GO" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>MR.GO</code_hasc>
+        <name>Gorgol</name>
+        <admin>Mauritania</admin>
+        <type_en>Region</type_en>
+        <region/>
+        <woe_id>2346244</woe_id>
+        <longitude>-12</longitude>
+        <woe_name>Gorgol</woe_name>
+        <fips>MR04</fips>
+        <woe_label>Gorgol, MR, Mauritania</woe_label>
+        <latitude>16</latitude>
+        <iso_a2>MR</iso_a2>
+        <postal>GO</postal>
+        <type>Wilayat|Région</type>
+        <id>MR.GO</id>
+      </desc>
+    </path>
+    <path d="M 591.148 231.7425 509.1197 422.0786 348.405 422.3824 327.746 438.9399 326.0751 450.3328 314.0746 443.649 278.5291 466.5865 260.7563 485.2707 230.8311 459.9027 178.8799 458.5356 185.1079 338.835 179.0318 328.0498 193.7665 328.5055 208.3493 328.9613 246.0215 330.0246 245.5658 316.0494 279.4405 329.7208 362.5321 321.6699 583.0971 167.639 591.148 231.7425 Z" id="MR.AD" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>6</labelrank>
+        <code_hasc>MR.AD</code_hasc>
+        <name>Adrar</name>
+        <admin>Mauritania</admin>
+        <type_en>Region</type_en>
+        <region/>
+        <woe_id>2346247</woe_id>
+        <longitude>-10</longitude>
+        <woe_name>Adrar</woe_name>
+        <fips>MR07</fips>
+        <woe_label>Adrar, MR, Mauritania</woe_label>
+        <latitude>20</latitude>
+        <iso_a2>MR</iso_a2>
+        <postal>AD</postal>
+        <type>Wilayat|Région</type>
+        <id>MR.AD</id>
+      </desc>
+    </path>
+    <path d="M 455.4975 657.682 457.3203 637.6307 452.1556 626.2379 462.7889 611.807 461.4218 607.8575 493.7774 572.6157 477.2198 554.3872 447.7504 558.1848 509.1197 422.0786 591.148 231.7425 614.2374 412.6605 637.175 598.7432 651.9097 610.5917 644.1626 656.3149 455.4975 657.682 Z" id="MR.HC" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>MR.HC</code_hasc>
+        <name>Hodh ech Chargui</name>
+        <admin>Mauritania</admin>
+        <type_en>Region</type_en>
+        <region/>
+        <woe_id>2346241</woe_id>
+        <longitude>-7</longitude>
+        <woe_name>Hodh ech Chargui</woe_name>
+        <fips>MR01</fips>
+        <woe_label>Hodh Ech Chargui, MR, Mauritania</woe_label>
+        <latitude>18</latitude>
+        <iso_a2>MR</iso_a2>
+        <postal>HC</postal>
+        <type>Wilayat|Région</type>
+        <id>MR.HC</id>
+      </desc>
+    </path>
+    <path d="M 447.7504 558.1848 477.2198 554.3872 493.7774 572.6157 461.4218 607.8575 462.7889 611.807 452.1556 626.2379 457.3203 637.6307 455.4975 657.682 436.8133 657.682 436.5095 646.4411 431.3447 652.5173 432.8638 660.7201 398.0777 664.8215 384.2544 660.7201 370.1273 661.1758 365.874 632.7697 359.9497 626.6936 361.0131 618.9465 356.4559 612.4146 358.4307 605.7308 355.0888 603.3003 364.5069 596.1608 357.0635 594.9456 349.0126 583.7047 349.4683 553.6276 344.7593 533.1206 384.5582 544.8172 417.0657 542.9943 447.7504 558.1848 Z" id="MR.HG" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>MR.HG</code_hasc>
+        <name>Hodh el Gharbi</name>
+        <admin>Mauritania</admin>
+        <type_en>Region</type_en>
+        <region/>
+        <woe_id>2346242</woe_id>
+        <longitude>-9</longitude>
+        <woe_name>Hodh el Gharbi</woe_name>
+        <fips>MR02</fips>
+        <woe_label>Hodh El Gharbi, MR, Mauritania</woe_label>
+        <latitude>16</latitude>
+        <iso_a2>MR</iso_a2>
+        <postal>HG</postal>
+        <type>Wilayat|Région</type>
+        <id>MR.HG</id>
+      </desc>
+    </path>
+    <path d="M 447.7504 558.1848 417.0657 542.9943 384.5582 544.8172 344.7593 533.1206 350.8355 500.4612 342.025 504.2588 337.9236 512.1578 323.3408 513.0692 318.1761 518.2339 326.8346 537.9815 321.3661 542.0829 323.7965 544.8172 318.0242 566.2357 299.7956 568.0585 278.5291 557.1214 266.2248 544.8172 270.63 501.2207 260.7563 485.2707 278.5291 466.5865 314.0746 443.649 326.0751 450.3328 327.746 438.9399 348.405 422.3824 509.1197 422.0786 447.7504 558.1848 Z" id="MR.TG" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>MR.TG</code_hasc>
+        <name>Tagant</name>
+        <admin>Mauritania</admin>
+        <type_en>Region</type_en>
+        <region/>
+        <woe_id>2346249</woe_id>
+        <longitude>-10</longitude>
+        <woe_name>Tagant</woe_name>
+        <fips>MR09</fips>
+        <woe_label>Tagant, MR, Mauritania</woe_label>
+        <latitude>18</latitude>
+        <iso_a2>MR</iso_a2>
+        <postal>TG</postal>
+        <type>Wilayat|Région</type>
+        <id>MR.TG</id>
+      </desc>
+    </path>
+  </g>
+</svg>

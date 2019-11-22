@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="mongolia">
+    <path d="M 79.3071 303.1718 64.9985 306.5539 77.2259 339.5937 82.1688 345.3172 80.8681 350.7805 91.0142 359.3656 82.9493 359.8859 80.8681 362.2274 72.2829 358.5852 60.3157 341.675 57.7141 332.0492 51.9907 329.4476 51.2102 326.0656 44.7063 327.6265 40.2836 321.9031 29.3571 322.9437 19.7313 317.2203 17.65 311.757 6.4633 307.3343 8.0242 302.9117 1 298.489 4.1219 295.6273 2.8211 290.164 9.8453 287.3023 10.6258 282.3593 31.9586 280.7984 33.2594 276.896 36.6414 278.457 43.6657 274.5546 42.1047 269.3515 50.1696 266.4898 56.9337 278.7171 64.9985 285.7413 69.6813 286.5218 79.3071 303.1718 Z" id="MN.BO" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>MN.BO</code_hasc>
+        <name>Bayan-Ölgiy</name>
+        <admin>Mongolia</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>2346159</woe_id>
+        <longitude>89</longitude>
+        <woe_name>Bayan-Ölgiy</woe_name>
+        <fips>MG03</fips>
+        <woe_label>Bayan-Olgiy, MN, Mongolia</woe_label>
+        <latitude>48</latitude>
+        <iso_a2>MN</iso_a2>
+        <postal>BO</postal>
+        <type>Aimag|aymag</type>
+        <id>MN.BO</id>
+      </desc>
+    </path>
+    <path d="M 510.9068 371.0727 519.2318 374.7149 527.0365 402.0313 521.8334 405.1532 514.2889 420.7626 525.9959 435.8517 525.9959 438.9735 505.1834 449.1196 492.956 463.4283 485.4115 467.0704 468.5013 472.5337 441.7052 472.2736 440.1442 438.7134 433.6403 422.5837 434.4208 417.3805 437.5427 409.5758 447.4286 408.2751 454.1927 403.5922 451.5911 387.2024 453.4122 379.1375 449.77 380.1782 447.1685 377.3164 447.4286 368.4711 442.2255 361.9672 445.3474 359.1055 439.6239 356.2438 451.0708 356.2438 458.6154 349.7398 461.9974 355.2031 464.8591 354.943 462.7779 364.0485 470.8427 372.6336 478.3873 372.3735 483.8505 368.9914 486.1919 360.1461 502.5818 374.975 510.9068 371.0727 Z" id="MN.DG" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>MN.DG</code_hasc>
+        <name>Dornogovi</name>
+        <admin>Mongolia</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>2346161</woe_id>
+        <longitude>109</longitude>
+        <woe_name>Dornogovi</woe_name>
+        <fips>MG07</fips>
+        <woe_label>Dornogovi, MN, Mongolia</woe_label>
+        <latitude>44</latitude>
+        <iso_a2>MN</iso_a2>
+        <postal>DG</postal>
+        <type>Aimag|aymag</type>
+        <id>MN.DG</id>
+      </desc>
+    </path>
+    <path d="M 434.4208 417.3805 433.6403 422.5837 440.1442 438.7134 441.7052 472.2736 413.8684 476.1759 380.0481 490.2244 375.1051 494.3869 364.959 492.5658 364.6988 487.1025 347.2684 489.9642 333.7402 483.4603 311.3668 478.7775 300.18 469.672 267.4003 466.0298 258.8151 468.1111 255.9534 428.047 263.2378 426.486 274.1644 435.8517 293.416 435.8517 305.123 429.6079 313.1878 427.0063 332.1793 427.0063 330.6183 421.8032 337.1223 409.5758 348.8293 399.4297 356.1137 399.4297 358.1949 408.7954 386.0317 412.4376 392.2754 422.8438 397.9989 425.7056 425.0552 417.9009 434.4208 417.3805 Z" id="MN.OG" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>MN.OG</code_hasc>
+        <name>Ömnögovi</name>
+        <admin>Mongolia</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>2346168</woe_id>
+        <longitude>103</longitude>
+        <woe_name>Ömnögovi</woe_name>
+        <fips>MG14</fips>
+        <woe_label>Omnogov, MN, Mongolia</woe_label>
+        <latitude>43</latitude>
+        <iso_a2>MN</iso_a2>
+        <postal>OG</postal>
+        <type>Aimag|aymag</type>
+        <id>MN.OG</id>
+      </desc>
+    </path>
+    <path d="M 542.3858 327.8867 530.4186 332.0492 529.3779 339.5937 523.3943 339.0734 518.7115 342.7156 511.4271 360.1461 510.9068 371.0727 502.5818 374.975 486.1919 360.1461 483.8505 368.9914 478.3873 372.3735 470.8427 372.6336 462.7779 364.0485 464.8591 354.943 461.9974 355.2031 458.6154 349.7398 450.0302 334.9109 451.331 325.025 459.9161 320.6023 463.2982 313.8382 459.1357 300.0499 452.1114 291.4648 453.1521 285.7413 468.5013 285.221 488.013 290.164 492.1755 288.0827 498.9396 290.9445 512.9881 284.7007 530.1584 282.3593 542.3858 327.8867 Z" id="MN.HN" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>MN.HN</code_hasc>
+        <name>Hentiy</name>
+        <admin>Mongolia</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>2346165</woe_id>
+        <longitude>110</longitude>
+        <woe_name>Hentiy</woe_name>
+        <fips>MG11</fips>
+        <woe_label>Hentiy, MN, Mongolia</woe_label>
+        <latitude>47</latitude>
+        <iso_a2>MN</iso_a2>
+        <postal>HN</postal>
+        <type>Aimag|aymag</type>
+        <id>MN.HN</id>
+      </desc>
+    </path>
+    <path d="M 303.0417 294.8468 310.066 301.0906 313.448 300.0499 318.6511 313.3179 325.1551 316.4398 329.0574 325.2851 347.0082 343.2359 336.3418 344.5367 332.9597 340.6344 324.6347 338.293 326.4558 342.1953 321.5129 351.0406 316.3097 348.6992 294.4566 355.2031 282.4894 354.4227 275.7253 345.057 264.2784 347.3984 259.5956 332.0492 246.3276 336.9922 240.8643 334.3906 239.0432 330.2281 232.2792 332.3094 227.5963 331.0086 227.8565 321.1226 247.6284 313.3179 250.4901 315.3992 260.1159 313.8382 262.4573 309.1554 271.3026 311.2367 277.0261 307.0742 274.9448 300.5703 279.6277 296.4078 276.2456 293.0257 279.8878 292.5054 282.4894 288.8632 296.2777 295.3671 303.0417 294.8468 Z" id="MN.AR" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>MN.AR</code_hasc>
+        <name>Arhangay</name>
+        <admin>Mongolia</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>2346157</woe_id>
+        <longitude>100</longitude>
+        <woe_name>Arhangay</woe_name>
+        <fips>MG01</fips>
+        <woe_label>Arhangay, MN, Mongolia</woe_label>
+        <latitude>48</latitude>
+        <iso_a2>MN</iso_a2>
+        <postal>AR</postal>
+        <type>Aimag|aymag</type>
+        <id>MN.AR</id>
+      </desc>
+    </path>
+    <path d="M 294.4566 355.2031 300.9605 365.0891 298.6191 368.4711 299.6597 373.4141 295.237 377.3164 291.855 400.2102 293.1558 404.1126 301.2206 408.2751 299.6597 412.4376 305.123 429.6079 293.416 435.8517 274.1644 435.8517 263.2378 426.486 255.9534 428.047 258.8151 468.1111 220.5721 464.729 219.2713 450.1603 222.3932 441.5751 222.3932 421.2829 228.3768 415.8196 228.637 405.6735 234.1003 392.1454 232.019 381.7391 216.9299 368.4711 215.8893 360.9266 220.5721 345.3172 227.076 343.7562 232.2792 332.3094 239.0432 330.2281 240.8643 334.3906 246.3276 336.9922 259.5956 332.0492 264.2784 347.3984 275.7253 345.057 282.4894 354.4227 294.4566 355.2031 Z" id="MN.BH" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>6</labelrank>
+        <code_hasc>MN.BH</code_hasc>
+        <name>Bayanhongor</name>
+        <admin>Mongolia</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>2346158</woe_id>
+        <longitude>99</longitude>
+        <woe_name>Bayanhongor</woe_name>
+        <fips>MG02</fips>
+        <woe_label>Bayanhongor, MN, Mongolia</woe_label>
+        <latitude>45</latitude>
+        <iso_a2>MN</iso_a2>
+        <postal>BH</postal>
+        <type>Aimag|aymag</type>
+        <id>MN.BH</id>
+      </desc>
+    </path>
+    <path d="M 203.9221 272.2132 205.2229 274.8148 198.9791 282.6195 205.483 288.3429 213.5479 289.1234 221.8729 294.0663 235.1409 295.3671 239.8237 290.9445 247.1081 290.6843 247.6284 313.3179 227.8565 321.1226 227.5963 331.0086 232.2792 332.3094 227.076 343.7562 220.5721 345.3172 215.8893 360.9266 210.6862 359.1055 207.3041 361.4469 201.8408 360.9266 198.4588 353.1219 188.833 353.382 184.1502 343.2359 168.801 334.3906 160.9963 334.6508 157.8744 331.5289 140.1837 328.6672 125.8751 332.8297 119.3712 320.082 125.3548 315.3992 125.0947 311.4968 130.8181 304.4726 139.6634 300.3101 154.2322 303.6921 170.1018 298.7492 173.7439 284.7007 168.801 277.6765 169.0611 269.6116 176.6057 265.9694 179.2072 268.3108 181.5486 266.7499 203.9221 272.2132 Z" id="MN.DZ" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>MN.DZ</code_hasc>
+        <name>Dzavhan</name>
+        <admin>Mongolia</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>2346163</woe_id>
+        <longitude>96</longitude>
+        <woe_name>Dzavhan</woe_name>
+        <fips>MG09</fips>
+        <woe_label>Dzavhan, MN, Mongolia</woe_label>
+        <latitude>48</latitude>
+        <iso_a2>MN</iso_a2>
+        <postal>DZ</postal>
+        <type>Aimag|aymag</type>
+        <id>MN.DZ</id>
+      </desc>
+    </path>
+    <path d="M 215.8893 360.9266 216.9299 368.4711 232.019 381.7391 234.1003 392.1454 228.637 405.6735 228.3768 415.8196 222.3932 421.2829 222.3932 441.5751 219.2713 450.1603 220.5721 464.729 206.2635 463.1681 188.0526 464.729 187.2721 459.7861 177.6463 450.9407 170.3619 432.2095 165.6791 430.6485 167.24 423.6243 152.6713 422.0634 140.9642 413.4782 135.5009 413.218 130.2978 407.2344 117.0298 404.1126 117.8103 385.3813 124.054 379.3977 128.997 367.9508 126.9158 361.9672 132.3791 361.4469 142.7853 354.943 137.5822 343.4961 126.9158 336.2117 125.8751 332.8297 140.1837 328.6672 157.8744 331.5289 160.9963 334.6508 168.801 334.3906 184.1502 343.2359 188.833 353.382 198.4588 353.1219 201.8408 360.9266 207.3041 361.4469 210.6862 359.1055 215.8893 360.9266 Z" id="MN.GA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>MN.GA</code_hasc>
+        <name>Govi-Altay</name>
+        <admin>Mongolia</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>2346164</woe_id>
+        <longitude>95</longitude>
+        <woe_name>Govi-Altay</woe_name>
+        <fips>MG10</fips>
+        <woe_label>Govi-Altay, MN, Mongolia</woe_label>
+        <latitude>45</latitude>
+        <iso_a2>MN</iso_a2>
+        <postal>GA</postal>
+        <type>Aimag|aymag</type>
+        <id>MN.GA</id>
+      </desc>
+    </path>
+    <path d="M 125.0947 311.4968 125.3548 315.3992 119.3712 320.082 125.8751 332.8297 126.9158 336.2117 137.5822 343.4961 142.7853 354.943 132.3791 361.4469 126.9158 361.9672 128.997 367.9508 124.054 379.3977 117.8103 385.3813 117.0298 404.1126 98.2985 404.1126 69.161 399.4297 64.218 391.1047 65.5188 384.0805 72.0227 376.7961 69.6813 369.2516 72.2829 358.5852 80.8681 362.2274 82.9493 359.8859 91.0142 359.3656 80.8681 350.7805 82.1688 345.3172 77.2259 339.5937 64.9985 306.5539 79.3071 303.1718 89.7134 295.3671 98.0384 305.7734 110.2657 307.0742 116.7697 304.2124 125.0947 311.4968 Z" id="MN.HD" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>MN.HD</code_hasc>
+        <name>Hovd</name>
+        <admin>Mongolia</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>2346166</woe_id>
+        <longitude>92</longitude>
+        <woe_name>Hovd</woe_name>
+        <fips>MG00</fips>
+        <woe_label>Hovd, MN, Mongolia</woe_label>
+        <latitude>46</latitude>
+        <iso_a2>MN</iso_a2>
+        <postal>HD</postal>
+        <type>Aimag|aymag</type>
+        <id>MN.HD</id>
+      </desc>
+    </path>
+    <path d="M 323.8543 255.303 312.6675 268.3108 327.4965 275.3351 304.6027 288.3429 303.0417 294.8468 296.2777 295.3671 282.4894 288.8632 279.8878 292.5054 276.2456 293.0257 279.6277 296.4078 274.9448 300.5703 277.0261 307.0742 271.3026 311.2367 262.4573 309.1554 260.1159 313.8382 250.4901 315.3992 247.6284 313.3179 247.1081 290.6843 239.8237 290.9445 235.1409 295.3671 221.8729 294.0663 213.5479 289.1234 205.483 288.3429 198.9791 282.6195 205.2229 274.8148 203.9221 272.2132 209.3854 274.2944 214.3284 269.0913 220.0518 268.8312 226.0354 264.9288 230.1979 251.921 224.4745 249.0593 219.5315 238.1327 224.4745 225.1249 228.637 224.6045 230.9784 217.5803 238.5229 214.4584 242.9456 205.6131 265.319 216.5397 278.3269 217.3202 296.5378 225.1249 314.4886 228.7671 316.5699 249.8397 323.8543 255.303 Z" id="MN.HG" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>MN.HG</code_hasc>
+        <name>Hövsgöl</name>
+        <admin>Mongolia</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>2346167</woe_id>
+        <longitude>99</longitude>
+        <woe_name>Hövsgöl</woe_name>
+        <fips>MG13</fips>
+        <woe_label>Hovsgol, MN, Mongolia</woe_label>
+        <latitude>50</latitude>
+        <iso_a2>MN</iso_a2>
+        <postal>HG</postal>
+        <type>Aimag|aymag</type>
+        <id>MN.HG</id>
+      </desc>
+    </path>
+    <path d="M 169.0611 269.6116 168.801 277.6765 173.7439 284.7007 170.1018 298.7492 154.2322 303.6921 139.6634 300.3101 130.8181 304.4726 125.0947 311.4968 116.7697 304.2124 110.2657 307.0742 98.0384 305.7734 89.7134 295.3671 79.3071 303.1718 69.6813 286.5218 64.9985 285.7413 56.9337 278.7171 50.1696 266.4898 51.2102 264.1483 64.9985 260.5061 71.2423 254.7827 80.8681 253.4819 88.1524 247.2382 96.9978 246.978 101.4204 242.035 107.6642 247.4983 110.7861 244.1163 114.4283 244.6366 117.5501 249.5796 142.0048 250.6202 144.6064 260.246 150.0697 265.9694 156.8338 265.4491 169.0611 269.6116 Z" id="MN.UV" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>MN.UV</code_hasc>
+        <name>Uvs</name>
+        <admin>Mongolia</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>2346173</woe_id>
+        <longitude>92</longitude>
+        <woe_name>Uvs</woe_name>
+        <fips>MG19</fips>
+        <woe_label>Uvs, MN, Mongolia</woe_label>
+        <latitude>49</latitude>
+        <iso_a2>MN</iso_a2>
+        <postal>UV</postal>
+        <type>Aimag|aymag</type>
+        <id>MN.UV</id>
+      </desc>
+    </path>
+    <path d="M 361.577 258.9452 369.902 275.5952 365.2192 291.9851 356.1137 291.4648 354.0324 293.546 362.0973 297.7085 365.7395 300.5703 365.4793 305.2531 365.2192 312.2773 360.2762 318.7812 362.3574 322.9437 369.1215 324.2445 370.4223 332.0492 357.4145 335.6914 355.3332 337.2523 357.1543 341.9351 347.0082 343.2359 329.0574 325.2851 325.1551 316.4398 318.6511 313.3179 313.448 300.0499 310.066 301.0906 303.0417 294.8468 304.6027 288.3429 327.4965 275.3351 312.6675 268.3108 323.8543 255.303 345.1871 262.8476 356.634 262.3272 361.577 258.9452 Z" id="MN.BU" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>MN.BU</code_hasc>
+        <name>Bulgan</name>
+        <admin>Mongolia</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>2346174</woe_id>
+        <longitude>103</longitude>
+        <woe_name>Bulgan</woe_name>
+        <fips>MG21</fips>
+        <woe_label>Bulgan, MN, Mongolia</woe_label>
+        <latitude>49</latitude>
+        <iso_a2>MN</iso_a2>
+        <postal>BU</postal>
+        <type>Aimag|aymag</type>
+        <id>MN.BU</id>
+      </desc>
+    </path>
+    <path d="M 365.2192 291.9851 365.9996 294.8468 362.0973 297.7085 354.0324 293.546 356.1137 291.4648 365.2192 291.9851 Z" id="MN.ER" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>MN.ER</code_hasc>
+        <name>Orhon</name>
+        <admin>Mongolia</admin>
+        <type_en>Municipality</type_en>
+        <region/>
+        <woe_id>20070015</woe_id>
+        <longitude>104</longitude>
+        <woe_name>Orhon</woe_name>
+        <fips>MG22</fips>
+        <woe_label>Erdenet, MN, Mongolia</woe_label>
+        <latitude>49</latitude>
+        <iso_a2>MN</iso_a2>
+        <postal>ER</postal>
+        <type>Hot</type>
+        <id>MN.ER</id>
+      </desc>
+    </path>
+    <path d="M 434.4208 417.3805 425.0552 417.9009 397.9989 425.7056 392.2754 422.8438 386.0317 412.4376 358.1949 408.7954 356.1137 399.4297 348.8293 399.4297 349.8699 395.5274 345.7074 387.7227 355.0731 384.3407 357.6746 374.4547 363.1379 373.1539 367.0403 366.1297 374.8449 361.4469 384.2106 365.6094 393.0559 357.5445 400.8606 361.707 414.6489 362.2274 421.1528 366.3899 426.3559 366.1297 436.2419 361.9672 439.6239 356.2438 445.3474 359.1055 442.2255 361.9672 447.4286 368.4711 447.1685 377.3164 449.77 380.1782 453.4122 379.1375 451.5911 387.2024 454.1927 403.5922 447.4286 408.2751 437.5427 409.5758 434.4208 417.3805 Z" id="MN.DU" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>MN.DU</code_hasc>
+        <name>Dundgovi</name>
+        <admin>Mongolia</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>2346162</woe_id>
+        <longitude>106</longitude>
+        <woe_name>Dundgovi</woe_name>
+        <fips>MG00</fips>
+        <woe_label>Dundgovi, MN, Mongolia</woe_label>
+        <latitude>45</latitude>
+        <iso_a2>MN</iso_a2>
+        <postal>DU</postal>
+        <type>Aimag|aymag</type>
+        <id>MN.DU</id>
+      </desc>
+    </path>
+    <path d="M 453.1521 285.7413 452.1114 291.4648 442.4857 294.5867 433.6403 293.2859 430.5184 295.3671 434.9411 299.5296 433.12 304.9929 424.5348 307.0742 421.413 305.5132 409.7059 307.8546 397.7387 303.9523 397.4786 300.0499 393.5762 298.489 386.8122 300.5703 386.2918 304.7328 376.9262 308.6351 365.4793 305.2531 365.7395 300.5703 362.0973 297.7085 365.9996 294.8468 365.2192 291.9851 369.902 275.5952 361.577 258.9452 382.6496 253.2218 402.1614 258.4249 413.6083 257.9046 423.2341 266.4898 439.6239 268.571 439.1036 275.8554 453.1521 285.7413 Z M 398.259 292.2452 403.9825 289.6437 410.2262 292.2452 414.6489 291.2046 414.1286 280.5382 398.259 277.4163 400.3403 271.6929 393.5762 276.896 393.0559 291.2046 398.259 292.2452 Z" id="MN.SL" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>MN.SL</code_hasc>
+        <name>Selenge</name>
+        <admin>Mongolia</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>2346170</woe_id>
+        <longitude>106</longitude>
+        <woe_name>Selenge</woe_name>
+        <fips>MG16</fips>
+        <woe_label>Selenge, MN, Mongolia</woe_label>
+        <latitude>48</latitude>
+        <iso_a2>MN</iso_a2>
+        <postal>SL</postal>
+        <type>Aimag|aymag</type>
+        <id>MN.SL</id>
+      </desc>
+    </path>
+    <path d="M 347.0082 343.2359 357.1543 341.9351 361.577 350.2602 358.9754 354.1625 362.6176 363.0078 367.0403 366.1297 363.1379 373.1539 357.6746 374.4547 355.0731 384.3407 345.7074 387.7227 349.8699 395.5274 348.8293 399.4297 337.1223 409.5758 330.6183 421.8032 332.1793 427.0063 313.1878 427.0063 305.123 429.6079 299.6597 412.4376 301.2206 408.2751 293.1558 404.1126 291.855 400.2102 295.237 377.3164 299.6597 373.4141 298.6191 368.4711 300.9605 365.0891 294.4566 355.2031 316.3097 348.6992 321.5129 351.0406 326.4558 342.1953 324.6347 338.293 332.9597 340.6344 336.3418 344.5367 347.0082 343.2359 Z" id="MN.OH" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>MN.OH</code_hasc>
+        <name>Övörhangay</name>
+        <admin>Mongolia</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>2346169</woe_id>
+        <longitude>102</longitude>
+        <woe_name>Övörhangay</woe_name>
+        <fips>MG00</fips>
+        <woe_label>Ovorhangay, MN, Mongolia</woe_label>
+        <latitude>45</latitude>
+        <iso_a2>MN</iso_a2>
+        <postal>OH</postal>
+        <type>Aimag|aymag</type>
+        <id>MN.OH</id>
+      </desc>
+    </path>
+    <path d="M 398.259 292.2452 393.0559 291.2046 393.5762 276.896 400.3403 271.6929 398.259 277.4163 414.1286 280.5382 414.6489 291.2046 410.2262 292.2452 403.9825 289.6437 398.259 292.2452 Z" id="MN.DA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>MN.DA</code_hasc>
+        <name>Darhan-Uul</name>
+        <admin>Mongolia</admin>
+        <type_en>Municipality</type_en>
+        <region/>
+        <woe_id>20070014</woe_id>
+        <longitude>106</longitude>
+        <woe_name>Darhan-Uul</woe_name>
+        <fips>MG05</fips>
+        <woe_label>Darhan, MN, Mongolia</woe_label>
+        <latitude>49</latitude>
+        <iso_a2>MN</iso_a2>
+        <postal>DA</postal>
+        <type>Hot</type>
+        <id>MN.DA</id>
+      </desc>
+    </path>
+    <path d="M 452.1114 291.4648 459.1357 300.0499 463.2982 313.8382 459.9161 320.6023 451.331 325.025 448.4693 325.025 445.0872 329.4476 446.388 333.8703 450.0302 334.9109 458.6154 349.7398 451.0708 356.2438 439.6239 356.2438 436.2419 361.9672 426.3559 366.1297 421.1528 366.3899 414.6489 362.2274 400.8606 361.707 393.0559 357.5445 384.2106 365.6094 374.8449 361.4469 367.0403 366.1297 362.6176 363.0078 358.9754 354.1625 361.577 350.2602 357.1543 341.9351 355.3332 337.2523 357.4145 335.6914 370.4223 332.0492 369.1215 324.2445 362.3574 322.9437 360.2762 318.7812 365.2192 312.2773 365.4793 305.2531 376.9262 308.6351 386.2918 304.7328 386.8122 300.5703 393.5762 298.489 397.4786 300.0499 397.7387 303.9523 409.7059 307.8546 421.413 305.5132 424.5348 307.0742 433.12 304.9929 434.9411 299.5296 430.5184 295.3671 433.6403 293.2859 442.4857 294.5867 452.1114 291.4648 Z M 411.7872 330.7484 429.9981 332.3094 431.2989 325.025 426.0958 322.9437 421.1528 316.7 416.47 318.0007 405.0231 315.6593 408.145 328.9273 411.7872 330.7484 Z" id="MN.TO" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>MN.TO</code_hasc>
+        <name>Töv</name>
+        <admin>Mongolia</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>2346172</woe_id>
+        <longitude>106</longitude>
+        <woe_name>Töv</woe_name>
+        <fips>MG18</fips>
+        <woe_label>Tov, MN, Mongolia</woe_label>
+        <latitude>47</latitude>
+        <iso_a2>MN</iso_a2>
+        <postal>TO</postal>
+        <type>Aimag|aymag</type>
+        <id>MN.TO</id>
+      </desc>
+    </path>
+    <path d="M 451.331 325.025 450.0302 334.9109 446.388 333.8703 445.0872 329.4476 448.4693 325.025 451.331 325.025 Z" id="MN.GS" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>MN.GS</code_hasc>
+        <name>Govĭ-Sümber</name>
+        <admin>Mongolia</admin>
+        <type_en>Municipality</type_en>
+        <region/>
+        <woe_id>-2346172</woe_id>
+        <longitude>108</longitude>
+        <woe_name/>
+        <fips>MG20</fips>
+        <woe_label/>
+        <latitude>47</latitude>
+        <iso_a2>MN</iso_a2>
+        <postal>GS</postal>
+        <type>Hot</type>
+        <id>MN.GS</id>
+      </desc>
+    </path>
+    <path d="M 411.7872 330.7484 408.145 328.9273 405.0231 315.6593 416.47 318.0007 421.1528 316.7 426.0958 322.9437 431.2989 325.025 429.9981 332.3094 411.7872 330.7484 Z" id="MN.UB" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>MN.UB</code_hasc>
+        <name>Ulaanbaatar</name>
+        <admin>Mongolia</admin>
+        <type_en>Municipality</type_en>
+        <region/>
+        <woe_id>20070016</woe_id>
+        <longitude>106</longitude>
+        <woe_name>Ulaanbaatar</woe_name>
+        <fips>MG20</fips>
+        <woe_label>Ulaanbaatar, MN, Mongolia</woe_label>
+        <latitude>47</latitude>
+        <iso_a2>MN</iso_a2>
+        <postal>UB</postal>
+        <type>Hot</type>
+        <id>MN.UB</id>
+      </desc>
+    </path>
+    <path d="M 626.9366 369.2516 619.6523 360.6664 590.5147 364.0485 580.6288 354.6828 580.3686 344.7969 566.5803 336.2117 548.1092 331.789 542.3858 333.6101 542.3858 327.8867 530.1584 282.3593 550.1905 278.1968 553.8327 271.6929 576.9866 258.6851 587.1327 259.9858 600.921 269.6116 608.2054 270.1319 617.0507 266.2296 627.7171 269.6116 629.0179 271.6929 609.7663 308.375 610.0265 315.9195 603.7827 319.0414 605.6038 325.8054 612.3679 331.2687 619.6523 326.3258 632.1398 326.0656 643.8468 332.3094 652.6921 322.9437 667.7812 322.9437 674.2851 329.4476 681.0492 332.0492 682.35 335.6914 694.5773 345.8375 699 357.8047 694.057 361.4469 680.789 359.3656 676.1062 356.5039 673.2445 359.1055 663.3586 357.8047 653.2124 363.268 644.3671 361.9672 643.3265 367.6906 631.8796 366.9102 626.9366 369.2516 Z" id="MN.DD" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>MN.DD</code_hasc>
+        <name>Dornod</name>
+        <admin>Mongolia</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>2346160</woe_id>
+        <longitude>114</longitude>
+        <woe_name>Dornod</woe_name>
+        <fips>MG06</fips>
+        <woe_label>Dornod, MN, Mongolia</woe_label>
+        <latitude>48</latitude>
+        <iso_a2>MN</iso_a2>
+        <postal>DD</postal>
+        <type>Aimag|aymag</type>
+        <id>MN.DD</id>
+      </desc>
+    </path>
+    <path d="M 626.9366 369.2516 617.3108 385.6414 602.7421 393.186 582.4499 393.9665 572.8241 405.4133 562.9381 411.1368 543.6865 408.0149 536.4022 402.5516 527.0365 402.0313 519.2318 374.7149 510.9068 371.0727 511.4271 360.1461 518.7115 342.7156 523.3943 339.0734 529.3779 339.5937 530.4186 332.0492 542.3858 327.8867 542.3858 333.6101 548.1092 331.789 566.5803 336.2117 580.3686 344.7969 580.6288 354.6828 590.5147 364.0485 619.6523 360.6664 626.9366 369.2516 Z" id="MN.SB" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>4</labelrank>
+        <code_hasc>MN.SB</code_hasc>
+        <name>Sühbaatar</name>
+        <admin>Mongolia</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>2346171</woe_id>
+        <longitude>113</longitude>
+        <woe_name>Sühbaatar</woe_name>
+        <fips>MG17</fips>
+        <woe_label>Suhbaatar, MN, Mongolia</woe_label>
+        <latitude>46</latitude>
+        <iso_a2>MN</iso_a2>
+        <postal>SB</postal>
+        <type>Aimag|aymag</type>
+        <id>MN.SB</id>
+      </desc>
+    </path>
+  </g>
+</svg>

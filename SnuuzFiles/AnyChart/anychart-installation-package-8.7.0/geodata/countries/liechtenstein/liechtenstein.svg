@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="liechtenstein">
+    <path d="M 282.5491 147.0307 283.6127 146.9207 310.0571 128.0318 373.7327 112.3002 341.3463 147.8602 352.1634 147.1256 355.4085 153.7373 364.0622 147.1256 381.3695 158.8799 398.6768 161.0839 423.2366 186.4696 353.5015 193.1984 298.7238 176.1985 282.6683 147.8652 282.5491 147.0307 Z" id="LI.MA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <iso_a2>LI</iso_a2>
+        <name>Mauren</name>
+        <code_hasc>LI.MA</code_hasc>
+        <labelrank>20</labelrank>
+        <fips>LS04</fips>
+        <woe_id>20070538</woe_id>
+        <woe_label>Mauren, LI, Liechtenstein</woe_label>
+        <woe_name>Mauren</woe_name>
+        <latitude/>
+        <longtitude/>
+        <admin>Liechtenstein</admin>
+        <id>LI.MA</id>
+      </desc>
+    </path>
+    <path d="M 373.7327 112.3002 310.0571 128.0318 283.6127 146.9207 282.5491 147.0307 279.8349 128.0318 297.7794 110.0874 305.3349 94.0319 340.7613 47.7606 341.3463 47.9812 367.3073 65.6026 392.1866 92.0381 373.7327 112.3002 Z" id="LI.SB" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <iso_a2>LI</iso_a2>
+        <name>Schellenberg</name>
+        <code_hasc>LI.SB</code_hasc>
+        <labelrank>20</labelrank>
+        <fips>LS08</fips>
+        <woe_id>20070541</woe_id>
+        <woe_label>Schellenberg, LI, Liechtenstein</woe_label>
+        <woe_name>Schellenberg</woe_name>
+        <latitude/>
+        <longtitude/>
+        <admin>Liechtenstein</admin>
+        <id>LI.SB</id>
+      </desc>
+    </path>
+    <path d="M 408.8237 250.4723 374.2793 231.9206 341.2237 230.0317 316.5354 244.1393 248.6683 213.9762 243.9461 180.9207 258.8808 149.4792 282.5491 147.0307 282.6683 147.8652 298.7238 176.1985 353.5015 193.1984 423.2366 186.4696 423.5561 186.7998 425.7195 195.6176 447.3536 205.9056 433.2914 227.2184 432.2097 235.3033 408.8237 250.4723 Z" id="LI.ES" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <iso_a2>LI</iso_a2>
+        <name>Eschen</name>
+        <code_hasc>LI.ES</code_hasc>
+        <labelrank>20</labelrank>
+        <fips>LS02</fips>
+        <woe_id>20070537</woe_id>
+        <woe_label>Eschen, LI, Liechtenstein</woe_label>
+        <woe_name>Eschen</woe_name>
+        <latitude/>
+        <longtitude/>
+        <admin>Liechtenstein</admin>
+        <id>LI.ES</id>
+      </desc>
+    </path>
+    <path d="M 409.1373 577.434 389.3904 596.4757 410.1681 617.2534 439.4458 618.1979 446.0569 597.4201 432.3951 579.9634 446.0569 581.3646 481.0013 582.309 482.8902 621.9757 497.6776 662.3565 438.7 685.7337 419.2293 684.9967 362.9805 699 350 692.3667 345.6732 671.7316 321.8756 658.4674 307.2786 650.3885 305.3349 640.8645 281.7238 612.5312 275.1127 593.6424 242.0572 586.0868 227.1488 575.6509 240.7476 543.5555 240.7476 530.3015 221.0959 454.716 255.2794 450.087 301.8837 444.6041 321.3904 461.4203 333.6682 533.198 396.9459 555.8646 409.1373 577.434 Z" id="LI-TN" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <iso_a2>LI</iso_a2>
+        <name>Triesen</name>
+        <code_hasc>LI.TN</code_hasc>
+        <labelrank>20</labelrank>
+        <fips>LS09</fips>
+        <woe_id>20070532</woe_id>
+        <woe_label>Triesen, LI, Liechtenstein</woe_label>
+        <woe_name>Triesen</woe_name>
+        <latitude/>
+        <longtitude/>
+        <admin>Liechtenstein</admin>
+        <id>LI-TN</id>
+      </desc>
+    </path>
+    <path d="M 316.5354 244.1393 314.7793 245.1428 272.2794 251.7539 216.5572 251.7539 180.6684 237.5873 149.3223 227.8985 175.8452 190.4738 183.4171 158.8799 193.1525 143.4525 202.2729 132.7558 256.2239 149.754 258.8808 149.4792 243.9461 180.9207 248.6683 213.9762 316.5354 244.1393 Z" id="LI.GA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <iso_a2>LI</iso_a2>
+        <name>Gamprin</name>
+        <code_hasc>LI.GA</code_hasc>
+        <labelrank>20</labelrank>
+        <fips>LS03</fips>
+        <woe_id>20070539</woe_id>
+        <woe_label>Gamprin, LI, Liechtenstein</woe_label>
+        <woe_name>Gamprin</woe_name>
+        <latitude/>
+        <longtitude/>
+        <admin>Liechtenstein</admin>
+        <id>LI.GA</id>
+      </desc>
+    </path>
+    <path d="M 282.5491 147.0307 256.2239 149.754 202.2729 132.7558 240.7476 87.6319 268.872 34.7664 274.2805 24.4889 276.4439 1 293.7512 14.9462 306.7317 17.1483 303.4866 28.1594 321.8756 40.6395 340.7613 47.7606 305.3349 94.0319 297.7794 110.0874 279.8349 128.0318 282.5491 147.0307 Z" id="LI.RU" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <iso_a2>LI</iso_a2>
+        <name>Ruggell</name>
+        <code_hasc>LI.RU</code_hasc>
+        <labelrank>20</labelrank>
+        <fips>LS06</fips>
+        <woe_id>20070540</woe_id>
+        <woe_label>Ruggell, LI, Liechtenstein</woe_label>
+        <woe_name>Ruggell</woe_name>
+        <latitude/>
+        <longtitude/>
+        <admin>Liechtenstein</admin>
+        <id>LI.RU</id>
+      </desc>
+    </path>
+    <path d="M 370.3345 353.2225 352.5571 397.1982 316.6682 398.1426 306.2793 406.6426 303.446 444.4203 255.2794 450.087 221.0959 454.716 215.8683 434.6093 202.8878 405.1765 179.0903 382.3696 166.6526 361.6958 243.9461 373.5871 235.4461 323.5316 258.1127 330.1427 274.1683 347.1427 300.6127 336.7538 368.6126 351.8649 370.3345 353.2225 Z M 525.4808 571.8975 481.0347 583.009 481.0013 582.309 446.0569 581.3646 431.0687 579.8273 431.8903 519.0313 451.7236 515.2536 455.1673 512.843 455.5014 514.3091 507.9652 505.8774 528.2235 542.6424 525.4808 571.8975 Z" id="LI.VA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <iso_a2>LI</iso_a2>
+        <name>Vaduz</name>
+        <code_hasc>LI.VA</code_hasc>
+        <labelrank>20</labelrank>
+        <fips>LS11</fips>
+        <woe_id>20070531</woe_id>
+        <woe_label>Vaduz, LI, Liechtenstein</woe_label>
+        <woe_name>Vaduz</woe_name>
+        <latitude/>
+        <longtitude/>
+        <admin>Liechtenstein</admin>
+        <id>LI.VA</id>
+      </desc>
+    </path>
+    <path d="M 316.5354 244.1393 341.2237 230.0317 374.2793 231.9206 408.8237 250.4723 408.4122 250.7392 410.5756 299.2613 390.0232 305.879 388.9765 307.6579 345.0015 295.1983 311.946 270.6428 316.6682 244.1984 316.5354 244.1393 Z M 370.3345 353.2225 370.5015 352.8093 389.5224 317.2485 409.4939 318.3799 428.9646 313.9677 440.889 320.6005 418.8352 391.0502 417.7236 390.5871 370.3345 353.2225 Z" id="LI.PL" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <iso_a2>LI</iso_a2>
+        <name>Planken</name>
+        <code_hasc>LI.PL</code_hasc>
+        <labelrank>20</labelrank>
+        <fips>LS05</fips>
+        <woe_id>20070536</woe_id>
+        <woe_label>Planken, LI, Liechtenstein</woe_label>
+        <woe_name>Planken</woe_name>
+        <latitude/>
+        <longtitude/>
+        <admin>Liechtenstein</admin>
+        <id>LI.PL</id>
+      </desc>
+    </path>
+    <path d="M 547.1859 605.5582 525.3902 572.8646 528.2235 542.6424 507.9652 505.8774 508.3902 505.8091 563.0185 506.3395 572.8317 514.8399 582.567 514.1036 583.6487 519.2573 599.8743 533.2468 607.4463 550.9193 605.2829 573.0126 598.7926 590.6894 569.5865 592.8991 556.6061 606.8947 547.1859 605.5582 Z M 455.1673 512.843 451.7236 515.2536 431.8903 519.0313 431.0687 579.8273 409.2237 577.5868 396.9459 555.8646 333.6682 533.198 321.3904 461.4203 301.8837 444.6041 303.446 444.4203 306.2793 406.6426 316.6682 398.1426 352.5571 397.1982 370.3345 353.2225 417.7236 390.5871 418.8352 391.0502 409.2237 421.7537 438.5014 439.6981 455.1673 512.843 Z" id="LI.TB" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <iso_a2>LI</iso_a2>
+        <name>Triesenberg</name>
+        <code_hasc>LI.TB</code_hasc>
+        <labelrank>20</labelrank>
+        <fips>LS10</fips>
+        <woe_id>20070534</woe_id>
+        <woe_label>Triesenberg, LI, Liechtenstein</woe_label>
+        <woe_name>Triesenberg</woe_name>
+        <latitude>47.1284</latitude>
+        <longtitude>9.54858</longtitude>
+        <admin>Liechtenstein</admin>
+        <id>LI.TB</id>
+      </desc>
+    </path>
+    <path d="M 227.1488 575.6509 242.0572 586.0868 275.1127 593.6424 281.7238 612.5312 305.3349 640.8645 307.2786 650.3885 304.5683 648.8884 231.0122 663.6256 224.522 672.4685 189.9074 676.1532 179.0903 673.2054 179.0903 683.5228 161.783 676.1532 150.9659 676.1532 132.5769 699 122.8415 688.6817 122.8415 676.8901 108.7793 678.364 103.3708 689.4187 92.5537 659.2043 94.7171 647.4148 107.6976 640.7836 150.9659 623.1016 224.522 581.8508 227.1488 575.6509 Z M 418.8352 391.0502 440.889 320.6005 464.661 333.8235 484.1317 339.7071 498.1939 352.2105 494.9488 359.5659 505.7658 376.4845 519.828 386.7836 534.9719 388.9907 562.0146 375.0132 576.0768 393.4048 566.3414 408.8553 571.75 416.2132 571.75 433.8734 604.2012 449.3276 581.4696 470.1279 531.0568 474.6425 451.7236 404.7537 418.8352 391.0502 Z M 432.3951 579.9634 446.0569 597.4201 439.4458 618.1979 410.1681 617.2534 389.3904 596.4757 409.1373 577.434 409.2237 577.5868 432.3951 579.9634 Z" id="LI.BA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <iso_a2>LI</iso_a2>
+        <name>Balzers</name>
+        <code_hasc>LI.BA</code_hasc>
+        <labelrank>20</labelrank>
+        <fips>LS01</fips>
+        <woe_id>20070533</woe_id>
+        <woe_label>Balzers, LI, Liechtenstein</woe_label>
+        <woe_name>Balzers</woe_name>
+        <latitude/>
+        <longtitude/>
+        <admin>Liechtenstein</admin>
+        <id>LI.BA</id>
+      </desc>
+    </path>
+    <path d="M 389.5224 317.2485 370.5015 352.8093 370.3345 353.2225 368.6126 351.8649 300.6127 336.7538 274.1683 347.1427 258.1127 330.1427 235.4461 323.5316 243.9461 373.5871 166.6526 361.6958 149.8842 333.8235 133.6586 283.8209 143.3939 245.5937 147.7208 230.1583 149.3223 227.8985 180.6684 237.5873 216.5572 251.7539 272.2794 251.7539 314.7793 245.1428 316.5354 244.1393 316.6682 244.1984 311.946 270.6428 345.0015 295.1983 388.9765 307.6579 383.5329 316.9092 389.5224 317.2485 Z M 563.0185 506.3395 508.3902 505.8091 455.5014 514.3091 438.5014 439.6981 409.2237 421.7537 418.8352 391.0502 451.7236 404.7537 531.0568 474.6425 581.4696 470.1279 572.8317 478.0321 571.75 494.2265 560.9329 504.5329 563.0185 506.3395 Z M 481.0347 583.009 525.4808 571.8975 525.3902 572.8646 547.1859 605.5582 530.6451 603.2115 527.4 617.208 537.1353 629.7321 530.6451 641.5204 532.8085 648.1516 516.5829 662.1518 506.8475 658.4674 498.1939 662.1518 497.6776 662.3565 482.8902 621.9757 481.0347 583.009 Z" id="LI.SN" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <iso_a2>LI</iso_a2>
+        <name>Schaan</name>
+        <code_hasc>LI.SN</code_hasc>
+        <labelrank>20</labelrank>
+        <fips>LS07</fips>
+        <woe_id>20070535</woe_id>
+        <woe_label>Schaan, LI, Liechtenstein</woe_label>
+        <woe_name>Schaan</woe_name>
+        <latitude/>
+        <longtitude/>
+        <admin>Liechtenstein</admin>
+        <id>LI.SN</id>
+      </desc>
+    </path>
+  </g>
+</svg>

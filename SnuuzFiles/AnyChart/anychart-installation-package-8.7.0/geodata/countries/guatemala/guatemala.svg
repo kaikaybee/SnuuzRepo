@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="guatemala">
+    <path d="M 394.2623 455.165 342.8284 489.6784 339.4667 500.772 330.9504 502.2288 323.4426 499.2032 321.4256 496.0657 314.0299 499.9876 307.1944 497.6345 291.1703 501.7805 280.637 498.3068 271.5604 486.3167 272.3448 481.8345 257.4413 472.4217 245.1151 456.5097 246.2357 438.0204 275.0342 445.192 294.532 446.0885 300.0228 445.6402 306.1859 437.1239 323.3306 437.348 338.2341 446.6487 345.1816 440.1495 348.4312 431.4091 376.7815 436.0034 398.1843 432.7537 403.2268 439.7012 394.2623 455.165 Z" id="GT.BV" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>GT.BV</code_hasc>
+        <name>Baja Verapaz</name>
+        <admin>Guatemala</admin>
+        <type_en>Department</type_en>
+        <region/>
+        <woe_id>2345553</woe_id>
+        <longitude>-90</longitude>
+        <woe_name>Baja Verapaz</woe_name>
+        <fips>GT02</fips>
+        <woe_label>Baja Verapaz, GT, Guatemala</woe_label>
+        <latitude>15</latitude>
+        <iso_a2>GT</iso_a2>
+        <postal>BV</postal>
+        <type>Departamento</type>
+        <id>GT.BV</id>
+      </desc>
+    </path>
+    <path d="M 171.7181 436.6757 149.1947 442.7268 144.8245 453.8204 137.877 454.7168 132.9465 446.5367 121.8529 443.5112 105.4927 421.324 93.8388 423.9013 82.1849 419.419 67.8417 425.0218 59.4375 433.314 50.9212 432.8658 47.2233 411.2389 40.9481 403.0588 102.3551 299.9668 225.2811 299.1824 189.423 369.5539 173.6231 377.9581 169.477 395.7751 180.3464 413.368 193.4571 415.6091 194.3535 431.7452 184.7166 431.7452 171.7181 436.6757 Z" id="GT.HU" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>GT.HU</code_hasc>
+        <name>Huehuetenango</name>
+        <admin>Guatemala</admin>
+        <type_en>Department</type_en>
+        <region/>
+        <woe_id>2345559</woe_id>
+        <longitude>-91</longitude>
+        <woe_name>Huehuetenango</woe_name>
+        <fips>GT08</fips>
+        <woe_label>Huehuetenango, GT, Guatemala</woe_label>
+        <latitude>15</latitude>
+        <iso_a2>GT</iso_a2>
+        <postal>HU</postal>
+        <type>Departamento</type>
+        <id>GT.HU</id>
+      </desc>
+    </path>
+    <path d="M 515.7316 326.7483 495.5614 325.7398 489.2862 334.5922 470.1246 337.9539 468.6678 328.205 444.1275 330.222 431.0169 322.7142 423.8452 326.188 413.9843 326.3 408.1573 317.5596 399.3049 315.8788 394.2623 308.8192 391.7971 311.9568 386.3063 309.4916 381.824 311.2845 353.6979 302.32 315.5987 297.6136 317.7277 292.9072 314.254 294.2519 313.6937 291.3384 317.6157 287.9767 315.4866 284.8391 319.1845 283.3824 313.2455 279.0122 313.8057 273.4094 317.7277 270.9441 313.6937 267.0222 318.8483 266.2378 317.8398 261.5314 321.2015 262.0917 316.0469 258.6179 322.6582 254.6959 323.6667 251.8945 320.0809 250.9981 320.4171 248.5328 326.8043 248.5328 324.3391 239.6804 311.0043 237.7754 307.4185 231.3882 301.5916 232.7329 299.7987 227.5783 285.1193 228.6988 288.593 224.5527 282.654 220.8549 285.0072 210.0974 279.5165 210.9939 281.6455 205.9514 279.4044 199.7882 268.3108 183.7642 257.6654 176.8167 255.9846 172.4465 252.5108 173.6791 238.1676 168.4124 229.9875 161.8011 232.2286 157.655 227.1861 157.3188 226.0655 161.8011 215.8684 156.0862 204.2145 136.1402 196.8188 135.4678 187.2939 120.7884 182.4755 118.9955 179.2259 109.4707 165.2188 107.7899 163.8741 103.6438 152.5564 99.4977 153.2288 96.8083 226.4017 97.3686 226.962 3.4652 231.6683 1.1121 526.2649 1 528.8422 133.787 515.7316 326.7483 Z" id="GT.PE" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>GT.PE</code_hasc>
+        <name>Petén</name>
+        <admin>Guatemala</admin>
+        <type_en>Department</type_en>
+        <region/>
+        <woe_id>2345563</woe_id>
+        <longitude>-90</longitude>
+        <woe_name>Petén</woe_name>
+        <fips>GT12</fips>
+        <woe_label>Peten, GT, Guatemala</woe_label>
+        <latitude>16</latitude>
+        <iso_a2>GT</iso_a2>
+        <postal>PE</postal>
+        <type>Departamento</type>
+        <id>GT.PE</id>
+      </desc>
+    </path>
+    <path d="M 137.877 454.7168 125.7749 459.3111 126.2231 465.6983 134.7394 493.0401 137.765 496.8501 145.6089 496.738 152.5564 512.538 145.6089 525.8727 138.7735 530.355 123.1976 531.3635 118.9395 536.5181 111.5437 538.8712 107.2856 537.1904 110.4232 526.545 108.2941 525.6486 97.2005 532.9323 81.1764 562.2911 69.4105 564.3081 57.0843 559.4896 54.3949 560.8343 49.1283 546.1549 34.4489 542.7932 47.3354 530.5791 65.6006 525.8727 85.4346 525.6486 98.209 504.9181 101.4587 492.4799 110.4232 484.5238 112.104 475.5593 106.3891 465.3622 121.8529 443.5112 132.9465 446.5367 137.877 454.7168 Z" id="GT.QZ" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>GT.QZ</code_hasc>
+        <name>Quezaltenango</name>
+        <admin>Guatemala</admin>
+        <type_en>Department</type_en>
+        <region/>
+        <woe_id>2345564</woe_id>
+        <longitude>-91</longitude>
+        <woe_name>Quezaltenango</woe_name>
+        <fips>GT13</fips>
+        <woe_label>Quetzaltenango, GT, Guatemala</woe_label>
+        <latitude>14</latitude>
+        <iso_a2>GT</iso_a2>
+        <postal>QZ</postal>
+        <type>Departamento</type>
+        <id>GT.QZ</id>
+      </desc>
+    </path>
+    <path d="M 138.7735 530.355 129.5848 539.6556 129.0246 546.9393 122.3012 560.274 122.9735 594.6754 117.4827 616.3023 112.4402 623.698 113.5608 631.9902 72.0999 603.1917 30.0787 568.118 54.3949 560.8343 57.0843 559.4896 69.4105 564.3081 81.1764 562.2911 97.2005 532.9323 108.2941 525.6486 110.4232 526.545 107.2856 537.1904 111.5437 538.8712 118.9395 536.5181 123.1976 531.3635 138.7735 530.355 Z" id="GT.RE" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>GT.RE</code_hasc>
+        <name>Retalhuleu</name>
+        <admin>Guatemala</admin>
+        <type_en>Department</type_en>
+        <region/>
+        <woe_id>2345566</woe_id>
+        <longitude>-91</longitude>
+        <woe_name>Retalhuleu</woe_name>
+        <fips>GT15</fips>
+        <woe_label>Retalhuleu, GT, Guatemala</woe_label>
+        <latitude>14</latitude>
+        <iso_a2>GT</iso_a2>
+        <postal>RE</postal>
+        <type>Departamento</type>
+        <id>GT.RE</id>
+      </desc>
+    </path>
+    <path d="M 121.8529 443.5112 106.3891 465.3622 112.104 475.5593 110.4232 484.5238 101.4587 492.4799 98.209 504.9181 85.4346 525.6486 65.6006 525.8727 47.3354 530.5791 34.4489 542.7932 49.1283 546.1549 54.3949 560.8343 30.0787 568.118 16.2957 557.9209 22.6829 553.7748 30.6389 534.6131 25.8205 508.616 31.9836 497.5224 32.2077 481.2742 40.612 477.5763 45.7666 468.0515 24.4758 440.0374 23.2432 433.9864 40.9481 403.0588 47.2233 411.2389 50.9212 432.8658 59.4375 433.314 67.8417 425.0218 82.1849 419.419 93.8388 423.9013 105.4927 421.324 121.8529 443.5112 Z" id="GT.SM" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>GT.SM</code_hasc>
+        <name>San Marcos</name>
+        <admin>Guatemala</admin>
+        <type_en>Department</type_en>
+        <region/>
+        <woe_id>2345568</woe_id>
+        <longitude>-91</longitude>
+        <woe_name>San Marcos</woe_name>
+        <fips>GT17</fips>
+        <woe_label>San Marcos, GT, Guatemala</woe_label>
+        <latitude>15</latitude>
+        <iso_a2>GT</iso_a2>
+        <postal>SM</postal>
+        <type>Departamento</type>
+        <id>GT.SM</id>
+      </desc>
+    </path>
+    <path d="M 489.2862 334.5922 475.2792 349.4957 467.2111 353.978 445.6963 386.0262 457.7984 399.585 454.5487 406.4205 449.5062 409.558 448.1615 429.6162 455.109 451.0189 427.8793 455.053 416.2254 452.2516 409.9502 454.6048 394.2623 455.165 403.2268 439.7012 398.1843 432.7537 376.7815 436.0034 348.4312 431.4091 345.1816 440.1495 338.2341 446.6487 323.3306 437.348 306.1859 437.1239 310.5561 425.4701 281.8696 419.8672 273.2413 414.6006 272.7931 406.4205 283.6625 403.619 282.3179 400.5935 290.8342 392.1893 283.6625 380.7595 284.8952 375.6049 281.4214 370.2262 260.4668 365.9681 262.1477 360.8135 258.6739 357.3397 261.0271 356.1071 254.3037 353.7539 262.708 338.6263 268.5349 333.6958 267.5264 330.7823 263.3803 330.3341 267.9746 321.0334 263.3803 316.327 270.1037 312.8533 272.9051 314.5341 273.4654 308.259 284.7831 303.4405 287.1363 305.9058 291.6186 304.6731 289.2654 308.259 297.3334 311.6206 299.5746 309.3795 312.0128 309.3795 317.5036 305.4575 318.288 300.0788 315.4866 297.7256 315.5987 297.6136 353.6979 302.32 381.824 311.2845 386.3063 309.4916 391.7971 311.9568 394.2623 308.8192 399.3049 315.8788 408.1573 317.5596 413.9843 326.3 423.8452 326.188 431.0169 322.7142 444.1275 330.222 468.6678 328.205 470.1246 337.9539 489.2862 334.5922 Z" id="GT.AV" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>GT.AV</code_hasc>
+        <name>Alta Verapaz</name>
+        <admin>Guatemala</admin>
+        <type_en>Department</type_en>
+        <region/>
+        <woe_id>2345552</woe_id>
+        <longitude>-90</longitude>
+        <woe_name>Alta Verapaz</woe_name>
+        <fips>GT01</fips>
+        <woe_label>Alta Verapaz, GT, Guatemala</woe_label>
+        <latitude>15</latitude>
+        <iso_a2>GT</iso_a2>
+        <postal>AV</postal>
+        <type>Departamento</type>
+        <id>GT.AV</id>
+      </desc>
+    </path>
+    <path d="M 280.637 498.3068 278.8441 503.2373 268.3108 508.3919 262.708 519.8216 259.5704 526.6571 261.5874 538.0869 246.1236 556.24 241.7534 569.0144 233.7974 575.8499 227.074 587.1676 225.057 580.5563 220.7988 582.6853 215.6442 579.3236 209.257 581.5648 204.9989 578.9875 207.6882 566.5492 204.5507 561.8428 206.0074 544.4741 212.2825 525.3124 209.145 511.4174 214.8598 508.1678 219.6783 495.9536 227.5222 492.2557 248.2527 491.8075 280.637 498.3068 Z" id="GT.CM" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>GT.CM</code_hasc>
+        <name>Chimaltenango</name>
+        <admin>Guatemala</admin>
+        <type_en>Department</type_en>
+        <region/>
+        <woe_id>2345554</woe_id>
+        <longitude>-90</longitude>
+        <woe_name>Chimaltenango</woe_name>
+        <fips>GT03</fips>
+        <woe_label>Chimaltenango, GT, Guatemala</woe_label>
+        <latitude>14</latitude>
+        <iso_a2>GT</iso_a2>
+        <postal>CM</postal>
+        <type>Departamento</type>
+        <id>GT.CM</id>
+      </desc>
+    </path>
+    <path d="M 281.6455 572.6003 283.7746 578.9875 290.7221 581.7889 295.8767 608.9066 292.1788 616.4144 304.0568 618.0952 293.6356 625.1548 297.3334 632.5505 285.4555 643.1959 285.3434 666.2795 272.0087 664.8228 238.1676 667.7362 195.5861 664.9348 170.3734 659.8923 135.1877 644.0923 134.9636 638.0413 147.1777 619.776 146.8415 601.5108 154.2373 602.0711 154.4614 591.5378 161.4089 587.2797 165.667 602.0711 173.511 598.2612 174.4074 604.2002 194.9138 605.9931 204.9989 578.9875 209.257 581.5648 215.6442 579.3236 220.7988 582.6853 225.057 580.5563 227.074 587.1676 233.7974 575.8499 241.7534 569.0144 253.4073 583.4697 267.1902 572.3761 271.0002 576.8584 281.6455 572.6003 Z" id="GT.ES" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>GT.ES</code_hasc>
+        <name>Escuintla</name>
+        <admin>Guatemala</admin>
+        <type_en>Department</type_en>
+        <region/>
+        <woe_id>2345557</woe_id>
+        <longitude>-91</longitude>
+        <woe_name>Escuintla</woe_name>
+        <fips>GT06</fips>
+        <woe_label>Escuintla, GT, Guatemala</woe_label>
+        <latitude>14</latitude>
+        <iso_a2>GT</iso_a2>
+        <postal>ES</postal>
+        <type>Departamento</type>
+        <id>GT.ES</id>
+      </desc>
+    </path>
+    <path d="M 323.4426 499.2032 321.2015 506.4869 330.5022 506.2628 332.6312 508.616 333.5277 524.416 355.1546 537.5266 345.7419 548.284 342.4922 564.8684 331.7348 571.0315 330.0539 566.8854 325.3476 567.8939 315.3745 586.4953 316.0469 596.5803 295.8767 608.9066 290.7221 581.7889 283.7746 578.9875 281.6455 572.6003 287.1363 542.4571 274.9221 524.7521 268.759 524.6401 262.708 519.8216 268.3108 508.3919 278.8441 503.2373 280.637 498.3068 291.1703 501.7805 307.1944 497.6345 314.0299 499.9876 321.4256 496.0657 323.4426 499.2032 Z" id="GT.GU" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>GT.GU</code_hasc>
+        <name>Guatemala</name>
+        <admin>Guatemala</admin>
+        <type_en>Department</type_en>
+        <region/>
+        <woe_id>2345558</woe_id>
+        <longitude>-90</longitude>
+        <woe_name>Guatemala</woe_name>
+        <fips>GT07</fips>
+        <woe_label>Guatemala, GT, Guatemala</woe_label>
+        <latitude>14</latitude>
+        <iso_a2>GT</iso_a2>
+        <postal>GU</postal>
+        <type>Departamento</type>
+        <id>GT.GU</id>
+      </desc>
+    </path>
+    <path d="M 204.5507 561.8428 207.6882 566.5492 204.9989 578.9875 194.9138 605.9931 174.4074 604.2002 173.511 598.2612 165.667 602.0711 161.4089 587.2797 154.4614 591.5378 154.2373 602.0711 146.8415 601.5108 147.1777 619.776 134.9636 638.0413 135.1877 644.0923 113.5608 631.9902 112.4402 623.698 117.4827 616.3023 122.9735 594.6754 122.3012 560.274 129.0246 546.9393 129.5848 539.6556 138.7735 530.355 145.6089 525.8727 149.1947 534.7252 144.3763 544.5861 146.8415 546.9393 156.5905 548.6202 157.9351 541.4485 162.0812 539.8798 166.5635 543.3535 173.2869 542.9053 180.5706 549.9648 181.8032 557.8088 193.345 554.6712 204.5507 561.8428 Z" id="GT.SU" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>GT.SU</code_hasc>
+        <name>Suchitepéquez</name>
+        <admin>Guatemala</admin>
+        <type_en>Department</type_en>
+        <region/>
+        <woe_id>2345571</woe_id>
+        <longitude>-91</longitude>
+        <woe_name>Suchitepéquez</woe_name>
+        <fips>GT20</fips>
+        <woe_label>Suchitepequez, GT, Guatemala</woe_label>
+        <latitude>14</latitude>
+        <iso_a2>GT</iso_a2>
+        <postal>SU</postal>
+        <type>Departamento</type>
+        <id>GT.SU</id>
+      </desc>
+    </path>
+    <path d="M 281.6455 572.6003 271.0002 576.8584 267.1902 572.3761 253.4073 583.4697 241.7534 569.0144 246.1236 556.24 261.5874 538.0869 259.5704 526.6571 262.708 519.8216 268.759 524.6401 274.9221 524.7521 287.1363 542.4571 281.6455 572.6003 Z" id="GT.SA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>GT.SA</code_hasc>
+        <name>Sacatepéquez</name>
+        <admin>Guatemala</admin>
+        <type_en>Department</type_en>
+        <region/>
+        <woe_id>2345567</woe_id>
+        <longitude>-90</longitude>
+        <woe_name>Sacatepéquez</woe_name>
+        <fips>GT16</fips>
+        <woe_label>Sacatepequez, GT, Guatemala</woe_label>
+        <latitude>14</latitude>
+        <iso_a2>GT</iso_a2>
+        <postal>SA</postal>
+        <type>Departamento</type>
+        <id>GT.SA</id>
+      </desc>
+    </path>
+    <path d="M 209.145 511.4174 212.2825 525.3124 206.0074 544.4741 204.5507 561.8428 193.345 554.6712 181.8032 557.8088 180.5706 549.9648 173.2869 542.9053 166.5635 543.3535 162.0812 539.8798 157.9351 541.4485 156.5905 548.6202 146.8415 546.9393 144.3763 544.5861 149.1947 534.7252 145.6089 525.8727 152.5564 512.538 162.3053 505.1422 185.6131 505.4784 193.345 496.8501 204.3265 506.0387 202.6457 514.555 206.4556 510.4089 209.145 511.4174 Z" id="GT.SO" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>GT.SO</code_hasc>
+        <name>Sololá</name>
+        <admin>Guatemala</admin>
+        <type_en>Department</type_en>
+        <region/>
+        <woe_id>2345570</woe_id>
+        <longitude>-91</longitude>
+        <woe_name>Sololá</woe_name>
+        <fips>GT19</fips>
+        <woe_label>Solola, GT, Guatemala</woe_label>
+        <latitude>14</latitude>
+        <iso_a2>GT</iso_a2>
+        <postal>SO</postal>
+        <type>Departamento</type>
+        <id>GT.SO</id>
+      </desc>
+    </path>
+    <path d="M 171.7181 436.6757 171.7181 447.097 180.1223 454.7168 184.9408 465.026 178.3294 474.5508 188.8627 486.765 188.1904 492.704 193.345 496.8501 185.6131 505.4784 162.3053 505.1422 152.5564 512.538 145.6089 496.738 137.765 496.8501 134.7394 493.0401 126.2231 465.6983 125.7749 459.3111 137.877 454.7168 144.8245 453.8204 149.1947 442.7268 171.7181 436.6757 Z" id="GT.TO" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>GT.TO</code_hasc>
+        <name>Totonicapán</name>
+        <admin>Guatemala</admin>
+        <type_en>Department</type_en>
+        <region/>
+        <woe_id>2345572</woe_id>
+        <longitude>-91</longitude>
+        <woe_name>Totonicapán</woe_name>
+        <fips>GT21</fips>
+        <woe_label>Totonicapan, GT, Guatemala</woe_label>
+        <latitude>15</latitude>
+        <iso_a2>GT</iso_a2>
+        <postal>TO</postal>
+        <type>Departamento</type>
+        <id>GT.TO</id>
+      </desc>
+    </path>
+    <path d="M 417.346 502.9011 410.7346 503.4614 397.8481 515.3394 383.3928 519.0372 377.678 529.3464 365.3517 529.9067 355.1546 537.5266 333.5277 524.416 332.6312 508.616 330.5022 506.2628 321.2015 506.4869 323.4426 499.2032 330.9504 502.2288 339.4667 500.772 342.8284 489.6784 394.2623 455.165 409.9502 454.6048 423.5091 474.4388 423.7332 476.6799 414.3204 477.9125 423.5091 490.6869 428.8878 493.0401 428.2154 497.2983 421.0438 498.755 417.346 502.9011 Z" id="GT.PR" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>GT.PR</code_hasc>
+        <name>El Progreso</name>
+        <admin>Guatemala</admin>
+        <type_en>Department</type_en>
+        <region/>
+        <woe_id>2345556</woe_id>
+        <longitude>-90</longitude>
+        <woe_name>El Progreso</woe_name>
+        <fips>GT05</fips>
+        <woe_label>El Progreso, GT, Guatemala</woe_label>
+        <latitude>14</latitude>
+        <iso_a2>GT</iso_a2>
+        <postal>PR</postal>
+        <type>Departamento</type>
+        <id>GT.PR</id>
+      </desc>
+    </path>
+    <path d="M 381.2638 578.6513 376.3333 592.0981 364.1191 594.7874 358.1801 609.4668 369.2737 613.8371 380.2553 623.698 380.1432 640.8427 363.895 656.6426 345.7419 648.7987 341.3716 651.0398 351.5688 678.3816 350 688.8029 306.6341 670.6497 285.3434 666.2795 285.4555 643.1959 297.3334 632.5505 293.6356 625.1548 304.0568 618.0952 292.1788 616.4144 295.8767 608.9066 316.0469 596.5803 315.3745 586.4953 325.3476 567.8939 330.0539 566.8854 331.7348 571.0315 342.4922 564.8684 345.8539 568.2301 368.6014 564.084 370.9546 570.4712 381.2638 578.6513 Z" id="GT.SR" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>GT.SR</code_hasc>
+        <name>Santa Rosa</name>
+        <admin>Guatemala</admin>
+        <type_en>Department</type_en>
+        <region/>
+        <woe_id>2345569</woe_id>
+        <longitude>-90</longitude>
+        <woe_name>Santa Rosa</woe_name>
+        <fips>GT18</fips>
+        <woe_label>Santa Rosa, GT, Guatemala</woe_label>
+        <latitude>14</latitude>
+        <iso_a2>GT</iso_a2>
+        <postal>SR</postal>
+        <type>Departamento</type>
+        <id>GT.SR</id>
+      </desc>
+    </path>
+    <path d="M 531.3074 469.1721 525.5926 463.9054 522.6791 447.3211 526.7131 442.3906 526.9372 435.4431 520.6621 430.6247 510.0167 430.6247 484.0196 442.9509 455.109 451.0189 448.1615 429.6162 449.5062 409.558 454.5487 406.4205 457.7984 399.585 445.6963 386.0262 467.2111 353.978 475.2792 349.4957 489.2862 334.5922 495.5614 325.7398 515.7316 326.7483 516.9642 331.1185 525.3684 327.7568 548.0039 327.3086 562.6833 331.0064 568.9584 328.5412 576.8024 334.144 589.913 334.2561 595.5158 337.5057 596.1882 341.0915 616.6945 352.073 615.1257 360.9255 619.4959 360.8135 621.8491 358.6844 620.0562 353.8659 623.9782 353.5298 629.1328 344.3411 627.7881 335.0405 629.1328 337.3936 639.2179 335.9369 619.4959 320.4731 617.3668 318.0079 619.72 315.2065 683.7043 356.2191 680.3426 362.6064 668.0164 365.0716 654.5696 382.5524 559.9939 457.1821 531.3074 469.1721 Z" id="GT.IZ" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>GT.IZ</code_hasc>
+        <name>Izabal</name>
+        <admin>Guatemala</admin>
+        <type_en>Department</type_en>
+        <region/>
+        <woe_id>2345560</woe_id>
+        <longitude>-88</longitude>
+        <woe_name>Izabal</woe_name>
+        <fips>GT09</fips>
+        <woe_label>Izabal, GT, Guatemala</woe_label>
+        <latitude>15</latitude>
+        <iso_a2>GT</iso_a2>
+        <postal>IZ</postal>
+        <type>Departamento</type>
+        <id>GT.IZ</id>
+      </desc>
+    </path>
+    <path d="M 524.472 496.2898 517.3004 507.2713 532.0918 531.1393 529.5145 552.8783 515.3954 554.335 502.621 569.0144 497.1302 571.1435 496.2337 581.3407 491.4153 577.8669 490.2948 579.5478 490.0706 576.2981 484.6919 580.8924 473.8224 580.2201 471.2451 576.2981 473.7104 566.6613 470.909 562.9634 456.7899 562.9634 450.9629 555.3436 442.2225 553.8868 439.8693 553.8868 446.3686 533.7166 445.136 522.7351 443.6792 519.5975 433.5942 519.3734 437.9644 504.4699 444.5757 498.643 457.4622 504.3578 468.7799 505.0302 484.5799 495.3933 491.8635 498.0827 502.733 495.2813 508.3358 497.5224 520.55 490.1267 524.472 496.2898 Z" id="GT.CQ" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>GT.CQ</code_hasc>
+        <name>Chiquimula</name>
+        <admin>Guatemala</admin>
+        <type_en>Department</type_en>
+        <region/>
+        <woe_id>2345555</woe_id>
+        <longitude>-89</longitude>
+        <woe_name>Chiquimula</woe_name>
+        <fips>GT04</fips>
+        <woe_label>Chiquimula, GT, Guatemala</woe_label>
+        <latitude>14</latitude>
+        <iso_a2>GT</iso_a2>
+        <postal>CQ</postal>
+        <type>Departamento</type>
+        <id>GT.CQ</id>
+      </desc>
+    </path>
+    <path d="M 417.346 502.9011 416.1133 505.8146 424.0694 518.3649 433.5942 519.3734 443.6792 519.5975 445.136 522.7351 446.3686 533.7166 439.8693 553.8868 442.2225 553.8868 443.4551 559.9379 429.4481 567.1095 424.9658 563.1875 420.5956 563.8598 411.2949 570.135 409.0538 578.091 399.529 571.7038 391.7971 578.5393 381.2638 578.6513 370.9546 570.4712 368.6014 564.084 345.8539 568.2301 342.4922 564.8684 345.7419 548.284 355.1546 537.5266 365.3517 529.9067 377.678 529.3464 383.3928 519.0372 397.8481 515.3394 410.7346 503.4614 417.346 502.9011 Z" id="GT.JA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>GT.JA</code_hasc>
+        <name>Jalapa</name>
+        <admin>Guatemala</admin>
+        <type_en>Department</type_en>
+        <region/>
+        <woe_id>2345561</woe_id>
+        <longitude>-89</longitude>
+        <woe_name>Jalapa</woe_name>
+        <fips>GT10</fips>
+        <woe_label>Jalapa, GT, Guatemala</woe_label>
+        <latitude>14</latitude>
+        <iso_a2>GT</iso_a2>
+        <postal>JA</postal>
+        <type>Departamento</type>
+        <id>GT.JA</id>
+      </desc>
+    </path>
+    <path d="M 473.8224 580.2201 466.3147 587.2797 463.9615 582.3492 458.1345 586.6073 460.5998 592.2101 456.9019 596.4683 463.5132 600.7264 469.2281 612.8285 441.6622 623.4739 431.353 639.7221 432.1374 646.1093 429.6722 647.454 417.458 642.5235 386.1943 663.4781 371.4028 682.0795 374.6524 699 350 688.8029 351.5688 678.3816 341.3716 651.0398 345.7419 648.7987 363.895 656.6426 380.1432 640.8427 380.2553 623.698 369.2737 613.8371 358.1801 609.4668 364.1191 594.7874 376.3333 592.0981 381.2638 578.6513 391.7971 578.5393 399.529 571.7038 409.0538 578.091 411.2949 570.135 420.5956 563.8598 424.9658 563.1875 429.4481 567.1095 443.4551 559.9379 442.2225 553.8868 450.9629 555.3436 456.7899 562.9634 470.909 562.9634 473.7104 566.6613 471.2451 576.2981 473.8224 580.2201 Z" id="GT.JU" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>GT.JU</code_hasc>
+        <name>Jutiapa</name>
+        <admin>Guatemala</admin>
+        <type_en>Department</type_en>
+        <region/>
+        <woe_id>2345562</woe_id>
+        <longitude>-89</longitude>
+        <woe_name>Jutiapa</woe_name>
+        <fips>GT11</fips>
+        <woe_label>Jutiapa, GT, Guatemala</woe_label>
+        <latitude>14</latitude>
+        <iso_a2>GT</iso_a2>
+        <postal>JU</postal>
+        <type>Departamento</type>
+        <id>GT.JU</id>
+      </desc>
+    </path>
+    <path d="M 531.3074 469.1721 524.472 482.0586 527.7216 489.5664 524.472 496.2898 520.55 490.1267 508.3358 497.5224 502.733 495.2813 491.8635 498.0827 484.5799 495.3933 468.7799 505.0302 457.4622 504.3578 444.5757 498.643 437.9644 504.4699 433.5942 519.3734 424.0694 518.3649 416.1133 505.8146 417.346 502.9011 421.0438 498.755 428.2154 497.2983 428.8878 493.0401 423.5091 490.6869 414.3204 477.9125 423.7332 476.6799 423.5091 474.4388 409.9502 454.6048 416.2254 452.2516 427.8793 455.053 455.109 451.0189 484.0196 442.9509 510.0167 430.6247 520.6621 430.6247 526.9372 435.4431 526.7131 442.3906 522.6791 447.3211 525.5926 463.9054 531.3074 469.1721 Z" id="GT.ZA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>GT.ZA</code_hasc>
+        <name>Zacapa</name>
+        <admin>Guatemala</admin>
+        <type_en>Department</type_en>
+        <region/>
+        <woe_id>2345573</woe_id>
+        <longitude>-89</longitude>
+        <woe_name>Zacapa</woe_name>
+        <fips>GT22</fips>
+        <woe_label>Zacapa, GT, Guatemala</woe_label>
+        <latitude>15</latitude>
+        <iso_a2>GT</iso_a2>
+        <postal>ZA</postal>
+        <type>Departamento</type>
+        <id>GT.ZA</id>
+      </desc>
+    </path>
+    <path d="M 306.1859 437.1239 300.0228 445.6402 294.532 446.0885 275.0342 445.192 246.2357 438.0204 245.1151 456.5097 257.4413 472.4217 272.3448 481.8345 271.5604 486.3167 280.637 498.3068 248.2527 491.8075 227.5222 492.2557 219.6783 495.9536 214.8598 508.1678 209.145 511.4174 206.4556 510.4089 202.6457 514.555 204.3265 506.0387 193.345 496.8501 188.1904 492.704 188.8627 486.765 178.3294 474.5508 184.9408 465.026 180.1223 454.7168 171.7181 447.097 171.7181 436.6757 184.7166 431.7452 194.3535 431.7452 193.4571 415.6091 180.3464 413.368 169.477 395.7751 173.6231 377.9581 189.423 369.5539 225.2811 299.1824 315.4866 297.7256 318.288 300.0788 317.5036 305.4575 312.0128 309.3795 299.5746 309.3795 297.3334 311.6206 289.2654 308.259 291.6186 304.6731 287.1363 305.9058 284.7831 303.4405 273.4654 308.259 272.9051 314.5341 270.1037 312.8533 263.3803 316.327 267.9746 321.0334 263.3803 330.3341 267.5264 330.7823 268.5349 333.6958 262.708 338.6263 254.3037 353.7539 261.0271 356.1071 258.6739 357.3397 262.1477 360.8135 260.4668 365.9681 281.4214 370.2262 284.8952 375.6049 283.6625 380.7595 290.8342 392.1893 282.3179 400.5935 283.6625 403.619 272.7931 406.4205 273.2413 414.6006 281.8696 419.8672 310.5561 425.4701 306.1859 437.1239 Z" id="GT.QC" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>GT.QC</code_hasc>
+        <name>Quiché</name>
+        <admin>Guatemala</admin>
+        <type_en>Department</type_en>
+        <region/>
+        <woe_id>2345565</woe_id>
+        <longitude>-90</longitude>
+        <woe_name>Quiché</woe_name>
+        <fips>GT14</fips>
+        <woe_label>Quiche, GT, Guatemala</woe_label>
+        <latitude>15</latitude>
+        <iso_a2>GT</iso_a2>
+        <postal>QC</postal>
+        <type>Departamento</type>
+        <id>GT.QC</id>
+      </desc>
+    </path>
+  </g>
+</svg>

@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="dominican_republic">
+    <path d="M 279.9506 197.1024 279.1151 201.1187 273.6575 208.4845 272.9353 222.3532 267.1898 226.6167 242.982 235.9099 241.5947 239.9458 246.1268 243.4808 251.8838 245.1358 254.8101 250.3754 253.884 262.8597 244.8637 262.0313 242.5106 267.3578 232.5255 274.7499 208.9092 285.5854 210.2557 289.8301 209.3767 294.2407 199.6018 291.0384 190.6071 294.0923 182.104 291.3414 170.1848 282.5738 168.087 274.6628 150.2215 264.8419 151.1163 252.5462 148.0298 249.5557 147.4102 245.363 148.7291 233.2269 160.1991 222.2746 167.3132 222.5437 181.4432 217.0257 177.3775 213.2498 180.3575 205.9504 193.7876 211.9594 196.5172 211.6312 200.0375 206.9737 207.785 210.4026 216.083 210.4432 216.8723 206.9259 212.604 203.6408 214.2143 192.4638 208.7184 189.3596 206.9577 181.7633 211.6016 185.1206 216.436 184.5421 220.5498 171.8609 231.6161 174.8531 239.9792 182.2748 248.4089 181.9751 249.208 170.3011 259.2231 174.8509 268.5007 193.3585 279.9506 197.1024 Z" id="DO.ST" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>DO.ST</code_hasc>
+        <name>Santiago</name>
+        <admin>Dominican Republic</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>2345193</woe_id>
+        <longitude>-70</longitude>
+        <woe_name>Santiago</woe_name>
+        <fips>DR25</fips>
+        <woe_label>Santiago, DO, Dominican Republic</woe_label>
+        <latitude>19</latitude>
+        <iso_a2>DO</iso_a2>
+        <postal>ST</postal>
+        <type>Provincia</type>
+        <id>DO.ST</id>
+      </desc>
+    </path>
+    <path d="M 159.9583 192.0796 166.495 203.2868 180.3575 205.9504 177.3775 213.2498 181.4432 217.0257 167.3132 222.5437 160.1991 222.2746 148.7291 233.2269 147.4102 245.363 148.0298 249.5557 151.1163 252.5462 150.2215 264.8419 140.1565 264.6088 132.0294 260.4449 115.4171 251.5811 109.6821 243.7164 101.9239 238.5825 96.9754 230.7159 106.2667 226.7465 109.8778 205.4699 112.323 197.0928 116.8172 189.9014 119.3619 186.7545 128.2751 191.4337 142.1301 188.7009 147.9664 192.2226 153.89 192.855 156.7075 190.9327 159.9583 192.0796 Z" id="DO.SR" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>DO.SR</code_hasc>
+        <name>Santiago Rodríguez</name>
+        <admin>Dominican Republic</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>2345194</woe_id>
+        <longitude>-71</longitude>
+        <woe_name>Santiago Rodríguez</woe_name>
+        <fips>DR26</fips>
+        <woe_label>Santiago Rodriguez, DO, Dominican Republic</woe_label>
+        <latitude>19</latitude>
+        <iso_a2>DO</iso_a2>
+        <postal>SR</postal>
+        <type>Provincia</type>
+        <id>DO.SR</id>
+      </desc>
+    </path>
+    <path d="M 220.5498 171.8609 216.436 184.5421 211.6016 185.1206 206.9577 181.7633 208.7184 189.3596 214.2143 192.4638 212.604 203.6408 216.8723 206.9259 216.083 210.4432 207.785 210.4026 200.0375 206.9737 196.5172 211.6312 193.7876 211.9594 180.3575 205.9504 166.495 203.2868 159.9583 192.0796 162.199 185.2708 161.127 178.0085 162.3647 173.7831 166.9369 174.3037 166.1051 161.1225 169.9679 149.3782 186.577 158.0392 199.2668 161.9265 212.6247 170.7246 220.5498 171.8609 Z" id="DO.VA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>DO.VA</code_hasc>
+        <name>Valverde</name>
+        <admin>Dominican Republic</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>2345195</woe_id>
+        <longitude>-71</longitude>
+        <woe_name>Valverde</woe_name>
+        <fips>DR27</fips>
+        <woe_label>Valverde, DO, Dominican Republic</woe_label>
+        <latitude>19</latitude>
+        <iso_a2>DO</iso_a2>
+        <postal>VA</postal>
+        <type>Provincia</type>
+        <id>DO.VA</id>
+      </desc>
+    </path>
+    <path d="M 150.2215 264.8419 168.087 274.6628 170.1848 282.5738 182.104 291.3414 190.6071 294.0923 199.6018 291.0384 209.3767 294.2407 214.0277 301.7435 212.3979 305.9867 208.4162 307.8966 207.6163 311.7426 200.2411 317.4488 197.8865 322.4082 194.7859 345.8573 192.1683 348.3104 189.4248 347.1487 187.868 343.6924 181.6827 345.5489 182.7958 353.0507 180.532 358.2416 182.1671 362.9944 175.4527 365.7796 170.3735 373.1268 162.0171 375.2579 155.1652 371.304 140.9104 374.7195 135.6793 374.077 127.1627 378.0641 117.9385 377.2329 109.4788 372.8158 91.2427 367.3955 94.0318 361.1055 91.922 355.4199 86.8155 354.1439 83.3526 350.3507 82.1381 340.872 74.1005 334.6248 76.5151 324.9676 73.2929 320.7598 75.0431 310.0336 79.886 300.1707 84.1179 296.4536 95.3577 294.3644 104.6783 272.5419 111.0793 273.655 116.9614 277.3406 124.1696 277.0328 130.172 272.5738 132.0294 260.4449 140.1565 264.6088 150.2215 264.8419 Z" id="DO.JU" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>DO.JU</code_hasc>
+        <name>San Juan</name>
+        <admin>Dominican Republic</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>2345191</woe_id>
+        <longitude>-71</longitude>
+        <woe_name>San Juan</woe_name>
+        <fips>DR23</fips>
+        <woe_label>San Juan, DO, Dominican Republic</woe_label>
+        <latitude>18</latitude>
+        <iso_a2>DO</iso_a2>
+        <postal>JU</postal>
+        <type>Provincia</type>
+        <id>DO.JU</id>
+      </desc>
+    </path>
+    <path d="M 462.7154 371.1299 459.2446 376.7691 461.332 376.4112 461.7994 386.3731 454.813 396.5978 462.2995 404.6206 473.429 406.8836 471.5262 418.4534 457.511 409.3834 454.7252 409.0504 453.5145 410.9069 453.4079 417.2001 449.0433 417.7349 445.5265 416.5411 439.4392 409.1891 404.9245 406.0858 405.2469 400.1734 392.7892 399.9411 388.1802 392.9711 383.088 395.7894 382.5568 401.4632 386.7384 407.7021 385.6109 414.8847 381.2204 416.6481 378.0033 407.5306 369.4489 407.4556 366.7919 401.6859 358.6545 393.894 355.1909 387.5274 353.2027 380.4762 355.8286 371.1887 350.7502 362.8895 350.6565 353.9904 355.9796 355.9411 359.4111 362.1948 380.5879 367.9824 388.6481 364.3074 390.0432 360.7136 403.4639 360.3258 415.4641 372.7227 416.5136 376.6728 420.4783 380.5332 421.972 386.1598 430.7544 377.0739 449.4989 369.8777 455.9424 368.5185 462.7154 371.1299 Z" id="DO.SD" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>DO.SD</code_hasc>
+        <name>Santo Domingo</name>
+        <admin>Dominican Republic</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>28358196</woe_id>
+        <longitude>-69</longitude>
+        <woe_name>Santo Domingo</woe_name>
+        <fips>DR00</fips>
+        <woe_label>Santo Domingo, DO, Dominican Republic</woe_label>
+        <latitude>18</latitude>
+        <iso_a2>DO</iso_a2>
+        <postal>SD</postal>
+        <type>Provincia</type>
+        <id>DO.SD</id>
+      </desc>
+    </path>
+    <path d="M 397.7378 293.11 391.5066 318.7797 386.1838 322.8452 376.264 319.0794 373.9209 322.5489 366.594 321.1742 361.5986 322.366 357.9545 325.554 340.0906 329.4428 335.2154 320.8901 323.1768 312.1194 317.9608 303.0216 313.1888 300.6778 308.5401 285.9457 313.9179 279.8271 330.3202 272.4389 329.6102 271.3701 332.4604 269.5617 340.0699 271.3425 365.9595 272.0432 379.5641 277.7202 396.1572 279.7545 400.168 282.3391 397.7378 293.11 Z" id="DO.SZ" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>DO.SZ</code_hasc>
+        <name>Sánchez Ramírez</name>
+        <admin>Dominican Republic</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>2345190</woe_id>
+        <longitude>-70</longitude>
+        <woe_name>Sánchez Ramírez</woe_name>
+        <fips>DR21</fips>
+        <woe_label>SÃ¡nchez Ramirez, DO, Dominican Republic</woe_label>
+        <latitude>19</latitude>
+        <iso_a2>DO</iso_a2>
+        <postal>SZ</postal>
+        <type>Provincia</type>
+        <id>DO.SZ</id>
+      </desc>
+    </path>
+    <path d="M 523.689 372.8581 528.7674 376.2705 535.0352 376.8172 545.0233 385.8258 556.5446 385.5607 554.1638 395.3293 548.6446 405.6093 552.2003 410.1779 555.6996 421.4525 536.584 416.3178 531.0998 411.6525 526.9093 410.5795 515.7659 412.8443 511.9638 410.5568 507.989 414.214 471.5262 418.4534 473.429 406.8836 462.2995 404.6206 454.813 396.5978 461.7994 386.3731 461.332 376.4112 459.2446 376.7691 462.7154 371.1299 473.5769 352.2338 484.8189 340.5064 484.7914 347.3948 488.1667 353.6959 490.5353 370.0366 499.1542 383.1753 504.6584 396.3364 514.1302 384.7706 517.2182 377.3532 523.689 372.8581 Z" id="DO.PM" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>DO.PM</code_hasc>
+        <name>San Pedro de Macorís</name>
+        <admin>Dominican Republic</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>2345192</woe_id>
+        <longitude>-69</longitude>
+        <woe_name>San Pedro de Macorís</woe_name>
+        <fips>DR24</fips>
+        <woe_label>San Pedro de Marcoris, DO, Dominican Republic</woe_label>
+        <latitude>18</latitude>
+        <iso_a2>DO</iso_a2>
+        <postal>PM</postal>
+        <type>Provincia</type>
+        <id>DO.PM</id>
+      </desc>
+    </path>
+    <path d="M 153.6471 132.6934 154.8384 139.4623 158.5145 145.2888 169.9679 149.3782 166.1051 161.1225 166.9369 174.3037 162.3647 173.7831 161.127 178.0085 162.199 185.2708 159.9583 192.0796 156.7075 190.9327 153.89 192.855 147.9664 192.2226 142.1301 188.7009 128.2751 191.4337 119.3619 186.7545 116.8172 189.9014 101.9926 181.2716 99.228 176.0531 94.5079 174.6361 74.6325 176.7826 54.3386 168.1648 52.3877 155.9726 59.3409 158.6037 55.727 143.4726 50.672 143.1312 50.0629 140.9991 55.1717 134.7 60.3879 133.5046 71.4505 126.0515 70.0314 121.3074 71.0521 119.7442 78.6059 120.7213 81.2673 118.0576 105.5247 117.6308 128.189 129.0255 133.4518 130.1674 138.4881 128.2852 144.9368 132.3885 153.6471 132.6934 Z" id="DO.MC" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>DO.MC</code_hasc>
+        <name>Monte Cristi</name>
+        <admin>Dominican Republic</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>2345184</woe_id>
+        <longitude>-71</longitude>
+        <woe_name>Monte Cristi</woe_name>
+        <fips>DR15</fips>
+        <woe_label>Monte Cristri, DO, Dominican Republic</woe_label>
+        <latitude>19</latitude>
+        <iso_a2>DO</iso_a2>
+        <postal>MC</postal>
+        <type>Provincia</type>
+        <id>DO.MC</id>
+      </desc>
+    </path>
+    <path d="M 313.2608 158.335 308.3661 169.2225 290.2769 170.7699 287.3032 173.4056 284.2038 187.8699 279.9506 197.1024 268.5007 193.3585 259.2231 174.8509 249.208 170.3011 248.4089 181.9751 239.9792 182.2748 231.6161 174.8531 220.5498 171.8609 212.6247 170.7246 199.2668 161.9265 186.577 158.0392 169.9679 149.3782 158.5145 145.2888 154.8384 139.4623 153.6471 132.6934 155.4813 132.2127 157.1634 126.6079 159.3879 125.7787 162.9725 132.9173 166.888 128.6604 164.3481 126.0209 167.2819 127.2081 175.3298 126.1602 180.843 118.2059 195.472 112.7004 201.3749 115.2554 202.9074 117.7666 201.9057 120.9281 205.5177 122.4434 206.9188 122.4596 205.5661 118.2589 214.6516 119.8441 225.064 118.4786 235.5294 130.0286 235.1759 133.7644 242.2671 133.8873 252.0724 141.3447 266.0936 147.5039 285.8472 149.0387 294.5513 143.7257 301.8774 146.1031 313.2608 158.335 Z" id="DO.PP" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>DO.PP</code_hasc>
+        <name>Puerto Plata</name>
+        <admin>Dominican Republic</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>2345187</woe_id>
+        <longitude>-70</longitude>
+        <woe_name>Puerto Plata</woe_name>
+        <fips>DR18</fips>
+        <woe_label>Puerto Plata, DO, Dominican Republic</woe_label>
+        <latitude>19</latitude>
+        <iso_a2>DO</iso_a2>
+        <postal>PP</postal>
+        <type>Provincia</type>
+        <id>DO.PP</id>
+      </desc>
+    </path>
+    <path d="M 116.8172 189.9014 112.323 197.0928 109.8778 205.4699 106.2667 226.7465 96.9754 230.7159 101.9239 238.5825 94.7486 244.1811 85.6698 241.2915 81.8543 247.6316 70.7964 254.2267 58.6425 248.0993 51.7243 240.8211 47.5575 232.0527 55.7772 226.619 61.5543 214.933 59.8139 190.4564 54.7395 177.914 54.3386 168.1648 74.6325 176.7826 94.5079 174.6361 99.228 176.0531 101.9926 181.2716 116.8172 189.9014 Z" id="DO.DA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>DO.DA</code_hasc>
+        <name>Dajabón</name>
+        <admin>Dominican Republic</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>2345175</woe_id>
+        <longitude>-71</longitude>
+        <woe_name>Dajabón</woe_name>
+        <fips>DR04</fips>
+        <woe_label>Dajabon, DO, Dominican Republic</woe_label>
+        <latitude>19</latitude>
+        <iso_a2>DO</iso_a2>
+        <postal>DA</postal>
+        <type>Provincia</type>
+        <id>DO.DA</id>
+      </desc>
+    </path>
+    <path d="M 365.6414 174.1191 362.1844 185.6348 352.8219 190.9985 344.3959 190.894 342.6293 201.6718 338.5878 201.2833 334.3468 194.2437 328.9172 189.4041 323.2422 192.6135 319.3305 198.215 314.8535 201.2012 312.6692 195.8756 306.1592 193.0273 299.8047 200.7596 298.9464 225.2074 294.771 236.8113 289.4498 237.8038 285.7379 228.2442 277.61 230.6591 271.6553 230.0191 267.1898 226.6167 272.9353 222.3532 273.6575 208.4845 279.1151 201.1187 279.9506 197.1024 284.2038 187.8699 287.3032 173.4056 290.2769 170.7699 308.3661 169.2225 313.2608 158.335 320.0862 165.6574 330.4715 170.8758 358.5807 176.9736 365.6414 174.1191 Z" id="DO.ES" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>DO.ES</code_hasc>
+        <name>Espaillat</name>
+        <admin>Dominican Republic</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>2345178</woe_id>
+        <longitude>-70</longitude>
+        <woe_name>Espaillat</woe_name>
+        <fips>DR08</fips>
+        <woe_label>Espaillat, DO, Dominican Republic</woe_label>
+        <latitude>19</latitude>
+        <iso_a2>DO</iso_a2>
+        <postal>ES</postal>
+        <type>Provincia</type>
+        <id>DO.ES</id>
+      </desc>
+    </path>
+    <path d="M 338.5878 201.2833 335.8687 212.7014 322.5028 221.0028 318.7615 229.3701 314.4368 247.1821 314.1997 255.6431 306.4827 255.0473 301.2439 249.8969 294.771 236.8113 298.9464 225.2074 299.8047 200.7596 306.1592 193.0273 312.6692 195.8756 314.8535 201.2012 319.3305 198.215 323.2422 192.6135 328.9172 189.4041 334.3468 194.2437 338.5878 201.2833 Z" id="DO.1857" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>DO.</code_hasc>
+        <name>Hermanas</name>
+        <admin>Dominican Republic</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>2345188</woe_id>
+        <longitude>-70</longitude>
+        <woe_name>Hermanas</woe_name>
+        <fips/>
+        <woe_label>Salcedo, DO, Dominican Republic</woe_label>
+        <latitude>19</latitude>
+        <iso_a2>DO</iso_a2>
+        <postal/>
+        <type>Provincia</type>
+        <id>DO.1857</id>
+      </desc>
+    </path>
+    <path d="M 162.0171 375.2579 170.9166 384.4414 188.6791 389.8213 193.6858 393.2436 193.5831 396.7682 189.5558 398.2346 185.8781 393.4493 180.2626 403.4442 169.4758 409.0196 157.8944 418.7461 154.5046 423.9328 153.8622 430.3761 147.0242 430.7657 141.7873 426.3469 136.9711 417.0747 127.8915 416.3933 120.5778 419.1412 113.2468 417.1782 79.8196 401.6154 74.745 384.1676 78.0156 373.0263 78.9591 370.8393 91.2427 367.3955 109.4788 372.8158 117.9385 377.2329 127.1627 378.0641 135.6793 374.077 140.9104 374.7195 155.1652 371.304 162.0171 375.2579 Z" id="DO.BR" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>DO.BR</code_hasc>
+        <name>Bahoruco</name>
+        <admin>Dominican Republic</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>2345173</woe_id>
+        <longitude>-71</longitude>
+        <woe_name>Bahoruco</woe_name>
+        <fips>DR02</fips>
+        <woe_label>Bahoruco, DO, Dominican Republic</woe_label>
+        <latitude>18</latitude>
+        <iso_a2>DO</iso_a2>
+        <postal>BR</postal>
+        <type>Provincia</type>
+        <id>DO.BR</id>
+      </desc>
+    </path>
+    <path d="M 189.5558 398.2346 191.9699 407.8366 182.2002 417.6932 185.7639 423.6851 199.7445 427.7807 201.2485 441.3187 198.3639 446.0585 194.9679 440.6419 190.9894 438.235 182.769 436.3549 175.9693 437.3948 172.1764 447.1859 175.9893 454.6357 179.9504 469.7273 152.1819 515.3502 144.1852 520.4353 139.923 528.0415 137.4233 526.7087 137.4184 526.6897 137.2916 526.1896 137.391 518.4649 134.4358 511.4737 123.9059 512.2263 114.6179 504.3913 110.6532 494.166 111.9892 492.4201 115.903 491.0008 116.9729 488.8863 117.1223 473.5636 111.3132 470.11 112.2144 464.7445 115.7368 461.0841 124.9099 461.9276 119.4274 439.5406 127.8709 437.8505 137.4136 441.2203 147.4625 438.6615 153.8622 430.3761 154.5046 423.9328 157.8944 418.7461 169.4758 409.0196 180.2626 403.4442 185.8781 393.4493 189.5558 398.2346 Z" id="DO.BH" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>DO.BH</code_hasc>
+        <name>Barahona</name>
+        <admin>Dominican Republic</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>2345174</woe_id>
+        <longitude>-71</longitude>
+        <woe_name>Barahona</woe_name>
+        <fips>DR03</fips>
+        <woe_label>Barahona, DO, Dominican Republic</woe_label>
+        <latitude>18</latitude>
+        <iso_a2>DO</iso_a2>
+        <postal>BH</postal>
+        <type>Provincia</type>
+        <id>DO.BH</id>
+      </desc>
+    </path>
+    <path d="M 91.2427 367.3955 78.9591 370.8393 78.0156 373.0263 74.745 384.1676 79.8196 401.6154 113.2468 417.1782 120.5778 419.1412 127.8915 416.3933 136.9711 417.0747 141.7873 426.3469 147.0242 430.7657 153.8622 430.3761 147.4625 438.6615 137.4136 441.2203 127.8709 437.8505 119.4274 439.5406 124.9099 461.9276 115.7368 461.0841 112.2144 464.7445 111.3132 470.11 100.3148 460.113 86.8449 455.5169 70.7666 447.3194 55.1747 438.2465 54.7561 438.0646 54.8725 437.8718 57.167 434.0696 55.0384 431.9039 35.1071 421.212 29.1961 413.6778 18.9932 410.0951 17.9139 406.3952 21.1299 402.3582 20.7069 399.3632 1 376.3416 4.3064 373.9433 11.381 372.5742 25.6046 375.4338 32.9882 373.0469 43.9483 359.9344 91.2427 367.3955 Z" id="DO.IN" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>DO.IN</code_hasc>
+        <name>Independencia</name>
+        <admin>Dominican Republic</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>2345179</woe_id>
+        <longitude>-71</longitude>
+        <woe_name>Independencia</woe_name>
+        <fips>DR</fips>
+        <woe_label>Independencia, DO, Dominican Republic</woe_label>
+        <latitude>18</latitude>
+        <iso_a2>DO</iso_a2>
+        <postal>IN</postal>
+        <type>Provincia</type>
+        <id>DO.IN</id>
+      </desc>
+    </path>
+    <path d="M 132.0294 260.4449 130.172 272.5738 124.1696 277.0328 116.9614 277.3406 111.0793 273.655 104.6783 272.5419 95.3577 294.3644 84.1179 296.4536 79.886 300.1707 75.0431 310.0336 73.2929 320.7598 76.5151 324.9676 74.1005 334.6248 82.1381 340.872 83.3526 350.3507 86.8155 354.1439 91.922 355.4199 94.0318 361.1055 91.2427 367.3955 43.9483 359.9344 51.7733 354.7388 55.4478 347.7242 56.7758 340.329 55.2963 324.4159 54.3057 320.7185 42.6477 305.7093 30.0817 307.4929 29.58 304.0336 45.1487 297.9369 59.2812 281.1716 68.6675 274.1624 72.125 267.2726 73.1646 255.4198 70.7964 254.2267 81.8543 247.6316 85.6698 241.2915 94.7486 244.1811 101.9239 238.5825 109.6821 243.7164 115.4171 251.5811 132.0294 260.4449 Z" id="DO.EP" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>DO.EP</code_hasc>
+        <name>La Estrelleta</name>
+        <admin>Dominican Republic</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>2345181</woe_id>
+        <longitude>-71</longitude>
+        <woe_name>La Estrelleta</woe_name>
+        <fips>DR11</fips>
+        <woe_label>Elias PiÃ±a, DO, Dominican Republic</woe_label>
+        <latitude>19</latitude>
+        <iso_a2>DO</iso_a2>
+        <postal>EP</postal>
+        <type>Provincia</type>
+        <id>DO.EP</id>
+      </desc>
+    </path>
+    <path d="M 93.4984 586.2095 90.222 587.2996 87.0623 585.452 87.0809 581.1693 91.0747 572.244 101.2608 580.5389 93.4984 586.2095 Z M 114.6179 504.3913 123.9059 512.2263 134.4358 511.4737 137.391 518.4649 137.4233 526.7087 137.2203 526.5353 136.6151 528.4788 135.8865 529.1012 136.4009 530.7832 131.9425 533.9502 127.5386 542.6465 120.8824 561.2633 110.8411 575.7807 105.3929 570.8291 89.4218 545.6014 83.041 543.0373 67.7868 544.8659 61.2937 543.1787 70.6602 533.0604 69.6852 525.7512 64.4237 515.725 65.7358 505.8245 61.0766 498.4212 54.212 492.5636 43.6292 488.3979 46.7364 478.9807 44.5337 456.1257 54.7561 438.0646 55.1747 438.2465 70.7666 447.3194 86.8449 455.5169 100.3148 460.113 111.3132 470.11 117.1223 473.5636 116.9729 488.8863 115.903 491.0008 111.9892 492.4201 110.6532 494.166 114.6179 504.3913 Z" id="DO.PN" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>DO.PN</code_hasc>
+        <name>Pedernales</name>
+        <admin>Dominican Republic</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>2345185</woe_id>
+        <longitude>-71</longitude>
+        <woe_name>Pedernales</woe_name>
+        <fips>DR16</fips>
+        <woe_label>Pedernales, DO, Dominican Republic</woe_label>
+        <latitude>17</latitude>
+        <iso_a2>DO</iso_a2>
+        <postal>PN</postal>
+        <type>Provincia</type>
+        <id>DO.PN</id>
+      </desc>
+    </path>
+    <path d="M 249.6085 364.0829 258.8298 384.9503 266.2913 392.844 283.0525 401.7917 291.0479 416.8771 292.2737 420.5455 288.8745 429.5147 289.3189 435.1704 282.3594 442.9127 271.7646 444.844 268.4875 441.363 273.318 432.4715 271.9466 422.199 265.3268 415.1411 252.4788 412.0867 248.4139 413.1412 246.6665 416.5964 246.7815 422.4241 241.0886 427.9297 237.4726 429.4729 229.5745 427.9146 225.4393 430.3094 221.2499 430.3642 215.9988 437.4488 212.4915 438.7237 207.3732 444.6593 204.6581 446.2332 198.3639 446.0585 201.2485 441.3187 199.7445 427.7807 185.7639 423.6851 182.2002 417.6932 191.9699 407.8366 189.5558 398.2346 193.5831 396.7682 193.6858 393.2436 188.6791 389.8213 170.9166 384.4414 162.0171 375.2579 170.3735 373.1268 175.4527 365.7796 182.1671 362.9944 180.532 358.2416 182.7958 353.0507 181.6827 345.5489 187.868 343.6924 189.4248 347.1487 192.1683 348.3104 194.7859 345.8573 197.8865 322.4082 200.2411 317.4488 207.6163 311.7426 208.4162 307.8966 212.3979 305.9867 214.0277 301.7435 223.8908 308.6064 225.8331 326.9638 233.7952 337.9761 245.297 343.9636 252.3995 352.737 249.6085 364.0829 Z" id="DO.AZ" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>DO.AZ</code_hasc>
+        <name>Azua</name>
+        <admin>Dominican Republic</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>2345172</woe_id>
+        <longitude>-70</longitude>
+        <woe_name>Azua</woe_name>
+        <fips>DR01</fips>
+        <woe_label>Azua, DO, Dominican Republic</woe_label>
+        <latitude>18</latitude>
+        <iso_a2>DO</iso_a2>
+        <postal>AZ</postal>
+        <type>Provincia</type>
+        <id>DO.AZ</id>
+      </desc>
+    </path>
+    <path d="M 294.771 236.8113 301.2439 249.8969 306.4827 255.0473 314.1997 255.6431 320.2432 265.1033 329.6102 271.3701 330.3202 272.4389 313.9179 279.8271 308.5401 285.9457 307.1695 280.7758 302.6634 278.0624 298.9308 279.3524 296.8633 283.035 287.8345 285.3997 283.8382 292.6929 283.5544 306.277 272.1543 315.4416 270.3189 329.1917 281.3212 342.2739 278.5284 351.0777 266.5782 364.1371 249.6085 364.0829 252.3995 352.737 245.297 343.9636 233.7952 337.9761 225.8331 326.9638 223.8908 308.6064 214.0277 301.7435 209.3767 294.2407 210.2557 289.8301 208.9092 285.5854 232.5255 274.7499 242.5106 267.3578 244.8637 262.0313 253.884 262.8597 254.8101 250.3754 251.8838 245.1358 246.1268 243.4808 241.5947 239.9458 242.982 235.9099 267.1898 226.6167 271.6553 230.0191 277.61 230.6591 285.7379 228.2442 289.4498 237.8038 294.771 236.8113 Z" id="DO.VE" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>DO.VE</code_hasc>
+        <name>La Vega</name>
+        <admin>Dominican Republic</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>2345198</woe_id>
+        <longitude>-70</longitude>
+        <woe_name>La Vega</woe_name>
+        <fips>DR30</fips>
+        <woe_label>La Vega, DO, Dominican Republic</woe_label>
+        <latitude>19</latitude>
+        <iso_a2>DO</iso_a2>
+        <postal>VE</postal>
+        <type>Provincia</type>
+        <id>DO.VE</id>
+      </desc>
+    </path>
+    <path d="M 308.5401 285.9457 313.1888 300.6778 317.9608 303.0216 323.1768 312.1194 335.2154 320.8901 340.0906 329.4428 336.1668 333.7416 334.8413 339.9544 328.3406 343.0164 323.0022 356.213 316.0027 356.0375 306.1418 350.5458 296.8097 352.6137 281.3212 342.2739 270.3189 329.1917 272.1543 315.4416 283.5544 306.277 283.8382 292.6929 287.8345 285.3997 296.8633 283.035 298.9308 279.3524 302.6634 278.0624 307.1695 280.7758 308.5401 285.9457 Z" id="DO.MN" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>DO.MN</code_hasc>
+        <name>Monseñor Nouel</name>
+        <admin>Dominican Republic</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>2345199</woe_id>
+        <longitude>-70</longitude>
+        <woe_name>Monseñor Nouel</woe_name>
+        <fips>DR31</fips>
+        <woe_label>MonseÃ±or Nouel, DO, Dominican Republic</woe_label>
+        <latitude>18</latitude>
+        <iso_a2>DO</iso_a2>
+        <postal>MN</postal>
+        <type>Provincia</type>
+        <id>DO.MN</id>
+      </desc>
+    </path>
+    <path d="M 347.5092 452.8998 337.4724 454.8591 330.5647 451.9964 306.2504 451.9163 294.3068 457.5275 276.6918 458.3133 273.6476 457.0736 273.3994 455.3641 277.467 451.6846 276.9441 449.5278 271.7646 444.844 282.3594 442.9127 289.3189 435.1704 288.8745 429.5147 292.2737 420.5455 291.0479 416.8771 296.2385 409.3557 305.5414 406.7111 314.4387 399.0926 323.5808 403.1368 331.0204 410.4187 337.027 413.286 336.6314 418.0767 331.6977 420.8684 330.7201 426.0096 345.58 444.5745 347.5092 452.8998 Z" id="DO.PV" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>DO.PV</code_hasc>
+        <name>Peravia</name>
+        <admin>Dominican Republic</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>2345186</woe_id>
+        <longitude>-70</longitude>
+        <woe_name>Peravia</woe_name>
+        <fips>DR35</fips>
+        <woe_label>Peravia, DO, Dominican Republic</woe_label>
+        <latitude>18</latitude>
+        <iso_a2>DO</iso_a2>
+        <postal>PV</postal>
+        <type>Provincia</type>
+        <id>DO.PV</id>
+      </desc>
+    </path>
+    <path d="M 316.0027 356.0375 312.3916 364.0922 312.4341 379.6968 310.313 386.7043 314.4387 399.0926 305.5414 406.7111 296.2385 409.3557 291.0479 416.8771 283.0525 401.7917 266.2913 392.844 258.8298 384.9503 249.6085 364.0829 266.5782 364.1371 278.5284 351.0777 281.3212 342.2739 296.8097 352.6137 306.1418 350.5458 316.0027 356.0375 Z" id="DO.JO" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>DO.JO</code_hasc>
+        <name>San José de Ocoa</name>
+        <admin>Dominican Republic</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>28358195</woe_id>
+        <longitude>-70</longitude>
+        <woe_name>San José de Ocoa</woe_name>
+        <fips>DR00</fips>
+        <woe_label>San Jose de Ocoa, DO, Dominican Republic</woe_label>
+        <latitude>18</latitude>
+        <iso_a2>DO</iso_a2>
+        <postal>JO</postal>
+        <type>Provincia</type>
+        <id>DO.JO</id>
+      </desc>
+    </path>
+    <path d="M 342.6293 201.6718 355.6604 210.1519 360.6235 231.682 367.1527 236.507 372.884 237.2771 375.4267 241.9114 384.5678 249.7178 397.5194 253.0566 410.177 259.0757 423.25 261.6598 432.4932 257.3129 443.9117 260.0718 443.9005 265.4505 435.8929 270.7407 433.3263 273.9048 432.6215 280.1231 428.8899 283.6468 406.366 284.2612 405.7046 289.5546 402.8227 293.3161 397.7378 293.11 400.168 282.3391 396.1572 279.7545 379.5641 277.7202 365.9595 272.0432 340.0699 271.3425 332.4604 269.5617 329.6102 271.3701 320.2432 265.1033 314.1997 255.6431 314.4368 247.1821 318.7615 229.3701 322.5028 221.0028 335.8687 212.7014 338.5878 201.2833 342.6293 201.6718 Z" id="DO.DU" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>DO.DU</code_hasc>
+        <name>Duarte</name>
+        <admin>Dominican Republic</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>2345177</woe_id>
+        <longitude>-70</longitude>
+        <woe_name>Duarte</woe_name>
+        <fips>DR06</fips>
+        <woe_label>Duarte, DO, Dominican Republic</woe_label>
+        <latitude>19</latitude>
+        <iso_a2>DO</iso_a2>
+        <postal>DU</postal>
+        <type>Provincia</type>
+        <id>DO.DU</id>
+      </desc>
+    </path>
+    <path d="M 531.7062 297.1738 530.6862 308.8227 535.8811 318.193 520.2869 314.5307 509.5831 316.4079 516.3552 330.243 527.1972 341.5086 530.1128 349.4948 529.2752 357.9795 523.689 372.8581 517.2182 377.3532 514.1302 384.7706 504.6584 396.3364 499.1542 383.1753 490.5353 370.0366 488.1667 353.6959 484.7914 347.3948 484.8189 340.5064 492.1581 331.7816 499.6613 326.9134 496.1728 323.3973 489.315 322.4873 459.8335 307.2012 451.1281 299.383 454.7999 287.6578 454.3989 280.8909 456.74 282.5909 475.2644 280.9431 484.1453 284.4141 488.8382 283.9003 482.2778 281.0437 482.2815 279.6846 495.3083 279.7173 504.4293 290.7229 531.7062 297.1738 Z" id="DO.HM" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>DO.HM</code_hasc>
+        <name>Hato Mayor</name>
+        <admin>Dominican Republic</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>2345197</woe_id>
+        <longitude>-69</longitude>
+        <woe_name>Hato Mayor</woe_name>
+        <fips>DR29</fips>
+        <woe_label>Hato Mayor, DO, Dominican Republic</woe_label>
+        <latitude>18</latitude>
+        <iso_a2>DO</iso_a2>
+        <postal>HM</postal>
+        <type>Provincia</type>
+        <id>DO.HM</id>
+      </desc>
+    </path>
+    <path d="M 428.8899 283.6468 451.1281 299.383 459.8335 307.2012 489.315 322.4873 496.1728 323.3973 499.6613 326.9134 492.1581 331.7816 484.8189 340.5064 473.5769 352.2338 462.7154 371.1299 455.9424 368.5185 449.4989 369.8777 430.7544 377.0739 421.972 386.1598 420.4783 380.5332 416.5136 376.6728 415.4641 372.7227 403.4639 360.3258 390.0432 360.7136 388.6481 364.3074 380.5879 367.9824 359.4111 362.1948 355.9796 355.9411 350.6565 353.9904 341.2171 347.7979 334.8413 339.9544 336.1668 333.7416 340.0906 329.4428 357.9545 325.554 361.5986 322.366 366.594 321.1742 373.9209 322.5489 376.264 319.0794 386.1838 322.8452 391.5066 318.7797 397.7378 293.11 402.8227 293.3161 405.7046 289.5546 406.366 284.2612 428.8899 283.6468 Z" id="DO.MP" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>DO.MP</code_hasc>
+        <name>Monte Plata</name>
+        <admin>Dominican Republic</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>2345200</woe_id>
+        <longitude>-69</longitude>
+        <woe_name>Monte Plata</woe_name>
+        <fips>DR32</fips>
+        <woe_label>Monte Plata, DO, Dominican Republic</woe_label>
+        <latitude>18</latitude>
+        <iso_a2>DO</iso_a2>
+        <postal>MP</postal>
+        <type>Provincia</type>
+        <id>DO.MP</id>
+      </desc>
+    </path>
+    <path d="M 426.114 240.7557 422.0121 256.974 423.25 261.6598 410.177 259.0757 397.5194 253.0566 384.5678 249.7178 375.4267 241.9114 372.884 237.2771 367.1527 236.507 360.6235 231.682 355.6604 210.1519 342.6293 201.6718 344.3959 190.894 352.8219 190.9985 362.1844 185.6348 365.6414 174.1191 375.4779 165.8828 391.03 165.6425 396.1998 167.6536 402.5867 174.4844 404.4528 184.1629 401.3048 195.0772 405.0706 196.6827 406.4871 200.2176 406.8274 213.2455 420.4945 235.2375 426.114 240.7557 Z" id="DO.MT" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>DO.MT</code_hasc>
+        <name>María Trinidad Sánchez</name>
+        <admin>Dominican Republic</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>2345183</woe_id>
+        <longitude>-69</longitude>
+        <woe_name>María Trinidad Sánchez</woe_name>
+        <fips>DR14</fips>
+        <woe_label>Maria Trinidad SanchÃ©z, DO, Dominican Republic</woe_label>
+        <latitude>19</latitude>
+        <iso_a2>DO</iso_a2>
+        <postal>MT</postal>
+        <type>Provincia</type>
+        <id>DO.MT</id>
+      </desc>
+    </path>
+    <path d="M 454.3989 280.8909 454.7999 287.6578 451.1281 299.383 428.8899 283.6468 432.6215 280.1231 433.3263 273.9048 435.8929 270.7407 443.9005 265.4505 443.9117 260.0718 432.4932 257.3129 423.25 261.6598 422.0121 256.974 426.114 240.7557 433.2751 244.1046 437.1034 243.4896 444.4427 240.7116 460.4869 238.9903 472.1022 233.2676 480.5261 236.1156 489.1993 235.0708 490.8436 237.8012 494.2268 236.151 508.3905 242.977 514.0111 235.4881 528.1039 229.1029 529.4062 231.4021 525.1528 241.7674 533.1701 243.1369 540.7312 240.3136 541.8486 244.675 535.9958 251.1975 531.258 261.4578 523.8287 264.8455 509.0068 262.1025 492.7637 263.3052 481.9464 258.6986 455.1638 256.3817 452.0242 276.5633 454.3989 280.8909 Z" id="DO.SM" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>DO.SM</code_hasc>
+        <name>Samaná</name>
+        <admin>Dominican Republic</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>2345189</woe_id>
+        <longitude>-69</longitude>
+        <woe_name>Samaná</woe_name>
+        <fips>DR20</fips>
+        <woe_label>Samana, DO, Dominican Republic</woe_label>
+        <latitude>19</latitude>
+        <iso_a2>DO</iso_a2>
+        <postal>SM</postal>
+        <type>Provincia</type>
+        <id>DO.SM</id>
+      </desc>
+    </path>
+    <path d="M 350.6565 353.9904 350.7502 362.8895 355.8286 371.1887 353.2027 380.4762 355.1909 387.5274 358.6545 393.894 366.7919 401.6859 369.4489 407.4556 378.0033 407.5306 381.2204 416.6481 374.5633 421.5795 369.0289 434.1521 364.6499 436.4238 351.7598 451.2389 347.5092 452.8998 345.58 444.5745 330.7201 426.0096 331.6977 420.8684 336.6314 418.0767 337.027 413.286 331.0204 410.4187 323.5808 403.1368 314.4387 399.0926 310.313 386.7043 312.4341 379.6968 312.3916 364.0922 316.0027 356.0375 323.0022 356.213 328.3406 343.0164 334.8413 339.9544 341.2171 347.7979 350.6565 353.9904 Z" id="DO.CR" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>DO.CR</code_hasc>
+        <name>San Cristóbal</name>
+        <admin>Dominican Republic</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>2345201</woe_id>
+        <longitude>-70</longitude>
+        <woe_name>San Cristóbal</woe_name>
+        <fips>DR33</fips>
+        <woe_label>San Cristobal, DO, Dominican Republic</woe_label>
+        <latitude>18</latitude>
+        <iso_a2>DO</iso_a2>
+        <postal>CR</postal>
+        <type>Provincia</type>
+        <id>DO.CR</id>
+      </desc>
+    </path>
+    <path d="M 404.9245 406.0858 385.6109 414.8847 386.7384 407.7021 382.5568 401.4632 383.088 395.7894 388.1802 392.9711 392.7892 399.9411 405.2469 400.1734 404.9245 406.0858 Z" id="DO.NC" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>DO.NC</code_hasc>
+        <name>Distrito Nacional</name>
+        <admin>Dominican Republic</admin>
+        <type_en>National District</type_en>
+        <region/>
+        <woe_id>2345176</woe_id>
+        <longitude>-69</longitude>
+        <woe_name>Distrito Nacional</woe_name>
+        <fips>DR34</fips>
+        <woe_label>Distrito Nacional, DO, Dominican Republic</woe_label>
+        <latitude>18</latitude>
+        <iso_a2>DO</iso_a2>
+        <postal>NC</postal>
+        <type>Distrito</type>
+        <id>DO.NC</id>
+      </desc>
+    </path>
+    <path d="M 584.0037 367.8304 575.7251 371.053 563.6807 389.4412 554.1638 395.3293 556.5446 385.5607 545.0233 385.8258 535.0352 376.8172 528.7674 376.2705 523.689 372.8581 529.2752 357.9795 530.1128 349.4948 527.1972 341.5086 516.3552 330.243 509.5831 316.4079 520.2869 314.5307 535.8811 318.193 530.6862 308.8227 531.7062 297.1738 541.9687 298.932 545.525 296.9288 541.9961 294.0622 541.9748 292.1369 545.368 291.1771 552.2936 300.2987 560.1716 303.7161 561.4484 305.8441 570.4989 300.3044 569.0525 298.7026 576.3922 294.779 587.1325 295.9406 593.8433 298.938 595.1378 301.639 599.0095 302.9951 610.3463 304.5047 612.0554 305.1175 612.3789 305.3436 612.3832 305.3467 608.8501 309.9317 603.4485 314.1392 603.5781 316.8256 602.4998 318.9994 601.0453 327.348 606.1899 337.1286 602.287 348.392 592.5985 356.0735 587.5432 356.8827 583.3252 359.3962 582.5679 363.7113 584.0037 367.8304 Z" id="DO.SE" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>DO.SE</code_hasc>
+        <name>El Seybo</name>
+        <admin>Dominican Republic</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>2345196</woe_id>
+        <longitude>-69</longitude>
+        <woe_name>El Seybo</woe_name>
+        <fips>DR28</fips>
+        <woe_label>El Seibo, DO, Dominican Republic</woe_label>
+        <latitude>18</latitude>
+        <iso_a2>DO</iso_a2>
+        <postal>SE</postal>
+        <type>Provincia</type>
+        <id>DO.SE</id>
+      </desc>
+    </path>
+    <path d="M 626.7041 465.2623 647.9866 467.0424 653.1324 478.6303 640.9108 474.5797 628.4092 477.32 621.7239 475.5588 616.9618 471.2782 612.2249 461.0436 618.3785 460.8418 626.7041 465.2623 Z M 677.5547 423.5182 675.0684 428.8727 668.0221 430.9558 660.032 429.8123 649.7612 424.0857 646.6302 426.1877 648.1517 433.1653 642.7506 443.7653 638.7896 457.395 620.5722 459.4718 617.2929 458.3195 616.8505 451.0401 605.8879 432.068 600.29 425.6424 590.5024 419.9173 599.8072 397.0533 599.5963 390.8536 595.6049 385.905 590.8265 381.5933 587.1501 374.9741 584.0037 367.8304 582.5679 363.7113 583.3252 359.3962 587.5432 356.8827 592.5985 356.0735 602.287 348.392 606.1899 337.1286 601.0453 327.348 602.4998 318.9994 603.5781 316.8256 603.4485 314.1392 608.8501 309.9317 612.3832 305.3467 620.972 308.406 642.9967 328.7519 651.1062 338.5382 693.7422 369.4266 699 377.3675 697.9954 385.1697 677.7593 414.7164 677.5547 423.5182 Z" id="DO.AL" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>9</labelrank>
+        <code_hasc>DO.AL</code_hasc>
+        <name>La Altagracia</name>
+        <admin>Dominican Republic</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>2345180</woe_id>
+        <longitude>-68</longitude>
+        <woe_name>La Altagracia</woe_name>
+        <fips>DR10</fips>
+        <woe_label>La Altagracia, DO, Dominican Republic</woe_label>
+        <latitude>18</latitude>
+        <iso_a2>DO</iso_a2>
+        <postal>AL</postal>
+        <type>Provincia</type>
+        <id>DO.AL</id>
+      </desc>
+    </path>
+    <path d="M 555.6996 421.4525 552.2003 410.1779 548.6446 405.6093 554.1638 395.3293 563.6807 389.4412 575.7251 371.053 584.0037 367.8304 587.1501 374.9741 590.8265 381.5933 595.6049 385.905 599.5963 390.8536 599.8072 397.0533 597.2389 402.8031 590.5024 419.9173 578.5092 417.0793 569.3593 420.8251 555.6996 421.4525 Z" id="DO.RO" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>DO.RO</code_hasc>
+        <name>La Romana</name>
+        <admin>Dominican Republic</admin>
+        <type_en>Province</type_en>
+        <region/>
+        <woe_id>2345182</woe_id>
+        <longitude>-68</longitude>
+        <woe_name>La Romana</woe_name>
+        <fips>DR12</fips>
+        <woe_label>Romana, DO, Dominican Republic</woe_label>
+        <latitude>18</latitude>
+        <iso_a2>DO</iso_a2>
+        <postal>RO</postal>
+        <type>Provincia</type>
+        <id>DO.RO</id>
+      </desc>
+    </path>
+  </g>
+</svg>

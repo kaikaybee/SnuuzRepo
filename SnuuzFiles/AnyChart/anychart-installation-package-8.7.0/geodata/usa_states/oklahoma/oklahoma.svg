@@ -1,0 +1,852 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="oklahoma">
+    <path d="M 647.8245 401.595 647.8245 388.1719 658.7308 371.393 667.9591 349.5805 694.8053 351.2584 699 344.5469 696.4832 415.857 657.8918 415.857 647.8245 401.595 Z" id="US.OK.079" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Le Flore County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>079</fips>
+        <incits>40079</incits>
+        <id>US.OK.079</id>
+        <population>49774</population>
+      </desc>
+    </path>
+    <path d="M 80.6995 213.6719 79.8606 253.9411 1 253.9411 1 212.8329 80.6995 213.6719 Z" id="US.OK.025" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cimarron County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>025</fips>
+        <incits>40025</incits>
+        <id>US.OK.025</id>
+        <population>2335</population>
+      </desc>
+    </path>
+    <path d="M 667.9591 323.5733 669.637 281.6262 688.0938 281.6262 695.6442 323.5733 667.9591 323.5733 Z" id="US.OK.001" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Adair County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>001</fips>
+        <incits>40001</incits>
+        <id>US.OK.001</id>
+        <population>22194</population>
+      </desc>
+    </path>
+    <path d="M 652.0192 253.1022 652.8582 239.6791 683.899 239.6791 688.0938 281.6262 669.637 281.6262 652.0192 280.7873 652.0192 253.1022 Z" id="US.OK.041" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Delaware County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>041</fips>
+        <incits>40041</incits>
+        <id>US.OK.041</id>
+        <population>41377</population>
+      </desc>
+    </path>
+    <path d="M 650.3413 212.8329 683.899 212.8329 683.899 239.6791 652.8582 239.6791 650.3413 212.8329 Z" id="US.OK.115" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ottawa County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>115</fips>
+        <incits>40115</incits>
+        <id>US.OK.115</id>
+        <population>32245</population>
+      </desc>
+    </path>
+    <path d="M 364.262 212.8329 399.4976 212.8329 399.4976 246.3906 399.4976 256.4579 365.101 256.4579 364.262 212.8329 Z" id="US.OK.003" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Alfalfa County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>003</fips>
+        <incits>40003</incits>
+        <id>US.OK.003</id>
+        <population>5847</population>
+      </desc>
+    </path>
+    <path d="M 168.7885 212.8329 245.1322 212.8329 245.1322 246.3906 245.1322 253.9411 167.9495 253.9411 168.7885 212.8329 Z" id="US.OK.007" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Beaver County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>007</fips>
+        <incits>40007</incits>
+        <id>US.OK.007</id>
+        <population>5566</population>
+      </desc>
+    </path>
+    <path d="M 619.3005 212.8329 650.3413 212.8329 652.8582 239.6791 652.0192 253.1022 626.012 253.1022 617.6226 245.5517 619.3005 212.8329 Z" id="US.OK.035" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Craig County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>035</fips>
+        <incits>40035</incits>
+        <id>US.OK.035</id>
+        <population>14672</population>
+      </desc>
+    </path>
+    <path d="M 399.4976 212.8329 452.351 212.8329 452.351 246.3906 399.4976 246.3906 399.4976 212.8329 Z" id="US.OK.053" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Grant County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>053</fips>
+        <incits>40053</incits>
+        <id>US.OK.053</id>
+        <population>4528</population>
+      </desc>
+    </path>
+    <path d="M 245.1322 246.3906 245.1322 212.8329 290.4351 212.8329 303.0192 228.7728 303.0192 246.3906 277.851 246.3906 245.1322 246.3906 Z" id="US.OK.059" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Harper County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>059</fips>
+        <incits>40059</incits>
+        <id>US.OK.059</id>
+        <population>3813</population>
+      </desc>
+    </path>
+    <path d="M 452.351 212.8329 510.238 212.8329 509.399 230.4507 485.0697 246.3906 452.351 246.3906 452.351 212.8329 Z" id="US.OK.071" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Kay County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>071</fips>
+        <incits>40071</incits>
+        <id>US.OK.071</id>
+        <population>45633</population>
+      </desc>
+    </path>
+    <path d="M 588.2596 212.8329 619.3005 212.8329 617.6226 245.5517 586.5817 245.5517 588.2596 212.8329 Z" id="US.OK.105" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Nowata County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>105</fips>
+        <incits>40105</incits>
+        <id>US.OK.105</id>
+        <population>10555</population>
+      </desc>
+    </path>
+    <path d="M 510.238 212.8329 571.4808 212.8329 571.4808 259.8137 571.4808 281.6262 548.8293 280.7873 519.4663 259.8137 489.2644 253.1022 485.0697 246.3906 509.399 230.4507 510.238 212.8329 Z" id="US.OK.113" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Osage County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>113</fips>
+        <incits>40113</incits>
+        <id>US.OK.113</id>
+        <population>47987</population>
+      </desc>
+    </path>
+    <path d="M 79.8606 253.9411 80.6995 213.6719 168.7885 212.8329 167.9495 253.9411 79.8606 253.9411 Z" id="US.OK.139" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Texas County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>139</fips>
+        <incits>40139</incits>
+        <id>US.OK.139</id>
+        <population>22081</population>
+      </desc>
+    </path>
+    <path d="M 571.4808 259.8137 571.4808 212.8329 588.2596 212.8329 586.5817 245.5517 586.5817 259.8137 571.4808 259.8137 Z" id="US.OK.147" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Washington County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>147</fips>
+        <incits>40147</incits>
+        <id>US.OK.147</id>
+        <population>51577</population>
+      </desc>
+    </path>
+    <path d="M 290.4351 212.8329 364.262 212.8329 365.101 256.4579 354.1947 261.4916 329.8654 253.1022 313.9255 230.4507 303.0192 228.7728 290.4351 212.8329 Z" id="US.OK.151" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Woods County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>151</fips>
+        <incits>40151</incits>
+        <id>US.OK.151</id>
+        <population>9041</population>
+      </desc>
+    </path>
+    <path d="M 640.274 444.381 648.6635 437.6695 648.6635 415.857 657.8918 415.857 696.4832 415.857 694.8053 487.1671 663.7644 477.9387 640.274 461.9988 640.274 444.381 Z" id="US.OK.089" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>McCurtain County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>089</fips>
+        <incits>40089</incits>
+        <id>US.OK.089</id>
+        <population>33065</population>
+      </desc>
+    </path>
+    <path d="M 641.9519 323.5733 667.9591 323.5733 695.6442 323.5733 699 344.5469 694.8053 351.2584 667.9591 349.5805 648.6635 338.6743 641.9519 323.5733 Z" id="US.OK.135" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Sequoyah County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>135</fips>
+        <incits>40135</incits>
+        <id>US.OK.135</id>
+        <population>41218</population>
+      </desc>
+    </path>
+    <path d="M 537.9231 444.381 538.762 423.4075 558.8966 423.4075 563.9303 401.595 580.7091 401.595 598.3269 409.1454 589.0986 415.857 589.0986 444.381 571.4808 444.381 537.9231 444.381 Z" id="US.OK.005" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Atoka County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>005</fips>
+        <incits>40005</incits>
+        <id>US.OK.005</id>
+        <population>13898</population>
+      </desc>
+    </path>
+    <path d="M 245.1322 373.9099 245.1322 341.1911 280.3678 342.03 297.1466 334.4796 297.1466 337.8353 297.9856 366.3594 293.7909 366.3594 262.75 366.3594 254.3606 373.9099 245.1322 373.9099 Z" id="US.OK.009" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Beckham County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>009</fips>
+        <incits>40009</incits>
+        <id>US.OK.009</id>
+        <population>23637</population>
+      </desc>
+    </path>
+    <path d="M 356.7115 280.7873 391.1082 280.7873 391.9471 316.8618 382.7188 331.1238 357.5505 331.1238 356.7115 310.1502 356.7115 280.7873 Z" id="US.OK.011" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Blaine County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>011</fips>
+        <incits>40011</incits>
+        <id>US.OK.011</id>
+        <population>9720</population>
+      </desc>
+    </path>
+    <path d="M 523.6611 447.7368 537.9231 444.381 571.4808 444.381 576.5144 461.1599 590.7764 467.8714 578.1923 467.0325 547.1514 476.2608 522.8221 466.1935 523.6611 447.7368 Z" id="US.OK.013" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Bryan County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>013</fips>
+        <incits>40013</incits>
+        <id>US.OK.013</id>
+        <population>44244</population>
+      </desc>
+    </path>
+    <path d="M 357.5505 337.8353 357.5505 331.1238 382.7188 331.1238 383.5577 345.3858 400.3365 345.3858 401.1755 387.3329 357.5505 387.3329 358.3894 368.0373 357.5505 337.8353 Z" id="US.OK.015" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Caddo County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>015</fips>
+        <incits>40015</incits>
+        <id>US.OK.015</id>
+        <population>29594</population>
+      </desc>
+    </path>
+    <path d="M 382.7188 331.1238 391.9471 316.8618 434.7332 316.8618 435.5721 345.3858 434.7332 348.7416 400.3365 345.3858 383.5577 345.3858 382.7188 331.1238 Z" id="US.OK.017" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Canadian County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>017</fips>
+        <incits>40017</incits>
+        <id>US.OK.017</id>
+        <population>126123</population>
+      </desc>
+    </path>
+    <path d="M 443.9615 415.857 461.5793 415.857 460.7404 426.7632 495.137 430.119 495.137 442.7031 491.7813 451.0925 443.9615 451.0925 443.9615 433.4748 443.9615 415.857 Z" id="US.OK.019" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Carter County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>019</fips>
+        <incits>40019</incits>
+        <id>US.OK.019</id>
+        <population>48491</population>
+      </desc>
+    </path>
+    <path d="M 636.0793 288.3377 652.0192 280.7873 669.637 281.6262 667.9591 323.5733 641.9519 323.5733 631.0457 309.3113 636.0793 288.3377 Z" id="US.OK.021" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cherokee County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>021</fips>
+        <incits>40021</incits>
+        <id>US.OK.021</id>
+        <population>48017</population>
+      </desc>
+    </path>
+    <path d="M 571.4808 444.381 589.0986 444.381 640.274 444.381 640.274 461.9988 623.4952 467.8714 590.7764 467.8714 576.5144 461.1599 571.4808 444.381 Z" id="US.OK.023" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Choctaw County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>023</fips>
+        <incits>40023</incits>
+        <id>US.OK.023</id>
+        <population>15045</population>
+      </desc>
+    </path>
+    <path d="M 434.7332 348.7416 435.5721 345.3858 478.3582 345.3858 478.3582 381.4603 461.5793 378.1046 456.5457 364.6815 434.7332 348.7416 Z" id="US.OK.027" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cleveland County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>027</fips>
+        <incits>40027</incits>
+        <id>US.OK.027</id>
+        <population>269340</population>
+      </desc>
+    </path>
+    <path d="M 537.9231 394.8834 563.9303 394.8834 563.9303 401.595 558.8966 423.4075 538.762 423.4075 529.5337 415.857 537.9231 394.8834 Z" id="US.OK.029" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Coal County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>029</fips>
+        <incits>40029</incits>
+        <id>US.OK.029</id>
+        <population>5867</population>
+      </desc>
+    </path>
+    <path d="M 357.5505 387.3329 401.1755 387.3329 401.1755 401.595 396.9808 415.857 354.1947 424.2464 340.7716 409.1454 340.7716 387.3329 357.5505 387.3329 Z" id="US.OK.031" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Comanche County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>031</fips>
+        <incits>40031</incits>
+        <id>US.OK.031</id>
+        <population>124937</population>
+      </desc>
+    </path>
+    <path d="M 354.1947 424.2464 396.9808 415.857 396.9808 433.4748 396.9808 446.0589 358.3894 444.381 354.1947 424.2464 Z" id="US.OK.033" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cotton County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>033</fips>
+        <incits>40033</incits>
+        <id>US.OK.033</id>
+        <population>6152</population>
+      </desc>
+    </path>
+    <path d="M 520.3053 281.6262 547.1514 280.7873 568.9639 288.3377 568.9639 305.9555 555.5409 305.9555 555.5409 324.4123 520.3053 323.5733 520.3053 299.244 520.3053 281.6262 Z" id="US.OK.037" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Creek County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>037</fips>
+        <incits>40037</incits>
+        <id>US.OK.037</id>
+        <population>70470</population>
+      </desc>
+    </path>
+    <path d="M 296.3077 310.1502 356.7115 310.1502 357.5505 331.1238 357.5505 337.8353 297.1466 337.8353 297.1466 334.4796 296.3077 310.1502 Z" id="US.OK.039" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Custer County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>039</fips>
+        <incits>40039</incits>
+        <id>US.OK.039</id>
+        <population>29377</population>
+      </desc>
+    </path>
+    <path d="M 295.4688 280.7873 330.7043 281.6262 356.7115 280.7873 356.7115 310.1502 296.3077 310.1502 296.3077 293.3714 295.4688 280.7873 Z" id="US.OK.043" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dewey County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>043</fips>
+        <incits>40043</incits>
+        <id>US.OK.043</id>
+        <population>4844</population>
+      </desc>
+    </path>
+    <path d="M 245.1322 246.3906 277.851 246.3906 278.6899 280.7873 295.4688 280.7873 296.3077 293.3714 271.9784 306.7945 254.3606 296.7272 245.1322 304.2776 245.1322 253.9411 245.1322 246.3906 Z" id="US.OK.045" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ellis County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>045</fips>
+        <incits>40045</incits>
+        <id>US.OK.045</id>
+        <population>4170</population>
+      </desc>
+    </path>
+    <path d="M 399.4976 246.3906 452.351 246.3906 452.351 280.7873 434.7332 280.7873 399.4976 280.7873 399.4976 256.4579 399.4976 246.3906 Z" id="US.OK.047" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Garfield County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>047</fips>
+        <incits>40047</incits>
+        <id>US.OK.047</id>
+        <population>62267</population>
+      </desc>
+    </path>
+    <path d="M 435.5721 387.3329 495.137 387.3329 495.137 405.7897 478.3582 404.9507 461.5793 415.857 443.9615 415.857 435.5721 401.595 435.5721 387.3329 Z" id="US.OK.049" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Garvin County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>049</fips>
+        <incits>40049</incits>
+        <id>US.OK.049</id>
+        <population>27334</population>
+      </desc>
+    </path>
+    <path d="M 400.3365 345.3858 434.7332 348.7416 435.5721 387.3329 435.5721 401.595 401.1755 401.595 401.1755 387.3329 400.3365 345.3858 Z" id="US.OK.051" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Grady County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>051</fips>
+        <incits>40051</incits>
+        <id>US.OK.051</id>
+        <population>53685</population>
+      </desc>
+    </path>
+    <path d="M 254.3606 373.9099 262.75 366.3594 293.7909 366.3594 307.2139 390.6887 290.4351 398.2392 272.8173 398.2392 267.7837 380.6214 254.3606 373.9099 Z" id="US.OK.055" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Greer County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>055</fips>
+        <incits>40055</incits>
+        <id>US.OK.055</id>
+        <population>6171</population>
+      </desc>
+    </path>
+    <path d="M 245.1322 373.9099 254.3606 373.9099 267.7837 380.6214 272.8173 398.2392 272.8173 415.857 257.7163 415.857 245.9712 411.6623 245.1322 373.9099 Z" id="US.OK.057" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Harmon County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>057</fips>
+        <incits>40057</incits>
+        <id>US.OK.057</id>
+        <population>2869</population>
+      </desc>
+    </path>
+    <path d="M 615.9447 352.0974 624.3341 352.0974 634.4014 353.7752 648.6635 338.6743 667.9591 349.5805 658.7308 371.393 624.3341 371.393 615.9447 352.0974 Z" id="US.OK.061" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Haskell County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>061</fips>
+        <incits>40061</incits>
+        <id>US.OK.061</id>
+        <population>13052</population>
+      </desc>
+    </path>
+    <path d="M 531.2115 383.1382 535.4063 352.0974 573.1587 352.0974 572.3197 363.8425 563.9303 372.232 563.9303 394.8834 537.9231 394.8834 531.2115 383.1382 Z" id="US.OK.063" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hughes County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>063</fips>
+        <incits>40063</incits>
+        <id>US.OK.063</id>
+        <population>13823</population>
+      </desc>
+    </path>
+    <path d="M 257.7163 415.857 272.8173 415.857 272.8173 398.2392 290.4351 398.2392 307.2139 390.6887 318.9591 405.7897 309.7308 430.119 257.7163 415.857 Z" id="US.OK.065" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jackson County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>065</fips>
+        <incits>40065</incits>
+        <id>US.OK.065</id>
+        <population>26088</population>
+      </desc>
+    </path>
+    <path d="M 396.9808 446.0589 396.9808 433.4748 443.9615 433.4748 443.9615 451.0925 443.9615 465.3546 437.25 457.8041 418.7933 469.5493 396.9808 446.0589 Z" id="US.OK.067" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jefferson County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>067</fips>
+        <incits>40067</incits>
+        <id>US.OK.067</id>
+        <population>6432</population>
+      </desc>
+    </path>
+    <path d="M 495.137 430.119 503.5264 415.857 529.5337 415.857 538.762 423.4075 537.9231 444.381 523.6611 447.7368 495.137 442.7031 495.137 430.119 Z" id="US.OK.069" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Johnston County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>069</fips>
+        <incits>40069</incits>
+        <id>US.OK.069</id>
+        <population>10990</population>
+      </desc>
+    </path>
+    <path d="M 391.1082 280.7873 399.4976 280.7873 434.7332 280.7873 434.7332 316.8618 391.9471 316.8618 391.1082 280.7873 Z" id="US.OK.073" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Kingfisher County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>073</fips>
+        <incits>40073</incits>
+        <id>US.OK.073</id>
+        <population>15276</population>
+      </desc>
+    </path>
+    <path d="M 293.7909 366.3594 297.9856 366.3594 358.3894 368.0373 357.5505 387.3329 340.7716 387.3329 340.7716 409.1454 318.9591 405.7897 307.2139 390.6887 293.7909 366.3594 Z" id="US.OK.075" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Kiowa County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>075</fips>
+        <incits>40075</incits>
+        <id>US.OK.075</id>
+        <population>9341</population>
+      </desc>
+    </path>
+    <path d="M 610.9111 401.595 611.75 373.9099 624.3341 371.393 658.7308 371.393 647.8245 388.1719 647.8245 401.595 610.9111 401.595 Z" id="US.OK.077" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Latimer County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>077</fips>
+        <incits>40077</incits>
+        <id>US.OK.077</id>
+        <population>10775</population>
+      </desc>
+    </path>
+    <path d="M 478.3582 299.244 520.3053 299.244 520.3053 323.5733 520.3053 338.6743 478.3582 337.8353 478.3582 316.8618 478.3582 299.244 Z" id="US.OK.081" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lincoln County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>081</fips>
+        <incits>40081</incits>
+        <id>US.OK.081</id>
+        <population>34351</population>
+      </desc>
+    </path>
+    <path d="M 434.7332 280.7873 452.351 280.7873 460.7404 281.6262 460.7404 295.8882 478.3582 299.244 478.3582 316.8618 434.7332 316.8618 434.7332 280.7873 Z" id="US.OK.083" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Logan County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>083</fips>
+        <incits>40083</incits>
+        <id>US.OK.083</id>
+        <population>44422</population>
+      </desc>
+    </path>
+    <path d="M 443.9615 465.3546 443.9615 451.0925 491.7813 451.0925 495.137 461.1599 460.7404 471.2272 443.9615 465.3546 Z" id="US.OK.085" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Love County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>085</fips>
+        <incits>40085</incits>
+        <id>US.OK.085</id>
+        <population>9742</population>
+      </desc>
+    </path>
+    <path d="M 329.8654 253.1022 354.1947 261.4916 365.101 256.4579 399.4976 256.4579 399.4976 280.7873 391.1082 280.7873 356.7115 280.7873 330.7043 281.6262 329.8654 253.1022 Z" id="US.OK.093" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Major County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>093</fips>
+        <incits>40093</incits>
+        <id>US.OK.093</id>
+        <population>7683</population>
+      </desc>
+    </path>
+    <path d="M 491.7813 451.0925 495.137 442.7031 523.6611 447.7368 522.8221 466.1935 513.5938 471.2272 495.137 461.1599 491.7813 451.0925 Z" id="US.OK.095" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Marshall County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>095</fips>
+        <incits>40095</incits>
+        <id>US.OK.095</id>
+        <population>15988</population>
+      </desc>
+    </path>
+    <path d="M 616.7837 288.3377 617.6226 253.1022 626.012 253.1022 652.0192 253.1022 652.0192 280.7873 636.0793 288.3377 616.7837 288.3377 Z" id="US.OK.097" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Mayes County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>097</fips>
+        <incits>40097</incits>
+        <id>US.OK.097</id>
+        <population>40804</population>
+      </desc>
+    </path>
+    <path d="M 434.7332 348.7416 456.5457 364.6815 461.5793 378.1046 478.3582 381.4603 495.137 378.9435 495.137 387.3329 435.5721 387.3329 434.7332 348.7416 Z" id="US.OK.087" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>McClain County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>087</fips>
+        <incits>40087</incits>
+        <id>US.OK.087</id>
+        <population>36511</population>
+      </desc>
+    </path>
+    <path d="M 572.3197 363.8425 573.1587 352.0974 573.1587 345.3858 594.9712 331.1238 624.3341 331.1238 624.3341 352.0974 615.9447 352.0974 590.7764 361.3257 572.3197 363.8425 Z" id="US.OK.091" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>McIntosh County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>091</fips>
+        <incits>40091</incits>
+        <id>US.OK.091</id>
+        <population>20493</population>
+      </desc>
+    </path>
+    <path d="M 461.5793 415.857 478.3582 404.9507 495.137 405.7897 503.5264 415.857 495.137 430.119 460.7404 426.7632 461.5793 415.857 Z" id="US.OK.099" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Murray County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>099</fips>
+        <incits>40099</incits>
+        <id>US.OK.099</id>
+        <population>13712</population>
+      </desc>
+    </path>
+    <path d="M 590.7764 305.9555 604.1995 313.506 631.0457 309.3113 641.9519 323.5733 648.6635 338.6743 634.4014 353.7752 624.3341 352.0974 624.3341 331.1238 594.9712 331.1238 590.7764 305.9555 Z" id="US.OK.101" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Muskogee County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>101</fips>
+        <incits>40101</incits>
+        <id>US.OK.101</id>
+        <population>70303</population>
+      </desc>
+    </path>
+    <path d="M 452.351 280.7873 452.351 246.3906 485.0697 246.3906 489.2644 253.1022 495.976 274.0757 460.7404 281.6262 452.351 280.7873 Z" id="US.OK.103" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Noble County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>103</fips>
+        <incits>40103</incits>
+        <id>US.OK.103</id>
+        <population>11446</population>
+      </desc>
+    </path>
+    <path d="M 520.3053 342.869 520.3053 338.6743 520.3053 323.5733 555.5409 324.4123 573.1587 345.3858 573.1587 352.0974 535.4063 352.0974 520.3053 342.869 Z" id="US.OK.107" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Okfuskee County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>107</fips>
+        <incits>40107</incits>
+        <id>US.OK.107</id>
+        <population>12377</population>
+      </desc>
+    </path>
+    <path d="M 434.7332 316.8618 478.3582 316.8618 478.3582 337.8353 478.3582 345.3858 435.5721 345.3858 434.7332 316.8618 Z" id="US.OK.109" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Oklahoma County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>109</fips>
+        <incits>40109</incits>
+        <id>US.OK.109</id>
+        <population>755245</population>
+      </desc>
+    </path>
+    <path d="M 555.5409 324.4123 555.5409 305.9555 568.9639 305.9555 585.7428 305.9555 590.7764 305.9555 594.9712 331.1238 573.1587 345.3858 555.5409 324.4123 Z" id="US.OK.111" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Okmulgee County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>111</fips>
+        <incits>40111</incits>
+        <id>US.OK.111</id>
+        <population>39438</population>
+      </desc>
+    </path>
+    <path d="M 489.2644 253.1022 519.4663 259.8137 548.8293 280.7873 547.1514 280.7873 520.3053 281.6262 495.976 274.0757 489.2644 253.1022 Z" id="US.OK.117" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pawnee County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>117</fips>
+        <incits>40117</incits>
+        <id>US.OK.117</id>
+        <population>16513</population>
+      </desc>
+    </path>
+    <path d="M 460.7404 281.6262 495.976 274.0757 520.3053 281.6262 520.3053 299.244 478.3582 299.244 460.7404 295.8882 460.7404 281.6262 Z" id="US.OK.119" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Payne County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>119</fips>
+        <incits>40119</incits>
+        <id>US.OK.119</id>
+        <population>79066</population>
+      </desc>
+    </path>
+    <path d="M 572.3197 363.8425 590.7764 361.3257 615.9447 352.0974 624.3341 371.393 611.75 373.9099 610.9111 401.595 598.3269 409.1454 580.7091 401.595 563.9303 401.595 563.9303 394.8834 563.9303 372.232 572.3197 363.8425 Z" id="US.OK.121" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pittsburg County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>121</fips>
+        <incits>40121</incits>
+        <id>US.OK.121</id>
+        <population>44703</population>
+      </desc>
+    </path>
+    <path d="M 495.137 387.3329 495.137 378.9435 507.7212 383.9772 531.2115 383.1382 537.9231 394.8834 529.5337 415.857 503.5264 415.857 495.137 405.7897 495.137 387.3329 Z" id="US.OK.123" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pontotoc County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>123</fips>
+        <incits>40123</incits>
+        <id>US.OK.123</id>
+        <population>37992</population>
+      </desc>
+    </path>
+    <path d="M 478.3582 345.3858 478.3582 337.8353 520.3053 338.6743 520.3053 342.869 507.7212 342.869 507.7212 383.9772 495.137 378.9435 478.3582 381.4603 478.3582 345.3858 Z" id="US.OK.125" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pottawatomie County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>125</fips>
+        <incits>40125</incits>
+        <id>US.OK.125</id>
+        <population>71158</population>
+      </desc>
+    </path>
+    <path d="M 589.0986 444.381 589.0986 415.857 598.3269 409.1454 610.9111 401.595 647.8245 401.595 657.8918 415.857 648.6635 415.857 648.6635 437.6695 640.274 444.381 589.0986 444.381 Z" id="US.OK.127" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pushmataha County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>127</fips>
+        <incits>40127</incits>
+        <id>US.OK.127</id>
+        <population>11233</population>
+      </desc>
+    </path>
+    <path d="M 245.1322 304.2776 254.3606 296.7272 271.9784 306.7945 296.3077 293.3714 296.3077 310.1502 297.1466 334.4796 280.3678 342.03 245.1322 341.1911 245.1322 304.2776 Z" id="US.OK.129" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Roger Mills County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>129</fips>
+        <incits>40129</incits>
+        <id>US.OK.129</id>
+        <population>3743</population>
+      </desc>
+    </path>
+    <path d="M 586.5817 259.8137 586.5817 245.5517 617.6226 245.5517 626.012 253.1022 617.6226 253.1022 616.7837 288.3377 589.9375 280.7873 586.5817 259.8137 Z" id="US.OK.131" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Rogers County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>131</fips>
+        <incits>40131</incits>
+        <id>US.OK.131</id>
+        <population>89044</population>
+      </desc>
+    </path>
+    <path d="M 507.7212 383.9772 507.7212 342.869 520.3053 342.869 535.4063 352.0974 531.2115 383.1382 507.7212 383.9772 Z" id="US.OK.133" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Seminole County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>133</fips>
+        <incits>40133</incits>
+        <id>US.OK.133</id>
+        <population>25426</population>
+      </desc>
+    </path>
+    <path d="M 401.1755 401.595 435.5721 401.595 443.9615 415.857 443.9615 433.4748 396.9808 433.4748 396.9808 415.857 401.1755 401.595 Z" id="US.OK.137" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Stephens County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>137</fips>
+        <incits>40137</incits>
+        <id>US.OK.137</id>
+        <population>44919</population>
+      </desc>
+    </path>
+    <path d="M 318.9591 405.7897 340.7716 409.1454 354.1947 424.2464 358.3894 444.381 345.8053 446.0589 309.7308 430.119 318.9591 405.7897 Z" id="US.OK.141" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Tillman County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>141</fips>
+        <incits>40141</incits>
+        <id>US.OK.141</id>
+        <population>7711</population>
+      </desc>
+    </path>
+    <path d="M 547.1514 280.7873 548.8293 280.7873 571.4808 281.6262 571.4808 259.8137 586.5817 259.8137 589.9375 280.7873 585.7428 305.9555 568.9639 305.9555 568.9639 288.3377 547.1514 280.7873 Z" id="US.OK.143" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Tulsa County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>143</fips>
+        <incits>40143</incits>
+        <id>US.OK.143</id>
+        <population>622409</population>
+      </desc>
+    </path>
+    <path d="M 589.9375 280.7873 616.7837 288.3377 636.0793 288.3377 631.0457 309.3113 604.1995 313.506 590.7764 305.9555 585.7428 305.9555 589.9375 280.7873 Z" id="US.OK.145" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wagoner County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>145</fips>
+        <incits>40145</incits>
+        <id>US.OK.145</id>
+        <population>75700</population>
+      </desc>
+    </path>
+    <path d="M 297.1466 337.8353 357.5505 337.8353 358.3894 368.0373 297.9856 366.3594 297.1466 337.8353 Z" id="US.OK.149" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Washita County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>149</fips>
+        <incits>40149</incits>
+        <id>US.OK.149</id>
+        <population>11678</population>
+      </desc>
+    </path>
+    <path d="M 277.851 246.3906 303.0192 246.3906 303.0192 228.7728 313.9255 230.4507 329.8654 253.1022 330.7043 281.6262 295.4688 280.7873 278.6899 280.7873 277.851 246.3906 Z" id="US.OK.153" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Woodward County</name>
+        <stateAbbrev>OK</stateAbbrev>
+        <state>Oklahoma</state>
+        <fips>153</fips>
+        <incits>40153</incits>
+        <id>US.OK.153</id>
+        <population>21221</population>
+      </desc>
+    </path>
+  </g>
+</svg>

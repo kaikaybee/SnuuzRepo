@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="massachusetts">
+    <path d="M 93.879 214.9032 107.9516 234.6048 102.3226 250.0847 98.1008 296.5242 88.25 350 3.8145 347.1855 1 340.1492 47.4395 213.496 93.879 214.9032 Z" id="US.MA.003" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Berkshire County</name>
+        <stateAbbrev>MA</stateAbbrev>
+        <state>Massachusetts</state>
+        <fips>003</fips>
+        <incits>25003</incits>
+        <id>US.MA.003</id>
+        <population>129585</population>
+      </desc>
+    </path>
+    <path d="M 431.621 216.3105 455.5444 199.4234 494.9476 188.1653 530.129 192.3871 538.5726 217.7177 568.125 219.125 572.3468 241.6411 531.5363 262.75 514.6492 281.0444 500.5766 283.8589 476.6532 271.1935 455.5444 241.6411 431.621 231.7903 431.621 216.3105 Z" id="US.MA.009" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Essex County</name>
+        <stateAbbrev>MA</stateAbbrev>
+        <state>Massachusetts</state>
+        <fips>009</fips>
+        <incits>25009</incits>
+        <id>US.MA.009</id>
+        <population>762550</population>
+      </desc>
+    </path>
+    <path d="M 98.1008 296.5242 140.3185 319.0403 247.2702 310.5968 264.1573 326.0766 264.1573 351.4073 179.7218 351.4073 88.25 350 98.1008 296.5242 Z" id="US.MA.013" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hampden County</name>
+        <stateAbbrev>MA</stateAbbrev>
+        <state>Massachusetts</state>
+        <fips>013</fips>
+        <incits>25013</incits>
+        <id>US.MA.013</id>
+        <population>467319</population>
+      </desc>
+    </path>
+    <path d="M 102.3226 250.0847 123.4315 264.1573 155.7984 269.7863 154.3911 279.6371 196.6089 274.0081 217.7177 276.8226 228.9758 290.8952 247.2702 310.5968 140.3185 319.0403 98.1008 296.5242 102.3226 250.0847 Z" id="US.MA.015" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hampshire County</name>
+        <stateAbbrev>MA</stateAbbrev>
+        <state>Massachusetts</state>
+        <fips>015</fips>
+        <incits>25015</incits>
+        <id>US.MA.015</id>
+        <population>159596</population>
+      </desc>
+    </path>
+    <path d="M 236.0121 219.125 309.1895 220.5323 319.0403 234.6048 354.2218 240.2339 378.1452 252.8992 373.9234 278.2298 361.2581 289.4879 369.7016 319.0403 389.4032 327.4839 385.1815 354.2218 264.1573 351.4073 264.1573 326.0766 247.2702 310.5968 228.9758 290.8952 236.0121 245.8629 245.8629 230.3831 236.0121 219.125 Z" id="US.MA.027" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Worcester County</name>
+        <stateAbbrev>MA</stateAbbrev>
+        <state>Massachusetts</state>
+        <fips>027</fips>
+        <incits>25027</incits>
+        <id>US.MA.027</id>
+        <population>809106</population>
+      </desc>
+    </path>
+    <path d="M 93.879 214.9032 236.0121 219.125 245.8629 230.3831 236.0121 245.8629 228.9758 290.8952 217.7177 276.8226 196.6089 274.0081 154.3911 279.6371 155.7984 269.7863 123.4315 264.1573 102.3226 250.0847 107.9516 234.6048 93.879 214.9032 Z" id="US.MA.011" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Franklin County</name>
+        <stateAbbrev>MA</stateAbbrev>
+        <state>Massachusetts</state>
+        <fips>011</fips>
+        <incits>25011</incits>
+        <id>US.MA.011</id>
+        <population>71221</population>
+      </desc>
+    </path>
+    <path d="M 407.6976 359.8508 465.3952 338.7419 471.0242 364.0726 503.3911 403.4758 511.8347 430.2137 527.3145 440.0645 473.8387 469.6169 462.5806 465.3952 455.5444 421.7702 417.5484 399.254 407.6976 359.8508 Z" id="US.MA.005" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Bristol County</name>
+        <stateAbbrev>MA</stateAbbrev>
+        <state>Massachusetts</state>
+        <fips>005</fips>
+        <incits>25005</incits>
+        <id>US.MA.005</id>
+        <population>552780</population>
+      </desc>
+    </path>
+    <path d="M 309.1895 220.5323 424.5847 223.3468 431.621 216.3105 431.621 231.7903 455.5444 241.6411 476.6532 271.1935 444.2863 302.1532 389.4032 327.4839 369.7016 319.0403 361.2581 289.4879 373.9234 278.2298 378.1452 252.8992 354.2218 240.2339 319.0403 234.6048 309.1895 220.5323 Z" id="US.MA.017" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Middlesex County</name>
+        <stateAbbrev>MA</stateAbbrev>
+        <state>Massachusetts</state>
+        <fips>017</fips>
+        <incits>25017</incits>
+        <id>US.MA.017</id>
+        <population>1552802</population>
+      </desc>
+    </path>
+    <path d="M 389.4032 327.4839 444.2863 302.1532 489.3185 299.3387 499.1694 306.375 494.9476 326.0766 465.3952 338.7419 407.6976 359.8508 385.1815 354.2218 389.4032 327.4839 Z" id="US.MA.021" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Norfolk County</name>
+        <stateAbbrev>MA</stateAbbrev>
+        <state>Massachusetts</state>
+        <fips>021</fips>
+        <incits>25021</incits>
+        <id>US.MA.021</id>
+        <population>687802</population>
+      </desc>
+    </path>
+    <path d="M 465.3952 338.7419 494.9476 326.0766 499.1694 306.375 489.3185 299.3387 518.871 292.3024 523.0927 295.1169 531.5363 297.9315 539.9798 303.5605 582.1976 368.2944 585.0121 390.8105 554.0524 404.8831 527.3145 440.0645 511.8347 430.2137 503.3911 403.4758 471.0242 364.0726 465.3952 338.7419 Z" id="US.MA.023" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Plymouth County</name>
+        <stateAbbrev>MA</stateAbbrev>
+        <state>Massachusetts</state>
+        <fips>023</fips>
+        <incits>25023</incits>
+        <id>US.MA.023</id>
+        <population>501915</population>
+      </desc>
+    </path>
+    <path d="M 527.3145 440.0645 554.0524 404.8831 585.0121 390.8105 597.6774 396.4395 644.1169 392.2177 644.1169 368.2944 614.5645 350 624.4153 333.1129 655.375 334.5202 672.2621 344.371 689.1492 365.4798 699 396.4395 697.5927 424.5847 684.9274 447.1008 625.8226 441.4718 596.2702 441.4718 580.7903 456.9516 542.7944 448.5081 527.3145 440.0645 Z" id="US.MA.001" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Barnstable County</name>
+        <stateAbbrev>MA</stateAbbrev>
+        <state>Massachusetts</state>
+        <fips>001</fips>
+        <incits>25001</incits>
+        <id>US.MA.001</id>
+        <population>214990</population>
+      </desc>
+    </path>
+    <path d="M 444.2863 302.1532 476.6532 271.1935 500.5766 283.8589 514.6492 281.0444 518.871 292.3024 489.3185 299.3387 444.2863 302.1532 Z" id="US.MA.025" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Suffolk County</name>
+        <stateAbbrev>MA</stateAbbrev>
+        <state>Massachusetts</state>
+        <fips>025</fips>
+        <incits>25025</incits>
+        <id>US.MA.025</id>
+        <population>755503</population>
+      </desc>
+    </path>
+    <path d="M 596.2702 496.3548 610.3427 472.4315 644.1169 482.2823 662.4113 463.9879 680.7056 473.8387 691.9637 492.1331 687.7419 507.6129 651.1532 511.8347 596.2702 496.3548 Z" id="US.MA.019" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Nantucket County</name>
+        <stateAbbrev>MA</stateAbbrev>
+        <state>Massachusetts</state>
+        <fips>019</fips>
+        <incits>25019</incits>
+        <id>US.MA.019</id>
+        <population>10399</population>
+      </desc>
+    </path>
+    <path d="M 473.8387 469.6169 527.3145 440.0645 542.7944 448.5081 580.7903 456.9516 610.3427 472.4315 596.2702 496.3548 573.754 490.7258 538.5726 492.1331 527.3145 507.6129 507.6129 507.6129 504.7984 490.7258 473.8387 469.6169 Z" id="US.MA.007" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dukes County</name>
+        <stateAbbrev>MA</stateAbbrev>
+        <state>Massachusetts</state>
+        <fips>007</fips>
+        <incits>25007</incits>
+        <id>US.MA.007</id>
+        <population>17256</population>
+      </desc>
+    </path>
+  </g>
+</svg>

@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="paraguay">
+    <path d="M 419.2009 515.6627 413.8086 506.0764 420.3991 501.2833 423.994 508.473 419.2009 515.6627 Z" id="PY.AS" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>5</labelrank>
+        <code_hasc>PY.AS</code_hasc>
+        <name>Asunción</name>
+        <admin>Paraguay</admin>
+        <type_en>Capital District</type_en>
+        <region/>
+        <woe_id>20070148</woe_id>
+        <longitude>-57</longitude>
+        <woe_name>Asunción</woe_name>
+        <fips>PA22</fips>
+        <woe_label>AsunciÃ³n, PY, Paraguay</woe_label>
+        <latitude>-25</latitude>
+        <iso_a2>PY</iso_a2>
+        <postal>AS</postal>
+        <type>Distrito Capital</type>
+        <id>PY.AS</id>
+      </desc>
+    </path>
+    <path d="M 388.6446 235.2644 389.2438 250.2429 395.2352 253.2386 400.0283 261.0275 398.83 264.0232 371.2695 252.6395 365.8773 245.4498 294.5794 243.0532 280.7991 236.4627 274.8077 233.467 234.0661 234.0661 232.2687 222.0833 240.0575 185.5356 252.0403 174.1519 248.4455 151.3845 237.0618 128.018 238.2601 120.8283 81.285 76.4918 72.2979 71.0996 86.6773 34.5519 224.4798 2.7974 299.3725 1 372.4678 45.9356 373.067 75.2936 376.0627 78.2893 372.4678 80.6858 377.8601 83.0824 379.0584 91.4704 386.2481 96.2635 387.4464 118.4318 392.2395 116.6343 397.0326 122.0266 390.4421 126.8197 397.0326 129.8155 392.8386 136.406 400.6275 140.0009 399.4292 158.5742 393.4378 167.5614 397.6318 172.3545 390.4421 187.333 394.6361 202.3116 388.6446 235.2644 Z" id="PY.AG" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>5</labelrank>
+        <code_hasc>PY.AG</code_hasc>
+        <name>Alto Paraguay</name>
+        <admin>Paraguay</admin>
+        <type_en>Department</type_en>
+        <region/>
+        <woe_id>2346463</woe_id>
+        <longitude>-59</longitude>
+        <woe_name>Alto Paraguay</woe_name>
+        <fips>PA03</fips>
+        <woe_label>Alto Paraguay, PY, Paraguay</woe_label>
+        <latitude>-21</latitude>
+        <iso_a2>PY</iso_a2>
+        <postal>AG</postal>
+        <type>Departamento</type>
+        <id>PY.AG</id>
+      </desc>
+    </path>
+    <path d="M 280.7991 236.4627 283.7948 246.6481 260.4283 256.2343 259.8292 264.6223 250.8421 266.4197 250.2429 274.8077 235.8635 297.5751 233.467 332.3253 226.8764 357.4893 216.691 362.8815 188.5313 365.2781 173.5528 370.6704 171.1562 390.4421 154.3803 385.0498 144.794 373.6661 145.3931 368.2738 95.0652 338.3167 93.2678 332.9245 75.2936 319.1442 50.7288 276.6052 22.5691 261.6266 21.3708 256.2343 47.1339 156.7768 45.9356 115.4361 72.2979 71.0996 81.285 76.4918 238.2601 120.8283 237.0618 128.018 248.4455 151.3845 252.0403 174.1519 240.0575 185.5356 232.2687 222.0833 234.0661 234.0661 274.8077 233.467 280.7991 236.4627 Z" id="PY.BQ" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>5</labelrank>
+        <code_hasc>PY.BQ</code_hasc>
+        <name>Boquerón</name>
+        <admin>Paraguay</admin>
+        <type_en>Department</type_en>
+        <region/>
+        <woe_id>2346450</woe_id>
+        <longitude>-60</longitude>
+        <woe_name>Boquerón</woe_name>
+        <fips>PA24</fips>
+        <woe_label>BoquerÃ³n, PY, Paraguay</woe_label>
+        <latitude>-22</latitude>
+        <iso_a2>PY</iso_a2>
+        <postal>BQ</postal>
+        <type>Departamento</type>
+        <id>PY.BQ</id>
+      </desc>
+    </path>
+    <path d="M 477.3176 252.6395 497.6884 258.6309 486.9039 273.0103 492.2961 296.976 489.3004 302.3682 500.6841 302.3682 505.4773 294.5794 519.2575 286.7906 522.2532 287.9888 533.0378 317.9459 519.2575 341.3124 497.6884 350.8987 475.5202 347.903 443.7657 355.0927 430.5845 352.6961 425.7914 341.9116 427.5888 335.9202 416.2052 326.933 415.0069 320.9416 403.6232 314.3511 403.024 300.5708 391.6403 289.1871 395.2352 284.394 404.2223 283.7948 398.83 264.0232 400.0283 261.0275 395.2352 253.2386 389.2438 250.2429 388.6446 235.2644 398.83 240.6567 413.2094 237.0618 416.8043 243.0532 434.7785 246.0489 448.5588 244.2515 458.1451 248.4455 472.5245 248.4455 477.3176 252.6395 Z" id="PY.CN" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>5</labelrank>
+        <code_hasc>PY.CN</code_hasc>
+        <name>Concepción</name>
+        <admin>Paraguay</admin>
+        <type_en>Department</type_en>
+        <region/>
+        <woe_id>2346454</woe_id>
+        <longitude>-57</longitude>
+        <woe_name>Concepción</woe_name>
+        <fips>PA07</fips>
+        <woe_label>ConcepciÃ³n, PY, Paraguay</woe_label>
+        <latitude>-22</latitude>
+        <iso_a2>PY</iso_a2>
+        <postal>CN</postal>
+        <type>Departamento</type>
+        <id>PY.CN</id>
+      </desc>
+    </path>
+    <path d="M 503.6798 483.309 498.2876 510.8695 479.115 524.6498 484.5073 536.6326 472.5245 536.6326 472.5245 527.0464 458.1451 525.8481 452.7528 516.8609 446.1622 514.4644 429.9854 491.0979 443.1665 479.7142 448.5588 480.3133 460.5416 484.5073 465.3348 478.5159 488.1021 474.3219 503.6798 483.309 Z" id="PY.CR" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>5</labelrank>
+        <code_hasc>PY.CR</code_hasc>
+        <name>Cordillera</name>
+        <admin>Paraguay</admin>
+        <type_en>Department</type_en>
+        <region/>
+        <woe_id>2346455</woe_id>
+        <longitude>-56</longitude>
+        <woe_name>Cordillera</woe_name>
+        <fips>PA08</fips>
+        <woe_label>Cordillera, PY, Paraguay</woe_label>
+        <latitude>-25</latitude>
+        <iso_a2>PY</iso_a2>
+        <postal>CR</postal>
+        <type>Departamento</type>
+        <id>PY.CR</id>
+      </desc>
+    </path>
+    <path d="M 398.83 264.0232 404.2223 283.7948 395.2352 284.394 391.6403 289.1871 403.024 300.5708 403.6232 314.3511 415.0069 320.9416 416.2052 326.933 427.5888 335.9202 425.7914 341.9116 430.5845 352.6961 431.7828 364.679 443.7657 374.2652 438.3734 390.4421 447.3605 400.0283 446.7614 404.8215 452.7528 406.6189 447.9597 415.606 455.1494 438.9725 453.9511 447.9597 458.1451 453.9511 446.1622 471.9253 448.5588 480.3133 443.1665 479.7142 429.9854 491.0979 424.5931 490.4987 420.3991 501.2833 413.8086 506.0764 398.2309 488.7013 389.2438 488.1021 371.2695 476.7185 362.2824 480.9124 351.4979 469.5288 325.7348 463.5373 284.394 439.5717 274.8077 428.188 229.8721 400.0283 206.5056 401.2266 183.1391 391.6403 171.1562 390.4421 173.5528 370.6704 188.5313 365.2781 216.691 362.8815 226.8764 357.4893 233.467 332.3253 235.8635 297.5751 250.2429 274.8077 250.8421 266.4197 259.8292 264.6223 260.4283 256.2343 283.7948 246.6481 280.7991 236.4627 294.5794 243.0532 365.8773 245.4498 371.2695 252.6395 398.83 264.0232 Z" id="PY.PH" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>5</labelrank>
+        <code_hasc>PY.PH</code_hasc>
+        <name>Presidente Hayes</name>
+        <admin>Paraguay</admin>
+        <type_en>Department</type_en>
+        <region/>
+        <woe_id>2346461</woe_id>
+        <longitude>-58</longitude>
+        <woe_name>Presidente Hayes</woe_name>
+        <fips>PA16</fips>
+        <woe_label>Presidente Hayes, PY, Paraguay</woe_label>
+        <latitude>-23</latitude>
+        <iso_a2>PY</iso_a2>
+        <postal>PH</postal>
+        <type>Departamento</type>
+        <id>PY.PH</id>
+      </desc>
+    </path>
+    <path d="M 537.8309 384.4506 543.2232 399.4292 531.2403 409.0155 530.0421 419.2009 548.6155 450.9554 561.1974 463.5373 546.2189 468.3305 538.43 479.115 525.8481 469.5288 524.0506 462.9382 503.6798 483.309 488.1021 474.3219 465.3348 478.5159 460.5416 484.5073 448.5588 480.3133 446.1622 471.9253 458.1451 453.9511 453.9511 447.9597 455.1494 438.9725 447.9597 415.606 452.7528 406.6189 446.7614 404.8215 447.3605 400.0283 438.3734 390.4421 443.7657 374.2652 431.7828 364.679 430.5845 352.6961 443.7657 355.0927 475.5202 347.903 497.6884 350.8987 519.2575 341.3124 537.2318 340.7133 539.6283 349.1013 531.2403 356.8901 535.4343 364.679 540.2275 358.6876 548.0163 358.0884 544.4215 376.6618 537.8309 384.4506 Z" id="PY.SP" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>7</labelrank>
+        <code_hasc>PY.SP</code_hasc>
+        <name>San Pedro</name>
+        <admin>Paraguay</admin>
+        <type_en>Department</type_en>
+        <region/>
+        <woe_id>2346462</woe_id>
+        <longitude>-56</longitude>
+        <woe_name>San Pedro</woe_name>
+        <fips>PA17</fips>
+        <woe_label>San Pedro, PY, Paraguay</woe_label>
+        <latitude>-24</latitude>
+        <iso_a2>PY</iso_a2>
+        <postal>SP</postal>
+        <type>Departamento</type>
+        <id>PY.SP</id>
+      </desc>
+    </path>
+    <path d="M 429.9854 491.0979 446.1622 514.4644 452.7528 516.8609 434.1794 539.0292 434.1794 557.0034 426.9897 566.5897 412.0112 549.8137 402.4249 553.4086 407.218 538.43 420.9983 528.8438 422.1966 518.6584 419.2009 515.6627 423.994 508.473 420.3991 501.2833 424.5931 490.4987 429.9854 491.0979 Z" id="PY.CE" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>5</labelrank>
+        <code_hasc>PY.CE</code_hasc>
+        <name>Central</name>
+        <admin>Paraguay</admin>
+        <type_en>Department</type_en>
+        <region/>
+        <woe_id>2346453</woe_id>
+        <longitude>-57</longitude>
+        <woe_name>Central</woe_name>
+        <fips>PA06</fips>
+        <woe_label>Central, PY, Paraguay</woe_label>
+        <latitude>-25</latitude>
+        <iso_a2>PY</iso_a2>
+        <postal>CE</postal>
+        <type>Departamento</type>
+        <id>PY.CE</id>
+      </desc>
+    </path>
+    <path d="M 570.1845 536.6326 566.5897 543.2232 539.0292 557.0034 533.6369 567.1888 513.8652 566.5897 511.4687 571.3828 504.279 573.1803 501.8824 580.37 496.4901 580.37 490.4987 565.3914 495.891 561.1974 490.4987 549.2146 492.2961 541.4258 513.8652 530.0421 547.4172 533.0378 554.6069 539.0292 570.1845 536.6326 Z" id="PY.GU" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>5</labelrank>
+        <code_hasc>PY.GU</code_hasc>
+        <name>Guairá</name>
+        <admin>Paraguay</admin>
+        <type_en>Department</type_en>
+        <region/>
+        <woe_id>2346456</woe_id>
+        <longitude>-56</longitude>
+        <woe_name>Guairá</woe_name>
+        <fips>PA10</fips>
+        <woe_label>GuairÃ¡, PY, Paraguay</woe_label>
+        <latitude>-25</latitude>
+        <iso_a2>PY</iso_a2>
+        <postal>GU</postal>
+        <type>Departamento</type>
+        <id>PY.GU</id>
+      </desc>
+    </path>
+    <path d="M 481.5116 611.5253 488.1021 618.715 497.0893 622.3099 497.6884 626.5039 500.085 660.0558 488.7013 671.4395 492.2961 688.2155 482.1107 693.0086 472.5245 685.2197 456.9468 691.2112 441.9682 686.418 450.3562 658.2584 432.9811 653.4652 418.0026 634.8918 411.412 600.7408 422.1966 611.5253 437.1751 618.1159 450.9554 614.521 462.3391 599.5425 481.5116 611.5253 Z" id="PY.MI" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>5</labelrank>
+        <code_hasc>PY.MI</code_hasc>
+        <name>Misiones</name>
+        <admin>Paraguay</admin>
+        <type_en>Department</type_en>
+        <region/>
+        <woe_id>2346458</woe_id>
+        <longitude>-57</longitude>
+        <woe_name>Misiones</woe_name>
+        <fips>PA12</fips>
+        <woe_label>Misiones, PY, Paraguay</woe_label>
+        <latitude>-26</latitude>
+        <iso_a2>PY</iso_a2>
+        <postal>MI</postal>
+        <type>Departamento</type>
+        <id>PY.MI</id>
+      </desc>
+    </path>
+    <path d="M 426.9897 566.5897 428.7871 579.7708 411.412 600.7408 418.0026 634.8918 432.9811 653.4652 450.3562 658.2584 441.9682 686.418 426.3906 685.2197 388.0455 672.0386 351.4979 674.4352 344.3082 677.4309 340.1142 666.6464 348.5021 654.0644 351.4979 655.2627 353.2953 645.6764 365.2781 639.685 363.4807 634.2927 370.6704 630.0987 371.2695 621.1116 375.4635 621.1116 373.067 601.3399 376.0627 588.7579 380.8558 586.3614 377.2609 581.5682 379.6575 582.7665 382.6532 576.7751 398.83 566.5897 398.2309 555.8052 402.4249 553.4086 412.0112 549.8137 426.9897 566.5897 Z" id="PY.NE" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>5</labelrank>
+        <code_hasc>PY.NE</code_hasc>
+        <name>Ñeembucú</name>
+        <admin>Paraguay</admin>
+        <type_en>Department</type_en>
+        <region/>
+        <woe_id>2346459</woe_id>
+        <longitude>-57</longitude>
+        <woe_name>Ñeembucú</woe_name>
+        <fips>PA13</fips>
+        <woe_label>Ã‘eembucÃº, PY, Paraguay</woe_label>
+        <latitude>-26</latitude>
+        <iso_a2>PY</iso_a2>
+        <postal>NE</postal>
+        <type>Departamento</type>
+        <id>PY.NE</id>
+      </desc>
+    </path>
+    <path d="M 484.5073 536.6326 492.2961 541.4258 490.4987 549.2146 495.891 561.1974 490.4987 565.3914 496.4901 580.37 481.5116 611.5253 462.3391 599.5425 450.9554 614.521 437.1751 618.1159 422.1966 611.5253 411.412 600.7408 428.7871 579.7708 426.9897 566.5897 434.1794 557.0034 434.1794 539.0292 452.7528 516.8609 458.1451 525.8481 472.5245 527.0464 472.5245 536.6326 484.5073 536.6326 Z" id="PY.PG" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>5</labelrank>
+        <code_hasc>PY.PG</code_hasc>
+        <name>Paraguarí</name>
+        <admin>Paraguay</admin>
+        <type_en>Department</type_en>
+        <region/>
+        <woe_id>2346460</woe_id>
+        <longitude>-57</longitude>
+        <woe_name>Paraguarí</woe_name>
+        <fips>PA15</fips>
+        <woe_label>ParaguarÃ­, PY, Paraguay</woe_label>
+        <latitude>-25</latitude>
+        <iso_a2>PY</iso_a2>
+        <postal>PG</postal>
+        <type>Departamento</type>
+        <id>PY.PG</id>
+      </desc>
+    </path>
+    <path d="M 579.1717 358.0884 573.7794 368.2738 549.8137 383.8515 537.8309 384.4506 544.4215 376.6618 548.0163 358.0884 540.2275 358.6876 535.4343 364.679 531.2403 356.8901 539.6283 349.1013 537.2318 340.7133 519.2575 341.3124 533.0378 317.9459 522.2532 287.9888 519.2575 286.7906 505.4773 294.5794 500.6841 302.3682 489.3004 302.3682 492.2961 296.976 486.9039 273.0103 497.6884 258.6309 477.3176 252.6395 487.503 246.6481 492.8953 250.8421 502.4815 237.0618 510.2704 234.6652 527.0464 251.4412 554.6069 253.2386 562.3957 261.6266 564.7923 276.6052 572.5811 282.5966 570.1845 301.17 579.1717 332.3253 579.1717 358.0884 Z" id="PY.AM" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>5</labelrank>
+        <code_hasc>PY.AM</code_hasc>
+        <name>Amambay</name>
+        <admin>Paraguay</admin>
+        <type_en>Department</type_en>
+        <region/>
+        <woe_id>2346449</woe_id>
+        <longitude>-56</longitude>
+        <woe_name>Amambay</woe_name>
+        <fips>PA02</fips>
+        <woe_label>Amambay, PY, Paraguay</woe_label>
+        <latitude>-23</latitude>
+        <iso_a2>PY</iso_a2>
+        <postal>AM</postal>
+        <type>Departamento</type>
+        <id>PY.AM</id>
+      </desc>
+    </path>
+    <path d="M 668.4438 460.5416 660.0558 486.3047 662.4524 495.891 648.073 519.2575 649.8704 537.2318 645.0773 540.8266 649.2712 551.6112 647.4738 562.9948 643.2798 565.3914 642.6807 587.5597 633.6936 581.5682 626.5039 582.7665 625.9047 579.1717 615.1202 586.9605 599.5425 583.3657 595.3485 573.7794 599.5425 568.3871 578.5725 564.1931 577.3742 553.4086 587.5597 534.2361 585.1631 528.2446 580.9691 528.8438 601.3399 501.8824 622.3099 510.8695 617.5167 498.2876 604.3356 486.3047 596.5468 484.5073 593.5511 478.5159 597.1459 446.7614 601.9391 440.1708 612.1245 437.7742 613.3227 443.7657 625.9047 445.5631 635.491 454.5502 645.0773 452.1536 648.073 456.3476 668.4438 460.5416 Z" id="PY.AA" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>5</labelrank>
+        <code_hasc>PY.AA</code_hasc>
+        <name>Alto Paraná</name>
+        <admin>Paraguay</admin>
+        <type_en>Department</type_en>
+        <region/>
+        <woe_id>2346448</woe_id>
+        <longitude>-54</longitude>
+        <woe_name>Alto Paraná</woe_name>
+        <fips>PA01</fips>
+        <woe_label>Alto ParanÃ¡, PY, Paraguay</woe_label>
+        <latitude>-25</latitude>
+        <iso_a2>PY</iso_a2>
+        <postal>AA</postal>
+        <type>Departamento</type>
+        <id>PY.AA</id>
+      </desc>
+    </path>
+    <path d="M 580.9691 528.8438 576.7751 535.4343 570.1845 536.6326 554.6069 539.0292 547.4172 533.0378 513.8652 530.0421 492.2961 541.4258 484.5073 536.6326 479.115 524.6498 498.2876 510.8695 503.6798 483.309 524.0506 462.9382 525.8481 469.5288 538.43 479.115 546.2189 468.3305 561.1974 463.5373 579.1717 444.3648 601.9391 440.1708 597.1459 446.7614 593.5511 478.5159 596.5468 484.5073 604.3356 486.3047 617.5167 498.2876 622.3099 510.8695 601.3399 501.8824 580.9691 528.8438 Z" id="PY.CG" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>5</labelrank>
+        <code_hasc>PY.CG</code_hasc>
+        <name>Caaguazú</name>
+        <admin>Paraguay</admin>
+        <type_en>Department</type_en>
+        <region/>
+        <woe_id>2346451</woe_id>
+        <longitude>-55</longitude>
+        <woe_name>Caaguazú</woe_name>
+        <fips>PA04</fips>
+        <woe_label>CaaguazÃº, PY, Paraguay</woe_label>
+        <latitude>-25</latitude>
+        <iso_a2>PY</iso_a2>
+        <postal>CG</postal>
+        <type>Departamento</type>
+        <id>PY.CG</id>
+      </desc>
+    </path>
+    <path d="M 595.3485 573.7794 592.3528 581.5682 581.5682 590.5554 560.5983 595.9476 552.8094 604.9348 540.8266 608.5296 533.0378 621.7107 509.6712 631.297 497.6884 626.5039 497.0893 622.3099 488.1021 618.715 481.5116 611.5253 496.4901 580.37 501.8824 580.37 504.279 573.1803 511.4687 571.3828 513.8652 566.5897 533.6369 567.1888 539.0292 557.0034 566.5897 543.2232 570.1845 536.6326 576.7751 535.4343 580.9691 528.8438 585.1631 528.2446 587.5597 534.2361 577.3742 553.4086 578.5725 564.1931 599.5425 568.3871 595.3485 573.7794 Z" id="PY.CZ" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>5</labelrank>
+        <code_hasc>PY.CZ</code_hasc>
+        <name>Caazapá</name>
+        <admin>Paraguay</admin>
+        <type_en>Department</type_en>
+        <region/>
+        <woe_id>2346452</woe_id>
+        <longitude>-56</longitude>
+        <woe_name>Caazapá</woe_name>
+        <fips>PA05</fips>
+        <woe_label>CaazapÃ¡, PY, Paraguay</woe_label>
+        <latitude>-26</latitude>
+        <iso_a2>PY</iso_a2>
+        <postal>CZ</postal>
+        <type>Departamento</type>
+        <id>PY.CZ</id>
+      </desc>
+    </path>
+    <path d="M 668.4438 460.5416 648.073 456.3476 645.0773 452.1536 635.491 454.5502 625.9047 445.5631 613.3227 443.7657 612.1245 437.7742 601.9391 440.1708 579.1717 444.3648 561.1974 463.5373 548.6155 450.9554 530.0421 419.2009 531.2403 409.0155 543.2232 399.4292 537.8309 384.4506 549.8137 383.8515 573.7794 368.2738 579.1717 358.0884 585.7622 375.4635 586.9605 391.6403 591.7536 397.0326 604.3356 399.4292 624.7064 395.2352 648.073 382.0541 678.6292 403.024 671.4395 411.412 676.8318 429.3863 670.8403 440.77 668.4438 460.5416 Z" id="PY.CY" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>5</labelrank>
+        <code_hasc>PY.CY</code_hasc>
+        <name>Canindeyú</name>
+        <admin>Paraguay</admin>
+        <type_en>Department</type_en>
+        <region/>
+        <woe_id>2346464</woe_id>
+        <longitude>-55</longitude>
+        <woe_name>Canindeyú</woe_name>
+        <fips>PA19</fips>
+        <woe_label>CanindeyÃº, PY, Paraguay</woe_label>
+        <latitude>-24</latitude>
+        <iso_a2>PY</iso_a2>
+        <postal>CY</postal>
+        <type>Departamento</type>
+        <id>PY.CY</id>
+      </desc>
+    </path>
+    <path d="M 595.3485 573.7794 599.5425 583.3657 615.1202 586.9605 625.9047 579.1717 626.5039 582.7665 633.6936 581.5682 642.6807 587.5597 631.297 622.909 622.909 623.5082 618.1159 633.0944 606.7322 639.685 606.133 646.8747 595.3485 645.0773 585.1631 649.2712 580.9691 658.8575 575.5768 658.8575 570.7837 664.8489 571.3828 678.03 558.8009 687.6163 548.6155 678.6292 531.2403 675.6335 519.2575 682.8232 512.667 699 507.8738 698.4009 499.4858 688.2155 492.2961 688.2155 488.7013 671.4395 500.085 660.0558 497.6884 626.5039 509.6712 631.297 533.0378 621.7107 540.8266 608.5296 552.8094 604.9348 560.5983 595.9476 581.5682 590.5554 592.3528 581.5682 595.3485 573.7794 Z" id="PY.IT" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>5</labelrank>
+        <code_hasc>PY.IT</code_hasc>
+        <name>Itapúa</name>
+        <admin>Paraguay</admin>
+        <type_en>Department</type_en>
+        <region/>
+        <woe_id>2346457</woe_id>
+        <longitude>-55</longitude>
+        <woe_name>Itapúa</woe_name>
+        <fips>PA11</fips>
+        <woe_label>ItapÃºa, PY, Paraguay</woe_label>
+        <latitude>-26</latitude>
+        <iso_a2>PY</iso_a2>
+        <postal>IT</postal>
+        <type>Departamento</type>
+        <id>PY.IT</id>
+      </desc>
+    </path>
+  </g>
+</svg>

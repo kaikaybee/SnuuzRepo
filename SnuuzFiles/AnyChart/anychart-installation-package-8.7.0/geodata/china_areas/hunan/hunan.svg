@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="hunan">
+    <path d="M 67.3697 314.2051 112.1132 273.9359 147.9081 288.8504 173.2628 247.0897 165.8056 200.8547 194.1432 162.0769 262.75 144.1795 288.1047 179.9744 255.2927 224.7179 240.3782 241.1239 256.7842 273.9359 276.1731 272.4444 243.3611 303.765 256.7842 321.6624 231.4295 329.1197 226.9551 360.4402 168.7885 391.7607 152.3825 436.5043 124.0449 454.4017 144.9252 487.2137 138.9594 512.5684 121.062 549.8547 79.3013 537.9231 65.8782 469.3162 53.9466 452.9103 85.2671 414.1325 65.8782 387.2863 15.1688 396.235 1.7457 379.8291 70.3526 333.594 67.3697 314.2051 Z" id="CN.hunan.2773826" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>5</admin_leve>
+        <localname>怀化市 / Huaihua</localname>
+        <boundary>administrative</boundary>
+        <id>CN.hunan.2773826</id>
+        <name>Huaihua City</name>
+      </desc>
+    </path>
+    <path d="M 104.656 66.6239 121.062 97.9444 158.3483 108.3846 194.1432 162.0769 165.8056 200.8547 173.2628 247.0897 147.9081 288.8504 112.1132 273.9359 67.3697 314.2051 56.9295 306.7479 47.9808 233.6667 52.4551 179.9744 43.5064 163.5684 68.8611 77.0641 104.656 66.6239 Z" id="CN.hunan.2972168" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>5</admin_leve>
+        <localname>湘西州 / Xiangxi</localname>
+        <boundary>administrative</boundary>
+        <id>CN.hunan.2972168</id>
+        <name>Xiangxi Tujia and Miao Autonomous Prefecture</name>
+      </desc>
+    </path>
+    <path d="M 546.1261 284.3761 581.9209 296.3077 602.8013 282.8846 629.6474 291.8333 610.2585 336.5769 652.0192 417.1154 653.5107 457.3846 678.8654 463.3504 657.985 514.0598 614.7329 502.1282 608.7671 463.3504 568.4979 430.5385 534.1944 350 546.1261 284.3761 Z" id="CN.hunan.2972720" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>5</admin_leve>
+        <localname>株洲市 / Zhuzhou</localname>
+        <boundary>administrative</boundary>
+        <id>CN.hunan.2972720</id>
+        <name>Zhuzhou City</name>
+      </desc>
+    </path>
+    <path d="M 276.1731 272.4444 311.9679 248.5812 337.3226 270.953 391.015 273.9359 404.438 288.8504 417.8611 323.1538 446.1987 320.1709 473.0449 351.4915 416.3697 379.8291 346.2714 324.6453 303.0192 339.5598 256.7842 321.6624 243.3611 303.765 276.1731 272.4444 Z" id="CN.hunan.3070610" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>5</admin_leve>
+        <localname>娄底市 / Loudi</localname>
+        <boundary>administrative</boundary>
+        <id>CN.hunan.3070610</id>
+        <name>Loudi City</name>
+      </desc>
+    </path>
+    <path d="M 256.7842 321.6624 303.0192 339.5598 346.2714 324.6453 416.3697 379.8291 414.8782 405.1838 368.6432 399.2179 344.7799 429.047 316.4423 429.047 311.9679 473.7906 274.6816 491.688 231.4295 497.6538 192.6517 524.5 152.3825 531.9573 138.9594 512.5684 144.9252 487.2137 124.0449 454.4017 152.3825 436.5043 168.7885 391.7607 226.9551 360.4402 231.4295 329.1197 256.7842 321.6624 Z" id="CN.hunan.3075378" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Shaoyang City</name>
+        <admin_leve>5</admin_leve>
+        <wikipedia>en:Shaoyang</wikipedia>
+        <localname>邵阳市 / Shaoyang</localname>
+        <boundary>administrative</boundary>
+        <id>CN.hunan.3075378</id>
+      </desc>
+    </path>
+    <path d="M 434.2671 523.0085 464.0962 514.0598 495.4167 521.5171 538.6688 515.5513 564.0235 476.7735 568.4979 430.5385 608.7671 463.3504 614.7329 502.1282 657.985 514.0598 671.4081 528.9744 655.0021 576.7009 657.985 612.4957 610.2585 628.9017 555.0748 605.0385 532.703 636.359 534.1944 679.6111 505.8568 682.594 489.4509 651.2735 450.6731 643.8162 464.0962 618.4615 434.2671 523.0085 Z" id="CN.hunan.3123920" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>5</admin_leve>
+        <localname>郴州市 (Chenzhou)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.hunan.3123920</id>
+        <name>Chenzhou City</name>
+      </desc>
+    </path>
+    <path d="M 274.6816 491.688 311.9679 473.7906 316.4423 429.047 344.7799 429.047 386.5406 433.5214 422.3355 457.3846 434.2671 523.0085 464.0962 618.4615 450.6731 643.8162 428.3013 645.3077 426.8098 679.6111 408.9124 699 364.1688 697.5085 286.6132 631.8846 316.4423 603.547 300.0363 543.8889 311.9679 509.5855 274.6816 491.688 Z" id="CN.hunan.3149752" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>5</admin_leve>
+        <localname>永州市 / Yongzhou</localname>
+        <boundary>administrative</boundary>
+        <id>CN.hunan.3149752</id>
+        <name>Yongzhou City</name>
+      </desc>
+    </path>
+    <path d="M 225.4637 47.235 279.156 59.1667 316.4423 78.5556 304.5107 109.8761 262.75 144.1795 194.1432 162.0769 158.3483 108.3846 121.062 97.9444 104.656 66.6239 115.0962 47.235 158.3483 44.2521 191.1603 63.641 225.4637 47.235 Z" id="CN.hunan.3152588" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>5</admin_leve>
+        <localname>张家界市 / Zhangjiajie</localname>
+        <boundary>administrative</boundary>
+        <id>CN.hunan.3152588</id>
+        <name>Zhangjiajie City</name>
+      </desc>
+    </path>
+    <path d="M 416.3697 379.8291 473.0449 351.4915 507.3483 361.9316 534.1944 350 568.4979 430.5385 564.0235 476.7735 538.6688 515.5513 495.4167 521.5171 464.0962 514.0598 434.2671 523.0085 422.3355 457.3846 386.5406 433.5214 344.7799 429.047 368.6432 399.2179 414.8782 405.1838 416.3697 379.8291 Z" id="CN.hunan.3156043" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>5</admin_leve>
+        <localname>衡阳市 / Hengyang</localname>
+        <boundary>administrative</boundary>
+        <id>CN.hunan.3156043</id>
+        <name>Hengyang City</name>
+      </desc>
+    </path>
+    <path d="M 441.7244 81.5385 428.3013 129.265 440.2329 182.9573 422.3355 191.906 346.2714 194.8889 255.2927 224.7179 288.1047 179.9744 262.75 144.1795 304.5107 109.8761 316.4423 78.5556 279.156 59.1667 225.4637 47.235 212.0406 8.4573 240.3782 1 306.0021 11.4402 343.2885 29.3376 399.9637 38.2863 441.7244 81.5385 Z" id="CN.hunan.3161246" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>5</admin_leve>
+        <localname>常德市 / Changde</localname>
+        <boundary>administrative</boundary>
+        <id>CN.hunan.3161246</id>
+        <name>Changde City</name>
+      </desc>
+    </path>
+    <path d="M 675.8825 205.3291 626.6645 221.735 584.9038 191.906 558.0577 211.2949 493.9252 208.312 471.5534 191.906 525.2457 144.1795 446.1987 78.5556 468.5705 63.641 556.5662 86.0128 598.3269 41.2692 620.6987 57.6752 632.6303 87.5043 613.2415 114.3504 657.985 139.7051 684.8312 169.5342 675.8825 205.3291 Z" id="CN.hunan.3202467" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Yueyang City</name>
+        <admin_leve>5</admin_leve>
+        <wikipedia>en:Yueyang</wikipedia>
+        <localname>岳阳市 / Yueyang</localname>
+        <boundary>administrative</boundary>
+        <id>CN.hunan.3202467</id>
+      </desc>
+    </path>
+    <path d="M 255.2927 224.7179 346.2714 194.8889 422.3355 191.906 440.2329 182.9573 428.3013 129.265 441.7244 81.5385 446.1987 78.5556 525.2457 144.1795 471.5534 191.906 493.9252 208.312 476.0278 235.1581 396.9808 251.5641 391.015 273.9359 337.3226 270.953 311.9679 248.5812 276.1731 272.4444 256.7842 273.9359 240.3782 241.1239 255.2927 224.7179 Z" id="CN.hunan.3202593" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>5</admin_leve>
+        <localname>益阳市 / Yiyang</localname>
+        <boundary>administrative</boundary>
+        <id>CN.hunan.3202593</id>
+        <name>Yiyang City</name>
+      </desc>
+    </path>
+    <path d="M 404.438 288.8504 455.1474 281.3932 546.1261 284.3761 534.1944 350 507.3483 361.9316 473.0449 351.4915 446.1987 320.1709 417.8611 323.1538 404.438 288.8504 Z" id="CN.hunan.3202624" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>5</admin_leve>
+        <localname>湘潭市 / Xiangtan</localname>
+        <boundary>administrative</boundary>
+        <id>CN.hunan.3202624</id>
+        <name>Xiangtan City</name>
+      </desc>
+    </path>
+    <path d="M 391.015 273.9359 396.9808 251.5641 476.0278 235.1581 493.9252 208.312 558.0577 211.2949 584.9038 191.906 626.6645 221.735 675.8825 205.3291 698.2543 235.1581 629.6474 291.8333 602.8013 282.8846 581.9209 296.3077 546.1261 284.3761 455.1474 281.3932 404.438 288.8504 391.015 273.9359 Z" id="CN.hunan.3202711" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>5</admin_leve>
+        <localname>长沙市 / Changsha</localname>
+        <boundary>administrative</boundary>
+        <id>CN.hunan.3202711</id>
+        <name>Changsha City</name>
+      </desc>
+    </path>
+  </g>
+</svg>

@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="nepal">
+    <path d="M 428.0562 355.6689 398.985 393.7522 400.7293 405.6714 393.1708 403.6364 386.4844 400.1479 372.8209 412.3578 338.8076 398.6943 322.5277 402.1828 289.6772 396.0779 302.1778 390.5544 307.9921 387.9379 318.167 368.7509 310.3178 352.7618 322.5277 330.3769 317.8763 322.8184 329.5048 311.7713 353.9246 302.1778 404.5085 336.1912 414.3928 336.1912 424.8584 326.307 433.8705 330.0862 428.0562 355.6689 Z" id="NP.PM" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>6</labelrank>
+        <code_hasc>NP.PM</code_hasc>
+        <name>Gandaki</name>
+        <admin>Nepal</admin>
+        <type_en>District</type_en>
+        <region>West</region>
+        <woe_id>23706802</woe_id>
+        <longitude>84</longitude>
+        <woe_name>Gandaki</woe_name>
+        <fips>NP04</fips>
+        <woe_label/>
+        <latitude>28</latitude>
+        <iso_a2>NP</iso_a2>
+        <postal>PM</postal>
+        <type>Vikas Kshetra</type>
+        <id>NP.PM</id>
+      </desc>
+    </path>
+    <path d="M 214.3828 298.1079 182.4044 332.9933 170.4852 332.4119 166.9967 337.354 164.671 358.8667 175.1366 369.0416 168.1595 377.4723 182.6951 391.1358 181.5323 396.6593 171.6481 401.8921 155.0775 407.1249 122.5177 386.7751 115.8313 377.763 107.4007 380.9608 96.6443 358.576 86.1787 355.9596 105.9471 328.3419 100.7143 312.6435 90.2486 311.4806 82.1087 302.4686 86.7601 299.8521 99.8421 306.2478 119.6106 307.12 127.1691 321.3648 130.3669 318.4577 116.7035 297.2357 128.3319 285.3165 131.2391 292.2936 153.3332 298.98 172.8109 298.98 190.2536 286.4794 200.4286 288.5144 201.3007 296.6543 214.3828 298.1079 Z" id="NP.MP" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>6</labelrank>
+        <code_hasc>NP.MP</code_hasc>
+        <name>Bheri</name>
+        <admin>Nepal</admin>
+        <type_en>District</type_en>
+        <region>Mid-Western</region>
+        <woe_id>23706800</woe_id>
+        <longitude>81</longitude>
+        <woe_name>Bheri</woe_name>
+        <fips>NP02</fips>
+        <woe_label/>
+        <latitude>28</latitude>
+        <iso_a2>NP</iso_a2>
+        <postal>MP</postal>
+        <type>Vikas Kshetra</type>
+        <id>NP.MP</id>
+      </desc>
+    </path>
+    <path d="M 353.9246 302.1778 329.5048 311.7713 317.8763 322.8184 322.5277 330.3769 310.3178 352.7618 318.167 368.7509 307.9921 387.9379 302.1778 390.5544 293.1658 379.798 267.2924 367.2974 259.4431 368.1695 242.0004 347.2382 247.8147 334.7376 259.4431 329.5048 263.5131 321.0741 275.723 322.5277 290.8401 316.7135 305.3757 279.5023 308.5735 273.3973 326.8884 266.711 341.7147 269.6181 354.2153 291.4215 353.9246 302.1778 Z" id="NP.747" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>6</labelrank>
+        <code_hasc>NP.PM</code_hasc>
+        <name>Dhawalagiri</name>
+        <admin>Nepal</admin>
+        <type_en>Administrative Zone</type_en>
+        <region>West</region>
+        <woe_id>23706801</woe_id>
+        <longitude>83</longitude>
+        <woe_name>Dhawalagiri</woe_name>
+        <fips>NP03</fips>
+        <woe_label/>
+        <latitude>28</latitude>
+        <iso_a2>NP</iso_a2>
+        <postal>PM</postal>
+        <type>Anchal</type>
+        <id>NP.747</id>
+      </desc>
+    </path>
+    <path d="M 305.3757 279.5023 290.8401 316.7135 275.723 322.5277 263.5131 321.0741 245.7797 313.5156 230.3719 313.8063 214.3828 298.1079 201.3007 296.6543 200.4286 288.5144 190.2536 286.4794 172.8109 298.98 153.3332 298.98 131.2391 292.2936 128.3319 285.3165 123.0991 281.2466 121.9363 269.3274 130.6576 262.641 142.8676 263.8038 141.7047 252.4661 148.1004 240.5469 140.5419 231.5348 146.9375 211.4756 136.4719 206.8242 122.8084 211.7663 117.5756 199.2657 104.4935 194.905 104.4935 189.6722 112.0521 185.0208 114.3778 165.8338 124.5527 170.1945 133.2741 161.7638 171.3574 169.0317 172.5202 179.2066 178.3344 183.858 178.3344 195.7772 210.8942 208.2778 235.8955 233.2791 247.5239 232.6976 255.0825 240.5469 264.0945 236.4769 271.9438 250.4311 279.5023 251.3032 294.3286 277.758 305.3757 279.5023 Z" id="NP.748" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>6</labelrank>
+        <code_hasc>NP.MP</code_hasc>
+        <name>Karnali</name>
+        <admin>Nepal</admin>
+        <type_en>Administrative Zone</type_en>
+        <region>Mid-Western</region>
+        <woe_id>23706804</woe_id>
+        <longitude>82</longitude>
+        <woe_name>Karnali</woe_name>
+        <fips>NP06</fips>
+        <woe_label/>
+        <latitude>29</latitude>
+        <iso_a2>NP</iso_a2>
+        <postal>MP</postal>
+        <type>Anchal</type>
+        <id>NP.748</id>
+      </desc>
+    </path>
+    <path d="M 302.1778 390.5544 289.6772 396.0779 322.5277 402.1828 338.8076 398.6943 372.8209 412.3578 373.1116 417.5906 357.4132 422.242 346.9475 434.1612 332.9933 433.289 331.8305 442.8825 324.272 444.6268 326.307 453.0575 303.3407 442.8825 286.1887 442.0104 277.4673 455.3832 264.3853 444.9175 231.8255 440.5569 224.8484 421.3698 228.3369 414.9742 239.384 413.5206 232.1162 408.8692 239.384 401.3107 252.1753 397.5314 252.7568 373.4023 259.4431 368.1695 267.2924 367.2974 293.1658 379.798 302.1778 390.5544 Z" id="NP.749" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>6</labelrank>
+        <code_hasc>NP.PM</code_hasc>
+        <name>Lumbini</name>
+        <admin>Nepal</admin>
+        <type_en>Administrative Zone</type_en>
+        <region>West</region>
+        <woe_id>23706806</woe_id>
+        <longitude>83</longitude>
+        <woe_name>Lumbini</woe_name>
+        <fips>NP08</fips>
+        <woe_label/>
+        <latitude>27</latitude>
+        <iso_a2>NP</iso_a2>
+        <postal>PM</postal>
+        <type>Anchal</type>
+        <id>NP.749</id>
+      </desc>
+    </path>
+    <path d="M 89.3765 199.2657 82.3994 208.5685 86.4694 225.7205 62.0496 235.314 60.596 247.5239 72.8059 256.2453 43.7347 288.8051 39.6647 298.6893 43.1533 328.0512 39.0833 339.389 1 312.6435 9.4307 286.7701 17.8613 283.863 16.6985 277.1766 21.6406 271.6531 16.6985 255.6639 30.9434 239.384 29.4898 224.8484 58.561 200.4286 71.3524 182.6951 82.9808 183.858 89.3765 199.2657 Z" id="NP.SP" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>6</labelrank>
+        <code_hasc>NP.SP</code_hasc>
+        <name>Mahakali</name>
+        <admin>Nepal</admin>
+        <type_en>Administrative Zone</type_en>
+        <region>Far-Western</region>
+        <woe_id>23706807</woe_id>
+        <longitude>80</longitude>
+        <woe_name>Mahakali</woe_name>
+        <fips>NP09</fips>
+        <woe_label/>
+        <latitude>29</latitude>
+        <iso_a2>NP</iso_a2>
+        <postal>SP</postal>
+        <type>Anchal</type>
+        <id>NP.SP</id>
+      </desc>
+    </path>
+    <path d="M 128.3319 285.3165 116.7035 297.2357 130.3669 318.4577 127.1691 321.3648 119.6106 307.12 99.8421 306.2478 86.7601 299.8521 82.1087 302.4686 90.2486 311.4806 100.7143 312.6435 105.9471 328.3419 86.1787 355.9596 43.1533 328.0512 39.6647 298.6893 43.7347 288.8051 72.8059 256.2453 60.596 247.5239 62.0496 235.314 86.4694 225.7205 82.3994 208.5685 89.3765 199.2657 100.4236 201.01 104.4935 194.905 117.5756 199.2657 122.8084 211.7663 136.4719 206.8242 146.9375 211.4756 140.5419 231.5348 148.1004 240.5469 141.7047 252.4661 142.8676 263.8038 130.6576 262.641 121.9363 269.3274 123.0991 281.2466 128.3319 285.3165 Z" id="NP.751" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>6</labelrank>
+        <code_hasc>NP.SP</code_hasc>
+        <name>Seti</name>
+        <admin>Nepal</admin>
+        <type_en>District</type_en>
+        <region>Far-Western</region>
+        <woe_id>23706812</woe_id>
+        <longitude>81</longitude>
+        <woe_name>Seti</woe_name>
+        <fips>NP14</fips>
+        <woe_label/>
+        <latitude>29</latitude>
+        <iso_a2>NP</iso_a2>
+        <postal>SP</postal>
+        <type>Vikas Kshetra</type>
+        <id>NP.751</id>
+      </desc>
+    </path>
+    <path d="M 512.3628 394.915 510.9092 407.9971 495.7922 427.1841 492.0129 441.1383 483.873 447.2432 467.3024 445.2082 446.9525 436.7776 440.5569 417.8813 428.3469 414.3928 405.9621 418.172 394.6243 412.9392 393.1708 403.6364 400.7293 405.6714 398.985 393.7522 428.0562 355.6689 442.0104 361.1924 457.7089 357.9946 472.2445 361.7738 479.803 353.3432 483.873 364.0995 495.2107 371.0766 504.5135 394.915 512.3628 394.915 Z" id="NP.MM" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>6</labelrank>
+        <code_hasc>NP.MM</code_hasc>
+        <name>Bagmati</name>
+        <admin>Nepal</admin>
+        <type_en>District</type_en>
+        <region>Central</region>
+        <woe_id>23706799</woe_id>
+        <longitude>85</longitude>
+        <woe_name>Bagmati</woe_name>
+        <fips>NP01</fips>
+        <woe_label/>
+        <latitude>27</latitude>
+        <iso_a2>NP</iso_a2>
+        <postal>MM</postal>
+        <type>Vikas Kshetra</type>
+        <id>NP.MM</id>
+      </desc>
+    </path>
+    <path d="M 551.3182 385.3215 558.586 406.8342 554.2253 417.2999 530.3869 441.429 528.0612 455.9646 544.3411 461.4881 539.1083 467.8838 541.7247 480.3844 524.282 489.1058 529.2241 507.4207 525.1541 518.177 513.5256 513.5256 498.1179 522.5377 487.6522 514.6885 486.1987 500.7343 477.1866 495.7922 456.546 505.3857 460.9067 479.5123 468.1745 466.1395 467.8838 456.546 462.0696 451.3132 467.3024 445.2082 483.873 447.2432 492.0129 441.1383 495.7922 427.1841 510.9092 407.9971 512.3628 394.915 517.3049 391.1358 512.9442 376.8909 519.9213 369.0416 525.7355 384.1587 543.7597 391.7172 551.3182 385.3215 Z" id="NP.753" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>6</labelrank>
+        <code_hasc>NP.MM</code_hasc>
+        <name>Janakpur</name>
+        <admin>Nepal</admin>
+        <type_en>Administrative Zone</type_en>
+        <region>Central</region>
+        <woe_id>23706803</woe_id>
+        <longitude>85</longitude>
+        <woe_name>Janakpur</woe_name>
+        <fips>NP05</fips>
+        <woe_label/>
+        <latitude>27</latitude>
+        <iso_a2>NP</iso_a2>
+        <postal>MM</postal>
+        <type>Anchal</type>
+        <id>NP.753</id>
+      </desc>
+    </path>
+    <path d="M 393.1708 403.6364 394.6243 412.9392 405.9621 418.172 428.3469 414.3928 440.5569 417.8813 446.9525 436.7776 467.3024 445.2082 462.0696 451.3132 467.8838 456.546 468.1745 466.1395 460.9067 479.5123 456.546 505.3857 442.8825 505.9671 439.6847 497.2457 427.4748 498.1179 409.4506 483.0008 393.1708 480.9658 395.2057 464.9767 388.2287 453.0575 363.2274 449.2782 346.6568 436.1962 339.0983 443.7547 331.8305 442.8825 332.9933 433.289 346.9475 434.1612 357.4132 422.242 373.1116 417.5906 372.8209 412.3578 386.4844 400.1479 393.1708 403.6364 Z" id="NP.754" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>6</labelrank>
+        <code_hasc>NP.MM</code_hasc>
+        <name>Narayani</name>
+        <admin>Nepal</admin>
+        <type_en>Administrative Zone</type_en>
+        <region>Central</region>
+        <woe_id>23706809</woe_id>
+        <longitude>84</longitude>
+        <woe_name>Narayani</woe_name>
+        <fips>NP11</fips>
+        <woe_label/>
+        <latitude>27</latitude>
+        <iso_a2>NP</iso_a2>
+        <postal>MM</postal>
+        <type>Anchal</type>
+        <id>NP.754</id>
+      </desc>
+    </path>
+    <path d="M 591.1458 385.3215 593.7622 408.5785 587.0758 436.1962 592.3086 446.9525 589.6922 466.1395 594.6343 485.6172 612.6585 485.3265 598.7043 503.06 593.7622 522.8284 574.8659 533.8755 538.5269 516.7234 525.1541 518.177 529.2241 507.4207 524.282 489.1058 541.7247 480.3844 539.1083 467.8838 544.3411 461.4881 528.0612 455.9646 530.3869 441.429 554.2253 417.2999 558.586 406.8342 551.3182 385.3215 553.9346 372.5302 563.2374 371.6581 570.2145 379.5073 591.1458 385.3215 Z" id="NP.PW" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>6</labelrank>
+        <code_hasc>NP.PW</code_hasc>
+        <name>Sagarmatha</name>
+        <admin>Nepal</admin>
+        <type_en>Administrative Zone</type_en>
+        <region>East</region>
+        <woe_id>23706811</woe_id>
+        <longitude>86</longitude>
+        <woe_name>Sagarmatha</woe_name>
+        <fips>NP13</fips>
+        <woe_label/>
+        <latitude>27</latitude>
+        <iso_a2>NP</iso_a2>
+        <postal>PW</postal>
+        <type>Anchal</type>
+        <id>NP.PW</id>
+      </desc>
+    </path>
+    <path d="M 651.3232 395.4965 646.6718 407.4157 640.8576 409.1599 633.5898 437.9404 640.5668 445.7897 659.4631 452.7668 638.5319 476.3145 655.3932 496.3736 655.9746 530.3869 650.7418 533.8755 635.6247 529.8055 627.1941 538.2362 618.7634 532.4219 608.8792 533.294 602.4835 516.7234 593.7622 522.8284 598.7043 503.06 612.6585 485.3265 594.6343 485.6172 589.6922 466.1395 592.3086 446.9525 587.0758 436.1962 593.7622 408.5785 591.1458 385.3215 606.5535 396.6593 624.287 392.88 624.8684 397.8222 651.3232 395.4965 Z" id="NP.756" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>6</labelrank>
+        <code_hasc>NP.PW</code_hasc>
+        <name>Bhojpur</name>
+        <admin>Nepal</admin>
+        <type_en>District</type_en>
+        <region>East</region>
+        <woe_id>23706805</woe_id>
+        <longitude>87</longitude>
+        <woe_name>Kosi</woe_name>
+        <fips>NP07</fips>
+        <woe_label/>
+        <latitude>27</latitude>
+        <iso_a2>NP</iso_a2>
+        <postal>PW</postal>
+        <type>Vikas Kshetra</type>
+        <id>NP.756</id>
+      </desc>
+    </path>
+    <path d="M 655.9746 530.3869 655.3932 496.3736 638.5319 476.3145 659.4631 452.7668 640.5668 445.7897 633.5898 437.9404 640.8576 409.1599 646.6718 407.4157 651.3232 395.4965 657.7189 394.6243 664.1145 385.6122 692.6043 390.2636 682.4294 424.5677 684.4644 441.1383 679.813 461.7788 696.965 484.7451 699 496.0829 687.0808 532.7126 674.5802 524.282 655.9746 530.3869 Z" id="NP.757" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>6</labelrank>
+        <code_hasc>NP.PW</code_hasc>
+        <name>Mechi</name>
+        <admin>Nepal</admin>
+        <type_en>Administrative Zone</type_en>
+        <region>East</region>
+        <woe_id>23706808</woe_id>
+        <longitude>87</longitude>
+        <woe_name>Mechi</woe_name>
+        <fips>NP10</fips>
+        <woe_label/>
+        <latitude>27</latitude>
+        <iso_a2>NP</iso_a2>
+        <postal>PW</postal>
+        <type>Anchal</type>
+        <id>NP.757</id>
+      </desc>
+    </path>
+    <path d="M 263.5131 321.0741 259.4431 329.5048 247.8147 334.7376 242.0004 347.2382 259.4431 368.1695 252.7568 373.4023 252.1753 397.5314 239.384 401.3107 232.1162 408.8692 239.384 413.5206 228.3369 414.9742 224.8484 421.3698 201.5914 423.4048 171.6481 401.8921 181.5323 396.6593 182.6951 391.1358 168.1595 377.4723 175.1366 369.0416 164.671 358.8667 166.9967 337.354 170.4852 332.4119 182.4044 332.9933 214.3828 298.1079 230.3719 313.8063 245.7797 313.5156 263.5131 321.0741 Z" id="NP.354" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <labelrank>6</labelrank>
+        <code_hasc>NP.MP</code_hasc>
+        <name>Rapti</name>
+        <admin>Nepal</admin>
+        <type_en>Administrative Zone</type_en>
+        <region>Mid-Western</region>
+        <woe_id>23706810</woe_id>
+        <longitude>82</longitude>
+        <woe_name>Rapti</woe_name>
+        <fips>NP12</fips>
+        <woe_label/>
+        <latitude>28</latitude>
+        <iso_a2>NP</iso_a2>
+        <postal>MP</postal>
+        <type>Anchal</type>
+        <id>NP.354</id>
+      </desc>
+    </path>
+  </g>
+</svg>

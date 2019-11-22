@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="qinghai">
+    <path d="M 594.7498 249.9833 620.1509 254.2168 639.7309 263.213 633.3806 285.439 630.2055 283.3222 610.0963 270.0925 594.7498 249.9833 Z" id="CN.qinghai.2707808" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Datong Hui and Tu Autonomous County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Datong Hui and Tu Autonomous County</wikipedia>
+        <localname>大通回族土族自治县 (Datong)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.qinghai.2707808</id>
+      </desc>
+    </path>
+    <path d="M 18.9924 378.5762 60.7983 377.5178 79.8491 386.514 91.4913 383.3389 123.2426 394.4519 142.8226 405.5648 158.6983 405.0356 172.9864 444.1956 161.8734 460.6005 168.2237 474.3594 159.7566 489.7058 129.0637 485.4723 93.0788 468.5383 64.5027 469.0675 28.5178 447.3707 18.9924 416.1486 18.9924 378.5762 Z M 94.1372 265.3298 112.6588 269.5633 132.2388 258.4503 143.881 260.0379 159.2274 248.3958 177.2199 245.7498 190.9788 233.0493 214.7923 240.9871 229.0804 235.6952 249.7187 237.812 267.7111 251.0417 300.5208 261.0963 312.6922 299.7271 317.9841 339.9454 265.5944 343.1205 235.9598 340.4746 210.5588 333.066 139.6475 326.1865 85.141 314.0152 80.9075 294.4352 65.0318 281.2055 94.1372 265.3298 Z" id="CN.qinghai.2708757" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>格尔木市 (Golmud)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.qinghai.2708757</id>
+        <name>Golmud City</name>
+      </desc>
+    </path>
+    <path d="M 587.3412 390.7475 595.8082 379.1054 618.0341 378.047 640.26 384.9265 652.9606 398.6854 652.4314 410.3275 632.3222 421.4405 595.8082 408.2108 587.3412 390.7475 Z" id="CN.qinghai.4467007" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Henan Mongol Autonomous County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Henan Mongol Autonomous County</wikipedia>
+        <localname>རྨ་ལྷོ་སོག་རིགས་རང་སྐྱོང་རྫོང་། / 河南蒙古族自治县 / Henan</localname>
+        <boundary>administrative</boundary>
+        <id>CN.qinghai.4467007</id>
+      </desc>
+    </path>
+    <path d="M 627.0303 314.0152 649.7854 330.9492 650.3146 333.5951 632.3222 336.7703 627.0303 314.0152 Z" id="CN.qinghai.4467008" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jainca County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Jainca County</wikipedia>
+        <localname>གཅན་ཚ་རྫོང་། / 尖扎县 / Jainca</localname>
+        <boundary>administrative</boundary>
+        <id>CN.qinghai.4467008</id>
+      </desc>
+    </path>
+    <path d="M 624.3844 347.3541 632.3222 336.7703 650.3146 333.5951 667.2487 350 664.6027 364.2881 650.8438 372.7551 634.9682 348.4124 624.3844 347.3541 Z" id="CN.qinghai.4467009" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Tongren County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Tongren County</wikipedia>
+        <localname>གཅན་ཚ་རྫོང་། / 同仁县 / Tongren</localname>
+        <boundary>administrative</boundary>
+        <id>CN.qinghai.4467009</id>
+      </desc>
+    </path>
+    <path d="M 577.2866 352.1168 612.213 356.3503 618.5633 348.4124 624.3844 347.3541 634.9682 348.4124 650.8438 372.7551 640.26 384.9265 618.0341 378.047 595.8082 379.1054 577.8158 371.6967 589.9871 360.0546 577.2866 352.1168 Z" id="CN.qinghai.4467010" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Zêkog County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Zêkog County</wikipedia>
+        <localname>རྩེ་ཁོག་རྫོང་། / 泽库县 / Zêkog</localname>
+        <boundary>administrative</boundary>
+        <id>CN.qinghai.4467010</id>
+      </desc>
+    </path>
+    <path d="M 627.0303 314.0152 627.5595 310.3108 634.9682 307.1357 652.4314 308.7233 667.2487 311.8984 677.8324 328.3033 649.7854 330.9492 627.0303 314.0152 Z" id="CN.qinghai.4470184" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hualong Hui Autonomous County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Hualong Hui Autonomous County</wikipedia>
+        <localname>化隆回族自治县 / Hualong / خُوَلْو خُوِذُو ذِجِشِیًا</localname>
+        <boundary>administrative</boundary>
+        <id>CN.qinghai.4470184</id>
+      </desc>
+    </path>
+    <path d="M 633.3806 285.439 639.7309 263.213 669.3654 266.9174 675.1865 285.439 654.019 294.9644 639.7309 293.3768 634.439 288.6141 633.3806 285.439 Z" id="CN.qinghai.4470185" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Huzhu Tu Autonomous County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Huzhu Tu Autonomous County</wikipedia>
+        <localname>互助土族自治县 / Ping'an</localname>
+        <boundary>administrative</boundary>
+        <id>CN.qinghai.4470185</id>
+      </desc>
+    </path>
+    <path d="M 654.019 294.9644 675.1865 285.439 685.2411 300.2563 667.2487 311.8984 652.4314 308.7233 654.019 294.9644 Z" id="CN.qinghai.4470186" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ledu District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Ledu District</wikipedia>
+        <localname>平安县 (Ledu)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.qinghai.4470186</id>
+      </desc>
+    </path>
+    <path d="M 667.2487 311.8984 685.2411 300.2563 699 310.84 681.0076 331.4784 677.8324 328.3033 667.2487 311.8984 Z" id="CN.qinghai.4470187" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Minhe Hui and Tu Autonomous County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>zh:民和回族土族自治县</wikipedia>
+        <localname>民和回族土族自治县 / Minhe / مٍهْ خُوِذُو تُوذُو ذِجِشِیًا</localname>
+        <boundary>administrative</boundary>
+        <id>CN.qinghai.4470187</id>
+      </desc>
+    </path>
+    <path d="M 638.1433 294.9644 639.7309 293.3768 654.019 294.9644 652.4314 308.7233 634.9682 307.1357 638.1433 294.9644 Z" id="CN.qinghai.4470188" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ping'an County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Ping'an County</wikipedia>
+        <localname>平安县 / Ping'an</localname>
+        <boundary>administrative</boundary>
+        <id>CN.qinghai.4470188</id>
+      </desc>
+    </path>
+    <path d="M 649.7854 330.9492 677.8324 328.3033 681.0076 331.4784 685.2411 343.6497 667.2487 350 650.3146 333.5951 649.7854 330.9492 Z" id="CN.qinghai.4470189" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Xunhua Salar Autonomous County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Xunhua Salar Autonomous County</wikipedia>
+        <localname>循化撒拉族自治县 / Xunhua</localname>
+        <boundary>administrative</boundary>
+        <id>CN.qinghai.4470189</id>
+      </desc>
+    </path>
+    <path d="M 556.6482 334.1243 589.4579 315.6027 604.2752 319.3071 618.5633 348.4124 612.213 356.3503 577.2866 352.1168 564.0569 352.1168 552.9439 340.4746 556.6482 334.1243 Z" id="CN.qinghai.4477905" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Guinan County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Guinan County</wikipedia>
+        <localname>མང་རྫོང་ / 贵南县 / Guinan</localname>
+        <boundary>administrative</boundary>
+        <id>CN.qinghai.4477905</id>
+      </desc>
+    </path>
+    <path d="M 552.9439 340.4746 564.0569 352.1168 577.2866 352.1168 589.9871 360.0546 577.8158 371.6967 595.8082 379.1054 587.3412 390.7475 574.6406 390.2183 557.1774 378.047 548.7104 348.4124 552.9439 340.4746 Z" id="CN.qinghai.4478821" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Tongde County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Tongde County</wikipedia>
+        <localname>འབའ་རྫོང་ / 同德县 / Tongde</localname>
+        <boundary>administrative</boundary>
+        <id>CN.qinghai.4478821</id>
+      </desc>
+    </path>
+    <path d="M 589.4579 315.6027 598.9833 301.3146 610.6255 301.3146 627.5595 310.3108 627.0303 314.0152 632.3222 336.7703 624.3844 347.3541 618.5633 348.4124 604.2752 319.3071 589.4579 315.6027 Z" id="CN.qinghai.4478884" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Guide County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Guide County</wikipedia>
+        <localname>ཁྲི་ཀ་རྫོང་ / 贵德县 / Guide</localname>
+        <boundary>administrative</boundary>
+        <id>CN.qinghai.4478884</id>
+      </desc>
+    </path>
+    <path d="M 489.9704 317.7195 501.6126 314.0152 520.1342 321.953 531.7763 311.3692 552.4147 321.4238 556.6482 334.1243 552.9439 340.4746 548.7104 348.4124 557.1774 378.047 543.9477 382.8097 515.3715 374.8719 499.4958 360.5838 502.671 341.533 489.9704 317.7195 Z" id="CN.qinghai.4479112" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Xinghai County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Xinghai County</wikipedia>
+        <localname>བྲག་དཀར་རྫོང / 兴海县 / Xinghai</localname>
+        <boundary>administrative</boundary>
+        <id>CN.qinghai.4479112</id>
+      </desc>
+    </path>
+    <path d="M 487.3245 297.6103 514.3131 287.0265 498.4375 273.2676 516.9591 263.7422 555.5898 279.0887 588.3995 283.8514 598.9833 301.3146 589.4579 315.6027 556.6482 334.1243 552.4147 321.4238 531.7763 311.3692 520.1342 321.953 501.6126 314.0152 489.9704 317.7195 487.3245 297.6103 Z" id="CN.qinghai.4479119" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Gonghe County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Gonghe County</wikipedia>
+        <localname>གསེར་ཆེན་རྫོང / 共和县 / Gonghe</localname>
+        <boundary>administrative</boundary>
+        <id>CN.qinghai.4479119</id>
+      </desc>
+    </path>
+    <path d="M 606.9212 280.1471 610.6255 301.3146 598.9833 301.3146 588.3995 283.8514 606.9212 280.1471 Z" id="CN.qinghai.4480258" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Huangyuan County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Huangyuan County</wikipedia>
+        <localname>湟源县 (Huangyuan)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.qinghai.4480258</id>
+      </desc>
+    </path>
+    <path d="M 606.9212 280.1471 610.0963 270.0925 630.2055 283.3222 625.9719 289.1433 628.0887 291.26 633.9098 294.4352 638.1433 294.9644 634.9682 307.1357 627.5595 310.3108 610.6255 301.3146 606.9212 280.1471 Z" id="CN.qinghai.4480259" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Huangzhong County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Huangzhong County</wikipedia>
+        <localname>湟中县 (Huangzhong)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.qinghai.4480259</id>
+      </desc>
+    </path>
+    <path d="M 396.304 272.7384 421.1759 276.4428 435.464 271.1509 443.931 257.9212 460.3359 253.6876 480.445 260.0379 498.4375 273.2676 514.3131 287.0265 487.3245 297.6103 482.5618 289.6725 441.2851 295.4936 424.351 307.1357 389.4246 290.7309 396.304 272.7384 Z" id="CN.qinghai.4489183" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ulan County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Ulan County</wikipedia>
+        <localname>ཝུའུ་ལན་རྫོང་ / 乌兰县 / Ulan</localname>
+        <boundary>administrative</boundary>
+        <id>CN.qinghai.4489183</id>
+      </desc>
+    </path>
+    <path d="M 443.931 179.072 448.6937 185.4223 515.9007 206.5898 525.9553 216.1152 522.7801 237.2828 511.138 250.5125 516.9591 263.7422 498.4375 273.2676 480.445 260.0379 460.3359 253.6876 443.931 257.9212 444.9894 242.5747 426.4678 220.8779 428.0553 205.0023 409.0045 197.0644 387.3078 174.3093 388.3662 156.8461 405.3002 159.492 443.931 179.072 Z" id="CN.qinghai.4489240" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Tianjun County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Tianjun County</wikipedia>
+        <localname>ཐེན་ཅུན་རྫོང་ / 天峻县 / Tianjun</localname>
+        <boundary>administrative</boundary>
+        <id>CN.qinghai.4489240</id>
+      </desc>
+    </path>
+    <path d="M 387.3078 174.3093 409.0045 197.0644 428.0553 205.0023 426.4678 220.8779 444.9894 242.5747 443.931 257.9212 435.464 271.1509 421.1759 276.4428 396.304 272.7384 371.9613 274.8552 335.4473 258.9795 300.5208 261.0963 267.7111 251.0417 249.7187 237.812 229.0804 235.6952 214.7923 240.9871 190.9788 233.0493 177.2199 245.7498 159.2274 248.3958 143.881 260.0379 132.2388 258.4503 112.6588 269.5633 94.1372 265.3298 84.6118 247.8666 54.9773 233.5785 55.5064 202.8855 61.3275 187.0099 150.7604 167.9591 156.5815 162.6672 188.862 161.6088 196.2707 173.2509 220.0842 172.1926 227.4928 182.2472 252.8939 180.1304 260.8317 200.7688 283.5868 197.5936 298.9333 204.4731 319.5716 199.7104 349.7354 211.8817 368.7862 201.298 387.3078 174.3093 Z" id="CN.qinghai.4489246" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Delhi City</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Delhi, Qinghai</wikipedia>
+        <localname>གཏེར་ལེན་ཁ་གྲོང་ཁྱེར། / 德令哈市 / Delhi</localname>
+        <boundary>administrative</boundary>
+        <id>CN.qinghai.4489246</id>
+      </desc>
+    </path>
+    <path d="M 159.7566 489.7058 168.2237 474.3594 161.8734 460.6005 172.9864 444.1956 220.0842 440.4913 230.1387 445.7832 260.8317 434.6702 290.9955 447.3707 312.163 461.1296 323.276 461.1296 333.8597 472.7718 339.1516 490.7642 312.163 501.348 306.3419 518.282 280.4117 506.1107 266.6528 494.4685 240.7225 505.0523 219.555 497.6437 208.9712 502.9356 194.6831 493.4102 159.7566 489.7058 Z" id="CN.qinghai.4492690" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Zadoi County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Zadoi County</wikipedia>
+        <localname>རྫ་སྟོད་རྫོང་། / 杂多县 / Zadoi</localname>
+        <boundary>administrative</boundary>
+        <id>CN.qinghai.4492690</id>
+      </desc>
+    </path>
+    <path d="M 404.2418 357.9378 419.0591 354.2335 442.8726 358.467 452.9272 347.3541 469.8613 349.4708 502.671 341.533 499.4958 360.5838 492.0872 377.5178 505.3169 390.7475 492.6164 413.5027 474.0948 421.9697 460.3359 419.3237 436.5224 414.561 421.7051 418.2654 396.304 400.2729 387.837 388.1016 404.2418 357.9378 Z" id="CN.qinghai.4493110" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Madoi County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Madoi County</wikipedia>
+        <localname>རྨ་སྟོད་རྫོང་ / 玛多县 / Madoi</localname>
+        <boundary>administrative</boundary>
+        <id>CN.qinghai.4493110</id>
+      </desc>
+    </path>
+    <path d="M 460.3359 419.3237 474.0948 421.9697 492.6164 413.5027 504.2585 437.3161 516.9591 435.7286 527.0136 434.141 550.8271 447.3707 564.5861 434.6702 566.1736 460.6005 535.4807 473.8302 527.0136 488.1183 478.3283 461.6588 460.3359 419.3237 Z" id="CN.qinghai.4494512" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Darlag County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Darlag County</wikipedia>
+        <localname>དར་ལག་རྫོང / 达日县 / Darlag</localname>
+        <boundary>administrative</boundary>
+        <id>CN.qinghai.4494512</id>
+      </desc>
+    </path>
+    <path d="M 582.0493 414.0318 586.2828 422.4989 564.5861 434.6702 550.8271 447.3707 527.0136 434.141 516.9591 435.7286 513.7839 420.9113 545.0061 410.3275 582.0493 414.0318 Z" id="CN.qinghai.4495153" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Gadê County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Gadê County</wikipedia>
+        <localname>དགའ་བདེ་རྫོང / 甘德县 / Gadê</localname>
+        <boundary>administrative</boundary>
+        <id>CN.qinghai.4495153</id>
+      </desc>
+    </path>
+    <path d="M 499.4958 360.5838 515.3715 374.8719 543.9477 382.8097 557.1774 378.047 574.6406 390.2183 587.3412 390.7475 595.8082 408.2108 582.0493 414.0318 545.0061 410.3275 513.7839 420.9113 516.9591 435.7286 504.2585 437.3161 492.6164 413.5027 505.3169 390.7475 492.0872 377.5178 499.4958 360.5838 Z" id="CN.qinghai.4495388" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Maqên County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Maqên County</wikipedia>
+        <localname>རྨ་ཆེན་རྫོང་ / 玛沁县 / Maqên</localname>
+        <boundary>administrative</boundary>
+        <id>CN.qinghai.4495388</id>
+      </desc>
+    </path>
+    <path d="M 566.1736 460.6005 573.5823 470.1259 600.0417 473.301 599.5125 493.9393 569.8779 498.1729 535.4807 473.8302 566.1736 460.6005 Z" id="CN.qinghai.4495622" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Banma County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>zh:班玛县</wikipedia>
+        <localname>པད་མ་རྫོང་ / 班玛县 / Banma</localname>
+        <boundary>administrative</boundary>
+        <id>CN.qinghai.4495622</id>
+      </desc>
+    </path>
+    <path d="M 564.5861 434.6702 586.2828 422.4989 605.3336 441.0205 624.9136 445.254 631.2638 462.188 600.0417 473.301 573.5823 470.1259 566.1736 460.6005 564.5861 434.6702 Z" id="CN.qinghai.4495623" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jigzhi County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Jigzhi County</wikipedia>
+        <localname>གཅིག་སྒྲིལ་རྫོང / 久治县 / Jigzhi</localname>
+        <boundary>administrative</boundary>
+        <id>CN.qinghai.4495623</id>
+      </desc>
+    </path>
+    <path d="M 387.837 388.1016 396.304 400.2729 421.7051 418.2654 407.9462 430.4367 408.4754 443.6664 425.9386 454.7794 405.8294 480.7096 365.0819 445.254 367.1986 422.4989 344.9727 404.5064 343.9143 387.5724 382.0159 399.2146 387.837 388.1016 Z" id="CN.qinghai.4505711" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Chindu County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Chindu County</wikipedia>
+        <localname>ཁྲི་འདུ་རྫོང་། / 称多县 / Chindu</localname>
+        <boundary>administrative</boundary>
+        <id>CN.qinghai.4505711</id>
+      </desc>
+    </path>
+    <path d="M 601.1001 226.1698 615.9174 226.1698 675.1865 261.6255 669.3654 266.9174 639.7309 263.213 620.1509 254.2168 594.7498 249.9833 590.5163 247.3374 602.6876 239.9287 601.1001 226.1698 Z" id="CN.qinghai.4516736" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Menyuan Hui Autonomous County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Menyuan Hui Autonomous County</wikipedia>
+        <localname>མོང་ཡོན་ཧུའེ་རིགས་རང་སྐྱོང་རྫོང / 门源县 / Menyuan</localname>
+        <boundary>administrative</boundary>
+        <id>CN.qinghai.4516736</id>
+      </desc>
+    </path>
+    <path d="M 306.3419 518.282 312.163 501.348 339.1516 490.7642 353.4397 501.8772 382.5451 508.2274 387.837 524.1031 374.6073 527.2782 365.6111 542.0955 343.9143 543.1539 308.4587 537.3328 306.3419 518.282 Z" id="CN.qinghai.4523341" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Nangchen County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Nangqên County</wikipedia>
+        <localname>ནང་ཆེན་རྫོང་། / 囊谦县 / Nangchen</localname>
+        <boundary>administrative</boundary>
+        <id>CN.qinghai.4523341</id>
+      </desc>
+    </path>
+    <path d="M 235.9598 340.4746 265.5944 343.1205 327.5095 372.2259 358.7316 355.8211 368.7862 362.1713 384.1327 347.8832 404.2418 357.9378 387.837 388.1016 382.0159 399.2146 343.9143 387.5724 344.9727 404.5064 367.1986 422.4989 365.0819 445.254 355.0273 437.3161 331.2138 429.3783 302.1084 399.7437 262.9484 385.9848 229.0804 400.2729 194.1539 398.6854 176.1615 385.9848 184.6285 360.5838 235.9598 340.4746 Z" id="CN.qinghai.4525617" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Qumarlêb County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Qumarlêb County</wikipedia>
+        <localname>ཆུ་དམར་ལེབ་རྫོང / 曲麻莱县 / Qumarlêb</localname>
+        <boundary>administrative</boundary>
+        <id>CN.qinghai.4525617</id>
+      </desc>
+    </path>
+    <path d="M 355.0273 437.3161 365.0819 445.254 405.8294 480.7096 412.7089 493.9393 402.1251 523.5739 387.837 524.1031 382.5451 508.2274 353.4397 501.8772 339.1516 490.7642 333.8597 472.7718 323.276 461.1296 355.0273 437.3161 Z" id="CN.qinghai.4525659" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Yushu City</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Yushu City, Qinghai</wikipedia>
+        <localname>ཡུལ་ཤུལ་རྫོང། / 玉树市 / Yushu</localname>
+        <boundary>administrative</boundary>
+        <id>CN.qinghai.4525659</id>
+      </desc>
+    </path>
+    <path d="M 85.141 314.0152 139.6475 326.1865 210.5588 333.066 235.9598 340.4746 184.6285 360.5838 176.1615 385.9848 194.1539 398.6854 229.0804 400.2729 262.9484 385.9848 302.1084 399.7437 331.2138 429.3783 355.0273 437.3161 323.276 461.1296 312.163 461.1296 290.9955 447.3707 260.8317 434.6702 230.1387 445.7832 220.0842 440.4913 172.9864 444.1956 158.6983 405.0356 142.8226 405.5648 123.2426 394.4519 91.4913 383.3389 79.8491 386.514 60.7983 377.5178 18.9924 378.5762 5.7627 376.9886 2.5876 354.7627 12.113 351.5876 16.8757 329.3616 1 320.8946 40.16 313.486 85.141 314.0152 Z" id="CN.qinghai.4538486" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Zhidoi County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Zhidoi County</wikipedia>
+        <localname>འབྲི་སྟོད་རྫོང་། / 治多县 / Zhidoi</localname>
+        <boundary>administrative</boundary>
+        <id>CN.qinghai.4538486</id>
+      </desc>
+    </path>
+    <path d="M 265.5944 343.1205 317.9841 339.9454 312.6922 299.7271 300.5208 261.0963 335.4473 258.9795 371.9613 274.8552 396.304 272.7384 389.4246 290.7309 424.351 307.1357 441.2851 295.4936 482.5618 289.6725 487.3245 297.6103 489.9704 317.7195 502.671 341.533 469.8613 349.4708 452.9272 347.3541 442.8726 358.467 419.0591 354.2335 404.2418 357.9378 384.1327 347.8832 368.7862 362.1713 358.7316 355.8211 327.5095 372.2259 265.5944 343.1205 Z" id="CN.qinghai.4542232" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dulan County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Dulan County</wikipedia>
+        <localname>ཏུའུ་ལན་རྫོང་ / 都兰县 / Dulan</localname>
+        <boundary>administrative</boundary>
+        <id>CN.qinghai.4542232</id>
+      </desc>
+    </path>
+    <path d="M 443.931 179.072 453.4564 166.9007 478.3283 163.1964 519.0758 192.8309 545.5353 205.0023 581.5201 207.6482 601.1001 226.1698 602.6876 239.9287 590.5163 247.3374 570.4071 240.4579 557.7066 225.6406 525.9553 216.1152 515.9007 206.5898 448.6937 185.4223 443.931 179.072 Z" id="CN.qinghai.4543386" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Qilian County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Qilian County</wikipedia>
+        <localname>ཆི་ལེན་རྫོང་ / 祁连县 / Qilian</localname>
+        <boundary>administrative</boundary>
+        <id>CN.qinghai.4543386</id>
+      </desc>
+    </path>
+    <path d="M 525.9553 216.1152 557.7066 225.6406 570.4071 240.4579 573.5823 256.8628 555.5898 279.0887 516.9591 263.7422 511.138 250.5125 522.7801 237.2828 525.9553 216.1152 Z" id="CN.qinghai.4543630" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Gangca County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Gangca County</wikipedia>
+        <localname>རྐང་ཚ་རྫོང་ / 刚察县 / Gangca</localname>
+        <boundary>administrative</boundary>
+        <id>CN.qinghai.4543630</id>
+      </desc>
+    </path>
+    <path d="M 555.5898 279.0887 573.5823 256.8628 570.4071 240.4579 590.5163 247.3374 594.7498 249.9833 610.0963 270.0925 606.9212 280.1471 588.3995 283.8514 555.5898 279.0887 Z" id="CN.qinghai.4543631" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Haiyan County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Haiyan County, Qinghai</wikipedia>
+        <localname>ཧའེ་ཡན་ / 海晏县 / Haiyan</localname>
+        <boundary>administrative</boundary>
+        <id>CN.qinghai.4543631</id>
+      </desc>
+    </path>
+    <path d="M 630.2055 283.3222 633.3806 285.439 634.439 288.6141 633.9098 289.6725 633.3806 289.6725 625.9719 289.1433 630.2055 283.3222 Z" id="CN.qinghai.5684035" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Chengbei District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Chengbei District</wikipedia>
+        <localname>城北区 (Chengbei)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.qinghai.5684035</id>
+      </desc>
+    </path>
+    <path d="M 633.9098 289.6725 634.439 288.6141 639.7309 293.3768 638.1433 294.9644 633.9098 294.4352 633.9098 289.6725 Z" id="CN.qinghai.5684036" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Chengdong District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Chengdong District</wikipedia>
+        <localname>城东区 (Chengdong)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.qinghai.5684036</id>
+      </desc>
+    </path>
+    <path d="M 625.9719 289.1433 633.3806 289.6725 628.0887 291.26 625.9719 289.1433 Z" id="CN.qinghai.5684037" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Chengxi District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Chengxi District</wikipedia>
+        <localname>城西区 (Chengxi)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.qinghai.5684037</id>
+      </desc>
+    </path>
+    <path d="M 628.0887 291.26 633.3806 289.6725 633.9098 289.6725 633.9098 294.4352 628.0887 291.26 Z" id="CN.qinghai.5684038" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Chengzhong District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Chengzhong District, Xining</wikipedia>
+        <localname>城中区 (Chengzhong)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.qinghai.5684038</id>
+      </desc>
+    </path>
+  </g>
+</svg>

@@ -1,0 +1,1270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="missouri">
+    <path d="M 375.0718 350 432.2356 351.0029 434.2414 365.0431 434.2414 376.0747 406.1609 375.0718 393.1236 380.0862 376.0747 379.0833 375.0718 350 Z" id="US.MO.125" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Maries County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>125</fips>
+        <incits>29125</incits>
+        <id>US.MO.125</id>
+        <population>9018</population>
+      </desc>
+    </path>
+    <path d="M 177.5057 538.5402 178.5086 512.4655 179.5115 493.4109 226.6466 494.4138 230.658 505.4454 229.6552 538.5402 177.5057 538.5402 Z" id="US.MO.009" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Barry County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>009</fips>
+        <incits>29009</incits>
+        <id>US.MO.009</id>
+        <population>35572</population>
+      </desc>
+    </path>
+    <path d="M 581.6638 453.296 589.6868 453.296 589.6868 423.2098 618.7701 423.2098 618.7701 473.3534 608.7414 480.3736 592.6954 482.3793 581.6638 477.3649 581.6638 453.296 Z" id="US.MO.017" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Bollinger County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>017</fips>
+        <incits>29017</incits>
+        <id>US.MO.017</id>
+        <population>12490</population>
+      </desc>
+    </path>
+    <path d="M 122.3477 168.4799 162.4626 168.4799 164.4684 194.5546 164.4684 198.5661 123.3506 198.5661 122.3477 190.5431 122.3477 168.4799 Z" id="US.MO.063" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>DeKalb County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>063</fips>
+        <incits>29063</incits>
+        <id>US.MO.063</id>
+        <population>12840</population>
+      </desc>
+    </path>
+    <path d="M 589.6868 419.1983 592.6954 416.1897 611.75 394.1264 620.7759 391.1178 655.8764 414.1839 654.8736 427.2213 646.8506 424.2126 618.7701 423.2098 589.6868 423.2098 589.6868 419.1983 Z" id="US.MO.157" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Perry County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>157</fips>
+        <incits>29157</incits>
+        <id>US.MO.157</id>
+        <population>19072</population>
+      </desc>
+    </path>
+    <path d="M 307.8793 309.8851 330.9454 309.8851 342.9799 284.8132 354.0115 303.8678 343.9828 335.9598 329.9425 335.9598 306.8764 318.9109 307.8793 309.8851 Z" id="US.MO.135" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Moniteau County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>135</fips>
+        <incits>29135</incits>
+        <id>US.MO.135</id>
+        <population>15748</population>
+      </desc>
+    </path>
+    <path d="M 375.0718 350 375.0718 345.9885 391.1178 332.9511 394.1264 321.9195 409.1695 311.8908 432.2356 307.8793 433.2385 307.8793 432.2356 351.0029 375.0718 350 Z" id="US.MO.151" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Osage County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>151</fips>
+        <incits>29151</incits>
+        <id>US.MO.151</id>
+        <population>13688</population>
+      </desc>
+    </path>
+    <path d="M 363.0374 240.6868 364.0402 213.6092 376.0747 207.592 411.1753 207.592 425.2155 207.592 425.2155 240.6868 363.0374 240.6868 Z" id="US.MO.137" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Monroe County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>137</fips>
+        <incits>29137</incits>
+        <id>US.MO.137</id>
+        <population>8774</population>
+      </desc>
+    </path>
+    <path d="M 300.8592 506.4483 300.8592 478.3678 323.9253 479.3707 369.0546 479.3707 386.1034 480.3736 383.0948 508.454 314.8994 506.4483 300.8592 506.4483 Z" id="US.MO.067" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Douglas County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>067</fips>
+        <incits>29067</incits>
+        <id>US.MO.067</id>
+        <population>13515</population>
+      </desc>
+    </path>
+    <path d="M 304.8707 203.5805 306.8764 168.4799 359.0259 167.477 365.0431 176.5029 364.0402 213.6092 321.9195 212.6063 322.9224 203.5805 304.8707 203.5805 Z" id="US.MO.121" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Macon County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>121</fips>
+        <incits>29121</incits>
+        <id>US.MO.121</id>
+        <population>15544</population>
+      </desc>
+    </path>
+    <path d="M 561.6063 377.0776 578.6552 369.0546 604.7299 385.1006 611.75 394.1264 592.6954 416.1897 583.6695 416.1897 556.592 394.1264 570.6322 383.0948 561.6063 377.0776 Z" id="US.MO.186" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ste. Genevieve County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>186</fips>
+        <incits>29186</incits>
+        <id>US.MO.186</id>
+        <population>17778</population>
+      </desc>
+    </path>
+    <path d="M 461.319 307.8793 476.3621 315.9023 493.4109 317.908 503.4397 323.9253 509.4569 324.9282 528.5115 313.8966 527.5086 330.9454 523.4971 360.0287 490.4023 360.0287 461.319 359.0259 461.319 307.8793 Z" id="US.MO.071" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Franklin County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>071</fips>
+        <incits>29071</incits>
+        <id>US.MO.071</id>
+        <population>101816</population>
+      </desc>
+    </path>
+    <path d="M 322.9224 358.023 322.9224 344.9856 329.9425 335.9598 343.9828 335.9598 353.0086 344.9856 375.0718 345.9885 375.0718 350 376.0747 379.0833 353.0086 379.0833 340.9741 379.0833 322.9224 358.023 Z" id="US.MO.131" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Miller County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>131</fips>
+        <incits>29131</incits>
+        <id>US.MO.131</id>
+        <population>25092</population>
+      </desc>
+    </path>
+    <path d="M 384.0977 269.7701 434.2414 270.773 432.2356 307.8793 409.1695 311.8908 394.1264 321.9195 383.0948 322.9224 372.0632 313.8966 380.0862 295.8448 378.0805 285.8161 384.0977 269.7701 Z" id="US.MO.027" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Callaway County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>027</fips>
+        <incits>29027</incits>
+        <id>US.MO.027</id>
+        <population>44359</population>
+      </desc>
+    </path>
+    <path d="M 70.1983 220.6293 123.3506 221.6322 122.3477 228.6523 123.3506 259.7414 109.3103 258.7385 92.2615 245.7011 82.2328 230.658 70.1983 220.6293 Z" id="US.MO.165" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Platte County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>165</fips>
+        <incits>29165</incits>
+        <id>US.MO.165</id>
+        <population>93310</population>
+      </desc>
+    </path>
+    <path d="M 230.658 399.1408 236.6753 390.1149 237.6782 374.069 283.8103 375.0718 282.8075 391.1178 271.7759 391.1178 270.773 402.1494 230.658 399.1408 Z" id="US.MO.085" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hickory County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>085</fips>
+        <incits>29085</incits>
+        <id>US.MO.085</id>
+        <population>9305</population>
+      </desc>
+    </path>
+    <path d="M 179.5115 334.9569 179.5115 321.9195 236.6753 322.9224 236.6753 327.9368 235.6724 359.0259 180.5144 359.0259 179.5115 334.9569 Z" id="US.MO.083" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Henry County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>083</fips>
+        <incits>29083</incits>
+        <id>US.MO.083</id>
+        <population>22059</population>
+      </desc>
+    </path>
+    <path d="M 476.3621 498.4253 477.3649 477.3649 498.4253 476.3621 503.4397 480.3736 523.4971 481.3764 533.5259 493.4109 535.5316 506.4483 488.3966 504.4425 476.3621 498.4253 Z" id="US.MO.035" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Carter County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>035</fips>
+        <incits>29035</incits>
+        <id>US.MO.035</id>
+        <population>6291</population>
+      </desc>
+    </path>
+    <path d="M 121.3448 418.1954 178.5086 419.1983 177.5057 425.2155 177.5057 449.2845 121.3448 448.2816 121.3448 418.1954 Z" id="US.MO.011" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Barton County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>011</fips>
+        <incits>29011</incits>
+        <id>US.MO.011</id>
+        <population>12275</population>
+      </desc>
+    </path>
+    <path d="M 527.5086 330.9454 528.5115 313.8966 548.569 309.8851 557.5948 295.8448 570.6322 287.8218 592.6954 296.8477 587.681 300.8592 578.6552 305.8736 571.6351 318.9109 577.6523 325.931 568.6264 340.9741 561.6063 328.9397 527.5086 330.9454 Z" id="US.MO.189" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>St. Louis County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>189</fips>
+        <incits>29189</incits>
+        <id>US.MO.189</id>
+        <population>1001444</population>
+      </desc>
+    </path>
+    <path d="M 238.681 282.8075 240.6868 246.704 247.7069 248.7098 278.796 236.6753 305.8736 252.7213 296.8477 265.7586 297.8506 269.7701 284.8132 283.8103 238.681 282.8075 Z" id="US.MO.195" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Saline County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>195</fips>
+        <incits>29195</incits>
+        <id>US.MO.195</id>
+        <population>23252</population>
+      </desc>
+    </path>
+    <path d="M 282.8075 442.2644 282.8075 435.2443 305.8736 435.2443 323.9253 435.2443 323.9253 479.3707 300.8592 478.3678 283.8103 476.3621 282.8075 442.2644 Z" id="US.MO.225" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Webster County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>225</fips>
+        <incits>29225</incits>
+        <id>US.MO.225</id>
+        <population>36466</population>
+      </desc>
+    </path>
+    <path d="M 162.4626 168.4799 163.4655 158.4511 210.6006 158.4511 210.6006 176.5029 210.6006 194.5546 164.4684 194.5546 162.4626 168.4799 Z" id="US.MO.061" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Daviess County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>061</fips>
+        <incits>29061</incits>
+        <id>US.MO.061</id>
+        <population>8294</population>
+      </desc>
+    </path>
+    <path d="M 523.4971 481.3764 527.5086 468.3391 527.5086 457.3075 533.5259 457.3075 547.5661 453.296 581.6638 453.296 581.6638 477.3649 592.6954 482.3793 577.6523 494.4138 533.5259 493.4109 523.4971 481.3764 Z" id="US.MO.223" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wayne County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>223</fips>
+        <incits>29223</incits>
+        <id>US.MO.223</id>
+        <population>13404</population>
+      </desc>
+    </path>
+    <path d="M 210.6006 221.6322 210.6006 212.6063 260.7443 212.6063 262.75 227.6494 278.796 236.6753 247.7069 248.7098 240.6868 246.704 236.6753 254.727 223.6379 250.7155 210.6006 255.7299 210.6006 221.6322 Z" id="US.MO.033" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Carroll County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>033</fips>
+        <incits>29033</incits>
+        <id>US.MO.033</id>
+        <population>9127</population>
+      </desc>
+    </path>
+    <path d="M 122.3477 264.7557 159.454 251.7184 163.4655 254.727 174.4971 261.7471 173.4943 285.8161 173.4943 293.8391 122.3477 292.8362 122.3477 264.7557 Z" id="US.MO.095" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jackson County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>095</fips>
+        <incits>29095</incits>
+        <id>US.MO.095</id>
+        <population>679996</population>
+      </desc>
+    </path>
+    <path d="M 358.023 140.3994 400.1437 140.3994 400.1437 145.4138 400.1437 177.5057 365.0431 176.5029 359.0259 167.477 358.023 140.3994 Z" id="US.MO.103" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Knox County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>103</fips>
+        <incits>29103</incits>
+        <id>US.MO.103</id>
+        <population>4067</population>
+      </desc>
+    </path>
+    <path d="M 94.2672 190.5431 122.3477 190.5431 123.3506 198.5661 123.3506 221.6322 70.1983 220.6293 76.2155 209.5977 95.2701 199.569 94.2672 190.5431 Z" id="US.MO.021" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Buchanan County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>021</fips>
+        <incits>29021</incits>
+        <id>US.MO.021</id>
+        <population>89631</population>
+      </desc>
+    </path>
+    <path d="M 121.3448 331.9483 122.3477 292.8362 173.4943 293.8391 173.4943 321.9195 179.5115 321.9195 179.5115 334.9569 153.4368 331.9483 121.3448 331.9483 Z" id="US.MO.037" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cass County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>037</fips>
+        <incits>29037</incits>
+        <id>US.MO.037</id>
+        <population>100641</population>
+      </desc>
+    </path>
+    <path d="M 484.3851 424.2126 484.3851 413.181 489.3994 408.1667 537.5374 409.1695 536.5345 419.1983 548.569 419.1983 547.5661 453.296 533.5259 457.3075 525.5029 457.3075 524.5 423.2098 502.4368 422.2069 484.3851 424.2126 Z" id="US.MO.093" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Iron County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>093</fips>
+        <incits>29093</incits>
+        <id>US.MO.093</id>
+        <population>10344</population>
+      </desc>
+    </path>
+    <path d="M 313.8966 538.5402 314.8994 506.4483 383.0948 508.454 383.0948 538.5402 313.8966 538.5402 Z" id="US.MO.153" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ozark County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>153</fips>
+        <incits>29153</incits>
+        <id>US.MO.153</id>
+        <population>9560</population>
+      </desc>
+    </path>
+    <path d="M 523.4971 360.0287 527.5086 330.9454 561.6063 328.9397 568.6264 340.9741 567.6236 359.0259 578.6552 369.0546 561.6063 377.0776 543.5546 380.0862 537.5374 373.0661 523.4971 360.0287 Z" id="US.MO.099" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jefferson County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>099</fips>
+        <incits>29099</incits>
+        <id>US.MO.099</id>
+        <population>221396</population>
+      </desc>
+    </path>
+    <path d="M 209.5977 111.3161 250.7155 111.3161 251.7184 132.3764 251.7184 144.4109 210.6006 144.4109 209.5977 111.3161 Z" id="US.MO.129" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Mercer County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>129</fips>
+        <incits>29129</incits>
+        <id>US.MO.129</id>
+        <population>3695</population>
+      </desc>
+    </path>
+    <path d="M 486.3908 538.5402 488.3966 504.4425 535.5316 506.4483 542.5517 519.4856 544.5575 538.5402 486.3908 538.5402 Z" id="US.MO.181" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ripley County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>181</fips>
+        <incits>29181</incits>
+        <id>US.MO.181</id>
+        <population>14032</population>
+      </desc>
+    </path>
+    <path d="M 353.0086 396.1322 353.0086 379.0833 376.0747 379.0833 393.1236 380.0862 392.1207 423.2098 369.0546 423.2098 369.0546 418.1954 352.0057 411.1753 353.0086 396.1322 Z" id="US.MO.169" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pulaski County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>169</fips>
+        <incits>29169</incits>
+        <id>US.MO.169</id>
+        <population>53748</population>
+      </desc>
+    </path>
+    <path d="M 226.6466 486.3908 226.6466 476.3621 283.8103 476.3621 300.8592 478.3678 300.8592 506.4483 258.7385 505.4454 255.7299 487.3937 226.6466 486.3908 Z" id="US.MO.043" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Christian County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>043</fips>
+        <incits>29043</incits>
+        <id>US.MO.043</id>
+        <population>80899</population>
+      </desc>
+    </path>
+    <path d="M 581.6638 538.5402 589.6868 524.5 608.7414 525.5029 608.7414 550.5747 608.7414 590.6897 565.6178 591.6925 581.6638 571.6351 595.704 562.6092 597.7098 550.5747 581.6638 538.5402 Z" id="US.MO.069" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dunklin County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>069</fips>
+        <incits>29069</incits>
+        <id>US.MO.069</id>
+        <population>31712</population>
+      </desc>
+    </path>
+    <path d="M 618.7701 473.3534 618.7701 423.2098 646.8506 424.2126 654.8736 427.2213 665.9052 446.2759 657.8822 460.3161 644.8448 461.319 629.8017 473.3534 618.7701 473.3534 Z" id="US.MO.031" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cape Girardeau County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>031</fips>
+        <incits>29031</incits>
+        <id>US.MO.031</id>
+        <population>77320</population>
+      </desc>
+    </path>
+    <path d="M 305.8736 252.7213 312.8937 240.6868 320.9167 242.6925 350 250.7155 335.9598 279.7989 305.8736 278.796 297.8506 269.7701 296.8477 265.7586 305.8736 252.7213 Z" id="US.MO.089" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Howard County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>089</fips>
+        <incits>29089</incits>
+        <id>US.MO.089</id>
+        <population>10257</population>
+      </desc>
+    </path>
+    <path d="M 121.3448 448.2816 177.5057 449.2845 180.5144 456.3046 179.5115 481.3764 121.3448 480.3736 121.3448 448.2816 Z" id="US.MO.097" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jasper County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>097</fips>
+        <incits>29097</incits>
+        <id>US.MO.097</id>
+        <population>116398</population>
+      </desc>
+    </path>
+    <path d="M 364.0402 213.6092 365.0431 176.5029 400.1437 177.5057 412.1782 177.5057 411.1753 207.592 376.0747 207.592 364.0402 213.6092 Z" id="US.MO.205" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Shelby County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>205</fips>
+        <incits>29205</incits>
+        <id>US.MO.205</id>
+        <population>6177</population>
+      </desc>
+    </path>
+    <path d="M 251.7184 144.4109 251.7184 132.3764 305.8736 131.3736 305.8736 136.3879 305.8736 168.4799 252.7213 168.4799 251.7184 144.4109 Z" id="US.MO.211" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Sullivan County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>211</fips>
+        <incits>29211</incits>
+        <id>US.MO.211</id>
+        <population>6448</population>
+      </desc>
+    </path>
+    <path d="M 224.6408 399.1408 230.658 399.1408 270.773 402.1494 272.7787 410.1724 271.7759 442.2644 225.6437 441.2615 226.6466 426.2184 224.6408 399.1408 Z" id="US.MO.167" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Polk County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>167</fips>
+        <incits>29167</incits>
+        <id>US.MO.167</id>
+        <population>30974</population>
+      </desc>
+    </path>
+    <path d="M 305.8736 392.1207 329.9425 393.1236 336.9626 402.1494 353.0086 396.1322 352.0057 411.1753 369.0546 418.1954 369.0546 423.2098 369.0546 436.2471 323.9253 435.2443 305.8736 435.2443 305.8736 392.1207 Z" id="US.MO.105" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Laclede County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>105</fips>
+        <incits>29105</incits>
+        <id>US.MO.105</id>
+        <population>35667</population>
+      </desc>
+    </path>
+    <path d="M 179.5115 493.4109 179.5115 481.3764 180.5144 456.3046 225.6437 456.3046 226.6466 476.3621 226.6466 486.3908 226.6466 494.4138 179.5115 493.4109 Z" id="US.MO.109" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lawrence County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>109</fips>
+        <incits>29109</incits>
+        <id>US.MO.109</id>
+        <population>38185</population>
+      </desc>
+    </path>
+    <path d="M 210.6006 158.4511 210.6006 144.4109 251.7184 144.4109 252.7213 168.4799 252.7213 175.5 210.6006 176.5029 210.6006 158.4511 Z" id="US.MO.079" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Grundy County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>079</fips>
+        <incits>29079</incits>
+        <id>US.MO.079</id>
+        <population>10355</population>
+      </desc>
+    </path>
+    <path d="M 122.3477 228.6523 123.3506 221.6322 123.3506 198.5661 164.4684 198.5661 163.4655 221.6322 163.4655 229.6552 122.3477 228.6523 Z" id="US.MO.049" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Clinton County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>049</fips>
+        <incits>29049</incits>
+        <id>US.MO.049</id>
+        <population>20571</population>
+      </desc>
+    </path>
+    <path d="M 358.023 109.3103 401.1466 108.3075 400.1437 140.3994 358.023 140.3994 358.023 135.3851 358.023 109.3103 Z" id="US.MO.199" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Scotland County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>199</fips>
+        <incits>29199</incits>
+        <id>US.MO.199</id>
+        <population>4921</population>
+      </desc>
+    </path>
+    <path d="M 121.3448 510.4598 178.5086 512.4655 177.5057 538.5402 121.3448 538.5402 121.3448 510.4598 Z" id="US.MO.119" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>McDonald County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>119</fips>
+        <incits>29119</incits>
+        <id>US.MO.119</id>
+        <population>22558</population>
+      </desc>
+    </path>
+    <path d="M 445.273 403.1523 468.3391 404.1552 467.3362 413.181 484.3851 413.181 484.3851 424.2126 467.3362 424.2126 467.3362 433.2385 478.3678 433.2385 478.3678 442.2644 432.2356 441.2615 421.204 441.2615 421.204 423.2098 415.1868 423.2098 416.1897 403.1523 445.273 403.1523 Z" id="US.MO.065" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dent County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>065</fips>
+        <incits>29065</incits>
+        <id>US.MO.065</id>
+        <population>15730</population>
+      </desc>
+    </path>
+    <path d="M 676.9368 485.3879 699 490.4023 688.9713 515.4741 692.9828 521.4914 685.9626 531.5201 674.931 524.5 654.8736 499.4282 669.9167 486.3908 676.9368 485.3879 Z" id="US.MO.133" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Mississippi County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>133</fips>
+        <incits>29133</incits>
+        <id>US.MO.133</id>
+        <population>14282</population>
+      </desc>
+    </path>
+    <path d="M 177.5057 425.2155 178.5086 419.1983 179.5115 392.1207 205.5862 393.1236 205.5862 399.1408 224.6408 399.1408 226.6466 426.2184 177.5057 425.2155 Z" id="US.MO.039" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cedar County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>039</fips>
+        <incits>29039</incits>
+        <id>US.MO.039</id>
+        <population>13913</population>
+      </desc>
+    </path>
+    <path d="M 323.9253 435.2443 369.0546 436.2471 369.0546 479.3707 323.9253 479.3707 323.9253 435.2443 Z" id="US.MO.229" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wright County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>229</fips>
+        <incits>29229</incits>
+        <id>US.MO.229</id>
+        <population>18473</population>
+      </desc>
+    </path>
+    <path d="M 283.8103 308.8822 284.8132 283.8103 297.8506 269.7701 305.8736 278.796 335.9598 279.7989 342.9799 284.8132 330.9454 309.8851 307.8793 309.8851 283.8103 308.8822 Z" id="US.MO.053" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cooper County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>053</fips>
+        <incits>29053</incits>
+        <id>US.MO.053</id>
+        <population>17647</population>
+      </desc>
+    </path>
+    <path d="M 121.3448 480.3736 179.5115 481.3764 179.5115 493.4109 178.5086 512.4655 121.3448 510.4598 121.3448 480.3736 Z" id="US.MO.145" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Newton County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>145</fips>
+        <incits>29145</incits>
+        <id>US.MO.145</id>
+        <population>58845</population>
+      </desc>
+    </path>
+    <path d="M 369.0546 436.2471 369.0546 423.2098 392.1207 423.2098 415.1868 423.2098 421.204 423.2098 421.204 441.2615 432.2356 441.2615 431.2328 481.3764 386.1034 480.3736 369.0546 479.3707 369.0546 436.2471 Z" id="US.MO.215" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Texas County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>215</fips>
+        <incits>29215</incits>
+        <id>US.MO.215</id>
+        <population>25636</population>
+      </desc>
+    </path>
+    <path d="M 537.5374 409.1695 537.5374 373.0661 543.5546 380.0862 561.6063 377.0776 570.6322 383.0948 556.592 394.1264 583.6695 416.1897 592.6954 416.1897 589.6868 419.1983 548.569 419.1983 536.5345 419.1983 537.5374 409.1695 Z" id="US.MO.187" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>St. Francois County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>187</fips>
+        <incits>29187</incits>
+        <id>US.MO.187</id>
+        <population>66215</population>
+      </desc>
+    </path>
+    <path d="M 472.3506 277.7931 473.3534 261.7471 481.3764 252.7213 529.5144 253.7241 533.5259 265.7586 530.5172 270.773 535.5316 283.8103 504.4425 289.8276 488.3966 289.8276 472.3506 277.7931 Z" id="US.MO.113" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lincoln County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>113</fips>
+        <incits>29113</incits>
+        <id>US.MO.113</id>
+        <population>53860</population>
+      </desc>
+    </path>
+    <path d="M 431.2328 498.4253 431.2328 481.3764 432.2356 441.2615 478.3678 442.2644 486.3908 465.3305 496.4195 468.3391 498.4253 476.3621 477.3649 477.3649 476.3621 498.4253 431.2328 498.4253 Z" id="US.MO.203" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Shannon County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>203</fips>
+        <incits>29203</incits>
+        <id>US.MO.203</id>
+        <population>8297</population>
+      </desc>
+    </path>
+    <path d="M 23.0632 144.4109 62.1753 144.4109 73.2069 144.4109 77.2184 158.4511 82.2328 182.5201 77.2184 186.5316 60.1695 181.5172 44.1236 168.4799 40.1121 159.454 23.0632 144.4109 Z" id="US.MO.087" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Holt County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>087</fips>
+        <incits>29087</incits>
+        <id>US.MO.087</id>
+        <population>4568</population>
+      </desc>
+    </path>
+    <path d="M 400.1437 177.5057 400.1437 145.4138 448.2816 146.4167 448.2816 168.4799 454.2989 177.5057 412.1782 177.5057 400.1437 177.5057 Z" id="US.MO.111" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lewis County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>111</fips>
+        <incits>29111</incits>
+        <id>US.MO.111</id>
+        <population>10152</population>
+      </desc>
+    </path>
+    <path d="M 163.4655 254.727 163.4655 229.6552 163.4655 221.6322 210.6006 221.6322 210.6006 255.7299 203.5805 254.727 178.5086 262.75 174.4971 261.7471 163.4655 254.727 Z" id="US.MO.177" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ray County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>177</fips>
+        <incits>29177</incits>
+        <id>US.MO.177</id>
+        <population>23039</population>
+      </desc>
+    </path>
+    <path d="M 282.8075 354.0115 294.842 361.0316 314.8994 362.0345 322.9224 358.023 340.9741 379.0833 353.0086 379.0833 353.0086 396.1322 336.9626 402.1494 329.9425 393.1236 305.8736 392.1207 282.8075 391.1178 283.8103 375.0718 282.8075 354.0115 Z" id="US.MO.029" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Camden County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>029</fips>
+        <incits>29029</incits>
+        <id>US.MO.029</id>
+        <population>43862</population>
+      </desc>
+    </path>
+    <path d="M 320.9167 110.3132 358.023 109.3103 358.023 135.3851 323.9253 136.3879 320.9167 110.3132 Z" id="US.MO.197" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Schuyler County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>197</fips>
+        <incits>29197</incits>
+        <id>US.MO.197</id>
+        <population>4358</population>
+      </desc>
+    </path>
+    <path d="M 235.6724 359.0259 236.6753 327.9368 260.7443 324.9282 283.8103 325.931 282.8075 354.0115 283.8103 375.0718 237.6782 374.069 235.6724 359.0259 Z" id="US.MO.015" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Benton County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>015</fips>
+        <incits>29015</incits>
+        <id>US.MO.015</id>
+        <population>18932</population>
+      </desc>
+    </path>
+    <path d="M 431.2328 498.4253 476.3621 498.4253 488.3966 504.4425 486.3908 538.5402 429.227 538.5402 429.227 508.454 431.2328 498.4253 Z" id="US.MO.149" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Oregon County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>149</fips>
+        <incits>29149</incits>
+        <id>US.MO.149</id>
+        <population>10996</population>
+      </desc>
+    </path>
+    <path d="M 257.7356 538.5402 258.7385 505.4454 300.8592 506.4483 314.8994 506.4483 313.8966 538.5402 257.7356 538.5402 Z" id="US.MO.213" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Taney County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>213</fips>
+        <incits>29213</incits>
+        <id>US.MO.213</id>
+        <population>53575</population>
+      </desc>
+    </path>
+    <path d="M 362.0345 250.7155 363.0374 240.6868 425.2155 240.6868 454.2989 242.6925 457.3075 261.7471 434.2414 260.7443 434.2414 270.773 384.0977 269.7701 384.0977 251.7184 362.0345 250.7155 Z" id="US.MO.007" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Audrain County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>007</fips>
+        <incits>29007</incits>
+        <id>US.MO.007</id>
+        <population>25661</population>
+      </desc>
+    </path>
+    <path d="M 461.319 359.0259 490.4023 360.0287 489.3994 408.1667 484.3851 413.181 467.3362 413.181 468.3391 404.1552 445.273 403.1523 444.2701 365.0431 444.2701 359.0259 461.319 359.0259 Z" id="US.MO.055" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Crawford County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>055</fips>
+        <incits>29055</incits>
+        <id>US.MO.055</id>
+        <population>24543</population>
+      </desc>
+    </path>
+    <path d="M 383.0948 538.5402 383.0948 508.454 386.1034 480.3736 431.2328 481.3764 431.2328 498.4253 429.227 508.454 429.227 538.5402 383.0948 538.5402 Z" id="US.MO.091" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Howell County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>091</fips>
+        <incits>29091</incits>
+        <id>US.MO.091</id>
+        <population>40393</population>
+      </desc>
+    </path>
+    <path d="M 350 250.7155 362.0345 250.7155 384.0977 251.7184 384.0977 269.7701 378.0805 285.8161 380.0862 295.8448 372.0632 313.8966 359.0259 310.8879 354.0115 303.8678 342.9799 284.8132 335.9598 279.7989 350 250.7155 Z" id="US.MO.019" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Boone County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>019</fips>
+        <incits>29019</incits>
+        <id>US.MO.019</id>
+        <population>170773</population>
+      </desc>
+    </path>
+    <path d="M 123.3506 259.7414 122.3477 228.6523 163.4655 229.6552 163.4655 254.727 159.454 251.7184 122.3477 264.7557 123.3506 259.7414 Z" id="US.MO.047" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Clay County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>047</fips>
+        <incits>29047</incits>
+        <id>US.MO.047</id>
+        <population>230473</population>
+      </desc>
+    </path>
+    <path d="M 122.3477 158.4511 123.3506 131.3736 163.4655 132.3764 163.4655 158.4511 162.4626 168.4799 122.3477 168.4799 122.3477 158.4511 Z" id="US.MO.075" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Gentry County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>075</fips>
+        <incits>29075</incits>
+        <id>US.MO.075</id>
+        <population>6775</population>
+      </desc>
+    </path>
+    <path d="M 282.8075 354.0115 283.8103 325.931 283.8103 308.8822 307.8793 309.8851 306.8764 318.9109 329.9425 335.9598 322.9224 344.9856 322.9224 358.023 314.8994 362.0345 294.842 361.0316 282.8075 354.0115 Z" id="US.MO.141" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Morgan County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>141</fips>
+        <incits>29141</incits>
+        <id>US.MO.141</id>
+        <population>20265</population>
+      </desc>
+    </path>
+    <path d="M 252.7213 175.5 252.7213 168.4799 305.8736 168.4799 306.8764 168.4799 304.8707 203.5805 263.7529 203.5805 251.7184 203.5805 252.7213 175.5 Z" id="US.MO.115" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Linn County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>115</fips>
+        <incits>29115</incits>
+        <id>US.MO.115</id>
+        <population>12368</population>
+      </desc>
+    </path>
+    <path d="M 547.5661 453.296 548.569 419.1983 589.6868 419.1983 589.6868 423.2098 589.6868 453.296 581.6638 453.296 547.5661 453.296 Z" id="US.MO.123" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Madison County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>123</fips>
+        <incits>29123</incits>
+        <id>US.MO.123</id>
+        <population>12431</population>
+      </desc>
+    </path>
+    <path d="M 177.5057 449.2845 177.5057 425.2155 226.6466 426.2184 225.6437 441.2615 225.6437 456.3046 180.5144 456.3046 177.5057 449.2845 Z" id="US.MO.057" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dade County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>057</fips>
+        <incits>29057</incits>
+        <id>US.MO.057</id>
+        <population>7578</population>
+      </desc>
+    </path>
+    <path d="M 250.7155 111.3161 320.9167 110.3132 323.9253 136.3879 305.8736 136.3879 305.8736 131.3736 251.7184 132.3764 250.7155 111.3161 Z" id="US.MO.171" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Putnam County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>171</fips>
+        <incits>29171</incits>
+        <id>US.MO.171</id>
+        <population>4875</population>
+      </desc>
+    </path>
+    <path d="M 121.3448 331.9483 153.4368 331.9483 179.5115 334.9569 180.5144 359.0259 179.5115 378.0805 121.3448 375.0718 121.3448 331.9483 Z" id="US.MO.013" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Bates County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>013</fips>
+        <incits>29013</incits>
+        <id>US.MO.013</id>
+        <population>16550</population>
+      </desc>
+    </path>
+    <path d="M 60.1695 111.3161 63.1782 122.3477 62.1753 144.4109 23.0632 144.4109 16.0431 136.3879 1 110.3132 60.1695 111.3161 Z" id="US.MO.005" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Atchison County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>005</fips>
+        <incits>29005</incits>
+        <id>US.MO.005</id>
+        <population>5449</population>
+      </desc>
+    </path>
+    <path d="M 400.1437 145.4138 400.1437 140.3994 401.1466 108.3075 424.2126 108.3075 451.2902 136.3879 448.2816 146.4167 400.1437 145.4138 Z" id="US.MO.045" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Clark County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>045</fips>
+        <incits>29045</incits>
+        <id>US.MO.045</id>
+        <population>6910</population>
+      </desc>
+    </path>
+    <path d="M 608.7414 525.5029 635.819 525.5029 636.8218 501.4339 654.8736 499.4282 674.931 524.5 665.9052 539.5431 654.8736 541.5489 652.8678 555.5891 647.8534 548.569 633.8132 546.5632 628.7989 550.5747 608.7414 550.5747 608.7414 525.5029 Z" id="US.MO.143" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>New Madrid County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>143</fips>
+        <incits>29143</incits>
+        <id>US.MO.143</id>
+        <population>18365</population>
+      </desc>
+    </path>
+    <path d="M 60.1695 111.3161 119.3391 112.319 123.3506 131.3736 122.3477 158.4511 77.2184 158.4511 73.2069 144.4109 62.1753 144.4109 63.1782 122.3477 60.1695 111.3161 Z" id="US.MO.147" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Nodaway County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>147</fips>
+        <incits>29147</incits>
+        <id>US.MO.147</id>
+        <population>23261</population>
+      </desc>
+    </path>
+    <path d="M 270.773 402.1494 271.7759 391.1178 282.8075 391.1178 305.8736 392.1207 305.8736 435.2443 282.8075 435.2443 282.8075 442.2644 271.7759 442.2644 272.7787 410.1724 270.773 402.1494 Z" id="US.MO.059" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dallas County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>059</fips>
+        <incits>29059</incits>
+        <id>US.MO.059</id>
+        <population>16535</population>
+      </desc>
+    </path>
+    <path d="M 577.6523 494.4138 592.6954 482.3793 608.7414 480.3736 618.7701 473.3534 629.8017 473.3534 626.7931 477.3649 637.8247 493.4109 636.8218 501.4339 635.819 525.5029 608.7414 525.5029 589.6868 524.5 587.681 514.4713 586.6782 512.4655 585.6753 511.4626 584.6724 510.4598 583.6695 510.4598 583.6695 509.4569 583.6695 510.4598 577.6523 494.4138 Z" id="US.MO.207" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Stoddard County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>207</fips>
+        <incits>29207</incits>
+        <id>US.MO.207</id>
+        <population>29780</population>
+      </desc>
+    </path>
+    <path d="M 456.3046 306.8764 456.3046 292.8362 472.3506 292.8362 472.3506 277.7931 488.3966 289.8276 504.4425 289.8276 503.4397 323.9253 493.4109 317.908 476.3621 315.9023 461.319 307.8793 456.3046 306.8764 Z" id="US.MO.219" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Warren County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>219</fips>
+        <incits>29219</incits>
+        <id>US.MO.219</id>
+        <population>32999</population>
+      </desc>
+    </path>
+    <path d="M 425.2155 240.6868 425.2155 207.592 425.2155 204.5833 467.3362 204.5833 481.3764 213.6092 451.2902 229.6552 454.2989 242.6925 425.2155 240.6868 Z" id="US.MO.173" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ralls County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>173</fips>
+        <incits>29173</incits>
+        <id>US.MO.173</id>
+        <population>10192</population>
+      </desc>
+    </path>
+    <path d="M 119.3391 112.319 161.4598 112.319 163.4655 132.3764 123.3506 131.3736 119.3391 112.319 Z" id="US.MO.227" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Worth County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>227</fips>
+        <incits>29227</incits>
+        <id>US.MO.227</id>
+        <population>2090</population>
+      </desc>
+    </path>
+    <path d="M 432.2356 351.0029 433.2385 307.8793 442.2644 310.8879 456.3046 306.8764 461.319 307.8793 461.319 359.0259 444.2701 359.0259 444.2701 365.0431 434.2414 365.0431 432.2356 351.0029 Z" id="US.MO.073" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Gasconade County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>073</fips>
+        <incits>29073</incits>
+        <id>US.MO.073</id>
+        <population>14901</population>
+      </desc>
+    </path>
+    <path d="M 210.6006 176.5029 252.7213 175.5 251.7184 203.5805 263.7529 203.5805 260.7443 212.6063 210.6006 212.6063 210.6006 194.5546 210.6006 176.5029 Z" id="US.MO.117" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Livingston County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>117</fips>
+        <incits>29117</incits>
+        <id>US.MO.117</id>
+        <population>14871</population>
+      </desc>
+    </path>
+    <path d="M 503.4397 323.9253 504.4425 289.8276 535.5316 283.8103 547.5661 289.8276 555.5891 280.8017 578.6552 284.8132 592.6954 292.8362 592.6954 296.8477 570.6322 287.8218 557.5948 295.8448 548.569 309.8851 528.5115 313.8966 509.4569 324.9282 503.4397 323.9253 Z" id="US.MO.183" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>St. Charles County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>183</fips>
+        <incits>29183</incits>
+        <id>US.MO.183</id>
+        <population>373495</population>
+      </desc>
+    </path>
+    <path d="M 163.4655 221.6322 164.4684 198.5661 164.4684 194.5546 210.6006 194.5546 210.6006 212.6063 210.6006 221.6322 163.4655 221.6322 Z" id="US.MO.025" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Caldwell County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>025</fips>
+        <incits>29025</incits>
+        <id>US.MO.025</id>
+        <population>9097</population>
+      </desc>
+    </path>
+    <path d="M 77.2184 158.4511 122.3477 158.4511 122.3477 168.4799 122.3477 190.5431 94.2672 190.5431 82.2328 182.5201 77.2184 158.4511 Z" id="US.MO.003" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Andrew County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>003</fips>
+        <incits>29003</incits>
+        <id>US.MO.003</id>
+        <population>17445</population>
+      </desc>
+    </path>
+    <path d="M 489.3994 408.1667 490.4023 360.0287 523.4971 360.0287 537.5374 373.0661 537.5374 409.1695 489.3994 408.1667 Z" id="US.MO.221" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Washington County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>221</fips>
+        <incits>29221</incits>
+        <id>US.MO.221</id>
+        <population>25172</population>
+      </desc>
+    </path>
+    <path d="M 305.8736 136.3879 323.9253 136.3879 358.023 135.3851 358.023 140.3994 359.0259 167.477 306.8764 168.4799 305.8736 168.4799 305.8736 136.3879 Z" id="US.MO.001" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Adair County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>001</fips>
+        <incits>29001</incits>
+        <id>US.MO.001</id>
+        <population>25572</population>
+      </desc>
+    </path>
+    <path d="M 608.7414 550.5747 628.7989 550.5747 633.8132 546.5632 647.8534 548.569 652.8678 555.5891 646.8506 577.6523 639.8305 580.6609 632.8103 590.6897 608.7414 590.6897 608.7414 550.5747 Z" id="US.MO.155" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pemiscot County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>155</fips>
+        <incits>29155</incits>
+        <id>US.MO.155</id>
+        <population>17823</population>
+      </desc>
+    </path>
+    <path d="M 587.681 300.8592 586.6782 314.8994 577.6523 325.931 571.6351 318.9109 578.6552 305.8736 587.681 300.8592 Z" id="US.MO.510" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>St. Louis city</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>510</fips>
+        <incits>29510</incits>
+        <id>US.MO.510</id>
+        <population>318416</population>
+      </desc>
+    </path>
+    <path d="M 225.6437 456.3046 225.6437 441.2615 271.7759 442.2644 282.8075 442.2644 283.8103 476.3621 226.6466 476.3621 225.6437 456.3046 Z" id="US.MO.077" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Greene County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>077</fips>
+        <incits>29077</incits>
+        <id>US.MO.077</id>
+        <population>283870</population>
+      </desc>
+    </path>
+    <path d="M 161.4598 112.319 209.5977 111.3161 210.6006 144.4109 210.6006 158.4511 163.4655 158.4511 163.4655 132.3764 161.4598 112.319 Z" id="US.MO.081" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Harrison County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>081</fips>
+        <incits>29081</incits>
+        <id>US.MO.081</id>
+        <population>8741</population>
+      </desc>
+    </path>
+    <path d="M 343.9828 335.9598 354.0115 303.8678 359.0259 310.8879 372.0632 313.8966 383.0948 322.9224 394.1264 321.9195 391.1178 332.9511 375.0718 345.9885 353.0086 344.9856 343.9828 335.9598 Z" id="US.MO.051" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cole County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>051</fips>
+        <incits>29051</incits>
+        <id>US.MO.051</id>
+        <population>76699</population>
+      </desc>
+    </path>
+    <path d="M 432.2356 307.8793 434.2414 270.773 434.2414 260.7443 457.3075 261.7471 473.3534 261.7471 472.3506 277.7931 472.3506 292.8362 456.3046 292.8362 456.3046 306.8764 442.2644 310.8879 433.2385 307.8793 432.2356 307.8793 Z" id="US.MO.139" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Montgomery County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>139</fips>
+        <incits>29139</incits>
+        <id>US.MO.139</id>
+        <population>11965</population>
+      </desc>
+    </path>
+    <path d="M 226.6466 494.4138 226.6466 486.3908 255.7299 487.3937 258.7385 505.4454 257.7356 538.5402 229.6552 538.5402 230.658 505.4454 226.6466 494.4138 Z" id="US.MO.209" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Stone County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>209</fips>
+        <incits>29209</incits>
+        <id>US.MO.209</id>
+        <population>31297</population>
+      </desc>
+    </path>
+    <path d="M 121.3448 375.0718 179.5115 378.0805 179.5115 392.1207 178.5086 419.1983 121.3448 418.1954 121.3448 375.0718 Z" id="US.MO.217" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Vernon County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>217</fips>
+        <incits>29217</incits>
+        <id>US.MO.217</id>
+        <population>20949</population>
+      </desc>
+    </path>
+    <path d="M 481.3764 213.6092 493.4109 227.6494 521.4914 243.6954 529.5144 253.7241 481.3764 252.7213 473.3534 261.7471 457.3075 261.7471 454.2989 242.6925 451.2902 229.6552 481.3764 213.6092 Z" id="US.MO.163" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pike County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>163</fips>
+        <incits>29163</incits>
+        <id>US.MO.163</id>
+        <population>18669</population>
+      </desc>
+    </path>
+    <path d="M 236.6753 327.9368 236.6753 322.9224 238.681 283.8103 238.681 282.8075 284.8132 283.8103 283.8103 308.8822 283.8103 325.931 260.7443 324.9282 236.6753 327.9368 Z" id="US.MO.159" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pettis County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>159</fips>
+        <incits>29159</incits>
+        <id>US.MO.159</id>
+        <population>42205</population>
+      </desc>
+    </path>
+    <path d="M 484.3851 424.2126 502.4368 422.2069 524.5 423.2098 525.5029 457.3075 527.5086 457.3075 527.5086 468.3391 523.4971 481.3764 503.4397 480.3736 498.4253 476.3621 496.4195 468.3391 486.3908 465.3305 478.3678 442.2644 478.3678 433.2385 467.3362 433.2385 467.3362 424.2126 484.3851 424.2126 Z" id="US.MO.179" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Reynolds County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>179</fips>
+        <incits>29179</incits>
+        <id>US.MO.179</id>
+        <population>6599</population>
+      </desc>
+    </path>
+    <path d="M 179.5115 392.1207 179.5115 378.0805 180.5144 359.0259 235.6724 359.0259 237.6782 374.069 236.6753 390.1149 230.658 399.1408 224.6408 399.1408 205.5862 399.1408 205.5862 393.1236 179.5115 392.1207 Z" id="US.MO.185" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>St. Clair County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>185</fips>
+        <incits>29185</incits>
+        <id>US.MO.185</id>
+        <population>9487</population>
+      </desc>
+    </path>
+    <path d="M 320.9167 242.6925 321.9195 212.6063 364.0402 213.6092 363.0374 240.6868 362.0345 250.7155 350 250.7155 320.9167 242.6925 Z" id="US.MO.175" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Randolph County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>175</fips>
+        <incits>29175</incits>
+        <id>US.MO.175</id>
+        <population>24940</population>
+      </desc>
+    </path>
+    <path d="M 260.7443 212.6063 263.7529 203.5805 304.8707 203.5805 322.9224 203.5805 321.9195 212.6063 320.9167 242.6925 312.8937 240.6868 305.8736 252.7213 278.796 236.6753 262.75 227.6494 260.7443 212.6063 Z" id="US.MO.041" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Chariton County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>041</fips>
+        <incits>29041</incits>
+        <id>US.MO.041</id>
+        <population>7628</population>
+      </desc>
+    </path>
+    <path d="M 173.4943 293.8391 173.4943 285.8161 202.5776 285.8161 202.5776 282.8075 238.681 283.8103 236.6753 322.9224 179.5115 321.9195 173.4943 321.9195 173.4943 293.8391 Z" id="US.MO.101" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Johnson County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>101</fips>
+        <incits>29101</incits>
+        <id>US.MO.101</id>
+        <population>54572</population>
+      </desc>
+    </path>
+    <path d="M 533.5259 493.4109 577.6523 494.4138 583.6695 510.4598 583.6695 509.4569 583.6695 510.4598 584.6724 510.4598 585.6753 511.4626 586.6782 512.4655 587.681 514.4713 589.6868 524.5 581.6638 538.5402 544.5575 538.5402 542.5517 519.4856 535.5316 506.4483 533.5259 493.4109 Z" id="US.MO.023" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Butler County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>023</fips>
+        <incits>29023</incits>
+        <id>US.MO.023</id>
+        <population>43083</population>
+      </desc>
+    </path>
+    <path d="M 392.1207 423.2098 393.1236 380.0862 406.1609 375.0718 434.2414 376.0747 434.2414 365.0431 444.2701 365.0431 445.273 403.1523 416.1897 403.1523 415.1868 423.2098 392.1207 423.2098 Z" id="US.MO.161" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Phelps County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>161</fips>
+        <incits>29161</incits>
+        <id>US.MO.161</id>
+        <population>44807</population>
+      </desc>
+    </path>
+    <path d="M 411.1753 207.592 412.1782 177.5057 454.2989 177.5057 455.3017 189.5402 467.3362 204.5833 425.2155 204.5833 425.2155 207.592 411.1753 207.592 Z" id="US.MO.127" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Marion County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>127</fips>
+        <incits>29127</incits>
+        <id>US.MO.127</id>
+        <population>28904</population>
+      </desc>
+    </path>
+    <path d="M 629.8017 473.3534 644.8448 461.319 657.8822 460.3161 676.9368 485.3879 669.9167 486.3908 654.8736 499.4282 636.8218 501.4339 637.8247 493.4109 626.7931 477.3649 629.8017 473.3534 Z" id="US.MO.201" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Scott County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>201</fips>
+        <incits>29201</incits>
+        <id>US.MO.201</id>
+        <population>39290</population>
+      </desc>
+    </path>
+    <path d="M 173.4943 285.8161 174.4971 261.7471 178.5086 262.75 203.5805 254.727 210.6006 255.7299 223.6379 250.7155 236.6753 254.727 240.6868 246.704 238.681 282.8075 238.681 283.8103 202.5776 282.8075 202.5776 285.8161 173.4943 285.8161 Z" id="US.MO.107" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lafayette County</name>
+        <stateAbbrev>MO</stateAbbrev>
+        <state>Missouri</state>
+        <fips>107</fips>
+        <incits>29107</incits>
+        <id>US.MO.107</id>
+        <population>32943</population>
+      </desc>
+    </path>
+  </g>
+</svg>

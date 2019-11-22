@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="west_virginia">
+    <path d="M 479.2593 291.2458 506.2862 271.2694 523.9125 272.4444 547.4141 251.2929 567.3906 261.8687 550.9394 274.7946 540.3636 290.0707 520.3872 304.1717 499.2357 293.596 479.2593 291.2458 Z" id="US.WV.057" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Mineral County</name>
+        <stateAbbrev>WV</stateAbbrev>
+        <state>West Virginia</state>
+        <fips>057</fips>
+        <incits>54057</incits>
+        <id>US.WV.057</id>
+        <population>27704</population>
+      </desc>
+    </path>
+    <path d="M 627.3199 283.0202 640.2458 253.6431 656.697 250.1178 675.4983 253.6431 684.899 267.7441 655.5219 300.6465 627.3199 283.0202 Z" id="US.WV.003" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Berkeley County</name>
+        <stateAbbrev>WV</stateAbbrev>
+        <state>West Virginia</state>
+        <fips>003</fips>
+        <incits>54003</incits>
+        <id>US.WV.003</id>
+        <population>108706</population>
+      </desc>
+    </path>
+    <path d="M 684.899 267.7441 697.8249 283.0202 699 292.4209 684.899 319.4478 655.5219 300.6465 684.899 267.7441 Z" id="US.WV.037" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jefferson County</name>
+        <stateAbbrev>WV</stateAbbrev>
+        <state>West Virginia</state>
+        <fips>037</fips>
+        <incits>54037</incits>
+        <id>US.WV.037</id>
+        <population>55073</population>
+      </desc>
+    </path>
+    <path d="M 520.3872 304.1717 540.3636 290.0707 550.9394 274.7946 567.3906 261.8687 593.2424 265.3939 610.8687 272.4444 612.0438 287.7205 600.2929 301.8215 602.6431 314.7475 588.5421 325.3232 532.138 310.0471 520.3872 304.1717 Z" id="US.WV.027" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hampshire County</name>
+        <stateAbbrev>WV</stateAbbrev>
+        <state>West Virginia</state>
+        <fips>027</fips>
+        <incits>54027</incits>
+        <id>US.WV.027</id>
+        <population>23445</population>
+      </desc>
+    </path>
+    <path d="M 593.2424 265.3939 610.8687 247.7677 622.6195 250.1178 634.3704 239.5421 656.697 250.1178 640.2458 253.6431 627.3199 283.0202 610.8687 272.4444 593.2424 265.3939 Z" id="US.WV.065" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Morgan County</name>
+        <stateAbbrev>WV</stateAbbrev>
+        <state>West Virginia</state>
+        <fips>065</fips>
+        <incits>54065</incits>
+        <id>US.WV.065</id>
+        <population>17498</population>
+      </desc>
+    </path>
+    <path d="M 448.7071 310.0471 448.7071 308.8721 452.2323 308.8721 458.1077 306.5219 471.0337 295.9461 479.2593 291.2458 499.2357 293.596 520.3872 304.1717 505.1111 332.3737 510.9865 348.8249 499.2357 365.2761 468.6835 344.1246 467.5084 342.9495 472.2088 307.697 449.8822 311.2222 448.7071 310.0471 Z" id="US.WV.023" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Grant County</name>
+        <stateAbbrev>WV</stateAbbrev>
+        <state>West Virginia</state>
+        <fips>023</fips>
+        <incits>54023</incits>
+        <id>US.WV.023</id>
+        <population>11759</population>
+      </desc>
+    </path>
+    <path d="M 409.9293 236.0168 449.8822 236.0168 449.8822 263.0438 448.7071 288.8956 448.7071 300.6465 448.7071 308.8721 448.7071 310.0471 446.3569 307.697 420.5051 299.4714 404.0539 305.3468 391.1279 295.9461 391.1279 275.9697 389.9529 270.0943 406.404 250.1178 409.9293 236.0168 Z" id="US.WV.077" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Preston County</name>
+        <stateAbbrev>WV</stateAbbrev>
+        <state>West Virginia</state>
+        <fips>077</fips>
+        <incits>54077</incits>
+        <id>US.WV.077</id>
+        <population>33859</population>
+      </desc>
+    </path>
+    <path d="M 279.4949 170.2121 290.0707 151.4108 286.5455 139.6599 301.8215 139.6599 301.8215 173.7374 279.4949 170.2121 Z" id="US.WV.009" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Brooke County</name>
+        <stateAbbrev>WV</stateAbbrev>
+        <state>West Virginia</state>
+        <fips>009</fips>
+        <incits>54009</incits>
+        <id>US.WV.009</id>
+        <population>23737</population>
+      </desc>
+    </path>
+    <path d="M 301.8215 139.6599 286.5455 139.6599 291.2458 127.9091 280.67 114.9832 301.8215 105.5825 301.8215 139.6599 Z" id="US.WV.029" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hancock County</name>
+        <stateAbbrev>WV</stateAbbrev>
+        <state>West Virginia</state>
+        <fips>029</fips>
+        <incits>54029</incits>
+        <id>US.WV.029</id>
+        <population>30291</population>
+      </desc>
+    </path>
+    <path d="M 271.2694 191.3636 301.8215 193.7138 301.8215 236.0168 257.1684 236.0168 258.3434 218.3906 268.9192 208.9899 271.2694 191.3636 Z" id="US.WV.051" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Marshall County</name>
+        <stateAbbrev>WV</stateAbbrev>
+        <state>West Virginia</state>
+        <fips>051</fips>
+        <incits>54051</incits>
+        <id>US.WV.051</id>
+        <population>32459</population>
+      </desc>
+    </path>
+    <path d="M 279.4949 170.2121 301.8215 173.7374 301.8215 193.7138 271.2694 191.3636 279.4949 170.2121 Z" id="US.WV.069" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ohio County</name>
+        <stateAbbrev>WV</stateAbbrev>
+        <state>West Virginia</state>
+        <fips>069</fips>
+        <incits>54069</incits>
+        <id>US.WV.069</id>
+        <population>43727</population>
+      </desc>
+    </path>
+    <path d="M 352.3502 304.1717 373.5017 302.9966 391.1279 295.9461 404.0539 305.3468 400.5286 321.798 391.1279 341.7744 364.101 345.2997 369.9764 337.0741 344.1246 322.9731 352.3502 304.1717 Z" id="US.WV.001" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Barbour County</name>
+        <stateAbbrev>WV</stateAbbrev>
+        <state>West Virginia</state>
+        <fips>001</fips>
+        <incits>54001</incits>
+        <id>US.WV.001</id>
+        <population>16770</population>
+      </desc>
+    </path>
+    <path d="M 298.2963 277.1448 305.3468 271.2694 333.5488 275.9697 347.6498 281.8451 352.3502 304.1717 344.1246 322.9731 333.5488 324.1481 291.2458 314.7475 300.6465 308.8721 290.0707 297.1212 298.2963 277.1448 Z" id="US.WV.033" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Harrison County</name>
+        <stateAbbrev>WV</stateAbbrev>
+        <state>West Virginia</state>
+        <fips>033</fips>
+        <incits>54033</incits>
+        <id>US.WV.033</id>
+        <population>68972</population>
+      </desc>
+    </path>
+    <path d="M 319.4478 247.7677 353.5253 251.2929 385.2525 273.6195 364.101 284.1953 347.6498 281.8451 333.5488 275.9697 305.3468 271.2694 305.3468 258.3434 319.4478 247.7677 Z" id="US.WV.049" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Marion County</name>
+        <stateAbbrev>WV</stateAbbrev>
+        <state>West Virginia</state>
+        <fips>049</fips>
+        <incits>54049</incits>
+        <id>US.WV.049</id>
+        <population>56868</population>
+      </desc>
+    </path>
+    <path d="M 315.9226 236.0168 409.9293 236.0168 406.404 250.1178 389.9529 270.0943 391.1279 275.9697 385.2525 273.6195 353.5253 251.2929 319.4478 247.7677 315.9226 236.0168 Z" id="US.WV.061" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Monongalia County</name>
+        <stateAbbrev>WV</stateAbbrev>
+        <state>West Virginia</state>
+        <fips>061</fips>
+        <incits>54061</incits>
+        <id>US.WV.061</id>
+        <population>102274</population>
+      </desc>
+    </path>
+    <path d="M 347.6498 281.8451 364.101 284.1953 385.2525 273.6195 391.1279 275.9697 391.1279 295.9461 373.5017 302.9966 352.3502 304.1717 347.6498 281.8451 Z" id="US.WV.091" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Taylor County</name>
+        <stateAbbrev>WV</stateAbbrev>
+        <state>West Virginia</state>
+        <fips>091</fips>
+        <incits>54091</incits>
+        <id>US.WV.091</id>
+        <population>16973</population>
+      </desc>
+    </path>
+    <path d="M 404.0539 305.3468 420.5051 299.4714 446.3569 307.697 448.7071 310.0471 449.8822 311.2222 472.2088 307.697 467.5084 342.9495 447.532 341.7744 406.404 333.5488 400.5286 321.798 404.0539 305.3468 Z" id="US.WV.093" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Tucker County</name>
+        <stateAbbrev>WV</stateAbbrev>
+        <state>West Virginia</state>
+        <fips>093</fips>
+        <incits>54093</incits>
+        <id>US.WV.093</id>
+        <population>6968</population>
+      </desc>
+    </path>
+    <path d="M 241.8923 252.468 257.1684 236.0168 301.8215 236.0168 315.9226 236.0168 319.4478 247.7677 305.3468 258.3434 305.3468 271.2694 298.2963 277.1448 287.7205 274.7946 274.7946 271.2694 255.9933 254.8182 241.8923 252.468 Z" id="US.WV.103" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wetzel County</name>
+        <stateAbbrev>WV</stateAbbrev>
+        <state>West Virginia</state>
+        <fips>103</fips>
+        <incits>54103</incits>
+        <id>US.WV.103</id>
+        <population>16204</population>
+      </desc>
+    </path>
+    <path d="M 216.0404 273.6195 241.8923 252.468 255.9933 254.8182 274.7946 271.2694 287.7205 274.7946 250.1178 295.9461 232.4916 288.8956 230.1414 272.4444 216.0404 273.6195 Z" id="US.WV.095" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Tyler County</name>
+        <stateAbbrev>WV</stateAbbrev>
+        <state>West Virginia</state>
+        <fips>095</fips>
+        <incits>54095</incits>
+        <id>US.WV.095</id>
+        <population>8995</population>
+      </desc>
+    </path>
+    <path d="M 228.9663 385.2525 236.0168 378.202 279.4949 353.5253 290.0707 351.1751 308.8721 362.9259 311.2222 375.8519 302.9966 388.7778 283.0202 405.229 264.2189 401.7037 250.1178 408.7542 228.9663 385.2525 Z" id="US.WV.007" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Braxton County</name>
+        <stateAbbrev>WV</stateAbbrev>
+        <state>West Virginia</state>
+        <fips>007</fips>
+        <incits>54007</incits>
+        <id>US.WV.007</id>
+        <population>14502</population>
+      </desc>
+    </path>
+    <path d="M 19.8013 421.6801 46.8283 414.6296 50.3535 398.1785 60.9293 395.8283 83.2559 413.4545 84.431 427.5556 66.8047 432.2559 53.8788 447.532 19.8013 421.6801 Z" id="US.WV.011" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cabell County</name>
+        <stateAbbrev>WV</stateAbbrev>
+        <state>West Virginia</state>
+        <fips>011</fips>
+        <incits>54011</incits>
+        <id>US.WV.011</id>
+        <population>97133</population>
+      </desc>
+    </path>
+    <path d="M 193.7138 350 194.8889 347.6498 212.5152 332.3737 214.8653 332.3737 216.0404 332.3737 217.2155 332.3737 220.7407 335.899 221.9158 335.899 223.0909 337.0741 225.4411 337.0741 227.7912 337.0741 228.9663 337.0741 228.9663 338.2492 232.4916 360.5758 225.4411 367.6263 236.0168 378.202 228.9663 385.2525 221.9158 393.4781 211.3401 388.7778 203.1145 360.5758 193.7138 350 Z" id="US.WV.013" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Calhoun County</name>
+        <stateAbbrev>WV</stateAbbrev>
+        <state>West Virginia</state>
+        <fips>013</fips>
+        <incits>54013</incits>
+        <id>US.WV.013</id>
+        <population>7564</population>
+      </desc>
+    </path>
+    <path d="M 206.6397 405.229 221.9158 393.4781 228.9663 385.2525 250.1178 408.7542 246.5926 421.6801 200.7643 442.8316 193.7138 413.4545 206.6397 405.229 Z" id="US.WV.015" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Clay County</name>
+        <stateAbbrev>WV</stateAbbrev>
+        <state>West Virginia</state>
+        <fips>015</fips>
+        <incits>54015</incits>
+        <id>US.WV.015</id>
+        <population>9244</population>
+      </desc>
+    </path>
+    <path d="M 250.1178 295.9461 287.7205 274.7946 298.2963 277.1448 290.0707 297.1212 300.6465 308.8721 291.2458 314.7475 272.4444 325.3232 260.6936 322.9731 250.1178 295.9461 Z" id="US.WV.017" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Doddridge County</name>
+        <stateAbbrev>WV</stateAbbrev>
+        <state>West Virginia</state>
+        <fips>017</fips>
+        <incits>54017</incits>
+        <id>US.WV.017</id>
+        <population>8344</population>
+      </desc>
+    </path>
+    <path d="M 179.6128 485.1347 187.8384 453.4074 200.7643 442.8316 221.9158 451.0572 236.0168 448.7071 250.1178 465.1582 266.569 482.7845 261.8687 499.2357 241.8923 506.2862 223.0909 498.0606 191.3636 495.7104 179.6128 485.1347 Z" id="US.WV.019" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Fayette County</name>
+        <stateAbbrev>WV</stateAbbrev>
+        <state>West Virginia</state>
+        <fips>019</fips>
+        <incits>54019</incits>
+        <id>US.WV.019</id>
+        <population>45599</population>
+      </desc>
+    </path>
+    <path d="M 228.9663 338.2492 230.1414 337.0741 260.6936 322.9731 272.4444 325.3232 273.6195 337.0741 290.0707 351.1751 279.4949 353.5253 236.0168 378.202 225.4411 367.6263 232.4916 360.5758 228.9663 338.2492 Z" id="US.WV.021" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Gilmer County</name>
+        <stateAbbrev>WV</stateAbbrev>
+        <state>West Virginia</state>
+        <fips>021</fips>
+        <incits>54021</incits>
+        <id>US.WV.021</id>
+        <population>8672</population>
+      </desc>
+    </path>
+    <path d="M 104.4074 355.8754 123.2088 342.9495 118.5084 330.0236 127.9091 325.3232 151.4108 334.7239 161.9865 350 156.1111 385.2525 159.6364 393.4781 144.3603 401.7037 134.9596 391.1279 123.2088 382.9024 104.4074 355.8754 Z" id="US.WV.035" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jackson County</name>
+        <stateAbbrev>WV</stateAbbrev>
+        <state>West Virginia</state>
+        <fips>035</fips>
+        <incits>54035</incits>
+        <id>US.WV.035</id>
+        <population>29178</population>
+      </desc>
+    </path>
+    <path d="M 103.2323 434.6061 105.5825 424.0303 131.4343 413.4545 126.734 397.0034 134.9596 391.1279 144.3603 401.7037 159.6364 393.4781 167.862 401.7037 206.6397 405.229 193.7138 413.4545 200.7643 442.8316 187.8384 453.4074 179.6128 485.1347 169.037 482.7845 158.4613 463.9832 142.0101 448.7071 114.9832 449.8822 118.5084 435.7811 103.2323 434.6061 Z" id="US.WV.039" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Kanawha County</name>
+        <stateAbbrev>WV</stateAbbrev>
+        <state>West Virginia</state>
+        <fips>039</fips>
+        <incits>54039</incits>
+        <id>US.WV.039</id>
+        <population>191275</population>
+      </desc>
+    </path>
+    <path d="M 272.4444 325.3232 291.2458 314.7475 333.5488 324.1481 331.1987 344.1246 320.6229 355.8754 319.4478 377.0269 311.2222 375.8519 308.8721 362.9259 290.0707 351.1751 273.6195 337.0741 272.4444 325.3232 Z" id="US.WV.041" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lewis County</name>
+        <stateAbbrev>WV</stateAbbrev>
+        <state>West Virginia</state>
+        <fips>041</fips>
+        <incits>54041</incits>
+        <id>US.WV.041</id>
+        <population>16452</population>
+      </desc>
+    </path>
+    <path d="M 104.4074 355.8754 123.2088 382.9024 97.3569 387.6027 83.2559 393.4781 83.2559 413.4545 60.9293 395.8283 65.6296 380.5522 59.7542 368.8013 70.33 361.7508 78.5556 341.7744 90.3064 333.5488 100.8822 340.5993 104.4074 355.8754 Z" id="US.WV.053" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Mason County</name>
+        <stateAbbrev>WV</stateAbbrev>
+        <state>West Virginia</state>
+        <fips>053</fips>
+        <incits>54053</incits>
+        <id>US.WV.053</id>
+        <population>27126</population>
+      </desc>
+    </path>
+    <path d="M 31.5522 501.5859 48.0034 488.6599 64.4545 483.9596 79.7306 521.5623 95.0067 527.4377 119.6835 529.7879 112.633 545.064 102.0572 549.7643 73.8552 543.8889 49.1785 525.0875 31.5522 501.5859 Z" id="US.WV.059" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Mingo County</name>
+        <stateAbbrev>WV</stateAbbrev>
+        <state>West Virginia</state>
+        <fips>059</fips>
+        <incits>54059</incits>
+        <id>US.WV.059</id>
+        <population>25900</population>
+      </desc>
+    </path>
+    <path d="M 200.7643 442.8316 246.5926 421.6801 250.1178 408.7542 264.2189 401.7037 283.0202 405.229 286.5455 428.7306 313.5724 442.8316 274.7946 468.6835 250.1178 465.1582 236.0168 448.7071 221.9158 451.0572 200.7643 442.8316 Z" id="US.WV.067" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Nicholas County</name>
+        <stateAbbrev>WV</stateAbbrev>
+        <state>West Virginia</state>
+        <fips>067</fips>
+        <incits>54067</incits>
+        <id>US.WV.067</id>
+        <population>25965</population>
+      </desc>
+    </path>
+    <path d="M 180.7879 290.0707 201.9394 283.0202 216.0404 273.6195 230.1414 272.4444 232.4916 288.8956 203.1145 294.771 199.5892 300.6465 180.7879 290.0707 Z" id="US.WV.073" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pleasants County</name>
+        <stateAbbrev>WV</stateAbbrev>
+        <state>West Virginia</state>
+        <fips>073</fips>
+        <incits>54073</incits>
+        <id>US.WV.073</id>
+        <population>7577</population>
+      </desc>
+    </path>
+    <path d="M 123.2088 382.9024 134.9596 391.1279 126.734 397.0034 131.4343 413.4545 105.5825 424.0303 103.2323 434.6061 84.431 439.3064 84.431 427.5556 83.2559 413.4545 83.2559 393.4781 97.3569 387.6027 123.2088 382.9024 Z" id="US.WV.079" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Putnam County</name>
+        <stateAbbrev>WV</stateAbbrev>
+        <state>West Virginia</state>
+        <fips>079</fips>
+        <incits>54079</incits>
+        <id>US.WV.079</id>
+        <population>56650</population>
+      </desc>
+    </path>
+    <path d="M 335.899 381.7273 358.2256 374.6768 364.101 345.2997 391.1279 341.7744 400.5286 321.798 406.404 333.5488 447.532 341.7744 467.5084 342.9495 468.6835 344.1246 442.8316 360.5758 446.3569 367.6263 428.7306 386.4276 407.5791 374.6768 395.8283 401.7037 372.3266 415.8047 359.4007 413.4545 340.5993 425.2054 350 406.404 335.899 381.7273 Z" id="US.WV.083" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Randolph County</name>
+        <stateAbbrev>WV</stateAbbrev>
+        <state>West Virginia</state>
+        <fips>083</fips>
+        <incits>54083</incits>
+        <id>US.WV.083</id>
+        <population>29415</population>
+      </desc>
+    </path>
+    <path d="M 191.3636 312.3973 199.5892 300.6465 203.1145 294.771 232.4916 288.8956 250.1178 295.9461 260.6936 322.9731 230.1414 337.0741 228.9663 338.2492 228.9663 337.0741 227.7912 337.0741 225.4411 337.0741 223.0909 337.0741 220.7407 335.899 218.3906 333.5488 217.2155 332.3737 216.0404 332.3737 212.5152 332.3737 211.3401 333.5488 198.4141 333.5488 191.3636 312.3973 Z" id="US.WV.085" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Ritchie County</name>
+        <stateAbbrev>WV</stateAbbrev>
+        <state>West Virginia</state>
+        <fips>085</fips>
+        <incits>54085</incits>
+        <id>US.WV.085</id>
+        <population>10073</population>
+      </desc>
+    </path>
+    <path d="M 161.9865 350 190.1886 351.1751 193.7138 350 203.1145 360.5758 211.3401 388.7778 221.9158 393.4781 206.6397 405.229 167.862 401.7037 159.6364 393.4781 156.1111 385.2525 161.9865 350 Z" id="US.WV.087" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Roane County</name>
+        <stateAbbrev>WV</stateAbbrev>
+        <state>West Virginia</state>
+        <fips>087</fips>
+        <incits>54087</incits>
+        <id>US.WV.087</id>
+        <population>14656</population>
+      </desc>
+    </path>
+    <path d="M 333.5488 324.1481 344.1246 322.9731 369.9764 337.0741 364.101 345.2997 358.2256 374.6768 335.899 381.7273 319.4478 377.0269 320.6229 355.8754 331.1987 344.1246 333.5488 324.1481 Z" id="US.WV.097" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Upshur County</name>
+        <stateAbbrev>WV</stateAbbrev>
+        <state>West Virginia</state>
+        <fips>097</fips>
+        <incits>54097</incits>
+        <id>US.WV.097</id>
+        <population>24665</population>
+      </desc>
+    </path>
+    <path d="M 19.8013 421.6801 53.8788 447.532 51.5286 460.4579 63.2795 474.5589 48.0034 488.6599 31.5522 501.5859 19.8013 489.835 12.7508 469.8586 1 460.4579 10.4007 442.8316 6.8754 421.6801 19.8013 421.6801 Z" id="US.WV.099" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wayne County</name>
+        <stateAbbrev>WV</stateAbbrev>
+        <state>West Virginia</state>
+        <fips>099</fips>
+        <incits>54099</incits>
+        <id>US.WV.099</id>
+        <population>41437</population>
+      </desc>
+    </path>
+    <path d="M 151.4108 334.7239 173.7374 318.2727 191.3636 312.3973 198.4141 333.5488 211.3401 333.5488 190.1886 351.1751 161.9865 350 151.4108 334.7239 Z" id="US.WV.105" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wirt County</name>
+        <stateAbbrev>WV</stateAbbrev>
+        <state>West Virginia</state>
+        <fips>105</fips>
+        <incits>54105</incits>
+        <id>US.WV.105</id>
+        <population>5901</population>
+      </desc>
+    </path>
+    <path d="M 180.7879 290.0707 199.5892 300.6465 191.3636 312.3973 173.7374 318.2727 151.4108 334.7239 127.9091 325.3232 126.734 312.3973 169.037 280.67 180.7879 290.0707 Z" id="US.WV.107" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wood County</name>
+        <stateAbbrev>WV</stateAbbrev>
+        <state>West Virginia</state>
+        <fips>107</fips>
+        <incits>54107</incits>
+        <id>US.WV.107</id>
+        <population>86569</population>
+      </desc>
+    </path>
+    <path d="M 102.0572 476.9091 95.0067 468.6835 114.9832 449.8822 142.0101 448.7071 158.4613 463.9832 169.037 482.7845 152.5859 491.0101 160.8114 509.8114 146.7104 509.8114 131.4343 507.4613 117.3333 488.6599 102.0572 476.9091 Z" id="US.WV.005" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Boone County</name>
+        <stateAbbrev>WV</stateAbbrev>
+        <state>West Virginia</state>
+        <fips>005</fips>
+        <incits>54005</incits>
+        <id>US.WV.005</id>
+        <population>24224</population>
+      </desc>
+    </path>
+    <path d="M 250.1178 465.1582 274.7946 468.6835 313.5724 442.8316 324.1481 448.7071 324.1481 463.9832 338.2492 473.3838 381.7273 471.0337 375.8519 481.6094 352.3502 498.0606 333.5488 523.9125 302.9966 523.9125 281.8451 519.2121 261.8687 499.2357 266.569 482.7845 250.1178 465.1582 Z" id="US.WV.025" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Greenbrier County</name>
+        <stateAbbrev>WV</stateAbbrev>
+        <state>West Virginia</state>
+        <fips>025</fips>
+        <incits>54025</incits>
+        <id>US.WV.025</id>
+        <population>35644</population>
+      </desc>
+    </path>
+    <path d="M 499.2357 365.2761 510.9865 348.8249 505.1111 332.3737 520.3872 304.1717 532.138 310.0471 588.5421 325.3232 574.4411 342.9495 548.5892 354.7003 536.8384 372.3266 519.2121 359.4007 509.8114 372.3266 499.2357 365.2761 Z" id="US.WV.031" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hardy County</name>
+        <stateAbbrev>WV</stateAbbrev>
+        <state>West Virginia</state>
+        <fips>031</fips>
+        <incits>54031</incits>
+        <id>US.WV.031</id>
+        <population>13920</population>
+      </desc>
+    </path>
+    <path d="M 48.0034 488.6599 63.2795 474.5589 51.5286 460.4579 53.8788 447.532 66.8047 432.2559 84.431 427.5556 84.431 439.3064 103.2323 434.6061 118.5084 435.7811 114.9832 449.8822 95.0067 468.6835 102.0572 476.9091 64.4545 483.9596 48.0034 488.6599 Z" id="US.WV.043" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lincoln County</name>
+        <stateAbbrev>WV</stateAbbrev>
+        <state>West Virginia</state>
+        <fips>043</fips>
+        <incits>54043</incits>
+        <id>US.WV.043</id>
+        <population>21559</population>
+      </desc>
+    </path>
+    <path d="M 64.4545 483.9596 102.0572 476.9091 117.3333 488.6599 131.4343 507.4613 146.7104 509.8114 119.6835 529.7879 95.0067 527.4377 79.7306 521.5623 64.4545 483.9596 Z" id="US.WV.045" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Logan County</name>
+        <stateAbbrev>WV</stateAbbrev>
+        <state>West Virginia</state>
+        <fips>045</fips>
+        <incits>54045</incits>
+        <id>US.WV.045</id>
+        <population>35987</population>
+      </desc>
+    </path>
+    <path d="M 102.0572 549.7643 112.633 545.064 116.1582 549.7643 163.1616 555.6397 190.1886 562.6902 181.963 574.4411 153.7609 593.2424 137.3098 594.4175 125.5589 583.8418 102.0572 570.9158 102.0572 549.7643 Z" id="US.WV.047" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>McDowell County</name>
+        <stateAbbrev>WV</stateAbbrev>
+        <state>West Virginia</state>
+        <fips>047</fips>
+        <incits>54047</incits>
+        <id>US.WV.047</id>
+        <population>20876</population>
+      </desc>
+    </path>
+    <path d="M 181.963 574.4411 190.1886 562.6902 201.9394 549.7643 220.7407 539.1886 253.6431 561.5152 254.8182 573.266 240.7172 580.3165 217.2155 582.6667 201.9394 589.7172 181.963 574.4411 Z" id="US.WV.055" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Mercer County</name>
+        <stateAbbrev>WV</stateAbbrev>
+        <state>West Virginia</state>
+        <fips>055</fips>
+        <incits>54055</incits>
+        <id>US.WV.055</id>
+        <population>61984</population>
+      </desc>
+    </path>
+    <path d="M 253.6431 561.5152 281.8451 519.2121 302.9966 523.9125 333.5488 523.9125 339.4242 538.0135 333.5488 550.9394 308.8721 562.6902 297.1212 555.6397 275.9697 566.2155 253.6431 561.5152 Z" id="US.WV.063" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Monroe County</name>
+        <stateAbbrev>WV</stateAbbrev>
+        <state>West Virginia</state>
+        <fips>063</fips>
+        <incits>54063</incits>
+        <id>US.WV.063</id>
+        <population>13483</population>
+      </desc>
+    </path>
+    <path d="M 426.3805 395.8283 428.7306 386.4276 446.3569 367.6263 442.8316 360.5758 468.6835 344.1246 499.2357 365.2761 509.8114 372.3266 488.6599 409.9293 473.3838 421.6801 449.8822 415.8047 441.6566 401.7037 426.3805 395.8283 Z" id="US.WV.071" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pendleton County</name>
+        <stateAbbrev>WV</stateAbbrev>
+        <state>West Virginia</state>
+        <fips>071</fips>
+        <incits>54071</incits>
+        <id>US.WV.071</id>
+        <population>7471</population>
+      </desc>
+    </path>
+    <path d="M 324.1481 448.7071 328.8485 432.2559 340.5993 425.2054 359.4007 413.4545 372.3266 415.8047 395.8283 401.7037 407.5791 374.6768 428.7306 386.4276 426.3805 395.8283 420.5051 419.33 406.404 441.6566 389.9529 453.4074 381.7273 471.0337 338.2492 473.3838 324.1481 463.9832 324.1481 448.7071 Z" id="US.WV.075" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pocahontas County</name>
+        <stateAbbrev>WV</stateAbbrev>
+        <state>West Virginia</state>
+        <fips>075</fips>
+        <incits>54075</incits>
+        <id>US.WV.075</id>
+        <population>8669</population>
+      </desc>
+    </path>
+    <path d="M 169.037 482.7845 179.6128 485.1347 191.3636 495.7104 223.0909 498.0606 241.8923 506.2862 243.0673 521.5623 220.7407 539.1886 201.9394 549.7643 189.0135 539.1886 169.037 510.9865 160.8114 509.8114 152.5859 491.0101 169.037 482.7845 Z" id="US.WV.081" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Raleigh County</name>
+        <stateAbbrev>WV</stateAbbrev>
+        <state>West Virginia</state>
+        <fips>081</fips>
+        <incits>54081</incits>
+        <id>US.WV.081</id>
+        <population>78833</population>
+      </desc>
+    </path>
+    <path d="M 220.7407 539.1886 243.0673 521.5623 241.8923 506.2862 261.8687 499.2357 281.8451 519.2121 253.6431 561.5152 220.7407 539.1886 Z" id="US.WV.089" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Summers County</name>
+        <stateAbbrev>WV</stateAbbrev>
+        <state>West Virginia</state>
+        <fips>089</fips>
+        <incits>54089</incits>
+        <id>US.WV.089</id>
+        <population>13563</population>
+      </desc>
+    </path>
+    <path d="M 283.0202 405.229 302.9966 388.7778 311.2222 375.8519 319.4478 377.0269 335.899 381.7273 350 406.404 340.5993 425.2054 328.8485 432.2559 324.1481 448.7071 313.5724 442.8316 286.5455 428.7306 283.0202 405.229 Z" id="US.WV.101" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Webster County</name>
+        <stateAbbrev>WV</stateAbbrev>
+        <state>West Virginia</state>
+        <fips>101</fips>
+        <incits>54101</incits>
+        <id>US.WV.101</id>
+        <population>8893</population>
+      </desc>
+    </path>
+    <path d="M 119.6835 529.7879 146.7104 509.8114 160.8114 509.8114 169.037 510.9865 189.0135 539.1886 201.9394 549.7643 190.1886 562.6902 163.1616 555.6397 116.1582 549.7643 112.633 545.064 119.6835 529.7879 Z" id="US.WV.109" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wyoming County</name>
+        <stateAbbrev>WV</stateAbbrev>
+        <state>West Virginia</state>
+        <fips>109</fips>
+        <incits>54109</incits>
+        <id>US.WV.109</id>
+        <population>23019</population>
+      </desc>
+    </path>
+  </g>
+</svg>

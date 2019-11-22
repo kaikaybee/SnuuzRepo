@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="shanghai">
+    <path d="M 308.9412 380.7941 315.7843 373.951 322.6275 373.951 322.6275 387.6373 315.7843 387.6373 308.9412 380.7941 Z" id="CN.shanghai.371637" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jing'an District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Jing'an District</wikipedia>
+        <localname>静安区 (Jing'an)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shanghai.371637</id>
+      </desc>
+    </path>
+    <path d="M 322.6275 373.951 336.3137 373.951 343.1569 373.951 329.4706 401.3235 322.6275 387.6373 322.6275 373.951 Z" id="CN.shanghai.371650" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Huangpu District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Huangpu District, Shanghai</wikipedia>
+        <localname>黄浦区 (Huangpu)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shanghai.371650</id>
+      </desc>
+    </path>
+    <path d="M 329.4706 401.3235 343.1569 373.951 356.8431 367.1078 384.2157 353.4216 384.2157 326.049 363.6863 312.3627 363.6863 284.9902 438.9608 312.3627 473.1765 332.8922 500.549 367.1078 582.6667 462.9118 616.8824 510.8137 630.5686 572.402 596.3529 599.7745 541.6078 606.6176 493.7059 592.9314 500.549 545.0294 452.6471 517.6569 384.2157 510.8137 377.3725 442.3824 329.4706 449.2255 329.4706 401.3235 Z" id="CN.shanghai.398348" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pudong New District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>zh:浦东新区</wikipedia>
+        <localname>浦东新区 (Pudong)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shanghai.398348</id>
+      </desc>
+    </path>
+    <path d="M 336.3137 332.8922 363.6863 312.3627 384.2157 326.049 384.2157 353.4216 356.8431 367.1078 336.3137 332.8922 Z" id="CN.shanghai.398350" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Yangpu District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Yangpu District</wikipedia>
+        <localname>杨浦区 (Yangpu)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shanghai.398350</id>
+      </desc>
+    </path>
+    <path d="M 329.4706 332.8922 336.3137 332.8922 356.8431 367.1078 343.1569 373.951 336.3137 373.951 329.4706 332.8922 Z" id="CN.shanghai.398351" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hongkou District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Hongkou District</wikipedia>
+        <localname>虹口区 (Hongkou)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shanghai.398351</id>
+      </desc>
+    </path>
+    <path d="M 329.4706 332.8922 336.3137 373.951 322.6275 373.951 315.7843 373.951 302.098 360.2647 329.4706 332.8922 Z" id="CN.shanghai.398353" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Zhabei District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Zhabei District</wikipedia>
+        <localname>闸北区 (Zhabei)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shanghai.398353</id>
+      </desc>
+    </path>
+    <path d="M 363.6863 284.9902 363.6863 312.3627 336.3137 332.8922 329.4706 332.8922 302.098 360.2647 254.1961 346.5784 254.1961 271.3039 233.6667 230.2451 261.0392 216.5588 315.7843 243.9314 363.6863 284.9902 Z" id="CN.shanghai.398374" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Baoshan District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Baoshan District, Shanghai</wikipedia>
+        <localname>宝山区 (Baoshan)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shanghai.398374</id>
+      </desc>
+    </path>
+    <path d="M 254.1961 346.5784 302.098 360.2647 315.7843 373.951 308.9412 380.7941 267.8824 373.951 254.1961 346.5784 Z" id="CN.shanghai.398886" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Putuo District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Putuo District, Shanghai</wikipedia>
+        <localname>普陀区 (Putuo)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shanghai.398886</id>
+      </desc>
+    </path>
+    <path d="M 254.1961 373.951 267.8824 373.951 308.9412 380.7941 315.7843 387.6373 295.2549 401.3235 254.1961 408.1667 254.1961 373.951 Z" id="CN.shanghai.398899" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Changning District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Changning District</wikipedia>
+        <localname>长宁区 (Changning)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shanghai.398899</id>
+      </desc>
+    </path>
+    <path d="M 295.2549 401.3235 315.7843 387.6373 322.6275 387.6373 329.4706 401.3235 329.4706 449.2255 302.098 435.5392 295.2549 401.3235 Z" id="CN.shanghai.1278188" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Xuhui District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Xuhui District</wikipedia>
+        <localname>徐汇区 (Xuhui)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shanghai.1278188</id>
+      </desc>
+    </path>
+    <path d="M 206.2941 360.2647 254.1961 373.951 254.1961 408.1667 295.2549 401.3235 302.098 435.5392 329.4706 449.2255 377.3725 442.3824 384.2157 510.8137 336.3137 503.9706 267.8824 517.6569 247.3529 517.6569 254.1961 476.598 274.7255 462.9118 247.3529 421.8529 219.9804 401.3235 206.2941 360.2647 Z" id="CN.shanghai.1278189" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Minhang District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Minhang District</wikipedia>
+        <localname>闵行区 (Minhang)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shanghai.1278189</id>
+      </desc>
+    </path>
+    <path d="M 233.6667 230.2451 254.1961 271.3039 254.1961 346.5784 267.8824 373.951 254.1961 373.951 206.2941 360.2647 172.0784 367.1078 151.549 353.4216 131.0196 298.6765 151.549 291.8333 151.549 257.6176 192.6078 237.0882 233.6667 230.2451 Z" id="CN.shanghai.1673543" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jiading District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Jiading District</wikipedia>
+        <localname>嘉定区 (Jiading)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shanghai.1673543</id>
+      </desc>
+    </path>
+    <path d="M 356.8431 237.0882 404.7451 237.0882 473.1765 271.3039 507.3922 305.5196 473.1765 305.5196 384.2157 257.6176 356.8431 237.0882 Z M 514.2353 298.6765 575.8235 312.3627 568.9804 339.7353 521.0784 332.8922 514.2353 298.6765 Z M 124.1765 79.6961 185.7647 31.7941 226.8235 18.1078 267.8824 31.7941 308.9412 79.6961 473.1765 134.4412 480.0196 148.1275 527.9216 154.9706 630.5686 148.1275 699 291.8333 623.7255 291.8333 534.7647 278.1471 459.4902 257.6176 425.2745 237.0882 308.9412 209.7157 281.5686 209.7157 165.2353 100.2255 124.1765 79.6961 Z" id="CN.shanghai.3292750" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Chongming County</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Chongming County</wikipedia>
+        <localname>崇明县 (Chongming)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shanghai.3292750</id>
+      </desc>
+    </path>
+    <path d="M 267.8824 517.6569 336.3137 503.9706 384.2157 510.8137 452.6471 517.6569 500.549 545.0294 493.7059 592.9314 438.9608 599.7745 356.8431 620.3039 322.6275 633.9902 308.9412 613.4608 281.5686 599.7745 261.0392 558.7157 267.8824 517.6569 Z" id="CN.shanghai.3292751" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Fengxian District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Fengxian District</wikipedia>
+        <localname>奉贤区 (Fengxian)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shanghai.3292751</id>
+      </desc>
+    </path>
+    <path d="M 62.5882 538.1863 83.1176 538.1863 83.1176 558.7157 137.8627 565.5588 199.451 551.8725 226.8235 565.5588 261.0392 558.7157 281.5686 599.7745 308.9412 613.4608 322.6275 633.9902 281.5686 654.5196 261.0392 675.049 219.9804 681.8922 219.9804 661.3627 185.7647 627.1471 137.8627 633.9902 137.8627 592.9314 76.2745 599.7745 62.5882 572.402 62.5882 538.1863 Z" id="CN.shanghai.3292756" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Jinshan District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Jinshan District</wikipedia>
+        <localname>金山区 (Jinshan)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shanghai.3292756</id>
+      </desc>
+    </path>
+    <path d="M 151.549 353.4216 172.0784 367.1078 206.2941 360.2647 219.9804 401.3235 247.3529 421.8529 226.8235 435.5392 165.2353 428.6961 151.549 456.0686 131.0196 449.2255 117.3333 483.4412 124.1765 531.3431 83.1176 538.1863 62.5882 538.1863 55.7451 497.1275 7.8431 497.1275 14.6863 462.9118 1 435.5392 55.7451 435.5392 110.4902 421.8529 103.6471 360.2647 151.549 353.4216 Z" id="CN.shanghai.3292760" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Qingpu District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Qingpu District, Shanghai</wikipedia>
+        <localname>青浦区 (Qingpu)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shanghai.3292760</id>
+      </desc>
+    </path>
+    <path d="M 83.1176 538.1863 124.1765 531.3431 117.3333 483.4412 131.0196 449.2255 151.549 456.0686 165.2353 428.6961 226.8235 435.5392 247.3529 421.8529 274.7255 462.9118 254.1961 476.598 247.3529 517.6569 267.8824 517.6569 261.0392 558.7157 226.8235 565.5588 199.451 551.8725 137.8627 565.5588 83.1176 558.7157 83.1176 538.1863 Z" id="CN.shanghai.3293722" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Songjiang District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>en:Songjiang District</wikipedia>
+        <localname>松江区 (Songjiang)</localname>
+        <boundary>administrative</boundary>
+        <id>CN.shanghai.3293722</id>
+      </desc>
+    </path>
+  </g>
+</svg>

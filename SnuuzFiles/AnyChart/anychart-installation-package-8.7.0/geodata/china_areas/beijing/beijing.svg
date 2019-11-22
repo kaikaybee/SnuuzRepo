@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="beijing">
+    <path d="M 337.6824 485.4941 337.6824 452.6471 358.2118 485.4941 337.6824 485.4941 Z" id="CN.beijing.288600" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dongcheng District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>zh:东城区 (北京市)</wikipedia>
+        <localname>东城区</localname>
+        <boundary>administrative</boundary>
+        <id>CN.beijing.288600</id>
+      </desc>
+    </path>
+    <path d="M 317.1529 473.1765 333.5765 448.5412 337.6824 452.6471 337.6824 485.4941 317.1529 473.1765 Z" id="CN.beijing.568660" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Xicheng District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>zh:西城区</wikipedia>
+        <localname>西城区</localname>
+        <boundary>administrative</boundary>
+        <id>CN.beijing.568660</id>
+      </desc>
+    </path>
+    <path d="M 189.8706 345.8941 210.4 321.2588 251.4588 329.4706 255.5647 313.0471 304.8353 300.7294 362.3176 329.4706 378.7412 345.8941 366.4235 366.4235 366.4235 407.4824 337.6824 423.9059 308.9412 419.8 259.6706 391.0588 218.6118 407.4824 189.8706 411.5882 152.9176 386.9529 161.1294 362.3176 189.8706 345.8941 Z" id="CN.beijing.2988894" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>昌平区</localname>
+        <boundary>administrative</boundary>
+        <id>CN.beijing.2988894</id>
+        <name>Changping District</name>
+      </desc>
+    </path>
+    <path d="M 288.4118 510.1294 350 497.8118 391.0588 501.9176 395.1647 538.8706 423.9059 534.7647 456.7529 571.7176 403.3765 571.7176 358.2118 608.6706 354.1059 633.3059 321.2588 629.2 288.4118 608.6706 280.2 588.1412 276.0941 563.5059 288.4118 510.1294 Z" id="CN.beijing.2988895" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>大兴区 / Daxing</localname>
+        <boundary>administrative</boundary>
+        <id>CN.beijing.2988895</id>
+        <name>Daxing District</name>
+      </desc>
+    </path>
+    <path d="M 50.2706 506.0235 74.9059 485.4941 115.9647 469.0706 222.7176 493.7059 243.2471 522.4471 288.4118 510.1294 276.0941 563.5059 280.2 588.1412 214.5059 588.1412 177.5529 579.9294 140.6 608.6706 115.9647 608.6706 91.3294 575.8235 54.3765 579.9294 33.8471 563.5059 21.5294 530.6588 50.2706 506.0235 Z" id="CN.beijing.2988896" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>房山区</localname>
+        <boundary>administrative</boundary>
+        <id>CN.beijing.2988896</id>
+        <name>Fangshan District</name>
+      </desc>
+    </path>
+    <path d="M 366.4235 169.3412 317.1529 124.1765 370.5294 124.1765 358.2118 103.6471 399.2706 91.3294 423.9059 66.6941 452.6471 120.0706 514.2353 157.0235 452.6471 202.1882 444.4353 222.7176 456.7529 284.3059 448.5412 308.9412 460.8588 341.7882 436.2235 345.8941 378.7412 345.8941 362.3176 329.4706 304.8353 300.7294 304.8353 271.9882 341.7882 271.9882 386.9529 235.0353 391.0588 210.4 366.4235 169.3412 Z" id="CN.beijing.2988897" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>怀柔区 / Huairou</localname>
+        <boundary>administrative</boundary>
+        <id>CN.beijing.2988897</id>
+        <name>Huairou District</name>
+      </desc>
+    </path>
+    <path d="M 152.9176 386.9529 189.8706 411.5882 218.6118 407.4824 255.5647 440.3294 243.2471 460.8588 259.6706 477.2824 222.7176 493.7059 115.9647 469.0706 74.9059 485.4941 50.2706 506.0235 33.8471 473.1765 1 452.6471 13.3176 432.1176 66.6941 395.1647 107.7529 395.1647 128.2824 378.7412 152.9176 386.9529 Z" id="CN.beijing.2988898" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Mentougou District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>zh:门头沟区</wikipedia>
+        <localname>门头沟区 / Mentougou</localname>
+        <boundary>administrative</boundary>
+        <id>CN.beijing.2988898</id>
+      </desc>
+    </path>
+    <path d="M 514.2353 157.0235 555.2941 198.0824 592.2471 189.8706 653.8353 206.2941 699 198.0824 686.6824 243.2471 662.0471 239.1412 629.2 259.6706 629.2 308.9412 604.5647 308.9412 542.9765 341.7882 530.6588 358.2118 497.8118 329.4706 460.8588 341.7882 448.5412 308.9412 456.7529 284.3059 444.4353 222.7176 452.6471 202.1882 514.2353 157.0235 Z" id="CN.beijing.2988899" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>密云县 / Miyun</localname>
+        <boundary>administrative</boundary>
+        <id>CN.beijing.2988899</id>
+        <name>Miyun County</name>
+      </desc>
+    </path>
+    <path d="M 530.6588 358.2118 542.9765 341.7882 604.5647 308.9412 629.2 308.9412 686.6824 378.7412 674.3647 391.0588 637.4118 399.2706 625.0941 415.6941 579.9294 411.5882 538.8706 419.8 542.9765 382.8471 530.6588 358.2118 Z" id="CN.beijing.2988900" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>平谷区 / Pinggu</localname>
+        <boundary>administrative</boundary>
+        <id>CN.beijing.2988900</id>
+        <name>Pinggu District</name>
+      </desc>
+    </path>
+    <path d="M 378.7412 345.8941 436.2235 345.8941 460.8588 341.7882 497.8118 329.4706 530.6588 358.2118 542.9765 382.8471 538.8706 419.8 489.6 423.9059 473.1765 432.1176 411.5882 432.1176 366.4235 407.4824 366.4235 366.4235 378.7412 345.8941 Z" id="CN.beijing.2988901" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>顺义区 / Shunyi</localname>
+        <boundary>administrative</boundary>
+        <id>CN.beijing.2988901</id>
+        <name>Shunyi District</name>
+      </desc>
+    </path>
+    <path d="M 391.0588 501.9176 423.9059 489.6 428.0118 440.3294 411.5882 432.1176 473.1765 432.1176 477.2824 477.2824 526.5529 497.8118 530.6588 514.2353 501.9176 555.2941 473.1765 575.8235 456.7529 571.7176 423.9059 534.7647 395.1647 538.8706 391.0588 501.9176 Z" id="CN.beijing.2988902" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Tongzhou District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>zh:通州区 (北京市)</wikipedia>
+        <localname>通州区 / Tongzhou</localname>
+        <boundary>administrative</boundary>
+        <id>CN.beijing.2988902</id>
+      </desc>
+    </path>
+    <path d="M 366.4235 169.3412 391.0588 210.4 386.9529 235.0353 341.7882 271.9882 304.8353 271.9882 304.8353 300.7294 255.5647 313.0471 251.4588 329.4706 210.4 321.2588 189.8706 345.8941 173.4471 317.1529 152.9176 313.0471 111.8588 263.7765 140.6 235.0353 169.3412 222.7176 198.0824 235.0353 226.8235 226.8235 296.6235 165.2353 366.4235 169.3412 Z" id="CN.beijing.2988903" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>延庆县 / Yanqing</localname>
+        <boundary>administrative</boundary>
+        <id>CN.beijing.2988903</id>
+        <name>Yanqing County</name>
+      </desc>
+    </path>
+    <path d="M 337.6824 423.9059 366.4235 407.4824 411.5882 432.1176 428.0118 440.3294 423.9059 489.6 391.0588 501.9176 350 497.8118 358.2118 485.4941 337.6824 452.6471 333.5765 448.5412 337.6824 423.9059 Z" id="CN.beijing.2988933" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Chaoyang District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>zh:朝阳区 (北京市)</wikipedia>
+        <localname>朝阳区 / Chaoyang</localname>
+        <boundary>administrative</boundary>
+        <id>CN.beijing.2988933</id>
+      </desc>
+    </path>
+    <path d="M 222.7176 493.7059 259.6706 477.2824 292.5176 477.2824 317.1529 473.1765 337.6824 485.4941 358.2118 485.4941 350 497.8118 288.4118 510.1294 243.2471 522.4471 222.7176 493.7059 Z" id="CN.beijing.2988946" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>丰台区 / Fengtai</localname>
+        <boundary>administrative</boundary>
+        <id>CN.beijing.2988946</id>
+        <name>Fengtai District</name>
+      </desc>
+    </path>
+    <path d="M 218.6118 407.4824 259.6706 391.0588 308.9412 419.8 337.6824 423.9059 333.5765 448.5412 317.1529 473.1765 292.5176 477.2824 255.5647 440.3294 218.6118 407.4824 Z" id="CN.beijing.5505984" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Haidian District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>zh:海淀区</wikipedia>
+        <localname>海淀区</localname>
+        <boundary>administrative</boundary>
+        <id>CN.beijing.5505984</id>
+      </desc>
+    </path>
+    <path d="M 255.5647 440.3294 292.5176 477.2824 259.6706 477.2824 243.2471 460.8588 255.5647 440.3294 Z" id="CN.beijing.5505985" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Shijingshan District</name>
+        <admin_leve>6</admin_leve>
+        <wikipedia>zh:石景山区</wikipedia>
+        <localname>石景山区</localname>
+        <boundary>administrative</boundary>
+        <id>CN.beijing.5505985</id>
+      </desc>
+    </path>
+  </g>
+</svg>

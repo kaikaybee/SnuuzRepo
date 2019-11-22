@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="hainan">
+    <path d="M 94.9013 573.7982 119.9417 548.7578 204.4529 523.7175 229.4933 492.417 301.4843 558.148 335.9148 523.7175 342.1749 570.6682 326.5247 614.4888 279.574 627.009 144.9821 576.9283 94.9013 573.7982 Z" id="CN.hainan.2128284" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Sanya City</name>
+        <admin_leve>5</admin_leve>
+        <wikidata>Q319804</wikidata>
+        <localname>三亚市 / Sanya</localname>
+        <boundary>administrative</boundary>
+        <id>CN.hainan.2128284</id>
+      </desc>
+    </path>
+    <path d="M 94.9013 238.8834 163.7623 182.5426 201.3229 129.3318 254.5336 141.852 288.9641 210.713 332.7848 223.2332 323.3946 273.3139 307.7444 339.0448 248.2735 273.3139 129.3318 267.0538 94.9013 238.8834 Z" id="CN.hainan.2784610" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>5</admin_leve>
+        <localname>儋州市 / Danzhou</localname>
+        <boundary>administrative</boundary>
+        <id>CN.hainan.2784610</id>
+        <name>Danzhou City</name>
+      </desc>
+    </path>
+    <path d="M 426.6861 98.0314 495.5471 72.991 545.6278 85.5112 592.5785 144.9821 573.7982 179.4126 576.9283 232.6233 542.4978 229.4933 470.5067 191.9327 426.6861 98.0314 Z" id="CN.hainan.2784613" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>5</admin_leve>
+        <localname>海口市 - Haikou</localname>
+        <boundary>administrative</boundary>
+        <id>CN.hainan.2784613</id>
+        <name>Haikou City</name>
+      </desc>
+    </path>
+    <path d="M 129.3318 267.0538 248.2735 273.3139 307.7444 339.0448 263.9238 379.7354 213.843 401.6457 198.1928 401.6457 166.8924 364.0852 129.3318 267.0538 Z" id="CN.hainan.2784606" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>白沙黎族自治县 - Baisha Li Autonomous County</localname>
+        <boundary>administrative</boundary>
+        <id>CN.hainan.2784606</id>
+        <name>Baisha Li Autonomous County</name>
+      </desc>
+    </path>
+    <path d="M 229.4933 492.417 314.0045 461.1166 317.1345 432.9462 332.7848 442.3363 351.565 473.6368 335.9148 523.7175 301.4843 558.148 229.4933 492.417 Z" id="CN.hainan.2784607" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>保亭黎族苗族自治县 / Baoting</localname>
+        <boundary>administrative</boundary>
+        <id>CN.hainan.2784607</id>
+        <name>Baoting Li and Miao Autonomous County</name>
+      </desc>
+    </path>
+    <path d="M 16.6502 288.9641 94.9013 238.8834 129.3318 267.0538 166.8924 364.0852 198.1928 401.6457 151.2422 420.426 116.8117 373.4753 101.1614 326.5247 29.1704 310.8744 16.6502 288.9641 Z" id="CN.hainan.2784608" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>昌江黎族自治县 / Changjiang</localname>
+        <boundary>administrative</boundary>
+        <id>CN.hainan.2784608</id>
+        <name>Changjiang Li Autonomous County</name>
+      </desc>
+    </path>
+    <path d="M 332.7848 223.2332 367.2152 166.8924 354.6951 110.5516 426.6861 98.0314 470.5067 191.9327 436.0762 229.4933 360.9552 276.4439 323.3946 273.3139 332.7848 223.2332 Z" id="CN.hainan.2784609" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>澄迈县 / Chengmai</localname>
+        <boundary>administrative</boundary>
+        <id>CN.hainan.2784609</id>
+        <name>Chengmai County</name>
+      </desc>
+    </path>
+    <path d="M 470.5067 191.9327 542.4978 229.4933 551.8879 254.5336 492.417 288.9641 461.1166 323.3946 436.0762 229.4933 470.5067 191.9327 Z" id="CN.hainan.2784611" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>定安县 / Ding'an</localname>
+        <boundary>administrative</boundary>
+        <id>CN.hainan.2784611</id>
+        <name>Ding'an County</name>
+      </desc>
+    </path>
+    <path d="M 16.6502 288.9641 29.1704 310.8744 101.1614 326.5247 116.8117 373.4753 151.2422 420.426 135.5919 442.3363 63.6009 467.3767 19.7803 467.3767 1 357.8251 16.6502 288.9641 Z" id="CN.hainan.2784612" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>东方市 / Dongfang</localname>
+        <boundary>administrative</boundary>
+        <id>CN.hainan.2784612</id>
+        <name>Dongfang City</name>
+      </desc>
+    </path>
+    <path d="M 19.7803 467.3767 63.6009 467.3767 135.5919 442.3363 151.2422 420.426 198.1928 401.6457 213.843 401.6457 229.4933 492.417 204.4529 523.7175 119.9417 548.7578 94.9013 573.7982 32.3004 542.4978 19.7803 467.3767 Z" id="CN.hainan.2784614" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>乐东黎族自治县 / Ledong</localname>
+        <boundary>administrative</boundary>
+        <id>CN.hainan.2784614</id>
+        <name>Ledong Li Autonomous County</name>
+      </desc>
+    </path>
+    <path d="M 254.5336 141.852 279.574 107.4215 354.6951 110.5516 367.2152 166.8924 332.7848 223.2332 288.9641 210.713 254.5336 141.852 Z" id="CN.hainan.2784615" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>临高县 / Lingao</localname>
+        <boundary>administrative</boundary>
+        <id>CN.hainan.2784615</id>
+        <name>Lingao County</name>
+      </desc>
+    </path>
+    <path d="M 332.7848 442.3363 398.5157 461.1166 404.7758 489.287 457.9865 504.9372 401.6457 567.5381 342.1749 570.6682 335.9148 523.7175 351.565 473.6368 332.7848 442.3363 Z" id="CN.hainan.2784616" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>陵水黎族自治县 / Lingshui</localname>
+        <boundary>administrative</boundary>
+        <id>CN.hainan.2784616</id>
+        <name>Lingshui Li Autonomous County</name>
+      </desc>
+    </path>
+    <path d="M 429.8161 348.435 461.1166 323.3946 492.417 288.9641 551.8879 254.5336 601.9686 279.574 567.5381 364.0852 548.7578 357.8251 467.3767 392.2556 442.3363 385.9955 429.8161 348.435 Z" id="CN.hainan.2784617" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>琼海市 / Qionghai</localname>
+        <boundary>administrative</boundary>
+        <id>CN.hainan.2784617</id>
+        <name>Qionghai City</name>
+      </desc>
+    </path>
+    <path d="M 263.9238 379.7354 307.7444 339.0448 323.3946 273.3139 360.9552 276.4439 345.3049 304.6143 429.8161 348.435 442.3363 385.9955 411.0359 420.426 398.5157 461.1166 332.7848 442.3363 317.1345 432.9462 263.9238 379.7354 Z" id="CN.hainan.2784618" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>琼中黎族苗族自治县 / Qiongzhong</localname>
+        <boundary>administrative</boundary>
+        <id>CN.hainan.2784618</id>
+        <name>Qiongzhong Li and Miao Autonomous County</name>
+      </desc>
+    </path>
+    <path d="M 360.9552 276.4439 436.0762 229.4933 461.1166 323.3946 429.8161 348.435 345.3049 304.6143 360.9552 276.4439 Z" id="CN.hainan.2784619" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>屯昌县 / Tunchang</localname>
+        <boundary>administrative</boundary>
+        <id>CN.hainan.2784619</id>
+        <name>Tunchang County</name>
+      </desc>
+    </path>
+    <path d="M 398.5157 461.1166 411.0359 420.426 442.3363 385.9955 467.3767 392.2556 548.7578 357.8251 567.5381 364.0852 555.0179 451.7265 536.2377 486.157 457.9865 504.9372 404.7758 489.287 398.5157 461.1166 Z" id="CN.hainan.2784620" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>万宁市 / Wanning</localname>
+        <boundary>administrative</boundary>
+        <id>CN.hainan.2784620</id>
+        <name>Wanning City</name>
+      </desc>
+    </path>
+    <path d="M 542.4978 229.4933 576.9283 232.6233 573.7982 179.4126 592.5785 144.9821 545.6278 85.5112 605.0987 85.5112 670.8296 101.1614 699 210.713 658.3094 229.4933 601.9686 279.574 551.8879 254.5336 542.4978 229.4933 Z" id="CN.hainan.2784621" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>文昌市 / Wenchang</localname>
+        <boundary>administrative</boundary>
+        <id>CN.hainan.2784621</id>
+        <name>Wenchang City</name>
+      </desc>
+    </path>
+    <path d="M 213.843 401.6457 263.9238 379.7354 317.1345 432.9462 314.0045 461.1166 229.4933 492.417 213.843 401.6457 Z" id="CN.hainan.2784622" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <admin_leve>6</admin_leve>
+        <localname>五指山市 / Wuzhishan</localname>
+        <boundary>administrative</boundary>
+        <id>CN.hainan.2784622</id>
+        <name>Wuzhishan City</name>
+      </desc>
+    </path>
+  </g>
+</svg>

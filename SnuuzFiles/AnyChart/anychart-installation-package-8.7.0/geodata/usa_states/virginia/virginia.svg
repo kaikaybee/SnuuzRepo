@@ -1,0 +1,1182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <g id="virginia">
+    <path d="M 561.0719 462.8503 591.7226 440.5589 598.6886 438.4691 602.8683 439.1657 600.7784 444.7385 597.992 448.9182 595.2056 471.2096 559.6786 470.513 561.0719 462.8503 Z" id="US.VA.800" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Suffolk city</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>800</fips>
+        <incits>51800</incits>
+        <id>US.VA.800</id>
+        <population>85728</population>
+      </desc>
+    </path>
+    <path d="M 515.0958 414.7844 515.7924 414.7844 516.489 414.7844 517.1856 414.0878 517.8822 414.0878 518.5788 414.0878 519.2754 413.3912 521.3653 413.3912 524.8483 416.8743 524.1517 418.9641 523.4551 418.9641 522.7585 418.9641 522.0619 418.9641 521.3653 418.9641 521.3653 418.2675 520.6687 418.2675 520.6687 418.9641 519.9721 418.9641 519.2754 418.9641 517.1856 419.6607 514.3992 417.5709 515.0958 414.7844 Z" id="US.VA.730" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Petersburg city</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>730</fips>
+        <incits>51730</incits>
+        <id>US.VA.730</id>
+        <population>32538</population>
+      </desc>
+    </path>
+    <path d="M 370.8982 394.5828 379.2575 400.8523 371.5948 405.0319 364.6287 403.6387 364.6287 395.976 370.8982 394.5828 Z" id="US.VA.680" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lynchburg city</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>680</fips>
+        <incits>51680</incits>
+        <id>US.VA.680</id>
+        <population>78014</population>
+      </desc>
+    </path>
+    <path d="M 616.8004 446.8283 624.4631 430.1098 643.2715 434.2894 641.8782 438.4691 646.0579 454.491 653.024 471.2096 625.8563 471.2096 625.8563 461.4571 630.0359 459.3673 623.7665 453.7944 618.8902 452.4012 616.8004 446.8283 Z" id="US.VA.810" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Virginia Beach city</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>810</fips>
+        <incits>51810</incits>
+        <id>US.VA.810</id>
+        <population>448479</population>
+      </desc>
+    </path>
+    <path d="M 607.7445 439.8623 608.4411 436.3792 624.4631 430.1098 616.8004 446.8283 615.4072 447.525 611.9242 448.2216 607.7445 439.8623 Z" id="US.VA.710" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Norfolk city</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>710</fips>
+        <incits>51710</incits>
+        <id>US.VA.710</id>
+        <population>246139</population>
+      </desc>
+    </path>
+    <path d="M 600.7784 444.7385 602.8683 439.1657 603.5649 437.7725 607.7445 439.8623 611.9242 448.2216 610.5309 450.3114 609.1377 450.3114 608.4411 451.008 600.7784 444.7385 Z" id="US.VA.740" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Portsmouth city</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>740</fips>
+        <incits>51740</incits>
+        <id>US.VA.740</id>
+        <population>96205</population>
+      </desc>
+    </path>
+    <path d="M 472.6028 265.7106 480.9621 259.4411 483.7485 255.9581 491.4112 240.6327 505.3433 241.3293 507.4331 244.8124 514.3992 248.2954 508.8263 255.2615 514.3992 260.8343 525.5449 262.2275 508.1297 279.6427 498.3772 271.98 472.6028 265.7106 Z" id="US.VA.107" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Loudoun County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>107</fips>
+        <incits>51107</incits>
+        <id>US.VA.107</id>
+        <population>349679</population>
+      </desc>
+    </path>
+    <path d="M 508.1297 279.6427 525.5449 262.2275 531.8144 264.3174 532.511 268.497 540.1737 269.8902 542.9601 272.6766 538.0838 275.4631 540.1737 277.5529 543.6567 279.6427 549.2295 284.519 549.2295 290.0918 541.5669 294.2715 541.5669 297.0579 533.9042 299.8443 531.1178 292.8782 517.8822 287.3054 515.7924 283.8224 508.1297 279.6427 Z" id="US.VA.059" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Fairfax County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>059</fips>
+        <incits>51059</incits>
+        <id>US.VA.059</id>
+        <population>1130924</population>
+      </desc>
+    </path>
+    <path d="M 543.6567 279.6427 548.5329 280.3393 549.2295 284.519 543.6567 279.6427 Z" id="US.VA.510" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Alexandria city</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>510</fips>
+        <incits>51510</incits>
+        <id>US.VA.510</id>
+        <population>148892</population>
+      </desc>
+    </path>
+    <path d="M 542.9601 272.6766 549.2295 277.5529 548.5329 280.3393 543.6567 279.6427 540.1737 277.5529 538.0838 275.4631 542.9601 272.6766 Z" id="US.VA.013" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Arlington County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>013</fips>
+        <incits>51013</incits>
+        <id>US.VA.013</id>
+        <population>224906</population>
+      </desc>
+    </path>
+    <path d="M 498.3772 271.98 508.1297 279.6427 515.7924 283.8224 517.8822 287.3054 531.1178 292.8782 533.9042 299.8443 527.6347 308.2036 520.6687 306.1138 515.0958 301.9341 508.8263 304.024 492.8044 281.0359 498.3772 271.98 Z" id="US.VA.153" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Prince William County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>153</fips>
+        <incits>51153</incits>
+        <id>US.VA.153</id>
+        <population>438580</population>
+      </desc>
+    </path>
+    <path d="M 582.6667 352.7864 584.7565 350 593.1158 347.2136 601.475 352.7864 616.1038 359.0559 614.7106 364.6287 606.3513 375.0778 604.9581 368.8084 600.0818 364.6287 593.1158 363.2355 589.6327 356.2695 582.6667 352.7864 Z" id="US.VA.133" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Northumberland County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>133</fips>
+        <incits>51133</incits>
+        <id>US.VA.133</id>
+        <population>12200</population>
+      </desc>
+    </path>
+    <path d="M 508.8263 304.024 515.0958 301.9341 520.6687 306.1138 527.6347 308.2036 525.5449 314.4731 529.0279 321.4391 523.4551 324.9222 525.5449 329.7984 522.0619 329.7984 515.0958 326.3154 508.8263 324.2255 501.1637 319.3493 499.7705 315.8663 499.7705 311.6866 508.8263 304.024 Z" id="US.VA.179" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Stafford County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>179</fips>
+        <incits>51179</incits>
+        <id>US.VA.179</id>
+        <population>136788</population>
+      </desc>
+    </path>
+    <path d="M 529.0279 321.4391 532.511 322.8323 551.3194 318.6527 549.9261 324.2255 552.7126 327.012 548.5329 328.4052 547.1397 336.7645 539.477 336.0679 525.5449 329.7984 523.4551 324.9222 529.0279 321.4391 Z" id="US.VA.099" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>King George County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>099</fips>
+        <incits>51099</incits>
+        <id>US.VA.099</id>
+        <population>24926</population>
+      </desc>
+    </path>
+    <path d="M 651.6307 394.5828 653.7206 389.01 648.8443 386.9202 641.8782 382.7405 648.8443 376.4711 655.1138 367.4152 659.2934 366.022 666.9561 350.6966 699 347.9102 691.3373 359.7525 688.5509 362.5389 682.2814 361.8423 675.3154 368.1118 670.4391 376.4711 669.7425 386.2236 662.7764 395.2794 655.1138 391.7964 651.6307 394.5828 Z" id="US.VA.001" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Accomack County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>001</fips>
+        <incits>51001</incits>
+        <id>US.VA.001</id>
+        <population>33148</population>
+      </desc>
+    </path>
+    <path d="M 456.5808 263.6208 460.0639 258.7445 466.3333 244.8124 483.7485 255.9581 480.9621 259.4411 472.6028 265.7106 469.1198 268.497 464.9401 265.014 456.5808 263.6208 Z" id="US.VA.043" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Clarke County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>043</fips>
+        <incits>51043</incits>
+        <id>US.VA.043</id>
+        <population>14348</population>
+      </desc>
+    </path>
+    <path d="M 458.6707 278.2495 469.1198 268.497 472.6028 265.7106 498.3772 271.98 492.8044 281.0359 508.8263 304.024 499.7705 311.6866 499.7705 315.8663 491.4112 315.8663 485.1417 306.1138 479.5689 301.2375 480.2655 296.3613 475.3892 292.1816 469.1198 290.0918 467.0299 283.8224 458.6707 278.2495 Z" id="US.VA.061" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Fauquier County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>061</fips>
+        <incits>51061</incits>
+        <id>US.VA.061</id>
+        <population>67207</population>
+      </desc>
+    </path>
+    <path d="M 424.5369 262.2275 435.6826 253.1717 432.8962 250.3852 434.2894 245.509 441.2555 237.1497 440.5589 228.0938 466.3333 244.8124 460.0639 258.7445 456.5808 263.6208 443.3453 265.7106 435.6826 259.4411 431.503 264.3174 424.5369 262.2275 Z" id="US.VA.069" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Frederick County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>069</fips>
+        <incits>51069</incits>
+        <id>US.VA.069</id>
+        <population>81319</population>
+      </desc>
+    </path>
+    <path d="M 444.0419 349.3034 451.7046 339.5509 461.4571 337.4611 472.6028 340.2475 483.0519 341.6407 495.5908 349.3034 485.8383 372.2914 478.1756 370.2016 473.996 363.2355 464.2435 357.6627 444.0419 349.3034 Z" id="US.VA.109" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Louisa County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>109</fips>
+        <incits>51109</incits>
+        <id>US.VA.109</id>
+        <population>33945</population>
+      </desc>
+    </path>
+    <path d="M 438.4691 334.6747 445.4351 327.7086 453.0978 329.7984 461.4571 324.2255 476.7824 317.9561 494.1976 320.0459 492.1078 322.8323 472.6028 340.2475 461.4571 337.4611 451.7046 339.5509 438.4691 334.6747 Z" id="US.VA.137" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Orange County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>137</fips>
+        <incits>51137</incits>
+        <id>US.VA.137</id>
+        <population>34689</population>
+      </desc>
+    </path>
+    <path d="M 472.6028 340.2475 492.1078 322.8323 494.1976 320.0459 501.1637 319.3493 508.8263 324.2255 515.0958 326.3154 522.0619 329.7984 499.0739 350.6966 495.5908 349.3034 483.0519 341.6407 472.6028 340.2475 Z" id="US.VA.177" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Spotsylvania County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>177</fips>
+        <incits>51177</incits>
+        <id>US.VA.177</id>
+        <population>127348</population>
+      </desc>
+    </path>
+    <path d="M 437.0758 281.0359 444.7385 271.2834 443.3453 265.7106 456.5808 263.6208 464.9401 265.014 469.1198 268.497 458.6707 278.2495 453.0978 285.2156 445.4351 286.6088 437.0758 281.0359 Z" id="US.VA.187" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Warren County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>187</fips>
+        <incits>51187</incits>
+        <id>US.VA.187</id>
+        <population>38699</population>
+      </desc>
+    </path>
+    <path d="M 62.998 442.6487 72.0539 450.3114 65.7844 456.5808 57.4251 460.0639 53.9421 467.0299 1 467.0299 1.6966 464.2435 8.6627 461.4571 17.7186 461.4571 36.5269 455.1876 46.976 445.4351 55.3353 445.4351 62.998 442.6487 Z" id="US.VA.105" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lee County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>105</fips>
+        <incits>51105</incits>
+        <id>US.VA.105</id>
+        <population>25185</population>
+      </desc>
+    </path>
+    <path d="M 298.4511 354.1796 308.2036 353.483 311.6866 358.3593 323.5289 359.7525 329.1018 363.9321 331.8882 360.4491 335.3713 361.8423 329.7984 370.2016 317.9561 366.7186 309.5968 375.0778 301.2375 379.2575 291.485 383.4371 284.519 381.3473 278.2495 375.7745 289.3952 360.4491 298.4511 354.1796 Z" id="US.VA.005" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Alleghany County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>005</fips>
+        <incits>51005</incits>
+        <id>US.VA.005</id>
+        <population>16161</population>
+      </desc>
+    </path>
+    <path d="M 349.3034 382.0439 356.9661 378.5609 361.1457 370.8982 366.7186 366.022 371.5948 366.7186 380.6507 368.8084 380.6507 373.6846 389.01 377.1677 393.8862 387.6168 396.6727 388.3134 384.1337 397.3693 379.2575 400.8523 370.8982 394.5828 363.9321 390.4032 357.6627 389.7066 354.1796 384.1337 349.3034 382.0439 Z" id="US.VA.009" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Amherst County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>009</fips>
+        <incits>51009</incits>
+        <id>US.VA.009</id>
+        <population>32178</population>
+      </desc>
+    </path>
+    <path d="M 298.4511 354.1796 302.6307 350.6966 310.99 333.978 320.0459 327.7086 327.012 331.8882 343.7305 335.3713 350 336.7645 345.8204 343.0339 331.8882 360.4491 329.1018 363.9321 323.5289 359.7525 311.6866 358.3593 308.2036 353.483 298.4511 354.1796 Z" id="US.VA.017" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Bath County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>017</fips>
+        <incits>51017</incits>
+        <id>US.VA.017</id>
+        <population>4616</population>
+      </desc>
+    </path>
+    <path d="M 315.1697 407.8184 320.0459 404.3353 317.9561 399.4591 331.1916 393.1896 336.7645 395.976 344.4271 389.01 349.3034 386.2236 349.3034 382.0439 354.1796 384.1337 357.6627 389.7066 363.9321 390.4032 370.8982 394.5828 364.6287 395.976 364.6287 403.6387 349.3034 428.7166 336.0679 429.4132 326.3154 417.5709 315.1697 414.7844 315.1697 407.8184 Z" id="US.VA.019" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Bedford County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>019</fips>
+        <incits>51019</incits>
+        <id>US.VA.019</id>
+        <population>75773</population>
+      </desc>
+    </path>
+    <path d="M 200.9261 414.0878 209.982 410.6048 221.1277 409.2116 218.3413 410.6048 231.5768 421.0539 225.3074 423.8403 226.7006 427.3234 210.6786 431.503 200.2295 429.4132 187.6906 437.7725 182.8144 432.8962 192.5669 428.02 197.4431 423.1437 195.3533 415.481 200.9261 414.0878 Z" id="US.VA.021" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Bland County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>021</fips>
+        <incits>51021</incits>
+        <id>US.VA.021</id>
+        <population>6735</population>
+      </desc>
+    </path>
+    <path d="M 295.6647 398.7625 304.7206 388.3134 301.2375 379.2575 309.5968 375.0778 317.9561 366.7186 329.7984 370.2016 329.1018 378.5609 344.4271 389.01 336.7645 395.976 331.1916 393.1896 317.9561 399.4591 320.0459 404.3353 315.1697 407.8184 313.7764 405.7285 295.6647 398.7625 Z" id="US.VA.023" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Botetourt County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>023</fips>
+        <incits>51023</incits>
+        <id>US.VA.023</id>
+        <population>33002</population>
+      </desc>
+    </path>
+    <path d="M 111.0639 407.8184 138.9281 388.3134 142.4112 403.6387 147.984 407.8184 156.3433 410.6048 157.7365 413.3912 156.3433 416.1776 144.501 421.7505 135.4451 423.8403 131.9621 429.4132 123.6028 430.1098 124.996 428.02 117.3333 416.8743 115.2435 410.6048 111.0639 407.8184 Z" id="US.VA.027" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Buchanan County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>027</fips>
+        <incits>51027</incits>
+        <id>US.VA.027</id>
+        <population>23597</population>
+      </desc>
+    </path>
+    <path d="M 349.3034 428.7166 364.6287 403.6387 371.5948 405.0319 379.2575 400.8523 384.1337 397.3693 392.493 412.6946 400.8523 416.8743 393.8862 431.503 385.5269 430.8064 378.5609 428.02 364.6287 422.4471 354.1796 423.8403 349.3034 428.7166 Z" id="US.VA.031" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Campbell County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>031</fips>
+        <incits>51031</incits>
+        <id>US.VA.031</id>
+        <population>55235</population>
+      </desc>
+    </path>
+    <path d="M 215.5549 449.6148 241.3293 443.3453 249.6886 439.1657 264.3174 457.9741 263.6208 460.7605 251.0818 464.9401 251.7784 470.513 232.9701 470.513 226.7006 462.8503 225.3074 460.7605 215.5549 449.6148 Z" id="US.VA.035" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Carroll County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>035</fips>
+        <incits>51035</incits>
+        <id>US.VA.035</id>
+        <population>29883</population>
+      </desc>
+    </path>
+    <path d="M 262.9242 398.0659 277.5529 391.0998 275.4631 386.2236 284.519 381.3473 291.485 383.4371 301.2375 379.2575 304.7206 388.3134 295.6647 398.7625 281.0359 405.0319 274.7665 403.6387 267.1038 407.1218 262.9242 398.0659 Z" id="US.VA.045" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Craig County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>045</fips>
+        <incits>51045</incits>
+        <id>US.VA.045</id>
+        <population>5210</population>
+      </desc>
+    </path>
+    <path d="M 90.1657 416.1776 106.8842 411.3014 111.0639 407.8184 115.2435 410.6048 117.3333 416.8743 124.996 428.02 123.6028 430.1098 108.9741 435.6826 102.7046 434.986 95.0419 430.8064 90.8623 423.1437 90.1657 416.1776 Z" id="US.VA.051" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dickenson County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>051</fips>
+        <incits>51051</incits>
+        <id>US.VA.051</id>
+        <population>15486</population>
+      </desc>
+    </path>
+    <path d="M 249.6886 439.1657 258.0479 435.6826 265.7106 431.503 273.3733 431.503 278.2495 427.3234 288.002 423.1437 292.1816 423.1437 293.5749 431.503 291.485 436.3792 283.1257 444.0419 271.2834 449.6148 269.1936 455.1876 264.3174 457.9741 249.6886 439.1657 Z" id="US.VA.063" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Floyd County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>063</fips>
+        <incits>51063</incits>
+        <id>US.VA.063</id>
+        <population>15528</population>
+      </desc>
+    </path>
+    <path d="M 283.1257 444.0419 291.485 436.3792 293.5749 431.503 292.1816 423.1437 299.8443 418.9641 306.1138 421.7505 315.1697 414.7844 326.3154 417.5709 336.0679 429.4132 332.5848 445.4351 330.495 447.525 319.3493 451.008 302.6307 447.525 299.1477 450.3114 297.0579 446.8283 283.1257 444.0419 Z" id="US.VA.067" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Franklin County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>067</fips>
+        <incits>51067</incits>
+        <id>US.VA.067</id>
+        <population>56335</population>
+      </desc>
+    </path>
+    <path d="M 221.1277 409.2116 232.2735 404.3353 237.1497 400.8523 244.1158 400.8523 256.6547 393.8862 262.9242 398.0659 267.1038 407.1218 260.8343 410.6048 252.475 412.6946 237.8463 417.5709 231.5768 421.0539 218.3413 410.6048 221.1277 409.2116 Z" id="US.VA.071" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Giles County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>071</fips>
+        <incits>51071</incits>
+        <id>US.VA.071</id>
+        <population>16925</population>
+      </desc>
+    </path>
+    <path d="M 165.3992 465.6367 168.8822 463.5469 173.7585 457.9741 183.511 456.5808 197.4431 453.0978 212.0719 452.4012 215.5549 449.6148 225.3074 460.7605 226.7006 462.8503 232.9701 470.513 188.3872 469.1198 163.3094 467.7265 165.3992 465.6367 Z" id="US.VA.077" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Grayson County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>077</fips>
+        <incits>51077</incits>
+        <id>US.VA.077</id>
+        <population>15161</population>
+      </desc>
+    </path>
+    <path d="M 368.1118 471.9062 378.5609 428.02 385.5269 430.8064 393.8862 431.503 394.5828 434.986 407.8184 434.986 408.515 440.5589 413.3912 445.4351 415.481 458.6707 411.3014 460.0639 408.515 471.9062 368.1118 471.9062 Z" id="US.VA.083" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Halifax County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>083</fips>
+        <incits>51083</incits>
+        <id>US.VA.083</id>
+        <population>35401</population>
+      </desc>
+    </path>
+    <path d="M 299.1477 450.3114 302.6307 447.525 319.3493 451.008 330.495 447.525 332.5848 445.4351 326.3154 471.9062 298.4511 471.9062 297.7545 462.1537 294.9681 452.4012 299.1477 450.3114 Z" id="US.VA.089" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Henry County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>089</fips>
+        <incits>51089</incits>
+        <id>US.VA.089</id>
+        <population>52617</population>
+      </desc>
+    </path>
+    <path d="M 252.475 412.6946 260.8343 410.6048 267.1038 407.1218 274.7665 403.6387 281.0359 405.0319 286.6088 414.0878 288.002 423.1437 278.2495 427.3234 273.3733 431.503 265.7106 431.503 258.0479 435.6826 254.5649 425.9301 258.7445 422.4471 251.7784 415.481 252.475 412.6946 Z" id="US.VA.121" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Montgomery County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>121</fips>
+        <incits>51121</incits>
+        <id>US.VA.121</id>
+        <population>96207</population>
+      </desc>
+    </path>
+    <path d="M 264.3174 457.9741 269.1936 455.1876 271.2834 449.6148 283.1257 444.0419 297.0579 446.8283 299.1477 450.3114 294.9681 452.4012 297.7545 462.1537 298.4511 471.9062 278.2495 471.2096 251.7784 470.513 251.0818 464.9401 263.6208 460.7605 264.3174 457.9741 Z" id="US.VA.141" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Patrick County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>141</fips>
+        <incits>51141</incits>
+        <id>US.VA.141</id>
+        <population>18368</population>
+      </desc>
+    </path>
+    <path d="M 326.3154 471.9062 332.5848 445.4351 336.0679 429.4132 349.3034 428.7166 354.1796 423.8403 364.6287 422.4471 378.5609 428.02 368.1118 471.9062 357.6627 471.9062 358.3593 466.3333 352.7864 463.5469 347.2136 471.9062 326.3154 471.9062 Z" id="US.VA.143" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pittsylvania County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>143</fips>
+        <incits>51143</incits>
+        <id>US.VA.143</id>
+        <population>62426</population>
+      </desc>
+    </path>
+    <path d="M 231.5768 421.0539 237.8463 417.5709 252.475 412.6946 251.7784 415.481 258.7445 422.4471 254.5649 425.9301 258.0479 435.6826 249.6886 439.1657 241.3293 443.3453 228.0938 430.8064 226.7006 427.3234 225.3074 423.8403 231.5768 421.0539 Z" id="US.VA.155" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Pulaski County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>155</fips>
+        <incits>51155</incits>
+        <id>US.VA.155</id>
+        <population>34507</population>
+      </desc>
+    </path>
+    <path d="M 281.0359 405.0319 295.6647 398.7625 313.7764 405.7285 315.1697 407.8184 315.1697 414.7844 306.1138 421.7505 299.8443 418.9641 292.1816 423.1437 288.002 423.1437 286.6088 414.0878 281.0359 405.0319 Z" id="US.VA.161" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Roanoke County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>161</fips>
+        <incits>51161</incits>
+        <id>US.VA.161</id>
+        <population>93524</population>
+      </desc>
+    </path>
+    <path d="M 329.7984 370.2016 335.3713 361.8423 331.8882 360.4491 345.8204 343.0339 369.505 356.2695 372.988 359.0559 371.5948 366.7186 366.7186 366.022 361.1457 370.8982 356.9661 378.5609 349.3034 382.0439 349.3034 386.2236 344.4271 389.01 329.1018 378.5609 329.7984 370.2016 Z" id="US.VA.163" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Rockbridge County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>163</fips>
+        <incits>51163</incits>
+        <id>US.VA.163</id>
+        <population>22307</population>
+      </desc>
+    </path>
+    <path d="M 102.7046 443.3453 111.0639 441.2555 108.9741 435.6826 123.6028 430.1098 131.9621 429.4132 135.4451 423.8403 144.501 421.7505 154.9501 437.0758 150.0739 439.1657 140.3214 444.7385 137.5349 443.3453 127.0858 446.8283 127.0858 450.3114 108.2774 457.2774 102.7046 443.3453 Z" id="US.VA.167" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Russell County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>167</fips>
+        <incits>51167</incits>
+        <id>US.VA.167</id>
+        <population>28264</population>
+      </desc>
+    </path>
+    <path d="M 53.9421 467.0299 57.4251 460.0639 65.7844 456.5808 72.0539 450.3114 77.6267 448.9182 83.1996 443.3453 102.7046 443.3453 108.2774 457.2774 111.7605 467.0299 53.9421 467.0299 Z" id="US.VA.169" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Scott County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>169</fips>
+        <incits>51169</incits>
+        <id>US.VA.169</id>
+        <population>22640</population>
+      </desc>
+    </path>
+    <path d="M 150.0739 439.1657 154.9501 437.0758 160.523 435.6826 162.6128 439.1657 171.6687 434.2894 182.8144 432.8962 187.6906 437.7725 191.1737 441.2555 197.4431 453.0978 183.511 456.5808 173.7585 457.9741 168.8822 463.5469 161.2196 451.008 150.0739 439.1657 Z" id="US.VA.173" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Smyth County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>173</fips>
+        <incits>51173</incits>
+        <id>US.VA.173</id>
+        <population>31652</population>
+      </desc>
+    </path>
+    <path d="M 144.501 421.7505 156.3433 416.1776 157.7365 413.3912 162.6128 416.8743 173.0619 416.1776 189.0838 405.0319 200.9261 414.0878 195.3533 415.481 197.4431 423.1437 192.5669 428.02 182.8144 432.8962 171.6687 434.2894 162.6128 439.1657 160.523 435.6826 154.9501 437.0758 144.501 421.7505 Z" id="US.VA.185" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Tazewell County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>185</fips>
+        <incits>51185</incits>
+        <id>US.VA.185</id>
+        <population>44103</population>
+      </desc>
+    </path>
+    <path d="M 108.2774 457.2774 127.0858 450.3114 127.0858 446.8283 137.5349 443.3453 140.3214 444.7385 150.0739 439.1657 161.2196 451.008 168.8822 463.5469 165.3992 465.6367 142.4112 465.6367 141.7146 467.0299 124.2994 467.0299 115.9401 467.0299 111.7605 467.0299 108.2774 457.2774 Z" id="US.VA.191" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Washington County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>191</fips>
+        <incits>51191</incits>
+        <id>US.VA.191</id>
+        <population>54907</population>
+      </desc>
+    </path>
+    <path d="M 90.1657 416.1776 90.8623 423.1437 95.0419 430.8064 102.7046 434.986 108.9741 435.6826 111.0639 441.2555 102.7046 443.3453 83.1996 443.3453 77.6267 448.9182 72.0539 450.3114 62.998 442.6487 67.1776 432.8962 76.2335 428.7166 76.2335 423.1437 90.1657 416.1776 Z" id="US.VA.195" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wise County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>195</fips>
+        <incits>51195</incits>
+        <id>US.VA.195</id>
+        <population>40589</population>
+      </desc>
+    </path>
+    <path d="M 187.6906 437.7725 200.2295 429.4132 210.6786 431.503 226.7006 427.3234 228.0938 430.8064 241.3293 443.3453 215.5549 449.6148 212.0719 452.4012 197.4431 453.0978 191.1737 441.2555 187.6906 437.7725 Z" id="US.VA.197" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Wythe County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>197</fips>
+        <incits>51197</incits>
+        <id>US.VA.197</id>
+        <population>29344</population>
+      </desc>
+    </path>
+    <path d="M 399.4591 346.517 404.3353 343.0339 406.4251 332.5848 414.7844 327.012 438.4691 334.6747 451.7046 339.5509 444.0419 349.3034 428.7166 367.4152 428.02 369.505 418.2675 370.2016 414.7844 372.988 399.4591 346.517 Z" id="US.VA.003" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Albemarle County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>003</fips>
+        <incits>51003</incits>
+        <id>US.VA.003</id>
+        <population>103000</population>
+      </desc>
+    </path>
+    <path d="M 457.9741 395.2794 463.5469 395.976 467.7265 392.493 477.479 393.8862 481.6587 398.7625 479.5689 402.9421 488.6248 410.6048 498.3772 411.3014 490.018 416.8743 485.8383 417.5709 450.3114 408.515 449.6148 402.9421 452.4012 398.0659 457.9741 395.2794 Z" id="US.VA.007" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Amelia County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>007</fips>
+        <incits>51007</incits>
+        <id>US.VA.007</id>
+        <population>12745</population>
+      </desc>
+    </path>
+    <path d="M 384.1337 397.3693 396.6727 388.3134 400.1557 386.9202 412.6946 398.0659 419.6607 400.1557 418.9641 404.3353 412.6946 412.6946 400.8523 416.8743 392.493 412.6946 384.1337 397.3693 Z" id="US.VA.011" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Appomattox County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>011</fips>
+        <incits>51011</incits>
+        <id>US.VA.011</id>
+        <population>15255</population>
+      </desc>
+    </path>
+    <path d="M 343.7305 335.3713 352.0898 329.7984 359.7525 315.8663 367.4152 310.2934 406.4251 332.5848 404.3353 343.0339 399.4591 346.517 396.6727 347.9102 393.8862 354.8762 386.2236 359.7525 381.3473 356.9661 372.988 359.0559 369.505 356.2695 345.8204 343.0339 350 336.7645 343.7305 335.3713 Z" id="US.VA.015" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Augusta County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>015</fips>
+        <incits>51015</incits>
+        <id>US.VA.015</id>
+        <population>73912</population>
+      </desc>
+    </path>
+    <path d="M 465.6367 471.2096 467.0299 451.7046 468.4232 432.1996 478.1756 434.2894 488.6248 435.6826 497.6806 442.6487 497.6806 457.2774 488.6248 471.2096 465.6367 471.2096 Z" id="US.VA.025" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Brunswick County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>025</fips>
+        <incits>51025</incits>
+        <id>US.VA.025</id>
+        <population>16973</population>
+      </desc>
+    </path>
+    <path d="M 414.7844 372.988 418.2675 370.2016 428.02 369.505 428.7166 367.4152 430.8064 370.2016 448.9182 375.7745 448.2216 380.6507 430.8064 405.0319 426.6267 405.7285 419.6607 400.1557 412.6946 398.0659 400.1557 386.9202 400.1557 381.3473 407.8184 380.6507 413.3912 376.4711 414.7844 372.988 Z" id="US.VA.029" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Buckingham County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>029</fips>
+        <incits>51029</incits>
+        <id>US.VA.029</id>
+        <population>17136</population>
+      </desc>
+    </path>
+    <path d="M 499.0739 350.6966 522.0619 329.7984 525.5449 329.7984 539.477 336.0679 542.9601 338.8543 538.7804 343.7305 545.0499 349.3034 546.4431 352.7864 537.3872 354.1796 537.3872 359.0559 529.7246 361.1457 523.4551 368.1118 499.0739 350.6966 Z" id="US.VA.033" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Caroline County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>033</fips>
+        <incits>51033</incits>
+        <id>US.VA.033</id>
+        <population>29298</population>
+      </desc>
+    </path>
+    <path d="M 530.4212 404.3353 531.8144 401.5489 538.0838 392.493 545.0499 396.6727 560.3752 402.2455 563.1617 406.4251 562.4651 411.998 557.5888 413.3912 552.016 407.1218 530.4212 406.4251 530.4212 404.3353 Z" id="US.VA.036" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Charles City County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>036</fips>
+        <incits>51036</incits>
+        <id>US.VA.036</id>
+        <population>7130</population>
+      </desc>
+    </path>
+    <path d="M 393.8862 431.503 400.8523 416.8743 412.6946 412.6946 411.998 416.1776 421.0539 421.7505 426.6267 422.4471 432.1996 426.6267 428.02 442.6487 415.481 458.6707 413.3912 445.4351 408.515 440.5589 407.8184 434.986 394.5828 434.986 393.8862 431.503 Z" id="US.VA.037" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Charlotte County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>037</fips>
+        <incits>51037</incits>
+        <id>US.VA.037</id>
+        <population>12305</population>
+      </desc>
+    </path>
+    <path d="M 481.6587 398.7625 498.3772 386.2236 503.2535 386.9202 508.8263 389.01 510.2196 394.5828 517.8822 395.976 519.9721 399.4591 527.6347 403.6387 531.8144 401.5489 530.4212 404.3353 524.8483 407.1218 522.7585 409.9082 517.1856 409.9082 516.489 410.6048 517.8822 412.6946 517.8822 413.3912 517.8822 414.0878 516.489 414.7844 515.0958 414.7844 513.7026 414.7844 513.006 414.7844 511.6128 414.7844 508.8263 415.481 506.0399 414.7844 498.3772 411.3014 488.6248 410.6048 479.5689 402.9421 481.6587 398.7625 Z" id="US.VA.041" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Chesterfield County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>041</fips>
+        <incits>51041</incits>
+        <id>US.VA.041</id>
+        <population>327745</population>
+      </desc>
+    </path>
+    <path d="M 449.6148 305.4172 454.491 306.8104 462.1537 299.8443 475.3892 292.1816 480.2655 296.3613 479.5689 301.2375 485.1417 306.1138 491.4112 315.8663 499.7705 315.8663 501.1637 319.3493 494.1976 320.0459 476.7824 317.9561 461.4571 324.2255 461.4571 317.2595 457.9741 313.0798 449.6148 305.4172 Z" id="US.VA.047" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Culpeper County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>047</fips>
+        <incits>51047</incits>
+        <id>US.VA.047</id>
+        <population>48506</population>
+      </desc>
+    </path>
+    <path d="M 430.8064 405.0319 448.2216 380.6507 448.9182 375.7745 455.8842 370.8982 461.4571 374.3812 463.5469 378.5609 457.9741 395.2794 452.4012 398.0659 449.6148 402.9421 442.6487 407.8184 430.8064 405.0319 Z" id="US.VA.049" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Cumberland County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>049</fips>
+        <incits>51049</incits>
+        <id>US.VA.049</id>
+        <population>9841</population>
+      </desc>
+    </path>
+    <path d="M 485.8383 417.5709 490.018 416.8743 498.3772 411.3014 506.0399 414.7844 508.8263 415.481 511.6128 414.7844 513.006 414.7844 513.7026 414.7844 515.0958 414.7844 515.0958 415.481 515.7924 416.8743 515.7924 417.5709 519.2754 418.9641 519.2754 419.6607 519.2754 429.4132 518.5788 434.2894 501.1637 443.3453 497.6806 442.6487 488.6248 435.6826 478.1756 434.2894 477.479 421.7505 485.8383 417.5709 Z" id="US.VA.053" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Dinwiddie County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>053</fips>
+        <incits>51053</incits>
+        <id>US.VA.053</id>
+        <population>27904</population>
+      </desc>
+    </path>
+    <path d="M 542.9601 338.8543 547.8363 341.6407 557.5888 343.7305 558.982 352.0898 568.0379 358.3593 574.3074 366.7186 579.1836 369.505 572.9142 371.5948 569.4311 367.4152 562.4651 368.1118 551.3194 363.2355 546.4431 352.7864 545.0499 349.3034 538.7804 343.7305 542.9601 338.8543 Z" id="US.VA.057" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Essex County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>057</fips>
+        <incits>51057</incits>
+        <id>US.VA.057</id>
+        <population>11229</population>
+      </desc>
+    </path>
+    <path d="M 428.7166 367.4152 444.0419 349.3034 464.2435 357.6627 455.8842 370.8982 448.9182 375.7745 430.8064 370.2016 428.7166 367.4152 Z" id="US.VA.065" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Fluvanna County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>065</fips>
+        <incits>51065</incits>
+        <id>US.VA.065</id>
+        <population>25977</population>
+      </desc>
+    </path>
+    <path d="M 581.2735 383.4371 592.4192 387.6168 599.3852 391.0998 598.6886 395.976 597.2954 402.9421 602.1717 405.0319 603.5649 409.2116 597.2954 411.998 588.2395 407.1218 577.0938 396.6727 581.9701 393.1896 579.8802 389.01 581.2735 383.4371 Z" id="US.VA.073" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Gloucester County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>073</fips>
+        <incits>51073</incits>
+        <id>US.VA.073</id>
+        <population>36834</population>
+      </desc>
+    </path>
+    <path d="M 455.8842 370.8982 464.2435 357.6627 473.996 363.2355 478.1756 370.2016 485.8383 372.2914 499.7705 374.3812 498.3772 386.2236 484.4451 381.3473 475.3892 375.7745 471.2096 381.3473 463.5469 378.5609 461.4571 374.3812 455.8842 370.8982 Z" id="US.VA.075" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Goochland County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>075</fips>
+        <incits>51075</incits>
+        <id>US.VA.075</id>
+        <population>21626</population>
+      </desc>
+    </path>
+    <path d="M 414.7844 327.012 423.1437 322.1357 428.7166 315.1697 431.503 310.2934 433.5928 319.3493 441.9521 327.7086 445.4351 327.7086 438.4691 334.6747 414.7844 327.012 Z" id="US.VA.079" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Greene County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>079</fips>
+        <incits>51079</incits>
+        <id>US.VA.079</id>
+        <population>18804</population>
+      </desc>
+    </path>
+    <path d="M 488.6248 471.2096 497.6806 457.2774 497.6806 442.6487 501.1637 443.3453 506.0399 446.1317 514.3992 444.7385 511.6128 456.5808 516.489 457.9741 510.9162 460.7605 521.3653 464.2435 522.7585 469.1198 527.6347 471.2096 488.6248 471.2096 Z" id="US.VA.081" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Greensville County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>081</fips>
+        <incits>51081</incits>
+        <id>US.VA.081</id>
+        <population>11886</population>
+      </desc>
+    </path>
+    <path d="M 485.8383 372.2914 495.5908 349.3034 499.0739 350.6966 523.4551 368.1118 524.8483 370.8982 533.9042 375.7745 540.8703 377.8643 541.5669 380.6507 532.511 388.3134 518.5788 382.7405 515.0958 376.4711 505.3433 376.4711 499.7705 374.3812 485.8383 372.2914 Z" id="US.VA.085" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hanover County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>085</fips>
+        <incits>51085</incits>
+        <id>US.VA.085</id>
+        <population>101330</population>
+      </desc>
+    </path>
+    <path d="M 359.7525 315.8663 352.0898 329.7984 343.7305 335.3713 327.012 331.8882 320.0459 327.7086 318.6527 324.9222 324.2255 320.7425 328.4052 314.4731 327.7086 310.2934 332.5848 300.5409 341.6407 304.024 346.517 312.3832 359.7525 315.8663 Z" id="US.VA.091" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Highland County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>091</fips>
+        <incits>51091</incits>
+        <id>US.VA.091</id>
+        <population>2215</population>
+      </desc>
+    </path>
+    <path d="M 565.2515 433.5928 577.7904 428.7166 579.8802 421.7505 580.5768 429.4132 586.1497 430.8064 595.2056 437.0758 591.7226 440.5589 561.0719 462.8503 560.3752 462.8503 558.982 457.9741 568.0379 441.9521 564.5549 437.0758 565.2515 433.5928 Z" id="US.VA.093" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Isle of Wight County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>093</fips>
+        <incits>51093</incits>
+        <id>US.VA.093</id>
+        <population>35656</population>
+      </desc>
+    </path>
+    <path d="M 560.3752 402.2455 564.5549 395.976 572.9142 395.2794 579.8802 402.9421 574.3074 402.2455 575.004 407.8184 579.1836 411.3014 586.8463 415.481 584.7565 419.6607 581.9701 414.7844 570.8244 416.1776 563.1617 413.3912 563.1617 406.4251 560.3752 402.2455 Z" id="US.VA.095" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>James City County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>095</fips>
+        <incits>51095</incits>
+        <id>US.VA.095</id>
+        <population>70516</population>
+      </desc>
+    </path>
+    <path d="M 546.4431 352.7864 551.3194 363.2355 562.4651 368.1118 569.4311 367.4152 572.9142 371.5948 573.6108 375.0778 581.2735 383.4371 579.8802 389.01 581.9701 393.1896 577.0938 396.6727 570.1277 388.3134 564.5549 380.6507 554.8024 374.3812 549.9261 372.988 543.6567 368.1118 537.3872 359.0559 537.3872 354.1796 546.4431 352.7864 Z" id="US.VA.097" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>King and Queen County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>097</fips>
+        <incits>51097</incits>
+        <id>US.VA.097</id>
+        <population>7130</population>
+      </desc>
+    </path>
+    <path d="M 584.0599 366.022 593.1158 363.2355 600.0818 364.6287 604.9581 368.8084 606.3513 375.0778 602.1717 377.8643 595.2056 373.6846 591.0259 375.0778 584.0599 366.022 Z" id="US.VA.103" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lancaster County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>103</fips>
+        <incits>51103</incits>
+        <id>US.VA.103</id>
+        <population>11148</population>
+      </desc>
+    </path>
+    <path d="M 428.02 442.6487 432.1996 426.6267 449.6148 423.1437 452.4012 426.6267 462.1537 432.1996 468.4232 432.1996 467.0299 451.7046 450.3114 449.6148 443.3453 446.1317 428.02 442.6487 Z" id="US.VA.111" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Lunenburg County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>111</fips>
+        <incits>51111</incits>
+        <id>US.VA.111</id>
+        <population>12527</population>
+      </desc>
+    </path>
+    <path d="M 431.503 310.2934 432.8962 306.1138 437.7725 303.3273 441.2555 297.7545 449.6148 305.4172 457.9741 313.0798 461.4571 317.2595 461.4571 324.2255 453.0978 329.7984 445.4351 327.7086 441.9521 327.7086 433.5928 319.3493 431.503 310.2934 Z" id="US.VA.113" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Madison County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>113</fips>
+        <incits>51113</incits>
+        <id>US.VA.113</id>
+        <population>13200</population>
+      </desc>
+    </path>
+    <path d="M 599.3852 391.0998 602.1717 389.7066 615.4072 396.6727 615.4072 401.5489 610.5309 406.4251 599.3852 398.7625 598.6886 395.976 599.3852 391.0998 Z" id="US.VA.115" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Mathews County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>115</fips>
+        <incits>51115</incits>
+        <id>US.VA.115</id>
+        <population>8897</population>
+      </desc>
+    </path>
+    <path d="M 415.481 458.6707 428.02 442.6487 443.3453 446.1317 450.3114 449.6148 467.0299 451.7046 465.6367 471.2096 408.515 471.9062 411.3014 460.0639 415.481 458.6707 Z" id="US.VA.117" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Mecklenburg County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>117</fips>
+        <incits>51117</incits>
+        <id>US.VA.117</id>
+        <population>31426</population>
+      </desc>
+    </path>
+    <path d="M 572.9142 371.5948 579.1836 369.505 585.4531 372.988 591.0259 382.0439 600.0818 382.7405 607.0479 385.5269 605.6547 389.01 598.6886 389.7066 592.4192 387.6168 581.2735 383.4371 573.6108 375.0778 572.9142 371.5948 Z" id="US.VA.119" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Middlesex County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>119</fips>
+        <incits>51119</incits>
+        <id>US.VA.119</id>
+        <population>10762</population>
+      </desc>
+    </path>
+    <path d="M 371.5948 366.7186 372.988 359.0559 381.3473 356.9661 386.2236 359.7525 393.8862 354.8762 396.6727 347.9102 399.4591 346.517 414.7844 372.988 413.3912 376.4711 407.8184 380.6507 400.1557 381.3473 400.1557 386.9202 396.6727 388.3134 393.8862 387.6168 389.01 377.1677 380.6507 373.6846 380.6507 368.8084 371.5948 366.7186 Z" id="US.VA.125" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Nelson County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>125</fips>
+        <incits>51125</incits>
+        <id>US.VA.125</id>
+        <population>14789</population>
+      </desc>
+    </path>
+    <path d="M 532.511 388.3134 541.5669 380.6507 556.8922 389.01 568.7345 389.7066 572.9142 395.2794 564.5549 395.976 560.3752 402.2455 545.0499 396.6727 538.0838 392.493 532.511 388.3134 Z" id="US.VA.127" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>New Kent County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>127</fips>
+        <incits>51127</incits>
+        <id>US.VA.127</id>
+        <population>19507</population>
+      </desc>
+    </path>
+    <path d="M 648.8443 386.9202 653.7206 389.01 651.6307 394.5828 650.9341 397.3693 643.2715 405.0319 641.1816 420.3573 636.3054 419.6607 633.519 411.998 634.2156 405.7285 638.3952 400.8523 637.002 397.3693 641.8782 386.9202 648.8443 386.9202 Z" id="US.VA.131" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Northampton County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>131</fips>
+        <incits>51131</incits>
+        <id>US.VA.131</id>
+        <population>12125</population>
+      </desc>
+    </path>
+    <path d="M 449.6148 423.1437 450.3114 408.515 485.8383 417.5709 477.479 421.7505 478.1756 434.2894 468.4232 432.1996 462.1537 432.1996 452.4012 426.6267 449.6148 423.1437 Z" id="US.VA.135" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Nottoway County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>135</fips>
+        <incits>51135</incits>
+        <id>US.VA.135</id>
+        <population>15773</population>
+      </desc>
+    </path>
+    <path d="M 416.1776 299.8443 423.8403 288.6986 426.6267 289.3952 437.0758 281.0359 445.4351 286.6088 441.9521 291.485 441.2555 297.7545 437.7725 303.3273 432.8962 306.1138 431.503 310.2934 428.7166 315.1697 418.9641 311.6866 411.998 306.8104 416.1776 299.8443 Z" id="US.VA.139" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Page County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>139</fips>
+        <incits>51139</incits>
+        <id>US.VA.139</id>
+        <population>23821</population>
+      </desc>
+    </path>
+    <path d="M 457.9741 395.2794 463.5469 378.5609 471.2096 381.3473 475.3892 375.7745 484.4451 381.3473 498.3772 386.2236 481.6587 398.7625 477.479 393.8862 467.7265 392.493 463.5469 395.976 457.9741 395.2794 Z" id="US.VA.145" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Powhatan County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>145</fips>
+        <incits>51145</incits>
+        <id>US.VA.145</id>
+        <population>28259</population>
+      </desc>
+    </path>
+    <path d="M 412.6946 412.6946 418.9641 404.3353 419.6607 400.1557 426.6267 405.7285 430.8064 405.0319 442.6487 407.8184 449.6148 402.9421 450.3114 408.515 449.6148 423.1437 432.1996 426.6267 426.6267 422.4471 421.0539 421.7505 411.998 416.1776 412.6946 412.6946 Z" id="US.VA.147" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Prince Edward County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>147</fips>
+        <incits>51147</incits>
+        <id>US.VA.147</id>
+        <population>22802</population>
+      </desc>
+    </path>
+    <path d="M 518.5788 434.2894 519.2754 429.4132 519.2754 419.6607 519.2754 418.9641 520.6687 418.9641 522.0619 418.9641 522.7585 418.9641 523.4551 418.9641 524.1517 418.9641 524.8483 416.8743 522.7585 409.9082 524.8483 407.1218 525.5449 411.3014 534.6008 407.1218 543.6567 408.515 551.3194 414.7844 539.477 424.5369 518.5788 434.2894 Z" id="US.VA.149" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Prince George County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>149</fips>
+        <incits>51149</incits>
+        <id>US.VA.149</id>
+        <population>37253</population>
+      </desc>
+    </path>
+    <path d="M 441.2555 297.7545 441.9521 291.485 445.4351 286.6088 453.0978 285.2156 458.6707 278.2495 467.0299 283.8224 469.1198 290.0918 475.3892 292.1816 462.1537 299.8443 454.491 306.8104 449.6148 305.4172 441.2555 297.7545 Z" id="US.VA.157" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Rappahannock County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>157</fips>
+        <incits>51157</incits>
+        <id>US.VA.157</id>
+        <population>7478</population>
+      </desc>
+    </path>
+    <path d="M 557.5888 343.0339 561.7685 340.2475 572.2176 349.3034 582.6667 352.7864 589.6327 356.2695 593.1158 363.2355 584.0599 366.022 575.004 363.9321 570.8244 356.9661 561.7685 350.6966 557.5888 343.0339 Z" id="US.VA.159" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Richmond County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>159</fips>
+        <incits>51159</incits>
+        <id>US.VA.159</id>
+        <population>8953</population>
+      </desc>
+    </path>
+    <path d="M 396.6727 286.6088 416.1776 299.8443 411.998 306.8104 418.9641 311.6866 428.7166 315.1697 423.1437 322.1357 414.7844 327.012 406.4251 332.5848 367.4152 310.2934 375.0778 295.6647 378.5609 294.9681 379.9541 288.002 386.2236 279.6427 396.6727 286.6088 Z" id="US.VA.165" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Rockingham County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>165</fips>
+        <incits>51165</incits>
+        <id>US.VA.165</id>
+        <population>77741</population>
+      </desc>
+    </path>
+    <path d="M 396.6727 286.6088 403.6387 276.1597 407.8184 272.6766 412.6946 273.3733 418.9641 269.8902 424.5369 262.2275 431.503 264.3174 435.6826 259.4411 443.3453 265.7106 444.7385 271.2834 437.0758 281.0359 426.6267 289.3952 423.8403 288.6986 416.1776 299.8443 396.6727 286.6088 Z" id="US.VA.171" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Shenandoah County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>171</fips>
+        <incits>51171</incits>
+        <id>US.VA.171</id>
+        <population>42684</population>
+      </desc>
+    </path>
+    <path d="M 516.489 457.9741 556.1956 437.7725 565.2515 433.5928 564.5549 437.0758 568.0379 441.9521 558.982 457.9741 560.3752 462.8503 561.0719 462.8503 559.6786 470.513 527.6347 471.2096 522.7585 469.1198 521.3653 464.2435 510.9162 460.7605 516.489 457.9741 Z" id="US.VA.175" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Southampton County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>175</fips>
+        <incits>51175</incits>
+        <id>US.VA.175</id>
+        <population>18128</population>
+      </desc>
+    </path>
+    <path d="M 539.477 424.5369 551.3194 414.7844 568.0379 416.1776 579.8802 421.7505 577.7904 428.7166 565.2515 433.5928 556.1956 437.7725 555.499 429.4132 539.477 424.5369 Z" id="US.VA.181" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Surry County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>181</fips>
+        <incits>51181</incits>
+        <id>US.VA.181</id>
+        <population>6765</population>
+      </desc>
+    </path>
+    <path d="M 501.1637 443.3453 518.5788 434.2894 539.477 424.5369 555.499 429.4132 556.1956 437.7725 516.489 457.9741 511.6128 456.5808 514.3992 444.7385 506.0399 446.1317 501.1637 443.3453 Z" id="US.VA.183" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Sussex County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>183</fips>
+        <incits>51183</incits>
+        <id>US.VA.183</id>
+        <population>11810</population>
+      </desc>
+    </path>
+    <path d="M 552.7126 327.012 556.8922 332.5848 562.4651 335.3713 584.7565 338.1577 593.1158 347.2136 584.7565 350 582.6667 352.7864 572.2176 349.3034 561.7685 340.2475 557.5888 343.0339 549.9261 341.6407 547.1397 336.7645 548.5329 328.4052 552.7126 327.012 Z" id="US.VA.193" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Westmoreland County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>193</fips>
+        <incits>51193</incits>
+        <id>US.VA.193</id>
+        <population>17612</population>
+      </desc>
+    </path>
+    <path d="M 499.7705 374.3812 505.3433 376.4711 515.0958 376.4711 518.5788 382.7405 532.511 388.3134 538.0838 392.493 531.8144 401.5489 527.6347 403.6387 519.9721 399.4591 517.8822 395.976 520.6687 389.7066 517.8822 384.8303 513.006 383.4371 508.1297 386.9202 503.2535 386.9202 498.3772 386.2236 499.7705 374.3812 Z" id="US.VA.087" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Henrico County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>087</fips>
+        <incits>51087</incits>
+        <id>US.VA.087</id>
+        <population>318611</population>
+      </desc>
+    </path>
+    <path d="M 523.4551 368.1118 529.7246 361.1457 537.3872 359.0559 543.6567 368.1118 549.9261 372.988 554.8024 374.3812 564.5549 380.6507 570.1277 388.3134 568.7345 389.7066 556.8922 389.01 541.5669 380.6507 540.8703 377.8643 533.9042 375.7745 524.8483 370.8982 523.4551 368.1118 Z" id="US.VA.101" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>King William County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>101</fips>
+        <incits>51101</incits>
+        <id>US.VA.101</id>
+        <population>16097</population>
+      </desc>
+    </path>
+    <path d="M 357.6627 471.9062 347.2136 471.9062 352.7864 463.5469 358.3593 466.3333 357.6627 471.9062 Z" id="US.VA.590" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Danville city</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>590</fips>
+        <incits>51590</incits>
+        <id>US.VA.590</id>
+        <population>42907</population>
+      </desc>
+    </path>
+    <path d="M 595.2056 471.2096 597.992 448.9182 600.7784 444.7385 608.4411 451.008 609.1377 450.3114 610.5309 450.3114 611.9242 448.2216 615.4072 447.525 616.8004 446.8283 618.8902 452.4012 623.7665 453.7944 630.0359 459.3673 625.8563 461.4571 625.8563 471.2096 595.2056 471.2096 Z" id="US.VA.550" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Chesapeake city</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>550</fips>
+        <incits>51550</incits>
+        <id>US.VA.550</id>
+        <population>230571</population>
+      </desc>
+    </path>
+    <path d="M 599.3852 425.9301 602.8683 424.5369 624.4631 423.8403 624.4631 430.1098 608.4411 436.3792 607.7445 439.8623 603.5649 437.7725 598.6886 430.1098 599.3852 425.9301 Z" id="US.VA.650" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Hampton city</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>650</fips>
+        <incits>51650</incits>
+        <id>US.VA.650</id>
+        <population>136699</population>
+      </desc>
+    </path>
+    <path d="M 584.7565 419.6607 586.8463 415.481 588.9361 414.7844 599.3852 425.9301 598.6886 430.1098 603.5649 437.7725 602.8683 439.1657 598.6886 438.4691 596.5988 435.6826 583.3633 425.9301 584.7565 419.6607 Z" id="US.VA.700" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Newport News city</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>700</fips>
+        <incits>51700</incits>
+        <id>US.VA.700</id>
+        <population>182020</population>
+      </desc>
+    </path>
+    <path d="M 608.4411 416.8743 624.4631 417.5709 624.4631 423.8403 602.8683 424.5369 601.475 420.3573 608.4411 416.8743 Z" id="US.VA.735" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>Poquoson city</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>735</fips>
+        <incits>51735</incits>
+        <id>US.VA.735</id>
+        <population>12104</population>
+      </desc>
+    </path>
+    <path d="M 579.8802 402.9421 581.2735 402.2455 593.1158 412.6946 596.5988 414.0878 608.4411 412.6946 608.4411 416.8743 601.475 420.3573 602.8683 424.5369 599.3852 425.9301 588.9361 414.7844 586.8463 415.481 579.1836 411.3014 575.004 407.8184 574.3074 402.2455 579.8802 402.9421 Z" id="US.VA.199" fill="#cee3f5" stroke="#6e6e6e" stroke-width="0.4">
+      <desc>
+        <name>York County</name>
+        <stateAbbrev>VA</stateAbbrev>
+        <state>Virginia</state>
+        <fips>199</fips>
+        <incits>51199</incits>
+        <id>US.VA.199</id>
+        <population>66269</population>
+      </desc>
+    </path>
+  </g>
+</svg>

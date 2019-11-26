@@ -6,25 +6,25 @@
         <item name="colorAccent">@color/colorAccentTheme1</item>
     </style>
 
-    <style name="Theme2">
+    <style name="Theme2" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="colorPrimary">@color/colorPrimaryTheme2</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDarkTheme2</item>
         <item name="colorAccent">@color/colorAccentTheme2</item>
     </style>
 
-    <style name="Theme3">
+    <style name="Theme3" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="colorPrimary">@color/colorPrimaryTheme3</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDarkTheme3</item>
         <item name="colorAccent">@color/colorAccentTheme3</item>
     </style>
 
-    <style name="Theme4">
+    <style name="Theme4" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="colorPrimary">@color/colorPrimaryTheme4</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDarkTheme4</item>
         <item name="colorAccent">@color/colorAccentTheme4</item>
     </style>
 
-    <style name="Theme5">
+    <style name="Theme5" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="colorPrimary">@color/colorPrimaryTheme5</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDarkTheme5</item>
         <item name="colorAccent">@color/colorAccentTheme5</item>

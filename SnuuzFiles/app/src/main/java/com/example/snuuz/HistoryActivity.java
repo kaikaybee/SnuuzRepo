@@ -8,14 +8,23 @@ import android.view.MenuItem;
 import androidx.appcompat.widget.Toolbar;
 import androidx.appcompat.app.AppCompatActivity;
 
+// Start of BS imports
 import com.anychart.AnyChart;
 import com.anychart.AnyChartView;
 import com.anychart.chart.common.dataentry.DataEntry;
 import com.anychart.chart.common.dataentry.ValueDataEntry;
-import com.anychart.charts.Pie;
 
 import java.util.ArrayList;
 import java.util.List;
+
+// Imports for AnyChart spline
+import com.anychart.charts.Cartesian;
+import com.anychart.core.cartesian.series.Line;
+import com.anychart.data.Mapping;
+import com.anychart.data.Set;
+import com.anychart.enums.Anchor;
+import com.anychart.enums.MarkerType;
+// End of BS imports
 
 
 public class HistoryActivity extends AppCompatActivity{
@@ -29,18 +38,39 @@ public class HistoryActivity extends AppCompatActivity{
         Toolbar mainToolbar = findViewById(R.id.main_toolbar);
         setSupportActionBar(mainToolbar);
 
-        // AnyChart Test Graph
-        Pie pie = AnyChart.pie();
+        // START OF BS TEST(AnyChart Test Graph)
+        Cartesian cartesian = AnyChart.line();
+        //cartesian.animation(true);
 
         List<DataEntry> data = new ArrayList<>();
         data.add(new ValueDataEntry("John", 10000));
         data.add(new ValueDataEntry("Jake", 12000));
         data.add(new ValueDataEntry("Peter", 18000));
 
-        pie.data(data);
+        Set set = Set.instantiate();
+        set.data(data);
+        Mapping series1Mapping = set.mapAs("{x: 'x', value: 'value'}");
+        Line series1 = cartesian.line(series1Mapping);
+        series1.name("Brandy");
+        series1.hovered().markers().enabled(true);
+        series1.hovered().markers()
+                .type(MarkerType.CIRCLE)
+                .size(4d);
+        series1.tooltip()
+                .position("right")
+                .anchor(Anchor.LEFT_CENTER)
+                .offsetX(5d)
+                .offsetY(5d);
+
+        cartesian.legend().enabled(true);
+        cartesian.legend().fontSize(13d);
+        cartesian.legend().padding(0d, 0d, 10d, 0d);
+
+
 
         AnyChartView anyChartView = findViewById(R.id.any_chart_view);
-        anyChartView.setChart(pie);
+        anyChartView.setChart(cartesian);
+        // END OF BS TEST
     }
 
     //Replaces overflow menu of Toolbar with custom buttons

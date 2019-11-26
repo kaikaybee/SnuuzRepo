@@ -1,5 +1,6 @@
 SnuuzFiles/*.iml
 SnuuzFiles/.gradle
+<<<<<<< HEAD
 SnuuzFiles/local.properties
 SnuuzFiles/.idea/workspace.xml
 SnuuzFiles/.idea/caches/*

@@ -1,10 +1,9 @@
 SnuuzFiles/*.iml
 SnuuzFiles/.gradle
-<<<<<<< HEAD
 SnuuzFiles/local.properties
 SnuuzFiles/.idea/workspace.xml
 SnuuzFiles/.idea/caches/*
-SnuuzFiles/AnyChart/.idea/workspace.xml
+SnuuzFiles/.idea/libraries/*
 SnuuzFiles/.idea/.name
 SnuuzFiles/.DS_Store
 SnuuzFiles/build

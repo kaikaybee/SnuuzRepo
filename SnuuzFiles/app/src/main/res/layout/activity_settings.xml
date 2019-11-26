@@ -9,7 +9,7 @@
         android:layout_width="match_parent"
         android:layout_height="?attr/actionBarSize"
         android:background="?attr/colorPrimary"
-        android:theme="@style/Theme1"
+        android:theme="@style/Theme3"
         app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
 
     <Switch

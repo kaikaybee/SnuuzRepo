@@ -14,6 +14,7 @@ public class AlarmService extends Service {
         //opens an alarm notification activity.
         Intent testIntent = new Intent(this, AlarmNotif.class);
         testIntent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+
         startActivity(testIntent);
         return Service.START_NOT_STICKY;
     }

@@ -26,21 +26,22 @@ import android.content.Intent;
 import android.app.AlarmManager;
 import android.app.PendingIntent;
 
+
 public class MainActivity extends AppCompatActivity {
 
             Button buttonStartSetDialog;
             Button buttonCancelAlarm;
+            Button popUpHistory;
             TextView textAlarmPrompt;
-
-        AlarmManager alarm;
-        PendingIntent alarmIntent;
+            AlarmManager alarm;
+            PendingIntent alarmIntent;
 
             TimePickerDialog timePickerDialog;
 
-            MyDB db;
-            String date;
-            String wake_up;
-            String sleep;
+            static MyDB db;
+            static String date;
+            static String wake_up;
+            static String sleep;
 
 
             @Override
@@ -58,7 +59,14 @@ public class MainActivity extends AppCompatActivity {
         setSupportActionBar(myToolbar);
 
         //Brian's code - please comment
-
+        popUpHistory = findViewById(R.id.popupBtn);
+        popUpHistory.setOnClickListener(new OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                //db.delete("12-01-2019");
+                db.getAll();
+            }
+        });
 
         //dialog for setting alarm
         textAlarmPrompt = findViewById(R.id.alarm_prompt);
@@ -75,8 +83,8 @@ public class MainActivity extends AppCompatActivity {
         buttonCancelAlarm.setOnClickListener(new OnClickListener() {
             @Override
             public void onClick(View arg0) {
-                //cancelAlarm();
                 alarm.cancel(alarmIntent);
+
             }
         });
     }
@@ -167,8 +175,11 @@ public class MainActivity extends AppCompatActivity {
 
         textAlarmPrompt.setText(targetCal.getTime().toString());
         Intent AlarmIntent = new Intent(MainActivity.this, AlarmReceiver.class);
+
+
         alarmIntent = PendingIntent.getBroadcast(MainActivity.this, 0, AlarmIntent, 0);
         alarm.setExact(AlarmManager.RTC_WAKEUP, targetCal.getTimeInMillis(), alarmIntent);
+
         try {
 
             FileOutputStream fileout = openFileOutput("SleepData.txt", MODE_APPEND);
@@ -194,7 +205,8 @@ public class MainActivity extends AppCompatActivity {
     private void setAlarm(Calendar targetCal, String wake_up) {
 
         db.insert(date, wake_up, sleep);
-
+        //db.delete("11-28-2019");
+        //db.getAll();
         textAlarmPrompt.setText(targetCal.getTime().toString());
         try {
 
@@ -215,6 +227,14 @@ public class MainActivity extends AppCompatActivity {
             e.printStackTrace();
         }
 
+    }
+
+    public static String getDate(){
+        return date;
+    }
+
+    public static String getSleep(){
+        return sleep;
     }
 
     //Inserts item into database

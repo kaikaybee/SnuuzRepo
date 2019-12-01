@@ -27,7 +27,7 @@
         android:id="@+id/popupBtn"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="popup"/>
+        android:text="Recent Sleep History"/>
     <TextView
         android:id="@+id/alarm_prompt"
         android:layout_width="fill_parent"

@@ -11,7 +11,7 @@
         android:id="@+id/editTime"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="Enter wake up time"/>
+        android:text="Enter wake up time in HH:mm format"/>
     <Button
         android:id="@+id/wake_up_timeDialog"
         android:layout_width="fill_parent"

@@ -1,5 +1,6 @@
 package com.example.snuuz;
 
+// Imports for Android
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.Menu;
@@ -8,24 +9,19 @@ import android.view.MenuItem;
 import androidx.appcompat.widget.Toolbar;
 import androidx.appcompat.app.AppCompatActivity;
 
-// Start of BS imports
+// Imports for AnyChart
 import com.anychart.AnyChart;
 import com.anychart.AnyChartView;
 import com.anychart.chart.common.dataentry.DataEntry;
 import com.anychart.chart.common.dataentry.ValueDataEntry;
-
-import java.util.ArrayList;
-import java.util.List;
-
-// Imports for AnyChart spline
 import com.anychart.charts.Cartesian;
+import com.anychart.core.cartesian.series.Column;
 import com.anychart.core.cartesian.series.Line;
 import com.anychart.data.Mapping;
 import com.anychart.data.Set;
-import com.anychart.enums.Anchor;
-import com.anychart.enums.MarkerType;
-// End of BS imports
 
+import java.util.ArrayList;
+import java.util.List;
 
 public class HistoryActivity extends AppCompatActivity{
 
@@ -34,43 +30,49 @@ public class HistoryActivity extends AppCompatActivity{
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_history);
 
-        //Sets custom Toolbar to replace built-in actionBar
+        // Sets custom Toolbar to replace built-in actionBar
         Toolbar mainToolbar = findViewById(R.id.main_toolbar);
         setSupportActionBar(mainToolbar);
 
-        // START OF BS TEST(AnyChart Test Graph)
+        // Declare line chart and properties
         Cartesian cartesian = AnyChart.line();
-        //cartesian.animation(true);
+        cartesian.animation(true);
+        cartesian.title("Sleep Data");
 
-        List<DataEntry> data = new ArrayList<>();
-        data.add(new ValueDataEntry("John", 10000));
-        data.add(new ValueDataEntry("Jake", 12000));
-        data.add(new ValueDataEntry("Peter", 18000));
+        // Data entry
+        List<DataEntry> seriesData = new ArrayList<>();
+        seriesData.add(new CustomDataEntry("One", 1, 5));
+        seriesData.add(new CustomDataEntry("Two", 2, 4));
+        seriesData.add(new CustomDataEntry("Three", 3, 3));
+        seriesData.add(new CustomDataEntry("Four", 4, 2));
+        seriesData.add(new CustomDataEntry("Five", 5, 1));
 
+        // Format data
         Set set = Set.instantiate();
-        set.data(data);
-        Mapping series1Mapping = set.mapAs("{x: 'x', value: 'value'}");
-        Line series1 = cartesian.line(series1Mapping);
-        series1.name("Brandy");
-        series1.hovered().markers().enabled(true);
-        series1.hovered().markers()
-                .type(MarkerType.CIRCLE)
-                .size(4d);
-        series1.tooltip()
-                .position("right")
-                .anchor(Anchor.LEFT_CENTER)
-                .offsetX(5d)
-                .offsetY(5d);
+        set.data(seriesData);
+        Mapping lineData = set.mapAs("{x: 'x', value: 'value'}");
+        Mapping columnData = set.mapAs("{x: 'x', value: 'value2'}");
+
+        Column col = cartesian.column(columnData);
+        col.name("Hours slept");
+
+        Line line = cartesian.line(lineData);
+        line.name("Time waken up");
 
         cartesian.legend().enabled(true);
         cartesian.legend().fontSize(13d);
         cartesian.legend().padding(0d, 0d, 10d, 0d);
 
-
-
         AnyChartView anyChartView = findViewById(R.id.any_chart_view);
         anyChartView.setChart(cartesian);
-        // END OF BS TEST
+    }
+
+    // Helper class for AnyChart
+    private class CustomDataEntry extends ValueDataEntry {
+        CustomDataEntry(String x, Number value, Number value2) {
+            super(x, value);
+            setValue("value2", value2);
+        }
     }
 
     //Replaces overflow menu of Toolbar with custom buttons

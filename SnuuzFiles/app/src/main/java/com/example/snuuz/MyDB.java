@@ -129,4 +129,21 @@ public class MyDB extends SQLiteOpenHelper{
         int mins = minsSlept(wake, sleep);
         return hours+":"+mins;
     }
+
+    public String getAvgSleepTime(){
+        db = getReadableDatabase();
+        Cursor cr = db.rawQuery("select * from " + TABLE_NAME + ";", null );
+        int totalHours = 0;
+        int totalMins = 0;
+        int count = 0;
+        while(cr.moveToNext()){
+            totalHours += hoursSlept(cr.getString(3), cr.getString(2));
+            totalMins += minsSlept(cr.getString(3), cr.getString(2));
+            count++;
+        }
+        double avgHours = (double)totalHours/count;
+        double avgMins = (double)totalMins/count;
+
+        return avgHours+":"+avgMins;
+    }
 }

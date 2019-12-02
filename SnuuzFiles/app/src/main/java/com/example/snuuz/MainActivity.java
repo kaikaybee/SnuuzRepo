@@ -42,6 +42,10 @@ import android.content.Intent;
 import android.app.AlarmManager;
 import android.app.PendingIntent;
 
+import android.view.LayoutInflater;
+
+import org.apache.http.params.CoreConnectionPNames;
+
 
 public class MainActivity extends AppCompatActivity {
 
@@ -49,6 +53,7 @@ public class MainActivity extends AppCompatActivity {
             Button buttonCancelAlarm;
             Button popUpHistory;
             TextView textAlarmPrompt;
+            TextView message;
             AlarmManager alarm;
             PendingIntent alarmIntent;
 
@@ -59,6 +64,8 @@ public class MainActivity extends AppCompatActivity {
             static String wake_up;
             static String sleep;
 
+    String wakey = "08:00";
+    String sleepy = "22:00";
 
             @Override
             public void onCreate(Bundle savedInstanceState) {
@@ -84,12 +91,29 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+
         //dialog for setting alarm
         textAlarmPrompt = findViewById(R.id.alarm_prompt);
                 Cursor cr = db.view();
-                cr.moveToLast();
-                String s = cr.getString(2);
-                textAlarmPrompt.setText(s);
+                if(cr.getCount() != 0) {
+                    cr.moveToLast();
+                    String s = cr.getString(2);
+                    textAlarmPrompt.setText(s);
+
+                    //Dynamically set imperative message
+                    int hoursSlept = db.getLastSleepHours();
+                    //Toast.makeText(getBaseContext(), "Sleep time: "+hoursSlept,
+                    //Toast.LENGTH_SHORT).show();
+                    message = findViewById(R.id.imperative);
+                    String messageString = "You slept for " + db.getLastSleepTime()+"\n";
+                    if(hoursSlept < 8)
+                        messageString += getString(R.string.sleep_more);
+                    else if(hoursSlept > 10)
+                        messageString += getString(R.string.sleep_less);
+                    else
+                        messageString += getString(R.string.hello);
+                    message.setText(messageString);
+                }
         buttonStartSetDialog = findViewById(R.id.startSetDialog);
         buttonStartSetDialog.setOnClickListener(new OnClickListener() {
 
@@ -106,11 +130,11 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View arg0) {
                 alarm.cancel(alarmIntent);
-
             }
         });
-    }
 
+
+    }
 
     //Replaces overflow menu of Toolbar with custom buttons
     @Override
@@ -138,10 +162,6 @@ public class MainActivity extends AppCompatActivity {
                 return super.onOptionsItemSelected(item);
         }
     }
-
-    //Brian's code - please comment
-    //Uses default time picker dialog to let user set alarm.
-    //Uses Calender to get current time and to set a new calender instance.
 
     private void openTimePickerDialog(boolean is24r){
         Calendar calendar = Calendar.getInstance();
@@ -215,7 +235,7 @@ public class MainActivity extends AppCompatActivity {
             outputWriter.close();
 
             //display file saved message for testing
-            Toast.makeText(getBaseContext(), "Sleep time saved successfully!",
+            Toast.makeText(getBaseContext(), "Sleep time saved successfully!"+""+db.getLastSleepTime(),
                     Toast.LENGTH_SHORT).show();
 
         } catch (Exception e) {

@@ -1,5 +1,8 @@
 package com.example.snuuz;
 import android.util.Log;
+import android.view.Menu;
+import android.view.MenuInflater;
+import android.view.MenuItem;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.os.Bundle;
@@ -7,6 +10,8 @@ import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.EditText;
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.appcompat.widget.Toolbar;
+
 import java.net.URISyntaxException;
 import java.io.*;
 
@@ -44,6 +49,10 @@ public class AlarmNotif extends AppCompatActivity {
         //new activity opened at the time the alarm was set. Bypasses screen locks.
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_alarm_notif);
+        //Sets custom Toolbar to replace built-in actionBar
+        Toolbar myToolbar = findViewById(R.id.main_toolbar);
+        setSupportActionBar(myToolbar);
+
         getWindow().addFlags(WindowManager.LayoutParams.FLAG_DISMISS_KEYGUARD
                 | WindowManager.LayoutParams.FLAG_SHOW_WHEN_LOCKED
                 | WindowManager.LayoutParams.FLAG_TURN_SCREEN_ON);
@@ -94,5 +103,32 @@ public class AlarmNotif extends AppCompatActivity {
             }
         });
 
+    }
+
+    //Replaces overflow menu of Toolbar with custom buttons
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        MenuInflater inflater = getMenuInflater();
+        inflater.inflate(R.menu.main_bar, menu);
+        return true;
+    }
+
+    //Upon a Toolbar button press, loads whichever activity it should
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        switch (item.getItemId()) {
+            case R.id.action_settings: {
+                Intent settingsIntent = new Intent(AlarmNotif.this, SettingsActivity.class);
+                startActivity(settingsIntent);
+                return true;
+            }
+            case R.id.action_clock: {
+                Intent mainIntent = new Intent(AlarmNotif.this, MainActivity.class);
+                startActivity(mainIntent);
+                return true;
+            }
+            default:
+                return super.onOptionsItemSelected(item);
+        }
     }
 }

@@ -81,7 +81,7 @@ public class MyDB extends SQLiteOpenHelper{
         db = getReadableDatabase();
         Cursor cr = db.rawQuery("select * from " + TABLE_NAME + ";", null );
         cr.moveToLast();
-        return timeSlept(cr.getString(3), cr.getString(2));
+        return timeSlept(cr.getString(2), cr.getString(3));
     }
 
     static int hoursSlept(String wake, String Sleep){
@@ -125,9 +125,16 @@ public class MyDB extends SQLiteOpenHelper{
     }
 
     static String timeSlept(String wake, String sleep){
+        String returnString = "";
         int hours = hoursSlept(wake, sleep);
         int mins = minsSlept(wake, sleep);
-        return hours+":"+mins;
+        if(hours%10 == hours)
+            returnString += "0";
+        returnString += hours+":";
+        if(mins%10 == mins)
+            returnString += "0";
+        returnString += mins;
+        return returnString;
     }
 
     public String getAvgSleepTime(){

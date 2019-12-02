@@ -6,13 +6,21 @@
     <uses-permission android:name="android.permission.WAKE_LOCK" />
 
     <application
+<<<<<<< .merge_file_EtRCUi
         android:allowBackup="false"
+=======
+        android:allowBackup="true"
+>>>>>>> .merge_file_UVCXhQ
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
+<<<<<<< .merge_file_EtRCUi
         android:theme="@style/Theme1"
         tools:ignore="GoogleAppIndexingWarning">
+=======
+        android:theme="@style/AppTheme">
+>>>>>>> .merge_file_UVCXhQ
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

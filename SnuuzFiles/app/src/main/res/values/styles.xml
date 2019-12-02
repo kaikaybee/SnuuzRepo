@@ -1,5 +1,6 @@
 <resources>
 
+<<<<<<< .merge_file_ZVQRG3
     <style name="Theme1" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="colorPrimary">@color/colorPrimaryTheme1</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDarkTheme1</item>
@@ -28,6 +29,14 @@
         <item name="colorPrimary">@color/colorPrimaryTheme5</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDarkTheme5</item>
         <item name="colorAccent">@color/colorAccentTheme5</item>
+=======
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+>>>>>>> .merge_file_v9NCSl
     </style>
 
 </resources>

@@ -1,1 +1,6 @@
+<<<<<<< .merge_file_rB0av0
 include ':app'
+=======
+include ':app'
+rootProject.name='Snuuz'
+>>>>>>> .merge_file_cBgZFZ

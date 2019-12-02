@@ -1,6 +1,7 @@
 package com.example.snuuz;
 
 import androidx.appcompat.app.AppCompatActivity;
+<<<<<<< .merge_file_lKBRKc
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.MenuInflater;
@@ -14,12 +15,26 @@ import java.util.Date;
 
 import android.app.TimePickerDialog;
 import android.app.TimePickerDialog.OnTimeSetListener;
+=======
+
+import android.os.Bundle;
+import java.util.Calendar;
+
+import android.app.AlarmManager;
+import android.app.PendingIntent;
+import android.app.TimePickerDialog;
+import android.app.TimePickerDialog.OnTimeSetListener;
+import android.content.Context;
+import android.content.Intent;
+import android.os.Bundle;
+>>>>>>> .merge_file_jX7JLV
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.TextView;
 import android.widget.TimePicker;
 
+<<<<<<< .merge_file_lKBRKc
 import android.widget.Toast;
 
 import android.content.Intent;
@@ -72,11 +87,33 @@ public class MainActivity extends AppCompatActivity {
         textAlarmPrompt = findViewById(R.id.alarm_prompt);
         buttonStartSetDialog = findViewById(R.id.startSetDialog);
         buttonStartSetDialog.setOnClickListener(new OnClickListener() {
+=======
+public class MainActivity extends AppCompatActivity {
+
+    TimePicker myTimePicker;
+    Button buttonstartSetDialog;
+    Button buttonCancelAlarm;
+    TextView textAlarmPrompt;
+
+    TimePickerDialog timePickerDialog;
+
+
+    @Override
+    public void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+        textAlarmPrompt = (TextView)findViewById(R.id.alarmprompt);
+
+        buttonstartSetDialog = (Button)findViewById(R.id.startSetDialog);
+        buttonstartSetDialog.setOnClickListener(new OnClickListener(){
+
+>>>>>>> .merge_file_jX7JLV
             @Override
             public void onClick(View v) {
                 textAlarmPrompt.setText("");
                 openTimePickerDialog(false);
 
+<<<<<<< .merge_file_lKBRKc
             }
         });
         buttonCancelAlarm = findViewById(R.id.cancel);
@@ -120,6 +157,22 @@ public class MainActivity extends AppCompatActivity {
     //Brian's code - please comment
     //Uses default time picker dialog to let user set alarm.
     //Uses Calender to get current time and to set a new calender instance.
+=======
+            }});
+
+        buttonCancelAlarm = (Button)findViewById(R.id.cancel);
+        buttonCancelAlarm.setOnClickListener(new OnClickListener(){
+
+            @Override
+            public void onClick(View arg0) {
+                //cancelAlarm();
+            }});
+
+
+
+
+}
+>>>>>>> .merge_file_jX7JLV
     private void openTimePickerDialog(boolean is24r){
         Calendar calendar = Calendar.getInstance();
 
@@ -133,11 +186,16 @@ public class MainActivity extends AppCompatActivity {
 
         timePickerDialog.show();
 
+<<<<<<< .merge_file_lKBRKc
 
     }
 
     //Brian's code - please comment
     //Takes inputted User alarm time and sets alarm
+=======
+    }
+
+>>>>>>> .merge_file_jX7JLV
     OnTimeSetListener onTimeSetListener
             = new OnTimeSetListener(){
 
@@ -152,6 +210,7 @@ public class MainActivity extends AppCompatActivity {
             calSet.set(Calendar.SECOND, 0);
             calSet.set(Calendar.MILLISECOND, 0);
 
+<<<<<<< .merge_file_lKBRKc
 //            if(calSet.compareTo(calNow) <= 0){
 //                //Today Set time passed, count to tomorrow
 //                calSet.add(Calendar.DATE, 1);
@@ -263,4 +322,14 @@ public class MainActivity extends AppCompatActivity {
         String s3 = sleep;
         db.update(s1, s2, s3);
     }
+=======
+            if(calSet.compareTo(calNow) <= 0){
+                //Today Set time passed, count to tomorrow
+                calSet.add(Calendar.DATE, 1);
+            }
+
+            //setAlarm(calSet);
+        }};
+
+>>>>>>> .merge_file_jX7JLV
 }

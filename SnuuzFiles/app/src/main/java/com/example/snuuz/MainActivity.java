@@ -113,14 +113,19 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        int hoursSlept = db.getLastSleepTime();
+        //Dynamically set imperative message
+        int hoursSlept = db.getLastSleepHours();
+        //Toast.makeText(getBaseContext(), "Sleep time: "+hoursSlept,
+                //Toast.LENGTH_SHORT).show();
         message = findViewById(R.id.imperative);
-        if(hoursSlept == 8)
-            message.setText(R.string.hello);
-        else if(hoursSlept < 8)
-            message.setText(R.string.sleep_more);
+        String messageString = "You slept for " + db.getLastSleepTime()+"\n";
+        if(hoursSlept < 8)
+            messageString += getString(R.string.sleep_more);
         else if(hoursSlept > 10)
-            message.setText(R.string.sleep_less);
+            messageString += getString(R.string.sleep_less);
+        else
+            messageString += getString(R.string.hello);
+        message.setText(messageString);
     }
 
 
@@ -149,36 +154,6 @@ public class MainActivity extends AppCompatActivity {
             default:
                 return super.onOptionsItemSelected(item);
         }
-    }
-
-    //Brian's code - please comment
-    //Uses default time picker dialog to let user set alarm.
-    //Uses Calender to get current time and to set a new calender instance.
-    static int TimeParser(String wake, String Sleep){
-
-
-                String wakeHourtemp = wake.substring(0, 2);
-                int wakeHourtemp2= Integer.parseInt(wakeHourtemp);
-
-                String SleepHourtemp = Sleep.substring(0, 2);
-                int SleepHourtemp2 = Integer.parseInt(SleepHourtemp);
-
-                String wakeMintemp = wake.substring(3, 5);
-                int wakeMintemp2 = Integer.parseInt(wakeMintemp);
-
-                String SleepMintemp = Sleep.substring(3, 5);
-                int SleepMintemp2 = Integer.parseInt(SleepMintemp);
-
-                int minDiff = wakeMintemp2 - SleepMintemp2;
-                if(minDiff < 0){
-                    wakeHourtemp2 -=1;
-                }
-                int hourDiff = wakeHourtemp2 - SleepHourtemp2;
-                if(hourDiff < 0){
-                    hourDiff += 24;
-                }
-
-                return hourDiff;
     }
 
     private void openTimePickerDialog(boolean is24r){

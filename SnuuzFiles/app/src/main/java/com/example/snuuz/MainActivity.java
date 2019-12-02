@@ -57,6 +57,8 @@ public class MainActivity extends AppCompatActivity {
             static String date;
             static String wake_up;
             static String sleep;
+    String wakey = "08:00";
+    String sleepy = "22:00";
 
 
             @Override
@@ -137,6 +139,32 @@ public class MainActivity extends AppCompatActivity {
     //Brian's code - please comment
     //Uses default time picker dialog to let user set alarm.
     //Uses Calender to get current time and to set a new calender instance.
+    static int TimeParser(String wake, String Sleep){
+
+
+                String wakeHourtemp = wake.substring(0, 2);
+                int wakeHourtemp2= Integer.parseInt(wakeHourtemp);
+
+                String SleepHourtemp = Sleep.substring(0, 2);
+                int SleepHourtemp2 = Integer.parseInt(SleepHourtemp);
+
+                String wakeMintemp = wake.substring(3, 5);
+                int wakeMintemp2 = Integer.parseInt(wakeMintemp);
+
+                String SleepMintemp = Sleep.substring(3, 5);
+                int SleepMintemp2 = Integer.parseInt(SleepMintemp);
+
+                int minDiff = wakeMintemp2 - SleepMintemp2;
+                if(minDiff < 0){
+                    wakeHourtemp2 -=1;
+                }
+                int hourDiff = wakeHourtemp2 - SleepHourtemp2;
+                if(hourDiff < 0){
+                    hourDiff += 24;
+                }
+
+                return hourDiff;
+    }
 
     private void openTimePickerDialog(boolean is24r){
         Calendar calendar = Calendar.getInstance();
@@ -212,7 +240,7 @@ public class MainActivity extends AppCompatActivity {
             outputWriter.close();
 
             //display file saved message for testing
-            Toast.makeText(getBaseContext(), "Sleep time saved successfully!",
+            Toast.makeText(getBaseContext(), "Sleep time saved successfully!"+""+db.getLastSleepTime(),
                     Toast.LENGTH_SHORT).show();
 
         } catch (Exception e) {

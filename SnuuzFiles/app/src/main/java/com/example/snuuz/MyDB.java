@@ -68,4 +68,39 @@ public class MyDB extends SQLiteOpenHelper{
         cv.put("time_asleep", s3);
         db.update(TABLE_NAME, cv,  "date = ?", new String[]{s1});
     }
+
+    public int getLastSleepTime(){
+        db = getReadableDatabase();
+        Cursor cr = db.rawQuery("select * from " + TABLE_NAME + ";", null );
+        cr.moveToLast();
+       return TimeParser(cr.getString(3), cr.getString(2));
+
+    }
+
+    static int TimeParser(String wake, String Sleep){
+
+
+        String wakeHourtemp = wake.substring(0, 2);
+        int wakeHourtemp2= Integer.parseInt(wakeHourtemp);
+
+        String SleepHourtemp = Sleep.substring(0, 2);
+        int SleepHourtemp2 = Integer.parseInt(SleepHourtemp);
+
+        String wakeMintemp = wake.substring(3, 5);
+        int wakeMintemp2 = Integer.parseInt(wakeMintemp);
+
+        String SleepMintemp = Sleep.substring(3, 5);
+        int SleepMintemp2 = Integer.parseInt(SleepMintemp);
+
+        int minDiff = wakeMintemp2 - SleepMintemp2;
+        if(minDiff < 0){
+            wakeHourtemp2 -=1;
+        }
+        int hourDiff = wakeHourtemp2 - SleepHourtemp2;
+        if(hourDiff < 0){
+            hourDiff += 24;
+        }
+
+        return hourDiff;
+    }
 }

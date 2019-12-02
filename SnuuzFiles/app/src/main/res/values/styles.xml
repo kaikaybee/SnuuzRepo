@@ -1,5 +1,6 @@
 <resources>
 
+
     <style name="Theme1" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="colorPrimary">@color/colorPrimaryTheme1</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDarkTheme1</item>
@@ -28,6 +29,7 @@
         <item name="colorPrimary">@color/colorPrimaryTheme5</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDarkTheme5</item>
         <item name="colorAccent">@color/colorAccentTheme5</item>
+
     </style>
 
 </resources>

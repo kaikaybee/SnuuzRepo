@@ -1,6 +1,7 @@
 package com.example.snuuz;
 
 import androidx.appcompat.app.AppCompatActivity;
+
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.MenuInflater;
@@ -14,11 +15,25 @@ import java.util.Date;
 
 import android.app.TimePickerDialog;
 import android.app.TimePickerDialog.OnTimeSetListener;
+
+
+import android.os.Bundle;
+import java.util.Calendar;
+
+import android.app.AlarmManager;
+import android.app.PendingIntent;
+import android.app.TimePickerDialog;
+import android.app.TimePickerDialog.OnTimeSetListener;
+import android.content.Context;
+import android.content.Intent;
+import android.os.Bundle;
+
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.TextView;
 import android.widget.TimePicker;
+
 
 import android.widget.Toast;
 
@@ -26,21 +41,22 @@ import android.content.Intent;
 import android.app.AlarmManager;
 import android.app.PendingIntent;
 
+
 public class MainActivity extends AppCompatActivity {
 
             Button buttonStartSetDialog;
             Button buttonCancelAlarm;
+            Button popUpHistory;
             TextView textAlarmPrompt;
-
-        AlarmManager alarm;
-        PendingIntent alarmIntent;
+            AlarmManager alarm;
+            PendingIntent alarmIntent;
 
             TimePickerDialog timePickerDialog;
 
-            MyDB db;
-            String date;
-            String wake_up;
-            String sleep;
+            static MyDB db;
+            static String date;
+            static String wake_up;
+            static String sleep;
 
 
             @Override
@@ -58,16 +74,25 @@ public class MainActivity extends AppCompatActivity {
         setSupportActionBar(myToolbar);
 
         //Brian's code - please comment
-
+        popUpHistory = findViewById(R.id.popupBtn);
+        popUpHistory.setOnClickListener(new OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                //db.delete("12-01-2019");
+                db.getAll();
+            }
+        });
 
         //dialog for setting alarm
         textAlarmPrompt = findViewById(R.id.alarm_prompt);
         buttonStartSetDialog = findViewById(R.id.startSetDialog);
         buttonStartSetDialog.setOnClickListener(new OnClickListener() {
+
             @Override
             public void onClick(View v) {
                 textAlarmPrompt.setText("");
                 openTimePickerDialog(false);
+
 
             }
         });
@@ -75,8 +100,8 @@ public class MainActivity extends AppCompatActivity {
         buttonCancelAlarm.setOnClickListener(new OnClickListener() {
             @Override
             public void onClick(View arg0) {
-                //cancelAlarm();
                 alarm.cancel(alarmIntent);
+
             }
         });
     }
@@ -112,6 +137,7 @@ public class MainActivity extends AppCompatActivity {
     //Brian's code - please comment
     //Uses default time picker dialog to let user set alarm.
     //Uses Calender to get current time and to set a new calender instance.
+
     private void openTimePickerDialog(boolean is24r){
         Calendar calendar = Calendar.getInstance();
 
@@ -126,10 +152,12 @@ public class MainActivity extends AppCompatActivity {
         timePickerDialog.show();
 
 
+
     }
 
     //Brian's code - please comment
     //Takes inputted User alarm time and sets alarm
+
     OnTimeSetListener onTimeSetListener
             = new OnTimeSetListener(){
 
@@ -143,6 +171,7 @@ public class MainActivity extends AppCompatActivity {
             calSet.set(Calendar.MINUTE, minute);
             calSet.set(Calendar.SECOND, 0);
             calSet.set(Calendar.MILLISECOND, 0);
+
 
 //            if(calSet.compareTo(calNow) <= 0){
 //                //Today Set time passed, count to tomorrow
@@ -167,8 +196,11 @@ public class MainActivity extends AppCompatActivity {
 
         textAlarmPrompt.setText(targetCal.getTime().toString());
         Intent AlarmIntent = new Intent(MainActivity.this, AlarmReceiver.class);
+
+
         alarmIntent = PendingIntent.getBroadcast(MainActivity.this, 0, AlarmIntent, 0);
         alarm.setExact(AlarmManager.RTC_WAKEUP, targetCal.getTimeInMillis(), alarmIntent);
+
         try {
 
             FileOutputStream fileout = openFileOutput("SleepData.txt", MODE_APPEND);
@@ -194,7 +226,8 @@ public class MainActivity extends AppCompatActivity {
     private void setAlarm(Calendar targetCal, String wake_up) {
 
         db.insert(date, wake_up, sleep);
-
+        //db.delete("11-28-2019");
+        //db.getAll();
         textAlarmPrompt.setText(targetCal.getTime().toString());
         try {
 
@@ -208,13 +241,21 @@ public class MainActivity extends AppCompatActivity {
             outputWriter.close();
 
             //display file saved message
-            Toast.makeText(getBaseContext(), "File saved successfully!",
-                    Toast.LENGTH_SHORT).show();
+            //Toast.makeText(getBaseContext(), "File saved successfully!",
+                    //Toast.LENGTH_SHORT).show();
 
         } catch (Exception e) {
             e.printStackTrace();
         }
 
+    }
+
+    public static String getDate(){
+        return date;
+    }
+
+    public static String getSleep(){
+        return sleep;
     }
 
     //Inserts item into database
@@ -243,4 +284,5 @@ public class MainActivity extends AppCompatActivity {
         String s3 = sleep;
         db.update(s1, s2, s3);
     }
+
 }

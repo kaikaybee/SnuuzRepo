@@ -1,6 +1,7 @@
 SnuuzFiles/*.iml
 SnuuzFiles/.gradle
 SnuuzFiles/local.properties
+<<<<<<< .merge_file_UfIihh
 SnuuzFiles/.idea/workspace.xml
 SnuuzFiles/.idea/caches/*
 SnuuzFiles/.idea/libraries/*
@@ -8,5 +9,16 @@ SnuuzFiles/.idea/.name
 SnuuzFiles/.DS_Store
 SnuuzFiles/build
 SnuuzFiles/captures
+=======
+SnuuzFiles/.idea/caches
+SnuuzFiles/.idea/libraries
+SnuuzFiles/.idea/modules.xml
+SnuuzFiles/.idea/workspace.xml
+SnuuzFiles/.idea/navEditor.xml
+SnuuzFiles/.idea/assetWizardSettings.xml
+SnuuzFiles/.DS_Store
+SnuuzFiles//build
+SnuuzFiles//captures
+>>>>>>> .merge_file_IFNSRH
 SnuuzFiles/.externalNativeBuild
 SnuuzFiles/.cxx

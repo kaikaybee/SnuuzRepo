@@ -10,11 +10,16 @@ import android.content.Intent;
 
 
 public class AlarmReceiver extends BroadcastReceiver {
-
+    String date;
+    String wake_up;
+    String Sleep;
     @Override
     public void onReceive(final Context context, Intent intent) {
+
         //receives the alarm data and starts a service at the given time.
         Intent AlarmNotif = new Intent(context, AlarmService.class);
+        date = intent.getStringExtra("date");
+        AlarmNotif.putExtra("date", date);
         context.startService(AlarmNotif);
 
 

@@ -137,6 +137,14 @@ public class MyDB extends SQLiteOpenHelper{
         return returnString;
     }
 
+    public String getAvgBedTime(){
+        return "";
+    }
+
+    public String getAvgWakeUpTime(){
+        return "";
+    }
+
     public String getAvgSleepTime(){
         db = getReadableDatabase();
         Cursor cr = db.rawQuery("select * from " + TABLE_NAME + ";", null );
@@ -152,5 +160,21 @@ public class MyDB extends SQLiteOpenHelper{
         double avgMins = (double)totalMins/count;
 
         return avgHours+":"+avgMins;
+    }
+
+    public double getAvgSleepCycles(){
+      return 0.0;
+    }
+
+    public String getAvgRem(){
+        return "";
+    }
+
+    public String getAvgDeepSleep(){
+        return "";
+    }
+
+    public double getStdDev(){
+        return 0.0;
     }
 }

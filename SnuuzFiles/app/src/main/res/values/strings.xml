@@ -10,4 +10,7 @@
     <string name="light_switch">Light Switch</string>
     <string name="color_theme">Color Theme</string>
     <string name="settings_switch_2">Switch 2</string>
+    <string name="hello">Hello</string>
+    <string name="sleep_more">You should try to get more Sleep</string>
+    <string name="sleep_less">You sleep too much</string>
 </resources>

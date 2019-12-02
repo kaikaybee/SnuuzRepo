@@ -39,6 +39,10 @@
         android:id="@+id/text1"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/imperative"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
 
 </LinearLayout>
 

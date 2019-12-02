@@ -41,6 +41,10 @@ import android.content.Intent;
 import android.app.AlarmManager;
 import android.app.PendingIntent;
 
+import android.view.LayoutInflater;
+
+import org.apache.http.params.CoreConnectionPNames;
+
 
 public class MainActivity extends AppCompatActivity {
 
@@ -48,6 +52,7 @@ public class MainActivity extends AppCompatActivity {
             Button buttonCancelAlarm;
             Button popUpHistory;
             TextView textAlarmPrompt;
+            TextView message;
             AlarmManager alarm;
             PendingIntent alarmIntent;
 
@@ -57,8 +62,6 @@ public class MainActivity extends AppCompatActivity {
             static String date;
             static String wake_up;
             static String sleep;
-
-
             @Override
             public void onCreate(Bundle savedInstanceState) {
                 super.onCreate(savedInstanceState);
@@ -83,6 +86,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+
         //dialog for setting alarm
         textAlarmPrompt = findViewById(R.id.alarm_prompt);
         buttonStartSetDialog = findViewById(R.id.startSetDialog);
@@ -104,6 +108,15 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
+
+        int hoursSlept = db.getLastSleepTime();
+        message = findViewById(R.id.imperative);
+        if(hoursSlept == 8)
+            message.setText(R.string.hello);
+        else if(hoursSlept < 8)
+            message.setText(R.string.sleep_more);
+        else if(hoursSlept > 10)
+            message.setText(R.string.sleep_less);
     }
 
 

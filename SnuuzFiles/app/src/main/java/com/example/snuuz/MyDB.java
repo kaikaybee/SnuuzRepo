@@ -68,4 +68,5 @@ public class MyDB extends SQLiteOpenHelper{
         cv.put("time_asleep", s3);
         db.update(TABLE_NAME, cv,  "date = ?", new String[]{s1});
     }
+
 }

@@ -2,6 +2,7 @@ package com.example.snuuz;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.database.Cursor;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.MenuInflater;
@@ -93,6 +94,26 @@ public class MainActivity extends AppCompatActivity {
 
         //dialog for setting alarm
         textAlarmPrompt = findViewById(R.id.alarm_prompt);
+                Cursor cr = db.view();
+                if(cr.getCount() != 0) {
+                    cr.moveToLast();
+                    String s = cr.getString(2);
+                    textAlarmPrompt.setText(s);
+
+                    //Dynamically set imperative message
+                    int hoursSlept = db.getLastSleepHours();
+                    //Toast.makeText(getBaseContext(), "Sleep time: "+hoursSlept,
+                    //Toast.LENGTH_SHORT).show();
+                    message = findViewById(R.id.imperative);
+                    String messageString = "You slept for " + db.getLastSleepTime()+"\n";
+                    if(hoursSlept < 8)
+                        messageString += getString(R.string.sleep_more);
+                    else if(hoursSlept > 10)
+                        messageString += getString(R.string.sleep_less);
+                    else
+                        messageString += getString(R.string.hello);
+                    message.setText(messageString);
+                }
         buttonStartSetDialog = findViewById(R.id.startSetDialog);
         buttonStartSetDialog.setOnClickListener(new OnClickListener() {
 
@@ -109,25 +130,11 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View arg0) {
                 alarm.cancel(alarmIntent);
-
             }
         });
 
-        //Dynamically set imperative message
-        int hoursSlept = db.getLastSleepHours();
-        //Toast.makeText(getBaseContext(), "Sleep time: "+hoursSlept,
-                //Toast.LENGTH_SHORT).show();
-        message = findViewById(R.id.imperative);
-        String messageString = "You slept for " + db.getLastSleepTime()+"\n";
-        if(hoursSlept < 8)
-            messageString += getString(R.string.sleep_more);
-        else if(hoursSlept > 10)
-            messageString += getString(R.string.sleep_less);
-        else
-            messageString += getString(R.string.hello);
-        message.setText(messageString);
-    }
 
+    }
 
     //Replaces overflow menu of Toolbar with custom buttons
     @Override
@@ -191,10 +198,10 @@ public class MainActivity extends AppCompatActivity {
             calSet.set(Calendar.MILLISECOND, 0);
 
 
-//            if(calSet.compareTo(calNow) <= 0){
-//                //Today Set time passed, count to tomorrow
-//                calSet.add(Calendar.DATE, 1);
-//            }
+            if(calSet.compareTo(calNow) <= 0){
+                //Today Set time passed, count to tomorrow
+                calSet.add(Calendar.DATE, 1);
+            }
 
             //Sets variables from time picker
             SimpleDateFormat time_format = new SimpleDateFormat("HH:mm");
@@ -212,9 +219,7 @@ public class MainActivity extends AppCompatActivity {
     //sets alarm by sending alarm data to a receiver with a pending intent.
     //records time when the alarm was set by the user(not the time the alarm will go off)
 
-        textAlarmPrompt.setText(targetCal.getTime().toString());
         Intent AlarmIntent = new Intent(MainActivity.this, AlarmReceiver.class);
-
 
         alarmIntent = PendingIntent.getBroadcast(MainActivity.this, 0, AlarmIntent, 0);
         alarm.setExact(AlarmManager.RTC_WAKEUP, targetCal.getTimeInMillis(), alarmIntent);
@@ -244,9 +249,14 @@ public class MainActivity extends AppCompatActivity {
     private void setAlarm(Calendar targetCal, String wake_up) {
 
         db.insert(date, wake_up, sleep);
+
         //db.delete("11-28-2019");
         //db.getAll();
-        textAlarmPrompt.setText(targetCal.getTime().toString());
+//        textAlarmPrompt.setText(targetCal.getTime().toString());
+        Cursor cr = db.view();
+        cr.moveToLast();
+//        String s = cr.getString(4);
+        textAlarmPrompt.setText(wake_up);
         try {
 
 
@@ -274,33 +284,6 @@ public class MainActivity extends AppCompatActivity {
 
     public static String getSleep(){
         return sleep;
-    }
-
-    //Inserts item into database
-    public void insert(View view) {
-        String s1 = date;
-        String s2 = wake_up;
-        String s3 = sleep;
-        db.insert(s1, s2, s3);
-    }
-
-    //Deletes item from database
-    public void delete(View view) {
-        String s = date;
-        db.delete(s);
-    }
-
-    //Get all entries in database
-    public void view(View view) {
-        db.getAll();
-    }
-
-    // Update database
-    public void update(View view) {
-        String s1 = date;
-        String s2 = wake_up;
-        String s3 = sleep;
-        db.update(s1, s2, s3);
     }
 
 }

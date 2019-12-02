@@ -55,6 +55,14 @@ public class MyDB extends SQLiteOpenHelper{
         }
         Toast.makeText(ctx, sr.toString(), Toast.LENGTH_LONG).show();
     }
+    public void lastWake(){
+        db = getReadableDatabase();
+        Cursor cr = db.rawQuery("select * from " + TABLE_NAME + ";", null );
+        StringBuilder sr = new StringBuilder();
+        cr.moveToLast();
+        sr.append(cr.getString(3));
+
+    }
     public void delete(String s){
         db = getWritableDatabase();
         db.delete(TABLE_NAME, "date = ?", new String[]{s});
@@ -67,6 +75,17 @@ public class MyDB extends SQLiteOpenHelper{
         cv.put("time_woke_up", s2);
         cv.put("time_asleep", s3);
         db.update(TABLE_NAME, cv,  "date = ?", new String[]{s1});
+    }
+
+    public Cursor view() {
+        SQLiteDatabase db = this.getReadableDatabase();
+        Cursor cursor = db.rawQuery("select * from " + TABLE_NAME + ";", null);
+//        StringBuilder sr = new StringBuilder();
+//        cursor.moveToLast();
+//        sr.append(cursor.getString(3));
+//        Toast.makeText(ctx, sr.toString(), Toast.LENGTH_LONG).show();
+        return cursor;
+
     }
 
     public int getLastSleepHours(){

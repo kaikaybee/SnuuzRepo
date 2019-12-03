@@ -11,24 +11,10 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
-        android:layout_marginTop="78dp"
+        android:layout_marginTop="90dp"
         android:gravity="center_horizontal"
         android:textColor="#ffffff"
         android:textSize="150dp"
-        app:fontFamily="@font/bebasneuebook" />
-
-    <TextView
-        android:id="@+id/imperative"
-        android:layout_width="453dp"
-        android:layout_height="wrap_content"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentBottom="true"
-        android:layout_marginStart="26dp"
-        android:layout_marginEnd="17dp"
-        android:layout_marginBottom="373dp"
-        android:gravity="center_horizontal"
-        android:textSize="27dp"
         app:fontFamily="@font/bebasneuebook" />
 
     <Button
@@ -60,7 +46,7 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-        android:layout_marginBottom="125dp"
+        android:layout_marginBottom="163dp"
         android:background="#008660D0"
         android:text="Recent Sleep History"
         android:textColor="#ffffff"
@@ -68,5 +54,3 @@
         app:fontFamily="@font/bebasneuebook" />
 
 </RelativeLayout>
-
-

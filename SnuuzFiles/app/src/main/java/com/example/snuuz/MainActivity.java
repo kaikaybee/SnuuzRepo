@@ -11,8 +11,6 @@ import android.view.MenuInflater;
 import androidx.core.content.ContextCompat;
 
 import android.os.Bundle;
-//import java.io.FileOutputStream;
-//import java.io.OutputStreamWriter;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
@@ -23,28 +21,18 @@ import android.app.AlarmManager;
 import android.app.PendingIntent;
 import android.content.Intent;
 
-import android.app.AlarmManager;
-import android.app.PendingIntent;
-import android.content.Intent;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.TextView;
 import android.widget.TimePicker;
 
-
-import android.widget.Toast;
-
-
 public class MainActivity extends AppCompatActivity {
-
-
 
     Button buttonStartSetDialog;
     Button buttonCancelAlarm;
     Button popUpHistory;
     TextView textAlarmPrompt;
-    TextView message;
     AlarmManager alarm;
     PendingIntent alarmIntent;
 
@@ -61,46 +49,44 @@ public class MainActivity extends AppCompatActivity {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        //Creates database
+        db = new MyDB(this, "Sleep_Tracker", null, 1);
+        Cursor cr = db.view();
+        if(cr.getCount() !=0) {
+            setContentView(R.layout.activity_main);
+        }
+        else {
+            setContentView(R.layout.activity_main2);
+            if(cr.getCount() != 0) {
+                setContentView(R.layout.activity_main);
+
+            }
+        }
 
         // UI action bar and status bar
         getSupportActionBar().setBackgroundDrawable(new ColorDrawable(ContextCompat.getColor(this, R.color.yourTranslucentColor)));
         getSupportActionBar().setDisplayShowTitleEnabled(false);
 
-        //Creates database
-        db = new MyDB(this, "Sleep_Tracker", null, 1);
+
 
         alarm = (AlarmManager) getSystemService(ALARM_SERVICE);
-        //Sets custom Toolbar to replace built-in actionBar
-//        Toolbar myToolbar = findViewById(R.id.main_toolbar);
-//        setSupportActionBar(myToolbar);
 
         //Brian's code - please comment
         popUpHistory = findViewById(R.id.popupBtn);
         popUpHistory.setOnClickListener(new OnClickListener() {
             @Override
             public void onClick(View v) {
-               // db.insert("12-03-2019", wakey, sleepy);
-               // db.delete(12);
                 db.getAll();
-                //db.getdbObj(3);
-
-
-
-
             }
         });
 
-
         //dialog for setting alarm
         textAlarmPrompt = findViewById(R.id.alarm_prompt);
-                Cursor cr = db.view();
-                if(cr.getCount() != 0) {
-                    cr.moveToLast();
-                    String s = cr.getString(2);
-                    textAlarmPrompt.setText(s);
-
-                }
+        if(cr.getCount() != 0) {
+            cr.moveToLast();
+            String s = cr.getString(2);
+            textAlarmPrompt.setText(s);
+        }
         buttonStartSetDialog = findViewById(R.id.startSetDialog);
         buttonStartSetDialog.setOnClickListener(new OnClickListener() {
 
@@ -108,7 +94,6 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 textAlarmPrompt.setText("");
                 openTimePickerDialog();
-
 
             }
         });
@@ -120,6 +105,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        //checks to see if database is empty
         if(cr.getCount() != 0) {
             cr.moveToLast();
             //Dynamically display imperative
@@ -163,7 +149,6 @@ public class MainActivity extends AppCompatActivity {
                 return super.onOptionsItemSelected(item);
         }
     }
-
 
     private void openTimePickerDialog(){
         Calendar calendar = Calendar.getInstance();
@@ -255,9 +240,7 @@ public class MainActivity extends AppCompatActivity {
         Cursor cr = db.view();
         cr.moveToLast();
         textAlarmPrompt.setText(wake_up);
-
     }
-
 
     public static String getDate(){
         return date;

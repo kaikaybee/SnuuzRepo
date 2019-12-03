@@ -38,6 +38,8 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
+
+
     Button buttonStartSetDialog;
     Button buttonCancelAlarm;
     Button popUpHistory;
@@ -78,8 +80,14 @@ public class MainActivity extends AppCompatActivity {
         popUpHistory.setOnClickListener(new OnClickListener() {
             @Override
             public void onClick(View v) {
-                //db.delete("12-01-2019");
+               // db.insert("12-03-2019", wakey, sleepy);
+               // db.delete(12);
                 db.getAll();
+                //db.getdbObj(3);
+
+
+
+
             }
         });
 
@@ -112,24 +120,26 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-
-        //Dynamically display imperative
-        int hoursSlept = MainActivity.db.getLastSleepHours();
-        TextView message = findViewById(R.id.imperative);
-        String hours = db.getLastSleepTime().substring(0, 2);
-        if (hours.charAt(0) == '0')
-            hours = hours.substring(1);
-        String mins = db.getLastSleepTime().substring(3, 5);
-        if (mins.charAt(0) == '0')
-            mins = mins.substring(1);
-        String messageString = "You slept for " + hours + " hours and " + mins + " mins" + "\n";
-        if (hoursSlept < 8)
-            messageString += getString(R.string.sleep_more);
-        else if (hoursSlept > 10)
-            messageString += getString(R.string.sleep_less);
-        else
-            messageString += getString(R.string.hello);
-        message.setText(messageString);
+        if(cr.getCount() != 0) {
+            cr.moveToLast();
+            //Dynamically display imperative
+            int hoursSlept = MainActivity.db.getLastSleepHours();
+            TextView message = findViewById(R.id.imperative);
+            String hours = db.getLastSleepTime().substring(0, 2);
+            if (hours.charAt(0) == '0')
+                hours = hours.substring(1);
+            String mins = db.getLastSleepTime().substring(3, 5);
+            if (mins.charAt(0) == '0')
+                mins = mins.substring(1);
+            String messageString = "You slept for " + hours + " hours and " + mins + " mins" + "\n";
+            if (hoursSlept < 8)
+                messageString += getString(R.string.sleep_more);
+            else if (hoursSlept > 10)
+                messageString += getString(R.string.sleep_less);
+            else
+                messageString += getString(R.string.hello);
+            message.setText(messageString);
+        }
     }
 
     //Replaces overflow menu of Toolbar with custom buttons
@@ -153,6 +163,7 @@ public class MainActivity extends AppCompatActivity {
                 return super.onOptionsItemSelected(item);
         }
     }
+
 
     private void openTimePickerDialog(){
         Calendar calendar = Calendar.getInstance();
@@ -181,42 +192,72 @@ public class MainActivity extends AppCompatActivity {
             calSet.set(Calendar.SECOND, 0);
             calSet.set(Calendar.MILLISECOND, 0);
 
-
-            if(calSet.compareTo(calNow) <= 0){
-                //Today Set time passed, count to tomorrow
-                calSet.add(Calendar.DATE, 1);
-            }
-
+           if(calSet.compareTo(calNow) <= 0) {
+               //Today Set time passed, count to tomorrow
+               calSet.add(Calendar.DATE, 1);
+           }
             //Sets variables from time picker
             @SuppressLint("SimpleDateFormat")
             SimpleDateFormat time_format = new SimpleDateFormat("HH:mm");
             @SuppressLint("SimpleDateFormat")
             SimpleDateFormat date_format = new SimpleDateFormat("MM-dd-yyyy");
             date = date_format.format((new Date()));
-            wake_up = calSet.get(calSet.HOUR_OF_DAY) + ":" + calSet.get(calSet.MINUTE);
-            sleep = time_format.format(calSet.getInstance().getTime());
 
-            wake_up = calSet.get(Calendar.HOUR_OF_DAY) + ":" + calSet.get(Calendar.MINUTE);
-            sleep = time_format.format(Calendar.getInstance().getTime());
+            //wake_up = calSet.get(calSet.HOUR_OF_DAY) + ":" + calSet.get(calSet.MINUTE);
+            String zero = "0";
+            String hour = "";
+            String min = "";
+            if(calSet.get(calSet.HOUR_OF_DAY) < 10){
+                hour = zero+calSet.get(calSet.HOUR_OF_DAY);
+            }
+            else{
+                hour = calSet.get(calSet.HOUR_OF_DAY)+"";
+            }
+            if(calSet.get(calSet.MINUTE) < 10){
+                min = zero+calSet.get(calSet.MINUTE);
+            }
+            else{
+                min = calSet.get(calSet.MINUTE)+"";
+            }
+            wake_up = hour+":"+min;
+            String Shour = "";
+            String Smin = "";
+            if(calNow.get(Calendar.HOUR_OF_DAY) < 10){
+                Shour = zero+calNow.get(Calendar.HOUR_OF_DAY);
+            }
+            else{
+                Shour = calNow.get(Calendar.HOUR_OF_DAY)+"";
+            }
+            if(calNow.get(Calendar.MINUTE) < 10){
+                Smin = zero+calNow.get(Calendar.MINUTE);
+            }
+            else{
+                Smin = calNow.get(Calendar.MINUTE)+"";
+            }
+            sleep = Shour+":"+Smin;
+
             setAlarm(calSet);
-        }
-    };
+
+        }};
+
 
     private void setAlarm(Calendar targetCal) {
     //sets alarm by sending alarm data to a receiver with a pending intent.
     //records time when the alarm was set by the user(not the time the alarm will go off)
+    //inserts alarm time into database
         Intent AlarmIntent = new Intent(MainActivity.this, AlarmReceiver.class);
 
         alarmIntent = PendingIntent.getBroadcast(MainActivity.this, 0, AlarmIntent, 0);
         alarm.setExact(AlarmManager.RTC_WAKEUP, targetCal.getTimeInMillis(), alarmIntent);
         alarmIsSet = true;
 
-            db.insert(date, wake_up, sleep);
-            Cursor cr = db.view();
-            cr.moveToLast();
-            textAlarmPrompt.setText(wake_up);
+        db.insert(date, wake_up, sleep);
+        Cursor cr = db.view();
+        cr.moveToLast();
+        textAlarmPrompt.setText(wake_up);
 
     }
+
 
     public static String getDate(){
         return date;

@@ -8,6 +8,8 @@ import android.database.sqlite.SQLiteOpenHelper;
 import android.util.Log;
 import android.widget.Toast;
 
+
+
 public class MyDB extends SQLiteOpenHelper{
 
     private Context ctx;
@@ -75,6 +77,103 @@ public class MyDB extends SQLiteOpenHelper{
         cv.put("time_woke_up", s2);
         cv.put("time_asleep", s3);
         db.update(TABLE_NAME, cv,  "date = ?", new String[]{s1});
+    }
+
+
+
+    public String getDates(int i){
+        db = getReadableDatabase();
+        Cursor cr = db.rawQuery("select * from " + TABLE_NAME + ";", null );
+        //StringBuilder sr = new StringBuilder();
+        String date ="";
+        int count = 0;
+        //cr.moveToFirst();
+        while(cr.moveToNext()){
+            date = cr.getString(1);
+            count++;
+            if(count == i) break;
+        }
+
+
+       return date;
+    }
+
+   public String getwakeTimes(int i){
+       db = getReadableDatabase();
+       Cursor cr = db.rawQuery("select * from " + TABLE_NAME + ";", null );
+       //StringBuilder sr = new StringBuilder();
+       String wake ="";
+       int count = 0;
+       //cr.moveToFirst();
+       while(cr.moveToNext()){
+           wake = cr.getString(2);
+           count++;
+           if(count == i) break;
+       }
+
+
+       return wake;
+   }
+
+   public String getsleepTimes(int i){
+       db = getReadableDatabase();
+       Cursor cr = db.rawQuery("select * from " + TABLE_NAME + ";", null );
+       //StringBuilder sr = new StringBuilder();
+       String sleep ="";
+       int count = 0;
+       //cr.moveToFirst();
+       while(cr.moveToNext()){
+           sleep = cr.getString(3);
+           count++;
+           if(count == i) break;
+       }
+
+
+       return sleep;
+   }
+
+
+    public int TimeParser(String wakeTime, String SleepTime) {
+
+
+        String zero = "0";
+        String wakeHour = "";
+        String SleepHour = "";
+        String wakeMin = "";
+        String SleepMin = "";
+
+        if (wakeTime.startsWith("0")) {
+            wakeHour = wakeTime.substring(1, 2);
+        } else {
+            wakeHour = wakeTime.substring(0, 2);
+        }
+        if (wakeTime.substring(3, 4).equals(zero)) {
+            wakeMin = wakeTime.substring(4, 5);
+        } else {
+            wakeMin = wakeTime.substring(3, 5);
+        }
+        if (SleepTime.startsWith("0")) {
+            SleepHour = SleepTime.substring(1, 2);
+        } else {
+            SleepHour = SleepTime.substring(0, 2);
+        }
+        if (SleepTime.substring(3, 4).equals(zero)) {
+            SleepMin = SleepTime.substring(4, 5);
+        } else {
+            SleepMin = SleepTime.substring(3, 5);
+        }
+
+
+        int wakehourtemp = Integer.parseInt(wakeHour);
+        int minDiff = Integer.parseInt(wakeMin) - Integer.parseInt(SleepMin);
+        if (minDiff < 0) {
+            wakehourtemp -= 1;
+        }
+        int hourDiff = wakehourtemp - Integer.parseInt(SleepHour);
+        if (hourDiff < 0) {
+            hourDiff += 24;
+        }
+        return hourDiff;
     }
 
     Cursor view() {
@@ -182,6 +281,7 @@ public class MyDB extends SQLiteOpenHelper{
             time+= 60*hoursToInt(cr.getString(2));
             time+= minsToInt(cr.getString(2));
             count++;
+
         }
         time = time / count;
         int hours = time / 60;
@@ -257,4 +357,9 @@ public class MyDB extends SQLiteOpenHelper{
 
         return stdDev;
     }
+
+
+
+
+
 }

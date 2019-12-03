@@ -213,7 +213,7 @@ public class MyDB extends SQLiteOpenHelper{
             return timeSlept(cr.getString(2), cr.getString(3));
         }
 
-        return "Datanase Empty";
+        return "Database Empty";
     }
 
     private static int hoursSlept(String wake, String sleep){
@@ -253,10 +253,10 @@ public class MyDB extends SQLiteOpenHelper{
 
     String intsToTime(int hours, int mins){
         String returnString = "";
-        if(hours%10 == hours)
+        if(hours/10 == 0)
             returnString += "0";
         returnString += hours+":";
-        if(mins%10 == mins)
+        if(mins/10 == 0)
             returnString += "0";
         returnString += mins;
         return returnString;
@@ -338,6 +338,8 @@ public class MyDB extends SQLiteOpenHelper{
     double getAvgSleepCycles(){
         String sleepTime = getAvgSleepTime();
         int mins = hoursToInt(sleepTime)*60 + minsToInt(sleepTime);
+        if(mins < 0)
+            return 0;
         double sleepCycles = 0;
         if(mins > 90){
             mins -= 90;
@@ -353,15 +355,19 @@ public class MyDB extends SQLiteOpenHelper{
     String getAvgRem(){
         String sleepTime = getAvgSleepTime();
         int mins = hoursToInt(sleepTime)*60 + minsToInt(sleepTime);
+        if(mins < 0)
+            return "Database Empty";
         mins = mins/10;
-        return "Your average rem time is: "+ mins/60 + " hours and " + mins%60 + " minutes";
+        return mins/60 + " hours and " + mins%60 + " minutes";
     }
 
     String getAvgDeepSleep(){
         String sleepTime = getAvgSleepTime();
         int mins = hoursToInt(sleepTime)*60 + minsToInt(sleepTime);
+        if(mins < 0)
+            return "Database Empty";
         mins = (mins/10)*4;
-        return "Your average deep sleep time is: "+ mins/60 + " hours and " + mins%60 + " minutes";
+        return mins/60 + " hours and " + mins%60 + " minutes";
     }
 
     double getStdDev(){
@@ -386,7 +392,7 @@ public class MyDB extends SQLiteOpenHelper{
             return stdDev;
         }
 
-        return -1;
+        return 0;
     }
 
 

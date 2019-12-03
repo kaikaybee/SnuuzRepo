@@ -109,18 +109,17 @@ public class HistoryActivity extends AppCompatActivity{
         anyChartView.setChart(cartesian);
 
         TextView stats = findViewById(R.id.stats);
-        //String statsString = "pizza";
 
-        /*statsString += "Average Bedtime:    "       + MainActivity.db.getAvgBedTime()    + "\n"
+        String statsString = "Average Bedtime:    "       + MainActivity.db.getAvgBedTime()    + "\n"
                 +  "Average Waketime:   "           + MainActivity.db.getAvgWakeUpTime() + "\n"
                 +  "Average Time Slept: "           + MainActivity.db.getAvgSleepTime()  + "\n"
                 +  "Average Number of Sleep Cycles:"+ MainActivity.db.getAvgSleepCycles()+ "\n"
                 +  "Average REM Sleep Time: "       + MainActivity.db.getAvgRem()        + "\n"
                 +  "Average Deep Sleep Time: "      + MainActivity.db.getAvgDeepSleep()  + "\n"
                 +  "Deviation of Time Slept: "      + MainActivity.db.getStdDev()        + "\n"
-        ;*/
+        ;
 
-        //stats.setText(statsString);
+        stats.setText(statsString);
     }
     public static double TimeScaledParser(String Time){
         String Hour="";

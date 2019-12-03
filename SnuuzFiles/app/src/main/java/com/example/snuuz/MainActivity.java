@@ -101,8 +101,6 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 textAlarmPrompt.setText("");
                 openTimePickerDialog();
-
-
             }
         });
         buttonCancelAlarm = findViewById(R.id.cancel);

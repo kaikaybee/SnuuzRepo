@@ -2,14 +2,17 @@ package com.example.snuuz;
 
 // Imports for Android
 import android.content.Intent;
+import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
-import android.widget.TextView;
 
+import android.widget.TextView;
 import androidx.appcompat.widget.Toolbar;
+
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.core.content.ContextCompat;
 
 // Imports for AnyChart
 import com.anychart.AnyChart;
@@ -36,9 +39,9 @@ public class HistoryActivity extends AppCompatActivity{
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_history);
 
-        // Sets custom Toolbar to replace built-in actionBar
-        Toolbar mainToolbar = findViewById(R.id.main_toolbar);
-        setSupportActionBar(mainToolbar);
+        // UI action bar and status bar
+        getSupportActionBar().setBackgroundDrawable(new ColorDrawable(ContextCompat.getColor(this, R.color.yourTranslucentColor)));
+        getSupportActionBar().setDisplayShowTitleEnabled(false);
 
         // Declare line chart and properties
         Cartesian cartesian = AnyChart.line();
@@ -106,7 +109,7 @@ public class HistoryActivity extends AppCompatActivity{
         anyChartView.setChart(cartesian);
 
         TextView stats = findViewById(R.id.stats);
-        String statsString = "pizza";
+        //String statsString = "pizza";
 
         /*statsString += "Average Bedtime:    "       + MainActivity.db.getAvgBedTime()    + "\n"
                 +  "Average Waketime:   "           + MainActivity.db.getAvgWakeUpTime() + "\n"
@@ -117,12 +120,14 @@ public class HistoryActivity extends AppCompatActivity{
                 +  "Deviation of Time Slept: "      + MainActivity.db.getStdDev()        + "\n"
         ;*/
 
-        stats.setText(statsString);
+        //stats.setText(statsString);
     }
     public static double TimeScaledParser(String Time){
         String Hour="";
         String Min="";
         String zero = "0";
+        if(MainActivity.db.size() == 0)
+            return 0;
         if(Time.startsWith("0")){
             Hour = Time.substring(1,2);
         }
@@ -161,11 +166,6 @@ public class HistoryActivity extends AppCompatActivity{
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         switch (item.getItemId()) {
-            case R.id.action_settings: {
-                Intent settingsIntent = new Intent(HistoryActivity.this, SettingsActivity.class);
-                startActivity(settingsIntent);
-                return true;
-            }
             case R.id.action_clock: {
                 Intent mainIntent = new Intent(HistoryActivity.this, MainActivity.class);
                 startActivity(mainIntent);

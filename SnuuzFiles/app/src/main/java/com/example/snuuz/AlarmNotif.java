@@ -105,11 +105,6 @@ public class AlarmNotif extends AppCompatActivity {
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         switch (item.getItemId()) {
-            case R.id.action_settings: {
-                Intent settingsIntent = new Intent(AlarmNotif.this, SettingsActivity.class);
-                startActivity(settingsIntent);
-                return true;
-            }
             case R.id.action_clock: {
                 int hoursSlept = MainActivity.db.getLastSleepHours();
                 TextView message = findViewById(R.id.imperative);

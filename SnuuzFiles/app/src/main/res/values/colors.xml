@@ -15,4 +15,5 @@
     <color name="colorPrimaryTheme5">#FBE8A6</color>
     <color name="colorPrimaryDarkTheme5">#F4976C</color>
     <color name="colorAccentTheme5">#D2FDFF</color>
+    <color name="yourTranslucentColor">#00FFFFFF</color>
 </resources>

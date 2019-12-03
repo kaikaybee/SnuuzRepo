@@ -25,6 +25,7 @@ public class MyDB extends SQLiteOpenHelper{
     }
 
     @Override
+    //Generate database on app creation
     public void onCreate(SQLiteDatabase db) {
         db.execSQL("create table " + TABLE_NAME + "(id integer PRIMARY KEY, " +
                 "date String, time_woke_up String, time_asleep String);");
@@ -33,12 +34,14 @@ public class MyDB extends SQLiteOpenHelper{
     }
 
     @Override
+    //Upgrades database if necessary
     public void onUpgrade(SQLiteDatabase db, int oldVersion, int newVersion) {
         db.execSQL("drop table if exists " + TABLE_NAME);
         VERSION++;
         onCreate(db);
     }
 
+    //Inserts a value into the database
     long insert(String s1, String s2, String s3){
         db = getWritableDatabase();
         ContentValues cv = new ContentValues();
@@ -48,6 +51,7 @@ public class MyDB extends SQLiteOpenHelper{
         return db.insert(TABLE_NAME, null, cv);
     }
 
+    //Stores all entries in a single string
     void getAll(){
         db = getReadableDatabase();
         Cursor cr = view();
@@ -59,6 +63,8 @@ public class MyDB extends SQLiteOpenHelper{
             Toast.makeText(ctx, sr.toString(), Toast.LENGTH_LONG).show();
         }
     }
+
+    //returns most recent wake up time
     public void lastWake(){
         db = getReadableDatabase();
         Cursor cr = view();
@@ -68,11 +74,14 @@ public class MyDB extends SQLiteOpenHelper{
             sr.append(cr.getString(3));
         }
     }
+
+    //deletes a value
     public void delete(String s){
         db = getWritableDatabase();
         db.delete(TABLE_NAME, "date = ?", new String[]{s});
     }
 
+    //updates a value
     void update(String s1, String s2, String s3){
         db = getWritableDatabase();
         ContentValues cv = new ContentValues();
@@ -82,8 +91,7 @@ public class MyDB extends SQLiteOpenHelper{
         db.update(TABLE_NAME, cv,  "date = ?", new String[]{s1});
     }
 
-
-
+    //returns set of dates with data
     public String getDates(int i){
         db = getReadableDatabase();
         Cursor cr = db.rawQuery("select * from " + TABLE_NAME + ";", null );
@@ -97,11 +105,11 @@ public class MyDB extends SQLiteOpenHelper{
             if(count == i) break;
         }
 
-
        return date;
     }
 
-   public String getwakeTimes(int i){
+    //gets all wake times
+    public String getwakeTimes(int i){
        db = getReadableDatabase();
        Cursor cr = db.rawQuery("select * from " + TABLE_NAME + ";", null );
        //StringBuilder sr = new StringBuilder();
@@ -114,10 +122,10 @@ public class MyDB extends SQLiteOpenHelper{
            if(count == i) break;
        }
 
-
        return wake;
    }
 
+   //Gets all sleep times
    public String getsleepTimes(int i){
        db = getReadableDatabase();
        Cursor cr = db.rawQuery("select * from " + TABLE_NAME + ";", null );
@@ -135,7 +143,7 @@ public class MyDB extends SQLiteOpenHelper{
        return sleep;
    }
 
-
+    //ParsesTime into an int
     public int TimeParser(String wakeTime, String SleepTime) {
 
 
@@ -179,6 +187,7 @@ public class MyDB extends SQLiteOpenHelper{
         return hourDiff;
     }
 
+    //Creates a cursor
     Cursor view() {
         SQLiteDatabase db = this.getReadableDatabase();
         Cursor cr = db.rawQuery("select * from " + TABLE_NAME + ";", null);
@@ -189,11 +198,13 @@ public class MyDB extends SQLiteOpenHelper{
         return cr;
     }
 
+    //returns size of the database
     int size(){
         Cursor cr = view();
         return cr.getCount();
     }
 
+    //returns most recent sleep hours
     int getLastSleepHours(){
         db = getReadableDatabase();
         Cursor cr = view();
@@ -205,6 +216,7 @@ public class MyDB extends SQLiteOpenHelper{
         return -1;
     }
 
+    //Returns most recent sleep time
     String getLastSleepTime(){
         db = getReadableDatabase();
         Cursor cr = view();
@@ -216,6 +228,7 @@ public class MyDB extends SQLiteOpenHelper{
         return "Database Empty";
     }
 
+    //returns number of hours slept in one alarm
     private static int hoursSlept(String wake, String sleep){
         int wakeHour  = hoursToInt(wake);
         int sleepHour = hoursToInt(sleep);
@@ -233,6 +246,7 @@ public class MyDB extends SQLiteOpenHelper{
         return hourDiff;
     }
 
+    //returns number of minutes slept in a single alarm
     private static int minsSlept(String wake, String sleep){
         int wakeMin = minsToInt(wake);
         int sleepMin = minsToInt(sleep);
@@ -244,6 +258,7 @@ public class MyDB extends SQLiteOpenHelper{
         return minDiff;
     }
 
+    //total time slept in a single night
     private String timeSlept(String wake, String sleep){
         int hours = hoursSlept(wake, sleep);
         int mins = minsSlept(wake, sleep);
@@ -251,6 +266,7 @@ public class MyDB extends SQLiteOpenHelper{
         return intsToTime(hours, mins);
     }
 
+    //converts an hour and a minute into a string
     String intsToTime(int hours, int mins){
         String returnString = "";
         if(hours/10 == 0)
@@ -262,18 +278,21 @@ public class MyDB extends SQLiteOpenHelper{
         return returnString;
     }
 
+    //converts a string time into its hour number
     private static int hoursToInt(String time){
         if(time.length() != 5)
             return -1;
         return Integer.parseInt(time.substring(0, 2));
     }
 
+    //converts a string time into its min number
     private static int minsToInt(String time){
         if(time.length() != 5)
             return -1;
         return Integer.parseInt(time.substring(3, 5));
     }
 
+    //returns average bed time
     String getAvgBedTime(){
         db = getReadableDatabase();
         Cursor cr = view();
@@ -294,6 +313,7 @@ public class MyDB extends SQLiteOpenHelper{
         return "Database Empty";
     }
 
+    //gets average wake up time
     String getAvgWakeUpTime(){
         db = getReadableDatabase();
         Cursor cr = view();
@@ -314,6 +334,7 @@ public class MyDB extends SQLiteOpenHelper{
         return "Database Empty";
     }
 
+    //gets average sleep time
     String getAvgSleepTime(){
         db = getReadableDatabase();
         Cursor cr = view();
@@ -334,6 +355,7 @@ public class MyDB extends SQLiteOpenHelper{
         return "Database Empty";
     }
 
+    //gets average sleep cycles
     String getAvgSleepCycles(){
         String sleepTime = getAvgSleepTime();
         int mins = hoursToInt(sleepTime)*60 + minsToInt(sleepTime);
@@ -351,6 +373,7 @@ public class MyDB extends SQLiteOpenHelper{
         return (int)sleepCycles + " Cycles";
     }
 
+    //gets average rem time
     String getAvgRem(){
         String sleepTime = getAvgSleepTime();
         int mins = hoursToInt(sleepTime)*60 + minsToInt(sleepTime);
@@ -360,6 +383,7 @@ public class MyDB extends SQLiteOpenHelper{
         return mins/60 + " hours and " + mins%60 + " mins";
     }
 
+    //gets average deep sleep time
     String getAvgDeepSleep(){
         String sleepTime = getAvgSleepTime();
         int mins = hoursToInt(sleepTime)*60 + minsToInt(sleepTime);
@@ -369,6 +393,7 @@ public class MyDB extends SQLiteOpenHelper{
         return mins/60 + " hours and " + mins%60 + " mins";
     }
 
+    //gets average standard deviation
     String getStdDev(){
         db = getReadableDatabase();
         Cursor cr = view();
@@ -395,9 +420,4 @@ public class MyDB extends SQLiteOpenHelper{
 
         return "0";
     }
-
-
-
-
-
 }

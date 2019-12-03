@@ -91,7 +91,7 @@ public class MyDB extends SQLiteOpenHelper{
         db = getReadableDatabase();
         Cursor cr = db.rawQuery("select * from " + TABLE_NAME + ";", null );
         cr.moveToLast();
-       return hoursSlept(cr.getString(3), cr.getString(2));
+       return hoursSlept(cr.getString(2), cr.getString(3));
 
     }
 

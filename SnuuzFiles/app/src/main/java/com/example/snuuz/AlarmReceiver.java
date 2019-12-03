@@ -11,8 +11,6 @@ import android.content.Intent;
 
 public class AlarmReceiver extends BroadcastReceiver {
     String date;
-    String wake_up;
-    String Sleep;
     @Override
     public void onReceive(final Context context, Intent intent) {
 
@@ -21,7 +19,6 @@ public class AlarmReceiver extends BroadcastReceiver {
         date = intent.getStringExtra("date");
         AlarmNotif.putExtra("date", date);
         context.startService(AlarmNotif);
-
-
+        MainActivity.alarmIsSet = false;
     }
 }

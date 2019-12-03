@@ -1,19 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimaryTheme1">#EE4C7C</color>
-    <color name="colorPrimaryDarkTheme1">#9A1750</color>
-    <color name="colorAccentTheme1">#E3AFBC</color>
-    <color name="colorPrimaryTheme2">#E98074</color>
-    <color name="colorPrimaryDarkTheme2">#E85A4F</color>
-    <color name="colorAccentTheme2">#8E8D8A</color>
-    <color name="colorPrimaryTheme3">#5AB9EA</color>
-    <color name="colorPrimaryDarkTheme3">#5680E9</color>
-    <color name="colorAccentTheme3">#84CEEB</color>
-    <color name="colorPrimaryTheme4">#464866</color>
-    <color name="colorPrimaryDarkTheme4">#25274D</color>
-    <color name="colorAccentTheme4">#AAABB8</color>
-    <color name="colorPrimaryTheme5">#FBE8A6</color>
-    <color name="colorPrimaryDarkTheme5">#F4976C</color>
-    <color name="colorAccentTheme5">#D2FDFF</color>
-    <color name="yourTranslucentColor">#00FFFFFF</color>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
 </resources>

@@ -1,72 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
-    android:orientation="vertical"
-    android:background="@drawable/gradient_background">
+    android:orientation="vertical" >
 
     <TextView
-        android:id="@+id/alarm_prompt"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:layout_alignParentTop="true"
-        android:layout_marginTop="78dp"
-        android:gravity="center_horizontal"
-        android:textColor="#ffffff"
-        android:textSize="150dp"
-        app:fontFamily="@font/bebasneuebook" />
-
-    <TextView
-        android:id="@+id/imperative"
-        android:layout_width="453dp"
-        android:layout_height="wrap_content"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentBottom="true"
-        android:layout_marginStart="26dp"
-        android:layout_marginEnd="17dp"
-        android:layout_marginBottom="373dp"
-        android:gravity="center_horizontal"
-        android:textSize="27dp"
-        app:fontFamily="@font/bebasneuebook" />
-
+        android:text="hello" />
     <Button
         android:id="@+id/startSetDialog"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:layout_above="@+id/cancel"
-        android:layout_marginBottom="17dp"
-        android:background="#00FFFFFF"
-        android:text="@string/set_target_time"
-        android:textColor="#ffffff"
-        android:textSize="50dp"
-        app:fontFamily="@font/bebasneuebook" />
-
+        android:text="Set Target Time"/>
     <Button
         android:id="@+id/cancel"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:layout_above="@+id/popupBtn"
-        android:layout_marginBottom="17dp"
-        android:background="#00FFFFFF"
-        android:text="@string/cancel_alarm"
-        android:textColor="#ffffff"
-        android:textSize="50dp"
-        app:fontFamily="@font/bebasneuebook" />
-
-    <Button
-        android:id="@+id/popupBtn"
+        android:text="Cancel Alarm"/>
+    <TextView
+        android:id="@+id/alarmprompt"
         android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:layout_marginBottom="125dp"
-        android:background="#008660D0"
-        android:text="Recent Sleep History"
-        android:textColor="#ffffff"
-        android:textSize="50dp"
-        app:fontFamily="@font/bebasneuebook" />
-
-</RelativeLayout>
-
-
+        android:layout_height="wrap_content" />
+</LinearLayout>

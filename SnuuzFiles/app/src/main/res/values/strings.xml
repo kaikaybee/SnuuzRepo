@@ -1,21 +1,4 @@
 <resources>
     <string name="app_name">Snuuz</string>
-    <string name="action_settings">Settings</string>
-    <string name="action_clock">Alarm Clock</string>
-    <string name="action_history">History</string>
     <string name="string">1</string>
-    <string name="cancel_alarm">Cancel Alarm</string>
-    <string name="set_target_time">Set Target Time</string>
-    <string name="theme1">Color Theme 1</string>
-    <string name="light_switch">Light Switch</string>
-    <string name="color_theme">Color Theme</string>
-    <string name="settings_switch_2">Switch 2</string>
-    <string name="hello">Good Morning, Statistics Show You Had a Good Nights Rest!</string>
-    <string name="sleep_more">Rough Night? Consider Taking a Nap to Get Back on Track!</string>
-    <string name="sleep_less">Looks Like Somebody Hit Snuuz, Up and At Em!</string>
-    <string name="welcome">Time for a Snuuz?</string>
-    <string name="wake_up">Wake Up</string>
-    <string name="enter_wake_eup">Enter wake up time in HH:mm format</string>
-    <string name="dismiss_wake_up">Submit Wake Up Time</string>
-    <string name="snooze">Snuuz</string>
 </resources>

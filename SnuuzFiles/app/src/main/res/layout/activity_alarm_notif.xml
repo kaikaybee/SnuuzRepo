@@ -14,26 +14,30 @@
         android:theme="@style/Theme3"
         app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
 
-    <TextView
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/wake_up"/>
-
     <EditText
         android:id="@+id/editTime"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:hint="@string/enter_wake_eup" />
+        android:hint="@string/enter_wake_eup"
+        app:fontFamily="@font/bebasneuebook"/>
     <Button
         android:id="@+id/wake_up_timeDialog"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="@string/dismiss_wake_up"/>
+        android:background="#008660D0"
+        android:textColor="#ffffff"
+        android:text="@string/dismiss_wake_up"
+        android:textSize="40dp"
+        app:fontFamily="@font/bebasneuebook"/>
+
     <Button
         android:id="@+id/SnoozeBtn"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="@string/snooze"/>
-
+        android:background="#008660D0"
+        android:text="@string/snooze"
+        android:textColor="#ffffff"
+        android:textSize="40dp"
+        app:fontFamily="@font/bebasneuebook" />
 
 </LinearLayout>

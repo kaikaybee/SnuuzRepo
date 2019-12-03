@@ -322,8 +322,8 @@ public class MyDB extends SQLiteOpenHelper{
             int totalMins = 0;
             int count = 0;
             while (cr.moveToNext()) {
-                totalHours += hoursSlept(cr.getString(3), cr.getString(2));
-                totalMins += minsSlept(cr.getString(3), cr.getString(2));
+                totalHours += hoursSlept(cr.getString(2), cr.getString(3));
+                totalMins += minsSlept(cr.getString(2), cr.getString(3));
                 count++;
             }
             double avgHours = (double) totalHours / count;

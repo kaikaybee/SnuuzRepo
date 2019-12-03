@@ -111,7 +111,7 @@ public class HistoryActivity extends AppCompatActivity{
         TextView stats = findViewById(R.id.stats);
         String statsString;
         statsString = "Avg Bedtime: "              + MainActivity.db.getAvgBedTime()    + "\n"
-                    +  "Avg Waketime: "             + MainActivity.db.getAvgWakeUpTime() + "\n"
+                    +  "Avg Waketime: "            + MainActivity.db.getAvgWakeUpTime() + "\n"
                     +  "Avg Time Slept: "          + MainActivity.db.getAvgSleepTime()  + "\n"
                     +  "Avg Sleep Cycles: "        + MainActivity.db.getAvgSleepCycles()+ "\n"
                     +  "Avg REM Sleep Time: "      + MainActivity.db.getAvgRem()        + "\n"

@@ -7,6 +7,10 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
+
+import android.widget.TextView;
+import androidx.appcompat.widget.Toolbar;
+
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.content.ContextCompat;
 
@@ -103,11 +107,27 @@ public class HistoryActivity extends AppCompatActivity{
 
         AnyChartView anyChartView = findViewById(R.id.any_chart_view);
         anyChartView.setChart(cartesian);
+
+        TextView stats = findViewById(R.id.stats);
+        //String statsString = "pizza";
+
+        /*statsString += "Average Bedtime:    "       + MainActivity.db.getAvgBedTime()    + "\n"
+                +  "Average Waketime:   "           + MainActivity.db.getAvgWakeUpTime() + "\n"
+                +  "Average Time Slept: "           + MainActivity.db.getAvgSleepTime()  + "\n"
+                +  "Average Number of Sleep Cycles:"+ MainActivity.db.getAvgSleepCycles()+ "\n"
+                +  "Average REM Sleep Time: "       + MainActivity.db.getAvgRem()        + "\n"
+                +  "Average Deep Sleep Time: "      + MainActivity.db.getAvgDeepSleep()  + "\n"
+                +  "Deviation of Time Slept: "      + MainActivity.db.getStdDev()        + "\n"
+        ;*/
+
+        //stats.setText(statsString);
     }
     public static double TimeScaledParser(String Time){
         String Hour="";
         String Min="";
         String zero = "0";
+        if(MainActivity.db.size() == 0)
+            return 0;
         if(Time.startsWith("0")){
             Hour = Time.substring(1,2);
         }

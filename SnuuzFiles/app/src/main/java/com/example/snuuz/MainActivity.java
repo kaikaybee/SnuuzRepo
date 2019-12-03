@@ -52,16 +52,7 @@ public class MainActivity extends AppCompatActivity {
         //Creates database
         db = new MyDB(this, "Sleep_Tracker", null, 1);
         Cursor cr = db.view();
-        if(cr.getCount() !=0) {
-            setContentView(R.layout.activity_main);
-        }
-        else {
-            setContentView(R.layout.activity_main2);
-            if(cr.getCount() != 0) {
-                setContentView(R.layout.activity_main);
-
-            }
-        }
+        setContentView(R.layout.activity_main);
 
         // UI action bar and status bar
         getSupportActionBar().setBackgroundDrawable(new ColorDrawable(ContextCompat.getColor(this, R.color.yourTranslucentColor)));
@@ -87,6 +78,7 @@ public class MainActivity extends AppCompatActivity {
             String s = cr.getString(2);
             textAlarmPrompt.setText(s);
         }
+
         buttonStartSetDialog = findViewById(R.id.startSetDialog);
         buttonStartSetDialog.setOnClickListener(new OnClickListener() {
 
@@ -105,19 +97,27 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        //checks to see if database is empty
-        if(cr.getCount() != 0) {
-            cr.moveToLast();
-            //Dynamically display imperative
-            int hoursSlept = MainActivity.db.getLastSleepHours();
-            TextView message = findViewById(R.id.imperative);
+        //Dynamically display imperative
+        int hoursSlept = MainActivity.db.getLastSleepHours();
+        TextView message = findViewById(R.id.imperative);
+        String messageString = "";
+        if(db.size() == 0){
+            messageString += getString(R.string.welcome);
+            message.setText(messageString);
+            TextView alarmTimeWelcome = findViewById(R.id.alarm_prompt);
+            String alarmTimeWelcomeString = "None";
+            alarmTimeWelcome.setText(alarmTimeWelcomeString);
+        }
+        else {
             String hours = db.getLastSleepTime().substring(0, 2);
             if (hours.charAt(0) == '0')
                 hours = hours.substring(1);
             String mins = db.getLastSleepTime().substring(3, 5);
             if (mins.charAt(0) == '0')
                 mins = mins.substring(1);
-            String messageString = "You slept for " + hours + " hours and " + mins + " mins" + "\n";
+
+            messageString = "You slept for " + hours + " hours and " + mins + " mins" + "\n";
+
             if (hoursSlept < 8)
                 messageString += getString(R.string.sleep_more);
             else if (hoursSlept > 10)
@@ -133,6 +133,7 @@ public class MainActivity extends AppCompatActivity {
     public boolean onCreateOptionsMenu(Menu menu) {
         MenuInflater inflater = getMenuInflater();
         inflater.inflate(R.menu.main_bar, menu);
+        String stat = db.getAvgBedTime();
         return true;
     }
 

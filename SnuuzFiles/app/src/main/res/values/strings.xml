@@ -14,4 +14,8 @@
     <string name="sleep_more">Rough Night? Consider Taking a Nap to Get Back on Track!</string>
     <string name="sleep_less">Looks Like Somebody Hit Snuuz, Up and At Em!</string>
     <string name="welcome">Time for a Snuuz?</string>
+    <string name="wake_up">Wake Up</string>
+    <string name="enter_wake_eup">Enter wake up time in HH:mm format</string>
+    <string name="dismiss_wake_up">Dismiss and enter wake up time</string>
+    <string name="snooze">Snooze</string>
 </resources>

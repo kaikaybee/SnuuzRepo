@@ -329,17 +329,16 @@ public class MyDB extends SQLiteOpenHelper{
             double avgHours = (double) totalHours / count;
             double avgMins = (double) totalMins / count;
 
-            return avgHours + ":" + avgMins;
+            return (int)avgHours + ":" + (int)avgMins;
         }
-
         return "Database Empty";
     }
 
-    double getAvgSleepCycles(){
+    String getAvgSleepCycles(){
         String sleepTime = getAvgSleepTime();
         int mins = hoursToInt(sleepTime)*60 + minsToInt(sleepTime);
         if(mins < 0)
-            return 0;
+            return "Database Empty";
         double sleepCycles = 0;
         if(mins > 90){
             mins -= 90;
@@ -349,7 +348,7 @@ public class MyDB extends SQLiteOpenHelper{
         else
             sleepCycles += (double)mins/90;
 
-        return sleepCycles;
+        return (int)sleepCycles + " Cycles";
     }
 
     String getAvgRem(){
@@ -367,10 +366,10 @@ public class MyDB extends SQLiteOpenHelper{
         if(mins < 0)
             return "Database Empty";
         mins = (mins/10)*4;
-        return mins/60 + " hours and " + mins%60 + " minutes";
+        return mins/60 + " hours and " + mins%60 + " mins";
     }
 
-    double getStdDev(){
+    String getStdDev(){
         db = getReadableDatabase();
         Cursor cr = view();
         if(cr.getCount() != 0) {
@@ -389,10 +388,12 @@ public class MyDB extends SQLiteOpenHelper{
             if (count > 1)
                 stdDev = diffSquaredTotal / (count - 1);
 
-            return stdDev;
+            stdDev = Math.sqrt(stdDev);
+            int devMins = (int)stdDev;
+            return devMins/60 + " hours and " + devMins%60 + " mins";
         }
 
-        return 0;
+        return "Database Empty";
     }
 
 

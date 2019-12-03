@@ -355,7 +355,7 @@ public class MyDB extends SQLiteOpenHelper{
         String sleepTime = getAvgSleepTime();
         int mins = hoursToInt(sleepTime)*60 + minsToInt(sleepTime);
         if(mins < 0)
-            return "Database Empty";
+            return "0";
         mins = mins/10;
         return mins/60 + " hours and " + mins%60 + " mins";
     }
@@ -364,7 +364,7 @@ public class MyDB extends SQLiteOpenHelper{
         String sleepTime = getAvgSleepTime();
         int mins = hoursToInt(sleepTime)*60 + minsToInt(sleepTime);
         if(mins < 0)
-            return "Database Empty";
+            return "0";
         mins = (mins/10)*4;
         return mins/60 + " hours and " + mins%60 + " mins";
     }
@@ -393,7 +393,7 @@ public class MyDB extends SQLiteOpenHelper{
             return devMins/60 + " hours and " + devMins%60 + " mins";
         }
 
-        return "Database Empty";
+        return "0";
     }
 
 

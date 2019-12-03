@@ -57,8 +57,6 @@ public class MainActivity extends AppCompatActivity {
             static String date;
             static String wake_up;
             static String sleep;
-    String wakey = "08:00";
-    String sleepy = "22:00";
 
 
             @Override
@@ -80,8 +78,14 @@ public class MainActivity extends AppCompatActivity {
         popUpHistory.setOnClickListener(new OnClickListener() {
             @Override
             public void onClick(View v) {
-                //db.delete("12-01-2019");
+               // db.insert("12-03-2019", wakey, sleepy);
+               // db.delete(12);
                 db.getAll();
+                //db.getdbObj(3);
+
+
+
+
             }
         });
 
@@ -139,32 +143,7 @@ public class MainActivity extends AppCompatActivity {
     //Brian's code - please comment
     //Uses default time picker dialog to let user set alarm.
     //Uses Calender to get current time and to set a new calender instance.
-    static int TimeParser(String wake, String Sleep){
 
-
-                String wakeHourtemp = wake.substring(0, 2);
-                int wakeHourtemp2= Integer.parseInt(wakeHourtemp);
-
-                String SleepHourtemp = Sleep.substring(0, 2);
-                int SleepHourtemp2 = Integer.parseInt(SleepHourtemp);
-
-                String wakeMintemp = wake.substring(3, 5);
-                int wakeMintemp2 = Integer.parseInt(wakeMintemp);
-
-                String SleepMintemp = Sleep.substring(3, 5);
-                int SleepMintemp2 = Integer.parseInt(SleepMintemp);
-
-                int minDiff = wakeMintemp2 - SleepMintemp2;
-                if(minDiff < 0){
-                    wakeHourtemp2 -=1;
-                }
-                int hourDiff = wakeHourtemp2 - SleepHourtemp2;
-                if(hourDiff < 0){
-                    hourDiff += 24;
-                }
-
-                return hourDiff;
-    }
 
     private void openTimePickerDialog(boolean is24r){
         Calendar calendar = Calendar.getInstance();
@@ -201,23 +180,54 @@ public class MainActivity extends AppCompatActivity {
             calSet.set(Calendar.MILLISECOND, 0);
 
 
-//            if(calSet.compareTo(calNow) <= 0){
-//                //Today Set time passed, count to tomorrow
-//                calSet.add(Calendar.DATE, 1);
-//            }
+           if(calSet.compareTo(calNow) <= 0) {
+               //Today Set time passed, count to tomorrow
+               calSet.add(Calendar.DATE, 1);
+           }
 
             //Sets variables from time picker
             SimpleDateFormat time_format = new SimpleDateFormat("HH:mm");
             SimpleDateFormat date_format = new SimpleDateFormat("MM-dd-yyyy");
             date = date_format.format((new Date()));
-            wake_up = calSet.get(calSet.HOUR_OF_DAY) + ":" + calSet.get(calSet.MINUTE);
-            sleep = time_format.format(calSet.getInstance().getTime());
 
+            //wake_up = calSet.get(calSet.HOUR_OF_DAY) + ":" + calSet.get(calSet.MINUTE);
+            String zero = "0";
+            String hour = "";
+            String min = "";
+            if(calSet.get(calSet.HOUR_OF_DAY) < 10){
+                hour = zero+calSet.get(calSet.HOUR_OF_DAY);
+            }
+            else{
+                hour = calSet.get(calSet.HOUR_OF_DAY)+"";
+            }
+            if(calSet.get(calSet.MINUTE) < 10){
+                min = zero+calSet.get(calSet.MINUTE);
+            }
+            else{
+                min = calSet.get(calSet.MINUTE)+"";
+            }
+            wake_up = hour+":"+min;
+            String Shour = "";
+            String Smin = "";
+            if(calNow.get(Calendar.HOUR_OF_DAY) < 10){
+                Shour = zero+calNow.get(Calendar.HOUR_OF_DAY);
+            }
+            else{
+                Shour = calNow.get(Calendar.HOUR_OF_DAY)+"";
+            }
+            if(calNow.get(Calendar.MINUTE) < 10){
+                Smin = zero+calNow.get(Calendar.MINUTE);
+            }
+            else{
+                Smin = calNow.get(Calendar.MINUTE)+"";
+            }
+            sleep = Shour+":"+Smin;
             setAlarm(calSet, wake_up);
 
 
             setAlarm(calSet);
         }};
+
     private void setAlarm(Calendar targetCal) {
     //sets alarm by sending alarm data to a receiver with a pending intent.
     //records time when the alarm was set by the user(not the time the alarm will go off)
@@ -240,8 +250,9 @@ public class MainActivity extends AppCompatActivity {
             outputWriter.close();
 
             //display file saved message for testing
-            Toast.makeText(getBaseContext(), "Sleep time saved successfully!"+""+db.getLastSleepTime(),
-                    Toast.LENGTH_SHORT).show();
+            //Toast.makeText(getBaseContext(), "Sleep time saved successfully!"+""+db.getLastSleepTime(),
+                    //Toast.LENGTH_SHORT).show();
+
 
         } catch (Exception e) {
             e.printStackTrace();

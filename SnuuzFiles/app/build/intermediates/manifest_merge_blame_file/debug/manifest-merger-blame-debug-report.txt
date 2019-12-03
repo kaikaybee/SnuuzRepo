@@ -1,0 +1,81 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.snuuz"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->/Users/christinacarlisle/StudioProjects/SnuuzRepo/SnuuzFiles/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/Users/christinacarlisle/StudioProjects/SnuuzRepo/SnuuzFiles/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.WAKE_LOCK" />
+11-->/Users/christinacarlisle/StudioProjects/SnuuzRepo/SnuuzFiles/app/src/main/AndroidManifest.xml:6:5-68
+11-->/Users/christinacarlisle/StudioProjects/SnuuzRepo/SnuuzFiles/app/src/main/AndroidManifest.xml:6:22-65
+12
+13    <application
+13-->/Users/christinacarlisle/StudioProjects/SnuuzRepo/SnuuzFiles/app/src/main/AndroidManifest.xml:8:5-36:19
+14        android:name="androidx.multidex.MultiDexApplication"
+15        android:allowBackup="false"
+15-->/Users/christinacarlisle/StudioProjects/SnuuzRepo/SnuuzFiles/app/src/main/AndroidManifest.xml:10:9-36
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.1.0] /Users/christinacarlisle/.gradle/caches/transforms-2/files-2.1/7f6c41cc2a14c0fbaa8d0166c17dc544/core-1.1.0/AndroidManifest.xml:24:18-86
+17        android:debuggable="true"
+18        android:icon="@mipmap/ic_launcher"
+18-->/Users/christinacarlisle/StudioProjects/SnuuzRepo/SnuuzFiles/app/src/main/AndroidManifest.xml:11:9-43
+19        android:label="@string/app_name"
+19-->/Users/christinacarlisle/StudioProjects/SnuuzRepo/SnuuzFiles/app/src/main/AndroidManifest.xml:12:9-41
+20        android:roundIcon="@mipmap/ic_launcher_round"
+20-->/Users/christinacarlisle/StudioProjects/SnuuzRepo/SnuuzFiles/app/src/main/AndroidManifest.xml:13:9-54
+21        android:supportsRtl="true"
+21-->/Users/christinacarlisle/StudioProjects/SnuuzRepo/SnuuzFiles/app/src/main/AndroidManifest.xml:14:9-35
+22        android:testOnly="true"
+23        android:theme="@style/Theme3" >
+23-->/Users/christinacarlisle/StudioProjects/SnuuzRepo/SnuuzFiles/app/src/main/AndroidManifest.xml:15:9-38
+24        <activity
+24-->/Users/christinacarlisle/StudioProjects/SnuuzRepo/SnuuzFiles/app/src/main/AndroidManifest.xml:18:9-25:20
+25            android:name="com.example.snuuz.MainActivity"
+25-->/Users/christinacarlisle/StudioProjects/SnuuzRepo/SnuuzFiles/app/src/main/AndroidManifest.xml:18:19-47
+26            android:theme="@style/AppTheme.Transparent" >
+26-->/Users/christinacarlisle/StudioProjects/SnuuzRepo/SnuuzFiles/app/src/main/AndroidManifest.xml:19:13-56
+27            <intent-filter>
+27-->/Users/christinacarlisle/StudioProjects/SnuuzRepo/SnuuzFiles/app/src/main/AndroidManifest.xml:20:13-24:29
+28                <action android:name="android.intent.action.MAIN" />
+28-->/Users/christinacarlisle/StudioProjects/SnuuzRepo/SnuuzFiles/app/src/main/AndroidManifest.xml:21:17-69
+28-->/Users/christinacarlisle/StudioProjects/SnuuzRepo/SnuuzFiles/app/src/main/AndroidManifest.xml:21:25-66
+29
+30                <category android:name="android.intent.category.LAUNCHER" />
+30-->/Users/christinacarlisle/StudioProjects/SnuuzRepo/SnuuzFiles/app/src/main/AndroidManifest.xml:23:17-77
+30-->/Users/christinacarlisle/StudioProjects/SnuuzRepo/SnuuzFiles/app/src/main/AndroidManifest.xml:23:27-74
+31            </intent-filter>
+32        </activity>
+33        <activity android:name="com.example.snuuz.SettingsActivity" >
+33-->/Users/christinacarlisle/StudioProjects/SnuuzRepo/SnuuzFiles/app/src/main/AndroidManifest.xml:26:9-27:20
+33-->/Users/christinacarlisle/StudioProjects/SnuuzRepo/SnuuzFiles/app/src/main/AndroidManifest.xml:26:19-51
+34        </activity>
+35        <activity
+35-->/Users/christinacarlisle/StudioProjects/SnuuzRepo/SnuuzFiles/app/src/main/AndroidManifest.xml:28:9-30:20
+36            android:name="com.example.snuuz.HistoryActivity"
+36-->/Users/christinacarlisle/StudioProjects/SnuuzRepo/SnuuzFiles/app/src/main/AndroidManifest.xml:28:19-50
+37            android:theme="@style/AppTheme.Transparent" >
+37-->/Users/christinacarlisle/StudioProjects/SnuuzRepo/SnuuzFiles/app/src/main/AndroidManifest.xml:29:13-56
+38        </activity>
+39        <activity android:name="com.example.snuuz.AlarmNotif" >
+39-->/Users/christinacarlisle/StudioProjects/SnuuzRepo/SnuuzFiles/app/src/main/AndroidManifest.xml:31:9-32:20
+39-->/Users/christinacarlisle/StudioProjects/SnuuzRepo/SnuuzFiles/app/src/main/AndroidManifest.xml:31:19-45
+40        </activity>
+41
+42        <service
+42-->/Users/christinacarlisle/StudioProjects/SnuuzRepo/SnuuzFiles/app/src/main/AndroidManifest.xml:33:9-34:38
+43            android:name="com.example.snuuz.AlarmService"
+43-->/Users/christinacarlisle/StudioProjects/SnuuzRepo/SnuuzFiles/app/src/main/AndroidManifest.xml:33:18-46
+44            android:enabled="true" />
+44-->/Users/christinacarlisle/StudioProjects/SnuuzRepo/SnuuzFiles/app/src/main/AndroidManifest.xml:34:13-35
+45
+46        <receiver android:name="com.example.snuuz.AlarmReceiver" />
+46-->/Users/christinacarlisle/StudioProjects/SnuuzRepo/SnuuzFiles/app/src/main/AndroidManifest.xml:35:9-50
+46-->/Users/christinacarlisle/StudioProjects/SnuuzRepo/SnuuzFiles/app/src/main/AndroidManifest.xml:35:19-48
+47    </application>
+48
+49</manifest>

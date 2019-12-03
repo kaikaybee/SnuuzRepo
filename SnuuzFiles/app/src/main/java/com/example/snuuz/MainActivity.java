@@ -2,6 +2,8 @@ package com.example.snuuz;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.annotation.SuppressLint;
+import android.database.Cursor;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.MenuInflater;
@@ -12,62 +14,44 @@ import java.io.OutputStreamWriter;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
-
 import android.app.TimePickerDialog;
 import android.app.TimePickerDialog.OnTimeSetListener;
-
-
-import android.os.Bundle;
-import java.util.Calendar;
-
 import android.app.AlarmManager;
 import android.app.PendingIntent;
-import android.app.TimePickerDialog;
-import android.app.TimePickerDialog.OnTimeSetListener;
-import android.content.Context;
 import android.content.Intent;
-import android.os.Bundle;
-
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.TextView;
 import android.widget.TimePicker;
 
-
-import android.widget.Toast;
-
-import android.content.Intent;
-import android.app.AlarmManager;
-import android.app.PendingIntent;
-
-
 public class MainActivity extends AppCompatActivity {
 
-            Button buttonStartSetDialog;
-            Button buttonCancelAlarm;
-            Button popUpHistory;
-            TextView textAlarmPrompt;
-            AlarmManager alarm;
-            PendingIntent alarmIntent;
-
-            TimePickerDialog timePickerDialog;
-
-            static MyDB db;
-            static String date;
-            static String wake_up;
-            static String sleep;
 
 
-            @Override
-            public void onCreate(Bundle savedInstanceState) {
-                super.onCreate(savedInstanceState);
-                setContentView(R.layout.activity_main);
+    Button buttonStartSetDialog;
+    Button buttonCancelAlarm;
+    Button popUpHistory;
+    TextView textAlarmPrompt;
+    AlarmManager alarm;
+    PendingIntent alarmIntent;
 
-                //Creates database
-                db = new MyDB(this, "Sleep_Tracker", null, 1);
+    TimePickerDialog timePickerDialog;
+    @SuppressLint("StaticFieldLeak")
+    static MyDB db;
+    static String date;
+    static String wake_up;
+    static String sleep;
+    static boolean alarmIsSet = false;
 
 
+    @Override
+    public void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+
+        //Creates database
+        db = new MyDB(this, "Sleep_Tracker", null, 1);
         alarm = (AlarmManager) getSystemService(ALARM_SERVICE);
         //Sets custom Toolbar to replace built-in actionBar
         Toolbar myToolbar = findViewById(R.id.main_toolbar);
@@ -89,15 +73,23 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+
         //dialog for setting alarm
         textAlarmPrompt = findViewById(R.id.alarm_prompt);
+                Cursor cr = db.view();
+                if(cr.getCount() != 0) {
+                    cr.moveToLast();
+                    String s = cr.getString(2);
+                    textAlarmPrompt.setText(s);
+
+                }
         buttonStartSetDialog = findViewById(R.id.startSetDialog);
         buttonStartSetDialog.setOnClickListener(new OnClickListener() {
 
             @Override
             public void onClick(View v) {
                 textAlarmPrompt.setText("");
-                openTimePickerDialog(false);
+                openTimePickerDialog();
 
 
             }
@@ -107,11 +99,27 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View arg0) {
                 alarm.cancel(alarmIntent);
-
             }
         });
-    }
 
+        //Dynamically display imperative
+        int hoursSlept = MainActivity.db.getLastSleepHours();
+        TextView message = findViewById(R.id.imperative);
+        String hours = db.getLastSleepTime().substring(0, 2);
+        if (hours.charAt(0) == '0')
+            hours = hours.substring(1);
+        String mins = db.getLastSleepTime().substring(3, 5);
+        if (mins.charAt(0) == '0')
+            mins = mins.substring(1);
+        String messageString = "You slept for " + hours + " hours and " + mins + " mins" + "\n";
+        if (hoursSlept < 8)
+            messageString += getString(R.string.sleep_more);
+        else if (hoursSlept > 10)
+            messageString += getString(R.string.sleep_less);
+        else
+            messageString += getString(R.string.hello);
+        message.setText(messageString);
+    }
 
     //Replaces overflow menu of Toolbar with custom buttons
     @Override
@@ -140,12 +148,8 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-    //Brian's code - please comment
-    //Uses default time picker dialog to let user set alarm.
-    //Uses Calender to get current time and to set a new calender instance.
 
-
-    private void openTimePickerDialog(boolean is24r){
+    private void openTimePickerDialog(){
         Calendar calendar = Calendar.getInstance();
 
         timePickerDialog = new TimePickerDialog(
@@ -153,20 +157,13 @@ public class MainActivity extends AppCompatActivity {
                 onTimeSetListener,
                 calendar.get(Calendar.HOUR_OF_DAY),
                 calendar.get(Calendar.MINUTE),
-                is24r);
+                false);
         timePickerDialog.setTitle("Set Alarm Time");
-
         timePickerDialog.show();
-
-
-
     }
 
-    //Brian's code - please comment
     //Takes inputted User alarm time and sets alarm
-
-    OnTimeSetListener onTimeSetListener
-            = new OnTimeSetListener(){
+    OnTimeSetListener onTimeSetListener = new OnTimeSetListener(){
 
         @Override
         public void onTimeSet(TimePicker view, int hourOfDay, int minute) {
@@ -179,16 +176,17 @@ public class MainActivity extends AppCompatActivity {
             calSet.set(Calendar.SECOND, 0);
             calSet.set(Calendar.MILLISECOND, 0);
 
-
            if(calSet.compareTo(calNow) <= 0) {
                //Today Set time passed, count to tomorrow
                calSet.add(Calendar.DATE, 1);
            }
-
             //Sets variables from time picker
+            @SuppressLint("SimpleDateFormat")
             SimpleDateFormat time_format = new SimpleDateFormat("HH:mm");
+            @SuppressLint("SimpleDateFormat")
             SimpleDateFormat date_format = new SimpleDateFormat("MM-dd-yyyy");
             date = date_format.format((new Date()));
+
 
             //wake_up = calSet.get(calSet.HOUR_OF_DAY) + ":" + calSet.get(calSet.MINUTE);
             String zero = "0";
@@ -222,24 +220,25 @@ public class MainActivity extends AppCompatActivity {
                 Smin = calNow.get(Calendar.MINUTE)+"";
             }
             sleep = Shour+":"+Smin;
-            setAlarm(calSet, wake_up);
 
 
+
+            setAlarm(wake_up);
             setAlarm(calSet);
+
         }};
+
 
     private void setAlarm(Calendar targetCal) {
     //sets alarm by sending alarm data to a receiver with a pending intent.
     //records time when the alarm was set by the user(not the time the alarm will go off)
-
-        textAlarmPrompt.setText(targetCal.getTime().toString());
         Intent AlarmIntent = new Intent(MainActivity.this, AlarmReceiver.class);
-
 
         alarmIntent = PendingIntent.getBroadcast(MainActivity.this, 0, AlarmIntent, 0);
         alarm.setExact(AlarmManager.RTC_WAKEUP, targetCal.getTimeInMillis(), alarmIntent);
+        alarmIsSet = true;
 
-        try {
+ /*       try {
 
             FileOutputStream fileout = openFileOutput("SleepData.txt", MODE_APPEND);
             OutputStreamWriter outputWriter=new OutputStreamWriter(fileout);
@@ -256,27 +255,27 @@ public class MainActivity extends AppCompatActivity {
 
         } catch (Exception e) {
             e.printStackTrace();
-        }
-
+        } */
     }
 
 
     //Inserts information into database
-    private void setAlarm(Calendar targetCal, String wake_up) {
+    private void setAlarm(String wake_up) {
 
         db.insert(date, wake_up, sleep);
+
         //db.delete("11-28-2019");
         //db.getAll();
-        textAlarmPrompt.setText(targetCal.getTime().toString());
+//        textAlarmPrompt.setText(targetCal.getTime().toString());
+        Cursor cr = db.view();
+        cr.moveToLast();
+//        String s = cr.getString(4);
+        textAlarmPrompt.setText(wake_up);
         try {
-
-
             FileOutputStream fileout=openFileOutput("SleepData.txt", MODE_APPEND);
             OutputStreamWriter outputWriter=new OutputStreamWriter(fileout);
 
             outputWriter.write("SleepTime: "+wake_up+"\n");
-
-
             outputWriter.close();
 
             //display file saved message
@@ -295,33 +294,6 @@ public class MainActivity extends AppCompatActivity {
 
     public static String getSleep(){
         return sleep;
-    }
-
-    //Inserts item into database
-    public void insert(View view) {
-        String s1 = date;
-        String s2 = wake_up;
-        String s3 = sleep;
-        db.insert(s1, s2, s3);
-    }
-
-    //Deletes item from database
-    public void delete(View view) {
-        String s = date;
-        db.delete(s);
-    }
-
-    //Get all entries in database
-    public void view(View view) {
-        db.getAll();
-    }
-
-    // Update database
-    public void update(View view) {
-        String s1 = date;
-        String s2 = wake_up;
-        String s3 = sleep;
-        db.update(s1, s2, s3);
     }
 
 }

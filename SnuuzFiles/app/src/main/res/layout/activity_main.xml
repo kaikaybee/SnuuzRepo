@@ -5,7 +5,8 @@
 
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
-    android:orientation="vertical" >
+    android:orientation="vertical"
+    android:background="@drawable/gradient_background">
 
 
     <androidx.appcompat.widget.Toolbar
@@ -16,27 +17,51 @@
         android:theme="@style/Theme3"
         app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
 
+    <TextView
+        android:id="@+id/alarm_prompt"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#ffffff"
+        android:textSize="150dp"
+        android:gravity="center_horizontal"
+        app:fontFamily="@font/bebasneuebook" />
+
     <Button
         android:id="@+id/startSetDialog"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="@string/set_target_time"/>
+        android:background="#00FFFFFF"
+        android:text="@string/set_target_time"
+        android:textColor="#ffffff"
+        android:textSize="50dp"
+        app:fontFamily="@font/bebasneuebook" />
+
     <Button
         android:id="@+id/cancel"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="@string/cancel_alarm"/>
+        android:background="#00FFFFFF"
+        android:text="@string/cancel_alarm"
+        android:textColor="#ffffff"
+        android:textSize="50dp"
+        app:fontFamily="@font/bebasneuebook" />
+
     <Button
         android:id="@+id/popupBtn"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="Recent Sleep History"/>
+        android:background="#008660D0"
+        android:text="Recent Sleep History"
+        android:textColor="#ffffff"
+        android:textSize="50dp"
+        app:fontFamily="@font/bebasneuebook" />
+
     <TextView
-        android:id="@+id/alarm_prompt"
+        android:id="@+id/text1"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content" />
     <TextView
-        android:id="@+id/text1"
+        android:id="@+id/imperative"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content" />
 

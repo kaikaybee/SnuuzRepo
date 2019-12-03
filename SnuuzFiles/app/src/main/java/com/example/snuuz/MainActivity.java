@@ -27,6 +27,8 @@ import android.widget.TimePicker;
 
 public class MainActivity extends AppCompatActivity {
 
+
+
     Button buttonStartSetDialog;
     Button buttonCancelAlarm;
     Button popUpHistory;
@@ -41,6 +43,7 @@ public class MainActivity extends AppCompatActivity {
     static String wake_up;
     static String sleep;
     static boolean alarmIsSet = false;
+
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -59,8 +62,10 @@ public class MainActivity extends AppCompatActivity {
         popUpHistory.setOnClickListener(new OnClickListener() {
             @Override
             public void onClick(View v) {
-                //db.delete("12-01-2019");
+               // db.insert("12-03-2019", wakey, sleepy);
+               // db.delete(12);
                 db.getAll();
+                //db.getdbObj(3);
             }
         });
 
@@ -144,6 +149,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
+
     private void openTimePickerDialog(){
         Calendar calendar = Calendar.getInstance();
 
@@ -171,25 +177,58 @@ public class MainActivity extends AppCompatActivity {
             calSet.set(Calendar.SECOND, 0);
             calSet.set(Calendar.MILLISECOND, 0);
 
-
-            if(calSet.compareTo(calNow) <= 0){
-                //Today Set time passed, count to tomorrow
-                calSet.add(Calendar.DATE, 1);
-            }
-
+           if(calSet.compareTo(calNow) <= 0) {
+               //Today Set time passed, count to tomorrow
+               calSet.add(Calendar.DATE, 1);
+           }
             //Sets variables from time picker
             @SuppressLint("SimpleDateFormat")
             SimpleDateFormat time_format = new SimpleDateFormat("HH:mm");
             @SuppressLint("SimpleDateFormat")
             SimpleDateFormat date_format = new SimpleDateFormat("MM-dd-yyyy");
             date = date_format.format((new Date()));
-            wake_up = calSet.get(Calendar.HOUR_OF_DAY) + ":" + calSet.get(Calendar.MINUTE);
-            sleep = time_format.format(Calendar.getInstance().getTime());
+
+
+            //wake_up = calSet.get(calSet.HOUR_OF_DAY) + ":" + calSet.get(calSet.MINUTE);
+            String zero = "0";
+            String hour = "";
+            String min = "";
+            if(calSet.get(calSet.HOUR_OF_DAY) < 10){
+                hour = zero+calSet.get(calSet.HOUR_OF_DAY);
+            }
+            else{
+                hour = calSet.get(calSet.HOUR_OF_DAY)+"";
+            }
+            if(calSet.get(calSet.MINUTE) < 10){
+                min = zero+calSet.get(calSet.MINUTE);
+            }
+            else{
+                min = calSet.get(calSet.MINUTE)+"";
+            }
+            wake_up = hour+":"+min;
+            String Shour = "";
+            String Smin = "";
+            if(calNow.get(Calendar.HOUR_OF_DAY) < 10){
+                Shour = zero+calNow.get(Calendar.HOUR_OF_DAY);
+            }
+            else{
+                Shour = calNow.get(Calendar.HOUR_OF_DAY)+"";
+            }
+            if(calNow.get(Calendar.MINUTE) < 10){
+                Smin = zero+calNow.get(Calendar.MINUTE);
+            }
+            else{
+                Smin = calNow.get(Calendar.MINUTE)+"";
+            }
+            sleep = Shour+":"+Smin;
+
+
 
             setAlarm(wake_up);
             setAlarm(calSet);
-        }
-    };
+
+        }};
+
 
     private void setAlarm(Calendar targetCal) {
     //sets alarm by sending alarm data to a receiver with a pending intent.
@@ -211,8 +250,9 @@ public class MainActivity extends AppCompatActivity {
             outputWriter.close();
 
             //display file saved message for testing
-            Toast.makeText(getBaseContext(), "Sleep time saved successfully!"+""+db.getLastSleepTime(),
-                    Toast.LENGTH_SHORT).show();
+            //Toast.makeText(getBaseContext(), "Sleep time saved successfully!"+""+db.getLastSleepTime(),
+                    //Toast.LENGTH_SHORT).show();
+
 
         } catch (Exception e) {
             e.printStackTrace();

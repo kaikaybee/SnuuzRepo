@@ -357,7 +357,7 @@ public class MyDB extends SQLiteOpenHelper{
         if(mins < 0)
             return "Database Empty";
         mins = mins/10;
-        return mins/60 + " hours and " + mins%60 + " minutes";
+        return mins/60 + " hours and " + mins%60 + " mins";
     }
 
     String getAvgDeepSleep(){

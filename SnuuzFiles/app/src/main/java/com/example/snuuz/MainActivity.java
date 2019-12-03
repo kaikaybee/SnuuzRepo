@@ -3,13 +3,15 @@ package com.example.snuuz;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.database.Cursor;
+import android.graphics.drawable.ColorDrawable;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.MenuInflater;
-import androidx.appcompat.widget.Toolbar;
+import androidx.core.content.ContextCompat;
+
 import android.os.Bundle;
-import java.io.FileOutputStream;
-import java.io.OutputStreamWriter;
+//import java.io.FileOutputStream;
+//import java.io.OutputStreamWriter;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
@@ -17,17 +19,9 @@ import java.util.Date;
 import android.app.TimePickerDialog;
 import android.app.TimePickerDialog.OnTimeSetListener;
 
-
-import android.os.Bundle;
-import java.util.Calendar;
-
 import android.app.AlarmManager;
 import android.app.PendingIntent;
-import android.app.TimePickerDialog;
-import android.app.TimePickerDialog.OnTimeSetListener;
-import android.content.Context;
 import android.content.Intent;
-import android.os.Bundle;
 
 import android.view.View;
 import android.view.View.OnClickListener;
@@ -38,48 +32,42 @@ import android.widget.TimePicker;
 
 import android.widget.Toast;
 
-import android.content.Intent;
-import android.app.AlarmManager;
-import android.app.PendingIntent;
-
-import android.view.LayoutInflater;
-
-import org.apache.http.params.CoreConnectionPNames;
-
 
 public class MainActivity extends AppCompatActivity {
 
-            Button buttonStartSetDialog;
-            Button buttonCancelAlarm;
-            Button popUpHistory;
-            TextView textAlarmPrompt;
-            TextView message;
-            AlarmManager alarm;
-            PendingIntent alarmIntent;
+    Button buttonStartSetDialog;
+    Button buttonCancelAlarm;
+    Button popUpHistory;
+    TextView textAlarmPrompt;
+    TextView message;
+    AlarmManager alarm;
+    PendingIntent alarmIntent;
 
-            TimePickerDialog timePickerDialog;
+    TimePickerDialog timePickerDialog;
 
-            static MyDB db;
-            static String date;
-            static String wake_up;
-            static String sleep;
+    static MyDB db;
+    static String date;
+    static String wake_up;
+    static String sleep;
 
-    String wakey = "08:00";
-    String sleepy = "22:00";
 
-            @Override
-            public void onCreate(Bundle savedInstanceState) {
-                super.onCreate(savedInstanceState);
-                setContentView(R.layout.activity_main);
+    @Override
+    public void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
 
-                //Creates database
-                db = new MyDB(this, "Sleep_Tracker", null, 1);
+        // UI action bar and status bar
+        getSupportActionBar().setBackgroundDrawable(new ColorDrawable(ContextCompat.getColor(this, R.color.yourTranslucentColor)));
+        getSupportActionBar().setDisplayShowTitleEnabled(false);
+
+        //Creates database
+        db = new MyDB(this, "Sleep_Tracker", null, 1);
 
 
         alarm = (AlarmManager) getSystemService(ALARM_SERVICE);
         //Sets custom Toolbar to replace built-in actionBar
-        Toolbar myToolbar = findViewById(R.id.main_toolbar);
-        setSupportActionBar(myToolbar);
+//        Toolbar myToolbar = findViewById(R.id.main_toolbar);
+//        setSupportActionBar(myToolbar);
 
         //Brian's code - please comment
         popUpHistory = findViewById(R.id.popupBtn);
@@ -133,7 +121,6 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-
     }
 
     //Replaces overflow menu of Toolbar with custom buttons
@@ -151,11 +138,6 @@ public class MainActivity extends AppCompatActivity {
             case R.id.action_history: {
                 Intent historyIntent = new Intent(MainActivity.this, HistoryActivity.class);
                 startActivity(historyIntent);
-                return true;
-            }
-            case R.id.action_settings: {
-                Intent settingsIntent = new Intent(MainActivity.this, SettingsActivity.class);
-                startActivity(settingsIntent);
                 return true;
             }
             default:
@@ -210,7 +192,7 @@ public class MainActivity extends AppCompatActivity {
             wake_up = calSet.get(calSet.HOUR_OF_DAY) + ":" + calSet.get(calSet.MINUTE);
             sleep = time_format.format(calSet.getInstance().getTime());
 
-            setAlarm(calSet, wake_up);
+//            setAlarm(calSet, wake_up);
 
 
             setAlarm(calSet);
@@ -224,59 +206,59 @@ public class MainActivity extends AppCompatActivity {
         alarmIntent = PendingIntent.getBroadcast(MainActivity.this, 0, AlarmIntent, 0);
         alarm.setExact(AlarmManager.RTC_WAKEUP, targetCal.getTimeInMillis(), alarmIntent);
 
-        try {
+        db.insert(date, wake_up, sleep);
+        Cursor cr = db.view();
+        cr.moveToLast();
+        textAlarmPrompt.setText(wake_up);
 
-            FileOutputStream fileout = openFileOutput("SleepData.txt", MODE_APPEND);
-            OutputStreamWriter outputWriter=new OutputStreamWriter(fileout);
-
-           outputWriter.write("SleepTime: "+Calendar.getInstance().getTime().toString()+"\n");
-
-
-            outputWriter.close();
-
-            //display file saved message for testing
-            Toast.makeText(getBaseContext(), "Sleep time saved successfully!"+""+db.getLastSleepTime(),
-                    Toast.LENGTH_SHORT).show();
-
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
+//        try {
+//
+//            FileOutputStream fileout = openFileOutput("SleepData.txt", MODE_APPEND);
+//            OutputStreamWriter outputWriter=new OutputStreamWriter(fileout);
+//
+//           outputWriter.write("SleepTime: "+Calendar.getInstance().getTime().toString()+"\n");
+//
+//
+//            outputWriter.close();
+//
+//            //display file saved message for testing
+//            Toast.makeText(getBaseContext(), "Sleep time saved successfully!"+""+db.getLastSleepTime(),
+//                    Toast.LENGTH_SHORT).show();
+//
+//        } catch (Exception e) {
+//            e.printStackTrace();
+//        }
 
     }
 
 
     //Inserts information into database
-    private void setAlarm(Calendar targetCal, String wake_up) {
-
-        db.insert(date, wake_up, sleep);
-
-        //db.delete("11-28-2019");
-        //db.getAll();
-//        textAlarmPrompt.setText(targetCal.getTime().toString());
-        Cursor cr = db.view();
-        cr.moveToLast();
-//        String s = cr.getString(4);
-        textAlarmPrompt.setText(wake_up);
-        try {
-
-
-            FileOutputStream fileout=openFileOutput("SleepData.txt", MODE_APPEND);
-            OutputStreamWriter outputWriter=new OutputStreamWriter(fileout);
-
-            outputWriter.write("SleepTime: "+wake_up+"\n");
-
-
-            outputWriter.close();
-
-            //display file saved message
-            //Toast.makeText(getBaseContext(), "File saved successfully!",
-                    //Toast.LENGTH_SHORT).show();
-
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
-
-    }
+//    private void setAlarm(Calendar targetCal, String wake_up) {
+//
+//        db.insert(date, wake_up, sleep);
+//        Cursor cr = db.view();
+//        cr.moveToLast();
+//        textAlarmPrompt.setText(wake_up);
+//        try {
+//
+//
+//            FileOutputStream fileout=openFileOutput("SleepData.txt", MODE_APPEND);
+//            OutputStreamWriter outputWriter=new OutputStreamWriter(fileout);
+//
+//            outputWriter.write("SleepTime: "+wake_up+"\n");
+//
+//
+//            outputWriter.close();
+//
+//            //display file saved message
+//            //Toast.makeText(getBaseContext(), "File saved successfully!",
+//                    //Toast.LENGTH_SHORT).show();
+//
+//        } catch (Exception e) {
+//            e.printStackTrace();
+//        }
+//
+//    }
 
     public static String getDate(){
         return date;
@@ -285,5 +267,4 @@ public class MainActivity extends AppCompatActivity {
     public static String getSleep(){
         return sleep;
     }
-
 }

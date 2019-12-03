@@ -1,35 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
     android:orientation="vertical"
     android:background="@drawable/gradient_background">
 
-
-    <androidx.appcompat.widget.Toolbar
-        android:id="@+id/main_toolbar"
-        android:layout_width="match_parent"
-        android:layout_height="?attr/actionBarSize"
-        android:background="?attr/colorPrimary"
-        android:theme="@style/Theme3"
-        app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
-
     <TextView
         android:id="@+id/alarm_prompt"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
+        android:layout_above="@+id/imperative"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="136dp"
+        android:layout_marginBottom="39dp"
+        android:gravity="center_horizontal"
         android:textColor="#ffffff"
         android:textSize="150dp"
+        app:fontFamily="@font/bebasneuebook" />
+
+    <TextView
+        android:id="@+id/imperative"
+        android:layout_width="453dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="24dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="321dp"
         android:gravity="center_horizontal"
+        android:textSize="27dp"
         app:fontFamily="@font/bebasneuebook" />
 
     <Button
         android:id="@+id/startSetDialog"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
+        android:layout_above="@+id/cancel"
+        android:layout_marginBottom="17dp"
         android:background="#00FFFFFF"
         android:text="@string/set_target_time"
         android:textColor="#ffffff"
@@ -40,6 +49,8 @@
         android:id="@+id/cancel"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
+        android:layout_above="@+id/popupBtn"
+        android:layout_marginBottom="17dp"
         android:background="#00FFFFFF"
         android:text="@string/cancel_alarm"
         android:textColor="#ffffff"
@@ -50,21 +61,14 @@
         android:id="@+id/popupBtn"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="82dp"
         android:background="#008660D0"
         android:text="Recent Sleep History"
         android:textColor="#ffffff"
         android:textSize="50dp"
         app:fontFamily="@font/bebasneuebook" />
 
-    <TextView
-        android:id="@+id/text1"
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content" />
-    <TextView
-        android:id="@+id/imperative"
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content" />
-
-</LinearLayout>
+</RelativeLayout>
 
 

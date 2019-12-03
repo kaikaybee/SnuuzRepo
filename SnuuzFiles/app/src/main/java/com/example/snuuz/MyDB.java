@@ -10,8 +10,8 @@ import android.widget.Toast;
 
 public class MyDB extends SQLiteOpenHelper{
 
-    Context ctx;
-    SQLiteDatabase db;
+    private Context ctx;
+    private SQLiteDatabase db;
     private static String DB_NAME = "Sleep_Tracker";
     private static String TABLE_NAME = "sleep_tracker_table";
     private  static int VERSION = 1;
@@ -37,7 +37,7 @@ public class MyDB extends SQLiteOpenHelper{
         onCreate(db);
     }
 
-    public long insert(String s1, String s2, String s3){
+    long insert(String s1, String s2, String s3){
         db = getWritableDatabase();
         ContentValues cv = new ContentValues();
         cv.put("date", s1);
@@ -46,7 +46,7 @@ public class MyDB extends SQLiteOpenHelper{
         return db.insert(TABLE_NAME, null, cv);
     }
 
-    public void getAll(){
+    void getAll(){
         db = getReadableDatabase();
         Cursor cr = db.rawQuery("select * from " + TABLE_NAME + ";", null );
         StringBuilder sr = new StringBuilder();
@@ -68,7 +68,7 @@ public class MyDB extends SQLiteOpenHelper{
         db.delete(TABLE_NAME, "date = ?", new String[]{s});
     }
 
-    public void update(String s1, String s2, String s3){
+    void update(String s1, String s2, String s3){
         db = getWritableDatabase();
         ContentValues cv = new ContentValues();
         cv.put("date", s1);
@@ -77,7 +77,7 @@ public class MyDB extends SQLiteOpenHelper{
         db.update(TABLE_NAME, cv,  "date = ?", new String[]{s1});
     }
 
-    public Cursor view() {
+    Cursor view() {
         SQLiteDatabase db = this.getReadableDatabase();
         Cursor cursor = db.rawQuery("select * from " + TABLE_NAME + ";", null);
 //        StringBuilder sr = new StringBuilder();
@@ -85,10 +85,9 @@ public class MyDB extends SQLiteOpenHelper{
 //        sr.append(cursor.getString(3));
 //        Toast.makeText(ctx, sr.toString(), Toast.LENGTH_LONG).show();
         return cursor;
-
     }
 
-    public int getLastSleepHours(){
+    int getLastSleepHours(){
         db = getReadableDatabase();
         Cursor cr = db.rawQuery("select * from " + TABLE_NAME + ";", null );
         cr.moveToLast();
@@ -96,31 +95,23 @@ public class MyDB extends SQLiteOpenHelper{
 
     }
 
-    public String getLastSleepTime(){
+    String getLastSleepTime(){
         db = getReadableDatabase();
         Cursor cr = db.rawQuery("select * from " + TABLE_NAME + ";", null );
         cr.moveToLast();
         return timeSlept(cr.getString(2), cr.getString(3));
     }
 
-    static int hoursSlept(String wake, String Sleep){
-        String wakeHourString = wake.substring(0, 2);
-        int wakeHour= Integer.parseInt(wakeHourString);
-
-        String SleepHourString = Sleep.substring(0, 2);
-        int SleepHour = Integer.parseInt(SleepHourString);
-
-        String wakeMinString = wake.substring(3, 5);
-        int wakeMin = Integer.parseInt(wakeMinString);
-
-        String SleepMinString = Sleep.substring(3, 5);
-        int SleepMin = Integer.parseInt(SleepMinString);
-
-        int minDiff = wakeMin - SleepMin;
+    private static int hoursSlept(String wake, String sleep){
+        int wakeHour  = hoursToInt(wake);
+        int sleepHour = hoursToInt(sleep);
+        int wakeMin   = minsToInt(wake);
+        int sleepMin  = minsToInt(sleep);
+        int minDiff   = wakeMin - sleepMin;
         if(minDiff < 0){
-            wakeHour -=1;
+            wakeHour -= 1;
         }
-        int hourDiff = wakeHour - SleepHour;
+        int hourDiff = wakeHour - sleepHour;
         if(hourDiff < 0){
             hourDiff += 24;
         }
@@ -128,13 +119,9 @@ public class MyDB extends SQLiteOpenHelper{
         return hourDiff;
     }
 
-    static int minsSlept(String wake, String sleep){
-        String wakeMinString = wake.substring(3, 5);
-        int wakeMin = Integer.parseInt(wakeMinString);
-
-        String sleepMinString = sleep.substring(3, 5);
-        int sleepMin = Integer.parseInt(sleepMinString);
-
+    private static int minsSlept(String wake, String sleep){
+        int wakeMin = minsToInt(wake);
+        int sleepMin = minsToInt(sleep);
         int minDiff = wakeMin - sleepMin;
         if(minDiff < 0){
             minDiff += 60;
@@ -143,10 +130,15 @@ public class MyDB extends SQLiteOpenHelper{
         return minDiff;
     }
 
-    static String timeSlept(String wake, String sleep){
-        String returnString = "";
+    private static String timeSlept(String wake, String sleep){
         int hours = hoursSlept(wake, sleep);
         int mins = minsSlept(wake, sleep);
+
+        return intsToTime(hours, mins);
+    }
+
+    private static String intsToTime(int hours, int mins){
+        String returnString = "";
         if(hours%10 == hours)
             returnString += "0";
         returnString += hours+":";
@@ -156,12 +148,46 @@ public class MyDB extends SQLiteOpenHelper{
         return returnString;
     }
 
+    private static int hoursToInt(String time){
+        return Integer.parseInt(time.substring(0, 2));
+    }
+
+    private static int minsToInt(String time){
+        return Integer.parseInt(time.substring(3, 5));
+    }
+
     public String getAvgBedTime(){
-        return "";
+        db = getReadableDatabase();
+        Cursor cr = db.rawQuery("select * from " + TABLE_NAME + ";", null );
+        int time = 0;
+        int count = 0;
+        while(cr.moveToNext()){
+            time+= 60*hoursToInt(cr.getString(2));
+            time+= minsToInt(cr.getString(2));
+            count++;
+        }
+        time = time / count;
+        int hours = time / 60;
+        int mins = time % 60;
+        cr.close();
+        return intsToTime(hours, mins);
     }
 
     public String getAvgWakeUpTime(){
-        return "";
+        db = getReadableDatabase();
+        Cursor cr = db.rawQuery("select * from " + TABLE_NAME + ";", null );
+        int time = 0;
+        int count = 0;
+        while(cr.moveToNext()){
+            time+= 60*hoursToInt(cr.getString(2));
+            time+= minsToInt(cr.getString(2));
+            count++;
+        }
+        time = time / count;
+        int hours = time / 60;
+        int mins = time % 60;
+        cr.close();
+        return intsToTime(hours, mins);
     }
 
     public String getAvgSleepTime(){
@@ -178,22 +204,57 @@ public class MyDB extends SQLiteOpenHelper{
         double avgHours = (double)totalHours/count;
         double avgMins = (double)totalMins/count;
 
+        cr.close();
         return avgHours+":"+avgMins;
     }
 
     public double getAvgSleepCycles(){
-      return 0.0;
+        String sleepTime = getAvgSleepTime();
+        int mins = hoursToInt(sleepTime)*60 + minsToInt(sleepTime);
+        double sleepCycles = 0;
+        if(mins > 90){
+            mins -= 90;
+            sleepCycles += 1;
+            sleepCycles += (double)mins/110;
+        }
+        else
+            sleepCycles += (double)mins/90;
+
+        return sleepCycles;
     }
 
     public String getAvgRem(){
-        return "";
+        String sleepTime = getAvgSleepTime();
+        int mins = hoursToInt(sleepTime)*60 + minsToInt(sleepTime);
+        mins = mins/10;
+        return "Your average rem time is: "+ mins/60 + " hours and " + mins%60 + " minutes";
     }
 
     public String getAvgDeepSleep(){
-        return "";
+        String sleepTime = getAvgSleepTime();
+        int mins = hoursToInt(sleepTime)*60 + minsToInt(sleepTime);
+        mins = (mins/10)*4;
+        return "Your average deep sleep time is: "+ mins/60 + " hours and " + mins%60 + " minutes";
     }
 
     public double getStdDev(){
-        return 0.0;
+        db = getReadableDatabase();
+        Cursor cr = db.rawQuery("select * from " + TABLE_NAME + ";", null );
+        String avgSleepTime = getAvgSleepTime();
+        int avgMins = hoursToInt(avgSleepTime)*60 + minsToInt(avgSleepTime);
+        int diffSquaredTotal = 0;
+        int currentMins = 0;
+        int count = 0;
+        while(cr.moveToNext()){
+            currentMins = hoursSlept(cr.getString(3), cr.getString(2))*60
+                    + minsSlept(cr.getString(3), cr.getString(2));
+            diffSquaredTotal += (currentMins - avgMins)^2;
+            count++;
+        }
+        double stdDev = 0;
+        if(count > 1)
+            stdDev = diffSquaredTotal/(count-1);
+
+        return stdDev;
     }
 }
